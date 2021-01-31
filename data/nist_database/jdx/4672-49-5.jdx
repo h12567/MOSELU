@@ -1,0 +1,52 @@
+##TITLE=Library Entry 49323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1,2-Ethanediol dimethanesulphonate
+##MOLFORM=C4H10O6S2
+##CAS REGISTRY NO=4672-49-5
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26          6
+    27         17
+    29         58
+    30          9
+    31         47
+    39          6
+    41          9
+    43         77
+    44         39
+    45         86
+    48         19
+    57          9
+    58          6
+    59         11
+    63         28
+    64         24
+    65         39
+    79        999
+    80         49
+    81         56
+    93         15
+    94         58
+    97          6
+   109        247
+   110          9
+   111         28
+   122         69
+   123         17
+   143         71
+   145          6
+   149          3
+   158        421
+   159         17
+   160         43
+   175          9
+   188         32

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 1465
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-hydroxy-
+##MOLFORM=C3H5NO
+##CAS REGISTRY NO=109-78-4
+##MP= -300
+##BP= -300
+##MW= 71
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12         11
+    13         13
+    14         34
+    15         67
+    16          0
+    17          5
+    18          5
+    19          1
+    24          6
+    25         19
+    26         71
+    27         71
+    28         81
+    29        204
+    30          0
+    31        999
+    32         11
+    33          2
+    34          1
+    36          4
+    37         10
+    38         44
+    39         54
+    40        109
+    41        728
+    42        114
+    43         28
+    44          5
+    50          8
+    51         41
+    52         47
+    53          8
+    54          8
+    66          1
+    67          6
+    68          7
+    70          1
+    72          1

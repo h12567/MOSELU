@@ -1,0 +1,36 @@
+##TITLE=Library Entry 8325
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Szymanowski ET AL. J.Chromatogr.,458,131(1988)
+##NAMES=HP
+##CAS NAME=1-Acetoxy-2-(2-chloroethoxy)ethane
+##MOLFORM=C6H11ClO3
+##CAS REGISTRY NO=14258-40-3
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=1757
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    15         86
+    27        150
+    29         52
+    31         56
+    41         33
+    42         60
+    43        999
+    44         78
+    45         60
+    55         30
+    57         37
+    62         41
+    63        225
+    64         33
+    65         63
+    73         41
+    87        176
+    88         22
+    93         90
+   106         56
+   108         20

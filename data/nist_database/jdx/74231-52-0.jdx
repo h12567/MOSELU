@@ -1,0 +1,52 @@
+##TITLE=Library Entry 87296
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(23)7601(1977); B. M. TROST
+##NAMES=HP
+##CAS NAME=Cyclopropanol, 1-[2-methyl-1-(phenylthio)cyclohexyl]-
+##MOLFORM=C16H22OS
+##CAS REGISTRY NO=74231-52-0
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39        230
+    41        260
+    43        100
+    45         70
+    50         70
+    51        120
+    53        120
+    54        110
+    55        290
+    56         70
+    57        120
+    65        140
+    66        280
+    67        410
+    68        200
+    69        150
+    77        160
+    78         50
+    79        100
+    82        490
+    84        110
+    91         50
+    93         60
+    95        580
+    96        230
+    97         80
+   108         70
+   109        350
+   110        999
+   111        100
+   123        100
+   124        100
+   134         50
+   137         50
+   152         70
+   205        150
+   262          1

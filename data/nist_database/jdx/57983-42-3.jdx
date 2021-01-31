@@ -1,0 +1,77 @@
+##TITLE=Library Entry 8588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=L-Leucine, N-(trifluoroacetyl)-, 1-methylbutyl ester
+##MOLFORM=C13H22F3NO3
+##CAS REGISTRY NO=57983-42-3
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    40         15
+    41        267
+    42         77
+    43        999
+    44         75
+    45         39
+    47          1
+    49          3
+    50          3
+    51          5
+    53         18
+    54          9
+    55        103
+    56         16
+    57         33
+    59          3
+    67         18
+    68         18
+    69        686
+    70        112
+    71        309
+    72         23
+    73          6
+    74          2
+    78          8
+    88          2
+    95          2
+    96          6
+    97          4
+    98          3
+    99          9
+   112          2
+   113         10
+   114         45
+   115          3
+   126         34
+   130          9
+   131          1
+   138          4
+   139         21
+   140        429
+   141         24
+   142          1
+   152          2
+   153         32
+   154          6
+   158          1
+   166         28
+   168         66
+   169          5
+   171         25
+   180          4
+   181          3
+   182        246
+   183        157
+   184         18
+   185          1
+   208          4
+   210         33
+   212          8
+   228          5

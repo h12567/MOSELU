@@ -1,0 +1,41 @@
+##TITLE=Library Entry 23158
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2-oxo-, methyl ester
+##MOLFORM=C5H8O3
+##CAS REGISTRY NO=3952-66-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=832
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         61
+    16          1
+    26         13
+    27         80
+    28         43
+    29        548
+    30         14
+    31          7
+    41          2
+    42          8
+    43          4
+    44          1
+    45         22
+    55         13
+    56         54
+    57        999
+    58         31
+    59        108
+    60         10
+    87          1
+    88          1
+   101          1
+   116        137
+   117          7
+   118          1

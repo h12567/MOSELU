@@ -1,0 +1,37 @@
+##TITLE=Library Entry 50412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.L. MILLER, DEP. CHEM., UNIV. MINNESOTA, MINN., USA
+##NAMES=HP
+##CAS NAME=1-Methyl-3-(1'-methylcyclopropyl)cyclopentene
+##MOLFORM=C10H16
+##CAS REGISTRY NO=103240-53-5
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    32         50
+    39        330
+    41        350
+    43         40
+    51        100
+    53        230
+    55        100
+    63         20
+    65         60
+    77        260
+    79        450
+    81        999
+    82         70
+    91        260
+    93        990
+    94        200
+   103         10
+   105         50
+   108        950
+   109         60
+   121        100
+   136         80

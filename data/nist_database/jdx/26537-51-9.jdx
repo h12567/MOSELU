@@ -1,0 +1,29 @@
+##TITLE=Library Entry 8778
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sydnone, 3-isopentyl-
+##MOLFORM=C7H12N2O2
+##CAS REGISTRY NO=26537-51-9
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        210
+    40         10
+    41        440
+    42         20
+    43        999
+    44         80
+    55        320
+    56         50
+    69         90
+    70        200
+    71        930
+    72         90
+   156        280
+   157         20

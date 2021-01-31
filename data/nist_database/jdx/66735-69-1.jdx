@@ -1,0 +1,68 @@
+##TITLE=Library Entry 23132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=1-(Methylthio)-3-pentanone
+##MOLFORM=C6H12OS
+##CAS REGISTRY NO=66735-69-1
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1080
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        287
+    28        110
+    29        855
+    30         20
+    31          5
+    34          4
+    35         58
+    37          3
+    38          3
+    39         26
+    40         38
+    41        190
+    42         15
+    43         96
+    44          7
+    45        101
+    46         57
+    47        179
+    48         41
+    49         53
+    50          5
+    51          5
+    53          7
+    55         85
+    56         29
+    57        999
+    58         35
+    59         54
+    60         24
+    61        805
+    62         27
+    63         37
+    67          7
+    71          4
+    73         13
+    74         22
+    75        695
+    76         33
+    77         31
+    83         18
+    84         17
+    85        289
+    86         19
+    99          3
+   103        201
+   104         39
+   105         10
+   117         12
+   132        591
+   133         46
+   134         29

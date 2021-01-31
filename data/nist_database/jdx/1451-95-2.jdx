@@ -1,0 +1,64 @@
+##TITLE=Library Entry 88548
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2,3-Thiophenedicarboxylic acid
+##MOLFORM=C6H4O4S
+##CAS REGISTRY NO=1451-95-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=1618
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         18
+    27         30
+    29         18
+    36         19
+    37         67
+    38        119
+    39        379
+    40         21
+    41         13
+    43          5
+    44         96
+    45        330
+    46         11
+    47         11
+    49         31
+    50         38
+    51         16
+    53         42
+    55         82
+    56         23
+    57        110
+    58         66
+    60         21
+    66         16
+    67         16
+    69         63
+    71         55
+    73         24
+    77         31
+    81         93
+    82        130
+    83        214
+    84         83
+    85         20
+    95         12
+    97         11
+   100         13
+   109         13
+   110         60
+   111        999
+   112         66
+   113         49
+   128        623
+   129         36
+   130         36
+   155        143
+   172        319
+   173         20
+   174         12

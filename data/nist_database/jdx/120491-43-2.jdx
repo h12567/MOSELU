@@ -1,0 +1,42 @@
+##TITLE=Library Entry 57752
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Vinyldimethyl(N-methylcarbamoyloxymethyl)silane
+##MOLFORM=C7H15NO2Si
+##CAS REGISTRY NO=120491-43-2
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    57         28
+    58         40
+    59        537
+    60         56
+    61         48
+    71         76
+    72         58
+    73         35
+    74         60
+    75        101
+    85         67
+    86         50
+    87         18
+    88        999
+    89        107
+    90         46
+    98         20
+    99         31
+   100        176
+   101         35
+   102         21
+   105         50
+   107          6
+   114         72
+   132         20
+   146         30
+   158         41

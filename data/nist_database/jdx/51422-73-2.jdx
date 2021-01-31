@@ -1,0 +1,49 @@
+##TITLE=Library Entry 57322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. M. PECHINE
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-bromo-2-fluoro-, trans-
+##MOLFORM=C5H8BrF
+##CAS REGISTRY NO=51422-73-2
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27        115
+    28         46
+    30         19
+    32         44
+    37         19
+    38         27
+    39        338
+    40         54
+    41        708
+    42         49
+    45         17
+    46         13
+    47         11
+    50         10
+    51         27
+    53         22
+    57         47
+    58         13
+    59        628
+    60         36
+    63         13
+    65         46
+    66         33
+    67        916
+    68         56
+    85        153
+    86         75
+    87        999
+    88         55
+   106         46
+   107         10
+   108         44
+   166        172
+   168        167

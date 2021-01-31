@@ -1,0 +1,54 @@
+##TITLE=Library Entry 2618
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA
+##NAMES=HP
+##CAS NAME=O-Ethyl selenohexanoate
+##MOLFORM=C8H16OSe
+##CAS REGISTRY NO=62448-78-6
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        350
+    29        550
+    39        270
+    41        999
+    42        180
+    43        770
+    45         50
+    53         60
+    54        880
+    55        540
+    57        360
+    60        100
+    61         60
+    68        380
+    69        320
+    70        110
+    71        260
+    72         60
+    81        120
+    82        270
+    85         60
+    88        290
+    96        190
+    99        320
+   101         70
+   120         50
+   121         40
+   122        110
+   124        220
+   126         40
+   127        150
+   150         30
+   152         60
+   204         40
+   205         30
+   206         90
+   208        180
+   209         20
+   210         30

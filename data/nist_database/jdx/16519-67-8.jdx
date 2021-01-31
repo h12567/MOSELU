@@ -1,0 +1,47 @@
+##TITLE=Library Entry 19502
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2,2-diethyl-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=16519-67-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        392
+    42         81
+    43        135
+    51         16
+    53         57
+    54         27
+    55        999
+    56        122
+    57         41
+    62         22
+    64         65
+    65         41
+    66        297
+    67         81
+    68         14
+    77         19
+    79         22
+    81        135
+    82         27
+    83         54
+    84        108
+    85         16
+    95         54
+    96         11
+    97        311
+    98         38
+   107         22
+   110        284
+   111         41
+   125         81
+   126        351
+   127         27

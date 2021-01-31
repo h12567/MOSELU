@@ -1,0 +1,57 @@
+##TITLE=Library Entry 85217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,4-Benzenediamine, N,N'-bis[(2-methoxyphenyl)methylene]-
+##MOLFORM=C22H20N2O2
+##CAS REGISTRY NO=24588-85-0
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    50         21
+    51         46
+    63         31
+    64         26
+    65         48
+    75         41
+    76         92
+    77         70
+    78         31
+    89         26
+    90         17
+    91        436
+    92         58
+   107        131
+   108        999
+   109         72
+   119        499
+   120         72
+   121         29
+   139         48
+   140         31
+   141         26
+   149         17
+   150         41
+   151         34
+   165         19
+   166         55
+   167         92
+   168         19
+   172         63
+   173         21
+   194         34
+   195         68
+   196         29
+   209         12
+   210         29
+   211         17
+   225        313
+   226        174
+   344        432
+   345        126
+   346         29

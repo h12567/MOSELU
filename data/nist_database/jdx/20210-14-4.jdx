@@ -1,0 +1,41 @@
+##TITLE=Library Entry 57089
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,3-Dioxolane, 2-(4-bromobutyl)-2-methyl-
+##MOLFORM=C8H15BrO2
+##CAS REGISTRY NO=20210-14-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         79
+    42         29
+    43        584
+    44         19
+    45         29
+    53         19
+    54          9
+    55        138
+    56          9
+    64          9
+    67          9
+    71         29
+    81         19
+    83          9
+    85         79
+    86          9
+    87        999
+    88         49
+    99         29
+   135         29
+   137         29
+   207        138
+   208          9
+   209        128
+   210          9

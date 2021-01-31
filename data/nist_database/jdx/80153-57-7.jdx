@@ -1,0 +1,54 @@
+##TITLE=Library Entry 85980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Chloro-1,1-dimethyl-4,4,4,-trivinyldisilethylene
+##MOLFORM=C10H19ClSi2
+##CAS REGISTRY NO=80153-57-7
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    54        177
+    57        228
+    58        270
+    59        246
+    71        171
+    72         10
+    73         32
+    81        147
+    82         46
+    83        398
+    84         50
+    85        221
+    86        535
+    87         67
+    88         20
+    93        157
+    94         21
+    95         49
+    97        198
+    98         42
+    99         16
+   108         57
+   109        999
+   110        164
+   111         58
+   117         19
+   174         73
+   175         81
+   176        190
+   177         57
+   178         59
+   179         30
+   202         71
+   203         80
+   204         28
+   215         53
+   217         19
+   230         30
+   232          8

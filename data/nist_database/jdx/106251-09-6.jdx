@@ -1,0 +1,50 @@
+##TITLE=Library Entry 51763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=1H-Pyrazole, 4,5-dihydro-5,5-dimethyl-4-isopropylidene-
+##MOLFORM=C8H14N2
+##CAS REGISTRY NO=106251-09-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    38          6
+    39        174
+    40         25
+    41         92
+    42         19
+    43         15
+    50          6
+    51         21
+    52         14
+    53         67
+    54        163
+    55         58
+    56         10
+    57          6
+    65         14
+    66          6
+    67         58
+    68         24
+    69         14
+    77         29
+    78          6
+    79         28
+    80          6
+    81         18
+    82        999
+    83         61
+    91         11
+    93          8
+    95         67
+    96         23
+   110          9
+   123         20
+   124          1
+   138        184
+   139         19

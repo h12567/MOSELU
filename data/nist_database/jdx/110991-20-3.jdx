@@ -1,0 +1,82 @@
+##TITLE=Library Entry 23565
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,3,5,7,9,11,13,15-Octaethyl-7,13-dibutoxytetracyclo[9.5.1.1(3,9)
+.1(5,1)5)]octasiloxane
+##MOLFORM=C24H58O13Si8
+##CAS REGISTRY NO=110991-20-3
+##MP= -300
+##BP= -300
+##MW= 778
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    27         56
+    41        681
+    42        225
+    43        354
+    44        238
+    45         41
+    55        252
+    56        428
+    57        999
+    58         65
+    59         17
+    67         50
+    68         27
+    69        102
+    70         66
+    71        129
+    73        218
+    74         28
+    75         21
+    76         17
+    77         29
+    78         24
+    81         76
+    82         31
+    83         86
+    84         25
+    85         93
+    91         21
+    95         48
+    96         25
+    97         91
+    98         21
+    99         19
+   104         20
+   105         27
+   109         46
+   110         28
+   111         43
+   112         22
+   259         36
+   260         16
+   295         24
+   297         16
+   313         45
+   314         36
+   315         31
+   325         60
+   326         19
+   327         23
+   369         57
+   370         19
+   607         72
+   608         40
+   619        158
+   620         85
+   621         67
+   637        376
+   638        230
+   639        189
+   649         77
+   650         41
+   651         35
+   749        149
+   750         80
+   751         64
+   752         34

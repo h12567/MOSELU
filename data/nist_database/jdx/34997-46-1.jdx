@@ -1,0 +1,65 @@
+##TITLE=Library Entry 31166
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 1-methylethyl ester
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=34997-46-1
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=1120
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27         19
+    29          7
+    31          7
+    36         25
+    41        165
+    42        429
+    43        989
+    44         45
+    45         37
+    55        168
+    56         37
+    57        245
+    58         27
+    59        165
+    60        842
+    61        999
+    62         37
+    63          7
+    64         18
+    68         36
+    69        134
+    72          7
+    73        478
+    74         78
+    75         78
+    83        199
+    84        115
+    85        349
+    86         18
+    87        461
+    88         27
+    89        349
+    90         18
+    95         45
+    97          7
+   101        155
+   102        361
+   103         68
+   111         26
+   112          7
+   113        663
+   114         96
+   115        133
+   116          7
+   129         65
+   130        125
+   131        488
+   132        115
+   143          7
+   173         38

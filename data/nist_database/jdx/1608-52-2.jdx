@@ -1,0 +1,37 @@
+##TITLE=Library Entry 47720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Propen-1-one, 3-(3-fluorophenyl)-1-phenyl-
+##MOLFORM=C15H11FO
+##CAS REGISTRY NO=1608-52-2
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50        322
+    51        566
+    63         81
+    75        338
+    76        109
+    77        999
+    95        109
+   101        292
+   102         60
+   105        453
+   121        200
+   130         39
+   149        363
+   173        109
+   178         30
+   179         19
+   196        109
+   197        300
+   198        130
+   207         59
+   225        733
+   226        921

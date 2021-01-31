@@ -1,0 +1,67 @@
+##TITLE=Library Entry 14301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. VLADIMIR INSTITUTE OF CHEMISTRY BRATISLAVA CZECHOSLO
+VAKIA
+##NAMES=HP
+##CAS NAME=.alpha.-D-Galactopyranuronic acid, 1,2:3,4-bis-O-(1-methylethylid
+ene)-, methyl ester
+##MOLFORM=C13H20O7
+##CAS REGISTRY NO=18524-41-9
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27         60
+    29         83
+    31         73
+    39         55
+    41        123
+    43        999
+    45         32
+    55         58
+    57         40
+    58         70
+    59        386
+    60         27
+    69         34
+    71        261
+    73         69
+    83        104
+    84         88
+    85        292
+    86         27
+    95         64
+    97         33
+    99         49
+   100        268
+   101         87
+   111         20
+   113        288
+   114         40
+   115         38
+   127        283
+   128         25
+   129         34
+   141        242
+   142         25
+   143         87
+   144         10
+   145         11
+   155        112
+   156         18
+   171         88
+   172         19
+   173         41
+   197         42
+   199         13
+   215        150
+   216         13
+   229         54
+   230         10
+   273        890
+   274        140
+   288          6

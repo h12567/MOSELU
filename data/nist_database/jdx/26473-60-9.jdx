@@ -1,0 +1,36 @@
+##TITLE=Library Entry 81256
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.E.HILL VICTORIA COLLEGE, JERSEY, CHANNEL ISLANDS
+##NAMES=HP
+##CAS NAME=Benzene, (2-methoxy-2-propenyl)-
+##MOLFORM=C10H12O
+##CAS REGISTRY NO=26473-60-9
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    77        340
+    78        160
+    79        300
+    89        200
+    90        180
+    91        380
+    92        120
+   103        240
+   104        140
+   105        999
+   106        160
+   115        240
+   116        160
+   117        180
+   118        120
+   133        240
+   134        100
+   146        120
+   147        180
+   148        940
+   149        180

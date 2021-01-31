@@ -1,0 +1,48 @@
+##TITLE=Library Entry 15493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 4-(dimethylamino)-4-ethoxy-
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=49582-71-0
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    39         40
+    40         30
+    41         60
+    42        220
+    43        350
+    44        999
+    45        240
+    46        390
+    55        100
+    56        125
+    58         70
+    68         40
+    69        140
+    70        290
+    71         50
+    77        270
+    81         30
+    84         20
+    85        230
+    86        110
+    87        125
+    96         20
+    98        180
+   100         30
+   112         70
+   113        150
+   114        190
+   115         20
+   128         20
+   129         70
+   140         50
+   142         80
+   157        270

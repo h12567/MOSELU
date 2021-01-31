@@ -1,0 +1,47 @@
+##TITLE=Library Entry 77959
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 3-chlorobutanoate
+##MOLFORM=C5H8Cl2O2
+##CAS REGISTRY NO=80418-48-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    36         19
+    39        208
+    41        760
+    42        318
+    43        228
+    49        442
+    51        150
+    55         40
+    56         19
+    57        130
+    62         10
+    63        140
+    65         50
+    68         10
+    69        238
+    70        100
+    71         40
+    72         20
+    76        101
+    77        490
+    78         40
+    79        169
+    85        250
+    91         39
+    93        169
+   104        278
+   105        999
+   106        180
+   107        339
+   134         49
+   135        487
+   137        169

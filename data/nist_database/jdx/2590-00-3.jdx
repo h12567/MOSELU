@@ -1,0 +1,63 @@
+##TITLE=Library Entry 9379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Acetamido-1-phenylpyrazole
+##MOLFORM=C11H11N3O
+##CAS REGISTRY NO=2590-00-3
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    34         17
+    36         15
+    37         43
+    38         84
+    39        144
+    40        172
+    41        102
+    42        291
+    43        999
+    44         99
+    45         12
+    50        337
+    51        488
+    52         70
+    53         26
+    54         15
+    55         33
+    56         35
+    57         12
+    62         21
+    63         37
+    64         21
+    65         17
+    66         11
+    69          9
+    72          9
+    73         16
+    74         64
+    75         83
+    76        198
+    77        745
+    78         93
+    79         10
+   103        219
+   104        738
+   105        121
+   106          9
+   130         85
+   131        264
+   132        276
+   133         23
+   156         11
+   158        160
+   159        324
+   160         35
+   199         44
+   201        482
+   202         44

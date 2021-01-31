@@ -1,0 +1,78 @@
+##TITLE=Library Entry 82820
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Ethyl 3-hydroxy-3-(4-methylcyclohex-3-enyl)propionate
+##MOLFORM=C12H20O3
+##CAS REGISTRY NO=85426-49-9
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    41        385
+    42         72
+    43        470
+    44         24
+    45        169
+    53        241
+    54         72
+    55        440
+    57        199
+    60         84
+    61         96
+    65         84
+    67        542
+    68        132
+    70         48
+    71        361
+    74        217
+    76         72
+    77        337
+    78         72
+    79        638
+    80        108
+    81        193
+    88         48
+    89         84
+    91        458
+    92        687
+    93        602
+    94        168
+    95        313
+    96         60
+    97         48
+   102        229
+   105        747
+   106        999
+   107        385
+   108         24
+   109         60
+   117         84
+   119        156
+   120        398
+   121        132
+   122         30
+   123         30
+   124         60
+   125        168
+   130         48
+   131          6
+   132          6
+   133         84
+   134         36
+   144         18
+   147         60
+   148        458
+   149         72
+   162         18
+   165         12
+   166         18
+   167         30
+   194        144
+   195         36
+   212         60
+   213          8

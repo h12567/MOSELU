@@ -1,0 +1,65 @@
+##TITLE=Library Entry 67968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Nonyne
+##MOLFORM=C9H16
+##CAS REGISTRY NO=19447-29-1
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=941
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14         16
+    15          8
+    16          8
+    26         32
+    27        333
+    28         15
+    29        176
+    37          8
+    38         35
+    39        458
+    40        101
+    41        599
+    42        124
+    43        364
+    44         21
+    50         62
+    51        135
+    52         91
+    53        360
+    54        334
+    55        366
+    56         60
+    57          9
+    62         13
+    63         33
+    64         10
+    65        111
+    66         75
+    67        724
+    68        361
+    69        149
+    70         29
+    71          7
+    77         78
+    78         21
+    79        201
+    80         52
+    81        356
+    82         98
+    83         20
+    91         29
+    92          7
+    93         52
+    94          7
+    95        999
+    96        101
+    97          5
+   109         78
+   110          7
+   124          8

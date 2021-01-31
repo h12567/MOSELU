@@ -1,0 +1,48 @@
+##TITLE=Library Entry 44215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. LOVETT - D. LIPKIN
+##NAMES=HP
+##CAS NAME=N3-Methyl-O6,5'-Cyclouridine, 2TMS derivative
+##MOLFORM=C16H28N2O6Si2
+##CAS REGISTRY NO=41547-74-4
+##MP= -300
+##BP= -300
+##MW= 400
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    69        300
+    73        999
+    75        380
+   101         80
+   110         50
+   117        100
+   129        639
+   133        130
+   142         60
+   143        130
+   147        639
+   169         70
+   183         70
+   191         30
+   198         60
+   204         50
+   215         60
+   217        140
+   230        130
+   231        130
+   243        539
+   245        649
+   258        110
+   269        160
+   282        110
+   287         90
+   295         70
+   315        320
+   328         60
+   344        110
+   357         30
+   385        869
+   400        280

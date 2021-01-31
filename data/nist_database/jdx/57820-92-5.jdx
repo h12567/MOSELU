@@ -1,0 +1,28 @@
+##TITLE=Library Entry 85336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. KLABUNDE, DEP. CHEM., N. DAK. UNIV.,GRAND FORKS,N. D
+AK.,U.
+##NAMES=HP
+##CAS NAME=Chromium, bis(anisole)-
+##MOLFORM=C14H16CrO2
+##CAS REGISTRY NO=57820-92-5
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    52         99
+    65         81
+    78         90
+    93         28
+   108        999
+   122         12
+   130          8
+   134          9
+   145         20
+   160        120
+   238         16
+   268         67

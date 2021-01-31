@@ -1,0 +1,23 @@
+##TITLE=Library Entry 5531
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetroxane, 3,3,6,6-tetramethyl-
+##MOLFORM=C6H12O4
+##CAS REGISTRY NO=1073-91-2
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=860
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    27         41
+    28        385
+    29         30
+    42         30
+    43        999
+    44         55
+    58         85
+   101         22

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 40132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl cyanoacetamide
+##MOLFORM=C5H8N2O
+##CAS REGISTRY NO=7391-40-4
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         11
+    18         10
+    26          2
+    27          7
+    29          5
+    30         18
+    37          1
+    38         12
+    39         26
+    40        115
+    41         52
+    42        265
+    43         95
+    44        326
+    45         18
+    50          1
+    51          5
+    52          8
+    53          4
+    54         25
+    55         32
+    56        102
+    57         23
+    58         17
+    66          1
+    67          9
+    68         79
+    69         27
+    70         59
+    72        999
+    73         38
+    74          2
+    77          1
+    80          1
+    81          1
+    82          4
+    83          5
+    84          4
+    85          1
+    97          3
+   111         13
+   112        515
+   113         33
+   114          2

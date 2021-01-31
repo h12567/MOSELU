@@ -1,0 +1,46 @@
+##TITLE=Library Entry 36514
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7076
+##NAMES=HP
+##CAS NAME=Perfluoro(2-methylpentane)
+##MOLFORM=C6F14
+##CAS REGISTRY NO=355-04-4
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    31         27
+    50          8
+    55          1
+    62          2
+    69        999
+    70         10
+    73          3
+    80          3
+    85          1
+    93         17
+   100         33
+   101          1
+   112          4
+   119         76
+   120          2
+   124          1
+   131         88
+   132          3
+   143          1
+   150          6
+   162          1
+   169        122
+   170          4
+   181         24
+   182          1
+   200          3
+   219         46
+   220          2
+   231         29
+   232          2
+   319          4

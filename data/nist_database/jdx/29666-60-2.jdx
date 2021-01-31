@@ -1,0 +1,30 @@
+##TITLE=Library Entry 22851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanamine, N-(1-methyl-3-phenylpropylidene)-
+##MOLFORM=C11H15N
+##CAS REGISTRY NO=29666-60-2
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         70
+    41         60
+    42        180
+    51         60
+    56        999
+    57        140
+    65         80
+    70        110
+    77         60
+    84        150
+    91        190
+   105        150
+   146        250
+   160        130
+   161        380

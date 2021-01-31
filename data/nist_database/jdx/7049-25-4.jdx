@@ -1,0 +1,38 @@
+##TITLE=Library Entry 54008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1-Silacyclo-3-pentene
+##MOLFORM=C4H8Si
+##CAS REGISTRY NO=7049-25-4
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29         30
+    30         20
+    41         40
+    42         40
+    43        210
+    44         80
+    45         30
+    54         60
+    55        260
+    56        719
+    57        410
+    58        270
+    59         20
+    67         60
+    68         10
+    69        110
+    70         10
+    81         80
+    82        310
+    83        979
+    84        999
+    85        120
+    86         40

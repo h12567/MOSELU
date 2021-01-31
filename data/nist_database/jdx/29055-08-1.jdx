@@ -1,0 +1,32 @@
+##TITLE=Library Entry 98534
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)125(1974); ECKHARDT
+##NAMES=HP
+##CAS NAME=Benzenemethanol, 2-(methylamino)-
+##MOLFORM=C8H11NO
+##CAS REGISTRY NO=29055-08-1
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=1323
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    51        104
+    63         63
+    65        104
+    66         52
+    77        209
+    78        172
+    91        366
+    92         65
+    93        119
+    94         90
+   106         96
+   117         75
+   118        999
+   119        209
+   120        142
+   137        616
+   138         62

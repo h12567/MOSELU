@@ -1,0 +1,27 @@
+##TITLE=Library Entry 31872
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. G. FILBY
+##NAMES=HP
+##CAS NAME=Ethanesulfinic acid, methyl ester
+##MOLFORM=C3H8O2S
+##CAS REGISTRY NO=31401-21-5
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=798
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    28        520
+    29        890
+    35         24
+    45        262
+    50        590
+    65        999
+    77        210
+    79         64
+    80        920
+   108        310
+   109         53
+   110         15

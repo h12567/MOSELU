@@ -1,0 +1,56 @@
+##TITLE=Library Entry 42329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-Prop-1-en-1-yl propanedithioate
+##MOLFORM=C6H10S2
+##CAS REGISTRY NO=67230-81-3
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1159
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         17
+    29         12
+    37          6
+    38         12
+    39         97
+    40          7
+    41         47
+    44          3
+    45        411
+    46         14
+    47         52
+    53          4
+    57         17
+    58         60
+    68          6
+    69         54
+    70          8
+    71        141
+    72         94
+    73        999
+    75         42
+    76         17
+    77         23
+    85          8
+    87          2
+    98         10
+   103          3
+   116         21
+   118          2
+   129          3
+   130          5
+   131        487
+   132         33
+   133         43
+   134          4
+   135          1
+   145          7
+   146        176
+   147         15
+   148         15

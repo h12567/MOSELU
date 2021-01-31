@@ -1,0 +1,60 @@
+##TITLE=Library Entry 16737
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-Thiopyran-3(4H)-one
+##MOLFORM=C5H6OS
+##CAS REGISTRY NO=29431-28-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=1003
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    18        120
+    25         32
+    26        120
+    27        280
+    28        208
+    29         40
+    32         16
+    33         28
+    34         28
+    36         20
+    37        120
+    38        208
+    39        851
+    40        320
+    41        120
+    42        320
+    43         72
+    44         64
+    45        999
+    46        256
+    47        104
+    48         20
+    49         20
+    50         40
+    51         40
+    52         20
+    53        120
+    57         56
+    58         96
+    59         64
+    60         40
+    68        448
+    69        112
+    70         32
+    71        460
+    72        503
+    73         48
+    74         32
+    84         28
+    85        559
+    86        240
+    87         40
+   114        468
+   115         40
+   116         40

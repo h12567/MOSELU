@@ -1,0 +1,43 @@
+##TITLE=Library Entry 34471
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1,1-dichloro-2-methyl-2-(1-methylbutyl)-
+##MOLFORM=C9H16Cl2
+##CAS REGISTRY NO=24551-82-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        330
+    40         60
+    41        550
+    42         70
+    43        380
+    44         20
+    51        120
+    53        160
+    54         40
+    55        250
+    56        200
+    57         20
+    65         60
+    67         50
+    69        999
+    70        400
+    71        120
+    75         40
+    77         90
+    81         50
+    83        110
+    87         30
+    89         40
+    98        480
+    99         40
+   109         20
+   123         30
+   194          2

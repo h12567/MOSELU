@@ -1,0 +1,45 @@
+##TITLE=Library Entry 75859
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=N-Methyl-N-(2-hydroxyethyl)carbamic acid, methyl ester
+##MOLFORM=C5H11NO3
+##CAS REGISTRY NO=56475-94-6
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    40         31
+    41         66
+    42        652
+    43        264
+    44        158
+    45        248
+    46          8
+    54         11
+    55          9
+    56        112
+    57         33
+    58        612
+    59        415
+    60         11
+    70          6
+    72         18
+    73          6
+    74         59
+    80          7
+    88         22
+    90          5
+   100         10
+   101         24
+   102        999
+   103        118
+   104          9
+   115          5
+   133         81
+   134          5

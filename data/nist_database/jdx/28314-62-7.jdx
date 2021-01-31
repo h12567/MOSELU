@@ -1,0 +1,32 @@
+##TITLE=Library Entry 34836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiophosphoryl azide fluoride
+##MOLFORM=F2N3PS
+##CAS REGISTRY NO=28314-62-7
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    14        114
+    28         76
+    31         47
+    32        143
+    46        595
+    48         26
+    50        105
+    63         30
+    64         21
+    69        999
+    82         23
+    92         16
+    96         30
+   101        131
+   115         15
+   143        570
+   145         26

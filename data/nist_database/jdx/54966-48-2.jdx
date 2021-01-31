@@ -1,0 +1,63 @@
+##TITLE=Library Entry 18480
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Butynoic acid, 4-cyclopropyl-4-oxo-, ethyl ester
+##MOLFORM=C9H10O3
+##CAS REGISTRY NO=54966-48-2
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    37         30
+    38         40
+    39        410
+    40        280
+    41        380
+    42         30
+    43         30
+    44        380
+    45         60
+    46         10
+    50         10
+    51         10
+    52         40
+    53        999
+    54         40
+    55         80
+    63         10
+    64         20
+    65        140
+    66        130
+    67         10
+    68         30
+    69        650
+    70         30
+    77         10
+    79         10
+    80         20
+    81         60
+    82         50
+    84         10
+    91         10
+    92         30
+    93        190
+    94        430
+    95         30
+    97         20
+   110         30
+   111         20
+   112         10
+   121        320
+   122         30
+   125        310
+   126         10
+   137         10
+   138         10
+   165         20
+   166         30

@@ -1,0 +1,69 @@
+##TITLE=Library Entry 24646
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=6-tert-Butoxy-1-hexanol, TMS derivative
+##MOLFORM=C13H30O2Si
+##CAS REGISTRY NO=91988-81-7
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41        220
+    42         60
+    43        235
+    44        165
+    45        490
+    46         30
+    47         50
+    55        280
+    56         85
+    57        999
+    58        130
+    59        215
+    60         40
+    61         55
+    71         50
+    72         40
+    73        465
+    74         55
+    75        410
+    76         45
+    77         36
+    81         90
+    82         55
+    83         60
+    84         60
+    85         60
+    87         55
+    89         55
+    91        125
+    92         10
+    93         50
+    97         50
+    98         30
+    99        110
+   100         50
+   101        100
+   102         20
+   103        230
+   104         20
+   105         70
+   106         10
+   115         30
+   116         20
+   117         10
+   129         20
+   131         55
+   145         15
+   157         20
+   173        185
+   174         30
+   175         20
+   189         90
+   190         25
+   191         15

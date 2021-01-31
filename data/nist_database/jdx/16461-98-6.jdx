@@ -1,0 +1,44 @@
+##TITLE=Library Entry 70877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Pyrazole-3,4-diamine
+##MOLFORM=C3H6N4
+##CAS REGISTRY NO=16461-98-6
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    37          7
+    38         38
+    39         46
+    40        155
+    41        238
+    42        358
+    43        639
+    44        285
+    45          6
+    49          8
+    51         15
+    52         79
+    53        124
+    54         81
+    55         94
+    56        483
+    57         19
+    66          6
+    67         13
+    68         11
+    69         27
+    70         11
+    71        190
+    72          6
+    82          8
+    96          4
+    97         24
+    98        999
+    99         53

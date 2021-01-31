@@ -1,0 +1,43 @@
+##TITLE=Library Entry 83828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(9)761(1975); D. V. RAMANA
+##NAMES=HP
+##CAS NAME=2-Stilbazole, 4'-hydroxydihydro-
+##MOLFORM=C13H13NO
+##CAS REGISTRY NO=85666-07-5
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        120
+    51        100
+    52        100
+    53         70
+    55         40
+    57         30
+    63         30
+    65        130
+    77        210
+    78        120
+    79        220
+    80         60
+    91         30
+    92         70
+    93        920
+    94        110
+   106        330
+   107        999
+   108         60
+   167         30
+   168         30
+   183         70
+   184         40
+   196         80
+   197         40
+   198        470
+   199        690
+   200        100

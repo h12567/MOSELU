@@ -1,0 +1,83 @@
+##TITLE=Library Entry 85623
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Amino-4-[1-hydroxycyclohexylmethyl]pyrimidine
+##MOLFORM=C11H17N3O
+##CAS REGISTRY NO=50324-60-2
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    41        186
+    42        100
+    43        213
+    44          7
+    45          3
+    50          3
+    51         12
+    52         25
+    53         44
+    54         16
+    55        112
+    56          8
+    57         16
+    63          4
+    64          3
+    65         12
+    66          8
+    67         60
+    68         54
+    69         85
+    70          8
+    71          1
+    77         10
+    79         32
+    81        195
+    82        107
+    83          6
+    85          2
+    91          3
+    92          5
+    93         10
+    94         14
+    95          6
+    96         12
+    97          3
+    99         39
+   105          1
+   106          0
+   109        999
+   110         77
+   111          3
+   117          1
+   119          1
+   122         12
+   123          2
+   131          0
+   133          4
+   134          5
+   136         46
+   137          2
+   146          3
+   147         64
+   148          7
+   151        112
+   152          8
+   160         14
+   161          6
+   164        120
+   165         22
+   174          6
+   178          5
+   188         25
+   189        145
+   190         21
+   206          1
+   207         23
+   208          2

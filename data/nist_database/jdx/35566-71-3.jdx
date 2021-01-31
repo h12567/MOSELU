@@ -1,0 +1,48 @@
+##TITLE=Library Entry 83603
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=1H-Pyrrolo[2,1-c][1,4]oxazin-1-one, 3,4-dihydro-3-phenyl-
+##MOLFORM=C13H11NO2
+##CAS REGISTRY NO=35566-71-3
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    39        110
+    50         60
+    51        150
+    52        180
+    53         50
+    63         50
+    65         50
+    77        200
+    78        150
+    79        730
+    80         90
+    89         40
+    91        100
+    94         30
+   102         50
+   103         70
+   104         50
+   105         90
+   106         90
+   107        999
+   108        100
+   115         50
+   128         20
+   139         30
+   140         20
+   141         30
+   154         20
+   156         20
+   166         30
+   167        110
+   168         90
+   169         30
+   213        170

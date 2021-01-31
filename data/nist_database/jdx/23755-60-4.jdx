@@ -1,0 +1,26 @@
+##TITLE=Library Entry 55226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,1,1-Trichloro-4,4-dimethyl-4-vinyldisilethylene
+##MOLFORM=C6H13Cl3Si2
+##CAS REGISTRY NO=23755-60-4
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    59         38
+    85        999
+    86         90
+    87         37
+   117         19
+   119          8
+   219         10
+   221          9
+   231         31
+   233         30
+   235         17

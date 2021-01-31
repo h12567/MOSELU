@@ -1,0 +1,64 @@
+##TITLE=Library Entry 37601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. YAMAGUCHI, DRUG METAB., DAINIPPON PHARM. CO., OSAKA,
+ JAPA
+##NAMES=HP
+##CAS NAME=7-Chloro-3-(4-methyl-1-piperazinyl)-4H-1,2,4-benzothiadiazine 1,1
+-dioxide
+##MOLFORM=C12H15ClN4O2S
+##CAS REGISTRY NO=59943-31-6
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    55         37
+    56         57
+    57         50
+    58        104
+    60         13
+    63         19
+    64          9
+    67          8
+    68         10
+    69         20
+    70        999
+    71        136
+    72         10
+    73         10
+    80          7
+    81         12
+    82         36
+    83        440
+    84         33
+    85         18
+    86          7
+    87          3
+    90         10
+    91         12
+    95         10
+    96          9
+    97         26
+    98         83
+    99         54
+   124         20
+   125         21
+   126         21
+   127         10
+   149          9
+   151          7
+   152         13
+   180         11
+   190          9
+   192          8
+   206          9
+   244         19
+   246          7
+   250         25
+   252          7
+   257          8
+   314         26
+   316          9

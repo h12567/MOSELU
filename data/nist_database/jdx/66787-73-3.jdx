@@ -1,0 +1,51 @@
+##TITLE=Library Entry 23804
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=5-Aminoimidazolecarboxylic acid, 1-methyl-, t-butyl(ester)
+##MOLFORM=C9H15N3O2
+##CAS REGISTRY NO=66787-73-3
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        387
+    42        319
+    43         58
+    44          5
+    45          3
+    49          4
+    51          4
+    52          6
+    53         16
+    54         12
+    55         27
+    57        999
+    58         41
+    59         34
+    66          6
+    67          8
+    68          6
+    69         19
+    70          9
+    81          1
+    82         11
+    83          5
+    84          2
+    95          2
+    96         80
+    97        281
+    98         15
+   123         28
+   124        105
+   125          6
+   131          4
+   138          4
+   141        336
+   142         24
+   197         62
+   198         10

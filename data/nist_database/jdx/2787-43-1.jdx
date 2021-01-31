@@ -1,0 +1,51 @@
+##TITLE=Library Entry 32885
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,3-Pentadiene, 3-methyl-, (E)-
+##MOLFORM=C6H10
+##CAS REGISTRY NO=2787-43-1
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=643
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    15         33
+    26         49
+    27        245
+    28         15
+    29         40
+    37         19
+    38         48
+    39        379
+    40         73
+    41        342
+    42         58
+    43         13
+    49         15
+    50        105
+    51        128
+    52         60
+    53        174
+    54        128
+    55         52
+    56         11
+    61         10
+    62         22
+    63         33
+    64         10
+    65        198
+    66         10
+    67        999
+    68         56
+    74          7
+    77         43
+    78         12
+    79        118
+    80         18
+    81        118
+    82        405
+    83         25

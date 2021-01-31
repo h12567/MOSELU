@@ -1,0 +1,44 @@
+##TITLE=Library Entry 22189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pentane, 1-bromo-3,4-dimethyl-
+##MOLFORM=C7H15Br
+##CAS REGISTRY NO=6570-92-9
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        574
+    42        504
+    43        881
+    44         19
+    53         69
+    54         29
+    55        742
+    56        999
+    57        287
+    69         59
+    70         99
+    71        504
+    72          9
+    79         29
+    81        148
+    83        128
+    96         29
+    97          9
+    98         19
+    99         19
+   107          9
+   109          9
+   134          9
+   135         19
+   136          9
+   137          9
+   178         19
+   180         19

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 9800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Pentane, 3-bromo-3-methyl-
+##MOLFORM=C6H13Br
+##CAS REGISTRY NO=25346-31-0
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=923
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          9
+    27        103
+    28         23
+    29        105
+    30          2
+    37          3
+    38         11
+    39        147
+    40         23
+    41        367
+    42         31
+    43        999
+    44         36
+    50         17
+    51         24
+    52         11
+    53         60
+    54         14
+    55        215
+    56         41
+    57        173
+    58          8
+    62          2
+    63          1
+    65          8
+    66          2
+    67         17
+    68          3
+    69         83
+    70          6
+    77          1
+    79         10
+    80         11
+    81          9
+    82         11
+    83          5
+    84         13
+    85        858
+    86         55
+    95          2
+   107         13
+   109         12
+   134          2
+   135         15
+   136          3
+   137         15

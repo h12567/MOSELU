@@ -1,0 +1,52 @@
+##TITLE=Library Entry 14
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,3-Butanediimine, N,N'-difluoro-
+##MOLFORM=C4H6F2N2
+##CAS REGISTRY NO=16063-51-7
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    12         48
+    13         48
+    14        190
+    15        999
+    25         48
+    26         48
+    27         95
+    28        171
+    29        286
+    31         19
+    32         19
+    33        238
+    37         19
+    38         95
+    39        190
+    40        781
+    41        667
+    42        476
+    46         48
+    51         19
+    52         95
+    53         48
+    54        400
+    55         48
+    59        381
+    60        333
+    66         48
+    67         48
+    74         48
+    79        476
+    80         48
+    81        286
+    82         76
+    86         48
+   101        286
+   102         76
+   120         95

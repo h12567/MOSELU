@@ -1,0 +1,38 @@
+##TITLE=Library Entry 52393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER UNIV. OF COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=s-Tetrazine, 3,6-bis(diethylamino)-
+##MOLFORM=C10H20N6
+##CAS REGISTRY NO=19455-89-1
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    15         30
+    18         74
+    26         22
+    27        150
+    28        178
+    29        308
+    41         33
+    42         86
+    43        151
+    44         21
+    55        538
+    56        138
+    69         83
+    70         33
+    71        204
+    83        999
+    84         93
+    97         26
+    98        226
+    99        393
+   100         26
+   224        246
+   225         36

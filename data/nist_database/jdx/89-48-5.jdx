@@ -1,0 +1,84 @@
+##TITLE=Library Entry 10354
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Menthyl acetate
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=89-48-5
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1295
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15        109
+    16          0
+    27        162
+    28          7
+    29        129
+    30          3
+    31          8
+    37          1
+    39        135
+    41        348
+    43        999
+    44         30
+    45         10
+    50          3
+    51         10
+    53         54
+    54         44
+    55        186
+    56         39
+    57         69
+    58          6
+    59          4
+    61         13
+    63          1
+    65         14
+    67        139
+    68         53
+    69        101
+    70         26
+    71         82
+    72          6
+    73          1
+    77         23
+    79         45
+    80         65
+    81        337
+    82        138
+    83         59
+    84         10
+    85         23
+    86          5
+    87          1
+    91         12
+    93         19
+    95        488
+    96        106
+    97         19
+    98          3
+    99          6
+   100          3
+   105          1
+   107          3
+   109         42
+   110         23
+   111          6
+   112          6
+   113         17
+   114          1
+   121          3
+   123        158
+   124         16
+   125          1
+   138        173
+   139         24
+   140          2
+   141          7
+   142          1
+   155          2
+   156          1

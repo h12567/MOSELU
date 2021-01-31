@@ -1,0 +1,45 @@
+##TITLE=Library Entry 29634
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Mark Whitten, Florida Museum of Natural History, U. of
+ Florida
+##NAMES=HP
+##CAS NAME=Butyl aldoxime, 3-methyl-, syn-
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=5780-40-5
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        580
+    42        122
+    43        365
+    44         61
+    45          9
+    46         19
+    50         16
+    51         19
+    52         13
+    53         19
+    54         24
+    55         37
+    56         53
+    57         37
+    59        999
+    60         35
+    61          5
+    67         10
+    68         30
+    69         66
+    70         10
+    72          6
+    82          5
+    83          6
+    84         17
+    86        135
+    87          9
+   100          4
+   101          6

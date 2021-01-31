@@ -1,0 +1,76 @@
+##TITLE=Library Entry 40056
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzeneethanamine, N,.alpha.,.alpha.-trimethyl-
+##MOLFORM=C11H17N
+##CAS REGISTRY NO=100-92-5
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=1275
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          3
+    26          1
+    27          9
+    28          3
+    29         11
+    30         38
+    31          1
+    32          2
+    38          3
+    39         33
+    40          5
+    41         31
+    42         40
+    43          9
+    44          7
+    50          8
+    51         20
+    52          6
+    53          4
+    54          5
+    55         10
+    56         59
+    57         28
+    58          2
+    62          4
+    63         15
+    64          5
+    65         52
+    66          4
+    68          1
+    70         41
+    72        999
+    73         47
+    74          5
+    75          2
+    76          2
+    77         14
+    78          6
+    79          4
+    89         12
+    91        100
+    92          8
+   102          2
+   103          4
+   104          2
+   105          4
+   115         20
+   116          6
+   117         21
+   118          3
+   128          2
+   129          1
+   130          2
+   131          3
+   132          7
+   133         11
+   134          1
+   146          4
+   148         37
+   149          4

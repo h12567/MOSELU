@@ -1,0 +1,87 @@
+##TITLE=Library Entry 61617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Isobutyric acid, 2-pinen-10-yl ester
+##MOLFORM=C14H22O2
+##CAS REGISTRY NO=29021-37-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=1466
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    27         22
+    29          9
+    31          1
+    38          1
+    39         43
+    40          9
+    41        120
+    42         11
+    43        307
+    44          9
+    50          3
+    51         16
+    52          9
+    53         38
+    54          5
+    55         33
+    56          7
+    57          7
+    62          1
+    63          5
+    64          2
+    65         38
+    66         10
+    67         30
+    68         11
+    69         20
+    70          5
+    71        191
+    72          8
+    73          2
+    74          1
+    76          1
+    77         95
+    78         49
+    79        124
+    80         14
+    81         16
+    82          3
+    85          2
+    88          1
+    89         12
+    90          3
+    91        999
+    92        357
+    93         90
+    96          7
+   102          2
+   103         16
+   104          8
+   105        114
+   106         61
+   107         24
+   108         66
+   109         13
+   110          3
+   111          3
+   115         11
+   116          2
+   117         36
+   118          7
+   119        682
+   120         69
+   121         11
+   131          2
+   133         12
+   134        243
+   135         32
+   151          2
+   152         32
+   153          3
+   178          2
+   222          1

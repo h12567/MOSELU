@@ -1,0 +1,58 @@
+##TITLE=Library Entry 84711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl octanoate
+##MOLFORM=C9H17ClO2
+##CAS REGISTRY NO=61413-70-5
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=1278
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        158
+    41        602
+    42        327
+    43        612
+    44         72
+    49        125
+    51         60
+    55        811
+    56        189
+    57        484
+    58         35
+    67        121
+    68         47
+    69        221
+    70        112
+    71         65
+    72        697
+    73         66
+    82        149
+    83        180
+    84        293
+    85        360
+    86         12
+    97        126
+    98        239
+    99         66
+   108        999
+   109        131
+   110        321
+   111         53
+   121        300
+   123        102
+   126        162
+   127        527
+   128         59
+   135         65
+   137         18
+   149        120
+   151         42
+   163         17
+   164         11
+   165         17
+   192          5

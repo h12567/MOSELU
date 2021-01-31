@@ -1,0 +1,80 @@
+##TITLE=Library Entry 1534
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,2,3,3,4,4,4-Heptafluoro-butanol
+##MOLFORM=C4H3F7O
+##CAS REGISTRY NO=375-01-9
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          1
+    15          1
+    17          1
+    26          2
+    28         14
+    29        220
+    31        999
+    32         24
+    33         59
+    42         10
+    43          3
+    44          8
+    45         18
+    47          5
+    49         72
+    50         26
+    51         90
+    52          1
+    55          1
+    56          3
+    57          1
+    61        140
+    62         24
+    63         12
+    64         14
+    65          1
+    67          8
+    69        249
+    70          3
+    71          5
+    73          1
+    74          3
+    75         11
+    79          7
+    80         16
+    81         24
+    82          8
+    83          7
+    91         12
+    93         10
+    94          2
+    95         13
+    97          9
+    98          1
+   100        101
+   101          5
+   109          3
+   111         23
+   113         61
+   114          2
+   117          2
+   119         29
+   129          1
+   131         14
+   132          1
+   133         10
+   141          3
+   150         29
+   151          3
+   161         25
+   162          1
+   169          3
+   179          2
+   180          1

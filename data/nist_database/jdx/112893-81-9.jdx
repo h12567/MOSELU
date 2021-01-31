@@ -1,0 +1,83 @@
+##TITLE=Library Entry 32253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]hept-5-ene-2-carbonitrile, 3-methylene-
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=112893-81-9
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    24          3
+    25          4
+    26         38
+    27        232
+    30         14
+    31         26
+    33          7
+    36         19
+    37         99
+    38        131
+    39        634
+    40        200
+    41         99
+    42          6
+    43          0
+    48          4
+    49         27
+    50        175
+    51        368
+    52        172
+    53         66
+    54         12
+    55          5
+    58         13
+    60          4
+    61         25
+    62         70
+    63        164
+    64        125
+    65        298
+    66        999
+    67         78
+    68          1
+    72          3
+    73          6
+    74         44
+    75         52
+    76         67
+    77        333
+    78        298
+    79         49
+    80          8
+    85          1
+    86          2
+    87          7
+    88          7
+    89        107
+    90         43
+    91        282
+    92         51
+    97          2
+    98          1
+    99          1
+   101         10
+   102         33
+   103        320
+   104        528
+   105         57
+   106          3
+   114         14
+   115          7
+   116        445
+   117         35
+   128          9
+   129          2
+   130        706
+   131        510
+   132         63

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 11615
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanedimethanol, 3-(acetyloxy)-1,2-dimethyl-, diacetate
+##MOLFORM=C16H26O6
+##CAS REGISTRY NO=55905-48-1
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        110
+    43        999
+    55        110
+    67         70
+    69         80
+    79         50
+    81        100
+    82        120
+    83         50
+    93         90
+    94         50
+    95        110
+    97         50
+   107         70
+   108         60
+   109        140
+   121        200
+   122        100
+   123         70
+   134        120
+   139        150
+   152        120

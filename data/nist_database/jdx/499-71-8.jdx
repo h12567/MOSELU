@@ -1,0 +1,78 @@
+##TITLE=Library Entry 51442
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-one, 2-methyl-5-(1-methylethyl)-, (S)-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=499-71-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1246
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         33
+    28          7
+    29         14
+    37          1
+    38          5
+    39        112
+    40         16
+    41        143
+    42         15
+    43         41
+    44          1
+    45          1
+    46          1
+    50         13
+    51         32
+    52         21
+    53        117
+    54        176
+    55         83
+    57          3
+    62          3
+    63          8
+    64          2
+    65         28
+    66         20
+    67         59
+    69         99
+    70          7
+    74          2
+    75          1
+    77         60
+    78         13
+    79        154
+    80         56
+    81        409
+    82        999
+    83         67
+    84          9
+    89          2
+    90          1
+    91         31
+    92          4
+    93         15
+    94          7
+    95        172
+    96         25
+    97         51
+   103          1
+   105          3
+   107         11
+   108         62
+   109        153
+   110         80
+   111         10
+   119          3
+   123          6
+   137         20
+   138          1
+   139          1
+   152        272
+   153         29
+   154          2

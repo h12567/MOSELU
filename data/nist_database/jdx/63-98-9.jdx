@@ -1,0 +1,80 @@
+##TITLE=Library Entry 61477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH. ALDRICH 11814-
+1
+##NAMES=HP
+##CAS NAME=Phenacemide
+##MOLFORM=C9H10N2O2
+##CAS REGISTRY NO=63-98-9
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1473
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          5
+    15         21
+    16         45
+    26         28
+    27         59
+    28         22
+    29         35
+    31         11
+    36          3
+    37         26
+    38         49
+    39        264
+    40         39
+    41         64
+    42         48
+    43        129
+    44        873
+    45         23
+    46         25
+    49          4
+    50         66
+    51        127
+    52         43
+    53         21
+    55          1
+    60          2
+    61         64
+    62         54
+    63        150
+    64         50
+    65        412
+    66         36
+    70         22
+    74         15
+    75         20
+    76          5
+    77         32
+    78         11
+    79         18
+    85          2
+    86         11
+    87         30
+    88          5
+    89        121
+    90        262
+    91        999
+    92        649
+    93         47
+   103          2
+   104          4
+   105          2
+   106         18
+   107          7
+   116         13
+   117         24
+   118        898
+   119        143
+   120         17
+   121          5
+   135         44
+   136          3
+   161          7
+   178        298
+   179         34

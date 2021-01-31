@@ -1,0 +1,45 @@
+##TITLE=Library Entry 100997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING DEPT. CHEM., UNIV. OF GEORGIA, ATHENS, GEORGIA
+, USA
+##NAMES=HP
+##CAS NAME=Tungsten, pentacarbonyl(hexamethylphosphorous triamide-P)-, (OC-6
+-22)-
+##MOLFORM=C11H18N3O5PW
+##CAS REGISTRY NO=19976-82-0
+##MP= -300
+##BP= -300
+##MW= 487
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    60         69
+    76        427
+   119        999
+   163         17
+   212          6
+   215         17
+   228         48
+   240         17
+   242         72
+   256        103
+   257        103
+   270        103
+   272         72
+   285         86
+   287         31
+   299        155
+   301        310
+   331         24
+   347        637
+   359        131
+   375         41
+   387         44
+   403         13
+   415         79
+   431         34
+   443        117
+   459        110
+   487        293

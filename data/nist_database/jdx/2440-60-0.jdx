@@ -1,0 +1,37 @@
+##TITLE=Library Entry 6748
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=O-Methylisourea
+##MOLFORM=C2H6N2O
+##CAS REGISTRY NO=2440-60-0
+##MP= -300
+##BP= -300
+##MW= 74
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    42        240
+    43        999
+    44        975
+    45         32
+    46          7
+    47          4
+    48          2
+    53          1
+    54          1
+    55          8
+    56          8
+    57         12
+    58        123
+    59          9
+    60        167
+    61          7
+    62          0
+    72          2
+    73         15
+    74        334
+    75         31
+    76          1

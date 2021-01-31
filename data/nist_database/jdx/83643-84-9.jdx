@@ -1,0 +1,81 @@
+##TITLE=Library Entry 74305
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl trifluoroacetoacetate
+##MOLFORM=C5H5F3O3
+##CAS REGISTRY NO=83643-84-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    13          4
+    14         16
+    15        126
+    16          4
+    17         22
+    18        100
+    20          3
+    26          6
+    27         24
+    29        107
+    30         12
+    31         59
+    32          7
+    33         43
+    40          4
+    41         59
+    42        230
+    43        124
+    44         20
+    45         45
+    47          7
+    50         18
+    51         24
+    53         10
+    55          3
+    56          4
+    57         53
+    58          3
+    59        336
+    60         13
+    61         10
+    63         21
+    64         18
+    67          5
+    68          5
+    69        859
+    70         22
+    71         14
+    73          3
+    74         28
+    75         14
+    78          5
+    81         14
+    83         40
+    87         29
+    89         74
+    90          3
+    91         56
+    92         10
+    93          4
+    95         32
+    97         63
+   101        999
+   102         45
+   103          6
+   111         24
+   112         11
+   115         40
+   119         98
+   120          8
+   122          4
+   139        585
+   140         22
+   157         24
+   170         79
+   171          5

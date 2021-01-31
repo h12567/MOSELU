@@ -1,0 +1,45 @@
+##TITLE=Library Entry 9989
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclobutanol, 3-ethyl-, acetate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=56335-72-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         90
+    42         20
+    43        999
+    44         60
+    45         10
+    51         10
+    53         20
+    54         10
+    55         40
+    56         30
+    57         10
+    58         40
+    59         20
+    67         50
+    68         10
+    71         10
+    81         10
+    82         50
+    83         10
+    85         10
+    86        300
+    87         20
+    99         30
+   100         10
+   101         10
+   113         10
+   114         10
+   124          1
+   127          3

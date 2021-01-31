@@ -1,0 +1,45 @@
+##TITLE=Library Entry 17470
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Little, Eastman Chem. Comp.,Kingsport
+##NAMES=HP
+##CAS NAME=Acetaldehyde, di-sec-butyl acetal
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=5314-41-0
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         14
+    27         88
+    28        148
+    29        268
+    31         18
+    32         14
+    39         45
+    41        238
+    43        108
+    44         57
+    45        999
+    46         18
+    55         41
+    56        110
+    57        812
+    58         30
+    59         74
+    61         32
+    72         27
+    73         23
+    83         81
+    89         12
+   100         10
+   101        870
+   102         57
+   103         72
+   145         16
+   159         39
+   160          3

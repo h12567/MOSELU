@@ -1,0 +1,63 @@
+##TITLE=Library Entry 1867
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Thiocyanic acid, 2-propynyl ester
+##MOLFORM=C4H3NS
+##CAS REGISTRY NO=24309-48-6
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+     4          1
+    12         12
+    13          6
+    14          6
+    24          9
+    25         25
+    26         46
+    27         25
+    28         18
+    32         87
+    33          5
+    34          6
+    35          5
+    36         38
+    37        209
+    38        313
+    39        999
+    40         39
+    44         78
+    45        248
+    46         27
+    47         15
+    49          2
+    50          8
+    51         25
+    52         24
+    53         10
+    56          7
+    57         12
+    58         99
+    59         24
+    60          7
+    62          6
+    63          6
+    64         13
+    65          2
+    68         34
+    69        137
+    70        447
+    71         80
+    72         31
+    73          3
+    94          8
+    95          5
+    97        610
+    98         41
+    99         26
+   100          1

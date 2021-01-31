@@ -1,0 +1,81 @@
+##TITLE=Library Entry 66030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Silane, chlorotrimethyl-
+##MOLFORM=C3H9ClSi
+##CAS REGISTRY NO=75-77-4
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=550
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    12          5
+    13         19
+    14         63
+    15        209
+    16          3
+    25          4
+    26         18
+    27         44
+    28          3
+    29         67
+    30          7
+    31         10
+    35          3
+    36          3
+    37          2
+    38          2
+    39          2
+    40          4
+    41         28
+    42         78
+    43        171
+    44         39
+    45         89
+    46          6
+    47          3
+    48          1
+    49          3
+    50          1
+    53         47
+    54         11
+    55         24
+    56          4
+    57         11
+    58          7
+    59          1
+    60          0
+    63        240
+    64         49
+    65        259
+    66         26
+    67         66
+    68          3
+    69          2
+    70          5
+    73        401
+    74         35
+    75         12
+    76         11
+    77         30
+    78         41
+    79         45
+    80         16
+    81         11
+    82          1
+    88          1
+    89          1
+    90          2
+    93        999
+    94        113
+    95        388
+    96         28
+    97         12
+   108         41
+   109          4
+   110         15
+   111          1

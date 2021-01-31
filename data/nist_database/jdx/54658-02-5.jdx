@@ -1,0 +1,38 @@
+##TITLE=Library Entry 40729
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Octane, 3-methoxy-
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=54658-02-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        100
+    40         20
+    41        320
+    42         40
+    43        110
+    45        390
+    53         10
+    55        220
+    56         20
+    57         60
+    58         70
+    59         30
+    69         10
+    70         10
+    71         40
+    72         20
+    73        999
+    74         50
+    83        220
+    84         20
+   115        290
+   116         20

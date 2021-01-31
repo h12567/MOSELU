@@ -1,0 +1,65 @@
+##TITLE=Library Entry 28550
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=3-Butyl-1,1-diethylurea, TMS derivative
+##MOLFORM=C12H28N2OSi
+##CAS REGISTRY NO=18388-99-3
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          2
+    18          4
+    26          5
+    27         70
+    28         55
+    29        150
+    30         85
+    31          2
+    39         27
+    40          6
+    41         86
+    42         92
+    43         31
+    44        308
+    45          2
+    46          4
+    53          5
+    54          7
+    55         17
+    56        107
+    57         53
+    58        999
+    59         33
+    60          2
+    68          3
+    70          1
+    71         23
+    72         17
+    73        435
+    74         37
+    75         29
+    84          5
+    85          7
+    86          2
+    87         26
+    88          5
+    99         14
+   100        382
+   101        100
+   102         10
+   113          7
+   115         26
+   116         31
+   117          1
+   129         19
+   143         37
+   157         31
+   158          2
+   172         71
+   173          9

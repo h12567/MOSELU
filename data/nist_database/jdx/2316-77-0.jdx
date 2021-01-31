@@ -1,0 +1,64 @@
+##TITLE=Library Entry 82355
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=4-Hydroxy-4-(2-methylcyclohex-4-enyl)butan-2-one
+##MOLFORM=C11H18O2
+##CAS REGISTRY NO=2316-77-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    43        790
+    44         40
+    45         60
+    54         65
+    55        130
+    57         80
+    58        200
+    59        120
+    67        190
+    68         90
+    69         80
+    71         80
+    72        120
+    79        220
+    80         80
+    81        210
+    82         60
+    83         60
+    87        190
+    91        450
+    92        175
+    93        490
+    94        275
+    95        450
+    96         85
+    97         45
+   101         45
+   104         40
+   105         90
+   106        999
+   107        180
+   109        120
+   110         60
+   120         60
+   121        180
+   122         70
+   123         40
+   124        130
+   125         40
+   131        270
+   134         60
+   135         60
+   136         40
+   146        150
+   147         50
+   149         80
+   164        210
+   165         45
+   182          3

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 40010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=5.alpha.-Pregnane-3.beta.,20.alpha.-diamine, N,N,N',N'-tetramethy
+l-
+##MOLFORM=C25H46N2
+##CAS REGISTRY NO=1172-08-3
+##MP= -300
+##BP= -300
+##MW= 374
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    55         10
+    56         10
+    58         30
+    68         10
+    71         30
+    72        999
+    73         50
+    81         10
+    84        120
+    85         10
+   110         30
+   286          2
+   287          1
+   288          3
+   289          1
+   303         45
+   304         12
+   305          1
+   329          1
+   330          1
+   356          1
+   359         10
+   360          4
+   373          9
+   374         15
+   375          3

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 89367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Piperidine, 1-ethyl-2-methyl-
+##MOLFORM=C8H17N
+##CAS REGISTRY NO=766-52-9
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=923
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    41         60
+    42         80
+    44         50
+    54         10
+    55         70
+    56        140
+    57         20
+    58         20
+    69         10
+    70         30
+    71         40
+    84         80
+    98         10
+   110         20
+   112        999
+   113         80
+   126         50
+   127        120
+   128         10

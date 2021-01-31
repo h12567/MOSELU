@@ -1,0 +1,27 @@
+##TITLE=Library Entry 98142
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,4,8-Metheno-1H-cyclopent[f]azulene, 3a,4,4a,7,7a,8,9,9a-octahyd
+ro-
+##MOLFORM=C14H16
+##CAS REGISTRY NO=22723-47-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    66        108
+    77        238
+    78        168
+    79        270
+    91        290
+   104        165
+   105        521
+   115        155
+   117        512
+   118        999
+   119        145

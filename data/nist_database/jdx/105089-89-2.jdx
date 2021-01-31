@@ -1,0 +1,65 @@
+##TITLE=Library Entry 33590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=7-Oxabicyclo[2.2.1]hept-2-ene, 5-methylene-
+##MOLFORM=C7H8O
+##CAS REGISTRY NO=105089-89-2
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    37         18
+    38         59
+    39        380
+    40        161
+    41         39
+    42         38
+    43          6
+    44          0
+    45         10
+    49          4
+    50         63
+    51        126
+    52         64
+    53         94
+    54         21
+    55         10
+    56          1
+    57          1
+    59          2
+    61          4
+    62         11
+    63         25
+    64          5
+    65         27
+    66         39
+    67          3
+    68        999
+    69         49
+    70          2
+    73          0
+    74          6
+    75         10
+    76          3
+    77        343
+    78         44
+    79        726
+    80        112
+    81         16
+    82          2
+    89          2
+    90          0
+    91          5
+    92          1
+    93          1
+   103          1
+   104          1
+   105          0
+   107         12
+   108         29
+   109          2

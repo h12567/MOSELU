@@ -1,0 +1,46 @@
+##TITLE=Library Entry 69726
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Pyrazoline, 1-isobutyl-3-methyl-
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=26964-53-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1087
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         32
+    28         60
+    29         31
+    30          3
+    39         22
+    41         43
+    42        116
+    43         13
+    53          5
+    54         11
+    55         14
+    56         31
+    57          6
+    58          3
+    68         16
+    69         68
+    70          5
+    82          3
+    83         31
+    84          7
+    95          7
+    96          8
+    97        999
+    98         47
+    99          2
+   125          6
+   139          3
+   140         77
+   141          8

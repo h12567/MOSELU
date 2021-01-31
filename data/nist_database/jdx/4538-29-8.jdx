@@ -1,0 +1,28 @@
+##TITLE=Library Entry 9336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Isopropyl phosphine
+##MOLFORM=C3H9P
+##CAS REGISTRY NO=4538-29-8
+##MP= -300
+##BP= -300
+##MW= 76
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        150
+    40         19
+    41        653
+    42        128
+    43        999
+    44         79
+    45        150
+    46         29
+    47         49
+    48         20
+    61         39
+    76        802
+    77         39

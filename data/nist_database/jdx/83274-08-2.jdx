@@ -1,0 +1,37 @@
+##TITLE=Library Entry 77898
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM 115, 2898(1982); RICHARD NEIDLEIN
+##NAMES=HP
+##CAS NAME=Naphtho[2,3-c][1,2,5]selenadiazol-4,9-dione
+##MOLFORM=C10H4N2O2Se
+##CAS REGISTRY NO=83274-08-2
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50        380
+    51        100
+    74        110
+    75        230
+    76        540
+    80         50
+   102        370
+   103         30
+   104        999
+   130         40
+   132         60
+   158        270
+   159         30
+   184         80
+   212         30
+   260        130
+   261        120
+   262        360
+   263         30
+   264        770
+   265         80
+   266        150

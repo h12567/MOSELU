@@ -1,0 +1,32 @@
+##TITLE=Library Entry 8086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Parthenolide
+##MOLFORM=C15H20O3
+##CAS REGISTRY NO=20554-84-1
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        999
+    53        174
+    55        120
+    58        250
+    67         97
+    77         91
+    79        117
+    81        124
+    91        137
+    95         89
+   105        122
+   107         85
+   190         94
+   230         81
+   233         11
+   248         15

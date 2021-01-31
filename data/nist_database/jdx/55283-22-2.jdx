@@ -1,0 +1,50 @@
+##TITLE=Library Entry 35004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,6-Undecadienoic acid, 7-ethyl-3-methyl-, methyl ester, (E,E)-
+##MOLFORM=C15H26O2
+##CAS REGISTRY NO=55283-22-2
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        330
+    42         20
+    43        100
+    53         70
+    54         30
+    55        500
+    56         30
+    57        110
+    59         30
+    67         90
+    69        999
+    70         70
+    71         20
+    77         20
+    79         30
+    81         40
+    82         70
+    83        490
+    84         30
+    93         20
+    95         30
+    96         10
+   114        380
+   115         20
+   124         20
+   125         70
+   127         10
+   139         30
+   140         20
+   164         20
+   178         30
+   179         50
+   206         10
+   207         30

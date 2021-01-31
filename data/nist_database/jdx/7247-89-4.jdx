@@ -1,0 +1,57 @@
+##TITLE=Library Entry 22787
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Piperidine, 2-methyl-1-nitroso-
+##MOLFORM=C6H12N2O
+##CAS REGISTRY NO=7247-89-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    30        324
+    37         12
+    38        274
+    39        324
+    40         82
+    41        674
+    42        624
+    43        124
+    44        249
+    45         17
+    50         19
+    51         34
+    52         29
+    53         82
+    54        174
+    55        624
+    56        999
+    57         99
+    58        174
+    67         37
+    68         89
+    69        324
+    70        249
+    71         14
+    72         49
+    73         12
+    79         17
+    80         17
+    81         37
+    82        112
+    83        374
+    84         44
+    96         49
+    97         74
+    98        224
+    99         27
+   100         24
+   111         72
+   113         87
+   128        799
+   129         62

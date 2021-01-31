@@ -1,0 +1,27 @@
+##TITLE=Library Entry 48357
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20(11) 2521(1981); R GMELIN ET AL
+##NAMES=HP
+##CAS NAME=1,2,4,5,7-Pentathiocane
+##MOLFORM=C3H6S5
+##CAS REGISTRY NO=81531-39-7
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=1749
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    45        540
+    46        330
+    59        110
+    60        350
+    64         60
+    78        999
+   110         10
+   124        720
+   137         70
+   156         10
+   170        860
+   202          4

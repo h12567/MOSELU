@@ -1,0 +1,78 @@
+##TITLE=Library Entry 8857
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=2-Butanethiol, 2-methyl-
+##MOLFORM=C5H12S
+##CAS REGISTRY NO=1679-09-0
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=728
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          6
+    26          9
+    27        105
+    28         13
+    29        116
+    30          3
+    32          3
+    33         13
+    34          5
+    35          5
+    36          1
+    37          7
+    38         17
+    39        219
+    40         25
+    41        437
+    42         53
+    43        999
+    44         36
+    45         50
+    46          6
+    47         98
+    48          3
+    49         10
+    50         20
+    51         28
+    52          9
+    53         75
+    54         12
+    55        479
+    56         32
+    57          9
+    58         35
+    59        128
+    60          9
+    61         34
+    62          4
+    63          5
+    65          4
+    66          1
+    67          6
+    68          1
+    69         18
+    70         26
+    71        822
+    72         49
+    73          8
+    74         24
+    75        328
+    76         15
+    77         15
+    78          1
+    85          2
+    87          1
+    88          2
+    89         34
+    90          2
+    91          2
+   104        416
+   105         27
+   106         20
+   107          1

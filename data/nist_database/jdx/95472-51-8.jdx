@@ -1,0 +1,32 @@
+##TITLE=Library Entry 68170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.V. Rusinova, Inst. Geol. Dev. Fossil Fuels, Min. Pet.
+ Ind., Moscow, USSR
+##NAMES=HP
+##CAS NAME=cis,cis-2,9-Dimethylspiro[5.5]undecane
+##MOLFORM=C13H24
+##CAS REGISTRY NO=95472-51-8
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55        590
+    67        410
+    68        190
+    81        930
+    82        320
+    95        999
+    96        190
+   109         99
+   110        440
+   123        350
+   124        110
+   137        260
+   151          7
+   165         42
+   180        320
+   181         46

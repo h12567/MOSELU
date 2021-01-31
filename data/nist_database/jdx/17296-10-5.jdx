@@ -1,0 +1,75 @@
+##TITLE=Library Entry 10792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H-F. GRUTZMACHER, UNIVERSITY OF HAMBURG, W. GERMANY
+##NAMES=HP
+##CAS NAME=Methyl 3,4,6-tri-O-acetyl-2-acetamido-2-deoxy-.alpha.-d-galactopy
+ranoside
+##MOLFORM=C15H23NO9
+##CAS REGISTRY NO=17296-10-5
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    43        999
+    45         38
+    58         48
+    59        176
+    60         66
+    70         62
+    71         23
+    72         65
+    73         74
+    74         41
+    75          2
+    80         52
+    83         84
+    84         94
+    85         45
+    86         31
+    87         28
+    88         36
+    96        101
+    97        129
+    98        161
+   101        884
+   102        115
+   112        130
+   114        184
+   115         95
+   122         41
+   126         43
+   128         18
+   139        156
+   140        166
+   143        283
+   154          5
+   155          2
+   156         78
+   157         58
+   158         38
+   168         34
+   169         38
+   170         11
+   171          2
+   172          1
+   181         61
+   182         35
+   183         13
+   185          1
+   186          4
+   199         61
+   200         30
+   210         12
+   214          2
+   228          6
+   232          1
+   241         56
+   242        122
+   288          7
+   301         18
+   302         85
+   330         16

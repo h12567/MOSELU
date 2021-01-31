@@ -1,0 +1,41 @@
+##TITLE=Library Entry 35561
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N,N,1,1-Tetrafluoro-1-chloromethylamine
+##MOLFORM=CClF4N
+##CAS REGISTRY NO=13880-71-2
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    31        153
+    32          2
+    33         28
+    35         99
+    37         33
+    47         12
+    49         24
+    50        136
+    51          2
+    52         11
+    64         49
+    65          1
+    66         16
+    68          5
+    69        999
+    70         11
+    83         91
+    84          1
+    85        443
+    86          7
+    87        143
+    88          2
+    99         26
+   101          9
+   102        377
+   103          6

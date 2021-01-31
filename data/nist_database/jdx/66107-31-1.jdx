@@ -1,0 +1,47 @@
+##TITLE=Library Entry 35731
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Bromophenyl trifluoromethanesulfonate
+##MOLFORM=C7H4BrF3O3S
+##CAS REGISTRY NO=66107-31-1
+##MP= -300
+##BP= -300
+##MW= 304
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    37         59
+    38        252
+    39         99
+    50        100
+    61         50
+    62        137
+    63        644
+    64        483
+    69        999
+    75        127
+    76         68
+    92        336
+    95        664
+    96         58
+   104         60
+   117        118
+   119        119
+   131         49
+   133         89
+   143        497
+   145        506
+   155         60
+   157         59
+   161        308
+   171        279
+   173        268
+   174         89
+   176         59
+   240        387
+   242        377
+   304        417
+   306        427

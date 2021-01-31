@@ -1,0 +1,59 @@
+##TITLE=Library Entry 43513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3,4-bis[(trimethylsilyl)oxy]-, trimethylsilyl este
+r
+##MOLFORM=C13H32O4Si3
+##CAS REGISTRY NO=55191-53-2
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=1447
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41         56
+    43         29
+    44         29
+    45         59
+    47         14
+    59         56
+    72         29
+    73        999
+    74         89
+    75         89
+    85         26
+   101         59
+   103          9
+   117         74
+   129         59
+   131         26
+   133         59
+   147        253
+   148         44
+   149         29
+   157         29
+   189        179
+   190         53
+   191         62
+   202         44
+   203         44
+   204         26
+   205         29
+   217         14
+   231         92
+   232         26
+   233        262
+   234         56
+   235         26
+   245          2
+   246         56
+   247         14
+   248          6
+   305          2
+   321         77
+   322         22
+   323         11
+   324          2

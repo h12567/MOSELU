@@ -1,0 +1,33 @@
+##TITLE=Library Entry 17908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Di(difluoroamino)aminofluoromethane
+##MOLFORM=CH2F5N3
+##CAS REGISTRY NO=37931-36-5
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    16         77
+    28        246
+    29          4
+    31        375
+    32          5
+    33        272
+    34          6
+    41        392
+    42          6
+    46        999
+    47        222
+    48          4
+    60        514
+    61         12
+    66        174
+    67          2
+    99        222
+   100          5

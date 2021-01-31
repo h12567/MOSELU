@@ -1,0 +1,51 @@
+##TITLE=Library Entry 47215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5-Dimethyl-1-phenyl-4,5,6,8-tetrahydropyrazolo[3,4-b][1,4]diaze
+pin-7(1H)-one  #
+##MOLFORM=C14H16N4O
+##CAS REGISTRY NO=64899-15-6
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    40        120
+    41        426
+    42        348
+    43        127
+    44         99
+    50        140
+    51        412
+    52        198
+    53        108
+    54        150
+    55        127
+    64        199
+    65        201
+    69        247
+    77        999
+    91        303
+    92        138
+   103        138
+   104        189
+   118        229
+   119        669
+   120        171
+   131        179
+   144        191
+   145        158
+   158        100
+   172         99
+   173         69
+   187        300
+   199        169
+   200         79
+   213        101
+   214        149
+   241        389
+   256        660

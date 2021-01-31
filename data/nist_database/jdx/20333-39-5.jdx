@@ -1,0 +1,80 @@
+##TITLE=Library Entry 49614
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.J. MOECKEL & J. WEISS, HAHN-MEITNER-INST. BERLIN, W.
+ G
+##NAMES=HP
+##CAS NAME=Methyl ethyl disulfide
+##MOLFORM=C3H8S2
+##CAS REGISTRY NO=20333-39-5
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=850
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15         42
+    22          0
+    24          1
+    25         15
+    26        151
+    27        477
+    29        890
+    30         20
+    33         18
+    34         21
+    35         79
+    36          1
+    37          3
+    38          0
+    39          0
+    41          3
+    43          2
+    44         85
+    45        474
+    46        221
+    47        211
+    48         28
+    49         20
+    50          0
+    51          0
+    56          4
+    57         29
+    58         73
+    59        129
+    60        114
+    61         73
+    62         11
+    63         69
+    64        327
+    65         48
+    66         33
+    67          3
+    68          1
+    74          0
+    75          4
+    76          4
+    77          7
+    78         45
+    79        331
+    80        999
+    81         59
+    82         96
+    83          2
+    84          2
+    88          0
+    89          0
+    90          0
+    91          1
+    92          5
+    93         40
+    95          2
+   105          0
+   106          1
+   107        109
+   108        997
+   109         67
+   110         90
+   111          4
+   112          2

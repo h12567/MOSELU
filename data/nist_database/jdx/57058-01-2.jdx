@@ -1,0 +1,58 @@
+##TITLE=Library Entry 58782
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.KONNECKE KARL-MARX UNIV., LEIPZIG 701, GERMANY, G.D.R
+.
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 1-(4-bromophenyl)-
+##MOLFORM=C7H5BrN4
+##CAS REGISTRY NO=57058-01-2
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    32        139
+    37        121
+    38        200
+    39        250
+    44         21
+    45         29
+    49         28
+    50        279
+    51         64
+    52         28
+    58         15
+    61         50
+    62        107
+    63        472
+    64        157
+    65         29
+    73         21
+    74        100
+    75        164
+    76        141
+    77         14
+    87         11
+    88         20
+    89         27
+    90        999
+    91         77
+   116         12
+   117        429
+   118         36
+   119         10
+   155         70
+   157         68
+   169        173
+   170         14
+   171        170
+   172         12
+   196        464
+   197         34
+   198        457
+   199         32
+   224         30
+   226         30

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 54629
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-(Chloromethyl)tetrahydropyran
+##MOLFORM=C6H11ClO
+##CAS REGISTRY NO=18420-41-2
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15          9
+    26         16
+    27        102
+    28         42
+    29        145
+    30          5
+    31         20
+    37          4
+    38         11
+    39        143
+    40         32
+    41        470
+    42         49
+    43        151
+    44          7
+    45          3
+    47          1
+    48          2
+    49         46
+    50         28
+    51         28
+    52         10
+    53         40
+    54         13
+    55        138
+    56         70
+    57        157
+    58          6
+    61          4
+    62          5
+    63         12
+    64          1
+    65         11
+    66          2
+    67        149
+    68         11
+    69         11
+    70          1
+    73          1
+    75          8
+    76         19
+    77         43
+    78         13
+    79         24
+    80          3
+    81          4
+    83          4
+    85        999
+    86         59
+    87          3
+    89          2
+    91          1
+    93          6
+    95          2
+    97          1
+    98          1
+   133          3
+   134          7
+   135          1
+   136          2

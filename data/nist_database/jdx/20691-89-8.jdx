@@ -1,0 +1,31 @@
+##TITLE=Library Entry 15230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Piperidinemethanol, 1-methyl-
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=20691-89-8
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        164
+    41        218
+    42        738
+    43        607
+    44        999
+    45        150
+    55        354
+    57        164
+    58        160
+    70        272
+    71        124
+    98        222
+   110         68
+   112         96
+   128        492
+   129        346

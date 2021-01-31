@@ -1,0 +1,41 @@
+##TITLE=Library Entry 11820
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, 4-hydroxy-6-(2-oxopropyl)-
+##MOLFORM=C8H8O4
+##CAS REGISTRY NO=10310-07-3
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41         30
+    42        100
+    43        999
+    44         55
+    51         20
+    52         12
+    53         20
+    55         55
+    58         30
+    66         12
+    67         25
+    69        250
+    70         12
+    84         80
+    85         62
+    87        100
+    97         25
+    98         62
+   109         12
+   111         50
+   126        524
+   127         50
+   153        100
+   154         12
+   168         87
+   169         12

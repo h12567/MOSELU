@@ -1,0 +1,51 @@
+##TITLE=Library Entry 69969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Pyrazoline, 1,4,5-trimethyl-
+##MOLFORM=C6H12N2
+##CAS REGISTRY NO=7423-11-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=837
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         21
+    27        104
+    28        250
+    29         75
+    30         96
+    38          8
+    39         83
+    40         17
+    41        150
+    42        254
+    43         67
+    44         12
+    51         10
+    52         10
+    53         31
+    54         33
+    55         46
+    56        500
+    57         50
+    58         14
+    67          8
+    68         19
+    69         19
+    70         50
+    80          5
+    81         12
+    82         24
+    83          8
+    95         22
+    96          9
+    97        999
+    98         62
+   111         42
+   112        250
+   113         20

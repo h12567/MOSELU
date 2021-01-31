@@ -1,0 +1,53 @@
+##TITLE=Library Entry 58945
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DC-18-4
+##NAMES=HP
+##CAS NAME=2,4,6-Cycloheptatrien-1-one, 2,3-dimethyl-
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=53951-51-2
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         60
+    39        330
+    40         40
+    41         60
+    43         10
+    48         10
+    49         90
+    50        240
+    51         90
+    52         80
+    53         10
+    54         10
+    61         10
+    62         40
+    63        170
+    64         30
+    65        130
+    66         40
+    75         20
+    76         20
+    77         10
+    78        130
+    79         70
+    80         80
+    81         10
+    89         30
+    90         10
+    91        999
+    92         80
+   102         10
+   103         40
+   104         20
+   105        190
+   106        260
+   107         30
+   134        150
+   135         40

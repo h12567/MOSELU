@@ -1,0 +1,37 @@
+##TITLE=Library Entry 35994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,4-Naphthalenedione, 2-methyl-3-(3,7,11-trimethyl-2,10-dodecadie
+nyl)-
+##MOLFORM=C26H34O2
+##CAS REGISTRY NO=56324-32-4
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    69        999
+    81        531
+    95        553
+   109        693
+   128        443
+   141        209
+   178        106
+   186        343
+   198        143
+   225        687
+   239         37
+   251         43
+   266        134
+   278         25
+   291         25
+   302          6
+   304         15
+   306         21
+   308          6
+   363         31
+   378        234

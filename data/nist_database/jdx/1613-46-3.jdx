@@ -1,0 +1,67 @@
+##TITLE=Library Entry 31218
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 1-(propylthio)-
+##MOLFORM=C7H16S
+##CAS REGISTRY NO=1613-46-3
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=992
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         10
+    26         24
+    27        377
+    29        349
+    30         10
+    35         23
+    38         16
+    39        260
+    40         36
+    41        823
+    42        350
+    43        538
+    44         19
+    45        161
+    46        126
+    47        389
+    48         58
+    49         57
+    53         32
+    54         25
+    55        246
+    56        826
+    57        183
+    58         34
+    59         60
+    60         69
+    61        999
+    62         40
+    63         46
+    69         11
+    71         15
+    73         20
+    74         43
+    75         93
+    76        355
+    77        212
+    78         24
+    79         14
+    85          7
+    87          8
+    88         17
+    89        508
+    90        250
+    91         91
+    92         16
+   103        161
+   104         12
+   105         11
+   117          9
+   132        419
+   133         29
+   134         17

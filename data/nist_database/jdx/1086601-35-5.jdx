@@ -1,0 +1,44 @@
+##TITLE=Library Entry 69673
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-(4-Methyl-1H-1,2,3-triazol-1-yl)ethan-1-amine
+##MOLFORM=C5H10N4
+##CAS REGISTRY NO=1086601-35-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    30         58
+    37         28
+    38         87
+    39        152
+    40         72
+    41        689
+    42        482
+    43        368
+    44        443
+    45         14
+    51         19
+    52         56
+    53         17
+    54        163
+    55         25
+    56         21
+    65          5
+    66         18
+    67         38
+    68        215
+    69        153
+    70         26
+    82          5
+    83          6
+    84         46
+    97        999
+    98         51
+   126         55
+   127          5

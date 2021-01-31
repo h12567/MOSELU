@@ -1,0 +1,35 @@
+##TITLE=Library Entry 3316
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Scientific Instruments & Applications
+##NAMES=HP
+##CAS NAME=N-Methyl methacrylamide
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=3887-02-3
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    38         60
+    39        517
+    40        103
+    41        999
+    42         40
+    43          2
+    44         20
+    45          3
+    46          1
+    51          1
+    53          5
+    54          1
+    56          1
+    58          1
+    64          1
+    67          5
+    69        757
+    70         35
+    98         56
+    99          2

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 16828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Hexadecanol
+##MOLFORM=C16H34O
+##CAS REGISTRY NO=14852-31-4
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=1702
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    15          6
+    19         10
+    27         92
+    28         12
+    29        192
+    31         14
+    39         71
+    41        446
+    42        108
+    43        487
+    44         12
+    45        999
+    46         21
+    53         32
+    54         57
+    55        390
+    56        177
+    57        361
+    58         74
+    59         33
+    65          6
+    67         73
+    68         49
+    69        268
+    70        158
+    71        183
+    72         11
+    79         10
+    81         38
+    82         74
+    83        233
+    84         98
+    85         95
+    86          6
+    95         21
+    96         49
+    97        235
+    98         62
+    99         22
+   109          7
+   110         28
+   111        123
+   112         42
+   113         10
+   124         17
+   125         66
+   126         28
+   127          8
+   138         10
+   139         23
+   140         14
+   152          6
+   153         13
+   154         11
+   167          6
+   182          6
+   196         20
+   224         32
+   227         13

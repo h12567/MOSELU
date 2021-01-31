@@ -1,0 +1,54 @@
+##TITLE=Library Entry 8095
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9965
+##NAMES=HP
+##CAS NAME=Tetramethylammonium acetate
+##MOLFORM=C6H15NO2
+##CAS REGISTRY NO=10581-12-1
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          5
+    14         28
+    15        283
+    16          5
+    17          4
+    18         26
+    25          1
+    26          7
+    27         18
+    28         63
+    29         62
+    30        291
+    31         27
+    32          5
+    33          1
+    38          2
+    39          5
+    40         18
+    41         31
+    42        278
+    43        999
+    44         47
+    45         24
+    50          1
+    51          1
+    52          2
+    54          3
+    55          1
+    56         29
+    57         63
+    58        929
+    59        550
+    60         33
+    73          2
+    74        261
+    75         13
+    76          1
+   142          1

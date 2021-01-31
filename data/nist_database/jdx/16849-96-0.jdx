@@ -1,0 +1,36 @@
+##TITLE=Library Entry 23117
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Acetic acid, mercapto-, sec-butyl ester
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=16849-96-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        340
+    28        100
+    29        950
+    39        150
+    41        830
+    42        180
+    43        230
+    45        220
+    46        130
+    47        860
+    55        100
+    56        840
+    57        999
+    59        110
+    74        100
+    75        350
+    89        170
+    92        200
+    93        200
+   119        130
+   148         30

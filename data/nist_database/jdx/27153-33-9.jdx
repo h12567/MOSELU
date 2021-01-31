@@ -1,0 +1,39 @@
+##TITLE=Library Entry 62106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Azocine, 2-methoxy-8-methyl-
+##MOLFORM=C9H11NO
+##CAS REGISTRY NO=27153-33-9
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        560
+    40        100
+    41        130
+    50        120
+    51        240
+    52        100
+    63        190
+    64        100
+    65        910
+    66         50
+    77        230
+    78        360
+    79        220
+    91        999
+    92        730
+    93        280
+   106        660
+   107         60
+   108        340
+   109         30
+   134        999
+   135         90
+   149        610
+   150         60

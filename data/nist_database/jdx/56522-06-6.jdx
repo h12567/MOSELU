@@ -1,0 +1,33 @@
+##TITLE=Library Entry 62888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Isopropyl-benzylphosphine
+##MOLFORM=C10H15P
+##CAS REGISTRY NO=56522-06-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    40         10
+    41         78
+    43        120
+    65         90
+    75         50
+    76          9
+    77         40
+    78         68
+    79         10
+    91        999
+    92        148
+   108         10
+   121         70
+   122         10
+   123         90
+   124        110
+   166        300
+   167         69

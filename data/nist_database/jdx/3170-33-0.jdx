@@ -1,0 +1,50 @@
+##TITLE=Library Entry 17269
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-4-thio.alpha.d-arabinofuranoside
+##MOLFORM=C6H12O4S
+##CAS REGISTRY NO=3170-33-0
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        101
+    43        602
+    45        999
+    47        566
+    55        220
+    57        569
+    58        185
+    59        825
+    60        254
+    61        394
+    71         93
+    73        564
+    74        989
+    75        234
+    76        281
+    77        989
+    78         36
+    79         40
+    85         82
+    87        214
+    89        337
+    90        207
+   101         83
+   102         93
+   103        213
+   117        100
+   118         59
+   131         48
+   132         39
+   144         74
+   145         88
+   148          9
+   149         24
+   162        407
+   180         27

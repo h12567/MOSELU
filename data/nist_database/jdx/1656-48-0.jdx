@@ -1,0 +1,51 @@
+##TITLE=Library Entry 18772
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3,3'-oxybis-
+##MOLFORM=C6H8N2O
+##CAS REGISTRY NO=1656-48-0
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          5
+    14         16
+    15         18
+    25         13
+    26         76
+    27        122
+    28        164
+    29         82
+    30         14
+    31        164
+    32          2
+    37          6
+    38         18
+    39         23
+    40         60
+    41         71
+    42         52
+    43          9
+    44         10
+    45          3
+    50          7
+    51         41
+    52         91
+    53         80
+    54        999
+    55         51
+    57          3
+    67          2
+    68          9
+    70          5
+    84        234
+    85         10
+    97         37
+    98          3
+   123          2

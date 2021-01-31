@@ -1,0 +1,42 @@
+##TITLE=Library Entry 3519
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=SHELL RESEARCH LIMITED THORNTON RESEARCH CENTRE
+##NAMES=HP
+##CAS NAME=Methacrolein
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=78-85-3
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=567
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    25         11
+    26         42
+    27         94
+    28         30
+    29        136
+    30          7
+    31         54
+    32         24
+    36         16
+    37         83
+    38        134
+    39        676
+    40        130
+    41        999
+    42        157
+    43         28
+    44         12
+    49         12
+    50         22
+    51         13
+    52         10
+    53         21
+    55         18
+    69         78
+    70        828
+    71         41
+    72         10

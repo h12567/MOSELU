@@ -1,0 +1,46 @@
+##TITLE=Library Entry 34173
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Methyl-2-heptene
+##MOLFORM=C8H16
+##CAS REGISTRY NO=3404-56-6
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=746
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    15         10
+    27        120
+    28         36
+    29         85
+    39        272
+    41        622
+    42         80
+    43         59
+    44          8
+    50         17
+    51         37
+    52         18
+    53        114
+    54          8
+    55        537
+    56         84
+    57         10
+    63         12
+    65         32
+    67        139
+    69        999
+    70        366
+    71         20
+    77         16
+    79         17
+    81         12
+    83         77
+    84         41
+    97         52
+   112        194
+   113         19

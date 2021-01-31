@@ -1,0 +1,43 @@
+##TITLE=Library Entry 24580
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclobutanol, 2-ethyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=35301-43-0
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        390
+    28        160
+    29        400
+    31         90
+    38         30
+    39        300
+    40         50
+    41        640
+    42         70
+    43        260
+    44        840
+    45        180
+    50         20
+    51         30
+    53         60
+    54         60
+    55        190
+    56        520
+    57        999
+    58         50
+    67         50
+    71         40
+    72        630
+    73         20
+    82         60
+    83         10

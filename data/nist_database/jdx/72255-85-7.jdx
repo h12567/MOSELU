@@ -1,0 +1,53 @@
+##TITLE=Library Entry 40545
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. LANGHALS, INST. ORG. CHEM. UNIV. MUNICH, MUNICH, W.
+ GER.
+##NAMES=HP
+##CAS NAME=Cyclotetradecanone oxime
+##MOLFORM=C14H27NO
+##CAS REGISTRY NO=72255-85-7
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29        200
+    39        130
+    40         80
+    41        530
+    42        150
+    43        190
+    53         80
+    54        130
+    55        380
+    56        100
+    57        500
+    67        150
+    68         60
+    69        170
+    70        410
+    71         70
+    73        999
+    81        110
+    82        160
+    83        130
+    84         70
+    85         50
+    86        380
+    87         80
+    94         60
+    95        100
+    96        120
+    97        180
+    98        100
+   109         60
+   110         80
+   111        100
+   112        100
+   126         60
+   208        150
+   209         50
+   225        180

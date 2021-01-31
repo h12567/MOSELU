@@ -1,0 +1,58 @@
+##TITLE=Library Entry 32204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Methyl 3-exo-methylbicyclo[2.2.1]hept-5-ene-2-endo-carboxylate
+##MOLFORM=C10H14O2
+##CAS REGISTRY NO=89577-04-8
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         44
+    29         24
+    38         12
+    39        118
+    40         37
+    41         85
+    42          6
+    43          6
+    44          6
+    45          5
+    50         11
+    51         30
+    52         11
+    53         18
+    55         13
+    57          5
+    59         22
+    62          7
+    63         17
+    64          4
+    65         79
+    66        999
+    67         70
+    68          5
+    69        220
+    70         14
+    77         49
+    78         21
+    79         54
+    80          7
+    85          8
+    91         71
+    92         10
+   101        408
+   102         21
+   103          8
+   105         22
+   106         10
+   107         20
+   135         35
+   166          7

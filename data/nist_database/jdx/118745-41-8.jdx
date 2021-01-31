@@ -1,0 +1,36 @@
+##TITLE=Library Entry 24807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.M. Carballeira, Dep. Chem., Univ. Puerto Rico, Puerto
+ Rico
+##NAMES=HP
+##CAS NAME=Methyl 2-hydroxy-tricosanoate
+##MOLFORM=C24H48O3
+##CAS REGISTRY NO=118745-41-8
+##MP= -300
+##BP= -300
+##MW= 384
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    55        840
+    57        999
+    59        270
+    69        490
+    83        490
+    90        310
+   103        140
+   125        180
+   127        220
+   145        130
+   159         90
+   280         30
+   306        130
+   323        170
+   325        620
+   326        150
+   352         60
+   384        800
+   385        232
+   386         23

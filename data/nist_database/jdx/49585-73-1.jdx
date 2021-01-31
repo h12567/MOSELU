@@ -1,0 +1,31 @@
+##TITLE=Library Entry 106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butenedinitrile, 2,2'-(1,2-ethanediylidenedinitrilo)bis[3-amino
+-
+##MOLFORM=C10H6N8
+##CAS REGISTRY NO=49585-73-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27        999
+    76        619
+    77        120
+    78        260
+    81        499
+   103        999
+   104        120
+   108        380
+   119         80
+   130        769
+   157         50
+   184        350
+   185         80
+   211        120
+   238         10

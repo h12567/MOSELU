@@ -1,0 +1,57 @@
+##TITLE=Library Entry 78398
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 2-cyano-2-hydroxy-, ethyl ester, benzoate (ester)
+##MOLFORM=C16H19NO4
+##CAS REGISTRY NO=19788-60-4
+##MP= -300
+##BP= -300
+##MW= 289
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        101
+    42         67
+    43         67
+    44        135
+    45         13
+    50         33
+    51        101
+    52         20
+    53         20
+    54         67
+    55         54
+    56         20
+    57         81
+    65         20
+    66         20
+    67         27
+    68         20
+    69         13
+    75         13
+    76         20
+    77        290
+    78         40
+    80         40
+    82         20
+    83          6
+    84        135
+    93         20
+    94         13
+    95         20
+    96         20
+    99         40
+   105        999
+   106         81
+   110         20
+   122         67
+   123         20
+   131         11
+   133         11
+   167          3
+   173          6
+   179         13
+   217         11

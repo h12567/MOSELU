@@ -1,0 +1,36 @@
+##TITLE=Library Entry 99517
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=p-Toluic acid, 2-methylphenyl ester
+##MOLFORM=C15H14O2
+##CAS REGISTRY NO=23597-29-7
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1833
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    28          1
+    39          4
+    51          5
+    63          7
+    65         35
+    77         11
+    78          4
+    79          3
+    89         14
+    90         12
+    91        160
+    92         14
+   107          7
+   108          4
+   118          4
+   119        999
+   120         76
+   121          4
+   136          3
+   226         35
+   227          5

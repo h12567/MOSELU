@@ -1,0 +1,42 @@
+##TITLE=Library Entry 18711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Cyclohepten-1-one
+##MOLFORM=C7H10O
+##CAS REGISTRY NO=1121-64-8
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=826
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        250
+    42         40
+    43         40
+    51         60
+    52         40
+    53        190
+    54        999
+    55        450
+    56         50
+    65         40
+    66         60
+    67        700
+    68        270
+    69         40
+    76         50
+    77         30
+    78         90
+    79         30
+    80        150
+    81        370
+    82         40
+    91         30
+    92         30
+    95         50
+   109         30
+   110        330
+   111         20

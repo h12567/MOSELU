@@ -1,0 +1,49 @@
+##TITLE=Library Entry 21897
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Cyprenorphine
+##MOLFORM=C26H33NO4
+##CAS REGISTRY NO=4406-22-8
+##MP= -300
+##BP= -300
+##MW= 423
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    43         94
+    44         85
+    55        999
+    59        423
+    70         58
+    71         71
+    84        482
+   121        270
+   123        177
+   136         80
+   148         88
+   149        104
+   161         81
+   173         54
+   174         53
+   175        147
+   190         75
+   202        157
+   204        224
+   241         78
+   244        201
+   255        780
+   256        214
+   262        135
+   282         67
+   310         68
+   337        111
+   338         78
+   364        802
+   365        178
+   404        310
+   408         89
+   422         67
+   423        999

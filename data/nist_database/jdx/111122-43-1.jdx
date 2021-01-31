@@ -1,0 +1,35 @@
+##TITLE=Library Entry 45224
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.S. Dreiding, Inst. Org. Chem., Univ. Zurich, Switzerl
+and
+##NAMES=HP
+##CAS NAME=Carbamic acid, 3-cyclopenten-1-yl-, methyl ester
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=111122-43-1
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        400
+    40        130
+    41        230
+    42        130
+    53        170
+    54        280
+    55        140
+    59        190
+    65        160
+    66        740
+    67        400
+    75        999
+    80        350
+    81        360
+    82        440
+   108         90
+   109        200
+   126         90
+   141         50

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 4827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Oxazole, 4,5-dihydro-2,4-dimethyl-
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=6159-23-5
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    26        210
+    27        312
+    28        375
+    29        171
+    30         50
+    38         31
+    39        109
+    40         71
+    41        151
+    42        999
+    43        343
+    54         46
+    55         23
+    56        421
+    57         78
+    68        468
+    69        740
+    70         50
+    84        535
+    98         15
+    99        290
+   100         20

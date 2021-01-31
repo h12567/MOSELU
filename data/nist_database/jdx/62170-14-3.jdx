@@ -1,0 +1,44 @@
+##TITLE=Library Entry 22573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5,8-Trimethyl-1-phenyl-6,8-dihydropyrazolo[3,4-b][1,4]diazepin-
+7(1H)-one  #
+##MOLFORM=C15H16N4O
+##CAS REGISTRY NO=62170-14-3
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40        180
+    41        426
+    42        309
+    50         78
+    51        621
+    52        129
+    56        999
+    57         59
+    64        148
+    65         68
+    66         59
+    67         90
+    77        805
+    80        200
+    91        332
+   118        138
+   132         49
+   133         59
+   144         50
+   163        118
+   184        148
+   198         79
+   211         69
+   225        228
+   226        160
+   239        120
+   240         50
+   268        469

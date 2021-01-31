@@ -1,0 +1,45 @@
+##TITLE=Library Entry 82165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,1-Bis(trifluoromethyl)-2,2-(dimethyl)diarsine
+##MOLFORM=C4H6As2F6
+##CAS REGISTRY NO=19863-21-9
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    31         93
+    32          1
+    50         54
+    51          1
+    69         93
+    70          1
+    89        202
+    90         54
+    91          2
+    94         35
+   101         74
+   102          2
+   103        397
+   104          9
+   105        999
+   106         22
+   109        189
+   110          2
+   113         32
+   124        112
+   125          3
+   163         77
+   164          1
+   165         70
+   166          1
+   249        141
+   250          5
+   318        432
+   319         19
+   320          1

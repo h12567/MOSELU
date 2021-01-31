@@ -1,0 +1,68 @@
+##TITLE=Library Entry 24241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHEM. RES. LAB., WRIGHT-PATTERSON AIR FORCE BASE, OHIO,
+ USA
+##NAMES=HP
+##CAS NAME=2,4,5-Trichlorophenoxyacetic acid, 2-ethylhexyl ester
+##MOLFORM=C16H21Cl3O3
+##CAS REGISTRY NO=1928-47-8
+##MP= -300
+##BP= -300
+##MW= 366
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         78
+    29        217
+    39         30
+    41        322
+    42         79
+    43        687
+    53         10
+    55        215
+    56         91
+    57        999
+    58         41
+    68         11
+    69         84
+    70        379
+    71        531
+    72         33
+    73         21
+    74         10
+    83        105
+    84         40
+    97         16
+   109         18
+   112         18
+   143         15
+   144         12
+   145         24
+   146         19
+   147         13
+   148         14
+   167         11
+   179         33
+   181         34
+   183         11
+   196         37
+   198         42
+   200         12
+   209         41
+   210         10
+   211         45
+   213         11
+   219         10
+   221         10
+   254        139
+   255         11
+   256        130
+   257         14
+   258         43
+   366         36
+   367          6
+   368         35
+   369          6
+   370         11

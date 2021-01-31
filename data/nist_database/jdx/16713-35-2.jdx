@@ -1,0 +1,45 @@
+##TITLE=Library Entry 5051
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Butanone, ethylhydrazone
+##MOLFORM=C6H14N2
+##CAS REGISTRY NO=16713-35-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=881
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        145
+    29        200
+    30        150
+    31         17
+    39         55
+    40         17
+    41        121
+    42        999
+    43         92
+    44        385
+    45         34
+    46         10
+    53         13
+    54         26
+    55         47
+    56         84
+    57         42
+    58         25
+    68         84
+    69         33
+    70        263
+    71         71
+    85         66
+    86         18
+    99        500
+   100         40
+   113         27
+   114        500
+   115         53

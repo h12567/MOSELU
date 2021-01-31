@@ -1,0 +1,39 @@
+##TITLE=Library Entry 47616
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=Propanal, phenyl(2-propenyl)hydrazone
+##MOLFORM=C12H16N2
+##CAS REGISTRY NO=110213-00-8
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        100
+    41        150
+    51        150
+    55         80
+    65         70
+    77        999
+    78        100
+    91        200
+    92        120
+    93         80
+   104        160
+   105        450
+   106        110
+   117         70
+   118         50
+   119         60
+   120        230
+   130        120
+   131         60
+   132         90
+   147        210
+   188        610
+   189         90

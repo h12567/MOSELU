@@ -1,0 +1,88 @@
+##TITLE=Library Entry 46889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH; ALDRICH 12453-
+2
+##NAMES=HP
+##CAS NAME=Diphenylcarbazone
+##MOLFORM=C13H12N4O
+##CAS REGISTRY NO=538-62-5
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          1
+    26         13
+    27         52
+    28         30
+    29         46
+    30          4
+    31         10
+    36         10
+    37         16
+    38         39
+    39        105
+    40         19
+    41         16
+    42          9
+    43         25
+    44         37
+    45          5
+    46          9
+    49          5
+    50         59
+    51        190
+    52         57
+    53         21
+    54         10
+    61          6
+    62         12
+    63         33
+    64         35
+    65        269
+    66         62
+    67         10
+    73          2
+    74         16
+    75         12
+    76         22
+    77        999
+    78        174
+    79         26
+    80         26
+    81          0
+    90          5
+    91         40
+    92        781
+    93        869
+    94        104
+    95          7
+   104          2
+   105        197
+   106         94
+   107        557
+   108        148
+   109         13
+   119          0
+   120          2
+   133          7
+   134        309
+   135         42
+   136          3
+   137          0
+   141          5
+   142          4
+   150         25
+   151          8
+   152          0
+   153          1
+   154          1
+   167         11
+   168         30
+   169         15
+   240         63
+   241         12

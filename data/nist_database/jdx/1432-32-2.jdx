@@ -1,0 +1,55 @@
+##TITLE=Library Entry 18605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,1-Dichlorogermacyclopentene-3
+##MOLFORM=C4H6Cl2Ge
+##CAS REGISTRY NO=1432-32-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    35         51
+    36        102
+    38         91
+    39        185
+    49          9
+    50         25
+    51         31
+    54        999
+    70          8
+    71          9
+    72         14
+    73         10
+    74         17
+    75          5
+    76          2
+    95          4
+    97         18
+    98          7
+    99         12
+   100          5
+   101          5
+   105         36
+   107         66
+   109        102
+   111         43
+   113          7
+   123          2
+   125          1
+   140          4
+   142          9
+   144         13
+   146          7
+   161          2
+   163          4
+   165          1
+   194          8
+   196         18
+   198         26
+   200         14
+   202          2

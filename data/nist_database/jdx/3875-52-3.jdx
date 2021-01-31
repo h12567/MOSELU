@@ -1,0 +1,68 @@
+##TITLE=Library Entry 22383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopentane, (1,1-dimethylethyl)-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=3875-52-3
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=879
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         77
+    29        121
+    30          4
+    34          0
+    37          1
+    38          5
+    39         91
+    40          1
+    41        366
+    42         24
+    43         63
+    44          1
+    45          1
+    50          2
+    51          9
+    52          3
+    53         35
+    54          6
+    55        170
+    56        999
+    57        863
+    58         34
+    62          1
+    63          2
+    65         10
+    66         10
+    67         68
+    68        255
+    69        305
+    70         31
+    71          0
+    77          6
+    78          2
+    79          3
+    80          2
+    81          2
+    82          5
+    83         37
+    84          4
+    85          1
+    86          0
+    91          3
+    93          3
+    95          1
+    96          1
+    98          2
+   109          3
+   110          1
+   111        116
+   112         11
+   113          0
+   126          1

@@ -1,0 +1,77 @@
+##TITLE=Library Entry 35081
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1,1-dimethyl-2-pentyl-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=62167-97-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=921
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    24          2
+    25          0
+    26         10
+    27        161
+    28        174
+    29        186
+    30          8
+    31          4
+    32         14
+    36          2
+    37          5
+    38          5
+    39        147
+    40         33
+    41        751
+    42        161
+    43        273
+    44         10
+    45          6
+    50          4
+    51         11
+    52          4
+    53         53
+    54         31
+    55        637
+    56        972
+    57        277
+    58         14
+    63          2
+    65          9
+    66          7
+    67         70
+    68         72
+    69        999
+    70        207
+    71         24
+    72          0
+    77          5
+    78          2
+    79          8
+    80          0
+    81         13
+    82         24
+    83        101
+    84        130
+    85         21
+    86          0
+    91          2
+    95          3
+    96         10
+    97         54
+    98         24
+    99          1
+   110          0
+   111         12
+   112         32
+   113          2
+   125         23
+   126          5
+   140         54
+   141          4

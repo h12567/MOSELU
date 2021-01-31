@@ -1,0 +1,73 @@
+##TITLE=Library Entry 15979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Chlorobutyramide
+##MOLFORM=C4H8ClNO
+##CAS REGISTRY NO=7462-73-9
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         25
+    16         23
+    17         11
+    18         11
+    25          6
+    26         33
+    27        109
+    28         58
+    29         16
+    30          8
+    35          7
+    36          7
+    37         29
+    38         51
+    39        175
+    40         38
+    41        226
+    42         54
+    44        999
+    45         14
+    46          8
+    47          4
+    48          6
+    49         28
+    50          4
+    51         11
+    52          7
+    53          7
+    54          5
+    55         38
+    56          3
+    60          2
+    61         10
+    62         12
+    63          7
+    64         11
+    65          6
+    66          4
+    67          2
+    68          8
+    69         83
+    70         10
+    75         11
+    76         48
+    77         12
+    78         16
+    79          2
+    80          2
+    84          2
+    86        106
+    87          6
+    89          2
+    93        384
+    94         15
+    95        131
+    96          5
+   121          2

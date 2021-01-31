@@ -1,0 +1,49 @@
+##TITLE=Library Entry 9030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Pentanamine, N-(1-pentylhexylidene)-
+##MOLFORM=C16H33N
+##CAS REGISTRY NO=51677-38-4
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39         80
+    41        440
+    42         80
+    43        999
+    44         70
+    54         60
+    55        270
+    56         90
+    57         90
+    58        260
+    69         80
+    70        120
+    71        899
+    72         70
+    84         80
+    85         50
+    98        529
+    99        110
+   112        659
+   113         70
+   114         60
+   126        230
+   127        360
+   128         50
+   140        350
+   141         80
+   154         80
+   168        220
+   182         80
+   183        120
+   196        250
+   210        120
+   238         20
+   239         30

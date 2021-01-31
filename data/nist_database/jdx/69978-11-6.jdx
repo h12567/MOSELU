@@ -1,0 +1,25 @@
+##TITLE=Library Entry 16081
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JLACBF, 1979(1)63(1979); H. GOTTHARDT AND F. REITER
+##NAMES=HP
+##CAS NAME=Sydnone, 3-(dimethylamino)-4-[(hydroxyimino)methyl]-
+##MOLFORM=C5H8N4O3
+##CAS REGISTRY NO=69978-11-6
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    42        330
+    43        330
+    44        999
+    45        270
+    69        100
+    70         60
+   114        500
+   124         70
+   142        100
+   172        400

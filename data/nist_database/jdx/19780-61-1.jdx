@@ -1,0 +1,59 @@
+##TITLE=Library Entry 20300
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-3-ethyl-2-heptene
+##MOLFORM=C10H20
+##CAS REGISTRY NO=19780-61-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1073
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          7
+    27        103
+    28         35
+    29        103
+    39        173
+    40         39
+    41        370
+    42         31
+    43         82
+    44          6
+    50         10
+    51         32
+    52         17
+    53        110
+    54          6
+    55        999
+    56        107
+    57         52
+    63         10
+    65         40
+    66         17
+    67        142
+    68         10
+    69        728
+    70        123
+    71          8
+    77         39
+    78          8
+    79         49
+    80          9
+    81         66
+    82          8
+    83        322
+    84         99
+    85         11
+    91         14
+    93          6
+    95         19
+    97        385
+    98        112
+    99          7
+   111         54
+   140        236
+   141         23

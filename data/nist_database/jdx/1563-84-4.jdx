@@ -1,0 +1,43 @@
+##TITLE=Library Entry 6491
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Acetamide, N-acetyl-N-propyl-
+##MOLFORM=C7H13NO2
+##CAS REGISTRY NO=1563-84-4
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15        400
+    26         80
+    27        430
+    28        240
+    29        280
+    30        220
+    39        210
+    40         70
+    41        230
+    42        460
+    43        999
+    44        100
+    54         70
+    55         60
+    56        100
+    58        100
+    73         40
+    77        170
+    83         60
+    84         60
+    86         80
+   100         60
+   101         30
+   102         20
+   114         30
+   115         30
+   128         80
+   143         30

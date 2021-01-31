@@ -1,0 +1,53 @@
+##TITLE=Library Entry 34864
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. BUDDRUS, INST. SPEKTROCHEM., DORTMUND, WEST GERMA
+##NAMES=HP
+##CAS NAME=3-Desoxy-1,2,5-tris-O-(trifluoracetyl)-.beta.-DL-erythro-pentofur
+anose
+##MOLFORM=C11H7F9O7
+##CAS REGISTRY NO=71276-41-0
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    13         40
+    15         50
+    16         20
+    19         10
+    20         10
+    26         20
+    27        160
+    29        250
+    31         50
+    39        140
+    40         40
+    41        320
+    42         60
+    43        110
+    44         50
+    45         40
+    50         50
+    53        350
+    54         40
+    55         60
+    57         80
+    59        190
+    69        999
+    73         50
+    81        210
+    82         50
+    87         50
+    97        120
+    99         70
+   125         70
+   153        220
+   166        150
+   167         50
+   181        250
+   195         90
+   295         40
+   309         90

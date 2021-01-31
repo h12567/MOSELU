@@ -1,0 +1,35 @@
+##TITLE=Library Entry 31887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Picoline, 6-nitro-
+##MOLFORM=C6H6N2O2
+##CAS REGISTRY NO=1074-38-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    37         52
+    38         84
+    39        400
+    40         21
+    41         52
+    46         21
+    50         31
+    51         73
+    52         94
+    53         21
+    62         21
+    63        105
+    64        105
+    65        999
+    66        126
+    80         94
+    92        926
+    93         84
+   108        105
+   138         84

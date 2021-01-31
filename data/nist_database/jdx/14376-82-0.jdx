@@ -1,0 +1,36 @@
+##TITLE=Library Entry 33073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-bromo-2-chloro-, trans-
+##MOLFORM=C5H8BrCl
+##CAS REGISTRY NO=14376-82-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27         43
+    38         27
+    39        151
+    40         35
+    41        196
+    51         14
+    53         15
+    63         12
+    65         43
+    66         20
+    67        999
+    68         80
+    75         37
+    77         11
+   103        308
+   104         18
+   105         99
+   106         13
+   182         27
+   184         35
+   186          9

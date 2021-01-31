@@ -1,0 +1,40 @@
+##TITLE=Library Entry 38486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-, 1-methylbutyl ester
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=54340-93-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1001
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27         66
+    29         46
+    32         30
+    39         46
+    40          4
+    41        152
+    42         68
+    43        782
+    44         29
+    45         73
+    53         11
+    55         98
+    56          9
+    57          6
+    69         11
+    70        186
+    71        999
+    72         48
+    73         23
+    87         24
+    88         18
+    89        165
+   115        114
+   143         13
+   158          4

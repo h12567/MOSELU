@@ -1,0 +1,43 @@
+##TITLE=Library Entry 42744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MO-119
+##NAMES=HP
+##CAS NAME=Propanedioic acid, (trimethylsilyl)-, bis(trimethylsilyl) ester
+##MOLFORM=C12H28O4Si3
+##CAS REGISTRY NO=56051-48-0
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         45
+    17         48
+    18        201
+    28         81
+    43         77
+    44         77
+    45        280
+    47         53
+    59         74
+    66         47
+    69        179
+    72         82
+    73        999
+    74         96
+    75        236
+    99         74
+   131         68
+   133         75
+   143        119
+   147        983
+   148        161
+   149        112
+   221        145
+   222         37
+   231         62
+   305        298
+   306         87
+   307         47

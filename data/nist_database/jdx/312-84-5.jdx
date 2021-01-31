@@ -1,0 +1,56 @@
+##TITLE=Library Entry 30988
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=D-Serine
+##MOLFORM=C3H7NO3
+##CAS REGISTRY NO=312-84-5
+##MP= -300
+##BP= -300
+##MW= 105
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         31
+    28        393
+    29        261
+    30        192
+    31        110
+    39          6
+    40         15
+    41         52
+    42        353
+    43        133
+    44        162
+    45         40
+    46         75
+    47         10
+    53          3
+    54          6
+    55         17
+    56         13
+    57        182
+    58         38
+    59         20
+    60        999
+    61         88
+    62          3
+    66          1
+    67          3
+    68          6
+    69         16
+    70         14
+    71          7
+    72          2
+    73          3
+    74        695
+    75        513
+    76         40
+    77          3
+    86          5
+    87         14
+    88          3
+   106          5

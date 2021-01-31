@@ -1,0 +1,31 @@
+##TITLE=Library Entry 35170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ditrifluoromethyl(chlorocarbonyloxy)amine
+##MOLFORM=C3ClF6NO2
+##CAS REGISTRY NO=15496-01-2
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    31        111
+    32          1
+    50         93
+    51          1
+    63        156
+    64          2
+    65         45
+    69        999
+    70         11
+   108         18
+   114         54
+   115          1
+   152          2
+   196         22
+   197          1
+   212          1

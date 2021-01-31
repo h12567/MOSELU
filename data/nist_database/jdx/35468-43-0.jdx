@@ -1,0 +1,45 @@
+##TITLE=Library Entry 57009
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=Thiophane, 3-pentyl-
+##MOLFORM=C9H18S
+##CAS REGISTRY NO=35468-43-0
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1238
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         65
+    26         55
+    27        246
+    39        160
+    41        354
+    42         40
+    43        106
+    45        132
+    46         14
+    47         52
+    53        120
+    54         34
+    55        166
+    56         34
+    57         63
+    58         14
+    59         60
+    60         45
+    61         34
+    67        108
+    68         43
+    69         71
+    71         34
+    73         25
+    81         63
+    85         45
+    87        999
+    88         55
+   101        220
+   158        128

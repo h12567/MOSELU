@@ -1,0 +1,29 @@
+##TITLE=Library Entry 36707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Perfluoro(6-methoxy-7-oxabicyclo[4.3.0]nonane)
+##MOLFORM=C9F16O2
+##CAS REGISTRY NO=87744-09-0
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    31         20
+    47         53
+    69        999
+    93         44
+   100         53
+   131        156
+   143         35
+   162         39
+   181         43
+   193         52
+   212        201
+   243        101
+   281         24
+   359         55

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 97326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Bromo-1-phenyl-1-propene
+##MOLFORM=C9H9Br
+##CAS REGISTRY NO=4392-24-9
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    13          3
+    18          1
+    25          4
+    26         22
+    27         21
+    36          4
+    37         22
+    38         73
+    39        223
+    40         23
+    41          2
+    49         18
+    50        122
+    51        167
+    52         43
+    53          9
+    55          3
+    58        103
+    60          4
+    61         30
+    62         85
+    63        151
+    64         45
+    65         88
+    66          7
+    73          8
+    74         19
+    75         29
+    76         33
+    77         42
+    78         26
+    79         25
+    80          9
+    81         28
+    82          6
+    83          4
+    85         11
+    86         21
+    87         30
+    88         19
+    89         89
+    91        275
+    92         25
+    95          2
+    98          3
+   102         36
+   103          7
+   110          2
+   113         12
+   115        570
+   116        226
+   117        999
+   118        104
+   119          7
+   196         25
+   198         21
+   199          5

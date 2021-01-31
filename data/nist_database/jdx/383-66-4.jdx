@@ -1,0 +1,62 @@
+##TITLE=Library Entry 34717
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Propyl trifluoroacetate
+##MOLFORM=C5H7F3O2
+##CAS REGISTRY NO=383-66-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=559
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         12
+    26         30
+    27        249
+    28         52
+    29        147
+    30         15
+    31         36
+    33         21
+    37          7
+    38         17
+    39        128
+    40         39
+    41        509
+    42        543
+    43        950
+    44         38
+    45          7
+    47         14
+    50         57
+    51          9
+    53          2
+    55          3
+    57         19
+    58          3
+    59         38
+    60          2
+    61          9
+    65          4
+    66          1
+    69        999
+    70         90
+    78         48
+    79          2
+    80          9
+    95          7
+    97         68
+    99        399
+   100          8
+   109          1
+   113          4
+   115          9
+   125          4
+   127        104
+   128         25
+   129          3
+   137          3
+   155          2

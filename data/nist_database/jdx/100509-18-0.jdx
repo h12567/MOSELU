@@ -1,0 +1,25 @@
+##TITLE=Library Entry 30281
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. GATTOW, INST. ANORG. CHEM., UNIV. MAINZ, MAINZ, W. G
+ER.
+##NAMES=HP
+##CAS NAME=Methoxyformic acid, TMS derivative
+##MOLFORM=C5H12O3Si
+##CAS REGISTRY NO=100509-18-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    43         84
+    44        720
+    59        999
+    61        229
+    73        512
+    75        643
+    89        874
+   133        304
+   148        442

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 16017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Pentanamine, N-methyl-
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=25419-06-1
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=706
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    15          9
+    27         30
+    28         40
+    29         20
+    30         60
+    31         10
+    41         40
+    42         40
+    43         40
+    44        999
+    45         30
+    46          1
+    55          7
+    56         10
+    57         10
+    58         70
+    59          5
+    69          3
+    70         20
+    71          5
+    72         10
+    73          2
+    84          2
+    86         10
+    87          7
+    98          2
+    99          4
+   100         10
+   101         90

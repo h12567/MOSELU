@@ -1,0 +1,49 @@
+##TITLE=Library Entry 45663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Silane, [(1,1-dimethyl-2-propenyl)oxy]dimethyl-
+##MOLFORM=C7H16OSi
+##CAS REGISTRY NO=23483-22-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    45         52
+    47         18
+    53         22
+    55         20
+    57         12
+    58         10
+    59        134
+    60         20
+    61        125
+    62         10
+    69         23
+    71          9
+    73         13
+    75        999
+    76         76
+    77         40
+    85         34
+    87         51
+    99         28
+   101         80
+   102         12
+   111         56
+   113         33
+   115         14
+   116         83
+   117        122
+   118         15
+   127         28
+   129        973
+   130        117
+   131         41
+   143         23
+   144         12
+   145          2

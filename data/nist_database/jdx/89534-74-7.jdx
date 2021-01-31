@@ -1,0 +1,54 @@
+##TITLE=Library Entry 3412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-(Methylthio)-2-methylbut-2-ene
+##MOLFORM=C6H12S
+##CAS REGISTRY NO=89534-74-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         99
+    35         13
+    37          7
+    38         11
+    39        156
+    41        999
+    42         52
+    43         15
+    45         87
+    46         24
+    47         33
+    48          9
+    49          9
+    50         11
+    51         18
+    52          8
+    53        113
+    54         15
+    55         44
+    58          5
+    59         49
+    61         83
+    62          7
+    63          7
+    65         20
+    66         18
+    67        224
+    68        452
+    69        487
+    70         33
+    73          9
+    75         10
+    85          5
+    99          5
+   101         41
+   116        451
+   117         22
+   118         17

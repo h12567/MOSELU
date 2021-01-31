@@ -1,0 +1,44 @@
+##TITLE=Library Entry 1343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. BRUCK, MAGYAR TUDOMANYOS AKADEMIA, HUNGARY
+##NAMES=HP
+##CAS NAME=Phenol, 2-(2-aminoethyl)-
+##MOLFORM=C8H11NO
+##CAS REGISTRY NO=2039-66-9
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28         52
+    30        999
+    31         21
+    32          3
+    39         37
+    50         11
+    51         30
+    52         21
+    53         23
+    63         18
+    64         11
+    65         28
+    66          9
+    77         92
+    78         33
+    79         26
+    89         18
+    90         23
+    91         61
+    92         14
+   107        113
+   108        212
+   109          7
+   118          3
+   119          4
+   120         25
+   121         11
+   137        290
+   138         28

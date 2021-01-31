@@ -1,0 +1,30 @@
+##TITLE=Library Entry 68145
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,2,2-Trimethylpropyl dimethylphosphinate
+##MOLFORM=C8H19O2P
+##CAS REGISTRY NO=92411-69-3
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         69
+    41        257
+    42         90
+    55         61
+    57         49
+    69        171
+    77        291
+    78        579
+    79         49
+    84         60
+    85         70
+    95        999
+   120        319
+   122        400
+   163          9

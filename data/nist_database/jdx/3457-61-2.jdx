@@ -1,0 +1,82 @@
+##TITLE=Library Entry 9381
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Peroxide, 1,1-dimethylethyl 1-methyl-1-phenylethyl
+##MOLFORM=C13H20O2
+##CAS REGISTRY NO=3457-61-2
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    12          7
+    13         23
+    14         72
+    15        261
+    19          2
+    24          6
+    25         32
+    26        144
+    27        236
+    28        303
+    29        142
+    30         68
+    31         14
+    33          2
+    36          9
+    37         44
+    38         70
+    39        134
+    41        130
+    43        999
+    44         26
+    45         11
+    50        187
+    51        374
+    52         38
+    54          1
+    55          6
+    57         47
+    58        108
+    59          9
+    60          3
+    61         14
+    62         30
+    63         37
+    64          7
+    65         33
+    66          5
+    73         23
+    74         52
+    75         32
+    77        656
+    78         79
+    79         25
+    80          2
+    85          3
+    86          4
+    87          2
+    89         13
+    91        198
+    92         16
+    94          2
+    95          8
+    97          1
+    98          1
+   101          1
+   102          7
+   103         18
+   105        562
+   106         44
+   107          7
+   115          6
+   117         12
+   119        449
+   120        168
+   121         18
+   122          1
+   135          5

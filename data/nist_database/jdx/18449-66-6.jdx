@@ -1,0 +1,38 @@
+##TITLE=Library Entry 78045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.DARLING INST. PAPER CHEM., APPLETON, WIS., USA
+##NAMES=HP
+##CAS NAME=Tremuloidin, tetraacetate
+##MOLFORM=C28H30O12
+##CAS REGISTRY NO=18449-66-6
+##MP= -300
+##BP= -300
+##MW= 558
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        354
+    44          9
+    51         11
+    77         90
+    78         23
+    81         12
+    97         21
+   105        999
+   106        118
+   107         27
+   109         88
+   115         13
+   127         18
+   129         13
+   169        110
+   170          9
+   231         13
+   273          3
+   291          2
+   333          6
+   393         86
+   394         18
+   498          0

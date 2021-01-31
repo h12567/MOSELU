@@ -1,0 +1,62 @@
+##TITLE=Library Entry 27436
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (8)837(1978); J. M. VERNON ET AL.
+##NAMES=HP
+##CAS NAME=Naphthalen-1,4-imine-2,3-dicarboxylic acid, 5,6,7,8-tetrachloro-9
+-(1,1-dimethylethyl)-1,4-dihydro-, dimethyl ester
+##MOLFORM=C18H17Cl4NO4
+##CAS REGISTRY NO=60857-31-0
+##MP= -300
+##BP= -300
+##MW= 451
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    56        340
+    57        999
+    58         90
+    59        240
+    77        150
+   105        220
+   111        540
+   165        110
+   197        310
+   243        160
+   253        720
+   255        890
+   257        430
+   274        160
+   309        370
+   311        440
+   313        220
+   336        120
+   338        150
+   340         70
+   349        120
+   351        140
+   353         70
+   363         90
+   364        150
+   365        130
+   366        110
+   367         70
+   377         80
+   379        100
+   381         50
+   392        100
+   394        130
+   396         70
+   404        320
+   406        420
+   408        210
+   420         40
+   422         60
+   424         30
+   436        320
+   438        410
+   440        210
+   451         90
+   453        110
+   455         60

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 15502
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Chlorodifluoroacetamide
+##MOLFORM=C2H2ClF2NO
+##CAS REGISTRY NO=354-28-9
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12         10
+    13          1
+    15          6
+    16         78
+    17          1
+    18          2
+    19         15
+    20          1
+    24          1
+    27         10
+    28         31
+    31         60
+    32          5
+    35         34
+    36          5
+    37         12
+    38          4
+    39          1
+    40          2
+    44        999
+    45          7
+    46         26
+    47         19
+    48          1
+    50         77
+    51        123
+    62          1
+    63          2
+    64          2
+    65          7
+    66         27
+    67         37
+    68          8
+    69         11
+    76          1
+    78         17
+    82          5
+    85         56
+    87         17
+    94         88
+    95          2
+    96          1
+   129          7
+   131          2

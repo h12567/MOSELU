@@ -1,0 +1,62 @@
+##TITLE=Library Entry 20552
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=11-Hexadecen-1-ol, (Z)-
+##MOLFORM=C16H32O
+##CAS REGISTRY NO=56683-54-6
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1867
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    17         11
+    18         54
+    27        108
+    28         30
+    29        179
+    31        152
+    36         39
+    38          5
+    39        104
+    40         19
+    41        634
+    42        114
+    43        260
+    44         27
+    53         64
+    54        307
+    55        999
+    56        192
+    57        164
+    65         21
+    66         41
+    67        543
+    68        384
+    69        456
+    70        111
+    71         60
+    77         12
+    79         59
+    80         28
+    81        519
+    82        644
+    83        271
+    84         50
+    85         35
+    93         13
+    95        379
+    96        447
+    97        151
+    98         35
+   109        174
+   110        145
+   111         43
+   123         76
+   124         67
+   137         30
+   138         30
+   222         19

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 15193
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=12-Methylaminolauric acid
+##MOLFORM=C13H27NO2
+##CAS REGISTRY NO=7408-81-3
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    27         12
+    29         21
+    30         26
+    31         14
+    39          9
+    40          1
+    41         51
+    42         22
+    43         29
+    44        999
+    45         35
+    46          0
+    53          4
+    54          2
+    55         43
+    56         10
+    57         14
+    58         19
+    59         15
+    60         11
+    61          1
+    65          0
+    67          4
+    68          1
+    69         13
+    70         10
+    71          3
+    72          2
+    73          7
+    74          1
+    77          0
+    79          0
+    81          3
+    82          0
+    83          4
+    84          2
+    85          0
+    86          8
+    87          2
+    95          1
+    96          0
+    97          1
+    98          0
+    99          0
+   100          9
+   101          1
+   109          0
+   111          0
+   112          0
+   114          4
+   115          0
+   128          2
+   142          2
+   156          2
+   157          1
+   170         20
+   171          2
+   184          0
+   185          1
+   196          0
+   210          3
+   212          1
+   214          1
+   228          3
+   229         20
+   230          3

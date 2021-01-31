@@ -1,0 +1,44 @@
+##TITLE=Library Entry 57116
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION, ALDERLEY PARK C
+HESHIR
+##NAMES=HP
+##CAS NAME=Butyric acid, 4,4'-thiodi-, dioctadecyl ester
+##MOLFORM=C44H86O4S
+##CAS REGISTRY NO=3895-83-8
+##MP= -300
+##BP= -300
+##MW= 710
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    43        773
+    55         91
+    57        181
+    68         27
+    69         95
+    71        110
+    85        223
+    87        999
+   101         24
+   119         25
+   126         22
+   129         26
+   134         29
+   135         23
+   143         12
+   147         27
+   148         26
+   170         20
+   189         26
+   206         27
+   207         12
+   339        206
+   371         14
+   386        206
+   399         20
+   440         16
+   458         26
+   710         15

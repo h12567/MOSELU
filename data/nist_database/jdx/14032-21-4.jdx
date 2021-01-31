@@ -1,0 +1,67 @@
+##TITLE=Library Entry 45692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-(Dimethyl(chloromethyl)silyloxy)butane
+##MOLFORM=C7H17ClOSi
+##CAS REGISTRY NO=14032-21-4
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    39         35
+    41         81
+    42         20
+    43         87
+    44         25
+    45         98
+    47         43
+    49         18
+    55         37
+    56         23
+    57         21
+    58         30
+    59         83
+    60         18
+    61         58
+    63         33
+    65         26
+    69         23
+    71         12
+    72         18
+    73         18
+    74         22
+    75        999
+    76         79
+    77         28
+    78         20
+    79        162
+    80         23
+    81        124
+    82         13
+    83         25
+    85         12
+    87         20
+    88         17
+    89        103
+    93         63
+    95         87
+    96         13
+    97         28
+   101         11
+   107         85
+   108         16
+   109         45
+   115         22
+   123         29
+   125         12
+   130         19
+   131        823
+   132         93
+   133         34
+   137         29
+   139         13

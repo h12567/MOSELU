@@ -1,0 +1,55 @@
+##TITLE=Library Entry 12570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Oxazolin-5-one, 4-(o-chlorobenzylidene)-2-methyl-
+##MOLFORM=C11H8ClNO2
+##CAS REGISTRY NO=32997-15-2
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    35          4
+    36          5
+    37          9
+    38         20
+    39         27
+    40         12
+    43        999
+    44          9
+    49          2
+    50         24
+    51         14
+    61         11
+    62         22
+    63         28
+    64          3
+    73         10
+    74         17
+    75         17
+    76          4
+    86          5
+    87          9
+    88         28
+    89         26
+    90          2
+   101          2
+   114         24
+   115         40
+   116         14
+   123         23
+   124          9
+   136          7
+   150         27
+   151        265
+   152         29
+   153         74
+   186         90
+   187          6
+   193         21
+   221        130
+   223         39

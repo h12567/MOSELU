@@ -1,0 +1,47 @@
+##TITLE=Library Entry 17180
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=KONINKLIJKE/SHELL LAB., AMSTERDAM, THE NETHERLANDS
+##NAMES=HP
+##CAS NAME=Butanoic acid, heptafluoro-
+##MOLFORM=C4HF7O2
+##CAS REGISTRY NO=375-22-4
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=863
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    16          5
+    17         45
+    18        145
+    19          1
+    24          1
+    28         21
+    31        255
+    32          8
+    33          0
+    36          6
+    43         14
+    44         53
+    45        999
+    46         12
+    47         25
+    50         93
+    55          7
+    62         18
+    67         98
+    69        925
+    81         34
+   100        530
+   101         13
+   105          2
+   119        649
+   120         14
+   131        127
+   132          4
+   150        124
+   151         17
+   169        279
+   170         12

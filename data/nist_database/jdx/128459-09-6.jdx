@@ -1,0 +1,65 @@
+##TITLE=Library Entry 10162
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7538
+##NAMES=HP
+##CAS NAME=N-Methoxydiacetamide
+##MOLFORM=C5H9NO3
+##CAS REGISTRY NO=128459-09-6
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         34
+    15        103
+    16          2
+    25          1
+    26          4
+    27         14
+    28         45
+    29         40
+    30         22
+    31         40
+    32         24
+    33          4
+    38          6
+    39         11
+    40         36
+    41         79
+    42        121
+    43        999
+    44         65
+    45         10
+    46          5
+    47        519
+    48          8
+    49          1
+    54          1
+    55          4
+    56         22
+    57         53
+    58         31
+    59         61
+    60          9
+    70          3
+    72         18
+    73          2
+    74          6
+    75          2
+    85          1
+    86          4
+    88          2
+    89        958
+    90         61
+    91          6
+   100          2
+   103          1
+   114          2
+   115          8
+   131         23
+   132         11

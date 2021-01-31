@@ -1,0 +1,33 @@
+##TITLE=Library Entry 53466
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=L-Proline, 1-methyl-, methyl ester
+##MOLFORM=C7H13NO2
+##CAS REGISTRY NO=27957-91-1
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=1017
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        150
+    29        290
+    30         70
+    31        450
+    39         50
+    40         50
+    41        100
+    42        350
+    44         70
+    45        110
+    55         70
+    59        110
+    74         60
+    82        110
+    84        999
+    85         70
+   143         30

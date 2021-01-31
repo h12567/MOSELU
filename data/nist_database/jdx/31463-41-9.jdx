@@ -1,0 +1,27 @@
+##TITLE=Library Entry 96628
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.G.WESTON, DEPT. CHEM., UNIVERSITY OF DURHAM, DURHAM,
+ UK
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]oct-2-ene, 1,4,5,5,6,6-hexafluoro-
+##MOLFORM=C8H6F6
+##CAS REGISTRY NO=31463-41-9
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    69         80
+    95         80
+    96         80
+    97         80
+   115        380
+   116        999
+   117         80
+   119        160
+   121         60
+   188         60
+   216        120

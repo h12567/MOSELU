@@ -1,0 +1,57 @@
+##TITLE=Library Entry 8056
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Nonanone
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=821-55-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1092
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         50
+    26         15
+    27        152
+    28         11
+    29        146
+    31          6
+    39        125
+    40         38
+    41        292
+    42        114
+    43        999
+    44         29
+    45         12
+    51         10
+    53         28
+    54         13
+    55         96
+    56         36
+    57        223
+    58        911
+    59        213
+    60          9
+    67         26
+    68         10
+    69         23
+    70          9
+    71        223
+    72         16
+    81          8
+    82         32
+    83         10
+    84         35
+    85         42
+    86         12
+    95         12
+    99         22
+   100         20
+   109          8
+   113         15
+   127         31
+   142         71
+   143          8

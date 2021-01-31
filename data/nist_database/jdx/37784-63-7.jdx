@@ -1,0 +1,77 @@
+##TITLE=Library Entry 70564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6262
+##NAMES=HP
+##CAS NAME=Ethyl 3-thiopheneacetate
+##MOLFORM=C8H10O2S
+##CAS REGISTRY NO=37784-63-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          4
+    27         27
+    28          8
+    29        130
+    30          3
+    31          6
+    32          1
+    37          1
+    38          4
+    39         19
+    41          1
+    42          2
+    43          3
+    44          2
+    45        106
+    46          3
+    47          7
+    48          9
+    49          1
+    50          6
+    51         12
+    52          6
+    53         57
+    54          2
+    55          1
+    57          4
+    58          7
+    59          1
+    61          1
+    62          2
+    63          5
+    65          1
+    69         19
+    70         12
+    71          9
+    72          1
+    81          2
+    82          3
+    84          2
+    85          5
+    91          1
+    93          1
+    95          6
+    96         10
+    97        999
+    98        102
+    99         49
+   100          4
+   111          4
+   113          3
+   124          6
+   125         22
+   126          2
+   127          1
+   141          1
+   142          9
+   155          1
+   170        336
+   171         33
+   172         17
+   173          1

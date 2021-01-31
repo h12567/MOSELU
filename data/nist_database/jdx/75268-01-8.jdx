@@ -1,0 +1,51 @@
+##TITLE=Library Entry 4472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=1H-Azepin-1-amine, N-ethylidenehexahydro-
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=75268-01-8
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    28        262
+    29        142
+    30        196
+    39        131
+    40         46
+    41        423
+    42        999
+    43        189
+    44        208
+    53         27
+    54         35
+    55        173
+    56        150
+    57         65
+    58         35
+    67         23
+    68         85
+    69        423
+    70        162
+    71        183
+    72         42
+    82         73
+    83         58
+    84         66
+    85        135
+    96         96
+    97        192
+    98        231
+    99         23
+   111        131
+   112         22
+   125         81
+   139        112
+   140        423
+   141         50

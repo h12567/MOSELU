@@ -1,0 +1,51 @@
+##TITLE=Library Entry 81185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=Propanedinitrile, (benzoyloxy)phenyl-
+##MOLFORM=C16H10N2O2
+##CAS REGISTRY NO=5467-94-7
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    40          1
+    43          1
+    49          1
+    50         40
+    51        209
+    52          6
+    57          0
+    61          4
+    62         10
+    63         23
+    64          6
+    74         10
+    75         10
+    77        344
+    78          9
+    86          1
+    87         12
+    88         23
+    89          1
+   102          0
+   105        999
+   106         59
+   113          0
+   114         95
+   115         24
+   122          2
+   129          0
+   131          3
+   139          0
+   141        390
+   142         33
+   190          3
+   191          0
+   218          9
+   262         12
+   263          0

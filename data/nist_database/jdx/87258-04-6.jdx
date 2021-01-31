@@ -1,0 +1,30 @@
+##TITLE=Library Entry 84694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. ODA,DEP. CHEM.,FAC. SCI.,OSAKA UNIV.,TOYONAKA,OSAKA,
+JAPAN
+##NAMES=HP
+##CAS NAME=Tricyclo[6.2.0.0(3,6)]dec-1(8)-en-2,7-dione
+##MOLFORM=C10H10O2
+##CAS REGISTRY NO=87258-04-6
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    28        550
+    51        170
+    52        560
+    53        180
+    54        100
+    55        150
+    78        140
+    79        150
+    80        400
+    91        210
+   106        150
+   108        999
+   134         50
+   162        550

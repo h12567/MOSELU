@@ -1,0 +1,25 @@
+##TITLE=Library Entry 33433
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutaneacetonitrile, 1-methyl-2-(1-methylethenyl)-
+##MOLFORM=C10H15N
+##CAS REGISTRY NO=55760-15-1
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    53        290
+    67        799
+    68        999
+    79        120
+    81         60
+    94         50
+   110         40
+   134         30
+   148         20
+   149         10

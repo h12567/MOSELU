@@ -1,0 +1,89 @@
+##TITLE=Library Entry 70544
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl 2-thienylacetate
+##MOLFORM=C7H8O2S
+##CAS REGISTRY NO=19432-68-9
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          8
+    15         66
+    25          1
+    26          7
+    27         21
+    28          5
+    29         25
+    30          6
+    31          8
+    32          3
+    33          1
+    36          1
+    37         11
+    38         21
+    39         52
+    40          1
+    41          1
+    42          5
+    43          1
+    45        175
+    46          6
+    47         15
+    48          5
+    49          5
+    50         20
+    51         26
+    52         13
+    53        104
+    54          5
+    55          2
+    56          1
+    57         18
+    58         28
+    59         45
+    60          3
+    61          7
+    62         12
+    63         24
+    64          3
+    65          3
+    66          1
+    69         49
+    70         26
+    71         17
+    72          2
+    73          1
+    75          1
+    77          1
+    79          1
+    81          5
+    82          6
+    83          1
+    84          3
+    85          6
+    92          1
+    93          6
+    95         19
+    97        999
+    98         67
+    99         50
+   100          2
+   111          6
+   112          1
+   113          2
+   114          1
+   124          6
+   125          3
+   127          3
+   141          2
+   156        316
+   157         29
+   158         16
+   159          1

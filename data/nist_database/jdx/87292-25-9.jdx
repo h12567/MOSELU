@@ -1,0 +1,44 @@
+##TITLE=Library Entry 97177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. GRIFF, 5 OAKWOOD TERRACE, ROCKAWAY, N.J., USA
+##NAMES=HP
+##CAS NAME=Di-sec-butyl diglycolcarbonate
+##MOLFORM=C14H26O7
+##CAS REGISTRY NO=87292-25-9
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        350
+    42        212
+    43        225
+    44        425
+    45        562
+    55         75
+    56        137
+    57        499
+    58        100
+    59         75
+    70         75
+    71        250
+    85        100
+    89        774
+   102        112
+   103        300
+   104         75
+   117        999
+   118         75
+   130        225
+   145        200
+   175         62
+   176        112
+   190         25
+   202         37
+   203        187
+   204         25
+   207         12
+   218         37

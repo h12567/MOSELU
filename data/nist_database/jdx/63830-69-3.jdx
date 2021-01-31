@@ -1,0 +1,33 @@
+##TITLE=Library Entry 20106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GCITA9,106(9-10)879(1976);Z4B; A. M. CAPORUSSO, UNIVERS
+ITA DI PISA, ITALY
+##NAMES=HP
+##CAS NAME=4-Nonene, 3-methyl-, (Z)-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=63830-69-3
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        230
+    29        270
+    39        190
+    41        580
+    43        160
+    53        100
+    55        999
+    56        200
+    57        140
+    67        110
+    69        610
+    70        340
+    71        110
+    83        190
+    84         60
+   111         90
+   140         30

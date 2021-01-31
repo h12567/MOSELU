@@ -1,0 +1,71 @@
+##TITLE=Library Entry 41523
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)6(1974); SZCZEPANIK
+##NAMES=HP
+##CAS NAME=Adenosine, 5'-S-ethyl-5'-thio-N-(trimethylsilyl)-2',3'-bis-O-(tri
+methylsilyl)-
+##MOLFORM=C21H41N5O3SSi3
+##CAS REGISTRY NO=54623-29-9
+##MP= -300
+##BP= -300
+##MW= 527
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    55        117
+    56         43
+    57         85
+    59         64
+    61         62
+    69         36
+    70         40
+    71         44
+    73        999
+    74        102
+    75        667
+    76         49
+    77         89
+    85         31
+    86         31
+    88         33
+    93         69
+    95         37
+   100         38
+   101         36
+   115         31
+   117         73
+   129        108
+   130         37
+   132         45
+   142         61
+   143         39
+   147        207
+   149         34
+   150         30
+   165         45
+   169        170
+   170         32
+   171         59
+   175         36
+   188         33
+   189        355
+   190         49
+   191         40
+   192        162
+   202        186
+   203         35
+   204         34
+   206         32
+   207         57
+   208        115
+   217         51
+   236        513
+   237        109
+   244         59
+   498         40
+   500         11
+   512         48
+   514         12
+   527          3

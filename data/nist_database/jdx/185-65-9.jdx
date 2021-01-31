@@ -1,0 +1,52 @@
+##TITLE=Library Entry 50125
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Spiro[2.5]octane
+##MOLFORM=C8H14
+##CAS REGISTRY NO=185-65-9
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         12
+    26         21
+    27        130
+    28         67
+    29         42
+    37          7
+    39        332
+    40         72
+    41        341
+    42         38
+    43         13
+    50         44
+    51         99
+    52         49
+    53        185
+    54        332
+    55        127
+    56         19
+    62          9
+    63         22
+    65         74
+    67        947
+    68        218
+    69        107
+    77         78
+    78         27
+    79        180
+    80        110
+    81        999
+    82        368
+    83         21
+    91         25
+    93         17
+    95        188
+    96         13
+   110        162
+   111         14

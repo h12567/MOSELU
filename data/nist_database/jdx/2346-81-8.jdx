@@ -1,0 +1,55 @@
+##TITLE=Library Entry 19834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Chlorohexane
+##MOLFORM=C6H13Cl
+##CAS REGISTRY NO=2346-81-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=812
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         23
+    26         36
+    27        238
+    28         12
+    29        158
+    37         14
+    38         38
+    39        317
+    40         71
+    41        622
+    42        328
+    43        487
+    44         21
+    49         34
+    50         33
+    51         61
+    52         16
+    53         96
+    55        999
+    56        919
+    57         96
+    61         15
+    62         84
+    63         63
+    64         26
+    65         30
+    67         25
+    69        526
+    70         26
+    75         23
+    76         42
+    77         45
+    78         16
+    79         15
+    84        431
+    85        117
+    90         12
+    91         36
+    93         17

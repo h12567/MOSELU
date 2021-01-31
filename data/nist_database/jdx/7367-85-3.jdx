@@ -1,0 +1,83 @@
+##TITLE=Library Entry 57017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 120, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=2-Decenoic acid, methyl ester, (E)-
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=7367-85-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1299
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        430
+    29        580
+    30         20
+    31         40
+    39        360
+    40        130
+    41        940
+    42        210
+    43        930
+    45         50
+    51         30
+    52         20
+    53        230
+    54        180
+    55        820
+    56        310
+    57        150
+    58         10
+    59        320
+    65         30
+    66         30
+    67        180
+    68        280
+    69        430
+    70        110
+    71        100
+    72         20
+    73         20
+    74        390
+    75         40
+    77         20
+    79         40
+    80         20
+    81        280
+    82        100
+    83        110
+    84        260
+    85        100
+    87        999
+    88         60
+    95        100
+    96        170
+    97         70
+    98         50
+    99         20
+   100        180
+   101        150
+   102         20
+   108         40
+   109         50
+   110        220
+   111         60
+   113        230
+   114         60
+   115         30
+   116         10
+   123         70
+   124         30
+   127         40
+   128         20
+   129         10
+   141         30
+   152        100
+   153        140
+   154         20
+   184          5

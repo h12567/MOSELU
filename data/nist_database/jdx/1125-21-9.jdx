@@ -1,0 +1,60 @@
+##TITLE=Library Entry 33714
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=2,6,6-Trimethyl-2-cyclohexene-1,4-dione
+##MOLFORM=C9H12O2
+##CAS REGISTRY NO=1125-21-9
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1144
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          5
+    27         49
+    29         38
+    37         10
+    38         41
+    39        349
+    40        335
+    41        180
+    42         33
+    43         21
+    50         19
+    51         29
+    52         12
+    53         59
+    54         11
+    55         64
+    56         41
+    63          8
+    65         15
+    66         14
+    67         36
+    68        999
+    69         84
+    70          6
+    77         19
+    79         27
+    81         50
+    82         11
+    83         13
+    91         19
+    94          6
+    95         15
+    96        751
+    97         46
+   107         10
+   109        129
+   110         35
+   111          2
+   123         16
+   124         30
+   137         65
+   138          6
+   152        355
+   153         36

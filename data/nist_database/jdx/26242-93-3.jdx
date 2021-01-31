@@ -1,0 +1,71 @@
+##TITLE=Library Entry 79881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4429
+##NAMES=HP
+##CAS NAME=4'-Methyl-2'-nitrobenzanilide
+##MOLFORM=C14H12N2O3
+##CAS REGISTRY NO=26242-93-3
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27          3
+    28          2
+    30          2
+    38          1
+    39          6
+    40          1
+    41          1
+    44          1
+    50          9
+    51         50
+    52          7
+    53          2
+    62          1
+    63          3
+    64          2
+    65          4
+    66          3
+    74          2
+    75          4
+    76         12
+    77        389
+    78         29
+    79          3
+    89          2
+    90          1
+    91          2
+    92          1
+    93          1
+   102          1
+   103          3
+   104          8
+   105        999
+   106         88
+   107          6
+   121          1
+   134          1
+   139          2
+   151          1
+   152          3
+   153          1
+   167          1
+   180          3
+   181          1
+   193          1
+   194          3
+   195          1
+   207          3
+   208          8
+   209          3
+   210        176
+   211         27
+   212          2
+   254          1
+   256        230
+   257         37
+   258          4

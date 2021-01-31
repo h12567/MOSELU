@@ -1,0 +1,58 @@
+##TITLE=Library Entry 10767
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=1,2:5,6-Di-O-isopropylidene-3,4-di-O-acetyl-D-mannitol
+##MOLFORM=C16H26O8
+##CAS REGISTRY NO=76880-55-2
+##MP= -300
+##BP= -300
+##MW= 346
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         50
+    43        999
+    44         30
+    45         10
+    55         40
+    56         10
+    57         20
+    58         10
+    59         60
+    60         10
+    61         20
+    69         50
+    70         10
+    71         10
+    72        140
+    73         70
+    81         30
+    82         10
+    83         40
+    84         10
+    85         50
+    86         10
+   100         10
+   101        560
+   102         30
+   103         20
+   110         20
+   111        200
+   112         10
+   115         50
+   116         10
+   153        180
+   154         10
+   171         60
+   172         10
+   185         50
+   186         10
+   273        160
+   274         20
+   331        150
+   332         20

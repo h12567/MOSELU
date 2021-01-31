@@ -1,0 +1,68 @@
+##TITLE=Library Entry 44517
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Heptenoic acid, methyl ester
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=50652-83-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    38         15
+    40         27
+    41        623
+    42         61
+    43        209
+    44         38
+    45        130
+    50         18
+    51         35
+    52         18
+    53        111
+    54        137
+    55        541
+    56         55
+    57         18
+    58         17
+    59        475
+    60         31
+    61         12
+    65         20
+    66         10
+    67        165
+    68        521
+    69        352
+    70         34
+    71        247
+    72         57
+    73         27
+    74        999
+    75         58
+    77         10
+    79         18
+    81         83
+    82        321
+    83        253
+    84         20
+    85         65
+    86         86
+    87         20
+    95         12
+    99         23
+   100         18
+   101         27
+   103         10
+   109         12
+   110        306
+   111        117
+   112         12
+   113        105
+   114         18
+   127         18
+   142        297
+   143         27

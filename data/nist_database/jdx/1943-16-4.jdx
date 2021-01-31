@@ -1,0 +1,31 @@
+##TITLE=Library Entry 1625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T.LARKINS U.S. DEPT. OF COMMERCE, WASHINGTON, D.C., U
+SA
+##NAMES=HP
+##CAS NAME=Methane, chlorotrinitro-
+##MOLFORM=CClN3O6
+##CAS REGISTRY NO=1943-16-4
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    30         13
+    35        999
+    37        324
+    42         64
+    46        523
+    51          8
+    53          4
+    61          4
+    63          4
+    93        246
+    95         82
+   104         47
+   139        757
+   141        233
+   150         17

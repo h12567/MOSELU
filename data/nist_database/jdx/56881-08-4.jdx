@@ -1,0 +1,58 @@
+##TITLE=Library Entry 6844
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. BORGES DEL CASTILLO, DEP. QUIM. ORG., UNIV. MADRID,
+ SPAIN
+##NAMES=HP
+##CAS NAME=7-Hydroxy-3-(1,1-dimethylprop-2-enyl)coumarin
+##MOLFORM=C14H14O3
+##CAS REGISTRY NO=56881-08-4
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        435
+    43        999
+    44        452
+    45        466
+    55        438
+    56        107
+    57        370
+    60        136
+    67        155
+    69        299
+    71        246
+    73        116
+    77        164
+    79        161
+    83        195
+    84        105
+    85        158
+    91        226
+    93        105
+    95        195
+    96        110
+    97        198
+    98        119
+   105        178
+   106        110
+   107        116
+   109        121
+   111        105
+   115        113
+   117        110
+   121        130
+   129        158
+   131        136
+   145         96
+   147         76
+   155         76
+   161         51
+   175         85
+   187         51
+   202         88
+   215         48
+   230         37

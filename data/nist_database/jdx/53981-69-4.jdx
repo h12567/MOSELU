@@ -1,0 +1,74 @@
+##TITLE=Library Entry 11105
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-(1H-Imidazol-2-yl)-ethanone
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=53981-69-4
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    25         12
+    26         53
+    27         67
+    28        230
+    29         21
+    30          3
+    31          1
+    36          3
+    37         17
+    38         50
+    39         95
+    40        375
+    41        366
+    42        168
+    43        999
+    44         36
+    45          2
+    50          4
+    51         20
+    52         49
+    53         25
+    54         67
+    55         27
+    56          2
+    57          4
+    63          2
+    64          4
+    65          8
+    66         23
+    67        242
+    68        695
+    69         61
+    70          5
+    71          2
+    76          2
+    77          4
+    78         10
+    79          2
+    80          4
+    81         52
+    82        617
+    83         44
+    84          2
+    85          1
+    91          1
+    92          3
+    93          2
+    94          5
+    95        524
+    96         39
+    97          5
+   104          1
+   105          2
+   108          2
+   109          1
+   110        892
+   111         83
+   112          7
+   113          1

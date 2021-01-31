@@ -1,0 +1,37 @@
+##TITLE=Library Entry 84195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(11)3426(1978); B. M. TROST
+##NAMES=HP
+##CAS NAME=3,7-Octadiene-1,1,8-tricarboxylic acid, 3,7-dimethyl-, trimethyl
+ ester, (E,E)-
+##MOLFORM=C16H24O6
+##CAS REGISTRY NO=57683-64-4
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    59        400
+    79        850
+    82        800
+   107        999
+   114        370
+   121        600
+   135        960
+   139        470
+   145        220
+   148        370
+   149        300
+   161        130
+   168        180
+   180        180
+   181        200
+   199        500
+   249        180
+   252        200
+   280        300
+   281        150
+   312         20

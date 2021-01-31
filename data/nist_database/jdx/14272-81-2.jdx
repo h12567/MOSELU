@@ -1,0 +1,44 @@
+##TITLE=Library Entry 48867
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(2)122(1975); G. PEIFFER
+##NAMES=HP
+##CAS NAME=3-Penten-1-yne, 3-methyl-, (Z)-
+##MOLFORM=C6H8
+##CAS REGISTRY NO=14272-81-2
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    32        105
+    37        135
+    38        117
+    39        470
+    40        147
+    41        152
+    42         17
+    48         23
+    49        129
+    50        282
+    51        341
+    52        341
+    53        217
+    54        176
+    55         11
+    61        117
+    62        117
+    63        164
+    65        364
+    66         70
+    73          4
+    74         25
+    75         23
+    76         12
+    77        502
+    78        102
+    79        999
+    80        980
+    81        114

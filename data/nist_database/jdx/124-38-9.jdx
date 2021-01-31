@@ -1,0 +1,23 @@
+##TITLE=Library Entry 15097
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Carbon dioxide
+##MOLFORM=CO2
+##CAS REGISTRY NO=124-38-9
+##MP= -300
+##BP= -300
+##MW= 44
+##$RETENTION INDEX=153
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    12         87
+    16         96
+    22         19
+    28         98
+    29          1
+    44        999
+    45         12
+    46          4

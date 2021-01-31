@@ -1,0 +1,68 @@
+##TITLE=Library Entry 81407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2646(1978); P. DATWYLER ET AL
+##NAMES=HP
+##CAS NAME=Benzamide, N-[3-[10,14-diacetyl-15-[2-(acetyloxy)ethyl]-3a,4,6,7,
+8,9,10,11,12,13,14,15-dodecahydro-3-(4-methoxyphenyl)-4-oxo-1,16-ethenofuro[
+3,4-l][1,5,10]triazacyclohexadecin-5(3H)-yl]propyl]-
+##MOLFORM=C42H52N4O8
+##CAS REGISTRY NO=69721-77-3
+##MP= -300
+##BP= -300
+##MW= 740
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    70        270
+    71        300
+    77        360
+    81        300
+    83        330
+    84        430
+    95        300
+    97        300
+    98        300
+   100        400
+   105        999
+   109        270
+   110        250
+   121        530
+   129        200
+   135        260
+   151        310
+   157        220
+   160        300
+   162        640
+   191        400
+   205        160
+   213        180
+   231        170
+   235        150
+   242        160
+   256        210
+   263        150
+   264        210
+   265        180
+   268        200
+   278        160
+   292        220
+   336        170
+   371        180
+   389        270
+   397        180
+   412        180
+   611         20
+   625         20
+   637        110
+   638         60
+   639        210
+   640         90
+   653         20
+   697         70
+   698         30
+   712         20
+   726         30
+   740         50
+   741         30

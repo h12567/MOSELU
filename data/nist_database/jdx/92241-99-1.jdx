@@ -1,0 +1,31 @@
+##TITLE=Library Entry 17148
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. GAVINA, DEP. QUIM. ORG., UNIV. VALENCIA, VALENCIA, S
+PAIN
+##NAMES=HP
+##CAS NAME=3-Phenyl-6,7-dicarboxyindan-1-one
+##MOLFORM=C17H12O5
+##CAS REGISTRY NO=92241-99-1
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    45        999
+    65        979
+    77        510
+    91        408
+   104        224
+   135        183
+   147        204
+   148        306
+   185        204
+   201         81
+   210        122
+   218        122
+   219        244
+   295        163
+   296        204

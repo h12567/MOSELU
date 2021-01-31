@@ -1,0 +1,69 @@
+##TITLE=Library Entry 27731
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Oxirane, 2,3-diethyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=4468-66-0
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=749
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         24
+    27        228
+    28         38
+    29        299
+    30         44
+    31        295
+    34          1
+    37          6
+    38         20
+    39        242
+    40         64
+    41        601
+    42        391
+    43        273
+    44         13
+    45          6
+    49          0
+    50          4
+    51          5
+    52          1
+    53          9
+    54          2
+    55         37
+    56         13
+    57        396
+    58        999
+    59        495
+    60         15
+    61          1
+    62          0
+    63          1
+    65          1
+    66          0
+    67         36
+    68          2
+    69          6
+    70          2
+    71          7
+    72          1
+    73          0
+    74          0
+    77          1
+    79          0
+    81          0
+    82          1
+    83          1
+    84          1
+    85        136
+    86          5
+    87          0
+    99          2
+   100         10
+   101          1

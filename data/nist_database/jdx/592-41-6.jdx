@@ -1,0 +1,58 @@
+##TITLE=Library Entry 21979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9192
+##NAMES=HP
+##CAS NAME=1-Hexene
+##MOLFORM=C6H12
+##CAS REGISTRY NO=592-41-6
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=584
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15          9
+    26         20
+    27        321
+    28         57
+    29        185
+    30          4
+    37          8
+    38         23
+    39        308
+    40         60
+    41        950
+    42        721
+    43        587
+    44         19
+    49          2
+    50         19
+    51         28
+    52         11
+    53         67
+    54         51
+    55        641
+    56        999
+    57         60
+    58          1
+    61          1
+    62          3
+    63          5
+    65          8
+    66          2
+    67         20
+    68          4
+    69        239
+    70         13
+    71          1
+    74          2
+    77          4
+    78          1
+    79          3
+    81          2
+    83          3
+    84        291
+    85         19
+    86          2

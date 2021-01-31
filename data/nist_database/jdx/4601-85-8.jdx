@@ -1,0 +1,40 @@
+##TITLE=Library Entry 66393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VAINIOTALO, DEPT. CHEM., UNIV. JOENSUU, JOENSUU, FIN
+LAND
+##NAMES=HP
+##CAS NAME=1-Methyltricyclo[2.2.1.0(2,6)]heptane
+##MOLFORM=C8H12
+##CAS REGISTRY NO=4601-85-8
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         74
+    29         35
+    39        166
+    40         42
+    41        136
+    51         67
+    52         37
+    53         71
+    65        102
+    66        142
+    67         79
+    77        462
+    78         96
+    79        531
+    80        272
+    81         44
+    91        491
+    92         63
+    93        999
+    94        117
+   105         31
+   107         97
+   108        832
+   109         76

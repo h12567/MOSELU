@@ -1,0 +1,66 @@
+##TITLE=Library Entry 5729
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5126
+##NAMES=HP
+##CAS NAME=Sulfurous acid, dipropyl ester
+##MOLFORM=C6H14O3S
+##CAS REGISTRY NO=623-98-3
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          6
+    26          6
+    27         96
+    28         17
+    29         39
+    30          5
+    31         47
+    32          2
+    38          2
+    39         24
+    40          6
+    41        132
+    42         57
+    43        999
+    44         30
+    45         17
+    48          6
+    49          1
+    50          3
+    55         16
+    56          3
+    57          6
+    58          3
+    59         36
+    60          4
+    61         17
+    64          6
+    65          2
+    66          3
+    69          1
+    73         74
+    74          4
+    76          2
+    78          5
+    83         37
+    85          3
+    87          7
+    94         10
+    95         10
+    96          1
+   107          9
+   108          1
+   109          1
+   124          5
+   125         34
+   126          2
+   127          2
+   136          1
+   137          6
+   151          1

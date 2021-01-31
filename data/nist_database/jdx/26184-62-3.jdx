@@ -1,0 +1,52 @@
+##TITLE=Library Entry 16839
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(S)-(+)-2-Pentanol
+##MOLFORM=C5H12O
+##CAS REGISTRY NO=26184-62-3
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         45
+    16          2
+    19         26
+    26         18
+    27        131
+    28         34
+    29        104
+    31         61
+    32          3
+    35          1
+    37          5
+    38         12
+    39         76
+    40         10
+    41         75
+    42         36
+    43        182
+    44        100
+    45        999
+    46         20
+    47          3
+    50          2
+    51          4
+    52          1
+    53          6
+    55        173
+    56          8
+    57         14
+    58          4
+    67          1
+    69          3
+    70         18
+    71          6
+    73         74
+    74          1
+    87          4

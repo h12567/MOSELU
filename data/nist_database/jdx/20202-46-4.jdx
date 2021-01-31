@@ -1,0 +1,74 @@
+##TITLE=Library Entry 80445
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propane-1,2,3-trione, 1-phenyl-, 2,3-bis(phenylhydrazone)
+##MOLFORM=C21H18N4O
+##CAS REGISTRY NO=20202-46-4
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    39         93
+    40         25
+    41         34
+    42          4
+    43         67
+    44         13
+    45          8
+    50         10
+    51        120
+    52         15
+    53         41
+    55          7
+    57         21
+    59          4
+    63          9
+    65        337
+    66         36
+    71          6
+    76          4
+    77        874
+    78         64
+    89          6
+    91        131
+    92        467
+    93        917
+    94         82
+   105        999
+   106         73
+   107         19
+   115          4
+   116         30
+   117          4
+   118         27
+   119         12
+   130          4
+   131         12
+   144         18
+   146          5
+   149          9
+   168          5
+   169         16
+   172        245
+   173         26
+   180         11
+   192          9
+   219          4
+   235         13
+   236          6
+   237         30
+   247         90
+   249         15
+   250        145
+   251         27
+   323         20
+   324         39
+   325         30
+   342        364
+   343         82
+   344          5

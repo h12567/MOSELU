@@ -1,0 +1,43 @@
+##TITLE=Library Entry 72331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.TOFT DEPT. NATIONAL HEALTH & WELFARE, OTTAWA, CANADA
+##NAMES=HP
+##CAS NAME=Estr-5(10)-en-3-one, 17-hydroxy-, cyclic 1,2-ethanediyl acetal, (
+17.beta.)-
+##MOLFORM=C20H30O3
+##CAS REGISTRY NO=15342-09-3
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    77        194
+    79        284
+    81        221
+    86        334
+    87        991
+    88         70
+    91        251
+    93        201
+    95        151
+    99        999
+   100        120
+   105        271
+   145        112
+   205        152
+   232        116
+   256        302
+   257        137
+   258        112
+   274         22
+   275         22
+   288         30
+   289         85
+   290         46
+   303         40
+   318        891
+   319        265
+   320         40

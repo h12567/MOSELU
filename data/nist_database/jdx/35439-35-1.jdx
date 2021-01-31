@@ -1,0 +1,86 @@
+##TITLE=Library Entry 6912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=3,5-Di-O-acetyl-2,4,6-tri-O-methyl-d-gluconitrile
+##MOLFORM=C13H21NO7
+##CAS REGISTRY NO=35439-35-1
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    43        999
+    45        863
+    54         13
+    55         61
+    56         18
+    57         95
+    58         18
+    59        128
+    60         33
+    61         13
+    69         61
+    70        109
+    71        273
+    73         85
+    74        191
+    75        109
+    82         13
+    83         14
+    84         36
+    85         66
+    86         18
+    87        268
+    88         33
+    89         95
+    96        201
+    97         57
+    98         23
+    99        162
+   101        556
+   102         76
+   103         23
+   110         18
+   111         23
+   112        263
+   113         47
+   114         18
+   115         57
+   116         13
+   117         52
+   118          8
+   119         37
+   124         28
+   126        143
+   127        248
+   128         23
+   129        575
+   130         57
+   131         47
+   138         37
+   139         18
+   154        162
+   155         23
+   156         18
+   157         18
+   159         95
+   160         13
+   161        277
+   162         23
+   168          4
+   169          6
+   173         13
+   183          9
+   184          9
+   186        224
+   187         23
+   188          4
+   189         23
+   214          8
+   216         18
+   223          8
+   258          5

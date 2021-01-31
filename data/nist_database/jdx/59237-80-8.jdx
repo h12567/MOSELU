@@ -1,0 +1,64 @@
+##TITLE=Library Entry 89643
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyrimidine-2,4(1H,3H)-dione, 1-[1-(hydroxymethyl)-2-hydroxyethyl]
+-
+##MOLFORM=C7H10N2O4
+##CAS REGISTRY NO=59237-80-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38          8
+    39         30
+    40         51
+    41         77
+    42         74
+    43         63
+    44         44
+    45          3
+    52         94
+    54        159
+    55        323
+    56        104
+    57         40
+    65         15
+    66         91
+    68        176
+    69        108
+    70        166
+    71         11
+    73         12
+    74         13
+    77          2
+    79          9
+    80         25
+    81         28
+    82         84
+    83        133
+    84        148
+    85          9
+    93         19
+    95        309
+    96         41
+    97          4
+   110          2
+   112        999
+   113        494
+   114         36
+   115         23
+   126          4
+   138        300
+   140          3
+   143          5
+   153         17
+   155        430
+   156         10
+   186        127
+   187         12
+   189          4

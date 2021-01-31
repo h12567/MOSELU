@@ -1,0 +1,67 @@
+##TITLE=Library Entry 32416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=11-(2-Cyclopentenyl)undecanoic acid, ethyl ester
+##MOLFORM=C18H32O2
+##CAS REGISTRY NO=3552-12-3
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=2051
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        140
+    40         30
+    41        340
+    42         70
+    43        100
+    44         10
+    45         40
+    51         20
+    52         10
+    53         60
+    54         40
+    55        190
+    56         40
+    57         40
+    58         10
+    59         10
+    60         50
+    61         20
+    65         70
+    66         80
+    67        999
+    68         90
+    69         80
+    70         40
+    71         20
+    73         60
+    75         10
+    77         40
+    78         10
+    79         80
+    80         70
+    81         90
+    82         90
+    83         10
+    88         40
+    91         20
+    93         20
+    94         10
+    95         60
+    96         20
+    97         20
+    98         10
+   101         40
+   109         10
+   121         10
+   135         10
+   153         20
+   199         10
+   234         10
+   235         10
+   280         10

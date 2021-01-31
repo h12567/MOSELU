@@ -1,0 +1,39 @@
+##TITLE=Library Entry 82300
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. CHMIELENSKA, INST. CHEM., UNIV. WROCLAW, WROCLAW, PO
+L.
+##NAMES=HP
+##CAS NAME=1,5-Diacetyl-2,6-naphthalenediol dibenzoate
+##MOLFORM=C28H20O6
+##CAS REGISTRY NO=108804-56-4
+##MP= -300
+##BP= -300
+##MW= 452
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43         78
+    44         53
+    51        132
+    77        268
+    78         18
+   105        999
+   106         74
+   126          2
+   127          8
+   128         12
+   131          4
+   199         17
+   200          7
+   201          1
+   226         15
+   242         23
+   305         47
+   306          7
+   347         26
+   348          7
+   452        329
+   453         91
+   454         22

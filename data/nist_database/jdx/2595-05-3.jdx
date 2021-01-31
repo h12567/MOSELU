@@ -1,0 +1,51 @@
+##TITLE=Library Entry 75080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-d-Allofuranose, 1,2:5,6-bis-O-(1-methylethylidene)-
+##MOLFORM=C12H20O6
+##CAS REGISTRY NO=2595-05-3
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    40          3
+    41        203
+    42         76
+    43        759
+    44         81
+    45         60
+    55        385
+    56         12
+    57        123
+    58         87
+    59        723
+    60          3
+    61         69
+    62          9
+    70        160
+    71         32
+    72        229
+    73        367
+    74        352
+    97         72
+    98         12
+    99        178
+   100        105
+   101        999
+   102         94
+   103         29
+   127        830
+   128         21
+   129        141
+   159        503
+   160         18
+   186         25
+   187        123
+   245        119
+   246         18
+   247         14

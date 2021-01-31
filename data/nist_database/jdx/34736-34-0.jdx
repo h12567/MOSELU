@@ -1,0 +1,31 @@
+##TITLE=Library Entry 18797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Silacyclopen-2-ene, 1,1-difluoro-
+##MOLFORM=C4H6F2Si
+##CAS REGISTRY NO=34736-34-0
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        339
+    50         70
+    51         89
+    52         88
+    53        187
+    54        999
+    55         44
+    66         98
+    67        131
+   101        131
+   102          8
+   103          0
+   120        761
+   121         95
+   122         35
+   123          1

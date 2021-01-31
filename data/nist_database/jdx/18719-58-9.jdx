@@ -1,0 +1,80 @@
+##TITLE=Library Entry 31505
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Tris-(2-chloroethyl)orthoformate
+##MOLFORM=C7H13Cl3O3
+##CAS REGISTRY NO=18719-58-9
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         18
+    15         63
+    16          3
+    17          1
+    19         14
+    20          2
+    26         75
+    27        600
+    28        138
+    29        142
+    30         55
+    31        200
+    32          4
+    33          1
+    35          7
+    36         10
+    37          3
+    38          2
+    39          3
+    40          1
+    41          2
+    42         18
+    43         50
+    44         16
+    45         80
+    47         66
+    49         84
+    50         21
+    51         30
+    52          6
+    53          1
+    57          1
+    61         17
+    63        999
+    64         59
+    65        293
+    66          8
+    73        489
+    74         10
+    75          2
+    77          1
+    78          1
+    79          3
+    81          3
+    87          3
+    89          5
+    93          2
+   109         54
+   111         17
+   135          5
+   137          2
+   143          4
+   145          2
+   151          2
+   171        552
+   173        336
+   174         23
+   175         59
+   176          4
+   249          9
+   250          2
+   251          9
+   253          4

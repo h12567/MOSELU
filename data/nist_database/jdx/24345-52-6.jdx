@@ -1,0 +1,35 @@
+##TITLE=Library Entry 73494
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.G.ROWSELL WILKINSON SWORD, SLOUGH, UK
+##NAMES=HP
+##CAS NAME=2H-Thiopyran, 2,2,3,3,4,4,5,5,6,6-decafluorotetrahydro-
+##MOLFORM=C5F10S
+##CAS REGISTRY NO=24345-52-6
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    50         30
+    63        390
+    69        200
+    81         20
+    82        150
+    93         30
+    94         30
+   100        999
+   113        200
+   119         40
+   125         20
+   131        470
+   150         20
+   151        100
+   163         80
+   181         80
+   182         80
+   213        100
+   263        140
+   282        430

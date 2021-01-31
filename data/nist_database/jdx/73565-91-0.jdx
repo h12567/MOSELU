@@ -1,0 +1,80 @@
+##TITLE=Library Entry 11538
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Propanoic acid, pentafluoro-, 1-[4-(2,2,3,3,3-pentafluoro-1-oxopr
+opoxy)phenyl]-1,2-ethanediyl ester
+##MOLFORM=C17H7F15O6
+##CAS REGISTRY NO=73565-91-0
+##MP= -300
+##BP= -300
+##MW= 592
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    41         12
+    42         44
+    43        999
+    44         72
+    45        164
+    51         32
+    60         12
+    61        132
+    63         24
+    64         12
+    65         24
+    69        104
+    70         72
+    73        104
+    74         12
+    75         12
+    77        192
+    78         32
+    79         12
+    88         44
+    89         12
+    90         24
+    91         24
+    92         12
+   100         12
+   101         24
+   105         52
+   106         12
+   109         12
+   117         12
+   118         24
+   119        692
+   120         12
+   121         12
+   133         12
+   135         12
+   147        112
+   217         24
+   225         12
+   239         12
+   240         12
+   253         44
+   265        164
+   266         44
+   267        184
+   268         24
+   269         12
+   281         32
+   297         12
+   359         12
+   361         12
+   383         24
+   387        224
+   388         32
+   401         24
+   411         12
+   415        564
+   416         84
+   427         12
+   428        412
+   429        212
+   430         32
+   592         12

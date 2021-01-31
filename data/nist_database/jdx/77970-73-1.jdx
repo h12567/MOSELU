@@ -1,0 +1,42 @@
+##TITLE=Library Entry 98035
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(3-Phenylpropyl)-heptafluorobutanamide
+##MOLFORM=C13H12F7NO
+##CAS REGISTRY NO=77970-73-1
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         60
+    41         51
+    51         59
+    58        148
+    65        100
+    69        128
+    77         99
+    78         60
+    79         59
+    91        796
+    92        229
+   103         49
+   104         60
+   105        319
+   106         39
+   108         70
+   115         39
+   116         70
+   117        447
+   118        999
+   119        110
+   162         80
+   169         70
+   227        288
+   240         59
+   331        179
+   332         29

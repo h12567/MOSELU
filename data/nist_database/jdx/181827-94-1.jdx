@@ -1,0 +1,36 @@
+##TITLE=Library Entry 94657
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-(2-Chlorophenyl)ethenyl)-pyrrolidin-2,5-dione
+##MOLFORM=C12H10ClNO2
+##CAS REGISTRY NO=181827-94-1
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    57        160
+    86        170
+    88         79
+    89         78
+    91        348
+    99        151
+   102         60
+   111        159
+   112         88
+   113         50
+   114        230
+   115        999
+   116        110
+   117        179
+   120        241
+   128        229
+   143        100
+   151        657
+   153        189
+   179        577
+   181        180

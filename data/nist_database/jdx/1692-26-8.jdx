@@ -1,0 +1,71 @@
+##TITLE=Library Entry 78046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Boronic acid, phenyl-, bis(1-methylethyl) ester
+##MOLFORM=C12H19BO2
+##CAS REGISTRY NO=1692-26-8
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        118
+    42         89
+    43        287
+    44         49
+    45        207
+    46          9
+    50         19
+    51         39
+    52         19
+    53         29
+    56          9
+    58         19
+    59        168
+    60          9
+    69         39
+    70         39
+    76          9
+    77         99
+    78         99
+    79         29
+    84         99
+    85         19
+    86         99
+    87        237
+    88          9
+    91          9
+   100         19
+   102          9
+   103         59
+   104        267
+   105        999
+   106        277
+   107         29
+   112         39
+   113        138
+   114         19
+   115         19
+   119         69
+   120        277
+   121         29
+   127         39
+   128        128
+   129         49
+   131         29
+   132         19
+   133         29
+   146         29
+   147        108
+   148         39
+   190         19
+   191         20
+   204         50
+   205         45
+   206        150
+   207         20

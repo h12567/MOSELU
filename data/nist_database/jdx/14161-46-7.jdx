@@ -1,0 +1,38 @@
+##TITLE=Library Entry 11242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Oxabicyclo[4.1.0]heptan-1-ol, acetate
+##MOLFORM=C8H12O3
+##CAS REGISTRY NO=14161-46-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39         50
+    40         10
+    41        100
+    42         30
+    43        999
+    44         40
+    53         10
+    55         40
+    57         50
+    58         50
+    67        170
+    68         40
+    69         10
+    70         40
+    71         20
+    85         70
+    95         40
+    96         80
+    97         10
+   113        260
+   114        120
+   156         40

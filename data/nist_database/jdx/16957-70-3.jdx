@@ -1,0 +1,88 @@
+##TITLE=Library Entry 34525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2-Pentenoic acid, 2-methyl-, (E)-
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=16957-70-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         17
+    17          0
+    18          1
+    19          2
+    25          2
+    26         30
+    27        235
+    28         49
+    29        114
+    30          5
+    31         22
+    32          4
+    33          2
+    35          3
+    36         13
+    37         14
+    38         39
+    39        276
+    40         55
+    41        760
+    42         93
+    43        158
+    44         14
+    45        132
+    46          5
+    47          4
+    49          5
+    50         26
+    51         37
+    52         16
+    53        137
+    54         20
+    55        102
+    56         20
+    57         36
+    58         23
+    59         11
+    60         12
+    61          6
+    62         10
+    63         14
+    64          2
+    65         30
+    66         12
+    67        179
+    68         83
+    69        999
+    70         99
+    71         74
+    72         17
+    73         26
+    74         17
+    77          2
+    79          2
+    81         28
+    82          3
+    83          4
+    85         47
+    86         17
+    87          8
+    95         26
+    96         44
+    97         30
+    98          2
+    99         69
+   100          3
+   105          1
+   111          1
+   113         17
+   114        382
+   115         24
+   116          2

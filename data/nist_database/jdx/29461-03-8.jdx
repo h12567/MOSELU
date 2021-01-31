@@ -1,0 +1,80 @@
+##TITLE=Library Entry 84609
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Pyrazine, 2-methyl-5-propyl-
+##MOLFORM=C8H12N2
+##CAS REGISTRY NO=29461-03-8
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1070
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         33
+    27        146
+    28        210
+    29         32
+    30          4
+    31          6
+    37         14
+    38         48
+    39        504
+    40        110
+    41        124
+    42        156
+    43         63
+    45          2
+    46          1
+    50         12
+    51         29
+    52         58
+    53         82
+    54         44
+    55         19
+    56          8
+    61          4
+    62          3
+    63          7
+    64         14
+    65         21
+    66         65
+    67         52
+    68         23
+    69          2
+    70         41
+    71          2
+    73          2
+    77          6
+    78          9
+    79          9
+    80        113
+    81         35
+    82          9
+    92          3
+    93         40
+    94         41
+    95         17
+    96          1
+   101          1
+   105          3
+   106          9
+   107        138
+   108        999
+   109         86
+   110          2
+   118          1
+   119          4
+   120          9
+   121        328
+   122         23
+   131          1
+   133         16
+   134          7
+   135         97
+   136        254
+   137         23
+   138          1

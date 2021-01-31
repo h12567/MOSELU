@@ -1,0 +1,28 @@
+##TITLE=Library Entry 914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 377
+##NAMES=HP
+##CAS NAME=Methylamine
+##MOLFORM=CH5N
+##CAS REGISTRY NO=74-89-5
+##MP= -300
+##BP= -300
+##MW= 31
+##$RETENTION INDEX=328
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          4
+    15         40
+    16          4
+    17          8
+    18         11
+    26          9
+    27         82
+    28        538
+    29        123
+    30        999
+    31        655
+    32          9

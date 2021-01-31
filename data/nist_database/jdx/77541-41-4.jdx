@@ -1,0 +1,51 @@
+##TITLE=Library Entry 47039
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. LESKO, SLOVAK INST. TECHNOL., BRATISLAVA, CZECH.
+##NAMES=HP
+##CAS NAME=3-Phenyl-4-benzoyl-7-acetoxymethyl-2,6-dioxa-3-azabicyclo[3.3.0]-
+7-octene
+##MOLFORM=C21H19NO5
+##CAS REGISTRY NO=77541-41-4
+##MP= -300
+##BP= -300
+##MW= 365
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        140
+    41        100
+    43        330
+    45         60
+    50        140
+    51        400
+    52        180
+    53        140
+    59         80
+    65         60
+    66         50
+    74         40
+    76         50
+    77        999
+    78        110
+    80         50
+    81        320
+    91         40
+    93        110
+    94         40
+    97         40
+    98        150
+   104        510
+   105        790
+   106        160
+   122        190
+   140         80
+   184         60
+   200        240
+   201        150
+   209         90
+   225         50
+   243         80
+   260         80
+   365         10

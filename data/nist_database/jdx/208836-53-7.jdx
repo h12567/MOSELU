@@ -1,0 +1,85 @@
+##TITLE=Library Entry 61853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin,TIPS,Russian Acad.Sci.Moscow
+##NAMES=HP
+##CAS NAME=3-Fluorobenzoic acid, benzyl ester
+##MOLFORM=C14H11FO2
+##CAS REGISTRY NO=208836-53-7
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    25          3
+    26         16
+    27         39
+    28          6
+    29         21
+    31         11
+    35          2
+    36         36
+    37         21
+    38         45
+    39        181
+    40         19
+    41         45
+    42          3
+    43          3
+    44         29
+    45          9
+    48          2
+    49         15
+    50        123
+    51        186
+    52         43
+    53         16
+    56          6
+    57         17
+    61         14
+    62         29
+    63         95
+    64         29
+    65        241
+    66         17
+    68         27
+    69         58
+    70          5
+    73          5
+    74         55
+    75        219
+    76         39
+    77        146
+    78         39
+    79        158
+    80         11
+    88          7
+    89        103
+    90        249
+    91        999
+    92         89
+    93          9
+    94         31
+    95        409
+    96         49
+    97          2
+   105         41
+   106         10
+   107        128
+   108         10
+   122          9
+   123        995
+   124        109
+   125          8
+   140          8
+   183          8
+   184          6
+   185         37
+   186          2
+   212         78
+   213         15
+   229          8
+   230        234
+   231         38

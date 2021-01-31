@@ -1,0 +1,35 @@
+##TITLE=Library Entry 42054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Dimethyl-4-trimethylsilyl-1-silacyclo-2,5-hexadiene
+##MOLFORM=C10H20Si2
+##CAS REGISTRY NO=52168-04-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    43         90
+    45         60
+    59        140
+    60         10
+    73        999
+    74         80
+    75         40
+   108        370
+   109         40
+   110         10
+   122        190
+   123         70
+   124         10
+   165         10
+   181        160
+   182         30
+   183         10
+   196        140
+   197         30
+   198         10

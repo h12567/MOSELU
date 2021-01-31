@@ -1,0 +1,62 @@
+##TITLE=Library Entry 52086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,3-Diethoxy-1-propyne
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=10160-87-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          2
+    15         37
+    18          1
+    19          6
+    25          5
+    26         41
+    27        164
+    28         32
+    29        270
+    30         18
+    31         38
+    37          7
+    38         42
+    39         37
+    40          7
+    41          6
+    42          9
+    43         49
+    44          8
+    45         54
+    46          2
+    47         12
+    50          2
+    51          3
+    52          3
+    53         70
+    55        889
+    56         41
+    57          4
+    58          1
+    59          1
+    68          2
+    69          3
+    71         37
+    72          3
+    73          2
+    75          1
+    81          4
+    83        999
+    84         53
+    85          4
+    99         22
+   100          3
+   113          1
+   127         41
+   128          3

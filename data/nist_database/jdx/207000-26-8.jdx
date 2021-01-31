@@ -1,0 +1,42 @@
+##TITLE=Library Entry 56347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.Sasaki ET.AL.J.Chrom.,842,341(1999)
+##NAMES=HP
+##CAS NAME=N-Formyl-2-amino-2-methylpropanal
+##MOLFORM=C5H9NO2
+##CAS REGISTRY NO=207000-26-8
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    40         23
+    41        173
+    42        255
+    43        134
+    44        177
+    45         16
+    46         31
+    55         10
+    56         18
+    57         83
+    58        731
+    59        201
+    60         10
+    69         40
+    70         85
+    72        236
+    73          8
+    83          7
+    84         21
+    86        999
+    87        775
+    88         42
+    98         10
+   100         18
+   102         44
+   115         45
+   116         31

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 81455
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O. WACKER, CIBA-GEIGY LTD., BASLE, SWITZERLAND
+##NAMES=HP
+##CAS NAME=8-[2-(Benzoyloxy)-1-hydroxy-1-isopropyl]-6-hydroxy-N,9-dimethyl-5
+-methylene-10-oxo-2,7-dioxa-9-azabicyclo[4.2.2]decane-1-carboxamide
+##MOLFORM=C21H26N2O8
+##CAS REGISTRY NO=89291-84-9
+##MP= -300
+##BP= -300
+##MW= 434
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    58        160
+    66        180
+    68         80
+    77        280
+    81         90
+    82         70
+    84        180
+    85         60
+    98         60
+    99        180
+   100         40
+   105        999
+   106         80
+   112        100
+   113         40
+   139         50
+   140        220
+   141        120
+   157         60
+   167        180
+   168        470
+   169        130
+   183         70
+   208         60
+   226        150
+   239        130
+   255         50
+   257         20
+   268         10
+   281         10
+   290         10
+   299         40
+   318          8
+   348         10
+   434          1

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 26962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Trisulfide, bis(1,1-dimethylethyl)
+##MOLFORM=C8H18S3
+##CAS REGISTRY NO=4253-90-1
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    45         12
+    49         14
+    55         27
+    56         13
+    57        999
+    58         50
+    59         36
+    64          9
+    74          8
+    89         26
+   154         59
+   156          9
+   210         51
+   211          8
+   212          6

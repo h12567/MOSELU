@@ -1,0 +1,90 @@
+##TITLE=Library Entry 87824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethanone,2,2,2-trifluoro-1-(2-thienyl)-
+##MOLFORM=C6H3F3OS
+##CAS REGISTRY NO=651-70-7
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          1
+    14          1
+    16          1
+    18          2
+    20          1
+    24          1
+    25          9
+    26         10
+    28         25
+    31          7
+    32         21
+    33          2
+    34          1
+    36          7
+    37         55
+    38         84
+    39        494
+    40         17
+    41          8
+    44         15
+    45         95
+    46          4
+    47          6
+    48          6
+    49         30
+    50         69
+    51          8
+    53         33
+    54          1
+    56         15
+    57        122
+    58         22
+    60          2
+    61          5
+    62          2
+    63          4
+    65          1
+    66          3
+    67          1
+    69        168
+    70          2
+    71          1
+    72          2
+    75          3
+    76          1
+    77          6
+    78          1
+    79          1
+    80          8
+    81         48
+    82         56
+    83        176
+    84         15
+    85          9
+    86          1
+    87          3
+    92          2
+    93          3
+    95          1
+    99          2
+   101          1
+   102          1
+   106          1
+   107          3
+   108          1
+   109          3
+   111        999
+   112         61
+   113         50
+   114          2
+   129          3
+   180        257
+   181         18
+   182         14

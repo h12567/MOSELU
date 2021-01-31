@@ -1,0 +1,51 @@
+##TITLE=Library Entry 29780
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Hexane, 1-(1-methoxyethoxy)-
+##MOLFORM=C9H20O2
+##CAS REGISTRY NO=54340-90-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         39
+    29         72
+    31         57
+    39         30
+    40          6
+    41        109
+    42         36
+    43        413
+    44         21
+    45         35
+    53          7
+    55         63
+    56         65
+    57         77
+    58         25
+    59        999
+    60         30
+    61        119
+    67          6
+    69         30
+    70          8
+    71          9
+    75         16
+    82         11
+    83         20
+    84         12
+    85        182
+    86         12
+    89         27
+    91         12
+   111          5
+   113         11
+   129         54
+   130          5
+   145         56
+   146          5

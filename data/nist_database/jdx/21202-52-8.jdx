@@ -1,0 +1,64 @@
+##TITLE=Library Entry 87277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1H-Imidazole,1-ethyl-2-methyl
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=21202-52-8
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=1050
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27        854
+    28        584
+    29        157
+    30          8
+    37         18
+    38         55
+    39        201
+    40        353
+    41        510
+    42        369
+    43         21
+    44          3
+    46          1
+    47         53
+    48          3
+    51         69
+    52        197
+    53        137
+    54        517
+    55        290
+    56         48
+    57          5
+    62          1
+    63          3
+    64          9
+    65          9
+    66         34
+    67         52
+    68        366
+    69        108
+    70          8
+    71          1
+    76          1
+    77          3
+    78         13
+    79         40
+    81        709
+    82        242
+    83         29
+    84          1
+    92          2
+    93         10
+    95        864
+    96         49
+    97          1
+   107         20
+   109        354
+   110        999
+   111         89

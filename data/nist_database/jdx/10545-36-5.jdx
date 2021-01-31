@@ -1,0 +1,71 @@
+##TITLE=Library Entry 55682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethanamine, N-ethyl-N-[(trimethylsilyl)methyl]-
+##MOLFORM=C8H21NSi
+##CAS REGISTRY NO=10545-36-5
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         15
+    16          0
+    17          1
+    18          4
+    26          3
+    27         49
+    28         81
+    29        115
+    30        201
+    31         12
+    32          0
+    39          2
+    40          2
+    41         13
+    42         70
+    43         73
+    44         31
+    45         89
+    46          7
+    47          4
+    53          4
+    54          7
+    55         12
+    56         38
+    57         24
+    58        165
+    59        104
+    60          8
+    61          3
+    68          2
+    70         13
+    71          7
+    72         22
+    73        117
+    74          5
+    75          5
+    84          8
+    86        999
+    87         67
+    88          2
+    93          1
+   100          7
+   102          1
+   114          1
+   116          2
+   128          2
+   130         16
+   131          2
+   142          2
+   144         80
+   145          9
+   146          3
+   159         39
+   160          6
+   161          1

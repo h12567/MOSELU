@@ -1,0 +1,57 @@
+##TITLE=Library Entry 10480
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Hexene-2,5-dione
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=4436-75-3
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    25          3
+    26         35
+    27         21
+    28         14
+    29          8
+    30          1
+    31          2
+    37          8
+    38         13
+    39         34
+    40          5
+    41         44
+    42         52
+    43        999
+    44         26
+    45          4
+    49          4
+    50         14
+    51         12
+    52          4
+    53         19
+    54         25
+    55         39
+    56          4
+    57         10
+    69        237
+    70         18
+    71          8
+    81          3
+    82         15
+    83          3
+    84          8
+    85          4
+    94          5
+    95          3
+    96          2
+    97        674
+    98         35
+    99          4
+   112        414
+   113         27
+   114          3

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 67720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Naphthalene, 2-(1,1-dimethylethyl)decahydro-4a-methyl-
+##MOLFORM=C15H28
+##CAS REGISTRY NO=54934-96-2
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        679
+    55        549
+    56        280
+    57        649
+    67        380
+    69        320
+    81        529
+    83        330
+    95        999
+    96        300
+   109        430
+   137        569
+   150        240
+   151        350
+   152        280
+   208         50

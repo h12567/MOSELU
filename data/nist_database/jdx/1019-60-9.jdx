@@ -1,0 +1,32 @@
+##TITLE=Library Entry 87304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-5-hydroxy-7-methoxy-chromanone
+##MOLFORM=C12H14O4
+##CAS REGISTRY NO=1019-60-9
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    81        100
+    83        371
+    95        835
+    96        120
+   108         80
+   109         90
+   110        999
+   111        148
+   123        218
+   136        109
+   137        198
+   138        808
+   139         89
+   166         89
+   167        171
+   207        179
+   222         69

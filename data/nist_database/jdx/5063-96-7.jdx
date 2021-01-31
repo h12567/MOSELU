@@ -1,0 +1,56 @@
+##TITLE=Library Entry 71954
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Penn State Mass Spectrom.Center
+##NAMES=HP
+##CAS NAME=1H-Pyrrole-2,5-dione, 1-(hydroxymethyl)-
+##MOLFORM=C5H5NO3
+##CAS REGISTRY NO=5063-96-7
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27         95
+    29        229
+    30         25
+    31        198
+    35          7
+    37          3
+    38          3
+    40        157
+    41         29
+    42         24
+    43         55
+    44        149
+    45          3
+    47          7
+    48          7
+    49        188
+    51         49
+    52         35
+    53        178
+    54        699
+    55        218
+    56         59
+    69         69
+    70         69
+    71         59
+    72         21
+    73         10
+    80        338
+    81         18
+    82        145
+    84        119
+    86         75
+    88         10
+    96         10
+    97         39
+    98        188
+    99        999
+   100         39
+   110         69
+   126         75
+   127         49

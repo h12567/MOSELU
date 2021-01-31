@@ -1,0 +1,57 @@
+##TITLE=Library Entry 16602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=11H-Dibenzo[b,e][1,4]dioxepin-7-carboxylic acid, 9-chloro-8-hydro
+xy-3-methoxy-1,4,6-trimethyl-11-oxo-
+##MOLFORM=C18H15ClO7
+##CAS REGISTRY NO=38629-31-1
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         60
+    43         60
+    44        999
+    50         50
+    51        110
+    63         80
+    65        190
+    67         70
+    77        100
+    78         50
+    83         50
+    89         50
+    91        889
+    92        549
+   133         50
+   134         60
+   150         50
+   152         50
+   179         90
+   230         50
+   243         60
+   257         80
+   258         90
+   271        150
+   284         70
+   297         60
+   299        979
+   300        290
+   305         90
+   313         60
+   314         60
+   325         80
+   333        490
+   334        360
+   335        220
+   336        120
+   343         70
+   360         80
+   362         30
+   378        130
+   380         50

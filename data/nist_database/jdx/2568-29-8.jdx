@@ -1,0 +1,53 @@
+##TITLE=Library Entry 40711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H.WILLIAMS CHEMISTRY DEPT., UNIVERSITY OF CAMBRIDGE
+##NAMES=HP
+##CAS NAME=1,3-Dioxolane, 2-(1,1-dimethylethyl)-
+##MOLFORM=C7H14O2
+##CAS REGISTRY NO=2568-29-8
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         40
+    28        130
+    29         40
+    32         30
+    39         30
+    40         10
+    41         60
+    42         10
+    43         50
+    44         10
+    45        140
+    46         10
+    51         10
+    52         10
+    53         10
+    55         30
+    56         15
+    57         60
+    58         10
+    69         10
+    70         30
+    71         20
+    73        999
+    74         40
+    75         10
+    77         10
+    78         30
+    79         10
+    85         10
+    86         10
+    91         10
+    99         10
+   100         10
+   115         30
+   116         10
+   129         20
+   130         10

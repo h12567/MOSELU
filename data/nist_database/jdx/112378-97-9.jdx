@@ -1,0 +1,65 @@
+##TITLE=Library Entry 36186
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Univ. Joensuu, Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=4H-3,1-Benzoxazine, 1,2,4arel,5cis,8cis,8acis-hexahydro-5,8-metha
+no-1-methyl-2-(phenylimino)-
+##MOLFORM=C16H18N2O
+##CAS REGISTRY NO=112378-97-9
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15         15
+    27         22
+    38          8
+    39         48
+    40         19
+    41         53
+    42        236
+    43         15
+    50          7
+    51         27
+    52         11
+    53         10
+    54          6
+    55          6
+    56          7
+    57          8
+    63         14
+    64         29
+    65         43
+    66         85
+    67         14
+    68        420
+    69        999
+    70         71
+    77         67
+    78         26
+    79         21
+    90          8
+    91        102
+    92         15
+    93         10
+    94          6
+   103          9
+   104          9
+   105          7
+   106          7
+   118          8
+   119        762
+   120         68
+   131         20
+   132         13
+   134          8
+   187         78
+   188        434
+   189         55
+   254        200
+   255         39
+   256          5

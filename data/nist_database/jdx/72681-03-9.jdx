@@ -1,0 +1,67 @@
+##TITLE=Library Entry 60818
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzenepentanol, .gamma.-methyl-, acetate
+##MOLFORM=C14H20O2
+##CAS REGISTRY NO=72681-03-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         45
+    28         17
+    29         34
+    31          7
+    39         70
+    40          8
+    41        137
+    42         13
+    43        678
+    44         15
+    50         11
+    51         49
+    52         14
+    53         21
+    55         73
+    56         20
+    57         10
+    61         15
+    63         24
+    65        116
+    67         38
+    68         20
+    69        168
+    70         10
+    73          9
+    77         73
+    78         44
+    79         42
+    81         17
+    82         28
+    89         18
+    90         12
+    91        999
+    92        316
+    93         19
+   103         38
+   104        890
+   105        268
+   106         21
+   107          9
+   115         18
+   116         11
+   117        269
+   118        107
+   119         13
+   129          9
+   131        332
+   132         66
+   145         52
+   159         39
+   160        617
+   161         74

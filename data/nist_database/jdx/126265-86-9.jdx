@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89074
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(4-Nitrophenyl)-2-furancarbothioamide
+##MOLFORM=C11H8N2O3S
+##CAS REGISTRY NO=126265-86-9
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        362
+    45         49
+    50         69
+    51         40
+    63         50
+    64         30
+    65         50
+    69         39
+    71         40
+    72         30
+    75         40
+    76         49
+    82         30
+    83         69
+    94        150
+   100          9
+   109         40
+   111        999
+   155         39
+   169         40
+   201         59
+   215         89
+   247        218
+   248        440

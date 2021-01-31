@@ -1,0 +1,31 @@
+##TITLE=Library Entry 42320
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. AIROLDI, IST. RIC. FARM. MARIO NEGRI, MILAN, ITALY
+##NAMES=HP
+##CAS NAME=Diethanolnitrosamine, 2TMS derivative
+##MOLFORM=C10H26N2O3Si2
+##CAS REGISTRY NO=69981-29-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    73        999
+    75        480
+   101        210
+   103        660
+   116        620
+   117        290
+   130        690
+   144         80
+   147        100
+   175         10
+   218         40
+   232         20
+   233         10
+   235         10
+   248         20
+   263         40

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 43323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. DRAKE, DEP. CHEM., WINDSOR UNIV., ONTARIO, CANA
+##NAMES=HP
+##CAS NAME=Hexamethyldisilaselenane
+##MOLFORM=C6H18SeSi2
+##CAS REGISTRY NO=4099-46-1
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    43         42
+    44         18
+    45        115
+    46          7
+    47          3
+    58         13
+    59         38
+    60          2
+    61          1
+    72         10
+    73        999
+    74         83
+    75         35
+    76          0
+   119          4
+   120          3
+   121         12
+   122          1
+   123         20
+   124          1
+   125          6
+   134          2
+   135          4
+   136          6
+   137          6
+   138         11
+   139          9
+   140          2
+   141          1
+   205          4
+   206          0
+   207         49
+   208         46
+   209        137
+   210         22
+   211        276
+   212         41
+   213         65
+   214          9
+   215          3
+   220          2
+   221          1
+   222         26
+   223         25
+   224         75
+   225         13
+   226        151
+   227         24
+   228         36
+   229          5
+   230          1

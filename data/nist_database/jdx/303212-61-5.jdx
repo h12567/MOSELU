@@ -1,0 +1,52 @@
+##TITLE=Library Entry 18823
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Asinex Ltd, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-(4-Bromo-3-chlorophenyl)-2,5-dihydro-1H-pyrrole-2,5-dione
+##MOLFORM=C10H5BrClNO2
+##CAS REGISTRY NO=303212-61-5
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29         24
+    37         51
+    38         71
+    39         23
+    40          7
+    43         79
+    44        189
+    50         27
+    54        999
+    55         73
+    61         40
+    62         98
+    63         65
+    64         29
+    73         79
+    74         33
+    75         37
+    82        215
+    88         29
+   103         73
+   110         71
+   111         56
+   112        134
+   113         36
+   114        165
+   116         16
+   124        151
+   126         28
+   150        131
+   207         44
+   215         44
+   217         55
+   243         29
+   285        310
+   286         27
+   287        445
+   289         84

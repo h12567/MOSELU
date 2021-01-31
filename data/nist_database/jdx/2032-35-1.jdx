@@ -1,0 +1,77 @@
+##TITLE=Library Entry 76608
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethane, 2-bromo-1,1-diethoxy-
+##MOLFORM=C6H13BrO2
+##CAS REGISTRY NO=2032-35-1
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1005
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    40          1
+    41          1
+    42          2
+    43         14
+    44          4
+    45         12
+    47         75
+    48          1
+    59          1
+    60          2
+    61          5
+    62          0
+    64          0
+    69          0
+    70          0
+    71          5
+    72          6
+    73          6
+    74          0
+    75        244
+    76         10
+    77          1
+    80          0
+    82          0
+    85          0
+    88          0
+    89          1
+    91          1
+    92         20
+    94         12
+    95         17
+    96         11
+    97          0
+   103        999
+   104         62
+   105         10
+   106          1
+   107          5
+   108          0
+   112          0
+   114          0
+   116          0
+   120          1
+   121         17
+   122         53
+   123        687
+   124         68
+   125        649
+   126         16
+   127          1
+   138          0
+   139         17
+   140          0
+   141         16
+   150         16
+   151        463
+   152         37
+   153        457
+   155          1
+   167          5
+   169          5
+   195          3

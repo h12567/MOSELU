@@ -1,0 +1,38 @@
+##TITLE=Library Entry 67881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane, 2,2,3-trimethyl-, endo-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=20536-40-7
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=974
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        600
+    43        180
+    53        130
+    55        710
+    67        500
+    68        200
+    69        470
+    70        420
+    77         60
+    79         75
+    80         15
+    81        270
+    82        310
+    83        150
+    91         35
+    93         25
+    94         90
+    95        999
+    96        180
+   109        670
+   110         65
+   123        140
+   138        160

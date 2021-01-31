@@ -1,0 +1,60 @@
+##TITLE=Library Entry 40224
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=1-Pyrazolidinecarbothioamide, N-methyl-
+##MOLFORM=C5H11N3S
+##CAS REGISTRY NO=139192-92-0
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14         34
+    15         63
+    16         13
+    26         18
+    27         83
+    29         51
+    30        371
+    31         14
+    34         15
+    39         26
+    40         34
+    41         73
+    42        163
+    43        188
+    44        724
+    45         41
+    46         20
+    47         48
+    54         17
+    55         34
+    56         65
+    57         95
+    59         44
+    60         53
+    69         53
+    70         21
+    71        514
+    72        999
+    73         63
+    74        330
+    75        133
+    76         27
+    83         22
+    86         17
+    87         28
+    88         11
+    90         40
+   113         12
+   115         26
+   116         11
+   143         14
+   145        770
+   146         65
+   147         38

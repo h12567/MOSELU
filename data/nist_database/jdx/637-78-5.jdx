@@ -1,0 +1,59 @@
+##TITLE=Library Entry 24420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 764
+##NAMES=HP
+##CAS NAME=Propanoic acid, 1-methylethyl ester
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=637-78-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=751
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         16
+    18          4
+    19          1
+    25          1
+    26         14
+    27        106
+    28         27
+    29        217
+    30          6
+    31          9
+    32          1
+    37          2
+    38          5
+    39         37
+    40          9
+    41        120
+    42         44
+    43        461
+    44         14
+    45         43
+    56          1
+    57        999
+    58         33
+    59        116
+    60          3
+    69          1
+    70          1
+    71          2
+    73         11
+    74         54
+    75        342
+    76         10
+    77          1
+    84          1
+    85          2
+    86          2
+    89          1
+    98          1
+   100          1
+   101        117
+   102          6
+   115          2
+   116          4

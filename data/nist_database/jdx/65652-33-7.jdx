@@ -1,0 +1,77 @@
+##TITLE=Library Entry 72938
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-methyl-, hexyl ester, (Z)-
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=65652-33-7
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1286
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         65
+    28         20
+    29        115
+    30          2
+    31          3
+    37          1
+    38          3
+    39        104
+    40         16
+    41        183
+    42         53
+    43        412
+    44         16
+    45         10
+    50          6
+    51         10
+    52          6
+    53         61
+    54         68
+    55        480
+    56        185
+    57        219
+    58         11
+    59          2
+    60          1
+    67          3
+    68          4
+    69         61
+    70         37
+    72          4
+    73          7
+    74         10
+    75          1
+    79          3
+    81          3
+    82        151
+    83        336
+    84         35
+    85        194
+    86          8
+    87          4
+    96          2
+    97         24
+    98         33
+    99         20
+   100        999
+   101        200
+   102         15
+   103         27
+   106          1
+   110          1
+   111          1
+   113          3
+   114         16
+   115          8
+   127          1
+   141          1
+   143          2
+   169          2
+   184         48
+   185          6

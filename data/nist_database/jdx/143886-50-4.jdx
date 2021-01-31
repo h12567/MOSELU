@@ -1,0 +1,56 @@
+##TITLE=Library Entry 50813
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Propyl-2-hydroxymethylimidazole
+##MOLFORM=C7H12N2O
+##CAS REGISTRY NO=143886-50-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27        400
+    29         89
+    31        144
+    39        219
+    40        172
+    41        494
+    42        246
+    43        341
+    52        152
+    53        144
+    54        277
+    55        295
+    56         66
+    57         38
+    67         64
+    68        120
+    69        558
+    70        127
+    71         37
+    80         43
+    81        999
+    82        167
+    83         48
+    93         23
+    94         28
+    95         58
+    97        539
+    98        181
+   107         79
+   109        207
+   110         24
+   111        194
+   112        106
+   121         32
+   123        198
+   124         21
+   125        140
+   139        222
+   140        774
+   141         68
+   142          6

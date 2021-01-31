@@ -1,0 +1,42 @@
+##TITLE=Library Entry 93226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=3-Methyl-.beta.-methyl-.beta.-nitrostyrene
+##MOLFORM=C10H11NO2
+##CAS REGISTRY NO=86969-37-1
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        180
+    51        121
+    63        122
+    64        110
+    65        283
+    77        230
+    79        154
+    80        208
+    89        144
+    91        924
+    92         97
+   103        127
+   106         91
+   115        999
+   116        562
+   117        137
+   119        317
+   127        137
+   128        315
+   129        330
+   130        193
+   131        122
+   149        112
+   160        122
+   177        303
+   178         35

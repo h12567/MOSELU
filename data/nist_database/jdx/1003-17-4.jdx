@@ -1,0 +1,52 @@
+##TITLE=Library Entry 9881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Tetrahydrofuran, 2,2-dimethyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=1003-17-4
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=700
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         20
+    26         14
+    27         83
+    28         11
+    29         62
+    30          6
+    31         25
+    37          6
+    38         22
+    39        168
+    40         37
+    41        162
+    42        177
+    43        999
+    44         26
+    50         13
+    51         16
+    52          6
+    53         34
+    54          6
+    55        173
+    56         20
+    57         17
+    58         72
+    59        275
+    60          9
+    65          4
+    67         16
+    69         15
+    70         72
+    71          8
+    72         11
+    81         10
+    83          6
+    85        754
+    86         41

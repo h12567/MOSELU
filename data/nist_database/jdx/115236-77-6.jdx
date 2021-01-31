@@ -1,0 +1,33 @@
+##TITLE=Library Entry 100872
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.-G. Chai, Inst. Chem., Chinese Acad. Sci., Beijing, C
+hina
+##NAMES=HP
+##CAS NAME=cis-2,3,4,5-Tetrahydro-2-methyl-4-(4-methylphenyl)-1H-1,5-benzodi
+azepine
+##MOLFORM=C17H20N2
+##CAS REGISTRY NO=115236-77-6
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    65        133
+    77         46
+    92        163
+   105         80
+   119        999
+   133        494
+   145        123
+   161         48
+   209        318
+   220        113
+   234         56
+   235         40
+   236         58
+   237        154
+   252        914
+   253        178

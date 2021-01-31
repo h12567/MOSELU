@@ -1,0 +1,38 @@
+##TITLE=Library Entry 10822
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=Acetamide, N,N'-carbonylbis-
+##MOLFORM=C5H8N2O3
+##CAS REGISTRY NO=638-20-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    32        101
+    41         45
+    42         88
+    43        999
+    44        105
+    55         36
+    57         28
+    59        127
+    60         82
+    61         32
+    69         28
+    70         34
+    87        126
+   102        339
+   103         71
+   129        237
+   130         12
+   131          3
+   135          3
+   137          3
+   144         23
+   145          8

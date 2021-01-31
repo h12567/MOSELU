@@ -1,0 +1,39 @@
+##TITLE=Library Entry 85579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1(3H)-Isobenzofuranone, 3a,4,5,7a-tetrahydro-4-hydroxy-3a,7a-dime
+thyl-, (3a.alpha.,4.beta.,7a.alpha.)-(.+/-.)-
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=54346-06-4
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        250
+    43        120
+    44         50
+    51         80
+    53        130
+    55        110
+    65         70
+    67        110
+    77        140
+    79        140
+    81        120
+    82         50
+    91        210
+    92         50
+    93        110
+    94         70
+    95        170
+    96         50
+   105        120
+   107        180
+   109        999
+   110        230
+   123        120

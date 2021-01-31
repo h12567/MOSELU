@@ -1,0 +1,63 @@
+##TITLE=Library Entry 46812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Octen-4-yne
+##MOLFORM=C8H12
+##CAS REGISTRY NO=24612-83-7
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    14         14
+    15         19
+    18          8
+    26         63
+    27        343
+    28         37
+    29        104
+    32          5
+    37         24
+    38         66
+    39        395
+    40         76
+    41        238
+    42         21
+    43         30
+    49         23
+    50        137
+    51        276
+    52        148
+    53        171
+    54         35
+    55         30
+    61         15
+    62         46
+    63         78
+    64         24
+    65        188
+    66        142
+    67         79
+    68          9
+    73          8
+    74         31
+    75         16
+    76          8
+    77        999
+    78        193
+    79        642
+    80        105
+    81         15
+    89          6
+    91        360
+    93        489
+    94         39
+   103          7
+   105         12
+   107         24
+   108        164
+   109         13

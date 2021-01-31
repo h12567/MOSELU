@@ -1,0 +1,81 @@
+##TITLE=Library Entry 107755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-one, 4-hydroxy-3,5,6-trimethyl-4-(3-oxo-1-butenyl)
+-
+##MOLFORM=C13H18O3
+##CAS REGISTRY NO=77846-84-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=2632
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    27         22
+    28         15
+    29         22
+    39         65
+    40         29
+    41         93
+    42          8
+    43        414
+    44          0
+    51         15
+    52          0
+    53         22
+    54         15
+    55         72
+    56         15
+    57          0
+    65         29
+    66         15
+    67         43
+    68         29
+    69         79
+    70         15
+    71          0
+    77         36
+    78          8
+    79         15
+    81         29
+    82         15
+    83          8
+    91         22
+    92          8
+    93         15
+    94         15
+    95         72
+    96         43
+    97         29
+    98         29
+   105          8
+   106          8
+   107         15
+   109         22
+   110          8
+   111         15
+   120         29
+   121         15
+   122          8
+   123         72
+   124        999
+   125         86
+   126          8
+   137         22
+   138         15
+   147          8
+   148         22
+   149         58
+   150          8
+   151         36
+   165          0
+   166        186
+   167         58
+   179          8
+   180         15
+   188          8
+   204          0
+   222          0

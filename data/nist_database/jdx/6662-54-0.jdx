@@ -1,0 +1,61 @@
+##TITLE=Library Entry 18261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,4-Bis((2-hydroxyimino)acetamido)-benzene
+##MOLFORM=C10H10N4O4
+##CAS REGISTRY NO=6662-54-0
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26        819
+    27        916
+    28        904
+    37        239
+    38        282
+    39        322
+    40         79
+    41        199
+    42         81
+    43        202
+    44        880
+    50        238
+    51        681
+    52        999
+    53        518
+    54        441
+    55        161
+    57        158
+    61        120
+    62        160
+    63        279
+    64        279
+    65        159
+    72        120
+    76        200
+    77        542
+    78        441
+    79        359
+    80        239
+    81        120
+    90        161
+    91         80
+   104        479
+   105        241
+   106        518
+   107        362
+   108        120
+   131         40
+   132        299
+   133        358
+   134        241
+   135        119
+   160        360
+   161        161
+   187        119
+   205        120

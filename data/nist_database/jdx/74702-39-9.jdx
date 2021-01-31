@@ -1,0 +1,62 @@
+##TITLE=Library Entry 31957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.B.Jariwala et al, J. Am. Soc. Mass Spectrom. 19, 1114
+-1118 (2008)
+##NAMES=HP
+##CAS NAME=Formamide, N-(3-iodophenyl)-
+##MOLFORM=C7H6INO
+##CAS REGISTRY NO=74702-39-9
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    36         13
+    37        101
+    38        218
+    39        371
+    40         53
+    41         81
+    42         24
+    43         15
+    49         24
+    50        141
+    51         72
+    52        130
+    53         24
+    54         24
+    60         13
+    61         70
+    62        141
+    63        358
+    64        280
+    65        999
+    66        112
+    73         22
+    74         70
+    75         42
+    76         61
+    77         24
+    87         13
+    88         13
+    89         13
+    90         53
+    91        181
+    92        738
+    93         79
+   119         24
+   120         33
+   121         15
+   127        221
+   128         22
+   191         13
+   203         13
+   218         22
+   219        190
+   220         39
+   247        917
+   248         79
+   249         13

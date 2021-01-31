@@ -1,0 +1,28 @@
+##TITLE=Library Entry 11071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GCITA9, 108( )531(1978); V. ROSNATI ET AL.
+##NAMES=HP
+##CAS NAME=2-Propanone, 1,1-bis(phenylthio)-
+##MOLFORM=C15H14OS2
+##CAS REGISTRY NO=69753-44-2
+##MP= -300
+##BP= -300
+##MW= 274
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    43        999
+   109        350
+   110        230
+   121        160
+   122         70
+   123        280
+   218        130
+   219         20
+   231        260
+   232         40
+   233         20
+   274         40
+   275         10

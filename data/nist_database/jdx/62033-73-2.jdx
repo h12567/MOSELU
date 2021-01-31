@@ -1,0 +1,42 @@
+##TITLE=Library Entry 32232
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Dihydrothiophene, 3-methylene-2-one
+##MOLFORM=C5H6OS
+##CAS REGISTRY NO=62033-73-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27        775
+    29        100
+    39        679
+    40        704
+    41        204
+    45        349
+    46        402
+    47        170
+    53        349
+    55        345
+    58        250
+    59         96
+    66        999
+    67         87
+    68        319
+    71         89
+    72         63
+    73         78
+    81         72
+    85        136
+    86        172
+    87         34
+    91         54
+   113         72
+   114        850
+   115         73
+   116         44

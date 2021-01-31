@@ -1,0 +1,39 @@
+##TITLE=Library Entry 36406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.MARTIN KIEL UNIVERSITY, KIEL, GERMANY F.R.G.
+##NAMES=HP
+##CAS NAME=Hexane, 1,1,1,2,2,3,3,4,4,5,6,6,6-tridecafluoro-
+##MOLFORM=C6HF13
+##CAS REGISTRY NO=1998-54-5
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    31         31
+    50          6
+    51        240
+    69        999
+    82         33
+    93         40
+    94          1
+   100         33
+   101         24
+   112          2
+   113        110
+   119        130
+   131         54
+   132          2
+   150          7
+   151        350
+   163         22
+   169        100
+   181          8
+   201          5
+   213         28
+   219          7
+   231         24
+   301          6

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 35526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Azetidinone, 3,3,4,4-tetramethyl-
+##MOLFORM=C7H13NO
+##CAS REGISTRY NO=13423-22-8
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28         70
+    29         20
+    30         20
+    39        110
+    40         40
+    41        410
+    42        260
+    43         30
+    51         20
+    52         10
+    53         30
+    54         10
+    55         70
+    56         70
+    57         10
+    58        270
+    59         20
+    67         40
+    68         30
+    69        999
+    70        200
+    71         20
+    83         30
+    84        810
+    85         70
+   127         20

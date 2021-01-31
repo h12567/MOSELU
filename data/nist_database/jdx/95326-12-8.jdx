@@ -1,0 +1,33 @@
+##TITLE=Library Entry 37682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G.Beattie ET AL.Biomed.Mass Spectrom.,12,616(1985)
+##NAMES=HP
+##CAS NAME=N-Nitrosoprolylalanine
+##MOLFORM=C8H13N3O4
+##CAS REGISTRY NO=95326-12-8
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    67         25
+    68        227
+    69        295
+    70        999
+    71         83
+    73         18
+    88        237
+    95         18
+    96         25
+    99        471
+   100         86
+   110         22
+   124         22
+   139         29
+   168         25
+   185        112
+   186         22
+   215         25

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 24400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Octane, 3,4,5,6-tetramethyl-
+##MOLFORM=C12H26
+##CAS REGISTRY NO=62185-21-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1116
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    24          2
+    25          1
+    26          0
+    27        117
+    28          6
+    29        378
+    30          8
+    35          0
+    37          1
+    38          3
+    39         76
+    40         11
+    41        480
+    42         32
+    43        964
+    44         28
+    45          0
+    50          0
+    51          3
+    52          2
+    53         27
+    54          9
+    55        152
+    56        150
+    57        999
+    58         39
+    59          0
+    63          0
+    65          4
+    66          1
+    67         13
+    68          3
+    69        111
+    70         19
+    71        526
+    72         26
+    73          0
+    77          2
+    78          0
+    79          3
+    80          0
+    81          4
+    82          2
+    83         83
+    84        207
+    85        365
+    86         21
+    87          0
+    91          1
+    93          0
+    95          1
+    96          0
+    97          6
+    98          0
+    99          1
+   109          0
+   111          1
+   112         58
+   113         83
+   114          7
+   115          0
+   126          0
+   127          0
+   139          1
+   168          0
+   170          0

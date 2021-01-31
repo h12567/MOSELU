@@ -1,0 +1,49 @@
+##TITLE=Library Entry 28311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-tert-Butylacetamide
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=762-84-5
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=867
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15          4
+    18          2
+    26          1
+    27          9
+    29         14
+    30         10
+    38          2
+    39         27
+    40          6
+    41         79
+    42         82
+    43        137
+    44          9
+    50          4
+    51          2
+    52          2
+    53          4
+    54          5
+    55         20
+    56         62
+    57         82
+    58        999
+    59         40
+    60        191
+    61          5
+    70          3
+    71          2
+    72         11
+    73          2
+    84          1
+   100        119
+   101          7
+   115        111
+   116          8

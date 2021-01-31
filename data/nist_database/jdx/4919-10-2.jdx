@@ -1,0 +1,39 @@
+##TITLE=Library Entry 18121
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=s-Triazolo[4,3-a]pyridine, 7-methyl-
+##MOLFORM=C7H7N3
+##CAS REGISTRY NO=4919-10-2
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    38        310
+    39         80
+    40        150
+    41        180
+    50        560
+    51        999
+    52        870
+    53        620
+    64        210
+    65        150
+    66        100
+    77        100
+    78        360
+    79        210
+    80        130
+    81         10
+    91         50
+    92         50
+   105        360
+   106        460
+   107         30
+   132         30
+   133        640
+   134         80

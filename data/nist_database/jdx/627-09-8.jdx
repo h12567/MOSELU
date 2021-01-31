@@ -1,0 +1,48 @@
+##TITLE=Library Entry 5655
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Propyn-1-ol, acetate
+##MOLFORM=C5H6O2
+##CAS REGISTRY NO=627-09-8
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=672
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         11
+    14         35
+    15         97
+    16          3
+    18          2
+    24          4
+    25         14
+    26         35
+    27         37
+    28         25
+    29         49
+    30          3
+    31          4
+    36         10
+    37         61
+    38        119
+    39        352
+    40         16
+    41         17
+    42        124
+    43        999
+    44         28
+    45         11
+    52          3
+    53         25
+    54          5
+    55         55
+    56         30
+    69          6
+    70         47
+    71          1
+    83          6

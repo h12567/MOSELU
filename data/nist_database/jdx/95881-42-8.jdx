@@ -1,0 +1,49 @@
+##TITLE=Library Entry 50950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. ADACHI,LAB. ANIM. PROD. TECHNOL.,TOHOKU UNIV.,SENDAI
+,JPN.
+##NAMES=HP
+##CAS NAME=1,6-Anhydro-3,4-O-[5-(methoxymethyl)-2-furfurylidene]-2-O-methyl-
+.beta.-D-galactopyranose
+##MOLFORM=C14H18O7
+##CAS REGISTRY NO=95881-42-8
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        290
+    45        400
+    55        310
+    57        490
+    58        510
+    69        270
+    71        200
+    81        999
+    82        380
+    85        360
+    87        800
+    95        300
+    97        290
+    99        190
+   109        790
+   111        710
+   112        940
+   113        530
+   125        310
+   126        340
+   137        230
+   139        290
+   140        490
+   141        690
+   149        180
+   155        230
+   158        310
+   168        190
+   183        240
+   225        960
+   267        200
+   298        100

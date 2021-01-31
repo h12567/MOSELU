@@ -1,0 +1,33 @@
+##TITLE=Library Entry 97420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(4-Chloro-phenylthio)indan
+##MOLFORM=C15H13ClS
+##CAS REGISTRY NO=62702-97-0
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39         56
+    43         45
+    51         25
+    63         50
+    65         46
+    89         30
+    91        146
+   108         46
+   109         20
+   115        169
+   116        676
+   117        999
+   118         90
+   143         20
+   144         29
+   260        244
+   261         40
+   262         90

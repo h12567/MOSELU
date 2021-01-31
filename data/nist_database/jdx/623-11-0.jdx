@@ -1,0 +1,52 @@
+##TITLE=Library Entry 59811
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-methyl-4-nitroso-
+##MOLFORM=C7H7NO
+##CAS REGISTRY NO=623-11-0
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    26         16
+    27         50
+    28         16
+    30         50
+    37         33
+    38         50
+    39        288
+    40         16
+    41         50
+    49          6
+    50        118
+    51        142
+    52         67
+    61         33
+    62         74
+    63        203
+    64         67
+    65        847
+    66         61
+    74         61
+    75         10
+    76         16
+    77         33
+    78         27
+    79          6
+    85         10
+    86         20
+    87          6
+    89        118
+    90         37
+    91        999
+    92         94
+   104         10
+   105         16
+   106         33
+   121        728
+   122         67

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 80173
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Liguori, Dep. Chem., Univ. Calabria, Calabria, Italy
+##NAMES=HP
+##CAS NAME=2-Aziridinecarboxylic acid, 2,3-dibenzoyl-1-phenyl-, ethyl ester
+##MOLFORM=C25H21NO4
+##CAS REGISTRY NO=117644-74-3
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    77        570
+    78         70
+    89         40
+    90         30
+    91         30
+    95         30
+    97         30
+   104         70
+   105        999
+   106        350
+   116         30
+   117         30
+   122        120
+   144         60
+   172         30
+   180         30
+   193         50
+   205         70
+   220         70
+   221         90
+   222         30
+   248        350
+   249         70
+   276         30
+   278         50
+   294        380
+   295        180
+   354         80
+   398        480
+   399        370
+   400        103

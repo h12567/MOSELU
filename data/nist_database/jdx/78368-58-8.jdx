@@ -1,0 +1,79 @@
+##TITLE=Library Entry 35703
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(2E,6E)-3,7,11-Trimethyldodeca-2,6,10-trien-1-yl dodecanoate
+##MOLFORM=C27H48O2
+##CAS REGISTRY NO=78368-58-8
+##MP= -300
+##BP= -300
+##MW= 404
+##$RETENTION INDEX=2805
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    27         15
+    29         37
+    39         43
+    41        358
+    42         30
+    43        204
+    53         55
+    55        156
+    56         26
+    57        180
+    65         23
+    67        176
+    68        369
+    69        999
+    70         52
+    71         86
+    77         33
+    79         78
+    80        206
+    81        395
+    82         61
+    83         56
+    84         19
+    85         50
+    91         52
+    92         88
+    93        422
+    94         81
+    95        110
+    97         23
+    98         16
+   105         66
+   106         19
+   107        188
+   108         50
+   109         96
+   110         16
+   119        120
+   120         48
+   121        189
+   122         96
+   123        177
+   124         27
+   133         54
+   134         56
+   135        171
+   136        277
+   137         81
+   138         10
+   147         58
+   148         36
+   149         30
+   161        111
+   162         27
+   163         12
+   175         17
+   176         11
+   183         44
+   184          6
+   189         89
+   190         16
+   204         49
+   335          4
+   404          6

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 37234
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-5293
+##NAMES=HP
+##CAS NAME=Heptane, 3-ethyl-4-methyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=52896-91-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=940
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27        102
+    28         14
+    29        179
+    30          4
+    38          2
+    39         80
+    40         12
+    41        310
+    42        190
+    43        928
+    44         40
+    50          1
+    51          6
+    52          2
+    53         28
+    54          9
+    55        365
+    56         47
+    57        632
+    58         27
+    63          1
+    65          5
+    66          2
+    67         12
+    68          4
+    69         62
+    70        999
+    71        788
+    72         41
+    77          3
+    79          3
+    81          2
+    83          9
+    84         23
+    85         19
+    86          1
+    97          3
+    98         17
+    99         34
+   100          2
+   111          3
+   112         48
+   113        160
+   114         13
+   127          1
+   142         28
+   143          3

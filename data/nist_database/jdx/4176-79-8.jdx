@@ -1,0 +1,52 @@
+##TITLE=Library Entry 34528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,6,10-Dodecatrienoic acid, 3,7,11-trimethyl-, methyl ester, (E,Z
+)-
+##MOLFORM=C16H26O2
+##CAS REGISTRY NO=4176-79-8
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=1778
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        410
+    42         10
+    43         50
+    44         10
+    53         90
+    54         20
+    55         90
+    57         10
+    59         30
+    67         60
+    68         40
+    69        999
+    70         60
+    79         40
+    80         10
+    81        290
+    82        120
+    83         50
+    91         20
+    93         50
+    95         60
+   107         30
+   109         60
+   114        300
+   115         20
+   121        110
+   122         20
+   123         50
+   136         30
+   137         60
+   138         10
+   207         30
+   218         10
+   219         20
+   250         20

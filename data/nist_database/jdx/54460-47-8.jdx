@@ -1,0 +1,56 @@
+##TITLE=Library Entry 35583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin,TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid,decyl ester
+##MOLFORM=C14H26O2
+##CAS REGISTRY NO=54460-47-8
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    36         25
+    38         22
+    39        210
+    40         52
+    41        608
+    42        149
+    43        398
+    44         28
+    45         43
+    50         12
+    51         15
+    53         25
+    54         38
+    55        292
+    56        247
+    57        180
+    58         10
+    67         30
+    68         70
+    69        999
+    70        260
+    71         60
+    81         10
+    82         55
+    83        150
+    84        141
+    85         40
+    86         35
+    87        940
+    88         40
+    95          6
+    96         20
+    97        110
+    98         59
+    99         20
+   110          8
+   111         65
+   112         72
+   113          8
+   140        108
+   141         10

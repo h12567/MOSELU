@@ -1,0 +1,20 @@
+##TITLE=Library Entry 37
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ammonia
+##MOLFORM=H3N
+##CAS REGISTRY NO=7664-41-7
+##MP= -300
+##BP= -300
+##MW= 17
+##$RETENTION INDEX=125
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 5
+##XYDATA=(XY..XY) 1 
+    14         22
+    15         75
+    16        800
+    17        999
+    18          4

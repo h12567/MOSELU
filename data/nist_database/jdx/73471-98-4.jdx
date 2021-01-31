@@ -1,0 +1,40 @@
+##TITLE=Library Entry 37832
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. WYRZYKIEWICZ, INST. CHEM., MICKIEWICZ UNIV., POZNAN,
+ +
+##NAMES=HP
+##CAS NAME=2-Isopropylthiouracil
+##MOLFORM=C7H10N2OS
+##CAS REGISTRY NO=73471-98-4
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    53         67
+    58         31
+    59         90
+    60         61
+    67         90
+    68        108
+    69        511
+    70        999
+    71         38
+    74         42
+    75         70
+    95        291
+    96        380
+    97         61
+   128        800
+   129        169
+   130         36
+   137        871
+   138         67
+   155        266
+   156         42
+   170        570
+   171         47
+   172         30

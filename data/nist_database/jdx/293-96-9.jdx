@@ -1,0 +1,79 @@
+##TITLE=Library Entry 19122
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Cyclodecane
+##MOLFORM=C10H20
+##CAS REGISTRY NO=293-96-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1147
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          2
+    15         19
+    16          3
+    26         27
+    27        321
+    28        113
+    29        337
+    30          6
+    37          3
+    39        387
+    40         87
+    41        972
+    42        391
+    43        387
+    44         13
+    45          2
+    46          1
+    50          7
+    51         22
+    52         13
+    53         95
+    54        132
+    55        999
+    56        654
+    57        223
+    58          9
+    62          1
+    63          3
+    65         20
+    66         18
+    67        149
+    68        238
+    69        585
+    70        590
+    71         78
+    72          3
+    76          1
+    77         11
+    78          3
+    79         13
+    80          1
+    81         47
+    82        202
+    83        449
+    84        267
+    85         46
+    86          2
+    91          4
+    93          2
+    95         13
+    96         62
+    97        296
+    98        108
+    99          8
+   107          1
+   110         21
+   111        158
+   112        114
+   113         10
+   125          4
+   138          1
+   140        188
+   141         19

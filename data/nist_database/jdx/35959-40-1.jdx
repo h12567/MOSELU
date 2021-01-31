@@ -1,0 +1,46 @@
+##TITLE=Library Entry 50591
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Uridine, 2',5'-dideoxy-5'-(3,4-dihydro-5-methyl-2,4-dioxo-1(2H)-p
+yrimidinyl)-
+##MOLFORM=C14H16N4O6
+##CAS REGISTRY NO=35959-40-1
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         70
+    28        120
+    39         80
+    40         60
+    41        180
+    42        110
+    43         60
+    53         80
+    54         90
+    55        180
+    68         80
+    69        150
+    70         60
+    81        999
+    82        120
+    96        420
+    97         70
+    99        899
+   112        140
+   113        130
+   125         20
+   126        180
+   127        200
+   139        190
+   140         70
+   206         90
+   207        130
+   224        150
+   225        110
+   336          5

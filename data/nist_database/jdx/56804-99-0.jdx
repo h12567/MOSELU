@@ -1,0 +1,50 @@
+##TITLE=Library Entry 60212
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J.BROWN CHEM. DEPT., TASMANIA.UNIV., TASMANIA, AUSTRA
+LIA
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole-3-carboxaldehyde, 5-(phenylmethyl)-
+##MOLFORM=C10H9N3O
+##CAS REGISTRY NO=56804-99-0
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    50        240
+    51        560
+    52        170
+    53         60
+    55         50
+    62        100
+    63        320
+    64        110
+    65        540
+    66         50
+    74         80
+    75        100
+    76        140
+    77        610
+    78        160
+    79         50
+    89        300
+    90        300
+    91        999
+    92        100
+   102        120
+   103        240
+   104        280
+   105         90
+   116        320
+   117        360
+   118         70
+   130        100
+   131        330
+   132        180
+   158        190
+   186        140
+   187        580
+   188         70

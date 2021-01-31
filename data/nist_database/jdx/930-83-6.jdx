@@ -1,0 +1,31 @@
+##TITLE=Library Entry 4522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 1240
+##NAMES=HP
+##CAS NAME=3(2H)-Isoxazolone, 4,5-dimethyl-
+##MOLFORM=C5H7NO2
+##CAS REGISTRY NO=930-83-6
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    40        110
+    41        170
+    42        999
+    43        420
+    44         50
+    50         50
+    51         60
+    52         90
+    53         60
+    54         60
+    55         50
+    68         20
+    70         50
+    84         20
+   113        110
+   114         10

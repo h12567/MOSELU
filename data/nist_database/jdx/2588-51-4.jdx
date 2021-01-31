@@ -1,0 +1,53 @@
+##TITLE=Library Entry 54028
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Butyl piperidino sulfone
+##MOLFORM=C9H19NO2S
+##CAS REGISTRY NO=2588-51-4
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        328
+    42        290
+    43         69
+    44        139
+    45          5
+    49          7
+    51          5
+    53         17
+    54         29
+    55        215
+    56        147
+    57        209
+    58         12
+    65          4
+    67         10
+    68         14
+    69         22
+    70         32
+    76          6
+    80          3
+    82         33
+    83        113
+    84        999
+    85        996
+    86         61
+    98          4
+   108         15
+   112          7
+   132         20
+   148        100
+   149         27
+   150         25
+   163         20
+   164          4
+   204         17
+   205         45
+   206          7

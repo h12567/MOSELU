@@ -1,0 +1,56 @@
+##TITLE=Library Entry 22560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2-methyl-2-(methoxy-(2,2,2-trifluoroethoxy)amino-propanoat
+e
+##MOLFORM=C8H14F3NO4
+##CAS REGISTRY NO=82004-50-0
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    29         66
+    30        154
+    31         73
+    33         43
+    41        140
+    42         95
+    43         37
+    44         29
+    45        103
+    46         29
+    55         36
+    56        999
+    57         74
+    58         14
+    59        543
+    60         30
+    61         30
+    62         66
+    69        242
+    70         52
+    71         51
+    72         66
+    73        843
+    74         37
+    75         36
+    87         73
+    88         67
+   101        549
+   102        140
+   114         14
+   115         15
+   130         36
+   141        222
+   144        111
+   154         30
+   155         37
+   162          7
+   186        325
+   187         36
+   230         14

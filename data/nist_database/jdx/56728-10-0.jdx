@@ -1,0 +1,57 @@
+##TITLE=Library Entry 8844
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.STEFANI TECH. CHEM. LABORATORY, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=1-Hexene, 3,4,5-trimethyl-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=56728-10-0
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27         85
+    28         10
+    29        105
+    38          2
+    39         75
+    40         10
+    41        210
+    42         40
+    43        999
+    44         35
+    50          4
+    51         10
+    52          4
+    53         35
+    54         15
+    55        330
+    56         90
+    57         20
+    63          2
+    65          7
+    66          3
+    67         30
+    68         10
+    69         80
+    70        290
+    71        700
+    72         40
+    77          5
+    79          5
+    81          7
+    82          5
+    83         70
+    84         40
+    85          5
+    95          5
+    97          7
+    98         80
+    99          7
+   111          3
+   126          3

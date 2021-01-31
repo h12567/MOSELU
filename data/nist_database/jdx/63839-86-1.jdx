@@ -1,0 +1,33 @@
+##TITLE=Library Entry 13199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(3)1073(1977);5A; M. NEVENSCHWANDER, UNIVERSIT
+AT BERN, SWITZERLAND
+##NAMES=HP
+##CAS NAME=9H-Fluorene-9-methanol, acetate
+##MOLFORM=C16H14O2
+##CAS REGISTRY NO=63839-86-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         40
+    41         60
+    43        999
+    44         40
+    45         60
+    59         40
+    66         40
+   136         40
+   152         40
+   163         40
+   164         40
+   165        350
+   166         70
+   178        730
+   179        150
+   180         60
+   238         40

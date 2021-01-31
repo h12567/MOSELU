@@ -1,0 +1,40 @@
+##TITLE=Library Entry 25632
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.NAKAGAWA RES. DEPT., CHEMCELL LTD., EDMONTON, CANADA
+##NAMES=HP
+##CAS NAME=Butanamide, N-(1-oxopropyl)-
+##MOLFORM=C7H13NO2
+##CAS REGISTRY NO=32796-69-3
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    26         26
+    27        162
+    28        112
+    29        143
+    39         86
+    41        160
+    42         95
+    43        450
+    44        113
+    55        112
+    56        105
+    57        999
+    59        230
+    60         30
+    70         74
+    71        535
+    72        311
+    73        562
+    74        384
+    87        183
+    88        157
+   115        198
+   128         41
+   129         10
+   143         91

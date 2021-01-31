@@ -1,0 +1,39 @@
+##TITLE=Library Entry 29985
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=1-Bromo-2-methyl-2-propanol
+##MOLFORM=C4H9BrO
+##CAS REGISTRY NO=38254-49-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    45         11
+    50          5
+    51          5
+    53          5
+    55         69
+    56          5
+    57        232
+    58         30
+    59        999
+    60         37
+    61          1
+    73          5
+    79          1
+    80          1
+    81          2
+    82          2
+    93         13
+    95         11
+   135          5
+   136          1
+   137        141
+   138          4
+   139        124
+   140          4

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 41627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. HUIBREGTSE-MINDERHOUD, JAN VAN BEAUMONTSTRAAT, GOUDA
+, NET
+##NAMES=HP
+##CAS NAME=2,6-Dodecadienoic acid, 10-(bromoacetoxy)-11-methoxy-3,7,11-trime
+thyl-, methyl ester
+##MOLFORM=C19H31BrO5
+##CAS REGISTRY NO=75517-10-1
+##MP= -300
+##BP= -300
+##MW= 418
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    73        999
+    81        300
+   114         40
+   121         30
+   135        140
+   248         20
+   273          5
+   275          5
+   280          3
+   305          2
+   307          2
+   386          2
+   388          2
+   418          2
+   420          2

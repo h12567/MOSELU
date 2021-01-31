@@ -1,0 +1,65 @@
+##TITLE=Library Entry 91009
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methyl 1-methoxymethyl-pyrrolidine-2-carboxylate
+##MOLFORM=C8H15NO3
+##CAS REGISTRY NO=53823-82-8
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    31        465
+    32        316
+    33         25
+    39        168
+    40         50
+    41        509
+    42        422
+    43         68
+    44         50
+    45        589
+    46         56
+    53        130
+    54        137
+    55        341
+    56        112
+    57         12
+    59        137
+    60         12
+    66         43
+    67         93
+    68        316
+    69         56
+    70         50
+    80        174
+    81        428
+    82        887
+    83        180
+    84        441
+    85         43
+    96         74
+    98         43
+   100         56
+   108        267
+   109         43
+   110        174
+   111         12
+   112        105
+   113          6
+   114        999
+   115        105
+   116         12
+   126        199
+   127         43
+   128          6
+   139         50
+   140        316
+   141        552
+   142        391
+   143         68
+   144         12

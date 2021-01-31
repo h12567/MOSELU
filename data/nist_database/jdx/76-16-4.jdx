@@ -1,0 +1,33 @@
+##TITLE=Library Entry 36161
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethane, hexafluoro-
+##MOLFORM=C2F6
+##CAS REGISTRY NO=76-16-4
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=156
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    12         15
+    13          1
+    19         12
+    24          3
+    31        183
+    32          2
+    43          4
+    50        101
+    51          1
+    62          1
+    69        999
+    70         11
+    81          1
+   100          6
+   101          1
+   119        413
+   120          9
+   138          2

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 17895
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. MOLINA, DEP. ORG. QUIM., FAC. CIENC., UNIV. MURCIA,
+ SPAIN
+##NAMES=HP
+##CAS NAME=2-Methyl-4-(4-chlorophenyl)-5-(4-chlorophenyl)imino-3-[6-methyl-3
+-(methylthio)-5-oxo-4,5-dihydro-1,2,4-triazin-4-yl]imino-2H-2,3-dihydro-1,2,
+4-triazole
+##MOLFORM=C20H18Cl2N8OS
+##CAS REGISTRY NO=111969-45-0
+##MP= -300
+##BP= -300
+##MW= 488
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    45        690
+    46        999
+    48        230
+    69        360
+    74        180
+   111        210
+   116        160
+   127        180
+   153        240
+   155        150
+   157        190
+   162        160
+   263        190
+   317        200
+   319        180
+   332        300
+   333        640
+   334        310
+   335        500
+   336        200
+   337        150
+   488        100
+   490         70
+   492         50

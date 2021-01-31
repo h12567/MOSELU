@@ -1,0 +1,25 @@
+##TITLE=Library Entry 96847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.S. MUSAVIROV, UFA PETROLEUM INST., UFA, USSR
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-2-sila-1,3-dioxacyclohexane
+##MOLFORM=C5H12O2Si
+##CAS REGISTRY NO=14879-83-5
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    31        180
+    43         80
+    45        180
+    59         90
+    61         70
+    75        110
+    87        170
+   101         40
+   117        999
+   132         50

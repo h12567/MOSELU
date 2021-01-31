@@ -1,0 +1,52 @@
+##TITLE=Library Entry 44814
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. Davies, Centr. Sci. Lab., Univ. Tasmania, Hobart,
+ Australia
+##NAMES=HP
+##CAS NAME=Phenylalanine
+##MOLFORM=C9H11NO2
+##CAS REGISTRY NO=63-91-2
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         12
+    29         10
+    30         20
+    39         60
+    41         24
+    42         35
+    43         21
+    44         25
+    46         51
+    50         22
+    51         63
+    52         17
+    60         43
+    62         11
+    63         41
+    64         14
+    65        141
+    66         11
+    74        999
+    75         33
+    76         12
+    77         89
+    78         23
+    89         37
+    90         29
+    91        638
+    92        209
+    93         32
+   103        102
+   104         32
+   117         36
+   118         61
+   119         75
+   120        563
+   121         51
+   165         12

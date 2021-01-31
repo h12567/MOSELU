@@ -1,0 +1,23 @@
+##TITLE=Library Entry 5632
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Acetic acid, hydroxy-, propyl ester
+##MOLFORM=C5H10O3
+##CAS REGISTRY NO=90357-58-7
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    29         90
+    31        737
+    39         58
+    41        407
+    42        218
+    43        999
+    61        298
+    77        149

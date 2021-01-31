@@ -1,0 +1,53 @@
+##TITLE=Library Entry 5054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DM6-188-U62
+##NAMES=HP
+##CAS NAME=3(2H)-Furanone, dihydro-5-methyl-
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=34003-72-0
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=815
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        115
+    28        180
+    29        119
+    30         16
+    31         72
+    37         10
+    38         20
+    39        135
+    40        315
+    42        999
+    43        196
+    44         51
+    45          5
+    53          8
+    54          6
+    55         26
+    56         29
+    57        100
+    58        180
+    59          6
+    65          2
+    67         10
+    68          8
+    69         21
+    70        152
+    71         25
+    72         55
+    82          2
+    83          5
+    84          3
+    85         21
+    97          3
+    98          2
+    99          4
+   100        392
+   101         22
+   102          2

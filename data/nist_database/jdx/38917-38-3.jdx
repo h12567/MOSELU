@@ -1,0 +1,66 @@
+##TITLE=Library Entry 92835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,3,4-Thiadiazol-2-amine, N-tert-butyl-5-methyl-
+##MOLFORM=C7H13N3S
+##CAS REGISTRY NO=38917-38-3
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    33          1
+    34         11
+    37         12
+    38         10
+    39        120
+    40         39
+    41        270
+    42        148
+    43         20
+    44          3
+    45         15
+    46         17
+    47         18
+    51          5
+    52          2
+    53         11
+    54          4
+    55         38
+    56        294
+    57        320
+    58        111
+    59        239
+    60         55
+    61          2
+    67          4
+    68          1
+    69          1
+    70          0
+    71          2
+    72         29
+    73         31
+    74        462
+    75         44
+    76         28
+    77          1
+    80          5
+    82         10
+    83         15
+    88          6
+    99         59
+   100          9
+   115        999
+   116        194
+   117         56
+   118          4
+   130         46
+   156        113
+   157          7
+   171        129
+   172          9
+   173          2

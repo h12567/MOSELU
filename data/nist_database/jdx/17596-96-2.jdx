@@ -1,0 +1,59 @@
+##TITLE=Library Entry 42201
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O A MAMER, MCGILL UNIVERSITY, MONTREAL, CANADA
+##NAMES=HP
+##CAS NAME=Lactic Acid, 2TMS derivative
+##MOLFORM=C9H22O3Si2
+##CAS REGISTRY NO=17596-96-2
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=1066
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         13
+    27         15
+    28         29
+    29         20
+    31         10
+    43         81
+    44         41
+    45        182
+    46         14
+    47         38
+    52         21
+    55         31
+    57         16
+    58         34
+    59         75
+    60         11
+    61         23
+    66        122
+    67         13
+    72         34
+    73        999
+    74         92
+    75        142
+    76         11
+    87         15
+    88         65
+   101         22
+   102         19
+   103         11
+   117        696
+   118         79
+   119         34
+   131         33
+   133         59
+   147        691
+   148        112
+   149         62
+   190         99
+   191        126
+   192         29
+   193         12
+   219         54
+   220         12
+   221          6

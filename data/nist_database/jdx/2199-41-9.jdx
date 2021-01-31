@@ -1,0 +1,52 @@
+##TITLE=Library Entry 85182
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. GAMES, M. HEWLINS, A. JACKSON, CHEM DEPT, UNIV COLL,
+ CARDIFF, U.K.
+##NAMES=HP
+##CAS NAME=1H-Pyrrole, 2,3,5-trimethyl-
+##MOLFORM=C7H11N
+##CAS REGISTRY NO=2199-41-9
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=995
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         46
+    42        127
+    47         12
+    50         15
+    51         25
+    52         23
+    53         64
+    54         52
+    55         13
+    57         15
+    62          6
+    63         17
+    64         11
+    65         72
+    66         39
+    67        111
+    68         14
+    69          8
+    70          9
+    71         27
+    77          3
+    79         23
+    80         18
+    81         15
+    83          4
+    85          6
+    91         12
+    92         32
+    93        128
+    94        260
+    95         25
+   106         35
+   107         86
+   108        999
+   109        634
+   110         48

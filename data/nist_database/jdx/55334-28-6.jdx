@@ -1,0 +1,36 @@
+##TITLE=Library Entry 53362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 3-methyl-, 4a,5,8,9-tetrahydro-9,9-dimethyl-5-ox
+obenzo[1,2-b:4,3-b']dipyran-8-yl ester
+##MOLFORM=C19H20O5
+##CAS REGISTRY NO=55334-28-6
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    55        264
+    77         26
+    83        999
+    84         46
+    91         23
+   103         13
+   119          3
+   131         19
+   147          6
+   148          3
+   159          3
+   175         23
+   176          9
+   185          9
+   187          9
+   188          3
+   213        330
+   214         59
+   228        122
+   328         23

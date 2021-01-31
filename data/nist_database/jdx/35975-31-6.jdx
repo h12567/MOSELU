@@ -1,0 +1,58 @@
+##TITLE=Library Entry 78298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.R.BAROT UNIV. OF SURREY, GUILDFORD, SURREY, UK
+##NAMES=HP
+##CAS NAME=2,6-Piperazinedione, 4-benzoyl-, 2,6-bis(O-benzoyloxime)
+##MOLFORM=C25H20N4O5
+##CAS REGISTRY NO=35975-31-6
+##MP= -300
+##BP= -300
+##MW= 456
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    60         40
+    61         35
+    62         40
+    64         70
+    65         50
+    72         60
+    73        250
+    74        140
+    75        230
+    76        950
+    77         26
+    94         83
+   105        999
+   106        290
+   120        100
+   121        640
+   122        160
+   149         20
+   159          8
+   197         19
+   198          2
+   211         75
+   212         11
+   213         20
+   214          3
+   225         32
+   226          4
+   229         19
+   230          3
+   257          7
+   258          2
+   263          1
+   278          1
+   290          1
+   291          2
+   292          0
+   293          0
+   335          0
+   336          1
+   337          0
+   338          0
+   456          0
+   457          0

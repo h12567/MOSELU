@@ -1,0 +1,45 @@
+##TITLE=Library Entry 42415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Heptanone, 3-ethyl-3-hydroxy-
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=54658-03-6
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        128
+    42         19
+    43        395
+    45        217
+    55        485
+    56         19
+    57        188
+    58         19
+    59        237
+    69         29
+    71         19
+    72         29
+    73        999
+    74         49
+    83         49
+    85         19
+    87          9
+    97          9
+   101        297
+   102         19
+   111         19
+   115        247
+   116         19
+   129          9
+   140        891
+   141         10
+   143          3
+   158          7
+   159          2

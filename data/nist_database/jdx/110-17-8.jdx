@@ -1,0 +1,47 @@
+##TITLE=Library Entry 70929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Fumaric Acid
+##MOLFORM=C4H4O4
+##CAS REGISTRY NO=110-17-8
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    14         10
+    18          4
+    25         28
+    26        180
+    27        245
+    28         11
+    29         46
+    32          3
+    40          8
+    41         45
+    42         76
+    43         89
+    44        115
+    45        753
+    46         57
+    52         40
+    53        481
+    54        249
+    55        193
+    60         19
+    63         20
+    69         50
+    70        104
+    71        203
+    72        203
+    81        175
+    82         59
+    88        307
+    98        999
+    99        394
+   100         24
+   116        228

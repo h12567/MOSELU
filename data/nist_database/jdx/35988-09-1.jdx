@@ -1,0 +1,42 @@
+##TITLE=Library Entry 96908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Fructopyranoside, methyl 1-deoxy-6-thio-
+##MOLFORM=C7H14O4S
+##CAS REGISTRY NO=35988-09-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    45        624
+    46        210
+    47        139
+    55        137
+    57        307
+    58        233
+    59        595
+    60        353
+    61        198
+    73        370
+    74        125
+    75        210
+    85        119
+    86        550
+    87        200
+    88        267
+    90        318
+    91        549
+    99        176
+   101        132
+   102         90
+   117        999
+   118         79
+   144         53
+   162        248
+   176          8
+   194         58

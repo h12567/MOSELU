@@ -1,0 +1,33 @@
+##TITLE=Library Entry 73281
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(9)1431(1977); G. J. KAPADIA ET AL
+##NAMES=HP
+##CAS NAME=Butanamide, 2-(dimethylamino)-N-[7-[(4-hydroxyphenyl)methyl]-3-(1
+-methylethyl)-5,8-dioxo-2-oxa-6,9-diazabicyclo[10.2.2]hexadeca-10,12,14,15-t
+etraen-4-yl]-3-methyl-
+##MOLFORM=C30H40N4O5
+##CAS REGISTRY NO=64408-10-2
+##MP= -300
+##BP= -300
+##MW= 536
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    77         81
+    78         43
+    85        452
+    97        269
+   100        999
+   107        278
+   135        304
+   136        200
+   190         60
+   232         21
+   260          9
+   353          9
+   394         21
+   493         60
+   521         13
+   536         17

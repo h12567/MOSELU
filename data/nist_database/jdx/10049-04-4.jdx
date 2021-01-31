@@ -1,0 +1,23 @@
+##TITLE=Library Entry 32545
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Chlorine dioxide
+##MOLFORM=ClO2
+##CAS REGISTRY NO=10049-04-4
+##MP= -300
+##BP= -300
+##MW= 67
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    16        224
+    35         97
+    37         34
+    51        403
+    52         13
+    53        132
+    67        999
+    69        316

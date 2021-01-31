@@ -1,0 +1,40 @@
+##TITLE=Library Entry 2306
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., U
+##NAMES=HP
+##CAS NAME=2-Methoxy-3,3,4,4-tetramethylazetine
+##MOLFORM=C8H15NO
+##CAS REGISTRY NO=49680-46-8
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    15        270
+    18        310
+    27        250
+    28        300
+    29        180
+    39        360
+    41        999
+    42        700
+    43        300
+    55        260
+    56        330
+    57        180
+    58        200
+    68        180
+    69        700
+    70        450
+    73        130
+    83        130
+    84        440
+    85        180
+    99        150
+   126        340
+   140        140
+   141        490

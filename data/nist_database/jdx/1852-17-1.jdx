@@ -1,0 +1,78 @@
+##TITLE=Library Entry 1256
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4962
+##NAMES=HP
+##CAS NAME=N,N'-Trimethyleneurea
+##MOLFORM=C4H8N2O
+##CAS REGISTRY NO=1852-17-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          2
+    14          9
+    15         32
+    16          4
+    17          3
+    18         13
+    25          2
+    26         36
+    27         74
+    28        424
+    29        161
+    30        999
+    31         19
+    32          2
+    34          1
+    36          1
+    37          2
+    38          7
+    39         17
+    40         19
+    41         37
+    42         45
+    43         54
+    44         65
+    45         26
+    46          1
+    49          4
+    50          2
+    51          5
+    52         10
+    53          8
+    54         20
+    55         15
+    56        114
+    57         66
+    58          4
+    59          1
+    66          1
+    67          2
+    68          6
+    69          2
+    70         17
+    71         40
+    72         40
+    73          5
+    75          3
+    76          1
+    79          1
+    80          2
+    81          1
+    82          3
+    83          3
+    84          1
+    85          2
+    95          1
+    96          5
+    97          8
+    98          3
+    99         87
+   100        635
+   101         36
+   102          2

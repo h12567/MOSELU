@@ -1,0 +1,42 @@
+##TITLE=Library Entry 51962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexaneoctanoic acid, 2-butyl-, methyl ester
+##MOLFORM=C19H36O2
+##CAS REGISTRY NO=16847-05-5
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        609
+    42        975
+    43        975
+    55        975
+    57        390
+    59        360
+    67        390
+    69        926
+    74        702
+    82        512
+    83        999
+    87        351
+    95        146
+    96        243
+    97        458
+   109        195
+   110        117
+   111         97
+   139        390
+   143         68
+   157        273
+   189        146
+   207        146
+   239        341
+   265        136
+   296        487
+   297        102

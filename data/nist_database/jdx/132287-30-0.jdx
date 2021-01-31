@@ -1,0 +1,55 @@
+##TITLE=Library Entry 83211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VAINIOTALO, DEPT. CHEM., UNIV. JOENSUU, JOENSUU, FIN
+LAND
+##NAMES=HP
+##CAS NAME=5-Phenyl-3-oxo-cis-6,7-trimethyleneperhydro-1,4-oxazepine
+##MOLFORM=C14H17NO2
+##CAS REGISTRY NO=132287-30-0
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39         55
+    41         79
+    51         55
+    65         47
+    66         44
+    67        273
+    68        223
+    77        146
+    78         72
+    79        110
+    91        201
+   104        327
+   105        480
+   106        999
+   107         98
+   115         99
+   117        128
+   118         55
+   128         50
+   129         96
+   130         71
+   132        238
+   133        333
+   134        115
+   135        158
+   136         36
+   158         40
+   162        156
+   163         83
+   164        488
+   165         52
+   172         46
+   173        216
+   174         39
+   200        100
+   201         52
+   203        203
+   231        572
+   232        105

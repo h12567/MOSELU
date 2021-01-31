@@ -1,0 +1,31 @@
+##TITLE=Library Entry 49065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(2)520(1978); R. G. SALOMON ET AL.
+##NAMES=HP
+##CAS NAME=Bicyclo[5.1.0]octane, 8-methylene-
+##MOLFORM=C9H14
+##CAS REGISTRY NO=54211-15-3
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    65        220
+    66        300
+    67        630
+    68        490
+    77        450
+    78        450
+    79        999
+    80        720
+    81        650
+    91        580
+    92        230
+    93        960
+    94        740
+   105        230
+   107        750
+   122        130

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 65961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 779
+##NAMES=HP
+##CAS NAME=Pyridine, 4-methyl-
+##MOLFORM=C6H7N
+##CAS REGISTRY NO=108-89-4
+##MP= -300
+##BP= -300
+##MW= 93
+##$RETENTION INDEX=863
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          2
+    25          2
+    26         23
+    27         28
+    28         32
+    31          5
+    36          3
+    37         27
+    38         52
+    39        192
+    40         97
+    41         29
+    42          3
+    44          1
+    45          9
+    46          4
+    48          1
+    49          8
+    50         43
+    51         77
+    52         41
+    53         55
+    54         76
+    55          2
+    60          3
+    61         11
+    62         21
+    63         49
+    64         26
+    65        193
+    66        361
+    67         88
+    68          3
+    75          3
+    76          3
+    77          2
+    78         37
+    79          3
+    87          1
+    91          9
+    92        230
+    93        999
+    94         71
+    95          2

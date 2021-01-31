@@ -1,0 +1,26 @@
+##TITLE=Library Entry 84020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(7)1013(1977); S. HUNECK AND K. SCHREIBER
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2,3-dihydroxy-6-(2-phenylethyl)-
+##MOLFORM=C15H14O4
+##CAS REGISTRY NO=75112-81-1
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+   107        999
+   108        750
+   120        120
+   134        330
+   151        130
+   165        130
+   181         80
+   195        100
+   214        700
+   240        150
+   258        580

@@ -1,0 +1,84 @@
+##TITLE=Library Entry 30211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Methoxycarbonyl methoxythioxomethyl disulfide
+##MOLFORM=C4H6O3S3
+##CAS REGISTRY NO=124535-50-8
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    41          3
+    43         36
+    45        435
+    46        220
+    47        196
+    48         56
+    49         19
+    50          4
+    59        999
+    61        320
+    62         44
+    64        287
+    65         15
+    66         18
+    71          2
+    74          8
+    75        210
+    76         32
+    77         31
+    79        647
+    80         43
+    81         53
+    82          1
+    91         18
+    92          9
+    94         99
+    95         16
+    96         18
+    97         15
+    98          1
+   105         37
+   106         38
+   107         38
+   108          5
+   109          4
+   111         34
+   113          7
+   121          3
+   122         77
+   123         33
+   124         10
+   125         13
+   126          9
+   127          2
+   129          2
+   137          1
+   138        113
+   139         18
+   140         14
+   141          3
+   143          5
+   145          1
+   151         74
+   153         20
+   154          4
+   155          1
+   156          1
+   157          1
+   158          5
+   159          1
+   160          1
+   182          5
+   183         10
+   184          2
+   197          1
+   198         10
+   199          2
+   200          1

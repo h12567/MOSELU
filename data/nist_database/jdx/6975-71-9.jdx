@@ -1,0 +1,84 @@
+##TITLE=Library Entry 50022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.A.BLAZER DU PONT, GIBBSTOWN, N.J., USA
+##NAMES=HP
+##CAS NAME=1-Cyclohexene-1-acetonitrile
+##MOLFORM=C8H11N
+##CAS REGISTRY NO=6975-71-9
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15         56
+    25          5
+    26         78
+    27        384
+    28        108
+    29         76
+    30         14
+    31          7
+    37         33
+    38         70
+    39        421
+    40         84
+    41        457
+    42        424
+    43        154
+    44         15
+    45          3
+    49          9
+    50         74
+    51        126
+    52         95
+    53        289
+    54        135
+    55        547
+    56         62
+    57         22
+    58          3
+    61          9
+    62         15
+    63         38
+    64         24
+    65         77
+    66        157
+    67         91
+    68         47
+    69        135
+    70        104
+    71         10
+    73          3
+    74         11
+    75         10
+    76         14
+    77        118
+    78        164
+    79        269
+    80        536
+    81        999
+    82         78
+    83         41
+    84          3
+    86          2
+    87          3
+    88          3
+    89          9
+    90          6
+    91         48
+    92         27
+    93        117
+    94         26
+    95          5
+   106         35
+   107          2
+   116          3
+   117          2
+   118          3
+   119          3
+   120         43
+   121        197
+   122         17

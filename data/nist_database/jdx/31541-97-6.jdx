@@ -1,0 +1,65 @@
+##TITLE=Library Entry 36728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.MULLER CHEM. INST., THE UNIV., TUBINGEN, GERMANY, F.R
+.G
+##NAMES=HP
+##CAS NAME=Nickel, bis(1,1,1,5,5,5-hexafluoro-4-thioxo-2-pentanonato-O,S)-
+##MOLFORM=C10H2F12NiO2S2
+##CAS REGISTRY NO=31541-97-6
+##MP= -300
+##BP= -300
+##MW= 504
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    69        999
+    76        140
+    77        100
+    85        610
+    86         30
+    87        150
+    91        460
+    92         50
+   107        210
+   109         20
+   113         90
+   115         20
+   125        100
+   135        390
+   136         20
+   137         40
+   155        100
+   172        390
+   173         40
+   185        910
+   186        100
+   187         70
+   188        100
+   204        280
+   205         40
+   223        960
+   224        100
+   225         70
+   281        570
+   282         60
+   283        260
+   284         40
+   285        150
+   300        100
+   302         30
+   357        140
+   376         50
+   435         70
+   437         40
+   472        400
+   474        170
+   476         40
+   485        100
+   487         40
+   504        530
+   505         60
+   506        250
+   507         60
+   508          8

@@ -1,0 +1,86 @@
+##TITLE=Library Entry 8731
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,4-Diacetoxypentane
+##MOLFORM=C9H16O4
+##CAS REGISTRY NO=7371-86-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+     4          0
+    12          0
+    13          1
+    14         10
+    15         79
+    16          2
+    17          0
+    18          0
+    19          2
+    26          3
+    27         26
+    28         10
+    29         24
+    30          0
+    31          7
+    37          0
+    39         29
+    40          7
+    41         62
+    42         78
+    43        999
+    44         24
+    45         34
+    46          0
+    50          0
+    51          1
+    52          0
+    53          6
+    54          1
+    55          6
+    56          3
+    57          1
+    58          8
+    59          2
+    60          0
+    61         71
+    62          1
+    63          0
+    65          1
+    67         13
+    68         16
+    69         42
+    70          0
+    71         83
+    72          4
+    73          0
+    83          0
+    85         37
+    86         71
+    87         52
+    88          2
+    89          0
+    95         10
+    96          0
+   100          0
+   101          2
+   103         62
+   104          2
+   105          1
+   110          4
+   111          0
+   113         21
+   114          1
+   128          8
+   129          2
+   131         10
+   132          0
+   145          0
+   146          0
+   147          0
+   173          0

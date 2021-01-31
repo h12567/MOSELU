@@ -1,0 +1,35 @@
+##TITLE=Library Entry 54705
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetoacetic acid, 1-thio-, S-sec-butyl ester
+##MOLFORM=C8H14O2S
+##CAS REGISTRY NO=15780-64-0
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         60
+    28         90
+    29        110
+    39         40
+    41        130
+    43        659
+    56         80
+    57        200
+    58         70
+    61        100
+    69         70
+    84         90
+    85        999
+    86         50
+    89         50
+    90        100
+   118         80
+   119         50
+   146         40
+   174        180

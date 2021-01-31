@@ -1,0 +1,74 @@
+##TITLE=Library Entry 68465
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 2,3-dimethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=1502-24-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    15         28
+    26         21
+    27        232
+    28         89
+    29        278
+    30         25
+    31         69
+    32          1
+    39        282
+    40         67
+    41        549
+    42        156
+    43        449
+    44        151
+    45         86
+    50         15
+    51         39
+    52         17
+    53        124
+    54         88
+    55        476
+    56        232
+    57        578
+    58        204
+    59         18
+    63          8
+    65         30
+    66         34
+    67        295
+    68        201
+    69        361
+    70        181
+    71        171
+    72         35
+    73         30
+    77         25
+    78          4
+    79         38
+    80          4
+    81        591
+    82        415
+    83         90
+    84         81
+    85        402
+    86         29
+    91         11
+    93         19
+    95        999
+    96         75
+    97         27
+    98          6
+    99         40
+   100         13
+   110        634
+   111         64
+   113         12
+   126          8
+   127          6
+   128         13

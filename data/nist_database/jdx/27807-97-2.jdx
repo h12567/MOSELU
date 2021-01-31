@@ -1,0 +1,86 @@
+##TITLE=Library Entry 62048
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. P. MAIER, KODAK RESEARCH LABORATORIES, ROCHESTER,N.Y
+.
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 2,4-dihydro-5-methyl-4-[(4-nitrophenyl)imino]-2
+-phenyl-
+##MOLFORM=C16H12N4O3
+##CAS REGISTRY NO=27807-97-2
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    27          6
+    28          6
+    30          6
+    37          3
+    38         11
+    39         27
+    40          6
+    41         15
+    42          4
+    50         44
+    51         65
+    52         17
+    53          2
+    54          2
+    55          2
+    61          2
+    62          7
+    63         41
+    64        103
+    65         31
+    66          4
+    67          4
+    74         13
+    75         37
+    76         82
+    77        179
+    78         17
+    88          2
+    89          3
+    90         25
+    91        999
+    92         75
+    93          8
+   101          4
+   102         37
+   103         15
+   104          3
+   105         12
+   106          2
+   108          4
+   117          3
+   118         13
+   119         51
+   120          4
+   122          3
+   127          2
+   128          4
+   129         31
+   130          4
+   131          2
+   132        689
+   133         53
+   134          3
+   138          8
+   140         31
+   148         13
+   174          4
+   175          5
+   188          3
+   209          3
+   239          2
+   263         10
+   278         10
+   279          3
+   280          1
+   292          2
+   308        579
+   309        108
+   310         12

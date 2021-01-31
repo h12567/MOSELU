@@ -1,0 +1,41 @@
+##TITLE=Library Entry 89470
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(6)293(1979); C. KASCHERES AND R. VAN FOSSEN
+ BRAVO
+##NAMES=HP
+##CAS NAME=Benzenesulfonic acid, 4-chloro-, hydrazide
+##MOLFORM=C6H7ClN2O2S
+##CAS REGISTRY NO=2751-25-9
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    31        375
+    50        375
+    51        250
+    75        924
+    77        375
+   111        874
+   112        999
+   113        400
+   114        325
+   115         50
+   127         75
+   128        150
+   129         25
+   130         50
+   142         12
+   144         20
+   159        325
+   161        125
+   175         75
+   176        150
+   177        549
+   178        100
+   179        200
+   206        275
+   208        100

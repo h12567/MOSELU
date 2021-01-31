@@ -1,0 +1,46 @@
+##TITLE=Library Entry 33210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.FRIGERIO INST. OF PHARM. RES., MARIO NEGRI, MILAN, IT
+ALY
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 4-diazo-2,4-dihydro-5-methyl-2-phenyl-
+##MOLFORM=C10H8N4O
+##CAS REGISTRY NO=1781-33-5
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    51        110
+    52         20
+    63         30
+    64         30
+    65         10
+    66         20
+    67        999
+    68         50
+    74         10
+    75         10
+    76         30
+    77        290
+    78         30
+    90         10
+    91         40
+   100         20
+   101         10
+   102         10
+   103         30
+   104         10
+   105        140
+   106         10
+   115         20
+   116         10
+   172         20
+   175         10
+   199         20
+   200        530
+   201         70
+   202         10

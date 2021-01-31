@@ -1,0 +1,57 @@
+##TITLE=Library Entry 86660
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(decahydro-4,6-dihydroxy-4,7-dimethyl-6-phenyl-1H-pyr
+rolo[2,1,5-de]quinolizin-3-yl)-, [2aS-(2a.alpha.,3.alpha.,4.alpha.,5a.alpha.
+,6.alpha.,7.alpha.,8a.beta.)]-
+##MOLFORM=C21H29NO3
+##CAS REGISTRY NO=34443-74-8
+##MP= -300
+##BP= -300
+##MW= 343
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        250
+    43        829
+    54        130
+    55        170
+    58        210
+    64        120
+    67        130
+    68        240
+    69        260
+    77        280
+    80        100
+    82        160
+    91        190
+    94        250
+    95        240
+    96        659
+    97        709
+   105        549
+   108        350
+   109        999
+   133        160
+   134        160
+   138        230
+   139        160
+   151        100
+   152        170
+   166        250
+   196        879
+   209        589
+   242        799
+   243        589
+   267        160
+   282        230
+   285        180
+   286        380
+   300        130
+   326        240
+   328        350
+   342        180
+   343        709

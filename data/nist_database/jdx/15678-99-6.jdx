@@ -1,0 +1,61 @@
+##TITLE=Library Entry 28183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Acetamide, 2-chloro-N-t-butyl-
+##MOLFORM=C6H12ClNO
+##CAS REGISTRY NO=15678-99-6
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    41        169
+    42        105
+    43         17
+    44         13
+    45          2
+    47          2
+    48          3
+    49         74
+    51         30
+    52          2
+    53          4
+    54          5
+    55         32
+    56        133
+    57        365
+    58        999
+    59         40
+    69          2
+    70          3
+    71          5
+    72          8
+    76          3
+    77         18
+    79          6
+    83          2
+    84         19
+    85          1
+    86         10
+    93          2
+    94        110
+    95          2
+    96         34
+    98          5
+   100         13
+   114         11
+   133          2
+   134        114
+   135          9
+   136         38
+   137          3
+   148         19
+   149        107
+   150         12
+   151         38
+   152          4

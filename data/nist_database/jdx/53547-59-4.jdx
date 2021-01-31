@@ -1,0 +1,71 @@
+##TITLE=Library Entry 50565
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,3:4,6-di-O-furylidene.alpha.d-mannopyranoside
+##MOLFORM=C17H18O8
+##CAS REGISTRY NO=53547-59-4
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    51          8
+    52         44
+    53         35
+    55         49
+    57         35
+    59         22
+    60         17
+    61         31
+    65         22
+    68         89
+    69        136
+    70         35
+    71         44
+    73         22
+    74         26
+    81        999
+    82         38
+    85         44
+    87         87
+    95        735
+    96        488
+    97        834
+    98         67
+   107         44
+   109         49
+   110         53
+   111         49
+   112         22
+   113         26
+   115         49
+   119         17
+   120         16
+   123         22
+   125         67
+   135         31
+   137         23
+   138        149
+   139        116
+   140         13
+   148         22
+   151         35
+   165         40
+   167         17
+   177         13
+   181          8
+   187          8
+   191         13
+   206         40
+   207         20
+   211         26
+   223         13
+   237        134
+   238         15
+   319          4
+   350         38
+   351          3

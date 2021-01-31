@@ -1,0 +1,71 @@
+##TITLE=Library Entry 46482
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, (hexylsulfonyl)-
+##MOLFORM=C12H18O2S
+##CAS REGISTRY NO=16823-63-5
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41        773
+    42        163
+    43        800
+    44         33
+    45         25
+    50        125
+    51        550
+    52         53
+    53         83
+    54         35
+    55        233
+    56        125
+    57        148
+    63         38
+    64         15
+    65         85
+    66         33
+    67         33
+    68         20
+    69         53
+    70         23
+    74         48
+    75         53
+    76         75
+    77        999
+    78        543
+    79        100
+    82         20
+    83         25
+    84         33
+    85        100
+    91        215
+    92         28
+    93         65
+    97         83
+   105         63
+   109         83
+   110         20
+   123         23
+   125        185
+   126         63
+   127         23
+   141        125
+   142         23
+   143        738
+   144         88
+   145         43
+   149         23
+   151         23
+   169         48
+   209         20
+   210         45
+   211         25
+   226        148
+   227         48
+   228         23

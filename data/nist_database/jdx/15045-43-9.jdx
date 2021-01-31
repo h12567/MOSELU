@@ -1,0 +1,45 @@
+##TITLE=Library Entry 7299
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Furan, tetrahydro-2,2,5,5-tetramethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=15045-43-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=759
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    14         12
+    15        114
+    26         14
+    27        134
+    28         27
+    29         88
+    31         19
+    38          9
+    39        127
+    40         18
+    41        147
+    42        108
+    43        999
+    44         19
+    45          8
+    51         10
+    53         30
+    55        366
+    56         22
+    57         11
+    58          7
+    59        155
+    67         20
+    69         22
+    70        355
+    71         26
+    83          4
+    95        125
+   113        303
+   114         23

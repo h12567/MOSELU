@@ -1,0 +1,36 @@
+##TITLE=Library Entry 107155
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methanone, (2-fluorophenyl)-2-pyridinyl-
+##MOLFORM=C12H8FNO
+##CAS REGISTRY NO=6238-65-9
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    50         90
+    51        262
+    52         79
+    63         20
+    74         40
+    75        333
+    76         39
+    77         19
+    78        171
+    95        676
+   123        999
+   126         10
+   127         19
+   152         19
+   153         29
+   154         29
+   172        271
+   173        920
+   182        168
+   200        239
+   201        228

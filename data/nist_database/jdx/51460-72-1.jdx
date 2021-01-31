@@ -1,0 +1,47 @@
+##TITLE=Library Entry 50909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-methyl-, [5-[2-(3-furanyl)ethyl]-1,2,3,4,4a,5,8,
+8a-octahydro-2-hydroxy-5,6,8a-trimethyl-1-naphthalenyl]methyl ester, (1.alph
+a.,2.alpha.,4a.beta.,5.beta.,8a.alpha.)-
+##MOLFORM=C25H38O4
+##CAS REGISTRY NO=51460-72-1
+##MP= -300
+##BP= -300
+##MW= 402
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    55        380
+    65         60
+    67        250
+    81        999
+    91        180
+    93        250
+    95        839
+   107        599
+   119        410
+   121        380
+   135        190
+   145        549
+   147        410
+   149        270
+   161        180
+   171        190
+   173        345
+   176        120
+   187        974
+   188        470
+   201        240
+   203        260
+   205        470
+   267        385
+   269        120
+   282        480
+   283        110
+   307         10
+   384        310
+   402         60

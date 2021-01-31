@@ -1,0 +1,41 @@
+##TITLE=Library Entry 1947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-(2-Hydroperfluoroisobutyl)-N,N-di(2-propynyl)amine
+##MOLFORM=C10H7F8N
+##CAS REGISTRY NO=26457-87-4
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    38         30
+    39        999
+    40         45
+    51         40
+    57         63
+    58          3
+    64        130
+    65         40
+    69        125
+    70          1
+    77         44
+    78         25
+   102        155
+   103          7
+   135         63
+   136          4
+   205        655
+   206         44
+   235        105
+   236         10
+   255         53
+   256          4
+   274         72
+   275          8
+   293          5
+   294          1

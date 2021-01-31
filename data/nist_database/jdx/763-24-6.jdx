@@ -1,0 +1,43 @@
+##TITLE=Library Entry 34841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Bis(trifluoromethylthio)amine
+##MOLFORM=C2HF6NS2
+##CAS REGISTRY NO=763-24-6
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    46        613
+    47        942
+    63        137
+    64         59
+    66         34
+    69        999
+    78        144
+    82         74
+    83         41
+    96         96
+   116        837
+   117         50
+   118         43
+   128         54
+   147        102
+   148        183
+   149         15
+   150         15
+   163         31
+   198        234
+   199          9
+   200         19
+   216        399
+   217        797
+   218        137
+   219         91
+   220          8
+   221          2

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 66981
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=9-Azabicyclo[4.2.1]nonane-2,5-diol, 9-methyl-, diacetate (ester),
+ (endo,endo)-
+##MOLFORM=C13H21NO4
+##CAS REGISTRY NO=49656-41-9
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    42        509
+    43        959
+    55        190
+    67        200
+    70        180
+    82        689
+    94        999
+   108        200
+   110        200
+   124         40
+   136         90
+   152        250
+   170         40
+   196        919
+   212        450
+   255        220

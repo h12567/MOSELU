@@ -1,0 +1,75 @@
+##TITLE=Library Entry 28693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=EQUINE DRUG TESTING PROG. J.D.HENION,ETAL CORNELL U, IT
+HACA, NY
+##NAMES=HP
+##CAS NAME=7-Hydroxy-acepromazine
+##MOLFORM=C19H22N2O2S
+##CAS REGISTRY NO=73652-13-8
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    39         12
+    41         20
+    42         89
+    43         86
+    44         54
+    45         11
+    58        999
+    59         45
+    63         11
+    69         23
+    70         40
+    71         31
+    72         26
+    77         10
+    84         35
+    85        119
+    86        240
+    87         16
+   108         10
+   127         10
+   139         13
+   140         16
+   141         11
+   153         10
+   166         14
+   167         13
+   171         13
+   179         11
+   184         13
+   185         19
+   196         26
+   197         28
+   198         22
+   209         11
+   210         15
+   212         13
+   213         16
+   222         22
+   223         13
+   238         30
+   239         13
+   240         26
+   241         38
+   254         15
+   255         26
+   256         41
+   257         50
+   268         11
+   270         17
+   271         18
+   280         38
+   281         21
+   282         13
+   296         42
+   297         22
+   326         65
+   327         16
+   342         99
+   343         24

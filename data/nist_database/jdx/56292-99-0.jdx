@@ -1,0 +1,78 @@
+##TITLE=Library Entry 71772
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,4-Dioxaspiro[4.5]decane, 8-methoxy-
+##MOLFORM=C9H16O3
+##CAS REGISTRY NO=56292-99-0
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    40        530
+    41        370
+    42        280
+    43        280
+    44        310
+    45        310
+    50         20
+    51         30
+    52         20
+    53         70
+    54         50
+    55        516
+    56         50
+    57         80
+    58         90
+    59         30
+    62         10
+    65         20
+    66         20
+    67         60
+    68         80
+    69         40
+    70         10
+    71        173
+    72         40
+    73         50
+    74         50
+    77         30
+    78         10
+    79         50
+    80         20
+    81         30
+    82         10
+    83         10
+    84         20
+    85         30
+    86        370
+    87         30
+    94         30
+    95         20
+    96         20
+    97         20
+    99        999
+   100         20
+   101          6
+   102         13
+   103          3
+   104          3
+   110         10
+   111         20
+   112          3
+   113         10
+   114         10
+   127          6
+   128          3
+   130         23
+   131         10
+   140          3
+   141          3
+   142          3
+   143         13
+   172         13

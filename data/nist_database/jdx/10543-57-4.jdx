@@ -1,0 +1,76 @@
+##TITLE=Library Entry 9118
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3715
+##NAMES=HP
+##CAS NAME=N,N,N',N'-Tetraacetylethylenediamine
+##MOLFORM=C10H16N2O4
+##CAS REGISTRY NO=10543-57-4
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    13          1
+    14         14
+    15        157
+    16          2
+    26          4
+    27         13
+    28          7
+    29          6
+    30        401
+    31         17
+    32          1
+    39          3
+    40          7
+    41         13
+    42         61
+    43        999
+    44         60
+    45         17
+    52          2
+    54          9
+    55         77
+    56         11
+    57          9
+    58          8
+    59         17
+    60         25
+    68          2
+    70          7
+    71          5
+    72        459
+    73        401
+    74         16
+    75          1
+    83          8
+    84        234
+    85        255
+    86         39
+    87         26
+    88          1
+    99         15
+   100          3
+   101         22
+   102         50
+   103          4
+   114         45
+   115        176
+   116         11
+   125          2
+   126          3
+   127        383
+   128         30
+   129         10
+   143          9
+   144         11
+   145          2
+   157          9
+   168          8
+   171          2
+   185          6
+   186          3
+   228          1

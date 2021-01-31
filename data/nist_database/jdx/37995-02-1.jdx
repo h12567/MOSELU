@@ -1,0 +1,89 @@
+##TITLE=Library Entry 32219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,7-Methano-1H-indene-2,6-dicarboxylic acid, 3a,4,7,7a-tetrahydro
+-
+##MOLFORM=C12H12O4
+##CAS REGISTRY NO=37995-02-1
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    25         22
+    26         78
+    29         16
+    31         43
+    33          5
+    36         10
+    37         76
+    38        157
+    39        529
+    40        329
+    41         43
+    42          6
+    43          8
+    44        100
+    45        105
+    46         12
+    49         16
+    50         38
+    51         58
+    52         13
+    53         87
+    54         60
+    55         35
+    56          6
+    57          7
+    60         22
+    62        142
+    63        263
+    64        220
+    65        880
+    66        999
+    68          5
+    69          5
+    71          4
+    73          5
+    74          4
+    75          3
+    76          5
+    77         16
+    78          5
+    79          7
+    80          4
+    81        157
+    82        613
+    83         57
+    84          5
+    91         10
+    92        227
+    93        123
+    94         11
+    97          3
+   102          3
+   103          3
+   104          4
+   105          3
+   110        947
+   111        136
+   112         13
+   115         16
+   116          4
+   117          2
+   127          6
+   128         14
+   129          1
+   130          0
+   131          4
+   132          0
+   158          9
+   159          0
+   174          3
+   175          0
+   202         12
+   203          1

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 73640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(4)1342(1978); U. KRAMER ET AL
+##NAMES=HP
+##CAS NAME=13-(4,8-Diacetyl-10-cyano-4,8-diazadecyl)-12-dodecanolactam
+##MOLFORM=C25H44N4O3
+##CAS REGISTRY NO=75701-27-8
+##MP= -300
+##BP= -300
+##MW= 448
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    70        600
+    83        450
+   100        999
+   112        150
+   114        150
+   126        200
+   129        300
+   140        150
+   143        350
+   153        650
+   155        530
+   168        350
+   182        500
+   196        600
+   208        650
+   224        700
+   238        600
+   252        140
+   254        120
+   267        150
+   281        320
+   293        600
+   307        120
+   323        110
+   324        110
+   352         90
+   377        150
+   405        120
+   420         70
+   448         30

@@ -1,0 +1,92 @@
+##TITLE=Library Entry 71085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Ethanethiol, 2-(5-(4-methoxy-2-quinolyloxy)pentyl)amino-, hydroge
+n sulfate
+##MOLFORM=C17H24N2O5S2
+##CAS REGISTRY NO=41287-39-2
+##MP= -300
+##BP= -300
+##MW= 400
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    41        211
+    42        212
+    43         37
+    44         98
+    45         46
+    46         27
+    48        210
+    50         51
+    51         70
+    52         20
+    53         36
+    54         28
+    55        172
+    56         96
+    57         37
+    58         19
+    59         29
+    60         52
+    61         30
+    62         34
+    64        286
+    65         13
+    66         19
+    67         29
+    69         94
+    70         56
+    73         11
+    74         13
+    75          9
+    76         41
+    77         91
+    78         16
+    79          5
+    80          4
+    82         20
+    83          9
+    84        114
+    85         37
+    87         17
+    88         40
+    89         14
+    90         52
+    91          5
+    92         23
+    96         41
+    98        999
+    99         12
+   102         16
+   103         14
+   104         45
+   105         12
+   109          7
+   110         15
+   111          8
+   112         63
+   113          6
+   115         15
+   116          7
+   117        107
+   119         33
+   124          5
+   128         14
+   130         11
+   132        118
+   133         15
+   141          5
+   142         11
+   143         11
+   144         43
+   145         18
+   146         54
+   174         43
+   175        271
+   177        101
+   232          4

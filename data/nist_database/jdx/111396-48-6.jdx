@@ -1,0 +1,49 @@
+##TITLE=Library Entry 27329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.I. Akhmetov, All-Union Sci.-Res. Technol. Inst. Herbi
+cides, Ufa, USSR
+##NAMES=HP
+##CAS NAME=3-tert-Butyl-5-chloro-1-(2,2-dichlorovinyl)-6-methyluracil
+##MOLFORM=C11H13Cl3N2O2
+##CAS REGISTRY NO=111396-48-6
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    28         35
+    29        310
+    41        459
+    57        999
+    58        143
+    70        166
+    84        166
+   136         74
+   138         51
+   176        155
+   178         97
+   183         68
+   185         63
+   211        413
+   212         91
+   213        425
+   214         91
+   215        172
+   218        908
+   219        224
+   220        836
+   221        149
+   253        166
+   254        528
+   256        517
+   258        224
+   275         54
+   277         34
+   295         31
+   297         28
+   310        195
+   312        189
+   314         63

@@ -1,0 +1,23 @@
+##TITLE=Library Entry 97408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-isocyano-3-methyl-
+##MOLFORM=C8H7N
+##CAS REGISTRY NO=20600-54-8
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    63        150
+    64         10
+    89        210
+    90        380
+    91         40
+   116        800
+   117        999
+   118         90

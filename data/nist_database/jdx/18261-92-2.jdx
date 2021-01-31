@@ -1,0 +1,61 @@
+##TITLE=Library Entry 25590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Octadecanone
+##MOLFORM=C18H36O
+##CAS REGISTRY NO=18261-92-2
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    18         18
+    27        111
+    28         41
+    29        455
+    39         54
+    41        425
+    42        105
+    43        630
+    44         26
+    53         29
+    54         39
+    55        323
+    56        109
+    57        999
+    58         45
+    67         68
+    68         27
+    69        127
+    70         45
+    71        228
+    72        919
+    73        464
+    74         20
+    81         74
+    82         27
+    83        104
+    84         34
+    85        294
+    86         26
+    95         88
+    96         45
+    97         72
+    98         24
+    99         68
+   109         58
+   110         26
+   111         24
+   113         17
+   114         30
+   123         31
+   125         13
+   127         15
+   137         13
+   141         18
+   239        191
+   240         37

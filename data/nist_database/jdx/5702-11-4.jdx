@@ -1,0 +1,59 @@
+##TITLE=Library Entry 865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=KA69-639
+##NAMES=HP
+##CAS NAME=Silanamine, N-silyl-
+##MOLFORM=H7NSi2
+##CAS REGISTRY NO=5702-11-4
+##MP= -300
+##BP= -300
+##MW= 77
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    16        739
+    17        879
+    18         72
+    28        430
+    29        400
+    30        999
+    31        839
+    32         83
+    33         24
+    35          4
+    36         77
+    37        106
+    38         40
+    40          5
+    42         46
+    43         74
+    44         76
+    45         68
+    46         52
+    47         16
+    48          2
+    49          2
+    50          2
+    51          2
+    52          1
+    53          1
+    54          3
+    56         12
+    57         10
+    58          8
+    59         12
+    60          4
+    61          4
+    62          1
+    64          1
+    65          1
+    66          2
+    71        180
+    72        280
+    73        140
+    74        370
+    75        330
+    76        549
+    77         60

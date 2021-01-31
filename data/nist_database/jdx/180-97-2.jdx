@@ -1,0 +1,36 @@
+##TITLE=Library Entry 17873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. DAMICO MONSANTO COMPANY, NITRO, W. VIRGINIA, USA
+##NAMES=HP
+##CAS NAME=1,5,7,11-Tetrathiaspiro[5.5]undecane
+##MOLFORM=C7H12S4
+##CAS REGISTRY NO=180-97-2
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    32        264
+    37        123
+    38        181
+    39         99
+    40        140
+    41        834
+    42        297
+    44        239
+    45        719
+    46        999
+    47        173
+    58         99
+    59         99
+    64        148
+    71        132
+    74        223
+    76        380
+   106        561
+   119         99
+   150        190
+   224        173

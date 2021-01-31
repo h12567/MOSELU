@@ -1,0 +1,49 @@
+##TITLE=Library Entry 66316
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Dibromoacetaldehyde
+##MOLFORM=C2H2Br2O
+##CAS REGISTRY NO=3039-13-2
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    38          7
+    39         46
+    40         19
+    41        228
+    42         86
+    79        209
+    80         30
+    81        208
+    82         31
+    91        139
+    92        178
+    93        999
+    94        165
+    95        840
+   104         10
+   106          9
+   116          2
+   120         60
+   121         14
+   122         72
+   123          8
+   158          5
+   160         15
+   162          8
+   171         24
+   172        393
+   173         47
+   174        733
+   175         27
+   176        338
+   200         42
+   201          2
+   202         77
+   204         33

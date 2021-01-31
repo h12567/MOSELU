@@ -1,0 +1,89 @@
+##TITLE=Library Entry 99262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Salicylidene o-toluic hydrazone
+##MOLFORM=C15H14N2O2
+##CAS REGISTRY NO=82859-72-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          1
+    15          2
+    17          2
+    18          5
+    26          5
+    27         22
+    28         22
+    29         10
+    32          3
+    37          6
+    38         22
+    39        137
+    40         12
+    41         23
+    42          4
+    43          5
+    44          4
+    45          2
+    50         39
+    51         94
+    52         44
+    53         31
+    54          5
+    55          4
+    61          4
+    62         19
+    63         77
+    64         33
+    65        242
+    66         22
+    67          3
+    73          3
+    74          7
+    75          9
+    76         12
+    77         92
+    78         39
+    79         10
+    80         22
+    81          5
+    86          3
+    87          3
+    89         51
+    90         52
+    91        566
+    92         46
+    93         11
+   102          6
+   103          2
+   104          3
+   105         19
+   106          4
+   107          8
+   108          6
+   116          6
+   117          9
+   119        999
+   120         88
+   121         11
+   122          6
+   132          3
+   133          5
+   135        223
+   136         62
+   137          6
+   147          4
+   162          4
+   163          0
+   220          2
+   223          3
+   240          1
+   254         80
+   255         15

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 48940
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=.alpha.-D-Xylopyranoside, methyl, 2,4-dimethanesulfonate
+##MOLFORM=C8H16O9S2
+##CAS REGISTRY NO=29709-44-2
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43         70
+    44         22
+    45         91
+    46          6
+    57        267
+    58         15
+    61         53
+    62          3
+    79        999
+    80         30
+    85        351
+    86         22
+    97         61
+    98          1
+   175         19
+   176          1
+   181         39
+   182          1
+   193          7
+   241          2
+   271          1
+   289          1
+   320          1

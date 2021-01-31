@@ -1,0 +1,45 @@
+##TITLE=Library Entry 33365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Pentyne
+##MOLFORM=C5H8
+##CAS REGISTRY NO=627-21-4
+##MP= -300
+##BP= -300
+##MW= 68
+##$RETENTION INDEX=548
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         64
+    25          9
+    26         56
+    27        235
+    28         13
+    29         19
+    31         26
+    36         10
+    37         65
+    38         95
+    39        411
+    40        196
+    41        301
+    42         90
+    49         41
+    50        169
+    51        203
+    52        126
+    53        779
+    54         38
+    60         14
+    61         58
+    62         75
+    63         88
+    64         17
+    65        148
+    66         68
+    67        449
+    68        999
+    69         52

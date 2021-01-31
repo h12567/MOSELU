@@ -1,0 +1,85 @@
+##TITLE=Library Entry 5265
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-Cyanomethyl-2,3-dehydroquinuclidine
+##MOLFORM=C9H12N2
+##CAS REGISTRY NO=90533-73-6
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    41        281
+    42        999
+    43        132
+    44         79
+    45          2
+    47         11
+    48          4
+    49         42
+    50         32
+    51         77
+    52         59
+    53         70
+    54        115
+    55        171
+    56         51
+    57         30
+    58         14
+    60          8
+    61         12
+    62         10
+    63         44
+    64         59
+    65        167
+    66        116
+    67         59
+    68        118
+    69         21
+    70         12
+    75          6
+    76         12
+    77         57
+    78         58
+    79         80
+    80         97
+    81         45
+    82        205
+    83         46
+    84         30
+    86         21
+    88          2
+    89          1
+    90          8
+    91         50
+    92         61
+    93        164
+    94        133
+    95        120
+    96         18
+   103          2
+   104         51
+   105         59
+   106         54
+   107         74
+   108        138
+   109         13
+   116          8
+   117          9
+   118         24
+   119        179
+   120        202
+   121        186
+   122         28
+   132         13
+   133        173
+   134         15
+   147        283
+   148        904
+   149        127
+   150          8

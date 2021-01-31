@@ -1,0 +1,74 @@
+##TITLE=Library Entry 37393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methylcyclohexylamine,c&t
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=6850-35-7
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=926
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    15         44
+    16          1
+    17          4
+    18         38
+    25          1
+    26         13
+    27        138
+    28        248
+    29         78
+    30        197
+    35          1
+    36          1
+    37          3
+    39        142
+    40         27
+    41        192
+    42        168
+    43        474
+    44         43
+    45          3
+    47          2
+    48          1
+    50          7
+    51         16
+    52          8
+    53         32
+    54         31
+    56        828
+    57         77
+    58          7
+    62          2
+    63          3
+    65          9
+    66          5
+    67         30
+    68         23
+    70        999
+    71         54
+    72          1
+    77          8
+    78          2
+    79          8
+    80          7
+    81         64
+    82         10
+    83          2
+    84          6
+    91          1
+    93          3
+    94          2
+    95         16
+    96        106
+    97          9
+    98         43
+    99          3
+   110          1
+   112         18
+   113         81
+   114          7

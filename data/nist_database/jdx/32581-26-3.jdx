@@ -1,0 +1,47 @@
+##TITLE=Library Entry 57977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Arabinitol, O-2,3,4,6-tetra-O-methyl-.beta.-D-galactopyranosyl-(1
+.fwdarw.6)-O-2,3,4-tri-O-methyl-.beta.-D-galactopyranosyl-(1.fwdarw.3)-1,2,4
+,5-tetra-O-methyl-, L-
+##MOLFORM=C28H54O15
+##CAS REGISTRY NO=32581-26-3
+##MP= -300
+##BP= -300
+##MW= 630
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    45        460
+    71        450
+    75        210
+    88        999
+    89        370
+   101        669
+   103         50
+   111        160
+   115        110
+   143         50
+   145         40
+   155         60
+   159         80
+   175         10
+   187        160
+   191         30
+   201         10
+   203         20
+   219         50
+   251        160
+   303          2
+   305          4
+   319          2
+   335          2
+   351          2
+   359          1
+   363          3
+   395        130
+   423          3
+   455          1

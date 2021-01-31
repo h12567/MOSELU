@@ -1,0 +1,48 @@
+##TITLE=Library Entry 39164
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.R.DIXON GLAMORGAN POLYTECHNIC, PONTYPRIDD, GLAMORGAN,
+ UK
+##NAMES=HP
+##CAS NAME=Bicyclo[3.3.1]nonan-2-ol, 2-methyl-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=54703-59-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        100
+    41        190
+    43        350
+    53         70
+    54         60
+    55        210
+    57         60
+    58        180
+    59         70
+    67        190
+    68         70
+    69         90
+    71        999
+    72        210
+    77         60
+    79        240
+    80         70
+    81        210
+    84         60
+    91         50
+    93        110
+    94        490
+    95        100
+    96        340
+    97        110
+   107         80
+   110         50
+   121        160
+   125         60
+   137        140
+   140        120
+   154         60

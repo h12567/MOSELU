@@ -1,0 +1,53 @@
+##TITLE=Library Entry 16528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=N-Acetyl-2,5-dimethoxy-4-methylthioamphetamine
+##MOLFORM=C14H21NO3S
+##CAS REGISTRY NO=146724-73-4
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    43        129
+    44        999
+    45         47
+    65         14
+    77         23
+    79         11
+    86        136
+    91         40
+   105          9
+   109         16
+   111         10
+   121         17
+   122         20
+   123         11
+   135          9
+   137         26
+   139          8
+   151         25
+   152         65
+   153         15
+   162         37
+   167        163
+   168         16
+   181          6
+   183         94
+   184         10
+   197        390
+   198        153
+   199         30
+   209         65
+   210          8
+   211          6
+   224        917
+   225        129
+   226         52
+   240          4
+   283        203
+   284         27

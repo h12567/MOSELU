@@ -1,0 +1,50 @@
+##TITLE=Library Entry 73861
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3,4,5-Trimethyl-4-heptanol
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=60836-08-0
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         16
+    27        152
+    28         94
+    29        278
+    31         24
+    39        127
+    41        354
+    42         39
+    43        299
+    45        665
+    46         17
+    51         14
+    53         50
+    55        333
+    56         43
+    57        394
+    59        368
+    65         16
+    67         52
+    69        271
+    70         41
+    71         56
+    72         43
+    73         19
+    79         17
+    81         19
+    83        224
+    84         51
+    85         74
+   101        999
+   102         66
+   111         88
+   112         29
+   140         31
+   143         22

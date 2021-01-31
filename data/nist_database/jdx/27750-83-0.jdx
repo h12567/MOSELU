@@ -1,0 +1,65 @@
+##TITLE=Library Entry 43844
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=3,4,5-Trimethoxyphenylacetic acid, TMS derivative
+##MOLFORM=C14H22O5Si
+##CAS REGISTRY NO=27750-83-0
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    43         13
+    44         13
+    45         70
+    47         26
+    52         13
+    59         13
+    61         13
+    73        999
+    74         78
+    75        157
+    76         13
+    77         26
+    78         13
+    79         26
+    80         13
+    89         13
+    90         26
+    91         26
+    93         13
+    95         13
+   105         13
+   107         13
+   120         13
+   121         13
+   134         13
+   135         13
+   136         26
+   137         26
+   148         35
+   149         13
+   151         13
+   165         26
+   179         13
+   181        399
+   182         48
+   193         35
+   208         13
+   209         26
+   225         13
+   253         13
+   255         13
+   281         35
+   282         13
+   283        245
+   284         48
+   285         13
+   298        736
+   299        157
+   300         48

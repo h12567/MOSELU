@@ -1,0 +1,85 @@
+##TITLE=Library Entry 41195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7073
+##NAMES=HP
+##CAS NAME=3-Octanol, 3,7-dimethyl-
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=78-69-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1098
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          7
+    18          1
+    26          2
+    27         51
+    28         26
+    29         69
+    30          2
+    31         21
+    32          5
+    38          1
+    39         34
+    40          5
+    41        112
+    42         20
+    43        158
+    44          6
+    45         55
+    46          2
+    48          1
+    49          1
+    50          1
+    51          3
+    52          1
+    53         11
+    54          3
+    55        266
+    56         29
+    57         50
+    58         22
+    59         18
+    63          1
+    65          1
+    66          1
+    67          7
+    68          3
+    69        471
+    70         78
+    71         28
+    72         25
+    73        999
+    74         45
+    75          3
+    77          1
+    79          1
+    81          3
+    82          2
+    83         44
+    84          9
+    85         12
+    86          1
+    87          8
+    95          5
+    97          4
+    98          1
+    99          1
+   109          1
+   110          2
+   111         95
+   112          9
+   113          1
+   115          1
+   125         12
+   126          2
+   128          1
+   129         70
+   130          8
+   140          8
+   141          2
+   143         20
+   144          3

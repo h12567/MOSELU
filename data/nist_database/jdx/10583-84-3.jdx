@@ -1,0 +1,56 @@
+##TITLE=Library Entry 73506
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Propylimidazole-2-thione
+##MOLFORM=C6H10N2S
+##CAS REGISTRY NO=10583-84-3
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27        120
+    29         26
+    30         44
+    39         67
+    40         36
+    41        227
+    42         66
+    43         66
+    45         62
+    54         28
+    55         38
+    56         25
+    57         19
+    59         33
+    60         21
+    68         49
+    69        127
+    72        122
+    73        161
+    74         36
+    81         37
+    82         35
+    84         26
+    86         17
+    99         63
+   100        999
+   101        111
+   102         50
+   109        158
+   110         14
+   113         54
+   114        111
+   125         14
+   127        141
+   128         13
+   129          8
+   141         63
+   142        936
+   143         92
+   144         48
+   145          4

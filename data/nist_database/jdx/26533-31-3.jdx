@@ -1,0 +1,66 @@
+##TITLE=Library Entry 35017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Nonanol, 2-methyl-
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=26533-31-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         13
+    16          2
+    17          9
+    18         23
+    19          6
+    27        285
+    28         53
+    29        332
+    30         13
+    31         55
+    32          8
+    39        188
+    41        669
+    42        106
+    43        625
+    44        181
+    45        317
+    51         14
+    53         59
+    55        840
+    56        225
+    57        296
+    58         92
+    59         23
+    65          9
+    67         45
+    69        999
+    70         99
+    71         87
+    72         15
+    77          9
+    79         10
+    81         16
+    83        686
+    84         72
+    85         66
+    86         42
+    87        379
+    88         25
+    95          7
+    97         19
+    98          9
+    99         33
+   100         32
+   101        227
+   102         19
+   111          9
+   112         11
+   125         10
+   140         31
+   141          9

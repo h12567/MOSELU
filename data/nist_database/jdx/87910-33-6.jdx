@@ -1,0 +1,84 @@
+##TITLE=Library Entry 45488
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl(methyl 4-O-acetyl-2,3-di-O-methyl-.alpha.-D-mannopyranosid
+e)uronate
+##MOLFORM=C12H20O8
+##CAS REGISTRY NO=87910-33-6
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    41         15
+    42         11
+    43        409
+    44         14
+    45        149
+    47         15
+    53          8
+    55         11
+    57         11
+    58         16
+    59         54
+    60          2
+    61          4
+    69         15
+    71         34
+    73        149
+    74         81
+    75        999
+    76         30
+    81          4
+    83          7
+    85         57
+    87        219
+    88        799
+    89         46
+    97          4
+    98         13
+    99         33
+   101        159
+   103         69
+   104         13
+   109         31
+   111         16
+   113         10
+   115          7
+   116         15
+   117         28
+   127         34
+   129        349
+   130         40
+   131         13
+   141         36
+   142         10
+   143          1
+   145         35
+   146          1
+   155          0
+   157          8
+   158         21
+   159         24
+   161         24
+   169         27
+   170          1
+   172          7
+   173          9
+   187          4
+   200          2
+   201         40
+   202          3
+   204         22
+   205          1
+   206          8
+   219          7
+   229          0
+   233         11
+   261          1
+   292          0
+   293          0

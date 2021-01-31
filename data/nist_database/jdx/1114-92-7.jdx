@@ -1,0 +1,63 @@
+##TITLE=Library Entry 10080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2,3-Butanediol, diacetate
+##MOLFORM=C8H14O4
+##CAS REGISTRY NO=1114-92-7
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25          1
+    27         10
+    28         11
+    29          8
+    30          0
+    31          2
+    38          0
+    39          5
+    41          8
+    42         12
+    43        999
+    44         22
+    45         33
+    46          0
+    50          0
+    51          0
+    52          0
+    53          2
+    54          3
+    55         13
+    56          2
+    57          8
+    58          0
+    60          1
+    61         12
+    62          0
+    70          3
+    71          7
+    72         70
+    73         19
+    74          1
+    75          2
+    81          0
+    86         15
+    87        200
+    88         18
+    89          4
+    99          0
+   114         12
+   115          1
+   117         15
+   118          1
+   129          0
+   130         41
+   131         24
+   132          1
+   133          0
+   159          0

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 10564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Butene,4,4-diacetyloxy-
+##MOLFORM=C8H12O4
+##CAS REGISTRY NO=344750-12-5
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26        100
+    27        200
+    28        119
+    29        103
+    31         21
+    37          6
+    38         13
+    39         33
+    40          8
+    42        103
+    43        999
+    44         31
+    45         20
+    54          6
+    55        153
+    56         27
+    57         45
+    58          1
+    60         14
+    61         16
+    69          1
+    70          3
+    71          2
+    73         10
+    74          2
+    86          2
+    87          7
+    88          1
+    89          1
+    98          8
+    99        204
+   100         11
+   101          9
+   103         18
+   114          2
+   115         63
+   116         36
+   117          3
+   145          3

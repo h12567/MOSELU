@@ -1,0 +1,51 @@
+##TITLE=Library Entry 66149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 1-ethenyl-1,5-dimethyl-4-hexenyl ester
+##MOLFORM=C16H28O2
+##CAS REGISTRY NO=7779-23-9
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=1582
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         48
+    43        239
+    55         59
+    60         39
+    67         28
+    68        109
+    69        239
+    70          7
+    71        179
+    72          7
+    73          7
+    77          7
+    79         79
+    80        739
+    81        239
+    82         28
+    83         39
+    91         48
+    92        311
+    93        999
+    94        219
+    95         39
+    99        239
+   100          7
+   105         19
+   107        109
+   108         19
+   109         19
+   121        411
+   122         28
+   136        139
+   137         48
+   139          7
+   154          7
+   161          7
+   189          7

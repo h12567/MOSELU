@@ -1,0 +1,80 @@
+##TITLE=Library Entry 11789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=1-Bromo-1,1-dichloro-2-propanone
+##MOLFORM=C3H3BrCl2O
+##CAS REGISTRY NO=1751-16-2
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    35         23
+    36         15
+    37         24
+    38         14
+    39         45
+    40         14
+    41         79
+    42         74
+    43        999
+    44         51
+    45         11
+    46          1
+    47         69
+    48         11
+    49         16
+    50          5
+    51          5
+    52          5
+    53         10
+    54          5
+    55         80
+    56         22
+    57         19
+    58          3
+    59          2
+    60          3
+    63         59
+    64          6
+    65         19
+    69          6
+    72          4
+    73          3
+    74          5
+    76          1
+    79         24
+    80          4
+    81         18
+    82         39
+    83         64
+    84         26
+    85         64
+    86          5
+    87          8
+    91         15
+    93         15
+    97         70
+    99         40
+   101          9
+   108          3
+   110          5
+   125        151
+   126         27
+   127         94
+   128         25
+   129         27
+   130          6
+   154          2
+   156          3
+   161         20
+   163         28
+   165         12
+   167          2
+   169         10
+   171         15
+   173          4

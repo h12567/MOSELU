@@ -1,0 +1,31 @@
+##TITLE=Library Entry 50838
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,7-Dimethyl-(1,2,4)-triazolo(4,3-b)(1,2,4)-triazine
+##MOLFORM=C6H7N5
+##CAS REGISTRY NO=61139-72-8
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    38        301
+    39        478
+    40        428
+    41        279
+    42        602
+    51        329
+    52        644
+    53        642
+    67        307
+    79        499
+    80        247
+    81        999
+   108        218
+   121        138
+   149        865
+   150        129

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 45504
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2557
+##NAMES=HP
+##CAS NAME=Diethyl sulfide
+##MOLFORM=C4H10S
+##CAS REGISTRY NO=352-93-2
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=699
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          7
+    25          3
+    26         41
+    27        307
+    28         81
+    29        358
+    30          8
+    31          2
+    32          5
+    33          5
+    34         37
+    35        113
+    36          2
+    37          5
+    39          6
+    41         81
+    42          4
+    43          2
+    44         11
+    45        118
+    46        122
+    47        696
+    48         18
+    49         29
+    53          1
+    55          8
+    56          5
+    57         16
+    58         49
+    59         82
+    60        103
+    61        510
+    62        467
+    63         34
+    64         19
+    69          2
+    73          2
+    75        999
+    76         42
+    77         44
+    78          2
+    89         32
+    90        752
+    91         41
+    92         34

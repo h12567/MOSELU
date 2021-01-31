@@ -1,0 +1,57 @@
+##TITLE=Library Entry 23330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Buten-3-yne, 1-(1,1-dimethylethoxy)-, (E)-
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=34581-70-9
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    25          1
+    26         16
+    27         98
+    29        499
+    30         14
+    31          2
+    33          4
+    36          5
+    37         18
+    38         71
+    39        251
+    40         13
+    41        639
+    42         27
+    43         36
+    44          9
+    45          4
+    49          3
+    50         26
+    51         39
+    52          4
+    53         39
+    54          3
+    55         53
+    56         61
+    57        999
+    58         40
+    59         28
+    65          4
+    66         11
+    68        126
+    69         17
+    70          2
+    77          4
+    79         23
+    80          6
+    81         23
+    82          4
+    95          4
+   107          1
+   109         61
+   124        100

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 17724
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=9H-Purine, 6-chloro-9-(methoxymethyl)-
+##MOLFORM=C7H7ClN4O
+##CAS REGISTRY NO=6504-64-9
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    36         60
+    38         21
+    39         28
+    40          6
+    41         19
+    44         20
+    45        999
+    46         22
+    51         43
+    52         37
+    53         32
+    64         14
+    74         19
+    75         22
+    76         19
+    77         86
+    78         18
+    79         56
+    85         32
+    86         61
+   104         41
+   113          8
+   119          8
+   133         30
+   166         83
+   167        325
+   168        946
+   169        174
+   170        308
+   171          9
+   198         93
+   200         31

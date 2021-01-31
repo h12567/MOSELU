@@ -1,0 +1,62 @@
+##TITLE=Library Entry 13099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=1,1-Dibromopropanone
+##MOLFORM=C3H4Br2O
+##CAS REGISTRY NO=867-54-9
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    36          1
+    37          6
+    38          9
+    39         12
+    40          2
+    41         17
+    42         29
+    43        999
+    44         30
+    45          1
+    53          3
+    79         16
+    80          6
+    81         17
+    82          6
+    91         16
+    92         26
+    93         28
+    94         28
+    95         10
+    96          5
+   104          2
+   105          4
+   106          3
+   107         12
+   108          1
+   109          8
+   120         21
+   121          1
+   122         21
+   123          2
+   135          1
+   136          4
+   137          1
+   138          4
+   160          2
+   170          1
+   171         31
+   172          3
+   173         64
+   174          2
+   175         30
+   201          1
+   214         23
+   216         44
+   217          1
+   218         22

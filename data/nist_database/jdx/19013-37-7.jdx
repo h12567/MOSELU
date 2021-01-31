@@ -1,0 +1,51 @@
+##TITLE=Library Entry 30451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=Pentanedioic acid, 3-methyl-, dimethyl ester
+##MOLFORM=C8H14O4
+##CAS REGISTRY NO=19013-37-7
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1137
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        260
+    29        340
+    31        140
+    39        400
+    40         80
+    41        610
+    42        420
+    43        470
+    44         60
+    45        140
+    53         90
+    54         70
+    55        550
+    56        210
+    57        130
+    59        999
+    69        760
+    70         60
+    71        240
+    72         80
+    73        580
+    74        340
+    82        260
+    83        200
+    85         90
+    86        130
+    99        140
+   101        790
+   102         50
+   114        900
+   115        500
+   127         60
+   142        320
+   143        820
+   144         70

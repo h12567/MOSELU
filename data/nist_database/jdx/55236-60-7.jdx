@@ -1,0 +1,40 @@
+##TITLE=Library Entry 90849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., USA
+##NAMES=HP
+##CAS NAME=Ethyl N-tert-butylformimidate
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=55236-60-7
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        170
+    40         40
+    41        530
+    42        290
+    43         70
+    44         50
+    45        190
+    46        460
+    55         70
+    56        220
+    57        950
+    58        950
+    59         30
+    69         30
+    71         30
+    72         40
+    73         70
+    84         20
+    85         90
+    86        560
+    87         20
+   101        170
+   114        999
+   129        280

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 2057
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=L-Homocysteine, S-[3-butoxy-3-oxo-2-[(trifluoroacetyl)amino]propy
+l]-N-(trifluoroacetyl)-, butyl ester, (R)-
+##MOLFORM=C19H28F6N2O6S
+##CAS REGISTRY NO=55518-00-8
+##MP= -300
+##BP= -300
+##MW= 526
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    17         46
+    18        314
+    20        424
+    26         51
+    27        252
+    29        985
+    30         33
+    31         28
+    39        130
+    40        968
+    41        999
+    43        180
+    44        580
+    45        140
+    46         76
+    50         21
+    51        110
+    54         33
+    55        150
+    56        213
+    57        803
+    60         26
+    61        132
+    69        266
+    70        117
+    73         82
+    77         21
+    84         54
+    85         41
+    86         77
+    87         97
+    88         51
+    89         44
+    96         33
+    97         46
+   113        137
+   114         21
+   118         23
+   126         24
+   131         67
+   138         41
+   139         62
+   140        119
+   152        353
+   153        110
+   154         19
+   165         52
+   166         44
+   170        262
+   171         59
+   183         36
+   184        233
+   187         56
+   198        338
+   199         29
+   210         76
+   226        208
+   227         82
+   244         34
+   300        117
+   339         39
+   413         42

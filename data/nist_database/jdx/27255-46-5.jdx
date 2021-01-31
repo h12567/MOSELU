@@ -1,0 +1,26 @@
+##TITLE=Library Entry 28032
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Seebach, Lab. Org. Chem., Swiss Tech. Univ., Zurich,
+ Switzerland
+##NAMES=HP
+##CAS NAME=1,2-Propanediamine, N,N'-dimethyl-, (S)-
+##MOLFORM=C5H14N2
+##CAS REGISTRY NO=27255-46-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    15         30
+    28         80
+    30        120
+    42         80
+    43         50
+    44        220
+    56         70
+    57         40
+    58        999
+    59         40

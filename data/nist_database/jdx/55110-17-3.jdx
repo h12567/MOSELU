@@ -1,0 +1,40 @@
+##TITLE=Library Entry 11237
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.F.CASALS, LAB. PHYSCHIM. PHOTOCHIM. ORG., UNIV. DU MA
+NS, FR.
+##NAMES=HP
+##CAS NAME=2,6,10,14,18-Nonadecanepentone
+##MOLFORM=C19H30O5
+##CAS REGISTRY NO=55110-17-3
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        720
+    58        300
+    69        230
+    71        480
+    81        100
+    83        230
+    85        440
+    95        300
+    97        500
+   113        800
+   123        240
+   125        330
+   128        160
+   141        300
+   149         60
+   165        400
+   177        100
+   183        400
+   193        160
+   211         30
+   235        270
+   253         70
+   320        300

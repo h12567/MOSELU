@@ -1,0 +1,29 @@
+##TITLE=Library Entry 58421
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (5)1154(1979); K. WADA AND T. ISHIDA
+##NAMES=HP
+##CAS NAME=2-Oxecanone, 4-hydroxy-10-methyl-, [4R-(4R*,10R*)]-
+##MOLFORM=C10H18O3
+##CAS REGISTRY NO=56020-70-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        680
+    55        760
+    56        740
+    67        680
+    70        920
+    82        800
+    89        999
+    98        760
+   109        600
+   124        120
+   127        120
+   140         48
+   150         56
+   168         16

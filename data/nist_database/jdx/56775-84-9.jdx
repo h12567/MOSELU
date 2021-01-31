@@ -1,0 +1,60 @@
+##TITLE=Library Entry 28348
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. GARBUTT,CENT. FORENSIC LAB.,R. CAN. MT. POLICE,OTTAW
+A,CAN.
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-3-(3-pyridyl)-3-(4-bromophenyl)prop-2-enamine
+##MOLFORM=C16H17BrN2
+##CAS REGISTRY NO=56775-84-9
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    42        471
+    51         53
+    57         89
+    58        999
+    70        732
+    71         86
+    82        102
+    89         44
+    90         41
+    92         64
+   115         75
+   117         49
+   118         69
+   139         72
+   147        103
+   151         29
+   152         39
+   161        302
+   165        141
+   169         82
+   171         85
+   178         32
+   180         18
+   191        178
+   192        291
+   193        709
+   224         47
+   226         44
+   237         32
+   238        226
+   240        192
+   247          7
+   260         37
+   262         36
+   272        115
+   273         83
+   274        107
+   301        118
+   302         16
+   303        109
+   315        148
+   316        269
+   317        185
+   318        265

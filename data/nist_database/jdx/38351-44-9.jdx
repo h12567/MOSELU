@@ -1,0 +1,45 @@
+##TITLE=Library Entry 24016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.I.ONUSKA CANADA CENTRE FOR INLAND WATERS, ONTARIO, CA
+NADA
+##NAMES=HP
+##CAS NAME=Carbamodithioic acid, dibutyl-, methyl ester
+##MOLFORM=C10H21NS2
+##CAS REGISTRY NO=38351-44-9
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=1418
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29        322
+    39         84
+    41        435
+    42        136
+    43        516
+    44        419
+    55        371
+    56        242
+    57        999
+    58        177
+    60        193
+    69        193
+    71        306
+    76        130
+    83        177
+    85        161
+    91        242
+    97        119
+   109         43
+   111         68
+   115         20
+   116        322
+   117         33
+   119         18
+   121         20
+   128         45
+   172        177
+   204         23
+   219        158

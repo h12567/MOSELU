@@ -1,0 +1,54 @@
+##TITLE=Library Entry 22083
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopropane, 2-butyl-1,1-dichloro-2-ethyl-
+##MOLFORM=C9H16Cl2
+##CAS REGISTRY NO=5685-44-9
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        580
+    40        100
+    41        900
+    42        200
+    43        280
+    44         10
+    51        180
+    53        210
+    54        140
+    55        570
+    56        999
+    57        220
+    58         20
+    65        190
+    66         20
+    67        130
+    69        600
+    70        330
+    71         20
+    75        100
+    77        120
+    81         80
+    83         70
+    87         40
+    89         80
+    98        690
+    99         60
+   109        160
+   110         20
+   111        100
+   112         10
+   123         60
+   124         50
+   125         20
+   126         30
+   137        110
+   138         10
+   165         10
+   194          3

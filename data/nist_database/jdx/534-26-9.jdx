@@ -1,0 +1,53 @@
+##TITLE=Library Entry 20911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4957
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 4,5-dihydro-2-methyl-
+##MOLFORM=C4H8N2
+##CAS REGISTRY NO=534-26-9
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          9
+    15         80
+    16          1
+    25          4
+    26         32
+    27         66
+    28        174
+    29         15
+    30         33
+    31          3
+    36          1
+    38          5
+    39          9
+    40         29
+    41         58
+    42        318
+    43         60
+    44          4
+    45          1
+    51          6
+    52         16
+    53          9
+    54        225
+    55        999
+    56         64
+    57          4
+    58          1
+    66          1
+    68          1
+    69          1
+    81         17
+    82         32
+    83        255
+    84        457
+    85         28
+    86          1

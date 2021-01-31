@@ -1,0 +1,55 @@
+##TITLE=Library Entry 29604
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methane, diethoxy-
+##MOLFORM=C5H12O2
+##CAS REGISTRY NO=462-95-3
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=636
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          2
+    14         17
+    15         71
+    16          4
+    18          1
+    19         19
+    26         60
+    27        241
+    28         92
+    29        475
+    30          1
+    31        882
+    32         13
+    33          3
+    37          1
+    39          1
+    41        122
+    42         17
+    43         66
+    44         35
+    45        125
+    46          1
+    47        174
+    48          2
+    49          1
+    51          0
+    58        121
+    59        999
+    60         35
+    61         10
+    73          3
+    74         10
+    75         79
+    76          2
+    89         37
+    90          1
+   103        497
+   104         25
+   105          2

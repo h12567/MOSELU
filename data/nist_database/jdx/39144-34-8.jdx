@@ -1,0 +1,63 @@
+##TITLE=Library Entry 84692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. D. HENION, CORNELL UNIVERSITY, ITHACA, NY, USA
+##NAMES=HP
+##CAS NAME=2-Propanol, 1-methoxy-3-(2-methylphenoxy)-
+##MOLFORM=C11H16O3
+##CAS REGISTRY NO=39144-34-8
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39         93
+    41         64
+    42         24
+    43        118
+    45        476
+    46         14
+    50         18
+    51         50
+    52         38
+    53         27
+    55         29
+    57        247
+    58        104
+    59        199
+    60         20
+    63         34
+    64         16
+    65        113
+    66         13
+    71        154
+    72         13
+    73         13
+    74         19
+    75        146
+    77        166
+    78         57
+    79         99
+    80         44
+    81         10
+    87         16
+    88         42
+    89        243
+    90         47
+    91        166
+    92         27
+    93         10
+   105         63
+   108        999
+   109        101
+   119         27
+   122         31
+   126         11
+   131         13
+   133        134
+   134         13
+   150         12
+   196        295
+   197         32

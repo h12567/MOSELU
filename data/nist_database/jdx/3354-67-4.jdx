@@ -1,0 +1,40 @@
+##TITLE=Library Entry 15285
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Amidephrine
+##MOLFORM=C10H16N2O3S
+##CAS REGISTRY NO=3354-67-4
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    42        161
+    44        999
+    45         31
+    57         21
+    64         19
+    65         61
+    66         18
+    77         29
+    78         29
+    79         21
+    91         32
+    92         32
+    94         20
+   106         31
+   118         19
+   120         60
+   121         21
+   131         19
+   132         19
+   145         20
+   146         20
+   147        139
+   185         10
+   199         29
+   226         10

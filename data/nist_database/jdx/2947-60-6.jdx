@@ -1,0 +1,78 @@
+##TITLE=Library Entry 61995
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Methylbenzyl cyanide
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=2947-60-6
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          3
+    14         10
+    15         45
+    26         59
+    27        156
+    29          4
+    37         57
+    38        116
+    39        344
+    40         95
+    41         53
+    42          2
+    43          3
+    50        159
+    51        253
+    52         98
+    53         33
+    54          6
+    61         51
+    62        111
+    63        214
+    64         88
+    65        181
+    66         17
+    67          1
+    73         12
+    74         53
+    75         67
+    76         86
+    77        214
+    78        122
+    79         20
+    80          2
+    84          2
+    85         10
+    86         19
+    87         26
+    88         26
+    89        141
+    90          2
+    91        999
+    92         79
+    97          2
+    98          7
+    99          7
+   100          6
+   101         21
+   102         84
+   103        235
+   104        533
+   105         67
+   106          3
+   114          8
+   116        654
+   117         61
+   118          2
+   127          5
+   128         21
+   130        205
+   131        703
+   132         70
+   133          3

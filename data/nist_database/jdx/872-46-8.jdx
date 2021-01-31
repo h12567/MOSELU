@@ -1,0 +1,42 @@
+##TITLE=Library Entry 18792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Dichloro-1-silacyclo-3-pentene
+##MOLFORM=C4H6Cl2Si
+##CAS REGISTRY NO=872-46-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39        160
+    40         10
+    41         20
+    51         20
+    52         30
+    53        100
+    54        999
+    55         60
+    63        150
+    64         10
+    65         60
+    98         40
+    99         30
+   100         30
+   101         20
+   115         20
+   116        380
+   117         50
+   118        130
+   119         10
+   124         30
+   126         20
+   152        110
+   153         30
+   154         80
+   155         10
+   156         10

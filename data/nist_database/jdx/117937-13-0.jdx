@@ -1,0 +1,29 @@
+##TITLE=Library Entry 81510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.RONTANI, CENT. OCEANOL., FAC. SCI. DE LUMINY, MARSEIL
+LE, FR.
+##NAMES=HP
+##CAS NAME=1-Phenyl-1,4-nonanedione
+##MOLFORM=C15H20O2
+##CAS REGISTRY NO=117937-13-0
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    27        104
+    29        128
+    43        322
+    51        102
+    55        107
+    71        189
+    77        393
+    99        106
+   105        999
+   133        337
+   161        468
+   176        491
+   232         13

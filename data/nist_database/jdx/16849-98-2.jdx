@@ -1,0 +1,31 @@
+##TITLE=Library Entry 20673
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Acetic acid, mercapto-, cyclohexyl ester
+##MOLFORM=C8H14O2S
+##CAS REGISTRY NO=16849-98-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27        240
+    29        200
+    39        240
+    41        600
+    47        260
+    54        120
+    55        999
+    67        260
+    75         60
+    81         80
+    82        590
+    83        700
+    92        130
+    93        120
+   115        120
+   174         30

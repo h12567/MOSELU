@@ -1,0 +1,41 @@
+##TITLE=Library Entry 34675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=1H-Pyrazole, 4,5-dihydro-5-methyl-
+##MOLFORM=C4H8N2
+##CAS REGISTRY NO=1568-20-3
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    26         43
+    27        157
+    28        215
+    29         91
+    30         25
+    38         17
+    39         86
+    40         43
+    41        110
+    42        761
+    43         86
+    44         21
+    50         13
+    51         15
+    52         11
+    53         23
+    54         16
+    55         28
+    56         67
+    68         14
+    69        999
+    70         48
+    83         72
+    84        476
+    85         52

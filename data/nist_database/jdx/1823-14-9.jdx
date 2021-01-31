@@ -1,0 +1,61 @@
+##TITLE=Library Entry 77075
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, 4-pentynyl-
+##MOLFORM=C11H12
+##CAS REGISTRY NO=1823-14-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        109
+    28         52
+    37         13
+    38         47
+    39        248
+    40         25
+    41         35
+    50        103
+    51        217
+    52         58
+    53         41
+    62         44
+    63        129
+    64         37
+    65        338
+    66         47
+    74         28
+    75         27
+    76         34
+    77        250
+    78        182
+    79        143
+    87         13
+    89         79
+    91        962
+    92        246
+    93         15
+   102         42
+   103        198
+   104        999
+   105        189
+   106         13
+   115        177
+   116        151
+   117         44
+   127         46
+   128        201
+   129        744
+   130         76
+   139         12
+   141         32
+   142         14
+   143        151
+   144        268
+   145         32

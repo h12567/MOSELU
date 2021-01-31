@@ -1,0 +1,39 @@
+##TITLE=Library Entry 35175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-Methylthiolane,S-oxide
+##MOLFORM=C5H10OS
+##CAS REGISTRY NO=35539-62-9
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    53        100
+    54         32
+    55        350
+    56        260
+    57         30
+    59        140
+    60         25
+    63        735
+    64         55
+    65         40
+    67        175
+    68        280
+    69        999
+    70         56
+    87        180
+    88         15
+    89         10
+   101        140
+   102         15
+   103         10
+   118        630
+   119         40
+   120         29
+   121          1

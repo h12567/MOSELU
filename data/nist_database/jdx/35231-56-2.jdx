@@ -1,0 +1,40 @@
+##TITLE=Library Entry 5087
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=5-Pyrimidinol, 2-methyl-
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=35231-56-2
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    26        130
+    27        205
+    28        288
+    29         33
+    39         28
+    40         52
+    41         80
+    42        999
+    43         42
+    44          9
+    51         40
+    52         54
+    53         28
+    54         61
+    55        146
+    56          9
+    67          2
+    68          4
+    81          2
+    82         28
+    83        125
+    84          2
+   109         23
+   110        728
+   111         59

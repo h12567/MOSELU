@@ -1,0 +1,55 @@
+##TITLE=Library Entry 15040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Brossi, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3-Diethoxyphosphonyl-demethylthiocolchicine
+##MOLFORM=C25H32NO8PS
+##CAS REGISTRY NO=123643-50-5
+##MP= -300
+##BP= -300
+##MW= 537
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    42        176
+    43        999
+    44        431
+    45        394
+    47        268
+    48        198
+    56        171
+    69        467
+    78        170
+    81        453
+    82         75
+    99        404
+   106        170
+   109         73
+   127        274
+   147        403
+   215        671
+   219        193
+   252         79
+   256         73
+   314         75
+   315         78
+   408         72
+   417         89
+   419        107
+   422        184
+   435        113
+   436        100
+   438        122
+   450        951
+   451        211
+   452        112
+   456         83
+   466         82
+   478         93
+   504        356
+   505        102
+   509        174
+   537        367
+   538         81

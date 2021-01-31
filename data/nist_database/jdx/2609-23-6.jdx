@@ -1,0 +1,46 @@
+##TITLE=Library Entry 34444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. JUTTNER, INST. CHEM., UNIV. TUBINGEN, TUBINGEN, W. G
+ERMAN
+##NAMES=HP
+##CAS NAME=2,6-Dimethyl-2-trans-6-octadiene
+##MOLFORM=C10H18
+##CAS REGISTRY NO=2609-23-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=991
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         70
+    29         50
+    39         80
+    41        660
+    42         30
+    43         20
+    51         20
+    52         10
+    53         50
+    54         10
+    55         50
+    56         10
+    57         10
+    65         10
+    67         70
+    68         40
+    69        999
+    70        150
+    77         10
+    79         10
+    81         30
+    82         20
+    91         10
+    94         30
+    95        250
+    96         20
+   109         10
+   123         80
+   124         10
+   138         30

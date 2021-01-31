@@ -1,0 +1,28 @@
+##TITLE=Library Entry 71680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Dimethylaminomethylidene-4-sphingenine benzeneboronate
+##MOLFORM=C27H45BN2O2
+##CAS REGISTRY NO=66237-79-4
+##MP= -300
+##BP= -300
+##MW= 440
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    43        161
+    44        247
+    57        217
+    73        107
+    83        250
+    97        336
+    98        999
+   125         70
+   200        210
+   201        977
+   202        665
+   363        370
+   440         39

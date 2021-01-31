@@ -1,0 +1,40 @@
+##TITLE=Library Entry 57873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.beta.-D-Gluco-Hexodialdo-1,5-pyranoside, methyl 2,3,4-tri-O-meth
+yl-, (2,4-dinitrophenyl)hydrazone
+##MOLFORM=C16H22N4O9
+##CAS REGISTRY NO=41545-31-7
+##MP= -300
+##BP= -300
+##MW= 414
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    45        298
+    46         54
+    47         39
+    48         31
+    49         23
+    75        745
+    76         78
+    77         74
+    78         54
+    86         58
+    87         66
+    88        999
+   101        298
+   102         70
+   103         54
+   104         35
+   130         11
+   131         27
+   193         31
+   235        125
+   236         54
+   266        227
+   267         62
+   414         66

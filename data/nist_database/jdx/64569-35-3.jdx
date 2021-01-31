@@ -1,0 +1,57 @@
+##TITLE=Library Entry 43418
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Threonine, 3TMS derivative
+##MOLFORM=C13H33NO3Si3
+##CAS REGISTRY NO=64569-35-3
+##MP= -300
+##BP= -300
+##MW= 335
+##$RETENTION INDEX=1401
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    45         94
+    46          5
+    47          4
+    73        999
+    74         86
+    75        221
+    76         16
+    77        176
+    78         13
+    79          7
+   101        104
+   102          7
+   103          2
+   117        459
+   118         50
+   119         18
+   120          2
+   147        248
+   148         40
+   149         20
+   150          2
+   180         27
+   181          4
+   203         76
+   204         14
+   205          7
+   218        783
+   219        155
+   220         68
+   221          9
+   222          2
+   291        284
+   292         81
+   293         40
+   294          7
+   295          2
+   320         40
+   321         13
+   322          5
+   323          2
+   335          5
+   336          2

@@ -1,0 +1,82 @@
+##TITLE=Library Entry 11017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=8-Acetoxycarvotanacetone
+##MOLFORM=C12H18O3
+##CAS REGISTRY NO=87578-93-6
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1572
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    27         25
+    29         15
+    31         10
+    38          4
+    39        116
+    40         20
+    41        166
+    42         22
+    43        999
+    44         21
+    45         18
+    50          8
+    51         32
+    52         24
+    53        124
+    54        103
+    55         49
+    57          9
+    58          7
+    59        309
+    60         17
+    61          7
+    63         10
+    65         40
+    66         31
+    67         76
+    68         12
+    69         38
+    70          6
+    77         80
+    78         17
+    79        134
+    80         44
+    81        113
+    82        171
+    83         16
+    85          8
+    91         89
+    92         24
+    93         55
+    94         28
+    95        233
+    96         20
+   101         67
+   102          5
+   103          6
+   105         31
+   106         12
+   107        574
+   108        688
+   109        380
+   110        276
+   111         40
+   117          6
+   121         30
+   122         62
+   123         42
+   125         18
+   135        135
+   136         12
+   138          4
+   149          7
+   150        587
+   151         85
+   152          7
+   153         78
+   154          6

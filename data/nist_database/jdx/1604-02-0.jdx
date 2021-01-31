@@ -1,0 +1,68 @@
+##TITLE=Library Entry 32997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Propyl-1-cyclopentanol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=1604-02-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26         17
+    27        131
+    28          6
+    29        108
+    31         29
+    38         18
+    39        201
+    40         50
+    41        334
+    42         61
+    43        317
+    44         18
+    45         17
+    50         23
+    51         47
+    52         31
+    53        137
+    54         40
+    55        156
+    56         37
+    57        393
+    58        219
+    59         14
+    62          7
+    63         16
+    65         71
+    66        106
+    67        999
+    68        127
+    69         70
+    70          7
+    71        214
+    72         51
+    77         63
+    78         18
+    79        138
+    80         32
+    81        201
+    82         44
+    83         22
+    84         18
+    85        581
+    86        230
+    87         16
+    91         16
+    93         11
+    95         81
+    99        394
+   100         30
+   110        143
+   111         14
+   113         29
+   128         18

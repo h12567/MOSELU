@@ -1,0 +1,54 @@
+##TITLE=Library Entry 24033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-1-undecanol
+##MOLFORM=C12H26O
+##CAS REGISTRY NO=10522-26-6
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1422
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        191
+    28        117
+    29        369
+    31        251
+    39        152
+    41        744
+    42        204
+    43        897
+    44         39
+    45         41
+    53         53
+    54         59
+    55        520
+    56        567
+    57        999
+    58        140
+    59         24
+    67         73
+    68         70
+    69        458
+    70        335
+    71        371
+    72         25
+    81         33
+    82        124
+    83        295
+    84        215
+    85        195
+    96         64
+    97        253
+    98        106
+    99         37
+   110         24
+   111        118
+   112         64
+   125         51
+   126         39
+   139         17
+   140         47

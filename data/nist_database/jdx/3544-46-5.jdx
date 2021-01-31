@@ -1,0 +1,31 @@
+##TITLE=Library Entry 73165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.T. DELBEKE, STATE UNIV., GHENT, BELGIUM
+##NAMES=HP
+##CAS NAME=Crotonamide, N-[1-(dimethylcarbamoyl)propyl]-N-propyl-, (E)-
+##MOLFORM=C13H24N2O2
+##CAS REGISTRY NO=3544-46-5
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55         21
+    56         53
+    58        114
+    68         20
+    69        447
+    70         78
+    72        106
+    98         35
+   100        999
+   101         78
+   115         55
+   143         22
+   168        229
+   169         28
+   195         78
+   196         23

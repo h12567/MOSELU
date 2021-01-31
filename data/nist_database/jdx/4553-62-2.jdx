@@ -1,0 +1,66 @@
+##TITLE=Library Entry 33282
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3169
+##NAMES=HP
+##CAS NAME=Pentanedinitrile, 2-methyl-
+##MOLFORM=C6H8N2
+##CAS REGISTRY NO=4553-62-2
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          4
+    15         25
+    18          3
+    25          4
+    26         64
+    27        152
+    28        161
+    29         10
+    36          1
+    37         24
+    38         34
+    39        115
+    40         72
+    41        699
+    42         55
+    43          2
+    44          1
+    49          4
+    50         14
+    51         48
+    52        117
+    53         73
+    54        638
+    55        369
+    56         18
+    61          1
+    62          4
+    63          9
+    64         24
+    65         11
+    66         74
+    67         19
+    68        999
+    69         47
+    70          1
+    75          4
+    76          4
+    77          2
+    78          3
+    79         35
+    80         67
+    81         10
+    82          1
+    89          1
+    91          3
+    92          3
+    93          8
+   107         20
+   108          1
+   109          1

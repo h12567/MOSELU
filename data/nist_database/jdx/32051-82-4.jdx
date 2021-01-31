@@ -1,0 +1,30 @@
+##TITLE=Library Entry 59478
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. WENTRUP, DEP. CHEM., UNIV. QUEENSLAND, BRISBANE, AUS
+T.
+##NAMES=HP
+##CAS NAME=5-(1-Naphthyl)tetrazole
+##MOLFORM=C11H8N4
+##CAS REGISTRY NO=32051-82-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    31         60
+    39         90
+    51         70
+    63        100
+    64        240
+    77         50
+    91        999
+    92         60
+   127         60
+   140         40
+   143         50
+   153         50
+   168        170
+   196         90

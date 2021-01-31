@@ -1,0 +1,65 @@
+##TITLE=Library Entry 44590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Glucopyranoside, methyl 4,6-di-O-methyl-
+##MOLFORM=C9H18O6
+##CAS REGISTRY NO=23262-68-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        274
+    42         76
+    43        142
+    45        890
+    53         65
+    55         98
+    57         65
+    58        186
+    59        214
+    60        274
+    61        126
+    69        153
+    70         44
+    71         49
+    72        131
+    73         65
+    74        999
+    75        489
+    77         38
+    86         87
+    88        851
+    89        164
+    90         44
+    99         54
+   101        219
+   102        285
+   105        263
+   111        263
+   115        159
+   117        131
+   118         65
+   119        159
+   120         65
+   121        159
+   124         87
+   125         65
+   130        153
+   131        197
+   147        263
+   148         65
+   149        164
+   165         98
+   173        197
+   177         38
+   178         38
+   189         65
+   191         65
+   193         65
+   206         98
+   222         98

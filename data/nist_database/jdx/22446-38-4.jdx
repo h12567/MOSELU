@@ -1,0 +1,37 @@
+##TITLE=Library Entry 84424
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.SELF AGRICULTURAL RES., FOOD RES. INSTITUTE, NORWICH,
+ U.K.
+##NAMES=HP
+##CAS NAME=Benzeneacetic acid, 3-hydroxy-, ethyl ester
+##MOLFORM=C10H12O3
+##CAS REGISTRY NO=22446-38-4
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         38
+    29        177
+    39         33
+    41         14
+    50         10
+    51         26
+    52         17
+    53         17
+    55         10
+    77         96
+    78         33
+    79         23
+    90         37
+   105         10
+   107        999
+   108        134
+   121         17
+   135         22
+   180        311
+   181         38

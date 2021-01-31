@@ -1,0 +1,45 @@
+##TITLE=Library Entry 18913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Whitlock ET.AL.JAOCS,53,586(1976)
+##NAMES=HP
+##CAS NAME=2,3-Epoxyhexanoic acid, ethyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=61454-93-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        423
+    29        919
+    39        197
+    41        589
+    42         67
+    43        285
+    46         13
+    52         36
+    55        999
+    56        214
+    57        316
+    59         40
+    67         98
+    69         40
+    71        247
+    73        520
+    76         26
+    77         27
+    83         41
+    85        458
+    88         99
+    89         11
+   101        250
+   103          7
+   112         14
+   113         36
+   115         30
+   128          6
+   130        142
+   158         20

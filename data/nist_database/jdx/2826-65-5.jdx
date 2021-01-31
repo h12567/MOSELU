@@ -1,0 +1,58 @@
+##TITLE=Library Entry 32784
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1H-Inden-1-one, octahydro-, cis-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=2826-65-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    38         30
+    39        580
+    40        100
+    41        640
+    42        110
+    43         30
+    50         40
+    51        110
+    52         50
+    53        240
+    54        470
+    55        310
+    56         70
+    57         10
+    63         10
+    65         50
+    66         80
+    67        999
+    68        280
+    69        150
+    70         10
+    77         80
+    78         30
+    79        230
+    80        110
+    81        650
+    82        250
+    83        350
+    84         20
+    91         40
+    92         20
+    93         20
+    94        460
+    95        160
+    96        500
+    97         60
+   109        280
+   110         90
+   120         30
+   137         10
+   138        360
+   139         30

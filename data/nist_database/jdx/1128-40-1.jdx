@@ -1,0 +1,36 @@
+##TITLE=Library Entry 30983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl.alpha.d-rhamnopyranoside
+##MOLFORM=C7H14O5
+##CAS REGISTRY NO=1128-40-1
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    58        382
+    59         54
+    60        999
+    61        146
+    71        153
+    73         85
+    74        582
+    85        125
+    87         52
+    88         36
+    99         13
+   100         81
+   101          9
+   105         69
+   116         94
+   118         85
+   120         51
+   129         74
+   133          8
+   134          6
+   147        121

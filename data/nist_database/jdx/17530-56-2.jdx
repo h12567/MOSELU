@@ -1,0 +1,43 @@
+##TITLE=Library Entry 37158
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. V. ANDEWALLE
+##NAMES=HP
+##CAS NAME=1,2,4-Cyclopentanetrione, 3,3-dimethyl-
+##MOLFORM=C7H8O3
+##CAS REGISTRY NO=17530-56-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         18
+    42        510
+    43        250
+    44         20
+    50         24
+    51         30
+    52         10
+    53         80
+    54         18
+    55        100
+    56         32
+    59         12
+    65         22
+    66        185
+    67         47
+    68         40
+    69         22
+    70        999
+    71        112
+    83         45
+    84         33
+    94         73
+    95         12
+    97        110
+   111         30
+   112         16
+   140        300
+   141         30

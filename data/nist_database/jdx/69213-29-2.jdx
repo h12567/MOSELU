@@ -1,0 +1,49 @@
+##TITLE=Library Entry 28195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,1,2-Trimethyl-3,8,9-trioxa-bicyclo[4.2.1]nonane
+##MOLFORM=C9H16O3
+##CAS REGISTRY NO=69213-29-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39         90
+    40         80
+    41        119
+    42         68
+    43        550
+    44        149
+    45         59
+    53          9
+    54        148
+    55         60
+    56         39
+    57        976
+    58        999
+    59         80
+    60         90
+    61          9
+    69         19
+    71         59
+    72         79
+    73         49
+    84         10
+    85         10
+    86         59
+    87         29
+    88        299
+    89         30
+    97         50
+    98          9
+    99          9
+   101         10
+   114        120
+   115         10
+   157         10
+   172         10

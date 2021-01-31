@@ -1,0 +1,29 @@
+##TITLE=Library Entry 17777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(Z)-2-Methoxymethoxy-4'-fluoro-stilbene
+##MOLFORM=C16H15FO2
+##CAS REGISTRY NO=115032-49-0
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    45        999
+   109        110
+   131         19
+   139         20
+   152         89
+   165         79
+   166          9
+   170         40
+   183        140
+   185         90
+   194         19
+   213        289
+   226         30
+   258        269

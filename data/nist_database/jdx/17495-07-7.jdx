@@ -1,0 +1,76 @@
+##TITLE=Library Entry 10750
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-L-Talopyranoside, methyl 4-(acetylamino)-4,6-dideoxy-, 2,
+3-diacetate
+##MOLFORM=C13H21NO7
+##CAS REGISTRY NO=17495-07-7
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    39         36
+    41         39
+    42         64
+    43        999
+    44         71
+    45         54
+    46         18
+    55         36
+    56        107
+    57        197
+    58         64
+    59        190
+    60        151
+    61         25
+    70         36
+    71         43
+    72         43
+    73         54
+    74        294
+    75         10
+    82         64
+    83         64
+    84         71
+    85         28
+    86         64
+    87        187
+    88         54
+    98        100
+    99        197
+   100        143
+   101        485
+   102        223
+   103         54
+   114        136
+   115         43
+   116        115
+   117         28
+   128         43
+   129        197
+   130         36
+   139         36
+   140         28
+   141         71
+   142         54
+   143         89
+   144        161
+   145         54
+   156        100
+   157        179
+   158         28
+   184        143
+   185         28
+   186         43
+   199        107
+   212         18
+   220         25
+   243        187
+   244         43
+   272         79
+   303          7

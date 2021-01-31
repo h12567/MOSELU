@@ -1,0 +1,36 @@
+##TITLE=Library Entry 5063
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=N-Methyl-D-aspartic acid
+##MOLFORM=C5H9NO4
+##CAS REGISTRY NO=6384-92-5
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    42        999
+    43        148
+    44        232
+    45        252
+    47          8
+    53          7
+    54         33
+    55         80
+    56        153
+    57         86
+    58         96
+    60        148
+    70         53
+    72          9
+    87         38
+    88        103
+   100         23
+   101         31
+   102        690
+   103         39
+   129         31

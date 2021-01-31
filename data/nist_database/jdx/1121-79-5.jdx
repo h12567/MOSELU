@@ -1,0 +1,71 @@
+##TITLE=Library Entry 31844
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Chloro-6-methylpyridazine
+##MOLFORM=C5H5ClN2
+##CAS REGISTRY NO=1121-79-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    12          7
+    13          6
+    14         16
+    15         87
+    17          3
+    24          7
+    25         29
+    26         99
+    27         24
+    32          1
+    35         21
+    36         27
+    37        116
+    38        150
+    39        520
+    40        105
+    41         14
+    42         38
+    47         27
+    48         27
+    49         50
+    50         66
+    51        124
+    52         91
+    53         13
+    60         35
+    61         67
+    62         89
+    63        181
+    64        151
+    65        999
+    66         84
+    67          5
+    71          3
+    72         25
+    73        106
+    74          3
+    75         39
+    76         13
+    77         13
+    78          4
+    84          5
+    85          9
+    86          3
+    87          4
+    93          3
+    96          2
+    97          4
+    99        193
+   100         61
+   101         65
+   102         19
+   128        437
+   129         33
+   130        135
+   131          9

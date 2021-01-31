@@ -1,0 +1,70 @@
+##TITLE=Library Entry 6050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Oxetane, 2,2-dimethyl-
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=6245-99-4
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    24          0
+    25          2
+    26         21
+    27        210
+    28        323
+    29        211
+    30        151
+    31         88
+    32          5
+    33          0
+    36          2
+    37         24
+    38         43
+    39        223
+    40         95
+    41        774
+    42         42
+    43        999
+    44         32
+    45          6
+    46          0
+    48          1
+    49          9
+    50         32
+    51         32
+    52          9
+    53         72
+    54         16
+    55        116
+    56        392
+    57         30
+    58        252
+    59         20
+    60          1
+    61          1
+    62          1
+    63          2
+    64          0
+    65          4
+    66          4
+    67         57
+    68         71
+    69          8
+    70          1
+    71         83
+    72          3
+    73          0
+    78          0
+    79          0
+    82          0
+    83          1
+    84          1
+    85          1
+    86         68

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 15665
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Sci. & Tec. Lab., NIST, Gaithersburg, MD 20899
+##NAMES=HP
+##CAS NAME=N-Methyltaurine
+##MOLFORM=C3H9NO3S
+##CAS REGISTRY NO=107-68-6
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    42          4
+    43         22
+    44        999
+    45         64
+    46         48
+    48         47
+    60         11
+    64        104
+    66          8
+    71          5
+   139         10

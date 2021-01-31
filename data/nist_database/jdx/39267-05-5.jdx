@@ -1,0 +1,84 @@
+##TITLE=Library Entry 58412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=2,3-Dichloro-6-methylquinoxaline
+##MOLFORM=C9H6Cl2N2
+##CAS REGISTRY NO=39267-05-5
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    41         45
+    43         50
+    44         48
+    45         14
+    47         86
+    50        375
+    51        325
+    52        121
+    53         27
+    57         39
+    60         11
+    61        130
+    62        411
+    63        725
+    64        320
+    65        116
+    66         26
+    73         65
+    74         81
+    75        194
+    76        157
+    77         63
+    78         16
+    82         10
+    84         18
+    85         60
+    86         78
+    87        119
+    88        205
+    89        999
+    90        229
+    91         22
+    94         40
+    96         27
+    97         11
+    98         14
+    99         37
+   100         27
+   101         18
+   102         17
+   103         22
+   106         59
+   107         42
+   108         15
+   110         15
+   112         11
+   114        160
+   115        146
+   116        589
+   117         51
+   123         20
+   124         15
+   125         14
+   140         12
+   141        131
+   142         60
+   150         15
+   176         19
+   177        430
+   178         50
+   179        141
+   180         13
+   211         89
+   212        683
+   213        138
+   214        473
+   215         59
+   216         74

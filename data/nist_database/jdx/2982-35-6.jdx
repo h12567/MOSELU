@@ -1,0 +1,83 @@
+##TITLE=Library Entry 80122
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6100
+##NAMES=HP
+##CAS NAME=Ethyl 2-benzamidothiazole-4,5-dicarboxylate
+##MOLFORM=C16H16N2O5S
+##CAS REGISTRY NO=2982-35-6
+##MP= -300
+##BP= -300
+##MW= 348
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26          3
+    27          7
+    28          8
+    29         11
+    31          2
+    32          1
+    39          1
+    41          1
+    42          1
+    43          3
+    44         13
+    45          3
+    50          5
+    51         21
+    52          2
+    55          1
+    56          1
+    57          1
+    58          1
+    59          1
+    60          1
+    67          1
+    69          1
+    70          4
+    71          3
+    72          1
+    74          1
+    75          3
+    76         10
+    77        205
+    78         15
+    84          4
+    85          1
+    86          1
+    97          1
+    98          1
+   100          1
+   102          1
+   103         13
+   104          4
+   105        999
+   106         79
+   107          5
+   114          1
+   122          1
+   125          1
+   127          2
+   128          1
+   139          2
+   141          1
+   142          1
+   204          3
+   232          1
+   274          1
+   275         16
+   276          4
+   277          1
+   303         49
+   304          8
+   305          3
+   319          2
+   320         68
+   321         12
+   322          5
+   348        158
+   349         31
+   350         10
+   351          2

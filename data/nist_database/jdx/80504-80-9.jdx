@@ -1,0 +1,44 @@
+##TITLE=Library Entry 58132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,4-di-O-methyl-3-O-[(2,3-di-O-methyl.alpha.l-rhamnopyrano
+syl)-4-O-(2,3,4-tri-O-methyl.alpha.l-rhamnopyranosyl)].alpha.l-rhamnopyranos
+ide
+##MOLFORM=C26H48O13
+##CAS REGISTRY NO=80504-80-9
+##MP= -300
+##BP= -300
+##MW= 568
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    59         19
+    72         44
+    75        153
+    85          9
+    88        999
+    99         72
+   101         88
+   115          4
+   117          9
+   124          3
+   125         24
+   129         49
+   145        403
+   157        104
+   175         12
+   189        395
+   203         13
+   219          6
+   249         46
+   259          8
+   262          8
+   275          5
+   319         20
+   331         11
+   363         68
+   423         25
+   436          6

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 53724
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Dodecanoic acid, hexyl ester
+##MOLFORM=C18H36O2
+##CAS REGISTRY NO=34316-64-8
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=1983
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    27         43
+    29         99
+    31          7
+    39         53
+    40         15
+    41        338
+    42        158
+    43        829
+    44         21
+    53         19
+    54         20
+    55        378
+    56        472
+    57        353
+    58         24
+    60        129
+    61        420
+    62         10
+    69        277
+    71        106
+    73        240
+    74         19
+    81         23
+    83         63
+    84        999
+    85        254
+    86         24
+    87         47
+    95         34
+    97         51
+    98         45
+    99         24
+   100          7
+   101         47
+   103         18
+   109         18
+   111         21
+   115         59
+   117         12
+   123         11
+   125         15
+   129        105
+   130         11
+   138         11
+   139          9
+   143         26
+   144         26
+   157         84
+   158         10
+   163         13
+   171         19
+   181          7
+   182          3
+   183        208
+   184         26
+   200         78
+   201        619
+   202         80
+   203          8
+   214          3
+   241         14
+   242          3
+   250          1
+   284         36
+   285          8
+   286          1

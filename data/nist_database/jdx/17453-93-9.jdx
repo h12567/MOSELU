@@ -1,0 +1,51 @@
+##TITLE=Library Entry 7939
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Dodecane, 5-methyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=17453-93-9
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1255
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         85
+    28          2
+    29        190
+    30          0
+    38          0
+    39         44
+    40          2
+    41        240
+    42         74
+    43        999
+    44          4
+    53          8
+    54          5
+    55        121
+    56        123
+    57        506
+    58         16
+    67          4
+    69         48
+    70         33
+    71        358
+    72         13
+    82          3
+    83         14
+    84        177
+    85        401
+    86         17
+    97         14
+    98         15
+    99         10
+   113          2
+   126         54
+   127         38
+   169          3

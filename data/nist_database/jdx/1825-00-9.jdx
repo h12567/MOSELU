@@ -1,0 +1,36 @@
+##TITLE=Library Entry 30974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=.beta.-l-Arabinopyranoside, methyl
+##MOLFORM=C6H12O5
+##CAS REGISTRY NO=1825-00-9
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    45        146
+    55         26
+    56         13
+    57        146
+    58         17
+    59         44
+    60        999
+    61        326
+    69         20
+    71        157
+    73        428
+    74        292
+    85         24
+    86         29
+    87         21
+    91          7
+   100         10
+   114          4
+   115          8
+   133         17
+   134          2

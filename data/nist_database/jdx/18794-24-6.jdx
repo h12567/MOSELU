@@ -1,0 +1,60 @@
+##TITLE=Library Entry 27065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.BAUER UNIV. OF ILLINOIS, CHICAGO, ILLINOIS, USA
+##NAMES=HP
+##CAS NAME=2-Pyridinol, 1-acetyl-4-tert-butyl-3,6-bis(tert-butylthio)-1,2,3,
+6-tetrahydro-, acetate (ester)
+##MOLFORM=C21H37NO3S2
+##CAS REGISTRY NO=18794-24-6
+##MP= -300
+##BP= -300
+##MW= 415
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    29        220
+    32        100
+    39        150
+    41        450
+    43        580
+    45         90
+    55         80
+    56         70
+    57        999
+    58         50
+    59         50
+    60         50
+    65         40
+    75         50
+    77         50
+    90         70
+    92        140
+   106        100
+   120        520
+   121        170
+   125        270
+   132         80
+   134         60
+   135        160
+   136        500
+   137         60
+   152        250
+   153         60
+   167        250
+   168        950
+   169        130
+   178        100
+   194        100
+   210        540
+   211         70
+   223         70
+   224        170
+   225         40
+   228         50
+   266        100
+   284         30
+   326        930
+   327        200
+   328         70

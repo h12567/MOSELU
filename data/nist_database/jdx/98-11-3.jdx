@@ -1,0 +1,87 @@
+##TITLE=Library Entry 46900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1888
+##NAMES=HP
+##CAS NAME=Benzenesulfonic acid
+##MOLFORM=C6H6O3S
+##CAS REGISTRY NO=98-11-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    17          4
+    18         15
+    26          6
+    27         44
+    28         10
+    29          2
+    32          2
+    36          1
+    37         18
+    38         34
+    39        102
+    40         28
+    41          2
+    43          1
+    44          4
+    45          9
+    48          9
+    49         15
+    50        234
+    51        568
+    52         29
+    53          6
+    54          1
+    55         20
+    56          1
+    57          3
+    58          2
+    60          1
+    61          6
+    62         11
+    63         19
+    64          9
+    65        217
+    66        143
+    67          8
+    68          3
+    69         11
+    70          2
+    71          1
+    72          1
+    73         14
+    74         77
+    75         47
+    76         66
+    77        999
+    78         79
+    79          4
+    80          1
+    81          9
+    82          4
+    83          1
+    84          1
+    90          2
+    91          1
+    92          4
+    93         71
+    94        936
+    95         61
+    96          4
+    97          5
+   108          2
+   109          3
+   110          3
+   125          3
+   126          1
+   141         72
+   142          6
+   143          4
+   158        703
+   159         53
+   160         36
+   161          2

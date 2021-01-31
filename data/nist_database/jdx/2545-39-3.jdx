@@ -1,0 +1,68 @@
+##TITLE=Library Entry 56260
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.Ardrey ET AL.Pharmaceutical Mass Spectra,L.,1985
+##NAMES=HP
+##CAS NAME=Clamoxyquin
+##MOLFORM=C17H24ClN3O
+##CAS REGISTRY NO=2545-39-3
+##MP= -300
+##BP= -300
+##MW= 321
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27         30
+    29         60
+    30        280
+    39         20
+    41         30
+    42         60
+    43         20
+    44         80
+    50         50
+    51         50
+    56         60
+    57         40
+    58        280
+    59         10
+    62         10
+    63         20
+    64         30
+    68         20
+    70         20
+    71         10
+    72        370
+    73         20
+    74         30
+    75         60
+    76         20
+    77         30
+    78         10
+    81         20
+    84         20
+    85         20
+    86        999
+    87         50
+    98         40
+    99         20
+   100         50
+   101         70
+   102         30
+   113         50
+   126         10
+   127         30
+   128        270
+   129         40
+   130         60
+   136         20
+   162         10
+   163        150
+   164         30
+   165         50
+   191        340
+   192        100
+   193        170
+   194         40
+   195         20

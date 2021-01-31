@@ -1,0 +1,69 @@
+##TITLE=Library Entry 60848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Hexenoic acid, 6-phenyl-, ethyl ester
+##MOLFORM=C14H18O2
+##CAS REGISTRY NO=33046-77-4
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41         78
+    43         39
+    50         19
+    51         68
+    52         29
+    53         58
+    54         19
+    55         58
+    63         29
+    65        156
+    66         19
+    67         39
+    68         39
+    71          9
+    73         58
+    77        137
+    78         58
+    79         78
+    81         78
+    86        186
+    87         39
+    88         19
+    89         19
+    90         19
+    91        999
+    92        294
+    93         29
+    99        323
+   100         29
+   101         39
+   103         78
+   104        558
+   105        303
+   106         29
+   107         58
+   114        460
+   115         68
+   116         39
+   117         78
+   118         39
+   127        392
+   128        127
+   129        137
+   130        362
+   131        186
+   132         29
+   143         58
+   144        411
+   145         98
+   172         39
+   173        147
+   174         29
+   218         19

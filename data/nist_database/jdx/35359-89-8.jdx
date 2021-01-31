@@ -1,0 +1,28 @@
+##TITLE=Library Entry 5538
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. KNITTEL, INST. PHYS. CHEM., UNIV. HAMBURG, HAMBURG,
+ W. GER.
+##NAMES=HP
+##CAS NAME=2-Azido-1-(4-chlorophenyl)but-1-en-3-one
+##MOLFORM=C10H8ClN3O
+##CAS REGISTRY NO=35359-89-8
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    28        258
+    43        999
+    63        114
+    89        151
+   116         96
+   123         97
+   151        208
+   153         66
+   178         21
+   193         17
+   195         12
+   221         16

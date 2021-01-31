@@ -1,0 +1,62 @@
+##TITLE=Library Entry 21130
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1-ethyl-4-methyl-, cis-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=4926-78-7
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=910
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14         12
+    15          8
+    16          4
+    27        132
+    28         12
+    29        140
+    30          3
+    37          1
+    39        230
+    40         48
+    41        380
+    42         78
+    43         66
+    44          5
+    50         13
+    51         36
+    52         17
+    53        118
+    54        124
+    55        999
+    56        132
+    57         27
+    63          8
+    65         32
+    66         14
+    67        110
+    68         45
+    69        278
+    70         50
+    71          7
+    77         34
+    78          7
+    79         35
+    80          7
+    81        148
+    82         16
+    83         22
+    84          4
+    91         10
+    93          2
+    96        384
+    97        892
+    98         71
+    99          2
+   111         14
+   126        202
+   127         19

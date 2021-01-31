@@ -1,0 +1,73 @@
+##TITLE=Library Entry 59293
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1039
+##NAMES=HP
+##CAS NAME=Hexane, 1-chloro-
+##MOLFORM=C6H13Cl
+##CAS REGISTRY NO=544-10-5
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=845
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         12
+    26         21
+    27        269
+    28         39
+    29        319
+    30          7
+    31          4
+    35          1
+    36          5
+    37          4
+    38         11
+    39        166
+    40         28
+    41        589
+    42        446
+    43        719
+    44         24
+    45          2
+    49         29
+    50          9
+    51         13
+    52          5
+    53         36
+    54         38
+    55        810
+    56        564
+    57        146
+    58          9
+    61          4
+    62         11
+    63         46
+    64          4
+    65         14
+    66          1
+    67         26
+    68          5
+    69        220
+    70         20
+    71         27
+    72          1
+    73          1
+    74          1
+    75          7
+    76          4
+    77          8
+    78          2
+    79          2
+    81          3
+    82         11
+    83         12
+    84         41
+    85          7
+    90          3
+    91        999
+    92         44
+    93        319
+    94         13

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 11980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.M.COMBS MEAD JOHNSON RES. CTR., EVANSVILLE, INDIANA,
+ USA
+##NAMES=HP
+##CAS NAME=1H-Pyrrolo[2,1-b][1,3]benzodiazepine, 2,3,5,6-tetrahydro-5-(1H-in
+dol-3-yl)-3-methyl-
+##MOLFORM=C21H21N3
+##CAS REGISTRY NO=55683-07-3
+##MP= -300
+##BP= -300
+##MW= 315
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    31        280
+    43        999
+    45        730
+    60        160
+    69        580
+    84        300
+    89        360
+    90        300
+    91        300
+    99        560
+   103        200
+   116        220
+   117        380
+   118        220
+   129        280
+   130        800
+   131        300
+   143        320
+   144        700
+   156        200
+   171        300
+   172        220
+   185        240
+   217        190
+   218        140
+   224        100
+   232        200
+   233        160
+   258        120
+   272        100
+   287         20
+   300         20
+   314        180
+   315        500
+   316        120
+   317         20

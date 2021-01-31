@@ -1,0 +1,45 @@
+##TITLE=Library Entry 17289
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2,2'-Sulfinyldiethanol
+##MOLFORM=C4H10O3S
+##CAS REGISTRY NO=3085-45-8
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        350
+    29        231
+    31        238
+    41         50
+    42         51
+    43        289
+    44         60
+    45        999
+    46        180
+    47        289
+    48        100
+    49         21
+    50         30
+    59         60
+    61         60
+    63        447
+    64         30
+    65         20
+    66         29
+    75         20
+    76        897
+    77         49
+    78         50
+    93         20
+    94        496
+    95         20
+    96         20
+   138         60
+   139         60

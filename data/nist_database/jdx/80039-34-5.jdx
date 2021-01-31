@@ -1,0 +1,29 @@
+##TITLE=Library Entry 17935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=S,S-Bis(p-cyanophenoxy)-N-pentafluorosulfanylsulphilimine
+##MOLFORM=C14H8F5N3O2S2
+##CAS REGISTRY NO=80039-34-5
+##MP= -300
+##BP= -300
+##MW= 409
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    46        999
+    64        319
+    89        161
+    90        603
+    91        127
+   118        301
+   119        524
+   127        342
+   164        271
+   291        326
+   390          4
+   393          2
+   395          2
+   409          2

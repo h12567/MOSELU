@@ -1,0 +1,76 @@
+##TITLE=Library Entry 84346
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Sanz-Asensio ET AL.J.Chrom.,840,235(1999)
+##NAMES=HP
+##CAS NAME=1-Aza-3,12-dioxatricyclo[8.4.0.0(1,10)]tetradeca-4,6,8-triene-2,1
+1-dione
+##MOLFORM=C11H9NO4
+##CAS REGISTRY NO=224308-87-6
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    48          8
+    50         48
+    51        115
+    52         69
+    53         59
+    54         23
+    55         23
+    56         33
+    57         38
+    58         18
+    59         13
+    61          8
+    62         18
+    63         79
+    64         43
+    65         94
+    66         23
+    67          8
+    69          8
+    71          8
+    73          8
+    74          8
+    75         18
+    76         28
+    77        407
+    78        193
+    79        120
+    80         13
+    81          8
+    82          8
+    85          8
+    89         43
+    90         28
+    91        216
+    92         89
+    93          8
+   102          8
+   103         18
+   104          8
+   105         18
+   107        999
+   108         84
+   109         10
+   113         15
+   115          5
+   117         18
+   118         43
+   119         51
+   120        206
+   135          8
+   136         13
+   138          8
+   147         15
+   162        534
+   163         53
+   176         10
+   177         15
+   200         50
+   204         10
+   219         20

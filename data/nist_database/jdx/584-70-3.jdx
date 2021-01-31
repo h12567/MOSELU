@@ -1,0 +1,71 @@
+##TITLE=Library Entry 81764
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6515
+##NAMES=HP
+##CAS NAME=Benzamide, N-(2-methylphenyl)-
+##MOLFORM=C14H13NO
+##CAS REGISTRY NO=584-70-3
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27          6
+    28          2
+    38          2
+    39         11
+    40          1
+    41          2
+    50         14
+    51         63
+    52         10
+    53          5
+    54          1
+    62          1
+    63          5
+    64          2
+    65          9
+    66          1
+    74          4
+    75          5
+    76         11
+    77        373
+    78         34
+    79          9
+    80          1
+    89          4
+    90          2
+    91          7
+    95          1
+   102          1
+   103          2
+   104          9
+   105        999
+   106        122
+   107         17
+   108          8
+   115          1
+   118          1
+   131          3
+   132          4
+   133          1
+   152          1
+   165          2
+   166          1
+   167          2
+   178          2
+   180          3
+   181          1
+   192          1
+   193          7
+   194          3
+   195          3
+   196          2
+   209          1
+   210          3
+   211        420
+   212         66
+   213          5

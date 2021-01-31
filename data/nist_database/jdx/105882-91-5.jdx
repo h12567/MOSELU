@@ -1,0 +1,35 @@
+##TITLE=Library Entry 35370
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. Shreeve, Dep. Chem., Univ. Idaho, Moscow, Idaho, U
+SA
+##NAMES=HP
+##CAS NAME=1,2-Propanediamine, N(1),N(1),N(2)-trichloro-N(2),1,1,2,3,3,3-hep
+tafluoro-
+##MOLFORM=C3Cl3F7N2
+##CAS REGISTRY NO=105882-91-5
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    50         73
+    64         15
+    69        999
+    80        329
+    82        100
+    99        157
+   101         51
+   114         39
+   119        272
+   134         65
+   136         43
+   138          6
+   168         13
+   170          4
+   180        184
+   182         55
+   194        229
+   196         76

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 72664
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Methyl-3-[(4-(2-(4-methoxyphenyl)ethyl)piperidinylcarbonyl)meth
+yl]-quinazolin-2,4(1H,3H)-dione
+##MOLFORM=C24H28N4O4
+##CAS REGISTRY NO=119784-83-7
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    42        278
+    43        247
+    56        377
+    57         88
+    91        141
+    99        999
+   104         98
+   105        118
+   119         20
+   121        270
+   132        100
+   133         29
+   135        128
+   146         59
+   161         29
+   162         20
+   175         49
+   176         19
+   189        779
+   217        219
+   301         40
+   315        590
+   329         20
+   436          9

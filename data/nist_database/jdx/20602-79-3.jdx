@@ -1,0 +1,47 @@
+##TITLE=Library Entry 19775
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.MERGER, BASF, LUDWIGSHAFEN, W. GERMANY
+##NAMES=HP
+##CAS NAME=2-Propenamide, N-(aminocarbonyl)-
+##MOLFORM=C4H6N2O2
+##CAS REGISTRY NO=20602-79-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    28         11
+    29         44
+    30         28
+    31         11
+    38         10
+    39         10
+    40         11
+    41         22
+    42         61
+    43        468
+    44        756
+    45        100
+    46         11
+    51         19
+    52         43
+    53         62
+    54         98
+    55        999
+    56         40
+    58         11
+    60         10
+    69         37
+    70         38
+    71        147
+    72         23
+    85          9
+    86        368
+    87         43
+    97         27
+   113         15
+   114        135
+   115         16

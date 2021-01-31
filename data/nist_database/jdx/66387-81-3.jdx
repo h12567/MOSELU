@@ -1,0 +1,36 @@
+##TITLE=Library Entry 2776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(2)795(1978); L. HOESCH ET AL.
+##NAMES=HP
+##CAS NAME=9-Azabicyclo[6.1.0]nonane, 9,9'-azobis-, [1.alpha.,8.alpha.,9[E(1
+'R*,8'S*)]]-
+##MOLFORM=C16H28N4
+##CAS REGISTRY NO=66387-81-3
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        999
+    54        770
+    55        790
+    67        790
+    68        420
+    69        220
+    79         60
+    80         80
+    81        450
+    82        710
+    83         80
+    94         50
+    95        170
+    96         60
+    97         60
+   109         80
+   110        190
+   124        150
+   248         20
+   276         10

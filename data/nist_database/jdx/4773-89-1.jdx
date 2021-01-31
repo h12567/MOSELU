@@ -1,0 +1,71 @@
+##TITLE=Library Entry 48236
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1,4-Cyclohexadiene-1,2-dicarboxylic anhydride
+##MOLFORM=C8H6O3
+##CAS REGISTRY NO=4773-89-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    12          6
+    13          4
+    14          8
+    15         39
+    16          7
+    17          4
+    18          5
+    24          4
+    25         18
+    26        102
+    27        123
+    28         47
+    29          7
+    32          3
+    36         15
+    37        155
+    38        229
+    39        332
+    40         19
+    41          6
+    44         21
+    45          7
+    48         10
+    49        105
+    50        591
+    51        589
+    52        444
+    53         96
+    54          7
+    55          5
+    60         10
+    61         36
+    62         44
+    63        121
+    64         12
+    65         30
+    66         44
+    72          5
+    73         48
+    74        150
+    75         72
+    76        154
+    77        653
+    78        999
+    79         90
+    80          5
+    93         10
+   105        604
+   106        827
+   107         67
+   108          5
+   121          6
+   148          7
+   150        415
+   151         37
+   152          1

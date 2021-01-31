@@ -1,0 +1,45 @@
+##TITLE=Library Entry 18413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Butane, 2,2,3-tribromo-
+##MOLFORM=C4H7Br3
+##CAS REGISTRY NO=62127-47-3
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         69
+    25         26
+    26        223
+    27        915
+    29        249
+    37         59
+    38        102
+    39        367
+    49         43
+    50        191
+    51        231
+    52         85
+    53        999
+    54        113
+    55        416
+    79        192
+    80         96
+    81        198
+    82         89
+   105         54
+   107         81
+   109         75
+   133        290
+   134         82
+   135        288
+   136         70
+   160          7
+   213        211
+   215        498
+   217        245

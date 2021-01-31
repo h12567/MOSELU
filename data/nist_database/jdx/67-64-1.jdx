@@ -1,0 +1,37 @@
+##TITLE=Library Entry 8042
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Acetone
+##MOLFORM=C3H6O
+##CAS REGISTRY NO=67-64-1
+##MP= -300
+##BP= -300
+##MW= 58
+##$RETENTION INDEX=486
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    13          8
+    14         45
+    15        120
+    16          8
+    25         12
+    26         49
+    27         70
+    28         12
+    29         36
+    31          4
+    36          7
+    37         25
+    38         28
+    39         46
+    40         12
+    41         27
+    42         96
+    43        999
+    44         24
+    57          4
+    58        248
+    59          9

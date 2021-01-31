@@ -1,0 +1,68 @@
+##TITLE=Library Entry 35256
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 3,7-dimethyl-2,6-octadienyl ester, (E)-
+##MOLFORM=C16H28O2
+##CAS REGISTRY NO=10032-02-7
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=1755
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    24         19
+    26          7
+    29         19
+    41        246
+    42          7
+    43        295
+    47         19
+    51         39
+    53         19
+    54          7
+    55         39
+    57          7
+    60         19
+    64         19
+    65          7
+    66         28
+    67         79
+    68        725
+    69        999
+    70         99
+    71        299
+    72          7
+    73          7
+    77          7
+    79         28
+    80        381
+    81        119
+    82         19
+    83          7
+    84         28
+    85         19
+    91          7
+    92        166
+    93        593
+    94        139
+    95         39
+    97          7
+    99        463
+   100         28
+   104          7
+   105          7
+   107        119
+   108         59
+   109          7
+   117          7
+   121        345
+   122         28
+   123         48
+   135          7
+   136        279
+   137         48
+   154         19
+   183         19

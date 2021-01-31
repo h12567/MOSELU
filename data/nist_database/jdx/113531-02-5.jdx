@@ -1,0 +1,42 @@
+##TITLE=Library Entry 7434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.J. Williams, Australian Wine Res. Inst., Glen Osmond,
+ S. Australia, Australia
+##NAMES=HP
+##CAS NAME=(E)-2,6-Dimethyl-2,7-octadiene-1,6-diol, 1-O-(.beta.-d-glucopyran
+oside tetraacetate)
+##MOLFORM=C24H36O11
+##CAS REGISTRY NO=113531-02-5
+##MP= -300
+##BP= -300
+##MW= 500
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        380
+    43        999
+    55        440
+    67        410
+    68        300
+    69        340
+    71        380
+    81        350
+    82        310
+    93        300
+    95        150
+    96        270
+    97        240
+   103        110
+   107        160
+   109        430
+   110        240
+   115        170
+   127        180
+   134         80
+   135        100
+   139        150
+   152        180
+   169        340
+   331         30

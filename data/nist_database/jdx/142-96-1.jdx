@@ -1,0 +1,56 @@
+##TITLE=Library Entry 23288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 563
+##NAMES=HP
+##CAS NAME=n-Butyl ether
+##MOLFORM=C8H18O
+##CAS REGISTRY NO=142-96-1
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=858
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15          4
+    17          1
+    18          3
+    26          4
+    27         59
+    28         24
+    29        189
+    30          6
+    31         17
+    32          1
+    38          1
+    39         30
+    40          4
+    41        218
+    42         13
+    43         27
+    44          8
+    45         20
+    51          1
+    53          4
+    54          2
+    55         34
+    56        159
+    57        999
+    58         44
+    59          3
+    60          1
+    69          3
+    71          9
+    72          4
+    73         16
+    74          1
+    75          4
+    87        132
+    88          7
+    89          3
+    91          1
+   101         19
+   102          1
+   130         10
+   131          1

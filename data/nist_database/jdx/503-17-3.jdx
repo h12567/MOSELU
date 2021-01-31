@@ -1,0 +1,33 @@
+##TITLE=Library Entry 18660
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 744
+##NAMES=HP
+##CAS NAME=2-Butyne
+##MOLFORM=C4H6
+##CAS REGISTRY NO=503-17-3
+##MP= -300
+##BP= -300
+##MW= 54
+##$RETENTION INDEX=463
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    25          8
+    26         23
+    27        199
+    28         73
+    29          2
+    36          3
+    37         12
+    38         14
+    39        181
+    40          6
+    48          6
+    49         39
+    50        133
+    51        155
+    52         76
+    53        371
+    54        999
+    55         45

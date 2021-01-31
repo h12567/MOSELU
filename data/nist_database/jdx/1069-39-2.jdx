@@ -1,0 +1,70 @@
+##TITLE=Library Entry 96280
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GEORGE R. WALLER, OKLAHOMA STATE UNIVERSITY, USA
+##NAMES=HP
+##CAS NAME=Aspartic acid, N-acetyl-, diethyl ester, L-
+##MOLFORM=C10H17NO5
+##CAS REGISTRY NO=1069-39-2
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    28         60
+    29        180
+    30         30
+    31         70
+    32         60
+    41         20
+    42         70
+    43        560
+    44         70
+    45         50
+    46         30
+    47         10
+    55         20
+    56         10
+    60         30
+    61         10
+    64         10
+    68         30
+    69         10
+    70        180
+    71         20
+    72         10
+    73         20
+    74         90
+    75         10
+    84         10
+    85         10
+    86         20
+    88         40
+    99         40
+   100         10
+   102         50
+   111         20
+   112         30
+   114         20
+   115         20
+   116        999
+   117         70
+   118         10
+   127         20
+   131         10
+   138         10
+   139         10
+   140         10
+   142         10
+   157         20
+   158        520
+   159         50
+   160         10
+   185         10
+   186         40
+   187         10
+   188         20
+   231          6
+   232          2

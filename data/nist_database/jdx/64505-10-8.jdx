@@ -1,0 +1,93 @@
+##TITLE=Library Entry 5560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethyl 2-isocyanato-4-methyl valerate
+##MOLFORM=C9H15NO3
+##CAS REGISTRY NO=64505-10-8
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 78
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          4
+    15         66
+    16          3
+    17          2
+    18          3
+    19          1
+    25          2
+    26         40
+    27        429
+    28        176
+    29        745
+    30        183
+    37          3
+    38         15
+    39        183
+    40         57
+    41        518
+    42        170
+    43        999
+    44         74
+    45         14
+    46          5
+    47          3
+    50          4
+    51          9
+    52          7
+    53         29
+    54         35
+    55        100
+    56         93
+    57         52
+    58          5
+    60          1
+    64          1
+    65          3
+    66          3
+    67         22
+    68         71
+    69        405
+    70        301
+    71         34
+    72         14
+    73         35
+    75          0
+    78          6
+    79          1
+    80          3
+    81          8
+    82         29
+    83        218
+    84         41
+    85          6
+    86          2
+    87          3
+    88          4
+    94          2
+    95          5
+    96         25
+    97          5
+    98         31
+    99         29
+   100         16
+   101        154
+   102          7
+   110          3
+   112        386
+   113         29
+   114         20
+   115         13
+   128         46
+   129        162
+   130         11
+   141          1
+   142         15
+   143          8
+   157          8

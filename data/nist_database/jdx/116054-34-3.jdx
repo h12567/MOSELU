@@ -1,0 +1,51 @@
+##TITLE=Library Entry 85798
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. De March, Dep. Chem., Univ. Autonoma Barcelona, Barc
+elona, Spain
+##NAMES=HP
+##CAS NAME=2H-Pyran-5-acetic acid, 6-(bromomethyl)-4-methoxy-2-oxo-.alpha.-(
+phenylthio)-, ethyl ester
+##MOLFORM=C17H17BrO5S
+##CAS REGISTRY NO=116054-34-3
+##MP= -300
+##BP= -300
+##MW= 412
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    43        400
+    51        270
+    53        230
+    59        420
+    65        400
+    66        320
+    69        680
+    77        250
+    83        210
+    95        270
+   109        999
+   110        290
+   111        240
+   123        430
+   124        200
+   125        540
+   151        200
+   167        230
+   169        200
+   179        370
+   225        430
+   233        290
+   239        490
+   245        250
+   247        320
+   259        210
+   275        260
+   277        230
+   303        440
+   305        640
+   412         70
+   413         14
+   414         70
+   415         14

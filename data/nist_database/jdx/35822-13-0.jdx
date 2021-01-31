@@ -1,0 +1,77 @@
+##TITLE=Library Entry 10701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORTON DEPT. CHEM., OHIO STATE UNIV., COLUMBUS, OHIO,
+ USA
+##NAMES=HP
+##CAS NAME=.beta.-D-Glucopyranoside, methyl 2-[(acetyloxy)mercurio]-2-deoxy-
+, triacetate
+##MOLFORM=C15H22HgO10
+##CAS REGISTRY NO=35822-13-0
+##MP= -300
+##BP= -300
+##MW= 564
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    43        999
+    69         82
+    73         25
+    81        128
+    85         63
+    87        262
+    97        124
+    98         41
+    99        165
+   100        512
+   101         37
+   102         19
+   103         44
+   109         45
+   110         52
+   111        160
+   115         94
+   116         30
+   127         26
+   128         15
+   129        300
+   139        109
+   140         38
+   141        390
+   142        239
+   143         52
+   145         40
+   152         48
+   153         40
+   157         26
+   158         16
+   159         16
+   169         30
+   171        140
+   183        300
+   184         67
+   198        491
+   201         60
+   211         11
+   213         26
+   229         16
+   243        140
+   244         16
+   257         25
+   283         22
+   303         50
+   315         22
+   343         65
+   356         26
+   367          8
+   381         21
+   385         13
+   399         22
+   409          1
+   427          3
+   441         42
+   458          3
+   487          0
+   501          3
+   560          6

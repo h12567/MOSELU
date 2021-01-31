@@ -1,0 +1,65 @@
+##TITLE=Library Entry 44621
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4635
+##NAMES=HP
+##CAS NAME=2-Amino-2-methyl-1,3-propanediol
+##MOLFORM=C4H11NO2
+##CAS REGISTRY NO=115-69-5
+##MP= -300
+##BP= -300
+##MW= 105
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         41
+    16          2
+    17         10
+    18        195
+    19          5
+    25          1
+    26          8
+    27         53
+    28        226
+    29        162
+    30         89
+    31         72
+    32          2
+    37          2
+    38          4
+    39         28
+    40         12
+    41         58
+    42        125
+    43         23
+    44         40
+    45          8
+    46          6
+    51          1
+    52          3
+    53          2
+    54          8
+    55          6
+    56        449
+    57        110
+    58         16
+    59         19
+    60         19
+    67          1
+    68          3
+    69          9
+    70         11
+    71          2
+    72         16
+    73          9
+    74        999
+    75         38
+    76          3
+    84          1
+    86          4
+    87          1
+    88          3
+    90          3
+   106          1

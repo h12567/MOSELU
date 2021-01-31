@@ -1,0 +1,25 @@
+##TITLE=Library Entry 37085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 2,2,4,4-tetramethyl-
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=4298-75-3
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41        190
+    42        380
+    43         10
+    55        130
+    70        999
+    71         60
+    83        110
+    84         10
+   126        130
+   127         10

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 86509
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(4-aminophenoxy)-
+##MOLFORM=C8H11NO2
+##CAS REGISTRY NO=6421-88-1
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        125
+    29         62
+    31         63
+    39        121
+    41         52
+    45        113
+    51         51
+    52        154
+    53        196
+    54         92
+    63         64
+    64         54
+    65        258
+    66         50
+    67         12
+    68         13
+    77         25
+    78         18
+    79         29
+    80        615
+    81        136
+    82         36
+    91         39
+    92        146
+    93         38
+    94         59
+   108        876
+   109        999
+   110        134
+   111          9
+   122         23
+   135          6
+   136          3
+   152          7
+   153        909
+   154         83
+   155          8

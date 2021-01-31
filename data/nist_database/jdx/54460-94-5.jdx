@@ -1,0 +1,35 @@
+##TITLE=Library Entry 9802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,3-Oxadiazolium, 3-(2,2-dimethylbutyl)-5-hydroxy-, hydroxide,
+ inner salt
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=54460-94-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        150
+    40         10
+    41        500
+    42        190
+    43        999
+    44        180
+    45         10
+    55        200
+    56         10
+    67        250
+    68         10
+    69        350
+    70        130
+    71        100
+    84        290
+    85        820
+    86         90
+   170        180
+   171         20

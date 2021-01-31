@@ -1,0 +1,54 @@
+##TITLE=Library Entry 30904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethanol, 2-mercapto-
+##MOLFORM=C2H6OS
+##CAS REGISTRY NO=60-24-2
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=723
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    14          6
+    15         30
+    17          2
+    18          3
+    19         14
+    25          5
+    26         42
+    27        140
+    29        117
+    30         10
+    31        387
+    32         28
+    33         50
+    34         32
+    35         33
+    40          1
+    41         10
+    42         61
+    43        224
+    44        212
+    45        521
+    46        226
+    47        906
+    48        661
+    49         97
+    50         35
+    51          8
+    52         11
+    56         10
+    57         46
+    58         97
+    59        326
+    60        999
+    61         59
+    62         40
+    77          7
+    78        463
+    79         29
+    80         23

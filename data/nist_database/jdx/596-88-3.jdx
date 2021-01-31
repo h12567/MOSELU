@@ -1,0 +1,49 @@
+##TITLE=Library Entry 37877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Ergotaman-3',6',18-trione, 12'-hydroxy-2'-methyl-5'-(2-methylprop
+yl)-, (5'.alpha.,8.alpha.)-
+##MOLFORM=C30H37N5O5
+##CAS REGISTRY NO=596-88-3
+##MP= -300
+##BP= -300
+##MW= 547
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    55        184
+    57        158
+    59         80
+    69        242
+    70        999
+    71        126
+    83         80
+    85         51
+    86         71
+    96         49
+    97         79
+    98         48
+   111         51
+   112         51
+   124         87
+   125        108
+   139         60
+   153         88
+   154        594
+   155         70
+   167         91
+   168         80
+   195         78
+   196        177
+   197         39
+   207         40
+   209        170
+   210        200
+   221         40
+   224        210
+   226          9
+   267         89
+   268         19

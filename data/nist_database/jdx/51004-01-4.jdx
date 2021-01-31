@@ -1,0 +1,46 @@
+##TITLE=Library Entry 47629
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C.KERBER STATE UNIVERSITY OF NEW YORK, NEW YORK, U.S.
+A.
+##NAMES=HP
+##CAS NAME=1,2-Diazetidin-3-one, 2-(1-methylethyl)-1,4,4-triphenyl-
+##MOLFORM=C23H22N2O
+##CAS REGISTRY NO=51004-01-4
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         40
+    27         28
+    28         38
+    41        123
+    43        123
+    51         97
+    77        999
+    78        105
+   105        470
+   106         43
+   115         21
+   139         26
+   148         20
+   152         21
+   163         27
+   164         51
+   165        424
+   166        364
+   167         72
+   180        167
+   181         53
+   194        889
+   195        162
+   256         30
+   257         38
+   271         14
+   299          4
+   313         14
+   342         31
+   343          0

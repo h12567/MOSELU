@@ -1,0 +1,61 @@
+##TITLE=Library Entry 3068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Isobutyl vinylacetate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=24342-03-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=923
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         35
+    18          1
+    26         17
+    27        144
+    28         35
+    29        393
+    30         19
+    31         16
+    37         10
+    38         30
+    39        338
+    40         60
+    41        999
+    42         93
+    43        114
+    44          8
+    45         12
+    50          2
+    51          2
+    52          1
+    53          7
+    54          4
+    55         48
+    56        185
+    57        558
+    58         48
+    59          3
+    60          1
+    67          2
+    69        436
+    70         23
+    71         33
+    72          2
+    73          2
+    82         24
+    83          4
+    86        308
+    87         55
+    88          3
+    96          1
+    99         19
+   100          1
+   124          4
+   127          1
+   142          1

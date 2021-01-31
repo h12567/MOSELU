@@ -1,0 +1,61 @@
+##TITLE=Library Entry 8700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Isopentyloxyethyl acetate
+##MOLFORM=C9H18O3
+##CAS REGISTRY NO=204652-53-9
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1176
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         62
+    29        102
+    30          2
+    31          9
+    33          0
+    36          1
+    39         30
+    41        106
+    42        115
+    43        999
+    44         83
+    45         57
+    53          2
+    54          1
+    55         90
+    56          9
+    57         31
+    58         16
+    59         20
+    60          9
+    61         38
+    62          0
+    68          3
+    69         37
+    70        257
+    71        256
+    72         14
+    73         16
+    74         24
+    75          6
+    81          0
+    85         52
+    86          6
+    87        157
+    88         58
+    89          2
+    99        126
+   100          5
+   101          4
+   102          2
+   104          1
+   105          2
+   114          7
+   115          1
+   131          0

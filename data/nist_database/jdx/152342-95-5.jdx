@@ -1,0 +1,64 @@
+##TITLE=Library Entry 67542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Plaziak ET AL, Org.Mass Spectrom.,28,643(1993)
+##NAMES=HP
+##CAS NAME=8-Bromo-6-methyltetrazolo[1,5-c]pyrimidin-5(6H)-one
+##MOLFORM=C5H4BrN5O
+##CAS REGISTRY NO=152342-95-5
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    63         19
+    64        171
+    65        273
+    66         62
+    67         27
+    68         58
+    78         19
+    79         89
+    80         31
+    81        101
+    82         31
+    83         19
+    91         70
+    92         23
+    93         82
+    94        999
+    95         50
+   104        203
+   105         62
+   106        265
+   107        105
+   108         23
+   109         31
+   116         11
+   117        144
+   118         11
+   119        183
+   121         54
+   129         54
+   130         11
+   131        125
+   132        187
+   133         54
+   134        144
+   135          4
+   150         23
+   160         15
+   161        105
+   162         15
+   163        105
+   173        269
+   174          7
+   175        238
+   186         15
+   188         15
+   229        593
+   230         50
+   231        531
+   232         27

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 20513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.A. MASH, DEP. CHEM., UNIV. ARIZONA, TUCSON, ARIZ., US
+A
+##NAMES=HP
+##CAS NAME=(1S,15S)-Bicyclo[13.1.0]hexadecan-2-one
+##MOLFORM=C16H28O
+##CAS REGISTRY NO=102572-89-4
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    55        999
+    67        580
+    69        580
+    71        400
+    81        620
+    82        430
+    94        200
+    95        460
+    96        310
+    97        370
+    98        340
+   109        220
+   111        200
+   121        150
+   122        100
+   123        110
+   125         90
+   135        150
+   136         80
+   149         80
+   151         40
+   163         40
+   165         40
+   178         70
+   179         30
+   193         60
+   207         60
+   236        150
+   237         30

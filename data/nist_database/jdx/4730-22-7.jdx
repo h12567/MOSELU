@@ -1,0 +1,79 @@
+##TITLE=Library Entry 16987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Heptanol, 6-methyl-
+##MOLFORM=C8H18O
+##CAS REGISTRY NO=4730-22-7
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=956
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          6
+    19          6
+    26          4
+    27         70
+    28         11
+    29         69
+    30          2
+    31         17
+    37          1
+    38          3
+    39         77
+    40         15
+    41        204
+    42         99
+    43        282
+    44         88
+    45        999
+    46         24
+    47          4
+    48          2
+    49          2
+    50          3
+    51          5
+    52          2
+    53         18
+    55        329
+    56        162
+    57        119
+    58         21
+    59         12
+    60          1
+    63          1
+    65          3
+    66          1
+    67         11
+    68         11
+    69        209
+    70        111
+    71         74
+    72          4
+    73          3
+    77          2
+    78          1
+    79          3
+    81          7
+    82          2
+    83         16
+    84        121
+    85         82
+    86         17
+    87         13
+    88          1
+    91          1
+    95          5
+    97        174
+    98         14
+    99          1
+   110          1
+   111          6
+   112         15
+   113          2
+   115         47
+   116          4
+   129          2

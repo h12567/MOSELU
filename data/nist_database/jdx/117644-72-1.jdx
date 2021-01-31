@@ -1,0 +1,39 @@
+##TITLE=Library Entry 97899
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Liguori, Dep. Chem., Univ. Calabria, Calabria, Italy
+##NAMES=HP
+##CAS NAME=2-Propenal, 2-acetyl-3-(phenylamino)-
+##MOLFORM=C11H11NO2
+##CAS REGISTRY NO=117644-72-1
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    77        700
+    78         90
+    79         70
+    89        100
+    90        160
+    91        300
+    92         70
+    93        110
+   101         60
+   104        180
+   105        100
+   116        100
+   117        280
+   118        999
+   119        160
+   128         90
+   144        210
+   146        500
+   160        520
+   161        100
+   171        250
+   188        700
+   189        350
+   190         44

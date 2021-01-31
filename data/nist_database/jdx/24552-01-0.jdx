@@ -1,0 +1,63 @@
+##TITLE=Library Entry 16232
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Nonylamine, N-octyl-
+##MOLFORM=C17H37N
+##CAS REGISTRY NO=24552-01-0
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        550
+    42        158
+    43        758
+    44        999
+    45         41
+    53         25
+    54         16
+    55        216
+    56        175
+    57        258
+    58         33
+    59          8
+    67         16
+    68          8
+    69         66
+    70        125
+    71         66
+    72         33
+    82          8
+    83         16
+    84         50
+    85         16
+    86         16
+    98         25
+   100          8
+   112         16
+   114          8
+   126          8
+   128         25
+   129          8
+   140         16
+   142        833
+   143         91
+   144          8
+   154         16
+   156        700
+   157         83
+   168          8
+   170          8
+   183          8
+   197         16
+   211         16
+   225          8
+   240          8
+   254         16
+   255         33
+   256         16

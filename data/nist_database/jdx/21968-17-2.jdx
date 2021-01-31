@@ -1,0 +1,41 @@
+##TITLE=Library Entry 56229
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AIR PRODUCTS & CHEMICALS, INC BOX 538, ALLENTOWN, PA 18
+105, D M PAREES
+##NAMES=HP
+##CAS NAME=1-Propanamine, N-(1-methylethyl)-
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=21968-17-2
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=694
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27        148
+    29         47
+    30        829
+    31         14
+    39         86
+    40         18
+    41        228
+    42        112
+    43        239
+    44        724
+    45         20
+    54         13
+    56         72
+    57         26
+    58        167
+    70         38
+    71         11
+    72        845
+    73         47
+    84         16
+    86        999
+    87         65
+   100         66
+   101        201
+   102         30

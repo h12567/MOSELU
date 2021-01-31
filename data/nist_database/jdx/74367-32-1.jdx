@@ -1,0 +1,44 @@
+##TITLE=Library Entry 38372
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.A. HITES, MIT, CAMBRIDGE, MASS, USA.
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-, 2-(hydroxymethyl)-1-propylbutyl ester
+##MOLFORM=C12H24O3
+##CAS REGISTRY NO=74367-32-1
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         40
+    40         16
+    41        105
+    43        463
+    44        121
+    46         16
+    49         16
+    51         16
+    53         24
+    54         24
+    55        146
+    56         73
+    57         16
+    67         32
+    69         40
+    70         73
+    71        999
+    72         40
+    73         24
+    81         16
+    82         81
+    83         89
+    85         24
+    89         73
+    99         24
+   100         24
+   101         16
+   127         24
+   137         16

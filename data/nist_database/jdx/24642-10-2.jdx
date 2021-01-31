@@ -1,0 +1,53 @@
+##TITLE=Library Entry 15284
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2-Oxopropionic acid, dimethylhydrazone, methyl ester
+##MOLFORM=C6H12N2O2
+##CAS REGISTRY NO=24642-10-2
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27         64
+    28        432
+    29         48
+    30         40
+    31         16
+    32         48
+    40         16
+    41         48
+    42        576
+    43        304
+    44        999
+    45        208
+    46         24
+    55         32
+    56         48
+    57         16
+    58        248
+    59        112
+    60         15
+    69         48
+    70         24
+    71         40
+    72         16
+    83          8
+    84         32
+    85        448
+    86         24
+    87         16
+    88         80
+    89          8
+   102        243
+   103         24
+   113         32
+   116         32
+   117         16
+   144        476
+   145         32
+   146          4

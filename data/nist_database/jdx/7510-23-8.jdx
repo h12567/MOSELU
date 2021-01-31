@@ -1,0 +1,37 @@
+##TITLE=Library Entry 24992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyrrolidine-2,3-dione, 1-(1,1-dimethylethyl)-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=7510-23-8
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        459
+    42        179
+    43        469
+    44        229
+    45         18
+    51         18
+    54         66
+    55        490
+    57        999
+    58        583
+    59         71
+    70        102
+    71         81
+    82        134
+    83         84
+    85         55
+    99        327
+   100        102
+   108         23
+   112         26
+   140        321
+   155        503

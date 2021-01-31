@@ -1,0 +1,31 @@
+##TITLE=Library Entry 84105
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.D. Hodes, Naval Res. Lab., Washington, D.C., USA
+##NAMES=HP
+##CAS NAME=Indium, hexamethyl[.mu.-(tetramethyldiphosphine-p:p')]di-
+##MOLFORM=C10H30In2P2
+##CAS REGISTRY NO=118368-70-0
+##MP= -300
+##BP= -300
+##MW= 442
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    14        110
+    15        390
+    16        210
+    45        660
+    46        480
+    47        160
+    57        310
+    59        420
+    61        650
+    62        400
+    75        180
+    79        270
+   107        999
+   115        220
+   122        800
+   145        400

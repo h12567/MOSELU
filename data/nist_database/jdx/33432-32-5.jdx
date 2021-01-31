@@ -1,0 +1,42 @@
+##TITLE=Library Entry 63248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1,4,4-Tetrafluoro-1,4-disilacyclo-2,5-hexadiene
+##MOLFORM=C4H4F4Si2
+##CAS REGISTRY NO=33432-32-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    47        629
+    48         20
+    49         20
+    52        200
+    53         10
+    66         20
+    73        130
+    74         10
+    85         30
+    91        999
+    92         70
+    93         40
+    99        330
+   100         40
+   101         10
+   118        400
+   119         50
+   120         20
+   139         10
+   158         60
+   159         10
+   165        160
+   166         30
+   167         10
+   184        659
+   185         90
+   186         50

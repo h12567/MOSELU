@@ -1,0 +1,44 @@
+##TITLE=Library Entry 41003
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 3-methyl-3-(methoxy-tert-butyloxy)amino-butanoate
+##MOLFORM=C11H23NO4
+##CAS REGISTRY NO=82004-49-7
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         81
+    30         82
+    31         44
+    41        170
+    42         80
+    43        117
+    55        127
+    56        233
+    57        771
+    58         92
+    59         90
+    73        999
+    74        190
+    83        235
+    84         18
+    86         26
+    87         54
+    88         55
+   101         54
+   115        634
+   116         90
+   117         44
+   129         81
+   146        335
+   147         82
+   148         44
+   160         18
+   167         18
+   178         17

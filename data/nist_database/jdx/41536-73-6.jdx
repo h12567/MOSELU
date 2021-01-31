@@ -1,0 +1,31 @@
+##TITLE=Library Entry 11841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.ELVIDGE UNIV. OF SURREY, GUILDFORD, SURREY, UK
+##NAMES=HP
+##CAS NAME=Acetamide, N,N'-2,6-pyrazinediylbis-, N-oxide
+##MOLFORM=C8H10N4O3
+##CAS REGISTRY NO=41536-73-6
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    40        263
+    41        138
+    43        999
+    55        123
+    66        127
+    67        187
+    82        178
+    83         85
+    99        272
+   109        186
+   110        152
+   126        615
+   168        373
+   194          7
+   210        170
+   211         17

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 6890
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Butyl-tert-butyl-isopropoxyborane
+##MOLFORM=C11H25BO
+##CAS REGISTRY NO=97782-82-6
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         45
+    41        209
+    42        151
+    43        999
+    45        581
+    55         46
+    56         93
+    57        323
+    59        232
+    71         10
+    84         93
+    85        497
+    86         11
+   127         11
+   142         22

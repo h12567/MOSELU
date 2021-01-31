@@ -1,0 +1,58 @@
+##TITLE=Library Entry 22047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-1-tetradecene
+##MOLFORM=C15H30
+##CAS REGISTRY NO=52254-38-3
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1467
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27        116
+    28         96
+    29        243
+    32         15
+    39        127
+    41        573
+    42         98
+    43        307
+    44         13
+    53         58
+    54         57
+    55        441
+    56        999
+    57        498
+    58         19
+    65         11
+    66         10
+    67         81
+    68         67
+    69        411
+    70        186
+    71         63
+    79         13
+    81         28
+    82         51
+    83        148
+    84         81
+    85         40
+    95         14
+    96         24
+    97        114
+    98         35
+    99          7
+   110         15
+   111         79
+   112         27
+   125         27
+   126         17
+   139          9
+   154         26
+   182         20
+   195          9
+   210         48

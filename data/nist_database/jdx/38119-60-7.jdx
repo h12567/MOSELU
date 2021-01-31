@@ -1,0 +1,39 @@
+##TITLE=Library Entry 98698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Methyl-6-phenyl-3,5-dithioxo-2,3,4,5-tetrhydro-1,2,4-triazine
+##MOLFORM=C10H9N3S2
+##CAS REGISTRY NO=38119-60-7
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    42        101
+    43        218
+    45        496
+    50        226
+    51        196
+    59        111
+    60        177
+    63        346
+    76        207
+    77        449
+    89        289
+    91        317
+   103        302
+   104        449
+   118        999
+   131         50
+   132         80
+   133        150
+   134        299
+   135        119
+   148         69
+   149        100
+   234        199
+   235        699

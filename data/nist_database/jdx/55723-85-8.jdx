@@ -1,0 +1,35 @@
+##TITLE=Library Entry 54204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Piperidine, 1,1'-[1,4-phenylenebis(1-oxo-2,1-ethanediyl)]bis-
+##MOLFORM=C20H28N2O2
+##CAS REGISTRY NO=55723-85-8
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        330
+    42         60
+    43         50
+    56        110
+    69        410
+    70         50
+    84        999
+    85         90
+    86        100
+   104        110
+   105         90
+   112        899
+   113         60
+   131         60
+   215        659
+   216        380
+   217        250
+   243        320
+   244        150
+   328        390

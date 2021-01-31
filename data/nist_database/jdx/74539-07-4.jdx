@@ -1,0 +1,37 @@
+##TITLE=Library Entry 83223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=1-[4-Aminobenzyl]hypoxanthine
+##MOLFORM=C12H11N5O
+##CAS REGISTRY NO=74539-07-4
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    51          4
+    52          9
+    53         25
+    54         10
+    65         12
+    66          9
+    67          5
+    77         58
+    78         27
+    79         19
+    80          8
+    93          8
+   104         39
+   106        999
+   107         65
+   119         10
+   120         18
+   121          4
+   131          9
+   241        197
+   242         29

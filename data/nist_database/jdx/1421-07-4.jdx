@@ -1,0 +1,38 @@
+##TITLE=Library Entry 30616
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Barbituric acid, 5-ethyl-5-(3-hydroxyisopentyl)-
+##MOLFORM=C11H18N2O4
+##CAS REGISTRY NO=1421-07-4
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=1925
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        141
+    43        194
+    44         27
+    55         58
+    56         30
+    59        999
+    60         28
+    69        112
+    71        126
+    83         20
+    85          9
+    97         41
+    98         40
+   112         19
+   114         19
+   141        237
+   142         20
+   156        420
+   157        491
+   158         30
+   214         10
+   227        100
+   228          9

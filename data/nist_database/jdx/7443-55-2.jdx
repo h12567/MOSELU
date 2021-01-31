@@ -1,0 +1,55 @@
+##TITLE=Library Entry 38988
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans-3-Methylcyclohexanol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=7443-55-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=964
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14         22
+    15         42
+    26         28
+    27        262
+    28        180
+    29        235
+    31         77
+    32         24
+    38         35
+    39        330
+    40         67
+    41        453
+    42        231
+    43        342
+    44        247
+    45         39
+    50         22
+    51         40
+    53        101
+    54        104
+    55        381
+    56        114
+    57        456
+    58         57
+    65         24
+    66         23
+    67        152
+    68        160
+    69        129
+    71        999
+    72         58
+    77         21
+    79         54
+    81        818
+    82         55
+    86         28
+    95         84
+    96        522
+    97         57
+   112         18

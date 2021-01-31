@@ -1,0 +1,39 @@
+##TITLE=Library Entry 34412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Octen-4-ol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=40575-42-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    15         18
+    27        172
+    28        105
+    29        156
+    31         61
+    38         17
+    39        175
+    40         43
+    41        546
+    42         74
+    43        242
+    44         51
+    45         90
+    53         34
+    54         26
+    55         45
+    57        143
+    58         20
+    67         41
+    69        999
+    70         66
+    71         70
+    87        401
+    88         26

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 69827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Ethyl-3-methylcyclohexane (c,t)
+##MOLFORM=C9H18
+##CAS REGISTRY NO=3728-55-0
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=911
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          0
+    26          6
+    27         65
+    28          4
+    29         72
+    39        125
+    40         28
+    41        236
+    42         46
+    43         52
+    50          5
+    51         19
+    52         10
+    53         64
+    54          5
+    55        813
+    56         95
+    57         22
+    63          5
+    65         16
+    66          8
+    67         65
+    68         30
+    69        220
+    70         29
+    77         16
+    79         20
+    81         87
+    82         11
+    83         21
+    84          5
+    91          5
+    96        194
+    97        999
+    98         75
+   111         27
+   126        212
+   127         21

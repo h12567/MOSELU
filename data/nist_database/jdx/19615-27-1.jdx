@@ -1,0 +1,30 @@
+##TITLE=Library Entry 51535
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pyridine, 1-acetyl-1,2,3,4-tetrahydro-
+##MOLFORM=C7H11NO
+##CAS REGISTRY NO=19615-27-1
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41         59
+    42         39
+    43        396
+    53         59
+    54        198
+    55        118
+    67         39
+    68        366
+    80         89
+    82        999
+    83        940
+    84         59
+   125        702
+   126         59

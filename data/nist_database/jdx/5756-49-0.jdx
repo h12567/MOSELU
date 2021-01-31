@@ -1,0 +1,42 @@
+##TITLE=Library Entry 15899
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Pentanamine, N-methyl-N-(1-methylethyl)-
+##MOLFORM=C9H21N
+##CAS REGISTRY NO=5756-49-0
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        190
+    42        220
+    43        260
+    44        999
+    45         20
+    55         30
+    56        150
+    57         40
+    58        350
+    59         10
+    70        100
+    71         40
+    72         80
+    84         50
+    85         20
+    86        950
+    87         50
+    98         20
+   100         10
+   112         70
+   126         20
+   128        370
+   129         30
+   141         10
+   142         10
+   143         60

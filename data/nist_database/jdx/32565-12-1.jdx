@@ -1,0 +1,50 @@
+##TITLE=Library Entry 45311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.POLLITT, DEP. PSYCHIATRY, MIDDLEWOOD HOSPITAL, SHEFFI
+ELD
+##NAMES=HP
+##CAS NAME=3-Amino-2-piperidone, 2TMS derivative
+##MOLFORM=C11H26N2OSi2
+##CAS REGISTRY NO=32565-12-1
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    69        120
+    70        140
+    73        650
+    74        130
+    75        999
+    76        180
+    77        200
+    93         90
+    95         70
+   100        200
+   115        290
+   128        570
+   129         70
+   130         40
+   131         40
+   133         20
+   141        250
+   142         50
+   143         40
+   147        180
+   148         30
+   149         20
+   167         50
+   168         40
+   169        200
+   170         40
+   171         60
+   203         30
+   241         30
+   243        240
+   244         30
+   257         10
+   258         50
+   259         10

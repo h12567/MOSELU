@@ -1,0 +1,26 @@
+##TITLE=Library Entry 226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.E.SAALFELD, NAVAL RESEARCH LAB, WASHINGTON D.C., USA
+##NAMES=HP
+##CAS NAME=Cobalt, tetracarbonylhydro-
+##MOLFORM=C4HCoO4
+##CAS REGISTRY NO=16842-03-8
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    28        999
+    59        937
+    60         48
+    71        105
+    87        855
+    88         76
+   115        750
+   116        177
+   143        105
+   144        365
+   172        216

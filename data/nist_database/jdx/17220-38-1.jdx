@@ -1,0 +1,48 @@
+##TITLE=Library Entry 8648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazandiamine
+##MOLFORM=C2H4N4O
+##CAS REGISTRY NO=17220-38-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    33         13
+    34          0
+    36          1
+    37          0
+    38         11
+    39         46
+    41        265
+    42        520
+    43        999
+    45          2
+    50          0
+    53        282
+    54         74
+    55         22
+    58        159
+    59          4
+    63          0
+    65          1
+    66          3
+    67         20
+    68         21
+    70        627
+    74          0
+    79          1
+    80          2
+    81         10
+    82          9
+    83          3
+    84          1
+    98         13
+   100        317
+   101          6
+   102          0

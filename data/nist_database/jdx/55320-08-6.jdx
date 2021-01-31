@@ -1,0 +1,55 @@
+##TITLE=Library Entry 61698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzo[b]naphtho[1,2-e][1,4]dioxin-6a(6H)-ol, 5,12a-dihydro-
+##MOLFORM=C16H14O3
+##CAS REGISTRY NO=55320-08-6
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    91        999
+    92        150
+   102        100
+   103        619
+   104        220
+   105        140
+   106         30
+   107        430
+   108         50
+   117        100
+   118        300
+   119        899
+   120        559
+   121         80
+   147        160
+   148        420
+   149         50
+   165        140
+   166         50
+   167         70
+   177         60
+   178        170
+   179        390
+   180         50
+   191        170
+   192         40
+   193         50
+   194        170
+   195        480
+   196         70
+   207        330
+   208        390
+   209         90
+   218        180
+   219        100
+   235        200
+   236        460
+   237         90
+   254        879
+   255        150

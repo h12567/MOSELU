@@ -1,0 +1,62 @@
+##TITLE=Library Entry 8537
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=(3S)-(-)-3-Acetamidopyrrolidine
+##MOLFORM=C6H12N2O
+##CAS REGISTRY NO=79286-74-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    13          4
+    14         27
+    15        141
+    16          7
+    17          6
+    18         30
+    26         13
+    27         52
+    28        373
+    29         61
+    30        163
+    31          9
+    32         23
+    37          2
+    38          6
+    39         44
+    40         22
+    41        104
+    42        293
+    43        999
+    44        378
+    45         12
+    51          2
+    52          6
+    53          3
+    54         17
+    55          9
+    56        144
+    57         67
+    58         18
+    59          4
+    60         18
+    66          2
+    67         20
+    68        388
+    69        768
+    70         44
+    71          5
+    73          3
+    81          2
+    82          3
+    83          9
+    84          5
+    85         14
+    86         15
+    87          1
+    98          2

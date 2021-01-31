@@ -1,0 +1,58 @@
+##TITLE=Library Entry 91781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=4-n-Butylthiane
+##MOLFORM=C9H18S
+##CAS REGISTRY NO=66625-24-9
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    53        120
+    54        140
+    55        870
+    56        170
+    57         90
+    58         20
+    59        140
+    60        180
+    61        170
+    67        460
+    68        210
+    69        500
+    70        120
+    73        120
+    74        110
+    81        340
+    82        360
+    83        110
+    87        360
+    88         50
+    95        410
+    96        110
+    97         80
+    98         60
+    99         30
+   101        450
+   102        110
+   103         40
+   109         20
+   115        999
+   116         90
+   117         50
+   129        800
+   130         70
+   131         35
+   143        320
+   144         30
+   145         15
+   157         50
+   158        855
+   159         93
+   160         42
+   161          4

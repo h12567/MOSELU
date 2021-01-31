@@ -1,0 +1,85 @@
+##TITLE=Library Entry 100498
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7711
+##NAMES=HP
+##CAS NAME=2,4-Dimethylphenethyl alcohol
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=6597-59-7
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    17          1
+    18          3
+    27         18
+    28          8
+    29          4
+    31         11
+    32          1
+    38          3
+    39         35
+    40          4
+    41         47
+    42          1
+    43          3
+    45          1
+    50          9
+    51         26
+    52          8
+    53         16
+    54          1
+    55          2
+    57          2
+    58          1
+    62          4
+    63         13
+    64          6
+    65         25
+    66          3
+    67          3
+    74          3
+    75          4
+    76          3
+    77         58
+    78         20
+    79         27
+    80          2
+    87          1
+    89          6
+    90          2
+    91        117
+    92          9
+    93         13
+    94          1
+   101          1
+   102          6
+   103         35
+   104         32
+   105         70
+   106         15
+   107          5
+   115         32
+   116         11
+   117         68
+   118         18
+   119        999
+   120        165
+   121         11
+   127          1
+   128          3
+   129          3
+   130          2
+   131         12
+   132         17
+   133          7
+   134          2
+   147          3
+   148          4
+   149          3
+   150        264
+   151         28
+   152          2

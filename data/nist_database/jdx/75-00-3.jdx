@@ -1,0 +1,41 @@
+##TITLE=Library Entry 31713
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethyl Chloride
+##MOLFORM=C2H5Cl
+##CAS REGISTRY NO=75-00-3
+##MP= -300
+##BP= -300
+##MW= 64
+##$RETENTION INDEX=422
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    15         11
+    24          7
+    25         44
+    26        205
+    27        604
+    28        830
+    29        721
+    30         16
+    35         18
+    36         13
+    37          8
+    38          4
+    47         19
+    48         29
+    49        266
+    50         12
+    51         83
+    59         10
+    60         28
+    61         30
+    62         33
+    63         59
+    64        999
+    65         40
+    66        320
+    67          8

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 4941
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Yinon ET AL. Org. Mass Spectrom, 25, 14(1990)
+##NAMES=HP
+##CAS NAME=Piperazine, 1,4-dinitro-
+##MOLFORM=C4H8N4O4
+##CAS REGISTRY NO=4164-37-8
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    36          2
+    38          2
+    41         61
+    42        999
+    43          5
+    44         11
+    45          5
+    46         28
+    52          7
+    54         75
+    55        795
+    56        486
+    57        413
+    58         11
+    73          7
+    83         13
+    84        805
+    85         34
+    89          5
+   100          2
+   116          1
+   130          2
+   176          6

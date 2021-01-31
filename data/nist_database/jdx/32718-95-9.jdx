@@ -1,0 +1,55 @@
+##TITLE=Library Entry 68295
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.GAYMARD FACULTY OF SCIENCE, NICE UNIV., NICE, FRANCE
+##NAMES=HP
+##CAS NAME=Cycloheptane, 1,4-dichloro-, cis-
+##MOLFORM=C7H12Cl2
+##CAS REGISTRY NO=32718-95-9
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         25
+    39        250
+    40         40
+    41        240
+    42         35
+    49         35
+    50         20
+    51         50
+    52         20
+    53        140
+    54        175
+    55        190
+    62         75
+    63         30
+    64         30
+    65         55
+    66         75
+    67        205
+    68         95
+    69         25
+    75         65
+    76         25
+    77         55
+    78         20
+    79        375
+    80         30
+    81        130
+    88         70
+    89         50
+    90         20
+    91         25
+    93         55
+    94        690
+    95        999
+    96         75
+   115         20
+   117          7
+   130         85
+   131         31
+   132         35

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 55530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. Menicagli, Cent. Macromol. Stereord. Otticamente Att
+ive, Pisa, Italy
+##NAMES=HP
+##CAS NAME=Furan, 2-ethoxy-4-ethyl-2,3-dihydro-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=110431-26-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    29        548
+    31         85
+    32        381
+    39        214
+    41        667
+    43        571
+    53        143
+    55        196
+    57        167
+    67        286
+    71        283
+    81        194
+    83        166
+    85        999
+    95        142
+    97        643
+    99        191
+   113        189
+   142        881
+   143         78

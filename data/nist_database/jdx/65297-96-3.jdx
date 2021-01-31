@@ -1,0 +1,50 @@
+##TITLE=Library Entry 47888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-3,5-dimethyl-7-methylthio-6H-pyrazolo(3,4-b)(1,4)diazepi
+ne
+##MOLFORM=C15H16N4S
+##CAS REGISTRY NO=65297-96-3
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    40         99
+    41        423
+    42        331
+    43        272
+    45        409
+    47        463
+    48        330
+    50        269
+    51        497
+    52        267
+    55        130
+    57        169
+    76        271
+    77        999
+    78        429
+    91        119
+   103        360
+   104        166
+   118        147
+   129        138
+   155        140
+   161        207
+   169         99
+   170         79
+   184        159
+   196        178
+   210        129
+   211        108
+   228         69
+   237        197
+   251        248
+   269        129
+   270         89
+   284        885

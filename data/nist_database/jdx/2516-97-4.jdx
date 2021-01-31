@@ -1,0 +1,66 @@
+##TITLE=Library Entry 48551
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methanesulfonylacetic acid
+##MOLFORM=C3H6O4S
+##CAS REGISTRY NO=2516-97-4
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    12          7
+    13          4
+    14         15
+    15        409
+    16         26
+    22          3
+    26         10
+    27         39
+    28         20
+    29         73
+    30          5
+    31         60
+    32         12
+    33         18
+    34         14
+    35          6
+    39          3
+    41          4
+    42        148
+    43         16
+    44        668
+    45        112
+    46         38
+    47         24
+    48         77
+    49         23
+    50         10
+    51          7
+    57          3
+    58          4
+    59         19
+    60         11
+    61          7
+    62         18
+    63         79
+    64         40
+    65         29
+    66          4
+    77          5
+    78         11
+    79        999
+    80         28
+    81         53
+    94        601
+    95         20
+    96         30
+   105          8
+   120          2
+   121          4
+   123          6
+   138          3

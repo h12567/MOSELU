@@ -1,0 +1,51 @@
+##TITLE=Library Entry 19814
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclopentanone, O-methyloxime
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=3376-37-2
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        415
+    42         89
+    43         29
+    44         29
+    45         59
+    50         29
+    51         49
+    52         79
+    53        138
+    54        584
+    55        999
+    56         89
+    57          9
+    58         29
+    59         59
+    63          9
+    64          9
+    65         29
+    66         39
+    67        138
+    68         79
+    69         19
+    70         19
+    71          9
+    78          9
+    79          9
+    80         69
+    81         19
+    82        455
+    83         89
+    84         19
+    85         19
+   112         19
+   113        544
+   114         39

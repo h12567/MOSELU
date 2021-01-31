@@ -1,0 +1,59 @@
+##TITLE=Library Entry 43428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=3-Hydroxy-L-tyrosine, 4TMS derivative
+##MOLFORM=C21H43NO4Si4
+##CAS REGISTRY NO=55638-45-4
+##MP= -300
+##BP= -300
+##MW= 485
+##$RETENTION INDEX=2081
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    43         24
+    44         16
+    45         91
+    47         24
+    49          4
+    58          6
+    59         15
+    63          9
+    65          3
+    72         11
+    73        999
+    74         85
+    75         79
+    77         40
+    93         31
+    95          6
+   100         56
+   101          6
+   130          3
+   131         17
+   132          2
+   133         20
+   147         68
+   148         11
+   149         13
+   179         72
+   180         12
+   181          9
+   203          3
+   218        464
+   219         87
+   220         35
+   267         93
+   268         31
+   269         11
+   280         49
+   281         17
+   295          4
+   367          4
+   368         30
+   369          8
+   380          5
+   470          6

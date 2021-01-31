@@ -1,0 +1,28 @@
+##TITLE=Library Entry 352
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ethanamine, N,N-difluoro-
+##MOLFORM=C2H5F2N
+##CAS REGISTRY NO=758-18-9
+##MP= -300
+##BP= -300
+##MW= 81
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    15        362
+    16          5
+    27        706
+    28        208
+    29        999
+    30         22
+    33         32
+    43         75
+    44          2
+    66         38
+    67          1
+    81         68
+    82          2

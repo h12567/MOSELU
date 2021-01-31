@@ -1,0 +1,76 @@
+##TITLE=Library Entry 88362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyrazole, 1-(2-hydroxyethyl)-3-methyl-5-ethoxy-
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=60933-12-2
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    33         13
+    34          6
+    35          3
+    36         17
+    37         12
+    39        400
+    40        296
+    41        159
+    42        314
+    43        122
+    44         45
+    45         95
+    46          0
+    50          4
+    51         14
+    52         49
+    53         48
+    54        128
+    55         61
+    56         62
+    57         12
+    58          4
+    59          8
+    65          5
+    66         20
+    67         88
+    68         97
+    69        124
+    70         27
+    71          9
+    72          0
+    79          1
+    80          4
+    82        197
+    83        138
+    84        110
+    85          5
+    87          1
+    93          3
+    94          3
+    95         19
+    96         20
+    98        728
+    99        102
+   100          4
+   101          0
+   109         66
+   111        999
+   112         55
+   123          5
+   125        106
+   126        101
+   127         36
+   128          0
+   139        288
+   140         73
+   141         33
+   142          0
+   170        250
+   171         17
+   172          0

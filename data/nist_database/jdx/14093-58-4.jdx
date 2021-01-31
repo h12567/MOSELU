@@ -1,0 +1,31 @@
+##TITLE=Library Entry 38165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Heptene, 3-methoxy-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=14093-58-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=744
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        340
+    43        190
+    45         40
+    54         70
+    55         90
+    58         70
+    68         30
+    69         20
+    71        999
+    72         40
+    81         10
+    85         20
+    86         20
+    96         30
+    99         10

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 14580
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=3,5,6-Tris(trifluoromethyl)-1-acetylcyclohexa-1,4-diene
+##MOLFORM=C11H7F9O
+##CAS REGISTRY NO=199939-06-5
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         23
+    45          2
+    50         32
+    69         53
+   145        152
+   146         12
+   173         52
+   174          4
+   195         83
+   196          7
+   212         11
+   213        123
+   237        252
+   238         28
+   239          2
+   241         82
+   242          8
+   257         53
+   258          5
+   263         52
+   264          4
+   307        122
+   308         15
+   309          1
+   311        505
+   312         57
+   313          4
+   326        105
+   327         13
+   328          1

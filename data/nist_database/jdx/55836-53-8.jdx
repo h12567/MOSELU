@@ -1,0 +1,48 @@
+##TITLE=Library Entry 29137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RC7-210-5B
+##NAMES=HP
+##CAS NAME=L-Lysine, N2,N2,N6,N6-tetramethyl-, ethyl ester
+##MOLFORM=C12H26N2O2
+##CAS REGISTRY NO=55836-53-8
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    27         64
+    28         88
+    29        108
+    30         49
+    39         14
+    40         49
+    41         64
+    42        295
+    43         64
+    44        128
+    45         34
+    46         14
+    56        123
+    57         34
+    58        999
+    59         34
+    70         64
+    71        147
+    84        463
+    85         69
+    86         29
+    97         24
+    98         59
+   100         29
+   102         64
+   111          9
+   112        285
+   130         44
+   157        630
+   158         78
+   170         24
+   188         29
+   230        133

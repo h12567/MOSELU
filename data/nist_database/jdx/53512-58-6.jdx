@@ -1,0 +1,36 @@
+##TITLE=Library Entry 6474
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,5-Secocholestan-4-oic acid, 5-oxo-
+##MOLFORM=C27H46O3
+##CAS REGISTRY NO=53512-58-6
+##MP= -300
+##BP= -300
+##MW= 418
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        840
+    43        999
+    79        440
+    81        716
+    83        440
+   119        242
+   121        325
+   122        198
+   159        104
+   160         66
+   161        212
+   201        115
+   202         38
+   203         68
+   247        126
+   317         68
+   332        798
+   333        209
+   400         52
+   403         35
+   418         33

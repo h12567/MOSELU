@@ -1,0 +1,65 @@
+##TITLE=Library Entry 20652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Ethyl-2-(4-methylpentyl)cyclopentane
+##MOLFORM=C13H26
+##CAS REGISTRY NO=219726-60-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14         43
+    15         40
+    16         16
+    26         45
+    27        345
+    28        283
+    29        310
+    30         20
+    31         78
+    32         27
+    37          9
+    39        436
+    40         99
+    41        770
+    42        338
+    43        112
+    44         68
+    45         43
+    50         27
+    51         46
+    52         30
+    53        146
+    54          9
+    55        999
+    56        575
+    57        112
+    58         27
+    59         63
+    63         14
+    64          6
+    65         40
+    66         18
+    67        158
+    68         71
+    69        356
+    70        524
+    71         48
+    73         11
+    74         50
+    77         30
+    78          7
+    79         34
+    82        328
+    83        932
+    84        417
+    85         25
+    97         74
+    98          7
+   112        151
+   113         14

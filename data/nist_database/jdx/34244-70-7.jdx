@@ -1,0 +1,51 @@
+##TITLE=Library Entry 53470
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S E. FLORES
+##NAMES=HP
+##CAS NAME=2-Thiabicyclo[3.2.0]hept-3-ene-6,7-dicarboxylic acid, 6-methyl-
+##MOLFORM=C9H10O4S
+##CAS REGISTRY NO=34244-70-7
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    38         40
+    39        360
+    40        120
+    41         40
+    43         30
+    44        160
+    45        290
+    50         30
+    51         30
+    53         20
+    57         50
+    58        320
+    59         10
+    60         10
+    65         10
+    68        120
+    69         40
+    77         20
+    79         20
+    81         10
+    82         10
+    83         20
+    84        999
+    85         40
+    86         40
+    91         30
+    97         40
+    98         10
+   111         30
+   112         10
+   123         40
+   135         10
+   151         30
+   168         30
+   196         10
+   214         20

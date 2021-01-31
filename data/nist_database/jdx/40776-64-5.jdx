@@ -1,0 +1,41 @@
+##TITLE=Library Entry 36824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 15(1)201(1976); M. FASCIO ET AL
+##NAMES=HP
+##CAS NAME=Methyl 6.alpha.,7.beta.-dihydroxyvouacapan-17.beta.-oate
+##MOLFORM=C21H30O5
+##CAS REGISTRY NO=40776-64-5
+##MP= -300
+##BP= -300
+##MW= 362
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        650
+    43        310
+    55        490
+    69        999
+    91        460
+    95        390
+   109        340
+   119        480
+   131        850
+   133        370
+   137        530
+   145        390
+   147        330
+   149        290
+   161        250
+   185        150
+   191        180
+   197        110
+   267        980
+   268        200
+   284        420
+   285        680
+   303        170
+   326        500
+   327        130
+   362        450

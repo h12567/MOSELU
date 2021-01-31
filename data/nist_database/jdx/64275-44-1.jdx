@@ -1,0 +1,31 @@
+##TITLE=Library Entry 59007
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1161(1977); 8; G. OHLOFF
+##NAMES=HP
+##CAS NAME=5,10-Pentadecadiyne, 1-chloro-
+##MOLFORM=C15H23Cl
+##CAS REGISTRY NO=64275-44-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27        320
+    41        770
+    55        360
+    67        470
+    79        540
+    91        999
+   105        620
+   119        710
+   133        230
+   147        180
+   161        140
+   181         50
+   195        100
+   209         40
+   223         10
+   238         10

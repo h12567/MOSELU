@@ -1,0 +1,29 @@
+##TITLE=Library Entry 12808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JOCEAH, 44(3)447(1979); G. F. WEBER AND S. S. HALL
+##NAMES=HP
+##CAS NAME=2-Butanone, 4-[3-(acetyloxy)-2,2-dichlorocyclopropyl]-, cis-
+##MOLFORM=C9H12Cl2O3
+##CAS REGISTRY NO=68200-76-0
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        999
+   143        120
+   145         50
+   161        330
+   163        110
+   179        120
+   181         80
+   183         20
+   195        160
+   197        120
+   199         40
+   238         36
+   240         25
+   242          5

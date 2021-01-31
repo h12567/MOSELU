@@ -1,0 +1,47 @@
+##TITLE=Library Entry 49936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. D. HENION, CORNELL UNIVERSITY, ITHACA, NY, USA
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-chloro-2-[(2-furanylmethyl)amino]-5-[[(trimethyls
+ilyl)amino]sulfonyl]-, methyl ester
+##MOLFORM=C16H21ClN2O5SSi
+##CAS REGISTRY NO=74793-84-3
+##MP= -300
+##BP= -300
+##MW= 416
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39         16
+    42         25
+    44         24
+    45         20
+    51         18
+    52         16
+    53        205
+    54         18
+    73         51
+    74         21
+    75         44
+    81        999
+    82         72
+    93         14
+    96        128
+   105         23
+   113         14
+   114         14
+   125         22
+   140         21
+   141         13
+   151         14
+   168         22
+   262         13
+   312         17
+   358         41
+   372         18
+   401         24
+   416         58
+   417         14
+   418         21

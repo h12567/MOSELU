@@ -1,0 +1,65 @@
+##TITLE=Library Entry 3640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Wolber, Eastman Kodak Company, Rochester, NY
+##NAMES=HP
+##CAS NAME=6-Heptene-1-nitrile
+##MOLFORM=C7H11N
+##CAS REGISTRY NO=5048-25-9
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        195
+    28         74
+    29         84
+    37         20
+    38         55
+    39        489
+    40        108
+    41        999
+    42        137
+    43         14
+    49          6
+    50         39
+    51         73
+    52         60
+    53        148
+    54        348
+    55        501
+    56         58
+    61          4
+    62          9
+    63         15
+    64         14
+    65         42
+    66         35
+    67        259
+    68        347
+    69        322
+    70         15
+    74          4
+    75          4
+    76          5
+    77         21
+    78          7
+    79         35
+    80        543
+    81        491
+    82        155
+    83        142
+    84          7
+    91         30
+    92          5
+    93         11
+    94        113
+    95         13
+   104          3
+   105         14
+   106          4
+   108        138
+   109         12

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 1449
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=2,2,3,3,3-Pentafluoro-1-propanol
+##MOLFORM=C3H3F5O
+##CAS REGISTRY NO=422-05-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          2
+    15          1
+    25          1
+    26          4
+    28          3
+    29        216
+    30         20
+    31        999
+    32         26
+    33         52
+    34          1
+    41          1
+    42          9
+    43          4
+    44         14
+    45         19
+    47          7
+    49        145
+    50         37
+    51         80
+    52          2
+    55          1
+    56          2
+    60          9
+    61         34
+    62          8
+    63         18
+    64         23
+    65          3
+    67         15
+    69        173
+    70          2
+    71          3
+    74          1
+    75          7
+    78          1
+    79          4
+    80         18
+    81         12
+    82         17
+    83         72
+    91          6
+    93          3
+    95          1
+    99          1
+   100         99
+   101         11
+   109          7
+   110          4
+   111          5
+   113          4
+   119         14
+   129          3
+   130          3
+   131          3
+   149          1

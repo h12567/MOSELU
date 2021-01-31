@@ -1,0 +1,51 @@
+##TITLE=Library Entry 48123
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CORINA, DEP. BIOCHEM., UNIV. SOUTHAMPTON, SOUTHAMPTO
+N, U.
+##NAMES=HP
+##CAS NAME=S-(2-Fluoroethyl) methanesulfonothioate
+##MOLFORM=C3H7FO2S2
+##CAS REGISTRY NO=69466-43-9
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    43         45
+    44        600
+    45        220
+    46        180
+    47        150
+    57        310
+    58        600
+    59        750
+    60        200
+    61         65
+    62        450
+    63        270
+    64         75
+    65         18
+    66         45
+    74         21
+    75         45
+    76         45
+    77         85
+    78        999
+    79         70
+    80        150
+    94         43
+    95         28
+    96          8
+   111         35
+   112          2
+   113          3
+   124        110
+   125          6
+   126         16
+   142          7
+   158        280
+   159         14
+   160         26

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 76881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4,4'-Dibromo terephthalanilide
+##MOLFORM=C20H14Br2N2O2
+##CAS REGISTRY NO=38636-25-8
+##MP= -300
+##BP= -300
+##MW= 472
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        151
+    42        196
+    50         40
+    51         37
+    63         78
+    64        127
+    70        472
+    76        518
+    77        184
+    84         90
+    88         37
+    91         43
+   104        999
+   105        247
+   132         86
+   135        471
+   167         37
+   302        282
+   304        278
+   472         85
+   474        170
+   476         83

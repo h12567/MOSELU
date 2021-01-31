@@ -1,0 +1,43 @@
+##TITLE=Library Entry 18175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethanedihydrazide, N2,N2'-bis(4-pyridylmethylideno)-
+##MOLFORM=C14H12N6O2
+##CAS REGISTRY NO=332414-11-6
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    38        209
+    39        332
+    40         59
+    43        191
+    44        374
+    45         30
+    50        379
+    51        999
+    52        198
+    62         27
+    63        423
+    64        314
+    65        218
+    66        133
+    76         19
+    77        124
+    78        791
+    79        211
+    91         85
+    92        160
+    93         39
+   105        188
+   106        168
+   107         50
+   120        137
+   121         77
+   148        681
+   149         32

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 55533
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=7-Thiabicyclo[4.2.1]nonane
+##MOLFORM=C8H14S
+##CAS REGISTRY NO=66555-68-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    51         20
+    52         10
+    53         50
+    54         70
+    55        120
+    58         30
+    59         50
+    60         30
+    61         20
+    65         50
+    66         30
+    67        230
+    68         40
+    71         20
+    73         30
+    77         40
+    78         10
+    79        170
+    80         80
+    81         70
+    82         10
+    84         70
+    85        999
+    86        130
+    87         90
+    88         30
+    91         30
+    93        110
+    94         20
+    95        220
+    96         20
+    99         90
+   100         20
+   101         30
+   107         10
+   108        130
+   109         30
+   113         40
+   114         20
+   127         20
+   142        320
+   143         31
+   144         15
+   145          1

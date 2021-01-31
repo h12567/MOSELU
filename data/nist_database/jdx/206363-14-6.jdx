@@ -1,0 +1,57 @@
+##TITLE=Library Entry 15504
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-amino-2,3-di(hydroxymino)-
+##MOLFORM=C3H4N4O2
+##CAS REGISTRY NO=206363-14-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    33         24
+    35          1
+    37          2
+    38         75
+    39         49
+    40         74
+    42        302
+    43        385
+    44        999
+    45         57
+    46          5
+    47          1
+    49         22
+    53        690
+    54        425
+    55        340
+    57         88
+    58        257
+    65          5
+    66         10
+    68         45
+    69         49
+    70        143
+    71        215
+    72          2
+    76          6
+    80          2
+    82          2
+    84         27
+    85         91
+    86         17
+    87          2
+    96          7
+    97          3
+    98         12
+   109          4
+   110         14
+   111          5
+   112          3
+   126          2
+   128        169
+   129          4

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 83159
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenamine, 4-(2-phenylethyl)-
+##MOLFORM=C14H15N
+##CAS REGISTRY NO=13024-49-2
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         36
+    41         12
+    43         12
+    50          7
+    51         27
+    52         14
+    53         17
+    54          8
+    63         17
+    64          5
+    65         41
+    66          9
+    77         65
+    78         29
+    79         31
+    80         10
+    89         12
+    90          6
+    91         63
+    92          9
+   104         13
+   105         10
+   106        999
+   107         85
+   141         14
+   197         87
+   198         14

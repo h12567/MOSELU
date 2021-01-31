@@ -1,0 +1,64 @@
+##TITLE=Library Entry 40553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1307
+##NAMES=HP
+##CAS NAME=3-Methoxy-3-methylbutanol
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=56539-66-3
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=1434
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         26
+    17          1
+    18          4
+    26          4
+    27         47
+    28         15
+    29         61
+    30          6
+    31         84
+    32          6
+    33         91
+    37          1
+    38          3
+    39         50
+    40         12
+    41        199
+    42         24
+    43         83
+    44          5
+    45         53
+    46          1
+    50          2
+    51          3
+    52          1
+    53         46
+    54          3
+    55         48
+    56         51
+    57         30
+    58          3
+    59         15
+    61          2
+    63          1
+    65          1
+    67         11
+    68         12
+    69         85
+    70          9
+    71         38
+    72          9
+    73        999
+    74         43
+    75          3
+    85         66
+    86          7
+    87          5
+   103        103
+   104          6

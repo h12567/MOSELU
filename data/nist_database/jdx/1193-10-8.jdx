@@ -1,0 +1,42 @@
+##TITLE=Library Entry 33366
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Albert Lebedev, Moscow State University, Russia
+##NAMES=HP
+##CAS NAME=2,5-Dihydro-3-methyl-thiophene 1,1-dioxide
+##MOLFORM=C5H8O2S
+##CAS REGISTRY NO=1193-10-8
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    37         15
+    38         45
+    39        353
+    40        249
+    41        220
+    42        115
+    43         11
+    44         12
+    45         20
+    48         38
+    49          1
+    50         37
+    51         54
+    52         26
+    53        453
+    54         18
+    63         12
+    64         69
+    65         33
+    66         21
+    67        438
+    68        999
+    69         53
+    70          1
+   132         34
+   133          2
+   134          2

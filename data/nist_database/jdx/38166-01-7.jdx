@@ -1,0 +1,87 @@
+##TITLE=Library Entry 42013
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ribonic acid, 2-C-methyl-2,3,4,5-tetrakis-O-(trimethylsilyl)-, tr
+imethylsilyl ester
+##MOLFORM=C21H52O6Si5
+##CAS REGISTRY NO=38166-01-7
+##MP= -300
+##BP= -300
+##MW= 540
+##$RETENTION INDEX=1880
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    43         55
+    45         38
+    59         26
+    72         26
+    73        999
+    74         82
+    75         82
+    89          8
+   101          8
+   103        514
+   104         55
+   105         23
+   116          8
+   117         85
+   129         26
+   131         26
+   133         55
+   143          8
+   145          8
+   147        350
+   148         58
+   149         44
+   155          8
+   157          8
+   175          5
+   189        120
+   190         26
+   191         29
+   203          5
+   204         41
+   205        220
+   206         52
+   207         26
+   217        288
+   218         88
+   219         35
+   221         26
+   231         29
+   233        114
+   234         29
+   235         14
+   243         26
+   271         29
+   277         58
+   278         14
+   279         17
+   291         26
+   305         14
+   306        441
+   307        426
+   308        147
+   309         58
+   310         14
+   319         58
+   320         14
+   333         29
+   335         26
+   347         14
+   393         26
+   407         29
+   408         26
+   423         55
+   424         23
+   425         11
+   435         73
+   436         32
+   437         47
+   438         29
+   525         55
+   526         32
+   527         26

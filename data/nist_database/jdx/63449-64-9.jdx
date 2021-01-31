@@ -1,0 +1,45 @@
+##TITLE=Library Entry 52477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=3-Hexene, 1,1'-[ethylidenebis(oxy)]bis-, (Z,Z)-
+##MOLFORM=C14H26O2
+##CAS REGISTRY NO=63449-64-9
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    29         39
+    31          8
+    36        192
+    37          9
+    39         10
+    41        319
+    42         28
+    43         71
+    45         40
+    53          9
+    54         82
+    55        931
+    56         80
+    57         21
+    58         20
+    61          9
+    67        138
+    68         19
+    69         91
+    70         29
+    81         18
+    82        218
+    83        999
+    84        149
+    85         10
+    91          9
+    97         10
+   113         10
+   127        451
+   128         60

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 69133
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.FLEMING UNIV. CHEMICAL LABORATORY, CAMBRIDGE, UK
+##NAMES=HP
+##CAS NAME=Pyridine, 1,2,3,6-tetrahydro-1,2-dimethyl-
+##MOLFORM=C7H13N
+##CAS REGISTRY NO=694-84-8
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    28        370
+    29        440
+    30        330
+    31        100
+    39        180
+    40        200
+    42        900
+    43        260
+    45         30
+    46         10
+    47         10
+    48         20
+    50         40
+    51         70
+    52         50
+    53         90
+    54         60
+    55        340
+    56        300
+    57        380
+    58         60
+    59         40
+    60         20
+    61         30
+    62         30
+    63         30
+    64         40
+    65         40
+    66         30
+    67        240
+    68        190
+    69        180
+    70         70
+    71         80
+    74         20
+    75         30
+    76         30
+    77         70
+    78         60
+    79         80
+    80         60
+    81        240
+    82         50
+    83         80
+    84         30
+    85         40
+    86         30
+    89         10
+    90         30
+    91         60
+    92         50
+    93         70
+    94        320
+    95        150
+    96        999
+    97        200
+    98         40
+   109         60
+   110         80
+   111        400

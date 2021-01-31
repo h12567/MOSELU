@@ -1,0 +1,43 @@
+##TITLE=Library Entry 84092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(11)3426(1978); B. M. TROST
+##NAMES=HP
+##CAS NAME=2,6,10-Tetradecatrienedioic acid, 3,7,11-trimethyl-13-(2-methyl-1
+-propenyl)-13-(phenylsulfonyl)-, dimethyl ester, (E,E,E)-
+##MOLFORM=C29H40O6S
+##CAS REGISTRY NO=57683-69-9
+##MP= -300
+##BP= -300
+##MW= 516
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    69        400
+    77        860
+    79        840
+    81        830
+    82        270
+    83        290
+    85        240
+    93        930
+    95        720
+   105        710
+   107        999
+   109        440
+   119        650
+   121        999
+   125        370
+   133        830
+   135        530
+   147        330
+   149        300
+   151        350
+   161        610
+   163        220
+   198        230
+   201        280
+   311        480
+   343        340
+   375        530

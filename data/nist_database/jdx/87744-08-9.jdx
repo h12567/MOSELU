@@ -1,0 +1,27 @@
+##TITLE=Library Entry 36289
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Perfluoro(3-methoxy-2-oxabicyclo[3.3.0]octane)
+##MOLFORM=C8F14O2
+##CAS REGISTRY NO=87744-08-9
+##MP= -300
+##BP= -300
+##MW= 394
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    47         80
+    69        999
+    93        102
+   100        107
+   131        186
+   162         81
+   181         59
+   193         70
+   212        118
+   231         61
+   262         55
+   309         81

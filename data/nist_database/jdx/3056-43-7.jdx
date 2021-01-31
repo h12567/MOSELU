@@ -1,0 +1,53 @@
+##TITLE=Library Entry 44786
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-4-O-methyl.alpha.d-glucopyranoside
+##MOLFORM=C8H16O6
+##CAS REGISTRY NO=3056-43-7
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    45        323
+    55         42
+    56         79
+    57        169
+    58        127
+    59        175
+    60        286
+    61        158
+    69         85
+    71        677
+    73        128
+    74        999
+    75        215
+    85         75
+    87        773
+    88        479
+    89         47
+    97         20
+    98         15
+    99         47
+   101         24
+   102         15
+   103         36
+   111         16
+   112         10
+   113          9
+   115         10
+   117         17
+   127         16
+   129          5
+   130         20
+   144          5
+   145         26
+   147          7
+   148          1
+   158          8
+   159         28
+   177          7

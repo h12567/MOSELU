@@ -1,0 +1,45 @@
+##TITLE=Library Entry 80660
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Uridine, 2',3'-O-(phenylmethylene)-, 5'-(4-methylbenzenesulfonate
+)
+##MOLFORM=C23H22N2O8S
+##CAS REGISTRY NO=35837-30-0
+##MP= -300
+##BP= -300
+##MW= 486
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    65        180
+    77        959
+    91        789
+   105        999
+   106        979
+   112        120
+   113         60
+   131         50
+   137         30
+   155         40
+   157         60
+   172        539
+   193         80
+   195         30
+   209         20
+   239         50
+   241         10
+   244         20
+   269          6
+   281          3
+   301          5
+   313        110
+   314         70
+   350         20
+   375        100
+   396          4
+   409          5
+   485          3
+   486         10

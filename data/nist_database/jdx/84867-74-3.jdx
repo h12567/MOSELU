@@ -1,0 +1,68 @@
+##TITLE=Library Entry 8292
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Einhorn ET AL.Biomed.Mass Spectrom.,12,200(1985)
+##NAMES=HP
+##CAS NAME=10-Hydroxyhexadecan-1-yl acetate
+##MOLFORM=C18H36O3
+##CAS REGISTRY NO=84867-74-3
+##MP= -300
+##BP= -300
+##MW= 300
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41        360
+    42        105
+    43        999
+    44         67
+    45         25
+    54         96
+    55        901
+    56        293
+    57        318
+    58         61
+    59         29
+    61        917
+    62         16
+    67        331
+    68        223
+    69        611
+    70        293
+    71        191
+    72         25
+    73         41
+    77         16
+    79         38
+    81        535
+    82        271
+    83        318
+    84        124
+    85         76
+    86         22
+    95        322
+    96         99
+    97        261
+    98        111
+   100         16
+   105         13
+   108         10
+   109         19
+   110         38
+   111         57
+   112         13
+   113         25
+   114         13
+   115         19
+   124         19
+   126        166
+   128         19
+   137        150
+   138         29
+   139         35
+   155         54
+   156         25
+   187         54
+   215        465
+   216         48

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 60245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=Bicyclo[2.1.1]hex-2-ene, 2-ethenyl-
+##MOLFORM=C8H10
+##CAS REGISTRY NO=128600-91-9
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    37         10
+    38         38
+    39        347
+    40         45
+    41        154
+    42         78
+    43        123
+    44          6
+    49          5
+    50         91
+    51        244
+    52        106
+    53         91
+    54         42
+    55         42
+    61          7
+    62         25
+    63         72
+    64         13
+    65        222
+    66         50
+    67         38
+    68          5
+    74         17
+    75         16
+    76         12
+    77        343
+    78        427
+    79        406
+    80         36
+    89         17
+    90          6
+    91        999
+    92         79
+    93         16
+   102         12
+   103        119
+   104         26
+   105        355
+   106        299
+   107         32

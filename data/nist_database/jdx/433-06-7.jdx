@@ -1,0 +1,83 @@
+##TITLE=Library Entry 62644
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 763
+##NAMES=HP
+##CAS NAME=Ethanol, 2,2,2-trifluoro-, 4-methylbenzenesulfonate
+##MOLFORM=C9H9F3O3S
+##CAS REGISTRY NO=433-06-7
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    18          1
+    20          1
+    27          5
+    28         16
+    29          4
+    30          1
+    31          1
+    32          1
+    33          5
+    37          1
+    38          5
+    39         51
+    40          4
+    41         15
+    43          1
+    44          3
+    45          3
+    48          1
+    50         13
+    51         23
+    52          7
+    53          4
+    61          2
+    62          9
+    63         37
+    64         12
+    65        157
+    66          9
+    67          2
+    69          6
+    74          3
+    75          3
+    76          2
+    77         20
+    78          6
+    79         13
+    80          1
+    83         19
+    85          1
+    86          2
+    87          2
+    88          1
+    89         41
+    90         21
+    91        999
+    92         80
+    93          3
+   106          1
+   107         32
+   108          3
+   109          1
+   111          1
+   121          1
+   139         11
+   140          1
+   147          3
+   154          1
+   155        701
+   156         59
+   157         35
+   158          2
+   189          2
+   235          1
+   253          1
+   254        285
+   255         31
+   256         15
+   257          1

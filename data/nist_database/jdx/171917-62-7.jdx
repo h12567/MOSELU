@@ -1,0 +1,53 @@
+##TITLE=Library Entry 21971
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,4-Dimethyldihydrothiophene-2,5-dione
+##MOLFORM=C6H8O2S
+##CAS REGISTRY NO=171917-62-7
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1113
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         17
+    27         59
+    28         56
+    29         31
+    32         12
+    33          4
+    37          8
+    38         15
+    39        130
+    40         28
+    41        415
+    42         21
+    45         39
+    49          7
+    50         19
+    51         19
+    52          8
+    53         36
+    54         14
+    55        124
+    56        999
+    57         60
+    58          8
+    59         14
+    60         32
+    61         10
+    68          4
+    69         31
+    71         13
+    74         14
+    81          4
+    84         27
+   113          3
+   123          2
+   144         83
+   145          5
+   146          7

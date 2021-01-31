@@ -1,0 +1,26 @@
+##TITLE=Library Entry 96634
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, [2-(methylsulfonyl)-1-propenyl]-
+##MOLFORM=C10H12O2S
+##CAS REGISTRY NO=54845-43-1
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    63        100
+    65         70
+    77         90
+    79         60
+    89         80
+    91        180
+   105        220
+   115        430
+   116        999
+   117        240
+   196        250

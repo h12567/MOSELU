@@ -1,0 +1,78 @@
+##TITLE=Library Entry 19120
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=(Z)-5-Decene
+##MOLFORM=C10H20
+##CAS REGISTRY NO=7433-78-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=982
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          0
+    15          3
+    25          0
+    26          6
+    27        146
+    28         35
+    29        135
+    30          3
+    37          0
+    38          2
+    39        129
+    40         20
+    41        500
+    42        212
+    43        257
+    44          8
+    50          2
+    51          9
+    52          6
+    53         54
+    54         97
+    55        999
+    56        484
+    57        113
+    58          5
+    63          1
+    64          0
+    65         13
+    66          8
+    67         70
+    68         35
+    69        378
+    70        333
+    71         49
+    72          2
+    78          2
+    79         11
+    80          2
+    81         18
+    82         22
+    83        113
+    84        108
+    85         25
+    86          1
+    91          3
+    92          0
+    93          1
+    94          0
+    95          3
+    96          9
+    97         97
+    98         42
+    99          3
+   109          0
+   110          2
+   111         30
+   112         16
+   113          1
+   125          0
+   138          0
+   140        184
+   141         17
+   142          1

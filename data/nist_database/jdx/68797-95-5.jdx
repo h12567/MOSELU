@@ -1,0 +1,74 @@
+##TITLE=Library Entry 32623
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.V. BURGER, DEP. CHEM., UNIV. STELLENBOSCH
+##NAMES=HP
+##CAS NAME=(Z)6-Pentadecen-1-ol
+##MOLFORM=C15H30O
+##CAS REGISTRY NO=68797-95-5
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1480
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    41        760
+    42        165
+    43        637
+    45         34
+    53         81
+    54        512
+    55        957
+    56        249
+    57        322
+    58         18
+    60         20
+    65         20
+    66         89
+    67        999
+    68        635
+    69        517
+    70        171
+    71        105
+    72         14
+    73         23
+    77         27
+    78         16
+    79        114
+    80         97
+    81        637
+    82        881
+    83        374
+    84         80
+    85         57
+    91         26
+    93         56
+    94         45
+    95        504
+    96        482
+    97        187
+    98         44
+    99         20
+   107         16
+   108         13
+   109        223
+   110        163
+   111         55
+   112         20
+   121         12
+   122         13
+   123         87
+   124         82
+   125         17
+   126         11
+   137         41
+   138         46
+   139         11
+   151         16
+   152         33
+   166         10
+   180         22
+   208         55
+   209         13
+   226          2

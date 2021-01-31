@@ -1,0 +1,36 @@
+##TITLE=Library Entry 26414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.BAUER UNIV. OF ILLINOIS, CHICAGO, ILLINOIS, USA
+##NAMES=HP
+##CAS NAME=Pyridine, 4-[(1,1-dimethylethyl)thio]-
+##MOLFORM=C9H13NS
+##CAS REGISTRY NO=18794-26-8
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    29        310
+    32         90
+    39        240
+    41        500
+    51        100
+    55         60
+    56         50
+    57        999
+    58         60
+    59         70
+    67        120
+    83         50
+    84         30
+   110         40
+   111        840
+   112        200
+   113         50
+   152         40
+   167        220
+   168         30
+   169         15

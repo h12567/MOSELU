@@ -1,0 +1,38 @@
+##TITLE=Library Entry 76655
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.M.Zyakoon
+##NAMES=HP
+##CAS NAME=1-Methoxyphthalazine
+##MOLFORM=C9H8N2O
+##CAS REGISTRY NO=24953-56-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    62         23
+    63         64
+    64         21
+    75         19
+    76         62
+    77         23
+    89        341
+    90         32
+   102         88
+   103        999
+   104        140
+   105         56
+   115         10
+   116         15
+   117         21
+   128         47
+   129        238
+   130        272
+   131        484
+   132         80
+   159        683
+   160        809
+   161        103

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 33262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Dihydro-3-methylene-5-methyl-2-furanone
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=62873-16-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1075
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    17          3
+    25          3
+    27         21
+    29         25
+    31         14
+    36          3
+    37          8
+    38         32
+    39        166
+    40        176
+    41         94
+    42         72
+    43         89
+    46          9
+    49          9
+    67         17
+    68        999
+    69        112
+    70          9
+    71          8
+    97         76
+    98          5
+   111          8
+   112         35
+   113          7

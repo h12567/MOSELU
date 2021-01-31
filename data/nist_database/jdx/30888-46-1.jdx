@@ -1,0 +1,38 @@
+##TITLE=Library Entry 81231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pregn-4-en-3-one, 20-hydroxy-17,21-[(phenylborylene)bis(oxy)]-, (
+20R)-
+##MOLFORM=C27H35BO4
+##CAS REGISTRY NO=30888-46-1
+##MP= -300
+##BP= -300
+##MW= 434
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+   105        999
+   106         80
+   107        500
+   108         50
+   109        400
+   110         40
+   119        420
+   120         50
+   121        430
+   122         50
+   123        400
+   124        570
+   125         70
+   147        740
+   148         90
+   159        530
+   160         70
+   173        410
+   174         60
+   434        460
+   435        140
+   436         20

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 36268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. Shreeve, Dep. Chem., Univ. Idaho, Moscow, Idaho, U
+SA
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N,N-dichloro-N',N',1,1,2,2-hexafluoro-
+##MOLFORM=C2Cl2F6N2
+##CAS REGISTRY NO=105882-88-0
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    31        194
+    35         53
+    37         13
+    50        269
+    69        999
+    80        439
+    81         18
+    82        137
+    99         59
+   100         74
+   101         17
+   102         15
+   114         35
+   130        617
+   132        198
+   134         95
+   136         61
+   236         22
+   238         13

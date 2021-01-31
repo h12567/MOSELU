@@ -1,0 +1,28 @@
+##TITLE=Library Entry 50882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(3aR,6aS)-3,3-dimethyl-3a-iodomethyl-3,3a,4,5,6a-hexahydropentale
+n-1(2H)-one
+##MOLFORM=C11H17IO
+##CAS REGISTRY NO=121402-84-4
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    67         99
+    81        999
+    95        220
+   109        150
+   123        369
+   137         80
+   147        198
+   165        658
+   207          9
+   235         19
+   253         19
+   292        109

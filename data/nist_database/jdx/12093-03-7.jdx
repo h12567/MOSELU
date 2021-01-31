@@ -1,0 +1,37 @@
+##TITLE=Library Entry 76964
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Chromium, tricarbonyl[(1,2,3,4,5,6-.eta.)-1,3,5,7-cyclooctatetrae
+ne]-
+##MOLFORM=C11H8CrO3
+##CAS REGISTRY NO=12093-03-7
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        231
+    50        221
+    51        410
+    52        294
+    63        101
+    65         50
+    77        442
+    78        915
+    89         28
+    91         76
+   103        726
+   104        999
+   115          6
+   116          5
+   117          5
+   130         65
+   156        105
+   184         38
+   212          1
+   214          2
+   240         12

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 22351
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3926
+##NAMES=HP
+##CAS NAME=Cycloheptane
+##MOLFORM=C7H14
+##CAS REGISTRY NO=291-64-5
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=807
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         16
+    26         23
+    27        231
+    28         32
+    29        238
+    30          8
+    37          6
+    38         21
+    39        308
+    40         61
+    41        775
+    42        753
+    43        140
+    44          4
+    45          3
+    46          3
+    49          2
+    50         15
+    51         28
+    52         12
+    53         84
+    54        183
+    55        967
+    56        999
+    57        178
+    58          8
+    61          3
+    62          6
+    63          9
+    64          2
+    65         19
+    66         16
+    67        131
+    68        271
+    69        616
+    70        856
+    71         50
+    72          1
+    74          2
+    77         10
+    78          3
+    79         14
+    80          4
+    81         74
+    82         45
+    83        485
+    84         36
+    85          1
+    89          1
+    91         19
+    92         13
+    93          3
+    95         10
+    96         33
+    97         16
+    98        628
+    99         49
+   100          2

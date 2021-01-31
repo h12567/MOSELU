@@ -1,0 +1,71 @@
+##TITLE=Library Entry 62870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methoxy-2-benzyloxy-5-propyl-benzene
+##MOLFORM=C17H20O2
+##CAS REGISTRY NO=13335-50-7
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    50         17
+    51         40
+    52         15
+    53         10
+    55         20
+    57         15
+    62         13
+    63         45
+    64         10
+    65        134
+    66         19
+    67          9
+    77         71
+    78         34
+    79         30
+    89         38
+    90         29
+    91        999
+    92        136
+    93         15
+    94         27
+    95         60
+   103         13
+   104         11
+   105         22
+   106         27
+   107         48
+   108          9
+   109         25
+   122         21
+   123         56
+   124          5
+   135         62
+   136         17
+   137        114
+   138          7
+   148         13
+   149         62
+   150          7
+   152         13
+   153          4
+   163         16
+   164         17
+   165        309
+   166         60
+   167          9
+   168          2
+   178         12
+   179          3
+   227         21
+   228          4
+   254         20
+   255          8
+   256        134
+   257         25
+   258          3

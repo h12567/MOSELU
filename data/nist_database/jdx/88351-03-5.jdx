@@ -1,0 +1,32 @@
+##TITLE=Library Entry 73136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.Ya. Kozenasheva, D.I. Mendeleev Moscow Inst. Chem. Te
+chnol., Moscow, USSR
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 3-[(diethoxyphosphinyl)thio]-, ethyl ester
+##MOLFORM=C10H19O5PS
+##CAS REGISTRY NO=88351-03-5
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    45        274
+    59        681
+    71        195
+    72        207
+    73        278
+    85        263
+   100        999
+   101        444
+   113        367
+   145        196
+   179        490
+   181         85
+   226         13
+   253        109
+   254         22
+   282        197

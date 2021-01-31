@@ -1,0 +1,32 @@
+##TITLE=Library Entry 44585
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.GATTOW, INST. ANORG. CHEM. ANAL. CHEM., UNIV. MAINZ,
+ W. GER.
+##NAMES=HP
+##CAS NAME=Methyl N-methyl-N-formyldithiocarbamate
+##MOLFORM=C4H7NOS2
+##CAS REGISTRY NO=102127-58-2
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        117
+    42        584
+    44        227
+    45        650
+    46        174
+    47        612
+    48        172
+    59         94
+    72        219
+    73        336
+    74        999
+    76        170
+    88        161
+    91        113
+   121        274
+   149        581

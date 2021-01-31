@@ -1,0 +1,80 @@
+##TITLE=Library Entry 61744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N-Dibenzylethylenediamine diacetate
+##MOLFORM=C20H24N2O2
+##CAS REGISTRY NO=122-75-8
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+     4          1
+    15          3
+    16          0
+    18          2
+    26          0
+    27          6
+    28         23
+    29          5
+    30         36
+    31          1
+    39         32
+    40          3
+    41         17
+    42         15
+    43          9
+    44         14
+    45          0
+    50          8
+    51         24
+    52          8
+    53          1
+    54          1
+    56          2
+    57          1
+    58          1
+    62          3
+    63         17
+    65        128
+    66          8
+    67          0
+    74          1
+    75          2
+    76          3
+    77         18
+    78          8
+    79          6
+    80          1
+    89         24
+    91        999
+    92         82
+    93          3
+   103          2
+   104         11
+   105          6
+   106         32
+   107         13
+   108          1
+   116          1
+   117          8
+   118         33
+   119          1
+   120        674
+   121         80
+   122          7
+   130          1
+   132          7
+   133          4
+   134         11
+   135         19
+   136          2
+   149          9
+   150          1
+   239          0
+   240          4
+   241          2

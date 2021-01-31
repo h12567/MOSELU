@@ -1,0 +1,78 @@
+##TITLE=Library Entry 7380
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER HAMBURG UNIV., HAMBURG, GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-(acetylamino)-
+##MOLFORM=C6H9NO3
+##CAS REGISTRY NO=55649-71-3
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14         31
+    15        183
+    25          4
+    26         52
+    27        128
+    28        484
+    29         68
+    30         31
+    31         10
+    32         25
+    38         23
+    39         70
+    40         24
+    41         42
+    42         88
+    43        999
+    44         94
+    45         73
+    46          7
+    50          2
+    51         13
+    52         47
+    53         20
+    54        373
+    55        771
+    56        294
+    57         55
+    58         19
+    59         21
+    60         23
+    61          8
+    66         27
+    67          5
+    68         11
+    69          4
+    70          5
+    71          3
+    72          3
+    73          6
+    74          4
+    80          5
+    81          8
+    82          8
+    83        560
+    84         30
+    85          3
+    96         11
+    97         30
+    98          8
+    99          9
+   100         60
+   101        264
+   102         18
+   103          1
+   110         17
+   124          2
+   125        134
+   126         22
+   127          3
+   128         12
+   143        113
+   144         12

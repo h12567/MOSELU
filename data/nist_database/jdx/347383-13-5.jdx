@@ -1,0 +1,46 @@
+##TITLE=Library Entry 4611
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyrazole-3-carboxamide, N-(4-acetylamino)phenyl-1-methyl-4-nitro-
+##MOLFORM=C13H13N5O4
+##CAS REGISTRY NO=347383-13-5
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39          7
+    40          5
+    42        999
+    43        675
+    51         42
+    52        120
+    53         54
+    54         13
+    63          9
+    65         15
+    77         44
+    78         38
+    79         54
+    80        129
+   105         27
+   107        383
+   108         88
+   109         36
+   122          8
+   124          8
+   134        120
+   138         22
+   154        101
+   155         47
+   260         12
+   261        360
+   262         22
+   273         11
+   275         23
+   303        557
+   304         83

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 67703
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-Bromo-2-bromomethylcyclohexane
+##MOLFORM=C7H12Br2
+##CAS REGISTRY NO=52428-01-0
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         45
+    39        300
+    40         55
+    41        330
+    42         30
+    43         25
+    45         15
+    46         10
+    47         20
+    50         30
+    51         80
+    52         35
+    53        170
+    54         80
+    55        230
+    56         20
+    62          5
+    63         15
+    64          5
+    65         50
+    66         40
+    67        215
+    68         35
+    69         30
+    77         77
+    78         20
+    79        140
+    80         30
+    81        110
+    82         30
+    83         20
+    84         10
+    85          3
+    91         48
+    92          5
+    93         60
+    94         45
+    95        999
+    96         80
+    97         10
+   107         15
+   108          3
+   109          5
+   119         15
+   121         13
+   133         20
+   134          5
+   135         20
+   174          5
+   175        130
+   176         18
+   177        130
+   178         10
+   254          3
+   256          5
+   258          3

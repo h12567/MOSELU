@@ -1,0 +1,59 @@
+##TITLE=Library Entry 34768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Methyl-6-hepten-1-yn-3-ol
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=51193-99-8
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14         18
+    26         21
+    27        104
+    28         65
+    29         58
+    38         35
+    39        265
+    40         60
+    41        149
+    43        597
+    44         21
+    49         10
+    50         67
+    51         97
+    52         42
+    53        251
+    54         43
+    55        145
+    56         56
+    57         17
+    58         19
+    63         32
+    65         87
+    66         62
+    67         63
+    69        999
+    70         74
+    77         75
+    78         59
+    79        196
+    80         38
+    81        210
+    82         25
+    83         13
+    91        413
+    92         30
+    93         31
+    95         43
+    96         15
+   103         15
+   105         73
+   106         19
+   109        140
+   123         15

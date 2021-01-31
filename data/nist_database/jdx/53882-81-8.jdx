@@ -1,0 +1,81 @@
+##TITLE=Library Entry 99260
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Toluoylacetonitrile
+##MOLFORM=C10H9NO
+##CAS REGISTRY NO=53882-81-8
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          5
+    14          8
+    15          8
+    16          0
+    17          2
+    18          3
+    25          2
+    26         12
+    27         39
+    28          4
+    29          4
+    37         16
+    38         54
+    39        248
+    40         83
+    41         61
+    42          6
+    43          8
+    45         26
+    49          6
+    50         80
+    51         97
+    52         22
+    53         17
+    54          1
+    59         20
+    61         22
+    62         65
+    63        167
+    64         46
+    65        324
+    66         20
+    67          3
+    68         10
+    73          4
+    74         21
+    75         20
+    76         16
+    77         27
+    78          6
+    79          4
+    85          6
+    86         15
+    87         12
+    88          4
+    89        115
+    90          4
+    91        785
+    92         69
+    93          3
+    99          1
+   102          5
+   103         11
+   104          2
+   105          5
+   115          2
+   116          2
+   119        999
+   120         95
+   121          7
+   128          1
+   130          4
+   159        103
+   160         11
+   161          0

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 33420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(2) 532(1977); C. DJERASSI, STAMFORD UNIVERSI
+TY, USA
+##NAMES=HP
+##CAS NAME=2,3-Nonadiene
+##MOLFORM=C9H16
+##CAS REGISTRY NO=22433-34-7
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39        260
+    40         80
+    41        410
+    42         80
+    43         90
+    50         20
+    51         60
+    52         30
+    53        190
+    54         50
+    55        130
+    65         70
+    66         50
+    67        450
+    68        999
+    69         80
+    77         50
+    79         90
+    80         10
+    81        180
+    82         50
+    91         10
+    93         10
+    95         80
+    96         10
+   105          1
+   107          1
+   109          5
+   122          0
+   123          0
+   124          1

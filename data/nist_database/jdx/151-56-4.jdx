@@ -1,0 +1,38 @@
+##TITLE=Library Entry 4391
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.GALLEGOS KANSAS STATE UNIVERSITY, MANHATTAN, KANSAS,
+ USA
+##NAMES=HP
+##CAS NAME=Ethylenimine
+##MOLFORM=C2H5N
+##CAS REGISTRY NO=151-56-4
+##MP= -300
+##BP= -300
+##MW= 43
+##$RETENTION INDEX=401
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    12         19
+    13         38
+    14        104
+    15        353
+    16         17
+    17         12
+    18          5
+    21         14
+    24          4
+    25         21
+    26         76
+    27        123
+    28        798
+    29         26
+    30          9
+    38         54
+    39         74
+    40        181
+    41        261
+    42        999
+    43        599
+    44         24

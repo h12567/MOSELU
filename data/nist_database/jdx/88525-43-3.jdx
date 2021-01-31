@@ -1,0 +1,49 @@
+##TITLE=Library Entry 2050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.P. WIESLER, DEP. CHEM., INDIANA UNIV., BLOOMINGTON, U
+SA
+##NAMES=HP
+##CAS NAME=cis-2-Ethyl-3-(2-iodoethyl)oxirane
+##MOLFORM=C6H11IO
+##CAS REGISTRY NO=88525-43-3
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    27        304
+    28         87
+    29        374
+    30         20
+    31        120
+    37         11
+    38         36
+    39        302
+    41        999
+    42         83
+    43        175
+    53         12
+    55        133
+    57        263
+    58         40
+    59         87
+    67         18
+    69         23
+    70         14
+    71         46
+    72         19
+    81        125
+    82         11
+    83         10
+    85         36
+    99         16
+   127         41
+   128         32
+   141         20
+   155         33
+   168        106
+   169         30
+   226         41

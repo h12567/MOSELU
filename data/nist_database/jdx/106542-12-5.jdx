@@ -1,0 +1,38 @@
+##TITLE=Library Entry 86094
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(Z)-8-Hydroxy-4,7-dimethyl-oct-6-enoic acid lactone
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=106542-12-5
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    53        250
+    55        975
+    56        242
+    57        575
+    67        800
+    68        622
+    69        830
+    70        168
+    71        290
+    79        280
+    83        230
+    93        502
+    95        577
+    99        190
+   107        985
+   108        547
+   109        999
+   121        209
+   123        219
+   151        309
+   153        100
+   167        339
+   168        308

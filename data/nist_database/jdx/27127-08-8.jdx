@@ -1,0 +1,86 @@
+##TITLE=Library Entry 82364
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. KRZYZANOWSKA, POLISH ACAD. SCI., BOCZNA, POLA
+##NAMES=HP
+##CAS NAME=N-Benzyldiphenylphosphinamide
+##MOLFORM=C19H18NOP
+##CAS REGISTRY NO=27127-08-8
+##MP= -300
+##BP= -300
+##MW= 307
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    27         65
+    28        139
+    29         64
+    30         58
+    36         38
+    39        118
+    41         71
+    42         40
+    43         76
+    44        496
+    45         24
+    46         28
+    47        175
+    50         85
+    51        254
+    52         71
+    53         26
+    54         24
+    55         66
+    56         39
+    57         84
+    58         23
+    63         27
+    65         80
+    67         20
+    69         49
+    70         29
+    71         47
+    74         24
+    76         25
+    77        380
+    78        310
+    79        225
+    80         24
+    81         28
+    83         43
+    84         48
+    85         40
+    86         58
+    90         21
+    91        204
+    92         36
+    95         37
+    97         33
+   104         32
+   105        147
+   106        999
+   107        208
+   108        142
+   109         33
+   111         21
+   114         35
+   124        149
+   125         81
+   140         30
+   149         22
+   152         42
+   153         36
+   154         31
+   155         99
+   183         72
+   184         21
+   199         57
+   201        442
+   202        296
+   203         40
+   216         64
+   217         32
+   239         33
+   277         21
+   307         67

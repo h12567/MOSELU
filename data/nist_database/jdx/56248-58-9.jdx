@@ -1,0 +1,37 @@
+##TITLE=Library Entry 74784
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Xylose, O-2,3,4-tri-O-methyl-.beta.-D-xylopyranosyl-(1.fwdarw.3
+)-O-2,4-di-O-methyl-.beta.-D-xylopyranosyl-(1.fwdarw.4)-2,3,5-tri-O-methyl-
+##MOLFORM=C23H42O13
+##CAS REGISTRY NO=56248-58-9
+##MP= -300
+##BP= -300
+##MW= 526
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    45        430
+    71        460
+    75        679
+    88        649
+    89         80
+    99        270
+   101        999
+   111        250
+   115        729
+   127         10
+   143        629
+   145        150
+   175        430
+   235         40
+   271         10
+   303         26
+   305          4
+   331          1
+   335         16
+   347          2
+   395         28

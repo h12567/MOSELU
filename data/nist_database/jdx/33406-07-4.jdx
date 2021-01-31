@@ -1,0 +1,31 @@
+##TITLE=Library Entry 76523
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.GNICHTEL INST. ORG. CHEM., THE FREE UNIV., BERLIN, F.
+R.G.
+##NAMES=HP
+##CAS NAME=6H-1,2,5-Oxadiazine-6-thione, 4,5-dihydro-3-phenyl-
+##MOLFORM=C9H8N2OS
+##CAS REGISTRY NO=33406-07-4
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29        107
+    37         40
+    38         40
+    39         53
+    49         40
+    50        220
+    51         80
+    52         40
+    60        280
+    75         94
+    76        294
+    77         67
+   103        999
+   104         80
+   192         13

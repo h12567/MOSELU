@@ -1,0 +1,49 @@
+##TITLE=Library Entry 18241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=1,2-Naphthalenedione, 4-(phenylamino)-
+##MOLFORM=C16H11NO2
+##CAS REGISTRY NO=27828-56-4
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    50        300
+    51        999
+    52        120
+    62        120
+    63        250
+    64        120
+    65        120
+    74        170
+    75        300
+    76        310
+    77        820
+    78         80
+    87         50
+    88         60
+    89        240
+    90        110
+   101        160
+   102        320
+   103         60
+   105         50
+   115         60
+   116         70
+   130         80
+   165        200
+   190         60
+   191         80
+   192         60
+   193        160
+   203        190
+   204        900
+   220        260
+   221         80
+   249        160
+   250         30

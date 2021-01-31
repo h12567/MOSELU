@@ -1,0 +1,26 @@
+##TITLE=Library Entry 10519
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetamide, N-(5-methyl-3-isoxazolyl)-
+##MOLFORM=C6H8N2O2
+##CAS REGISTRY NO=13223-74-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    42        110
+    43        999
+    44         40
+    55        510
+    56         30
+    66         70
+    67         70
+    98        860
+    99         80
+   140        250
+   141         20

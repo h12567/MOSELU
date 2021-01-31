@@ -1,0 +1,31 @@
+##TITLE=Library Entry 11199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenyl 4,6-di-O-acetyl-2,3-dideoxy-.alpha.-d-erythrohex-2-enopyra
+noside
+##MOLFORM=C16H18O6
+##CAS REGISTRY NO=62398-09-8
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    69         39
+    77         40
+    81         99
+    83         59
+    93         20
+    94        100
+    97         30
+   103         20
+   111        419
+   112         29
+   153        130
+   162         29
+   171         19
+   213        199

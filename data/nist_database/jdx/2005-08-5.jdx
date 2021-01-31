@@ -1,0 +1,67 @@
+##TITLE=Library Entry 78658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Chlorophenyl benzoate
+##MOLFORM=C13H9ClO2
+##CAS REGISTRY NO=2005-08-5
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=1904
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    18          2
+    26          4
+    27         13
+    28          1
+    29          1
+    35          1
+    36          1
+    37          8
+    38         24
+    39         26
+    40          1
+    47          2
+    49          9
+    50         73
+    51        180
+    52          8
+    53          4
+    61          6
+    62         16
+    63         44
+    64         11
+    65          6
+    66          1
+    73         44
+    74         23
+    75         36
+    77        431
+    78         27
+    79          1
+    85          2
+    87          1
+    89          1
+    92          1
+    99         43
+   100          5
+   101         14
+   102          1
+   105        999
+   106         72
+   107          4
+   111          2
+   113          1
+   115          2
+   127          9
+   128          3
+   129          2
+   130          1
+   139          2
+   232         22
+   233          4
+   234          9
+   235          1

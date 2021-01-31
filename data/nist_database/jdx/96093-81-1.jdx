@@ -1,0 +1,32 @@
+##TITLE=Library Entry 12622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. SAINT-JALM, DEP. BIOL. CHIM., SEITA, PARIS, FR.
+##NAMES=HP
+##CAS NAME=7-Acetyl-2-hydroxy-2-methyl-5-isopropylbicyclo[4.3.0]nonane
+##MOLFORM=C15H26O2
+##CAS REGISTRY NO=96093-81-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        150
+    43        999
+    55         70
+    67         60
+    69         40
+    71        160
+    79         50
+    81         50
+    91         40
+    93         70
+    95         60
+   109         60
+   111         70
+   135        250
+   153        450
+   154         60
+   238         50

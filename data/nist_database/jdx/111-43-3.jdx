@@ -1,0 +1,49 @@
+##TITLE=Library Entry 5508
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Di-n-propyl ether
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=111-43-3
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=660
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          0
+    14          8
+    15         54
+    16          1
+    19          0
+    26         54
+    27        331
+    28         48
+    29        160
+    30         17
+    31         75
+    37          5
+    39        137
+    41        315
+    43        999
+    44         83
+    45         18
+    46          0
+    53          1
+    55         67
+    56          3
+    57         11
+    58          0
+    59         42
+    60          2
+    61         14
+    62          0
+    69          0
+    71          3
+    73        212
+    74         10
+    75          0
+   102         95
+   103          6

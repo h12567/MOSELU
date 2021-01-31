@@ -1,0 +1,45 @@
+##TITLE=Library Entry 81535
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2,3,6-Tri-O-benzoyl-5-O-methyl-d-glucono-1,4-lactone
+##MOLFORM=C28H24O9
+##CAS REGISTRY NO=13096-69-0
+##MP= -300
+##BP= -300
+##MW= 504
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    43          7
+    44          2
+    45         18
+    50         26
+    51         53
+    52          2
+    58         23
+    74          6
+    75          1
+    76         15
+    77        230
+    78         20
+   105        999
+   106         71
+   122        119
+   123          3
+   179        762
+   180         78
+   181          4
+   191          1
+   247         22
+   260         40
+   261          4
+   350          8
+   369         59
+   370         11
+   383          2
+   399          8
+   400          1
+   504          2

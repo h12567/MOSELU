@@ -1,0 +1,37 @@
+##TITLE=Library Entry 72886
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Erythro-Hexopyranoside, methyl 2,3-dideoxy-, diacetate
+##MOLFORM=C11H18O6
+##CAS REGISTRY NO=64551-84-4
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    43        496
+    44         33
+    71         77
+    81         26
+    82         23
+    83         30
+    98         23
+    99          6
+   100        999
+   101         67
+   102         33
+   110         26
+   111        328
+   112         30
+   142        241
+   143         43
+   152          6
+   153        140
+   154         20
+   171         16
+   185         10
+   213         16

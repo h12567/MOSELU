@@ -1,0 +1,87 @@
+##TITLE=Library Entry 84531
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.DREVENKAR, INST. MED. RES. OCCUP. HEALTH, ZAGREB, YUG
+OSLAVIA
+##NAMES=HP
+##CAS NAME=2,2-Dimethylthio-N-salicylideneethylamine
+##MOLFORM=C11H15NOS2
+##CAS REGISTRY NO=57270-49-2
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    32         55
+    38         14
+    39         78
+    40         12
+    41         78
+    42          8
+    43         14
+    45         78
+    46         27
+    47         51
+    48         14
+    49          9
+    50         16
+    51         78
+    52         31
+    53         22
+    58         41
+    59         98
+    60         14
+    61         67
+    62         14
+    63         49
+    64         29
+    65         59
+    66         24
+    73         71
+    74        137
+    75         45
+    76         69
+    77          9
+    78         24
+    79         33
+    90         12
+    91         78
+    92         25
+    93         18
+   102         31
+   103          8
+   104         27
+   105         45
+   106         25
+   107        999
+   108         65
+   109         88
+   116         11
+   117         19
+   118         47
+   119         78
+   120         78
+   121        118
+   122        118
+   123         37
+   130          8
+   131          8
+   132        137
+   133         65
+   134         27
+   135         57
+   146         69
+   147         24
+   148         25
+   149         24
+   150         12
+   165         18
+   176         25
+   194         78
+   195        176
+   196         29
+   241        353
+   242         69
+   243         43

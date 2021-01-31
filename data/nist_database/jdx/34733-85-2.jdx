@@ -1,0 +1,33 @@
+##TITLE=Library Entry 76525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.-P.Zeller ET AL.Tetrahedron, 28,1353(1972)
+##NAMES=HP
+##CAS NAME=5-Phenyl-1,2,3,4-thiatriazole
+##MOLFORM=C7H5N3S
+##CAS REGISTRY NO=34733-85-2
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    50        173
+    51        149
+    52         46
+    74         41
+    75         72
+    76        336
+    77        252
+    78         18
+    91         25
+   102         18
+   103        999
+   104         84
+   105          8
+   135        166
+   136         15
+   137          6
+   163         42
+   164         12

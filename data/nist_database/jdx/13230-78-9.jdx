@@ -1,0 +1,47 @@
+##TITLE=Library Entry 77613
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Ethanamine,2-phenyl, N-methyl-N-trifluoroacetyl-
+##MOLFORM=C11H12F3NO
+##CAS REGISTRY NO=13230-78-9
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         24
+    42        124
+    43         32
+    44         12
+    50         24
+    51         64
+    52         12
+    60        112
+    63         32
+    64         12
+    65        112
+    69        184
+    77         64
+    78        112
+    79         44
+    89         24
+    90         84
+    91        292
+    92         12
+    97         24
+   102         12
+   103         52
+   104        999
+   105        144
+   106         12
+   110         32
+   112         72
+   140        999
+   141         44
+   162         24
+   231         44

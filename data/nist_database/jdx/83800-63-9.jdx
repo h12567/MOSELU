@@ -1,0 +1,82 @@
+##TITLE=Library Entry 80089
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7747
+##NAMES=HP
+##CAS NAME=1,3-Dibenzoyl-4-oxo-2-thioxoimidazolidine
+##MOLFORM=C17H12N2O3S
+##CAS REGISTRY NO=83800-63-9
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          6
+    28         18
+    32          2
+    34          1
+    38          2
+    39          4
+    41          1
+    42          1
+    43          1
+    44          6
+    45          2
+    50         13
+    51         54
+    52          4
+    55          1
+    56          7
+    57          1
+    58          1
+    59          7
+    60          1
+    63          1
+    65          1
+    69          1
+    71          1
+    72          2
+    74          3
+    75          4
+    76         11
+    77        303
+    78         28
+    79          1
+    86          2
+    88          2
+    89          1
+    90          1
+    91          1
+    98          1
+   103         14
+   104          3
+   105        999
+   106         81
+   107          5
+   109          1
+   110          1
+   116          1
+   117          4
+   121          1
+   122         14
+   123          2
+   127          1
+   139          1
+   147          2
+   149          1
+   161          9
+   162          1
+   191          1
+   202          1
+   219          1
+   220         12
+   221          3
+   296          3
+   323          1
+   324        191
+   325         38
+   326         13
+   327          2

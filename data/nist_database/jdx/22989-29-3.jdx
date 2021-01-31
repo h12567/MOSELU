@@ -1,0 +1,81 @@
+##TITLE=Library Entry 15245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiazolo[3,2-a]pyridinium, 7-bromo-3-carboxy-2,3-dihydro-8-hydrox
+y-5-methyl-, hydroxide, inner salt
+##MOLFORM=C9H8BrNO3S
+##CAS REGISTRY NO=22989-29-3
+##MP= -300
+##BP= -300
+##MW= 289
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    42        392
+    44        999
+    45        142
+    50        107
+    51        392
+    52        142
+    53        178
+    58         59
+    59         86
+    60         62
+    68        108
+    69        108
+    70         59
+    71         26
+    76         23
+    77         46
+    78        120
+    79         55
+    80         49
+    81         22
+    82         30
+    83        133
+    84         37
+    85         32
+    86         23
+   104         20
+   105         25
+   106         25
+   107         19
+   108         52
+   109         19
+   110         35
+   111         33
+   112         92
+   121         17
+   122         25
+   123         28
+   136         92
+   137         59
+   138         24
+   139         17
+   148          8
+   149         13
+   158         39
+   159         30
+   160         39
+   161         30
+   164         42
+   165         92
+   166         39
+   167         17
+   201          8
+   202          8
+   203         11
+   204         10
+   212         22
+   214         23
+   219         43
+   221         42
+   230         11
+   232         11
+   244        267
+   245        125
+   246        267
+   247        125

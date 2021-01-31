@@ -1,0 +1,46 @@
+##TITLE=Library Entry 50663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one, 3-ethyl-
+##MOLFORM=C7H10O
+##CAS REGISTRY NO=5682-69-9
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=1052
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        460
+    29         41
+    31         69
+    32        114
+    38         64
+    39        429
+    40          3
+    41        282
+    42         61
+    44         46
+    45         20
+    50         53
+    51        100
+    52         95
+    53        740
+    54        261
+    55        128
+    56         47
+    57         75
+    65         87
+    67        628
+    68         70
+    73         26
+    79        124
+    81        999
+    82        129
+    91         21
+    95         80
+   109        137
+   110        837

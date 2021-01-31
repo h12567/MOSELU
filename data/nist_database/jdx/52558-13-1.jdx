@@ -1,0 +1,31 @@
+##TITLE=Library Entry 97099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. BIRKOFER
+##NAMES=HP
+##CAS NAME=L-Threonine, N-(trifluoroacetyl)-O-(trimethylsilyl)-, trimethylsi
+lyl ester
+##MOLFORM=C12H24F3NO4Si2
+##CAS REGISTRY NO=52558-13-1
+##MP= -300
+##BP= -300
+##MW= 359
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    73        348
+    74         28
+    75         19
+    83         21
+   117        999
+   118        108
+   119         40
+   147        131
+   148         23
+   225        110
+   226         93
+   227         29
+   254         40
+   344         85
+   345         20

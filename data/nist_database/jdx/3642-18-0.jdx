@@ -1,0 +1,60 @@
+##TITLE=Library Entry 48471
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,2,5-Hexatriene
+##MOLFORM=C6H8
+##CAS REGISTRY NO=3642-18-0
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27        187
+    28         13
+    34          0
+    35          0
+    36          2
+    37         31
+    38         62
+    39        406
+    40         41
+    41        203
+    42          8
+    43          0
+    44          1
+    45          1
+    48          1
+    49         16
+    50        112
+    51        159
+    52        149
+    53        120
+    54         30
+    55          1
+    56          0
+    57          0
+    59          0
+    60          1
+    61          8
+    62         12
+    63         24
+    64          4
+    65         77
+    66          5
+    67          2
+    68          0
+    72          0
+    73          7
+    74         18
+    75         18
+    76          7
+    77        376
+    78        105
+    79        999
+    80        142
+    81          7
+    82          0

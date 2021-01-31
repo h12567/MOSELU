@@ -1,0 +1,41 @@
+##TITLE=Library Entry 86994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=B-Nor-5,6-secocholest-2-en-6-oic acid, 1-oxo-, (10.alpha.)-
+##MOLFORM=C26H42O3
+##CAS REGISTRY NO=3949-50-6
+##MP= -300
+##BP= -300
+##MW= 402
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41         82
+    43        103
+    77         18
+    79         38
+    81         70
+    83         28
+   106         25
+   107         39
+   108         27
+   109         63
+   110        999
+   111         98
+   119         17
+   121         24
+   123         25
+   161         14
+   163         15
+   247          7
+   275          8
+   299         13
+   317         13
+   341          3
+   356          4
+   369          2
+   384         24
+   402          4

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 62556
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Tosyloxy-2-methyl-3,3-bis(trifluoromethyl)aziridine
+##MOLFORM=C12H11F6NO3S
+##CAS REGISTRY NO=55734-42-4
+##MP= -300
+##BP= -300
+##MW= 363
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        101
+    40          8
+    41         49
+    51         65
+    52          4
+    65        231
+    69         75
+    70          6
+    77         49
+    91        999
+    92        101
+    93          9
+   155        861
+   156        101
+   157         45
+   363          1

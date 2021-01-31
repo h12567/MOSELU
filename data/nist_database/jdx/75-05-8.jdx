@@ -1,0 +1,29 @@
+##TITLE=Library Entry 2272
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4393
+##NAMES=HP
+##CAS NAME=Acetonitrile
+##MOLFORM=C2H3N
+##CAS REGISTRY NO=75-05-8
+##MP= -300
+##BP= -300
+##MW= 41
+##$RETENTION INDEX=444
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    12         14
+    13          9
+    14         54
+    15         10
+    24          7
+    25         12
+    26         15
+    27          9
+    28         21
+    38         92
+    39        176
+    40        503
+    41        999
+    42         26

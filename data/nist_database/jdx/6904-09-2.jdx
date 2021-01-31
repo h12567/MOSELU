@@ -1,0 +1,77 @@
+##TITLE=Library Entry 5077
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.BUS UNILEVER RESEARCH LAB., VLAARDINGEN, HOLLAND
+##NAMES=HP
+##CAS NAME=1,1-Cyclopropanedicarbonitrile, 2,2-dimethyl-
+##MOLFORM=C7H8N2
+##CAS REGISTRY NO=6904-09-2
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        250
+    28        300
+    29        310
+    30          9
+    31          1
+    32          1
+    37         20
+    38         50
+    39        420
+    40        130
+    41        570
+    42        999
+    43         40
+    44         20
+    45          2
+    49          2
+    50         40
+    51        130
+    52        180
+    53        150
+    54        100
+    55        220
+    56         30
+    57          2
+    59          1
+    61          1
+    62          9
+    63         20
+    64         60
+    65         80
+    66        400
+    67        150
+    68         30
+    69          9
+    75         20
+    76         50
+    77        130
+    78        440
+    79        340
+    80        100
+    81          6
+    88          2
+    89          6
+    90          5
+    91         20
+    92        250
+    93        470
+    94         40
+    95          2
+   101          1
+   102          3
+   103         20
+   104          4
+   105        700
+   106         60
+   107          2
+   117          2
+   118          8
+   119        360
+   120         50
+   121         30

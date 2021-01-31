@@ -1,0 +1,63 @@
+##TITLE=Library Entry 89409
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. VON BUNAU MAX-PLANCK-INST., MULHEIM-RUHR, GERMANY FR
+G
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 5-methyl-2-(1-methylethyl)-, (2R-cis)-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=1196-31-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         33
+    27        290
+    28         89
+    29        211
+    39        299
+    40         71
+    41        719
+    42        181
+    43        380
+    44         19
+    51         28
+    53         96
+    54         39
+    55        568
+    56        330
+    57         79
+    58         26
+    65         28
+    67         81
+    68         61
+    69        760
+    70        332
+    71         61
+    77         26
+    79         43
+    81         61
+    82         54
+    83        207
+    84        149
+    85         28
+    93         34
+    94         26
+    95        166
+    96         31
+    97        225
+    98         94
+   109         33
+   110         89
+   111        227
+   112        999
+   113         88
+   121         53
+   125         64
+   139        333
+   140         39
+   154        230
+   155         33

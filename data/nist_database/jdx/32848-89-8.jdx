@@ -1,0 +1,62 @@
+##TITLE=Library Entry 60778
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Xylopyranose, 4-S-benzyl-1,2-O-isopropylidene-4-thio-, .alpha.-D-
+##MOLFORM=C15H20O4S
+##CAS REGISTRY NO=32848-89-8
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    29         38
+    31         40
+    39         46
+    41         40
+    43        167
+    45         95
+    51         14
+    55         61
+    57         71
+    58         12
+    59        163
+    60         27
+    61         31
+    63         10
+    65         67
+    69         27
+    71         16
+    73         25
+    75         10
+    77         12
+    85         71
+    89         23
+    91        999
+    92         91
+   100        211
+   101         65
+   117         10
+   121         14
+   122        167
+   123         82
+   124         61
+   133         16
+   137         12
+   150         12
+   164        105
+   165         16
+   166         14
+   178         23
+   189         19
+   220         27
+   221         21
+   238        150
+   239         16
+   240         10
+   279         21
+   294          8
+   295          4

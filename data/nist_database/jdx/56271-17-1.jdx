@@ -1,0 +1,45 @@
+##TITLE=Library Entry 206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Manganese, tetracarbonyl(3,3,3-trifluoro-2-formyl-1-propenyl-C,O)
+-, (OC-6-23)-
+##MOLFORM=C8H2F3MnO5
+##CAS REGISTRY NO=56271-17-1
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28        999
+    31        499
+    38        200
+    55        999
+    56        659
+    57        999
+    69         70
+    74        999
+    75        250
+    80        280
+    83        200
+    85        120
+   102        499
+   111        130
+   130        130
+   149         70
+   150        799
+   159         80
+   167         80
+   178        999
+   187        100
+   195        120
+   206        450
+   215         30
+   234        440
+   241         20
+   262        200
+   271         30
+   290        250

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 15369
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=2-Heptanol, 6-amino-2-methyl-
+##MOLFORM=C8H19NO
+##CAS REGISTRY NO=372-66-7
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=1099
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41         41
+    42         29
+    43        148
+    44        999
+    45         18
+    55         41
+    56         87
+    57         21
+    59        107
+    69         77
+    70         28
+    71         20
+    95         10
+   110          9
+   113         29
+   128          9

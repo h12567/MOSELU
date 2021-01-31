@@ -1,0 +1,87 @@
+##TITLE=Library Entry 1675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2635
+##NAMES=HP
+##CAS NAME=Butanedioic acid, methylene-
+##MOLFORM=C5H6O4
+##CAS REGISTRY NO=97-65-4
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          6
+    14         18
+    15         36
+    16          5
+    17         25
+    18         96
+    19          4
+    24          3
+    25         12
+    26         37
+    27         90
+    28         82
+    29        153
+    30         13
+    31         68
+    32          3
+    33          2
+    34         11
+    35          2
+    36         20
+    37         65
+    38        134
+    39        999
+    40        825
+    41        910
+    42        353
+    43        164
+    44         57
+    45        488
+    46         23
+    47         10
+    48          4
+    49          3
+    50          4
+    51          2
+    52          2
+    53         39
+    54          7
+    55         40
+    56         31
+    57        169
+    58        424
+    59         14
+    60         50
+    61          1
+    63          2
+    66         11
+    67         54
+    68        503
+    69        127
+    70          7
+    71         25
+    72          3
+    73         23
+    74          8
+    83          6
+    84        187
+    85        244
+    86        588
+    87         27
+    88          4
+    95          1
+    96          1
+   102          4
+   111          1
+   112        361
+   113         63
+   114          5
+   129          2
+   130         55
+   131          3

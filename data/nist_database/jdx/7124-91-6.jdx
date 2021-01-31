@@ -1,0 +1,50 @@
+##TITLE=Library Entry 87051
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,6-Benzodioxocin, 2,3,4,5-tetrahydro-
+##MOLFORM=C10H12O2
+##CAS REGISTRY NO=7124-91-6
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    40        160
+    41        550
+    42        100
+    43        250
+    44         70
+    50        160
+    51        230
+    52        550
+    53        250
+    54         80
+    55        800
+    56        200
+    57         40
+    62         20
+    63        200
+    64        250
+    65        150
+    66         50
+    77        100
+    78         10
+    80        280
+    81        130
+    82         50
+    91         30
+    92         80
+   109         40
+   110        999
+   111         80
+   121        700
+   122        210
+   123         40
+   135         10
+   136         20
+   164        580
+   165         80

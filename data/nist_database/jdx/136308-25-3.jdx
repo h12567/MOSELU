@@ -1,0 +1,50 @@
+##TITLE=Library Entry 109745
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Plaziak ET AL. Org.Mass Spectrom.,26,849 (1991)
+##NAMES=HP
+##CAS NAME=1-Methyl-4-n-butylaminocytosine
+##MOLFORM=C9H15N3O
+##CAS REGISTRY NO=136308-25-3
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    52         34
+    53         19
+    54         69
+    55         96
+    56        100
+    57         23
+    66         11
+    67         23
+    68         31
+    69         27
+    70        112
+    80         31
+    81        139
+    82        170
+    83        329
+    84         19
+    95        434
+    96         62
+    97         23
+   109        224
+   110        100
+   111         15
+   124         23
+   125        999
+   126         77
+   136         15
+   138        666
+   139        724
+   140         31
+   152        503
+   153         50
+   166         73
+   180         42
+   181        523
+   182         42

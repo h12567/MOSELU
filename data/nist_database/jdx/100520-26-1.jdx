@@ -1,0 +1,71 @@
+##TITLE=Library Entry 10401
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=5-Methyl-2(2-oxo-4-heptyl)furan
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=100520-26-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27         70
+    28         12
+    29         20
+    39         58
+    41         69
+    43        999
+    44         18
+    45          4
+    50          6
+    51         20
+    52         13
+    53         28
+    55         38
+    57          2
+    58          1
+    63          5
+    64          1
+    65         21
+    66          4
+    67         14
+    68          1
+    69          4
+    71          2
+    77         39
+    78          6
+    79         26
+    80          4
+    81         20
+    82          8
+    83          2
+    91         16
+    92          2
+    93         11
+    95        304
+    96         17
+    97          1
+   103          1
+   105          3
+   107         44
+   108         33
+   109         99
+   110          7
+   119          1
+   121         11
+   122          4
+   123          4
+   133          1
+   135          7
+   136         10
+   137        165
+   138         14
+   151        170
+   152         14
+   179          1
+   194         91
+   195         10

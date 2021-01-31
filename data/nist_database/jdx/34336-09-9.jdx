@@ -1,0 +1,40 @@
+##TITLE=Library Entry 85792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.L. Poehland, Res. Dev. Div., SK&F Lab., Philadelphia,
+ Pa., USA
+##NAMES=HP
+##CAS NAME=3,4-Secodammara-4(28),24-dien-3-oic acid, 20-hydroxy-
+##MOLFORM=C30H50O3
+##CAS REGISTRY NO=34336-09-9
+##MP= -300
+##BP= -300
+##MW= 458
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        360
+    55        250
+    69        700
+    81        250
+    95        320
+   109        999
+   121        140
+   125         30
+   127        150
+   143         30
+   149        120
+   161         70
+   175         60
+   189         50
+   205         40
+   215         30
+   233         30
+   289         40
+   329         80
+   357         40
+   371        200
+   397         15
+   425         20
+   440        120

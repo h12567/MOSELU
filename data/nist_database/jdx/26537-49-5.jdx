@@ -1,0 +1,29 @@
+##TITLE=Library Entry 27076
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sydnone, 3-(3,3-dimethylbutyl)-
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=26537-49-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    55        180
+    56        100
+    57        999
+    58         50
+    69        320
+    70         80
+    85        320
+    86         20
+   112        130
+   113         10
+   127         50
+   155         50
+   170        350
+   171         20

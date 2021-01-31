@@ -1,0 +1,26 @@
+##TITLE=Library Entry 28700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=EQUINE DRUG TESTING PROG. J.D.HENION,ETAL CORNELL U, IT
+HACA, NY
+##NAMES=HP
+##CAS NAME=2-(1-Hydroxypropyl)promazine
+##MOLFORM=C20H26N2OS
+##CAS REGISTRY NO=110080-35-8
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    42        104
+    58        999
+    85        118
+    86        385
+   198        120
+   199         38
+   208         22
+   257         51
+   268         22
+   342         42

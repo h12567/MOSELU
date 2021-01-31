@@ -1,0 +1,51 @@
+##TITLE=Library Entry 33889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0091
+##NAMES=HP
+##CAS NAME=2,4(1H,3H)-Pyrimidinedione, 6-(trifluoromethyl)-
+##MOLFORM=C5H3F3N2O2
+##CAS REGISTRY NO=672-45-7
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    18         20
+    27         10
+    28         50
+    29         10
+    31         40
+    38         20
+    39         50
+    40        140
+    41         30
+    42         30
+    43         70
+    44         40
+    50         20
+    51         10
+    53         10
+    55         10
+    58         20
+    67         50
+    68        999
+    69        150
+    70         50
+    74         20
+    75         30
+    76         10
+    77         10
+    89         10
+    90         10
+    91         10
+    96         20
+   108         60
+   133         50
+   137        220
+   138         30
+   161         40
+   180        580
+   181         40

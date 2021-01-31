@@ -1,0 +1,61 @@
+##TITLE=Library Entry 57007
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.LLOYD PFLUG,FRANK J.SEILER RES.LAB.,USAF ACADEMY,CO 8
+0840,USA
+##NAMES=HP
+##CAS NAME=trans-1-Nitro-1-propene
+##MOLFORM=C3H5NO2
+##CAS REGISTRY NO=17082-05-2
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    12          7
+    13          4
+    15         23
+    16          5
+    18          4
+    24          4
+    25          8
+    26         32
+    27         31
+    28          5
+    29         29
+    30         97
+    36          5
+    37         42
+    38         79
+    39        697
+    40         42
+    41        267
+    42         28
+    43        184
+    44        251
+    45         16
+    46         47
+    48          5
+    50          4
+    51         21
+    52         18
+    53         11
+    54          6
+    55          7
+    56          3
+    57          1
+    58          1
+    59         14
+    60          4
+    61          4
+    68          4
+    71         21
+    72         14
+    73          4
+    74          4
+    86         13
+    87        999
+    88         46
+    89          6

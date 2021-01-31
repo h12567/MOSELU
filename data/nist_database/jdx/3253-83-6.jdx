@@ -1,0 +1,35 @@
+##TITLE=Library Entry 57220
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Xylofuranoside, methyl 3,5-di-O-methyl-
+##MOLFORM=C8H16O5
+##CAS REGISTRY NO=3253-83-6
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    45        761
+    57         88
+    58         44
+    59        102
+    71        184
+    73        105
+    74         85
+    75        341
+    85         44
+    87        999
+    88         41
+   100         20
+   101        208
+   102         17
+   115         47
+   117         17
+   129         17
+   132         92
+   147         88
+   161         17

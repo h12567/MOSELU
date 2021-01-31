@@ -1,0 +1,64 @@
+##TITLE=Library Entry 5868
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.ROPER HAMBURG UNIVERSITY, HAMBURG, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=N-Isopentyl-N-nitroso-pentylamine
+##MOLFORM=C10H22N2O
+##CAS REGISTRY NO=28023-80-5
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    29        417
+    30        457
+    32        250
+    34         17
+    35         13
+    36         12
+    37         29
+    38         33
+    39        225
+    40         75
+    41        583
+    42        583
+    43        999
+    44        541
+    45        125
+    47         17
+    50         16
+    51         24
+    52         13
+    53         46
+    54         42
+    55        343
+    56        159
+    57        292
+    58         33
+    59         14
+    60         21
+    61         18
+    68         18
+    69         73
+    70        246
+    71        171
+    72         15
+    74         22
+    80         20
+    81         17
+    84        146
+    85         15
+    86         17
+    87         20
+    98        233
+    99         26
+   100         63
+   113         54
+   117         63
+   129         42
+   130         16
+   169         25
+   186         18

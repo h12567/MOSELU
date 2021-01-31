@@ -1,0 +1,56 @@
+##TITLE=Library Entry 33318
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Iodo-2-methylpropionitrile
+##MOLFORM=C4H6IN
+##CAS REGISTRY NO=19481-79-9
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26         31
+    27         87
+    28         64
+    32          7
+    36          1
+    37         14
+    38         27
+    39        179
+    40         41
+    41        776
+    42        101
+    43         18
+    50          6
+    51         26
+    52         85
+    53         11
+    54         17
+    62          1
+    63          5
+    64         16
+    65         10
+    66         54
+    67         26
+    68        999
+    69        115
+    70         17
+    77          1
+    89          2
+    91         56
+    92         41
+    93          3
+    94          1
+   121          0
+   127        104
+   128         18
+   141          2
+   142          0
+   154          3
+   180          3
+   195        233
+   196         10

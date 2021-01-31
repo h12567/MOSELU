@@ -1,0 +1,41 @@
+##TITLE=Library Entry 81972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Isoxazole, 3-(4-methoxyphenyl)-5-phenyl-
+##MOLFORM=C16H13NO2
+##CAS REGISTRY NO=3672-52-4
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    77        550
+    78         30
+    89         80
+    90        280
+    91         20
+   102        300
+   103        290
+   104         20
+   105        999
+   106         70
+   118         70
+   119         60
+   132         90
+   133        570
+   134         60
+   146        100
+   147         10
+   149         90
+   174        170
+   175         20
+   220         30
+   236         50
+   250         30
+   251        770
+   252        120
+   253         10

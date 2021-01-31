@@ -1,0 +1,56 @@
+##TITLE=Library Entry 1818
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Spiro ( 6,6-dimethyl-2,3-diazobicyclo [3.1.0] hex-2-ene-4,1'-cycl
+opropane )
+##MOLFORM=C8H12N2
+##CAS REGISTRY NO=135485-30-2
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    37         66
+    38        191
+    39        999
+    40        255
+    41        414
+    42         70
+    43         12
+    50        166
+    51        255
+    52        138
+    53        234
+    54         85
+    55        111
+    56          8
+    62         22
+    63         86
+    64         41
+    65        162
+    66         92
+    67         99
+    68         12
+    69        112
+    77        420
+    78         71
+    79        204
+    80        128
+    81         39
+    82         13
+    90          7
+    91        371
+    92         22
+    93        375
+    94         33
+    95         19
+   107         35
+   109         22
+   121        129
+   122          6
+   135         29
+   136        195

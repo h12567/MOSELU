@@ -1,0 +1,44 @@
+##TITLE=Library Entry 65592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Benzenamine, 4,4'-azobis-
+##MOLFORM=C12H12N4
+##CAS REGISTRY NO=538-41-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28         15
+    39         78
+    40         24
+    41         16
+    43          1
+    44          3
+    51         30
+    52         65
+    53         39
+    54          8
+    63         42
+    64         44
+    65        340
+    66         50
+    77          5
+    79         30
+    80         32
+    91         40
+    92        999
+    93        103
+   105          8
+   106         63
+   107         21
+   108          4
+   115         27
+   120        231
+   141          4
+   212        483
+   213         68

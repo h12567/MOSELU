@@ -1,0 +1,60 @@
+##TITLE=Library Entry 86503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Oxypurinol
+##MOLFORM=C5H4N4O2
+##CAS REGISTRY NO=2465-59-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41         12
+    42         91
+    43        221
+    44         86
+    51        119
+    52        487
+    53        244
+    54         75
+    55         23
+    57          9
+    65         22
+    66         23
+    67         46
+    68         34
+    69         25
+    70         36
+    77         23
+    78         44
+    79         34
+    80         43
+    81         75
+    82         37
+    91         56
+    92         25
+    93         15
+    94         18
+    95         22
+    96         17
+    97         20
+   100         31
+   101         23
+   105          9
+   106         48
+   107         16
+   108         60
+   109        999
+   110         65
+   124         12
+   135         12
+   136         24
+   150         27
+   151         17
+   152        795
+   153         56

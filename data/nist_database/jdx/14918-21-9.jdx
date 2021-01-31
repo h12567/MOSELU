@@ -1,0 +1,61 @@
+##TITLE=Library Entry 18418
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Hexynenitrile
+##MOLFORM=C6H7N
+##CAS REGISTRY NO=14918-21-9
+##MP= -300
+##BP= -300
+##MW= 93
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          7
+    13         11
+    14         11
+    15          4
+    18          3
+    24          4
+    25         18
+    26        117
+    27        451
+    28        116
+    36         14
+    37        135
+    38        247
+    39        700
+    40        227
+    41        713
+    42         26
+    48          4
+    49         34
+    50        160
+    51        194
+    52        115
+    53        999
+    54        132
+    55          5
+    60          6
+    61         34
+    62         39
+    63         59
+    64         48
+    65        164
+    66        382
+    67         54
+    68          2
+    75          3
+    76          4
+    77          1
+    78         12
+    79          1
+    86          2
+    87          5
+    88          2
+    90          2
+    92        148
+    93         25
+    94          2

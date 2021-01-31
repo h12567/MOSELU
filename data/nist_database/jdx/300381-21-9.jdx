@@ -1,0 +1,64 @@
+##TITLE=Library Entry 78590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Diethyl 2-[2-benzamido-2-(5-chloro-2-pyridylcarbamoyl)-1-phenyl]v
+inylphosphonate
+##MOLFORM=C25H25ClN3O5P
+##CAS REGISTRY NO=300381-21-9
+##MP= -300
+##BP= -300
+##MW= 513
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37          9
+    38         15
+    39         58
+    41          7
+    42          8
+    43         57
+    44         15
+    45         56
+    47         47
+    50        127
+    51        331
+    52         31
+    53          8
+    61          6
+    62         31
+    63         50
+    64         18
+    65        120
+    73          6
+    74         33
+    75         54
+    76        133
+    77        881
+    78         96
+    79          7
+    81        144
+    82          6
+    87         12
+    88         48
+    89        136
+    90         27
+    91         46
+   101          8
+   102         32
+   103         41
+   105        999
+   106        117
+   107         12
+   109         42
+   114         38
+   115         82
+   116         57
+   117         24
+   127          8
+   128          6
+   129         13
+   132         17
+   196          6

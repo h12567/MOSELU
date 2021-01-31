@@ -1,0 +1,40 @@
+##TITLE=Library Entry 44686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, (propylthio)-, methyl ester
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=20600-65-1
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    24        110
+    39         80
+    41        290
+    42         80
+    43        530
+    44         20
+    45        300
+    46        130
+    47        330
+    48         10
+    59        140
+    61        190
+    62         10
+    74        999
+    75        830
+    76         70
+    77         70
+    89        280
+    90         30
+    91         80
+   106        130
+   107         10
+   148        430
+   149         60
+   150         20

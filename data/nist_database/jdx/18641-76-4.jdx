@@ -1,0 +1,40 @@
+##TITLE=Library Entry 38231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Methylamine, N-(1-butylhexylidene)-
+##MOLFORM=C11H23N
+##CAS REGISTRY NO=18641-76-4
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    29         90
+    30         30
+    39         20
+    41        101
+    42        515
+    43        111
+    54         10
+    55         70
+    56         40
+    57         30
+    68         20
+    70         20
+    71        999
+    72        121
+    84        151
+    85         50
+    98        303
+    99         30
+   112        222
+   113         60
+   126         70
+   127         40
+   140         80
+   141         10

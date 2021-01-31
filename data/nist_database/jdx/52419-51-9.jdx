@@ -1,0 +1,83 @@
+##TITLE=Library Entry 43210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.B.BOREN ARRHENIUS LAB., UNIVERSITY, STOCKHOLM, SWEDEN
+##NAMES=HP
+##CAS NAME=.beta.-D-Galactopyranoside, methyl 2,3,6-tris-O-(trimethylsilyl)-
+, acetate
+##MOLFORM=C18H40O7Si3
+##CAS REGISTRY NO=52419-51-9
+##MP= -300
+##BP= -300
+##MW= 452
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    43        210
+    44         50
+    45         80
+    59         50
+    69         30
+    72         20
+    73        999
+    74         70
+    75        280
+    81         30
+    89         90
+    93         80
+    95         30
+   101         30
+   103         80
+   116         30
+   117        280
+   118         20
+   119         60
+   129         80
+   131         50
+   132         60
+   133        220
+   134         20
+   142         90
+   143         40
+   145         50
+   146         20
+   147        160
+   148         20
+   149         30
+   155         30
+   157         20
+   159         20
+   161         30
+   169         20
+   189         30
+   191         40
+   204        990
+   205        260
+   206         80
+   217         30
+   231         80
+   232         20
+   233         10
+   243         50
+   244         30
+   245         20
+   260         80
+   261         20
+   273         10
+   287         23
+   288          7
+   289          6
+   291          7
+   303          5
+   305          2
+   317          9
+   318          2
+   332          3
+   333          5
+   345          8
+   346          2
+   347          2
+   377          3
+   405          3
+   437          2

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 25721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.W.A. MILNE
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 4-(1,1-dimethylethyl)-, cis-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=937-05-3
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=1225
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         80
+    28         70
+    29        110
+    31         10
+    39        100
+    40         20
+    41        300
+    42         20
+    43        110
+    44         30
+    45         10
+    50         10
+    51         20
+    52         10
+    53         50
+    54        100
+    55        180
+    56        360
+    57        999
+    58         50
+    65         10
+    66         10
+    67        450
+    68         40
+    69         60
+    70         20
+    71         10
+    77         20
+    78         10
+    79         50
+    80        350
+    81        370
+    82        520
+    83        300
+    84         20
+    95         30
+    96         10
+    97         10
+    98        110
+    99        480
+   100         30
+   101         90
+   102         10
+   123        200
+   124         10
+   138         20
+   141         30
+   156         70

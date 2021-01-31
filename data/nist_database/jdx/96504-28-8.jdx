@@ -1,0 +1,63 @@
+##TITLE=Library Entry 11475
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.-K. Shu ET AL. J.Agric. Food Chem.,33,638(1985)
+##NAMES=HP
+##CAS NAME=2,5-Dimethyl-2,4-dihydroxy-3(2H)-thiophenone
+##MOLFORM=C6H8O3S
+##CAS REGISTRY NO=96504-28-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27        134
+    28         15
+    29        100
+    39         27
+    41         19
+    42         31
+    43        999
+    44         73
+    45        111
+    47         19
+    53         38
+    54         11
+    55        222
+    56        142
+    57         80
+    58         80
+    59        360
+    60         92
+    61        203
+    62         11
+    64         11
+    67         19
+    69         31
+    71         69
+    72         38
+    73        119
+    74         15
+    76         77
+    77         46
+    83         15
+    85         42
+    88         27
+    89        268
+    90         42
+    99         31
+   101        100
+   104         15
+   116         15
+   117        529
+   118         42
+   119         27
+   127         11
+   128         23
+   132        180
+   141         11
+   143         11
+   160        452
+   161         31

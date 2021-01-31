@@ -1,0 +1,51 @@
+##TITLE=Library Entry 21212
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Succinimide, N-methoxy-
+##MOLFORM=C5H7NO3
+##CAS REGISTRY NO=5904-50-7
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26        100
+    27        239
+    28        570
+    29         76
+    30        297
+    31         24
+    39         12
+    40         19
+    41         50
+    42        179
+    43         67
+    44         71
+    45        230
+    46         19
+    52         16
+    53         19
+    54         81
+    55        999
+    56        215
+    57        151
+    58         26
+    69         40
+    70        110
+    71         48
+    72         36
+    73        100
+    80         28
+    82         28
+    83         16
+    84         21
+    98         71
+    99        767
+   100         74
+   101        100
+   129         48
+   130         14

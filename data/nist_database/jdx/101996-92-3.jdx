@@ -1,0 +1,51 @@
+##TITLE=Library Entry 88663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=2-Furanethanol, .beta.-methoxy-(S)-
+##MOLFORM=C7H10O3
+##CAS REGISTRY NO=101996-92-3
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27        150
+    28          7
+    29        170
+    30         30
+    31        190
+    32          1
+    38         50
+    39        230
+    40         40
+    41         30
+    42         20
+    43        110
+    44         25
+    45         30
+    50         40
+    51         80
+    52         60
+    53        220
+    55        180
+    65         50
+    66         20
+    68         65
+    69         65
+    81        350
+    82         40
+    83         55
+    94         95
+    95        240
+    96        200
+    97         25
+   110        160
+   111        999
+   112        330
+   113         30
+   142        370
+   143         30

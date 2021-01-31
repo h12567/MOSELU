@@ -1,0 +1,46 @@
+##TITLE=Library Entry 55108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 1,1-dimethylpropyl ester
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=117421-32-6
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26         24
+    27        277
+    28        101
+    29        432
+    38         24
+    39        275
+    40         27
+    41        458
+    42        224
+    43        824
+    44         81
+    51         49
+    53         57
+    54         27
+    55        615
+    56        139
+    57        636
+    58         49
+    59         74
+    60         46
+    70        694
+    71        970
+    72         60
+    73         34
+    74         12
+    77         21
+    78         21
+    85        999
+    86         44
+   157         16
+   158          2

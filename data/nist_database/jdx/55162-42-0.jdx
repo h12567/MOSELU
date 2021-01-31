@@ -1,0 +1,42 @@
+##TITLE=Library Entry 23830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Thiophenecarboxylic acid, 5-(1,1-dimethylethoxy)-, ethyl ester
+##MOLFORM=C11H16O3S
+##CAS REGISTRY NO=55162-42-0
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    40         98
+    41        563
+    42         42
+    43         56
+    44         70
+    45        140
+    55        140
+    56        140
+    57        999
+    58         56
+    70        112
+    71        140
+    72        140
+    73         56
+    99         98
+   100        140
+   116         70
+   126        140
+   127        295
+   128         70
+   144        197
+   157         70
+   172        450
+   173        112
+   174         56
+   184         70
+   213         14

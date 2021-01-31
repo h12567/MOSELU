@@ -1,0 +1,32 @@
+##TITLE=Library Entry 51426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,10-Dioxatricyclo[4.3.1.0(2,4)]dec-7-ene, (1.alpha.,2.alpha.,4.a
+lpha.,6.alpha.)-
+##MOLFORM=C8H10O2
+##CAS REGISTRY NO=50267-08-8
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        250
+    41        220
+    53        210
+    54        160
+    55        230
+    66        170
+    67        210
+    68        350
+    77        210
+    79        509
+    81        649
+    82        999
+    91        110
+    95        220
+   109        130
+   138        120

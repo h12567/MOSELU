@@ -1,0 +1,63 @@
+##TITLE=Library Entry 2113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethanone, 1-cyclopropyl-, oxime
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=51761-72-9
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25         12
+    26        132
+    27        392
+    28        322
+    29        196
+    30        172
+    31        158
+    32          6
+    33          6
+    37         82
+    38        189
+    39        913
+    40         49
+    41        999
+    42        750
+    43        169
+    44         42
+    45         11
+    49         12
+    50         48
+    51         68
+    52         72
+    53        165
+    54        130
+    55        446
+    56        113
+    57        150
+    58        223
+    59         23
+    62         12
+    63         17
+    64         17
+    65         63
+    66         86
+    67        317
+    68         52
+    69         12
+    70         22
+    73         33
+    80         97
+    81         80
+    82        525
+    83         56
+    84        370
+    85         14
+    98        459
+    99        343
+   100         21

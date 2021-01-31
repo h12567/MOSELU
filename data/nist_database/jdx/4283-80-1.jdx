@@ -1,0 +1,86 @@
+##TITLE=Library Entry 6283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CONTINENTAL OIL CO., PONCA CITY, OKLAHOMA, USA
+##NAMES=HP
+##CAS NAME=Pentane, 2-bromo-2-methyl-
+##MOLFORM=C6H13Br
+##CAS REGISTRY NO=4283-80-1
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=890
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    13          4
+    14         15
+    15        108
+    16          4
+    25          2
+    26         34
+    27        304
+    28         58
+    29        203
+    30          5
+    36          2
+    37         13
+    38         35
+    39        303
+    40         61
+    41        649
+    42         76
+    43        999
+    44         33
+    45         16
+    49          2
+    50         17
+    51         26
+    52         10
+    53         58
+    54         13
+    55        138
+    56        124
+    57        101
+    58         10
+    59         44
+    60          5
+    61          3
+    62          4
+    63          6
+    64          0
+    65          7
+    66          4
+    67         25
+    68          7
+    69        286
+    70         17
+    71          3
+    72          0
+    73          5
+    74          2
+    77          2
+    78          0
+    79         18
+    80         15
+    81         20
+    82         14
+    83          8
+    84         80
+    85        548
+    86         35
+    87          9
+    88          0
+    93          2
+    95          2
+    96          1
+   107          4
+   109          3
+   121          7
+   122          1
+   123          7
+   124          1
+   135          2
+   138          2
+   164          0
+   166          0

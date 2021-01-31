@@ -1,0 +1,62 @@
+##TITLE=Library Entry 16218
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexanone, dimethylhydrazone
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=10424-93-8
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        386
+    42        495
+    43        514
+    44        999
+    45        435
+    46         79
+    50          9
+    51         19
+    52         19
+    53         69
+    54        128
+    55        287
+    56         49
+    57         29
+    58         69
+    59         29
+    65          9
+    66         19
+    67         99
+    68         69
+    69        326
+    70         39
+    71         19
+    72         19
+    77         19
+    79         29
+    80          9
+    81         39
+    82         59
+    83         29
+    84         69
+    85          9
+    94         39
+    95         19
+    96        297
+    97         99
+    98         29
+   108          9
+   109          9
+   111         19
+   112          9
+   125        217
+   126         29
+   139         49
+   140        990
+   141         99

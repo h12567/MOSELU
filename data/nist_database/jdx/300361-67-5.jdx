@@ -1,0 +1,47 @@
+##TITLE=Library Entry 36930
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=3,3'-Bi-(1,2,4-4H-triazole), 5,5'-di(trifluoroacetylamino)-
+##MOLFORM=C8H4F6N8O2
+##CAS REGISTRY NO=300361-67-5
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39         11
+    40         19
+    43         38
+    44         81
+    45        348
+    49          9
+    50        262
+    51         47
+    52          6
+    53         87
+    67         35
+    69        999
+    78         19
+    84         17
+    97         42
+   110         13
+   136        220
+   137          6
+   138          5
+   158         26
+   180         81
+   188         31
+   206        291
+   207         19
+   208          5
+   219         52
+   220         13
+   241         11
+   289         77
+   339         43
+   358        429
+   359         67

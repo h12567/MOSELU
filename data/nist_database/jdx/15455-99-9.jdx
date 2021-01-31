@@ -1,0 +1,25 @@
+##TITLE=Library Entry 82804
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.E.SAALFELD CHEM. DEPT., U.S. NAVAL RES. LAB., WASH. D
+.C.
+##NAMES=HP
+##CAS NAME=Arsine, silyl-
+##MOLFORM=AsH5Si
+##CAS REGISTRY NO=15455-99-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    75        561
+    76        423
+    77        426
+   103        416
+   104        901
+   105        225
+   106        999
+   107        181
+   108        590

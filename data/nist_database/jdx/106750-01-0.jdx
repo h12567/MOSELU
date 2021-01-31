@@ -1,0 +1,64 @@
+##TITLE=Library Entry 40997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. Keller-Schierlein, Lab. Org. Chem., Swiss Tech. Univ
+., Zurich, Switzerland
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2,3,4-trihydroxy-6-methyl-, [2S-(2.alpha.,3.beta.,
+4.beta.,6.alpha.)]-
+##MOLFORM=C7H12O4
+##CAS REGISTRY NO=106750-01-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         40
+    18         60
+    19         50
+    27        160
+    28        100
+    29        160
+    31        130
+    39        130
+    41        330
+    42        200
+    43        300
+    44        100
+    45         70
+    53         60
+    55        160
+    56        240
+    57        800
+    58        110
+    60        200
+    67         80
+    68         60
+    69        200
+    70        160
+    71        250
+    72        100
+    73        999
+    74        380
+    81         60
+    83         80
+    85         70
+    86        130
+    87        600
+    88        310
+    95         50
+    96        110
+    97        100
+   100        150
+   111         40
+   113        150
+   114        190
+   124         90
+   125         20
+   127         10
+   129         20
+   142         80
+   160         90
+   161          7

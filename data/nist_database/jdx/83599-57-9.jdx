@@ -1,0 +1,90 @@
+##TITLE=Library Entry 40323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Dimethylamine, N-pentafluoropropionyl-
+##MOLFORM=C5H6F5NO
+##CAS REGISTRY NO=83599-57-9
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15         28
+    18         19
+    27          5
+    28         28
+    29          4
+    30          2
+    31         19
+    33          3
+    38          1
+    39          2
+    40         11
+    41         19
+    42        171
+    43         53
+    44         20
+    45          2
+    46          1
+    47          1
+    50         14
+    51          5
+    52          1
+    54          2
+    56         56
+    57          5
+    58          6
+    60          6
+    62          1
+    63          1
+    64          2
+    65          1
+    69        131
+    70          4
+    72        999
+    73         37
+    74          3
+    75          1
+    76          2
+    78         31
+    79          2
+    81          7
+    90          2
+    91          2
+    92          1
+    93          5
+    94         17
+    95          2
+    96          1
+    98          5
+   100         31
+   101          7
+   109         11
+   110         17
+   112         58
+   113          3
+   119        321
+   120          8
+   122          9
+   123          1
+   128         31
+   129          4
+   144         74
+   145          3
+   147         37
+   148          2
+   160         15
+   161          1
+   162          3
+   172         26
+   173          2
+   176         27
+   177          1
+   190         95
+   191        677
+   192         42
+   193          3

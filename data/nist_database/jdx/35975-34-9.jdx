@@ -1,0 +1,41 @@
+##TITLE=Library Entry 4918
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.R.BAROT UNIV. OF SURREY, GUILDFORD, SURREY, UK
+##NAMES=HP
+##CAS NAME=1(2H)-Pyrazineacetonitrile, 5-amino-3,6-dihydro-3-imino-
+##MOLFORM=C6H9N5
+##CAS REGISTRY NO=35975-34-9
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    40        190
+    41        590
+    42        999
+    43        410
+    53         10
+    54         10
+    55         60
+    56         10
+    57         10
+    58         10
+    67         60
+    68        110
+    69         90
+    82         90
+    83        780
+    84         50
+    98          5
+   108         10
+   109          5
+   110          5
+   111         40
+   123         10
+   124         30
+   125          5
+   151         90
+   152          5

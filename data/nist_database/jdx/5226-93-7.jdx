@@ -1,0 +1,30 @@
+##TITLE=Library Entry 47343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Sydnone, 4-chloro-3-phenyl-
+##MOLFORM=C8H5ClN2O2
+##CAS REGISTRY NO=5226-93-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        130
+    50        200
+    51        340
+    63         60
+    74         70
+    75         70
+    76        160
+    77        999
+    78         80
+   103        110
+   138        770
+   139         70
+   140        300
+   196        130
+   198         40

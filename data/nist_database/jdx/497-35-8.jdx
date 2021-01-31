@@ -1,0 +1,45 @@
+##TITLE=Library Entry 48644
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VAINIOTALO, DEPT. CHEM., UNIV. JOENSUU, JOENSUU, FIN
+LAND
+##NAMES=HP
+##CAS NAME=2-Methylenebicyclo[2.2.1]-heptane
+##MOLFORM=C8H12
+##CAS REGISTRY NO=497-35-8
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    38         16
+    39        189
+    40         46
+    41        173
+    42         11
+    50         28
+    51         73
+    52         50
+    53         82
+    54        109
+    55         22
+    63         19
+    65        103
+    66        836
+    67        309
+    68         51
+    77        316
+    78        132
+    79        999
+    80        390
+    81         36
+    91        220
+    92         27
+    93        700
+    94         54
+   105         19
+   107         51
+   108        518
+   109         49

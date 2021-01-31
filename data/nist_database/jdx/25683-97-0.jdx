@@ -1,0 +1,79 @@
+##TITLE=Library Entry 99364
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propane, 2-cyclohexyl-2-phenyl-
+##MOLFORM=C15H22
+##CAS REGISTRY NO=25683-97-0
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         29
+    29         25
+    30          0
+    33          3
+    34          1
+    38          2
+    39         47
+    40         15
+    41        178
+    42          6
+    43         10
+    44          0
+    50          5
+    51         31
+    52          5
+    53         18
+    54          7
+    55         59
+    56          3
+    57          3
+    63          9
+    64          5
+    65         14
+    66          1
+    67         13
+    68          1
+    69          8
+    75          2
+    76          3
+    77         47
+    78         23
+    79         35
+    80          2
+    81          4
+    82          3
+    83         14
+    84          1
+    89          5
+    91        244
+    92         19
+    97          2
+   101          0
+   102          7
+   103         30
+   104         14
+   105        111
+   106         13
+   115         28
+   116          8
+   117         24
+   118        225
+   119        999
+   120        185
+   121         14
+   127          4
+   128          8
+   129          4
+   131         10
+   141          1
+   143          1
+   145          1
+   202         43
+   203          7

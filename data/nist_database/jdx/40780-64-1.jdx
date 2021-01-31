@@ -1,0 +1,59 @@
+##TITLE=Library Entry 10771
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=3-Hexanol, acetate
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=40780-64-1
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         10
+    26          3
+    27         46
+    28         11
+    29         42
+    30          2
+    31         11
+    37          1
+    39         37
+    40          6
+    41         81
+    42         61
+    43        999
+    44         30
+    45          8
+    50          2
+    52          1
+    53         10
+    54          8
+    55        113
+    56         74
+    57         31
+    58         12
+    59         23
+    61         21
+    63          1
+    67          5
+    69         63
+    70          3
+    71         16
+    72          6
+    73         32
+    74          2
+    84        145
+    85         25
+    86         11
+    87         16
+   101        260
+   102         15
+   103          2
+   115        227
+   116         25
+   144          2

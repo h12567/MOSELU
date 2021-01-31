@@ -1,0 +1,81 @@
+##TITLE=Library Entry 65228
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8870
+##NAMES=HP
+##CAS NAME=Methyl 2-pyridylacetate
+##MOLFORM=C8H9NO2
+##CAS REGISTRY NO=1658-42-0
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    14          2
+    15        106
+    16          1
+    26         13
+    27         19
+    28         20
+    29         10
+    30          2
+    31          7
+    37         10
+    38         36
+    39        210
+    40         23
+    41         25
+    42         15
+    43          2
+    44          2
+    45          3
+    46          9
+    49          2
+    50         34
+    51         71
+    52         49
+    53         11
+    54          5
+    55          2
+    59        179
+    60          5
+    61          6
+    62         15
+    63         64
+    64         71
+    65        488
+    66         87
+    67         11
+    68          3
+    75          2
+    76          4
+    77         11
+    78         35
+    79         90
+    80         18
+    81          2
+    88          1
+    90          5
+    91         50
+    92        999
+    93        688
+    94         47
+    95          2
+   104          1
+   106        119
+   107         24
+   108         50
+   109         37
+   110          3
+   119        164
+   120        189
+   121         14
+   122          2
+   136         95
+   137          7
+   150          2
+   151        242
+   152         30
+   153          3

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 36437
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.MULLER CHEM. INST., THE UNIV., TUBINGEN, GERMANY, F.R
+.G
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 1,1,1,5,5,5-hexafluoro-4-mercapto-
+##MOLFORM=C5H2F6OS
+##CAS REGISTRY NO=56666-70-7
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    69        999
+    75        210
+    85        610
+    86         30
+    87         70
+    95        230
+    97         70
+   107        240
+   113        120
+   155        640
+   156         40
+   157         60
+   185        190
+   204         90
+   223        190
+   224        250
+   225         20

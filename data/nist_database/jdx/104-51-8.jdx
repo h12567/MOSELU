@@ -1,0 +1,73 @@
+##TITLE=Library Entry 60639
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 144
+##NAMES=HP
+##CAS NAME=Benzene, n-butyl-
+##MOLFORM=C10H14
+##CAS REGISTRY NO=104-51-8
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=1054
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          4
+    26          5
+    27         58
+    28          9
+    29         21
+    32          3
+    37          2
+    38          7
+    39         74
+    40          6
+    41         42
+    42          3
+    43         21
+    50         19
+    51         61
+    52         15
+    53          9
+    55          5
+    56          4
+    57          3
+    58          1
+    61          1
+    62          7
+    63         31
+    64          9
+    65        124
+    66          8
+    69          2
+    73          3
+    74          6
+    75          7
+    76          7
+    77         64
+    78         67
+    79         35
+    80          3
+    87          2
+    89         23
+    90          9
+    91        999
+    92        596
+    93         42
+    94          1
+   102          7
+   103         27
+   104         21
+   105         92
+   106         12
+   115         14
+   116          4
+   117          8
+   119         10
+   128          2
+   133          1
+   134        262
+   135         28
+   136          1

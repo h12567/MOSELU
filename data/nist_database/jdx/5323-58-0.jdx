@@ -1,0 +1,81 @@
+##TITLE=Library Entry 46399
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-Hydroxy-6-methoxy-8-nitroquinoline
+##MOLFORM=C10H8N2O4
+##CAS REGISTRY NO=5323-58-0
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    41         46
+    43         81
+    46        137
+    49         26
+    50        367
+    51        659
+    52        109
+    53        369
+    54         21
+    55         24
+    61        140
+    62        104
+    63        326
+    64         52
+    65        110
+    66         10
+    67         38
+    69        100
+    73          7
+    74        139
+    75        290
+    76        999
+    77        112
+    78        142
+    79        163
+    83          7
+    84         13
+    86        109
+    87         38
+    88        143
+    89        268
+    91        428
+    99         33
+   101         16
+   102        599
+   103        641
+   104         53
+   106        330
+   114        103
+   115         39
+   116        123
+   117        382
+   118         30
+   119         90
+   128         75
+   130        311
+   131         92
+   142         49
+   143         11
+   144         41
+   145          8
+   146         94
+   147         72
+   158        244
+   159         27
+   161         11
+   162         69
+   173          7
+   174         76
+   190        826
+   191         37
+   203         14
+   204         23
+   220        773
+   221        103

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 83986
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Pyridine-3-carbonitrile, 1,4,5,6-tetrahydro-
+##MOLFORM=C6H8N2
+##CAS REGISTRY NO=7492-87-7
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         32
+    27        106
+    28        270
+    29         42
+    30         28
+    37         13
+    38         23
+    39         74
+    40         22
+    41         74
+    42         30
+    43         17
+    49          5
+    50         28
+    51         73
+    52        147
+    53        312
+    54        116
+    55         41
+    56         42
+    57         14
+    63          6
+    64         14
+    65         13
+    66         51
+    67         61
+    68        377
+    69         21
+    71          4
+    75          9
+    76         15
+    77         12
+    78         62
+    79         86
+    80        351
+    81        157
+    82         39
+    83          5
+    90          3
+    91          3
+    92         32
+    93        166
+    94         11
+   103          3
+   104          5
+   105         74
+   106         16
+   107        999
+   108        820
+   109         60
+   110          4

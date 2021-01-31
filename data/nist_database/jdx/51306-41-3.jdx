@@ -1,0 +1,51 @@
+##TITLE=Library Entry 88424
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Erythro-Pentos-2-ulose, bis[(2-fluorophenyl)hydrazone]
+##MOLFORM=C17H18F2N4O3
+##CAS REGISTRY NO=51306-41-3
+##MP= -300
+##BP= -300
+##MW= 364
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    55         56
+    57        181
+    70         56
+    73         30
+    75         67
+    82         56
+    83        664
+    84        169
+    95        664
+   109        188
+   110        981
+   111        999
+   112        200
+   122        298
+   123        211
+   126        196
+   137         67
+   163         30
+   164         52
+   176        135
+   191         75
+   192        313
+   193         49
+   194         26
+   204         49
+   205        105
+   206        392
+   230         30
+   248         60
+   266        105
+   285        132
+   286         60
+   298         56
+   299        264
+   300        150
+   315         49

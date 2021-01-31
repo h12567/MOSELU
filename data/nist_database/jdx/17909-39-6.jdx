@@ -1,0 +1,64 @@
+##TITLE=Library Entry 42796
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Bis(heptamethylcyclotetrasiloxy)siloxane
+##MOLFORM=C14H42O9Si8
+##CAS REGISTRY NO=17909-39-6
+##MP= -300
+##BP= -300
+##MW= 578
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    57         72
+    58         28
+    59         32
+    73        999
+    74        114
+    75         44
+    87         19
+   117         20
+   131         15
+   133         18
+   147        518
+   148         71
+   149          4
+   207         22
+   208          4
+   221         49
+   222         18
+   265         12
+   267         16
+   281         42
+   282         20
+   283         18
+   341        103
+   342         33
+   343         28
+   353         14
+   354          9
+   401        103
+   402         34
+   403         33
+   404          9
+   443         16
+   444          6
+   457         81
+   458         46
+   459         28
+   460          8
+   475        261
+   476        120
+   477         97
+   478         26
+   479         11
+   547         16
+   548          8
+   563        328
+   564        171
+   565        137
+   566         45
+   567         24

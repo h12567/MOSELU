@@ -1,0 +1,49 @@
+##TITLE=Library Entry 12026
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=N,O-Diacetyl-4-hydroxytranylcypromine
+##MOLFORM=C13H15NO3
+##CAS REGISTRY NO=138249-12-4
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    42         46
+    43        999
+    55         42
+    56         77
+    60        159
+    65         44
+    77        114
+    78         28
+    84        338
+    91         83
+   103         88
+   104         32
+   107         75
+   120        115
+   121        179
+   122         48
+   131        190
+   132        881
+   133        129
+   146         31
+   148        423
+   149        151
+   162         17
+   174         39
+   175          5
+   176          5
+   190          7
+   191        142
+   192         17
+   204          5
+   205          0
+   233          7
+   234          1

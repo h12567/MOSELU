@@ -1,0 +1,42 @@
+##TITLE=Library Entry 114446
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=STER ANDR TMSI SE30 01 2560 E M.HORN
+##NAMES=HP
+##CAS NAME=Androst-5-en-16-one, 3-[(trimethylsilyl)oxy]-, (3.beta.)-
+##MOLFORM=C22H36O2Si
+##CAS REGISTRY NO=49774-91-6
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    73         80
+    75         40
+    81         20
+    93         40
+    95         20
+   107         30
+   109         20
+   119         20
+   121         40
+   129        999
+   130        120
+   131         50
+   143         20
+   145         20
+   173         20
+   213         20
+   230         30
+   231        120
+   232         20
+   255         70
+   270        120
+   271         20
+   304        170
+   305         40
+   345         30
+   360         70
+   361         20

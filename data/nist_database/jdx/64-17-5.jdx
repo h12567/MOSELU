@@ -1,0 +1,38 @@
+##TITLE=Library Entry 1489
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Ethanol
+##MOLFORM=C2H6O
+##CAS REGISTRY NO=64-17-5
+##MP= -300
+##BP= -300
+##MW= 46
+##$RETENTION INDEX=427
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    12          2
+    13         13
+    14         14
+    15         66
+    17          7
+    18          5
+    19         27
+    24          6
+    25         24
+    26         98
+    27        224
+    28         34
+    29        298
+    30         81
+    31        999
+    33          3
+    41         13
+    42         47
+    43        114
+    44          7
+    45        514
+    46        216
+    47          7

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 77924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JLACBF, 1979 ( )200(1979); D. BRAUN AND J. WEINERT
+##NAMES=HP
+##CAS NAME=2-Oxazolidinone, 5,5'-(1,4-phenylene)bis[3-phenyl-
+##MOLFORM=C24H20N2O4
+##CAS REGISTRY NO=69974-31-8
+##MP= -300
+##BP= -300
+##MW= 400
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    44        180
+    77        970
+    91        570
+   104        999
+   105        310
+   117        750
+   118        310
+   162        200
+   194        700
+   209        170
+   220        260
+   253        180
+   311        160
+   355        990
+   356        610
+   400        760
+   401        210

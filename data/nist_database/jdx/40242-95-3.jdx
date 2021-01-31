@@ -1,0 +1,77 @@
+##TITLE=Library Entry 5968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.L.BORGNA ECOLE NAT. SUP., MONTPELLIER, FRANCE
+##NAMES=HP
+##CAS NAME=Cholestan-19-ol, 5,6-epoxy-3-fluoro-, acetate, (3.beta.,5.beta.,6
+.beta.)-
+##MOLFORM=C29H47FO3
+##CAS REGISTRY NO=40242-95-3
+##MP= -300
+##BP= -300
+##MW= 462
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    41        450
+    43        999
+    53         95
+    55        434
+    56         65
+    57        340
+    65         52
+    67        234
+    68         52
+    69        226
+    71        139
+    73         65
+    77        113
+    79        230
+    80         52
+    81        265
+    83         95
+    91        254
+    92         60
+    93        203
+    94         60
+    95        200
+    97         56
+   105        165
+   106         52
+   107        173
+   108        108
+   109        104
+   112         82
+   119         95
+   121        104
+   122        126
+   123         69
+   129        100
+   131        100
+   133         91
+   134         56
+   135        106
+   141        356
+   142         78
+   143         75
+   145        130
+   147         65
+   149         52
+   155         60
+   161         65
+   163        173
+   187         86
+   247         73
+   262         65
+   275         52
+   291        100
+   370         34
+   371         34
+   372         34
+   390         43
+   402        152
+   403         73
+   419         82
+   420         80
+   462         52

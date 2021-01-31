@@ -1,0 +1,35 @@
+##TITLE=Library Entry 3525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER UNIV. OF COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetrazine, 3,6-dipropyl-
+##MOLFORM=C8H14N4
+##CAS REGISTRY NO=13717-92-5
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    14         67
+    17         51
+    26         56
+    27        351
+    28        292
+    29        684
+    38         26
+    39        126
+    40         72
+    41        999
+    42        106
+    43        807
+    44         27
+    52         30
+    54        104
+    58         39
+    69         53
+    70        886
+    71         50
+   166         37

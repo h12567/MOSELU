@@ -1,0 +1,33 @@
+##TITLE=Library Entry 79943
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=BMSYAL, 6(3)117(1979); R. M. THOMPSON AND D. A. CORY
+##NAMES=HP
+##CAS NAME=Xylitol, pentabenzoate
+##MOLFORM=C40H32O10
+##CAS REGISTRY NO=36030-82-7
+##MP= -300
+##BP= -300
+##MW= 672
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    77        610
+   105        999
+   122         47
+   202         71
+   269        280
+   281         44
+   282         49
+   294         12
+   306         27
+   311         41
+   323         73
+   324         59
+   331         73
+   403        250
+   428        120
+   537         37
+   550          3
+   551          3

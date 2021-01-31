@@ -1,0 +1,26 @@
+##TITLE=Library Entry 55291
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silacyclopentane, 1,1,2,5-tetramethyl-
+##MOLFORM=C8H18Si
+##CAS REGISTRY NO=55956-01-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    27        380
+    43        150
+    58        120
+    59        220
+    72        150
+    73        200
+    85        999
+    86        350
+   100        989
+   127        150
+   142        250

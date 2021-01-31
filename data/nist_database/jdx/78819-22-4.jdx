@@ -1,0 +1,43 @@
+##TITLE=Library Entry 87255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Vinyl(2-thienyl)dichlorosilane
+##MOLFORM=C6H6Cl2SSi
+##CAS REGISTRY NO=78819-22-4
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        112
+    45         88
+    51         50
+    58        141
+    84        277
+    85         19
+    86          8
+    99         31
+   101         19
+   110        999
+   111         78
+   112         51
+   147         31
+   149          9
+   155         30
+   157         20
+   173         32
+   175         20
+   181        161
+   182         19
+   183        110
+   184          8
+   185         20
+   208        151
+   209         18
+   210        112
+   211          8
+   212         30

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 13880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5-(Acetamido)butyl-2-thioxoimidazolidin-4-one
+##MOLFORM=C9H15N3O2S
+##CAS REGISTRY NO=64419-97-2
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        269
+    43        999
+    59        260
+    60        249
+    69        357
+    71        281
+    72        377
+    82        178
+    86        221
+    96         29
+    97         68
+    98         60
+    99         89
+   100         88
+   101        202
+   102         48
+   110         60
+   111         60
+   112        170
+   113         40
+   114         70
+   116        179
+   124         60
+   125         29
+   126         50
+   127        160
+   128        188
+   129         80
+   130         40
+   141         80
+   142         50
+   143         79
+   150         69
+   154         40
+   157         49
+   158         30
+   159         40
+   169        100
+   170        399
+   171         60
+   172         40
+   186         40
+   187        350
+   188         60
+   189         39
+   211         40
+   227         80
+   229        699
+   230        109
+   231         49

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 109009
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O. THEANDER,DEP. CHEM. MOL. BIOL.,SWED. UNIV. AGRIC.,UP
+P
+##NAMES=HP
+##CAS NAME=5-Acetyl-2-furanmethanol
+##MOLFORM=C7H8O3
+##CAS REGISTRY NO=55087-82-6
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=2531
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    43        830
+    50        110
+    51        170
+    52        120
+    53         90
+    55         40
+    66         30
+    68         50
+    69        610
+    70         30
+    79         40
+    80         40
+    81        100
+    95         70
+    97        800
+    98         50
+   111        160
+   123        140
+   125        999
+   126         70
+   139         50
+   140        770

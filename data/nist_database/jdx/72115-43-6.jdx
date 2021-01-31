@@ -1,0 +1,87 @@
+##TITLE=Library Entry 56940
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N-[6-[4-Chlorophenyl]-1,2,4,5-tetrazin-3-yl]-N',N'-diethyl-1,2-et
+hanediamine
+##MOLFORM=C15H21ClN6
+##CAS REGISTRY NO=72115-43-6
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    42         67
+    43         12
+    44         14
+    47          5
+    49          2
+    50          8
+    51          1
+    53          6
+    54          6
+    55         10
+    56         42
+    58         83
+    59          2
+    62          2
+    63          1
+    67          2
+    69         45
+    70         11
+    71          9
+    72          4
+    73          4
+    75         23
+    76         11
+    77          2
+    82          1
+    83          7
+    84         42
+    86        999
+    87         56
+    95          2
+    97          3
+    98          4
+    99         12
+   100          4
+   102         57
+   109          4
+   111          7
+   112          2
+   113          7
+   124          2
+   126          1
+   127          1
+   137         96
+   138         12
+   139         36
+   140          5
+   141          2
+   152          1
+   154          1
+   155          2
+   192          2
+   194          1
+   207          2
+   209          2
+   223          1
+   234         10
+   235         24
+   236          6
+   237          9
+   248          3
+   249         21
+   250          3
+   251          6
+   292         12
+   293          1
+   294          3
+   320        107
+   321         18
+   322         37
+   323          6

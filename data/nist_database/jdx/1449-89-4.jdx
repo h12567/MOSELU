@@ -1,0 +1,57 @@
+##TITLE=Library Entry 18806
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KENTTAEMAA, DEP. CHEM., HELSINKI UNIV., FINLAND
+##NAMES=HP
+##CAS NAME=4-Methyl-2,6,7-trioxa-1-phosphabicyclo[2.2.2]octane 1-oxide
+##MOLFORM=C5H9O4P
+##CAS REGISTRY NO=1449-89-4
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        310
+    28        140
+    29        290
+    31         80
+    39        900
+    40         80
+    41        510
+    42        270
+    43        170
+    47        220
+    53        270
+    54        999
+    55        300
+    56         60
+    57        190
+    65        200
+    66        370
+    67         30
+    69        350
+    70        800
+    71        180
+    81         30
+    82         30
+    83         70
+    84         70
+    99        840
+   105         50
+   106        180
+   111         30
+   113         30
+   116         30
+   119         40
+   123         80
+   125         40
+   133         90
+   134        270
+   135         30
+   136        990
+   137        440
+   149        200
+   164        730
+   165         50

@@ -1,0 +1,77 @@
+##TITLE=Library Entry 65880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH. EPA-PTSEL, 610
+0
+##NAMES=HP
+##CAS NAME=Urea, N-(2-methylcyclohexyl)-N'-phenyl-
+##MOLFORM=C14H20N2O
+##CAS REGISTRY NO=1982-49-6
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=2132
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    14          5
+    15          5
+    16          3
+    18          5
+    26          5
+    27         58
+    28         60
+    29         54
+    30         48
+    37          4
+    38         15
+    39         83
+    40         19
+    41        124
+    42         44
+    43        108
+    44         19
+    45          0
+    50         13
+    51         39
+    52         14
+    53         21
+    54         21
+    55        165
+    56        160
+    57         25
+    63         15
+    64         21
+    65         62
+    66         54
+    67         26
+    68         13
+    69         21
+    70         51
+    71          0
+    76          2
+    77         78
+    78          8
+    79          3
+    81         14
+    82          9
+    83          1
+    84          3
+    91         26
+    92         44
+    93        999
+    94        123
+    95         14
+    96          4
+    97         25
+    98          2
+   112         12
+   113          3
+   119         34
+   120         15
+   135         20
+   136         20
+   137         20
+   160          1
+   232         47
+   233          6

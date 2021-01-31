@@ -1,0 +1,44 @@
+##TITLE=Library Entry 4921
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.May ET.AL. JAOCS, 60,990(1983)
+##NAMES=HP
+##CAS NAME=4-Oxo-trans-2-octenal
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=2497-14-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1162
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    37        150
+    38        269
+    39        265
+    40        276
+    41        499
+    42        999
+    53         93
+    55        523
+    56        347
+    57        313
+    59        267
+    67         49
+    68         60
+    69        188
+    70        203
+    71         60
+    72         99
+    81         75
+    82         38
+    83        545
+    84        126
+    85        102
+    96         62
+    97        102
+    98         35
+   110         15
+   111        141
+   112         49
+   140        117

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 109842
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Naphthalenepentanoic acid, decahydro-2-hydroxy-.beta.,2,5,5,8a-
+pentamethyl-, methyl ester, [1S-[1.alpha.(S*),2.beta.,4a.beta.,8a.alpha.]]-
+##MOLFORM=C21H38O3
+##CAS REGISTRY NO=3950-05-8
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+   101        719
+   109        779
+   123        559
+   124        889
+   125        999
+   137        260
+   144        899
+   177        300
+   185        320
+   235        120
+   267        130
+   305         70
+   306         50
+   307         50
+   320         40
+   323         20
+   338         80

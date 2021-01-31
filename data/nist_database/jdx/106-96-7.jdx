@@ -1,0 +1,52 @@
+##TITLE=Library Entry 1886
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4404
+##NAMES=HP
+##CAS NAME=1-Propyne, 3-bromo-
+##MOLFORM=C3H3Br
+##CAS REGISTRY NO=106-96-7
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=630
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          4
+    14          3
+    24          6
+    25         13
+    26         10
+    27          3
+    36         22
+    37        132
+    38        240
+    39        999
+    40         33
+    41          1
+    42          1
+    58          1
+    59          2
+    65          3
+    74          3
+    79         26
+    80          7
+    81         26
+    82          7
+    91          4
+    92          1
+    93          5
+    94          1
+    95          1
+   103          1
+   104          1
+   105          1
+   115          1
+   116          4
+   117         11
+   118        242
+   119         17
+   120        230
+   121          8

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 57866
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-3,4-di-O-methyl.alpha.l-rhamnopyranoside
+##MOLFORM=C9H18O5
+##CAS REGISTRY NO=4348-82-7
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    59        100
+    72        515
+    73          8
+    74        838
+    75        680
+    87        178
+    88        999
+   101        178
+   114         70
+   115         33
+   119         97
+   127         15
+   130         68
+   143         26
+   145         15
+   161         33
+   162         15
+   175         68

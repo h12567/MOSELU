@@ -1,0 +1,32 @@
+##TITLE=Library Entry 16861
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ether, sec-butyl isopropyl
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=18641-81-1
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        190
+    42         20
+    43        340
+    44         20
+    45        999
+    55         20
+    56         10
+    57        160
+    58         10
+    59        220
+    69         30
+    73         20
+    87        200
+    88         10
+   101         30
+   116         10

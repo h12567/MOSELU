@@ -1,0 +1,73 @@
+##TITLE=Library Entry 63902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, 1-(chloromethyl)-2-(phenylmethoxy)-
+##MOLFORM=C14H13ClO
+##CAS REGISTRY NO=23915-08-4
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41        130
+    47         10
+    51        240
+    52        150
+    53         30
+    62         60
+    63        190
+    64         90
+    65        330
+    66         70
+    74         20
+    75         30
+    76         40
+    77        240
+    78        320
+    79         50
+    83         80
+    85         50
+    86         10
+    87         10
+    89        260
+    90        190
+    91        999
+    92        430
+    93         50
+    98         20
+    99         10
+   105         70
+   106        230
+   107         90
+   108         30
+   113         10
+   119         20
+   125         80
+   127         20
+   128         10
+   141        150
+   143         50
+   152         30
+   154         10
+   165         40
+   166         10
+   167         30
+   168         10
+   178         40
+   179         30
+   181         40
+   182         10
+   183         30
+   195        100
+   196        260
+   197        140
+   198        150
+   232        770
+   233        220
+   234        470
+   235         60

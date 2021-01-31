@@ -1,0 +1,79 @@
+##TITLE=Library Entry 58297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Bromo-2,2-dimethoxypropane
+##MOLFORM=C5H11BrO2
+##CAS REGISTRY NO=126-38-5
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    11          1
+    12          3
+    13          7
+    14         36
+    15        188
+    16          1
+    17          1
+    18          1
+    26         43
+    27        199
+    28         53
+    29        412
+    30         42
+    31         51
+    32         10
+    33          6
+    37         17
+    38         44
+    39        228
+    40         53
+    41        292
+    42        238
+    43        779
+    44         24
+    45         80
+    47         76
+    53          6
+    54          2
+    55         17
+    57        564
+    58         28
+    59          8
+    71        125
+    72        152
+    73         77
+    79         10
+    80          9
+    81         13
+    82          8
+    87          3
+    89        999
+    90         45
+    91         10
+    92         10
+    93         56
+    94         10
+    95         52
+    97          3
+   105          2
+   106          5
+   107         16
+   108          2
+   109         13
+   119          7
+   120          7
+   121         17
+   122          6
+   123         12
+   151        462
+   152         52
+   153        454
+   154         18
+   167         37
+   169         37

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 45120
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=2-Bromoethyl methyl sulfide
+##MOLFORM=C3H7BrS
+##CAS REGISTRY NO=54187-93-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    45        857
+    46        331
+    47        717
+    48        101
+    49        177
+    57         58
+    58        340
+    59        290
+    61        364
+    62          7
+    63         13
+    75        999
+    76         40
+    77         46
+    79         38
+    81         41
+    82          5
+    93         29
+    95         25
+   107         26
+   109         19
+   110          8
+   139          6
+   141          6
+   154        109
+   156         88

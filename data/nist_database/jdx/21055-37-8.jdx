@@ -1,0 +1,62 @@
+##TITLE=Library Entry 40195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methyl 2-isothiocyanatoacetate
+##MOLFORM=C4H5NO2S
+##CAS REGISTRY NO=21055-37-8
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+     4          1
+    12          3
+    13          6
+    14         25
+    15        120
+    16          2
+    26          4
+    27         13
+    28         66
+    29         76
+    30         12
+    31         10
+    32         31
+    33          3
+    34          2
+    36          5
+    38         12
+    39         18
+    40         40
+    41         13
+    42        106
+    43         14
+    44         90
+    45        230
+    46         24
+    47         12
+    54          8
+    56          1
+    57          1
+    58         25
+    59        254
+    60          8
+    61          3
+    67          1
+    68          6
+    70         41
+    72        999
+    73         38
+    74         45
+    75          4
+    99          3
+   103         33
+   104          2
+   105          1
+   131        529
+   132         28
+   133         27

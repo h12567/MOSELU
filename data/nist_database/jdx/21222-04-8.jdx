@@ -1,0 +1,47 @@
+##TITLE=Library Entry 11098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=3-Acetyl-4-hydroxyphenyl acetate
+##MOLFORM=C10H10O4
+##CAS REGISTRY NO=21222-04-8
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    37          9
+    38         25
+    39         39
+    40         15
+    41         24
+    42        116
+    43        999
+    44         25
+    45          1
+    50         19
+    51         24
+    52         27
+    53         71
+    54         73
+    55         23
+    61          1
+    62         13
+    63         30
+    64         13
+    65         12
+    73          2
+    77          3
+    81         58
+    82         29
+    93          2
+   105          2
+   110        515
+   111         33
+   152         58
+   153          5
+   194         34
+   195          4

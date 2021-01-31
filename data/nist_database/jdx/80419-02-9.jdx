@@ -1,0 +1,64 @@
+##TITLE=Library Entry 19092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 6-chlorododecanoate
+##MOLFORM=C13H24Cl2O2
+##CAS REGISTRY NO=80419-02-9
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=1880
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    36        190
+    39        118
+    41        616
+    42        189
+    43        521
+    49         59
+    53         80
+    54        189
+    55        999
+    56        228
+    57        160
+    67        359
+    68        317
+    69        437
+    70        200
+    71         79
+    72        139
+    73         20
+    79        109
+    81        319
+    82        250
+    83        348
+    84        370
+    85        129
+    93         59
+    94         50
+    95        210
+    96        477
+    97        331
+    98        279
+    99         39
+   108        200
+   109        128
+   110        170
+   111        149
+   112         69
+   119         60
+   121         89
+   123        119
+   124         29
+   136         89
+   137         99
+   138        259
+   139         39
+   162         50
+   163         90
+   180        100
+   181        170
+   182          9

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 38946
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Con-5-enin-3-amine, N-methyl-, (3.beta.)-
+##MOLFORM=C23H38N2
+##CAS REGISTRY NO=468-36-0
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    53         10
+    55         30
+    56        120
+    57         40
+    58         30
+    67         30
+    68         20
+    70        850
+    71        999
+    72        100
+    76         20
+    78         30
+    79         10
+    80         20
+    81         10
+    83         20
+    90         30
+    91         10
+    92         20
+    93         20
+    94         20
+    95         10
+   105         30
+   107         20
+   108         30
+   109         10
+   110         10
+   116         10
+   118         30
+   119         10
+   120         10
+   121         20
+   128         10
+   130         10
+   135         10
+   255         10
+   256         20
+   257         10
+   270         10
+   271         10
+   272         10
+   273        270
+   274         50
+   325         10
+   327        850
+   328        220
+   329         20
+   341        130
+   342        280
+   343         80

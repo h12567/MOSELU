@@ -1,0 +1,38 @@
+##TITLE=Library Entry 30267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Hydrazine, 2-ethyl-1,1-dimethyl-
+##MOLFORM=C4H12N2
+##CAS REGISTRY NO=29559-82-8
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=818
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    29         75
+    30        130
+    31         46
+    32         32
+    36         23
+    40          9
+    41         21
+    42        148
+    43        117
+    44        222
+    45        182
+    46         33
+    57         16
+    58         13
+    59        999
+    60         37
+    71          8
+    73         98
+    74         19
+    87          6
+    88        464
+    89         30

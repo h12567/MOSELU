@@ -1,0 +1,58 @@
+##TITLE=Library Entry 69350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.J. JAMES, DEP. CHEM., GLAMORGAN POLY., PONTYPRIDD, WA
+LES, UK
+##NAMES=HP
+##CAS NAME=Bicyclo[3.3.1]non-3-en-2-ol, exo-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=10060-21-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        260
+    40         50
+    41        310
+    42         50
+    43        140
+    51        100
+    52         50
+    53        200
+    54        100
+    55        430
+    56         50
+    57        140
+    65         90
+    66        140
+    67        310
+    68        210
+    69         80
+    70        340
+    71        180
+    77        190
+    78        130
+    79        430
+    80        290
+    81        260
+    82         90
+    83        460
+    91        190
+    92        110
+    93         80
+    94        200
+    95        270
+    96        999
+    97        200
+   105         60
+   107         50
+   108         50
+   109        310
+   110         70
+   123         50
+   136        150
+   137         60
+   138        170

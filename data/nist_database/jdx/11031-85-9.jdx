@@ -1,0 +1,39 @@
+##TITLE=Library Entry 14511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LDDRD, NCI, NIH-FCRDC, Frederick, MD 21702
+##NAMES=HP
+##CAS NAME=Streptovaricin G
+##MOLFORM=C40H51NO15
+##CAS REGISTRY NO=11031-85-9
+##MP= -300
+##BP= -300
+##MW= 785
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        157
+    43        999
+    45        343
+    55        164
+    57         75
+    60         80
+    71        161
+    95        158
+   109        162
+   111        271
+   114         75
+   153         97
+   286         70
+   297        633
+   298        758
+   299        277
+   300        224
+   324         76
+   326         77
+   340         72
+   341         50
+   390        168
+   391         60
+   726         46

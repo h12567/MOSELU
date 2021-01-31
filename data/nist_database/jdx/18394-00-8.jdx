@@ -1,0 +1,68 @@
+##TITLE=Library Entry 8891
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=9-Octadecanone
+##MOLFORM=C18H36O
+##CAS REGISTRY NO=18394-00-8
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27        168
+    29        346
+    39         97
+    41        667
+    42        170
+    43        999
+    44         30
+    53         38
+    54         50
+    55        465
+    56        103
+    57        732
+    58        553
+    59        185
+    67        124
+    68         59
+    69        156
+    70         83
+    71        833
+    72         97
+    79         20
+    81        184
+    82        111
+    83         98
+    84         39
+    85        214
+    86         28
+    95        127
+    96        179
+    97         60
+    98         55
+    99         28
+   100         67
+   109         37
+   110        120
+   111         21
+   112         40
+   113         87
+   114         55
+   123         35
+   127         99
+   128         21
+   138         20
+   141        307
+   142         40
+   155        283
+   156        101
+   157         63
+   169         47
+   170         58
+   171         41
+   183         45
+   225         12

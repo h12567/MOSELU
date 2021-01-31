@@ -1,0 +1,67 @@
+##TITLE=Library Entry 3400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. VANDEWALLE
+##NAMES=HP
+##CAS NAME=1-Butanone, 3-methyl-1-[2,3,5-trihydroxy-4-(3-methyl-2-butenyl)-1
+,4-cyclopentadien-1-yl]-
+##MOLFORM=C15H22O4
+##CAS REGISTRY NO=520-40-1
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        330
+    53        120
+    55        180
+    56         50
+    57        490
+    65         40
+    67        100
+    69        600
+    70         50
+    71        180
+    77         70
+    79         90
+    81         70
+    83         70
+    84        110
+    85        220
+    91         50
+    93         40
+    94         40
+    95        100
+    96         50
+    97         50
+   109         80
+   111         90
+   121         50
+   122         60
+   123         70
+   124        190
+   125         30
+   127         50
+   128         50
+   136         40
+   137         60
+   138         40
+   139         40
+   149         40
+   155         90
+   163         30
+   179         40
+   180         50
+   181         30
+   182         30
+   191         50
+   197        290
+   198        100
+   205         60
+   210         60
+   233         70
+   248         40
+   266         90

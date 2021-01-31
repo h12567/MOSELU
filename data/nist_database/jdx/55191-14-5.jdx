@@ -1,0 +1,38 @@
+##TITLE=Library Entry 67439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzaldehyde, 4-chloro-, O-phenyloxime
+##MOLFORM=C13H10ClNO
+##CAS REGISTRY NO=55191-14-5
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        180
+    50        140
+    51        100
+    65        230
+    66        250
+    67         20
+    75        250
+    76        100
+    94        999
+    95        100
+   102        230
+   103         20
+   111        290
+   112         30
+   113         90
+   137        550
+   138        270
+   139        220
+   140         90
+   231        250
+   232         30
+   233         80
+   234         10

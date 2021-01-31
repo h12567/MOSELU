@@ -1,0 +1,64 @@
+##TITLE=Library Entry 66564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Chloro-3-pyridinol
+##MOLFORM=C5H4ClNO
+##CAS REGISTRY NO=6636-78-8
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    11          4
+    12         20
+    13          9
+    14         52
+    15          4
+    16          7
+    17         24
+    18         22
+    25         13
+    26         98
+    27         73
+    28         42
+    29         96
+    31         10
+    33          5
+    35         57
+    36         47
+    37        248
+    38        627
+    39        640
+    40         84
+    41          4
+    42         29
+    44          5
+    47         77
+    48         14
+    49         81
+    50         75
+    51         47
+    52          8
+    53         47
+    54         12
+    62         53
+    63         56
+    64        240
+    65        853
+    66        169
+    67        103
+    72          3
+    73         70
+    74         26
+    75         58
+    76         42
+    93        999
+    94         89
+   100         16
+   129        986
+   130         79
+   131        330

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 40322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. HOURIET, INST. CHIM. PHYS., EPFL, LAUSANNE, SWITZ.
+##NAMES=HP
+##CAS NAME=Hexaethylphosphoric triamide
+##MOLFORM=C12H30N3OP
+##CAS REGISTRY NO=2622-07-3
+##MP= -300
+##BP= -300
+##MW= 263
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    27         18
+    28        113
+    29         66
+    30         16
+    32         29
+    39          3
+    41          7
+    42         83
+    43          8
+    44        164
+    45         34
+    46          8
+    47          5
+    56         77
+    57          9
+    58        342
+    59          7
+    64         11
+    70        145
+    71        253
+    72        999
+    73        304
+    74         39
+    76         10
+    78          5
+    79         45
+    90          6
+    91          6
+    92         22
+   103         15
+   104         15
+   107         19
+   117          4
+   118         24
+   119          4
+   120         55
+   135         54
+   136          4
+   147         12
+   161         27
+   163         25
+   177         41
+   179         13
+   190         61
+   191        823
+   192        100
+   193          5
+   234          5
+   248          6
+   263        129
+   264         14

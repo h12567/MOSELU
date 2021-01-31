@@ -1,0 +1,65 @@
+##TITLE=Library Entry 71457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. NOMURA, DEP. CHEM., COLL. ARTS SCI., UNIV. TOKYO, JA
+PAN
+##NAMES=HP
+##CAS NAME=4-Methyl-1-(1-phenylvinyl)-5-(1-pyrrolidinyl)-4,5-dihydro-1H-1,2,
+3-triazole
+##MOLFORM=C15H20N4
+##CAS REGISTRY NO=77726-82-0
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        180
+    41        390
+    42        190
+    43        150
+    50         70
+    51        230
+    54        130
+    55        340
+    56        230
+    63         60
+    68        150
+    69         90
+    70        440
+    76         60
+    77        520
+    78        100
+    82        140
+    83        100
+    84         60
+    91        120
+    96        400
+    97        110
+    98        999
+    99         90
+   102        100
+   103        730
+   104        640
+   105        110
+   110        380
+   111        810
+   112         90
+   117        110
+   118         70
+   130        130
+   132         70
+   144        420
+   145         70
+   157         60
+   158        120
+   159        440
+   160         70
+   185        100
+   186        110
+   199        100
+   200         60
+   213        120
+   227        130
+   228        140

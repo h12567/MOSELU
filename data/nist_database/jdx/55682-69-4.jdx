@@ -1,0 +1,61 @@
+##TITLE=Library Entry 79367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.VAN LOOCK UNIV. OF LOUVAIN, HEVERLEE, BELGIUM
+##NAMES=HP
+##CAS NAME=Ethanone, 2-[1-(4-bromophenyl)-1,5-dihydro-5-hydroxy-5-phenyl-4H-
+1,2,3-triazol-4-ylidene]-1-phenyl-
+##MOLFORM=C22H16BrN3O2
+##CAS REGISTRY NO=55682-69-4
+##MP= -300
+##BP= -300
+##MW= 433
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    28        128
+    39         31
+    50         57
+    51        142
+    53         20
+    63         32
+    65         20
+    68         44
+    75         51
+    76         64
+    77        542
+    78         61
+    89         34
+    90         44
+    91         30
+   102         37
+   103         57
+   104         71
+   105        999
+   106         85
+   128         65
+   131         58
+   146        357
+   147         45
+   155        107
+   157        107
+   171         31
+   173         22
+   183         74
+   185         74
+   235         24
+   251        114
+   252         18
+   258         32
+   260         31
+   284         18
+   286         18
+   300         45
+   302         44
+   328          5
+   330          4
+   405         21
+   407         20
+   433          5
+   435          5

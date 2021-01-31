@@ -1,0 +1,41 @@
+##TITLE=Library Entry 40130
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 2-[[[(dimethylamino)carbonyl]methylamino]carbonyl]
+-2-ethyl-3-methyl-, methyl ester
+##MOLFORM=C15H28N2O4
+##CAS REGISTRY NO=42948-65-2
+##MP= -300
+##BP= -300
+##MW= 300
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    44        219
+    45         19
+    71         29
+    72        999
+    73         29
+   111        449
+   112         21
+   129        149
+   130         11
+   139        149
+   140         13
+   171        339
+   172         31
+   199         99
+   200         11
+   230         99
+   231          8
+   241         29
+   242          7
+   256         89
+   257         11
+   269         29
+   270          6
+   300          9
+   301          4

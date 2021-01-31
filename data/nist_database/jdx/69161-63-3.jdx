@@ -1,0 +1,67 @@
+##TITLE=Library Entry 36343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1,2-Epoxy-3-propyl trifluoroacetate
+##MOLFORM=C5H5F3O3
+##CAS REGISTRY NO=69161-63-3
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    25          8
+    26         88
+    27        304
+    28        192
+    29        413
+    30         36
+    31        304
+    32         14
+    33         66
+    37          3
+    38          7
+    39         22
+    40          5
+    41         11
+    42         55
+    43        267
+    44         27
+    45         42
+    46         33
+    47          5
+    50         45
+    51         17
+    55         23
+    56         78
+    57         31
+    59          6
+    64          9
+    67         18
+    69        999
+    70         16
+    71        132
+    72          6
+    73          9
+    78         19
+    89          6
+    92          8
+    93          4
+    95         11
+    97         86
+    99        279
+   100          7
+   112        371
+   113         20
+   115         11
+   127         67
+   128          3
+   139          4
+   140        792
+   141         46
+   142          6
+   169          2

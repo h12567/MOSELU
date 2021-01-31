@@ -1,0 +1,36 @@
+##TITLE=Library Entry 19549
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bis(1-hydroxycyclohexyl) peroxide
+##MOLFORM=C12H22O4
+##CAS REGISTRY NO=2407-94-5
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        233
+    28        618
+    29        150
+    39        256
+    41        573
+    42        837
+    43        267
+    54        117
+    55        999
+    57        203
+    59         60
+    60        211
+    69        456
+    70        237
+    71        101
+    73        169
+    83        117
+    87         64
+    98        615
+    99        109
+   196         16

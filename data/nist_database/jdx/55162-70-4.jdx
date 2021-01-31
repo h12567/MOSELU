@@ -1,0 +1,78 @@
+##TITLE=Library Entry 58590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,3,2-Dioxaborinane, 2-(heptyloxy)-4,6-dimethyl-
+##MOLFORM=C12H25BO3
+##CAS REGISTRY NO=55162-70-4
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    41        505
+    42        272
+    43        414
+    44         50
+    45        181
+    53         40
+    54         50
+    55        505
+    56        404
+    57        525
+    58         50
+    59         20
+    67         70
+    68        101
+    69        686
+    70        525
+    71        121
+    72         20
+    73         20
+    81         60
+    82         20
+    83         60
+    84         30
+    85         50
+    86         20
+    87         30
+    88        262
+    89        999
+    90         30
+    91         20
+    95         20
+    96         60
+    97         80
+    98        262
+    99         50
+   100         80
+   101        313
+   102         30
+   103         40
+   112         20
+   113         40
+   114         30
+   115        101
+   116         20
+   117         30
+   127         20
+   128         30
+   129         80
+   130        272
+   131        999
+   132         60
+   142        181
+   143        696
+   144         50
+   157         20
+   185         20
+   212         30
+   213        101
+   214         20
+   226         20
+   227         30
+   228         10

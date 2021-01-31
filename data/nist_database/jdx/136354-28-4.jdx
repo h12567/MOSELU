@@ -1,0 +1,74 @@
+##TITLE=Library Entry 75486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Chloro-N-methylquinoline-4-carboxamide
+##MOLFORM=C11H9ClN2O
+##CAS REGISTRY NO=136354-28-4
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    35         20
+    36         20
+    37        102
+    38        127
+    39        170
+    40         97
+    41         17
+    42         20
+    44         19
+    50        444
+    51        519
+    52        109
+    53         26
+    58        618
+    61        109
+    62        228
+    63        198
+    74        448
+    75        832
+    76        239
+    77        115
+    78         45
+    81         23
+    85         18
+    86         43
+    87         76
+    88         49
+    89         28
+    92         87
+    98         62
+    99        153
+   100        243
+   101        999
+   102        102
+   114         27
+   126        244
+   127        424
+   128        208
+   129         20
+   137         19
+   138          2
+   142         36
+   143          3
+   162        835
+   163        211
+   164        278
+   165         70
+   185         43
+   186          4
+   190        441
+   191         69
+   192        148
+   193         23
+   219        294
+   220        520
+   221        144
+   222        179
+   223         29
+   224          3

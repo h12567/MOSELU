@@ -1,0 +1,40 @@
+##TITLE=Library Entry 11681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanesulfonic acid, 1-methylethyl ester
+##MOLFORM=C4H10O3S
+##CAS REGISTRY NO=926-06-7
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    15        245
+    18         45
+    27        206
+    28        102
+    29        113
+    31         47
+    38         29
+    39        172
+    40         45
+    41        375
+    42        188
+    43        999
+    44         45
+    45        275
+    59        213
+    60         34
+    65         45
+    79        545
+    80         38
+    81         27
+    97         54
+   123        761
+   124         27
+   125         50
+   138          1

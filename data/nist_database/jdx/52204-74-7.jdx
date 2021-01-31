@@ -1,0 +1,54 @@
+##TITLE=Library Entry 20457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,1-Dimethoxypent-4-en-3-one
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=52204-74-7
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        185
+    29         55
+    30          9
+    31         76
+    39         19
+    41         18
+    42         33
+    43         73
+    47        124
+    53         21
+    55        999
+    56         40
+    58         90
+    59         33
+    69         14
+    70          8
+    71         23
+    75        680
+    76         27
+    83         12
+    84         12
+    85         83
+    88         45
+    89          7
+    97         79
+    98          6
+   101         27
+   111          5
+   112         37
+   113        220
+   114         19
+   115         22
+   127          6
+   129         74
+   130          6
+   143          9
+   144         64
+   145          6
+   146          1

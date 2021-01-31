@@ -1,0 +1,62 @@
+##TITLE=Library Entry 47934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A.M. METWALLY, DEP. CHEM., ASSIUT UNIV., EGYPT
+##NAMES=HP
+##CAS NAME=1-Phenyl-3-methyl-4-(4-chlorophenylazo)-5-pyrazolone
+##MOLFORM=C16H13ClN4O
+##CAS REGISTRY NO=6407-74-5
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    28         60
+    29         70
+    39        180
+    42         30
+    43         80
+    51        160
+    63         90
+    64        140
+    65         60
+    67        270
+    75        100
+    76         90
+    77        999
+    78        140
+    90        170
+    91        520
+    92        100
+    99        400
+   101        100
+   103        140
+   104         80
+   105        250
+   106        100
+   107        120
+   111        230
+   113        100
+   115         70
+   118         90
+   119         80
+   125        170
+   126        310
+   127        410
+   128        120
+   129        110
+   130         60
+   158        100
+   159         40
+   173        210
+   174         50
+   186         50
+   201        730
+   202         90
+   203        100
+   312        980
+   313        187
+   314        337
+   315         61

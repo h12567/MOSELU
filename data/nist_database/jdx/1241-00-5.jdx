@@ -1,0 +1,47 @@
+##TITLE=Library Entry 11721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Benzenethiosulfonic acid, 4-acetamido-, S-(4-acetamidophenyl) est
+er
+##MOLFORM=C16H16N2O4S2
+##CAS REGISTRY NO=1241-00-5
+##MP= -300
+##BP= -300
+##MW= 364
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         37
+    42         94
+    43        999
+    44         20
+    45        278
+    58         56
+    60         87
+    63         19
+    64         44
+    65        129
+    69         17
+    80        174
+    92         46
+    93         84
+    97         59
+   100         46
+   108         67
+   109         18
+   124        828
+   125        148
+   126         18
+   140         93
+   141         22
+   166        127
+   167         37
+   182         47
+   183         12
+   332        105
+   333         35
+   364         19

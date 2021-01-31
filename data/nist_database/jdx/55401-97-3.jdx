@@ -1,0 +1,40 @@
+##TITLE=Library Entry 65030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pyridine, 2-(bromomethyl)-
+##MOLFORM=C6H6BrN
+##CAS REGISTRY NO=55401-97-3
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41         20
+    44         40
+    49         20
+    50        120
+    51        210
+    52        200
+    53        120
+    61         20
+    62         40
+    63         90
+    64         60
+    65        440
+    66         50
+    78        140
+    79        130
+    80        220
+    81         20
+    91         20
+    92        999
+    93         80
+   171        110
+   172         10
+   173        110
+   174         10

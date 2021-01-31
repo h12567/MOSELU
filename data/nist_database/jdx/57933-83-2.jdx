@@ -1,0 +1,72 @@
+##TITLE=Library Entry 3138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Isopropenyl chloroformate
+##MOLFORM=C4H5ClO2
+##CAS REGISTRY NO=57933-83-2
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=694
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         14
+    16          1
+    24          1
+    25          7
+    26         40
+    27        112
+    28         33
+    29         69
+    30          2
+    31          2
+    35         42
+    36         12
+    37         55
+    38         80
+    39        400
+    40        254
+    41        999
+    42        186
+    43        186
+    44         80
+    45         11
+    47          4
+    48          1
+    49         17
+    50          1
+    51          7
+    52          1
+    53          5
+    54          1
+    55          4
+    56          1
+    57          8
+    58          5
+    60          1
+    61          2
+    63        963
+    64         10
+    65        313
+    66          3
+    67          1
+    69          2
+    75          6
+    76        157
+    77         12
+    78         53
+    79          4
+    81          2
+    83          1
+    92          5
+    94          2
+   105          3
+   107          1
+   120         95
+   121          4
+   122         31
+   123          1

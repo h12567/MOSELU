@@ -1,0 +1,81 @@
+##TITLE=Library Entry 41622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Methoxycyclohexanol, TMS derivative
+##MOLFORM=C10H22O2Si
+##CAS REGISTRY NO=29808-96-6
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    41        120
+    42         20
+    43         60
+    44         30
+    45        150
+    46         10
+    47         50
+    54         40
+    55         30
+    56         50
+    58         20
+    59         70
+    60         80
+    61         10
+    62         70
+    67         10
+    69         20
+    71         70
+    72         70
+    73        999
+    74         70
+    75        300
+    76         20
+    77         30
+    78         10
+    79         50
+    80         20
+    81        470
+    82         30
+    84         30
+    85         10
+    86         30
+    89        200
+    90         20
+    91         20
+    97         20
+    99         10
+   101        100
+   102         20
+   103         20
+   107        100
+   108         20
+   111        330
+   112        150
+   113         20
+   115         20
+   116         30
+   117         10
+   127         20
+   129        180
+   130        130
+   131         70
+   132         20
+   142         20
+   145         20
+   148         30
+   155         50
+   169         20
+   170        230
+   171         30
+   172         20
+   187         70
+   188         20
+   201          2
+   202          5
+   203          1

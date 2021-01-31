@@ -1,0 +1,48 @@
+##TITLE=Library Entry 69911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DR. C. C. VAN DE SANDE, STATE UNIVERSITY OF GENT, BELGI
+UM
+##NAMES=HP
+##CAS NAME=2-Hexenoic acid, 4-methylphenyl ester
+##MOLFORM=C13H16O2
+##CAS REGISTRY NO=69687-91-8
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39         75
+    40         45
+    41        150
+    42         10
+    43         15
+    44         45
+    50         10
+    51         30
+    52         20
+    53         40
+    54         10
+    55        610
+    56         25
+    63         10
+    65         20
+    67         15
+    68         55
+    69         50
+    77         90
+    78         30
+    79         40
+    81         60
+    91         25
+    95         10
+    96        240
+    97        999
+    98         78
+   107         90
+   108        130
+   109         15
+   204        100
+   205         15

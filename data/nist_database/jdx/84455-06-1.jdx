@@ -1,0 +1,63 @@
+##TITLE=Library Entry 12435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.-T. Ho ET AL.J.Agric.Food Chem.,31,336(1983)
+##NAMES=HP
+##CAS NAME=1-Acetyl-2-bromopyrrole
+##MOLFORM=C6H6BrNO
+##CAS REGISTRY NO=84455-06-1
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26         19
+    27         23
+    28          1
+    29         13
+    31         15
+    36         11
+    37        112
+    38        311
+    39        283
+    40         29
+    41         39
+    42         62
+    43        999
+    44         26
+    45         15
+    49         15
+    50         35
+    51         37
+    52         23
+    53         11
+    59         10
+    62         13
+    63         20
+    64         20
+    65         18
+    66        244
+    67         24
+    78          8
+    79         20
+    80         11
+    81          7
+    82         13
+    91         14
+    93         13
+   116         12
+   117         56
+   118         50
+   119         56
+   120         35
+   144         20
+   145        894
+   146         62
+   147        869
+   148         52
+   187        213
+   188         20
+   189        168
+   190         16

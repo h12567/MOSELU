@@ -1,0 +1,47 @@
+##TITLE=Library Entry 18018
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Tetrahydrofuran-D8
+##MOLFORM=C4D8O
+##CAS REGISTRY NO=1693-74-9
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    28         17
+    29          0
+    30        154
+    31          1
+    32         22
+    33          0
+    34         26
+    35          0
+    38          1
+    40          4
+    42         90
+    43          2
+    44         77
+    45          1
+    46        374
+    47          8
+    48        999
+    49         22
+    50          4
+    58         22
+    59          0
+    60          0
+    62          1
+    64          0
+    74          1
+    76          1
+    78        252
+    79         11
+    80        294
+    81         12
+    82          0

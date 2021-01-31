@@ -1,0 +1,44 @@
+##TITLE=Library Entry 87654
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Benzene, 1,4-dibutoxy-
+##MOLFORM=C14H22O2
+##CAS REGISTRY NO=104-36-9
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         46
+    39         12
+    41         53
+    53          9
+    54          7
+    55         13
+    56          9
+    57         37
+    58          1
+    63          1
+    64          3
+    65         19
+    66          3
+    76          2
+    81         23
+    82         11
+    93         10
+    95          3
+   107          2
+   109         57
+   110        999
+   111         66
+   112          5
+   123         12
+   166         47
+   167          4
+   179          3
+   222         85
+   223         12

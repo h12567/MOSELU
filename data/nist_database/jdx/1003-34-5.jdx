@@ -1,0 +1,46 @@
+##TITLE=Library Entry 46360
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=3-Chloro-4,5-dihydro-1H-1,2,4-triazol-5-one
+##MOLFORM=C2H2ClN3O
+##CAS REGISTRY NO=1003-34-5
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    35        157
+    36         36
+    37         44
+    38         20
+    40         21
+    41        158
+    42         99
+    43        251
+    44         64
+    47         89
+    48        130
+    49         42
+    50         40
+    54         53
+    55          5
+    56         10
+    61         85
+    62        555
+    63        100
+    64        175
+    65         21
+    76        999
+    77         20
+    78        324
+    83         73
+    84        310
+    85         13
+   119        817
+   120         40
+   121        263
+   122          9

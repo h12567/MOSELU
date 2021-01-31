@@ -1,0 +1,82 @@
+##TITLE=Library Entry 88306
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methyl-1-(1,2,2-trimethylcyclopentyl)cyclohex-3-enol
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=943525-66-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=1709
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    27         10
+    28          1
+    29         15
+    31          3
+    39         13
+    40          7
+    41        127
+    42         15
+    43        107
+    44          2
+    45          4
+    53         27
+    54          6
+    55        190
+    56         24
+    57         32
+    58          3
+    59          5
+    65          5
+    67         89
+    68         50
+    69        246
+    70         71
+    71         13
+    72         45
+    73          2
+    77         21
+    79         14
+    81         58
+    82        112
+    83         97
+    84         70
+    85         90
+    86          6
+    91          4
+    93        282
+    95         59
+    97         38
+    98         34
+    99          3
+   107          6
+   109         30
+   110        133
+   111        999
+   112         85
+   113          8
+   114          1
+   119         26
+   121         24
+   125         19
+   126          9
+   135         27
+   136          5
+   137         11
+   139        124
+   140         31
+   151         13
+   152          3
+   153         24
+   154         11
+   161          1
+   165          3
+   166          7
+   189          7
+   204          3
+   222         16
+   223          3

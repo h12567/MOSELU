@@ -1,0 +1,53 @@
+##TITLE=Library Entry 34704
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A.HEDIN U.S. DEPT. AGRI., STATE COLL., MISS., USA
+##NAMES=HP
+##CAS NAME=3-Cyclohexene-1-methanol, .alpha.,4-dimethyl-.alpha.-(4-methyl-3-
+pentenyl)-, [R-(R*,R*)]-
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=23178-88-3
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        340
+    43        400
+    53         60
+    55        110
+    57         70
+    67        220
+    68        120
+    69        999
+    70         60
+    71        180
+    77        110
+    79        180
+    80         70
+    81        270
+    82        130
+    91        160
+    92         60
+    93        270
+    94        110
+    95        210
+   105        150
+   107        180
+   109        300
+   110         40
+   119        290
+   120         50
+   121        150
+   122         40
+   123         50
+   133         70
+   134         50
+   135        160
+   136         50
+   161        120
+   189         20
+   204        120
+   222          5

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 19271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 7-chloroundecanoate
+##MOLFORM=C12H22Cl2O2
+##CAS REGISTRY NO=80418-93-5
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=1785
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    36        229
+    39        118
+    41        609
+    42        209
+    43        287
+    49         50
+    53         80
+    54        169
+    55        999
+    56        169
+    57        278
+    67        310
+    68        290
+    69        499
+    70        148
+    71         90
+    72        220
+    73         40
+    79        100
+    81        219
+    82        260
+    83        348
+    84        307
+    85        109
+    93         39
+    95        159
+    96        269
+    97        220
+    98        331
+   108        239
+   109         90
+   110         39
+   111         79
+   119         50
+   121         50
+   122         59
+   123        128
+   124        189
+   125         49
+   137         49
+   148         40
+   149         80
+   166         79
+   167        149

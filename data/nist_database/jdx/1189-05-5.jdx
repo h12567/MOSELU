@@ -1,0 +1,61 @@
+##TITLE=Library Entry 15390
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Acetamide, N-(1-methylpropyl)-
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=1189-05-5
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=968
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27        125
+    28        142
+    29         97
+    30         48
+    32          7
+    37          2
+    38          8
+    39         42
+    40         19
+    41        112
+    42        136
+    43        391
+    44        999
+    50          2
+    51          6
+    52          4
+    53          7
+    54          9
+    55         29
+    56         41
+    57         59
+    58        259
+    60         69
+    61          1
+    67          1
+    68          2
+    69          3
+    70          9
+    71          7
+    72         32
+    73          2
+    77          1
+    79          1
+    82          1
+    86        305
+    87         15
+    88          1
+    91          1
+    99          1
+   100          9
+   101          2
+   105          1
+   107          3
+   112          1
+   115        109
+   116          8

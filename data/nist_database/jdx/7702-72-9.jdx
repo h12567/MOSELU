@@ -1,0 +1,46 @@
+##TITLE=Library Entry 32579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. FUJIWARA, KYOTO COLL. PHARMACY, KYOTO, JA
+##NAMES=HP
+##CAS NAME=trans-Hexahydrophthalide
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=7702-72-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        147
+    28         38
+    29         62
+    39        207
+    40         47
+    41        207
+    42         23
+    43         17
+    51         28
+    53        104
+    54        471
+    55        217
+    65         23
+    66         98
+    67        999
+    68        344
+    69         24
+    77         36
+    79         65
+    80         16
+    81        418
+    82        116
+    83         12
+    85          7
+    93         22
+    95         33
+    96         67
+   111          5
+   140        145
+   141         16
+   142          1

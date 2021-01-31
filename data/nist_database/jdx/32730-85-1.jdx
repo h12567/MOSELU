@@ -1,0 +1,83 @@
+##TITLE=Library Entry 19450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Cycloheptyl cyanide
+##MOLFORM=C8H13N
+##CAS REGISTRY NO=32730-85-1
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    14          6
+    15         42
+    18         16
+    26         91
+    27        481
+    28        255
+    29        222
+    30         42
+    32          7
+    37         25
+    38         85
+    39        667
+    40        167
+    41        767
+    42        534
+    43         93
+    44         22
+    45          2
+    46          1
+    50         41
+    51         91
+    52         90
+    53        211
+    54        647
+    55        999
+    56        513
+    57         15
+    58          5
+    61          5
+    62         12
+    63         24
+    64         33
+    65         58
+    66         88
+    67        367
+    68        179
+    69        159
+    70        139
+    74          3
+    75          6
+    76          9
+    77         34
+    78         46
+    79         68
+    80        397
+    81        460
+    82        241
+    83         71
+    84          4
+    89          2
+    91         63
+    92         16
+    94        717
+    95        501
+    96        160
+    97         18
+   103          2
+   104          3
+   105         15
+   106         21
+   107          2
+   108        232
+   109         18
+   117          2
+   120          4
+   122        282
+   123         25
+   124          3

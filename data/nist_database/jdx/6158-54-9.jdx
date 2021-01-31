@@ -1,0 +1,38 @@
+##TITLE=Library Entry 79473
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-benzoyl-, methyl ester
+##MOLFORM=C15H12O3
+##CAS REGISTRY NO=6158-54-9
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    50         60
+    51        100
+    52         10
+    75         50
+    76        100
+    77        540
+    78         30
+   103         60
+   104         50
+   105        999
+   106         70
+   119         30
+   120         30
+   135         60
+   152         40
+   153         20
+   163        470
+   164         50
+   181         80
+   209        150
+   210         20
+   240        440
+   241         70

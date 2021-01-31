@@ -1,0 +1,66 @@
+##TITLE=Library Entry 75932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=Carbamic acid, butyl-, ethyl ester
+##MOLFORM=C7H15NO2
+##CAS REGISTRY NO=591-62-8
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    45         77
+    46         14
+    47          4
+    50          1
+    51          3
+    52          2
+    53          9
+    54          9
+    55         44
+    56        106
+    57        285
+    58        170
+    59         36
+    60          4
+    61          0
+    62         68
+    63          0
+    64          0
+    67          0
+    68          1
+    69          0
+    70          9
+    71          8
+    72         16
+    73          6
+    74        111
+    75         23
+    76          2
+    82          0
+    84          1
+    86          1
+    87          0
+    88          7
+    90         53
+    91          1
+    98          3
+   100         68
+   102        999
+   103         85
+   104          7
+   105          0
+   114          0
+   115          0
+   116         58
+   117          5
+   118          4
+   130          3
+   144          1
+   145         95
+   146         37
+   147          2

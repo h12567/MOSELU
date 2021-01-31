@@ -1,0 +1,38 @@
+##TITLE=Library Entry 510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9104
+##NAMES=HP
+##CAS NAME=Acetaldehyde
+##MOLFORM=C2H4O
+##CAS REGISTRY NO=75-07-0
+##MP= -300
+##BP= -300
+##MW= 44
+##$RETENTION INDEX=404
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    12          9
+    13         29
+    14        108
+    15        364
+    16         56
+    17          3
+    18         10
+    19          1
+    21          1
+    24          7
+    25         23
+    26         54
+    27         35
+    28         32
+    29        999
+    30         11
+    31          3
+    40         10
+    41         50
+    42        127
+    43        474
+    44        825
+    45         27

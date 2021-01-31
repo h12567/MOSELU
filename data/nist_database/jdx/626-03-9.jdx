@@ -1,0 +1,42 @@
+##TITLE=Library Entry 88164
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=2,4-Dihydroxypyridine
+##MOLFORM=C5H5NO2
+##CAS REGISTRY NO=626-03-9
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    42        166
+    43         53
+    44          7
+    45         10
+    49          3
+    50          8
+    51         13
+    52         20
+    53         36
+    54         52
+    55        109
+    56         10
+    64          8
+    65          9
+    66         18
+    67         12
+    68         31
+    69         84
+    70        618
+    71         26
+    80          3
+    82         28
+    83         88
+    84          3
+   111        999
+   112         70
+   113          3

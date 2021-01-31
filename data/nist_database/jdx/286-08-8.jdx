@@ -1,0 +1,75 @@
+##TITLE=Library Entry 32576
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CONTINENTAL OIL CO., PONCA CITY, OKLA, USA
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptane
+##MOLFORM=C7H12
+##CAS REGISTRY NO=286-08-8
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=796
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    13          4
+    14         18
+    15        121
+    16          3
+    25          3
+    26         79
+    27        510
+    28        127
+    29        246
+    30          5
+    36          1
+    37         25
+    38         72
+    39        720
+    40        147
+    41        422
+    42         77
+    43         11
+    44          2
+    45          7
+    46          7
+    49          6
+    50         51
+    51         93
+    52         48
+    53        318
+    54        789
+    55        597
+    56         32
+    57          9
+    61          6
+    62         14
+    63         30
+    64          7
+    65         64
+    66        125
+    67        999
+    68        577
+    69         42
+    72          0
+    73          1
+    74          3
+    75          4
+    77         58
+    78         19
+    79         76
+    80         20
+    81        770
+    82         51
+    83          2
+    85          1
+    86          1
+    87          1
+    89          2
+    91         13
+    92          1
+    93          4
+    95         48
+    96        206
+    97         15

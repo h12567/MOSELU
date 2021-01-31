@@ -1,0 +1,43 @@
+##TITLE=Library Entry 362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 669
+##NAMES=HP
+##CAS NAME=Ethane, nitro-
+##MOLFORM=C2H5NO2
+##CAS REGISTRY NO=79-24-3
+##MP= -300
+##BP= -300
+##MW= 75
+##$RETENTION INDEX=590
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          3
+    14         10
+    15         21
+    16          2
+    24          1
+    25          6
+    26         55
+    27        554
+    28         58
+    29        999
+    30        116
+    31          1
+    32          1
+    38          7
+    39         14
+    40         24
+    41         60
+    42          7
+    43         22
+    44         13
+    45          4
+    46         26
+    55          2
+    56          3
+    57          9
+    59          2
+    60          5

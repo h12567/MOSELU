@@ -1,0 +1,59 @@
+##TITLE=Library Entry 5006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2401
+##NAMES=HP
+##CAS NAME=1-Pyrrolidinecarbonitrile
+##MOLFORM=C5H8N2
+##CAS REGISTRY NO=1530-88-7
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          4
+    15         29
+    25          2
+    26         26
+    27        126
+    28         97
+    29         27
+    30          5
+    37          9
+    38         21
+    39        142
+    40         75
+    41        459
+    42        999
+    43        186
+    44          5
+    46          3
+    49          1
+    50          6
+    51         10
+    52          7
+    53        145
+    54         42
+    55        199
+    56         23
+    57          1
+    64          2
+    65          2
+    66         17
+    67         89
+    68        342
+    69         47
+    70          4
+    71          1
+    77          1
+    78         53
+    79          4
+    81          9
+    93         11
+    94          3
+    95        363
+    96        705
+    97         46
+    98          1

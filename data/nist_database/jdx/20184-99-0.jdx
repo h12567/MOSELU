@@ -1,0 +1,47 @@
+##TITLE=Library Entry 12484
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, 2-(thiocarboxy)hydrazide, O-methyl ester
+##MOLFORM=C4H8N2O2S
+##CAS REGISTRY NO=20184-99-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         22
+    42         82
+    43        999
+    44         79
+    45        250
+    46         82
+    47        140
+    48         13
+    56         11
+    57         11
+    58        101
+    59         52
+    60         35
+    61         35
+    69          8
+    71         16
+    73         16
+    74         30
+    75        650
+    76         24
+    77         27
+    83         24
+    89         82
+   106        457
+   107         41
+   108         24
+   115        371
+   116         60
+   117         13
+   148        903
+   149         60
+   150         49

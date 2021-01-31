@@ -1,0 +1,36 @@
+##TITLE=Library Entry 38460
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Butane, 2,2'-[methylenebis(oxy)]bis[2-methyl-
+##MOLFORM=C11H24O2
+##CAS REGISTRY NO=54699-28-4
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        150
+    42         80
+    43        760
+    44         20
+    45         30
+    53         30
+    55        190
+    59        410
+    65         20
+    70         70
+    71        999
+    72         70
+    73        230
+    89         40
+    93         10
+   101         10
+   115         10
+   129         80
+   130         10
+   143         10

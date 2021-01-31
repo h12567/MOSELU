@@ -1,0 +1,37 @@
+##TITLE=Library Entry 97788
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Iron, .pi.-cyclopentadienyl(4,5,6,7-tetrahydro-4,7-dihydroxy-.pi.
+-indenyl)-, endo,endo-
+##MOLFORM=C14H16FeO2
+##CAS REGISTRY NO=12127-08-1
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    56         36
+    65         24
+    73         22
+    76         20
+    77         20
+    91         94
+   115        238
+   116        182
+   117        999
+   118         96
+   121         60
+   133         20
+   138        170
+   139         20
+   234         20
+   236        344
+   237         56
+   254         16
+   270         42
+   272        723
+   273        120

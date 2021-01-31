@@ -1,0 +1,50 @@
+##TITLE=Library Entry 82170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.J. WOOD, FOOD RES. INST., AGRIC. CAN., OTTAWA, CANADA
+##NAMES=HP
+##CAS NAME=.beta.-D-Fructopyranose 2,3:4,5-bis(benzeneboronate)
+##MOLFORM=C18H18B2O6
+##CAS REGISTRY NO=53829-58-6
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        409
+    41        118
+    43        150
+    44        204
+    91        363
+   104        431
+   105        999
+   117         90
+   131        122
+   145         79
+   146        431
+   147        186
+   158        134
+   159        613
+   160        120
+   168         70
+   172        143
+   173        522
+   174         70
+   175        102
+   176         77
+   187         36
+   188         65
+   198         22
+   199         70
+   216         36
+   217        120
+   245         25
+   246         77
+   319         61
+   320        454
+   321        909
+   322        165
+   333         11
+   334         22

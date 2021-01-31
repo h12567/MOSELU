@@ -1,0 +1,44 @@
+##TITLE=Library Entry 39680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Acebutolol
+##MOLFORM=C18H28N2O4
+##CAS REGISTRY NO=37517-30-9
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=2795
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        150
+    30        456
+    41        235
+    42         78
+    43        610
+    56        365
+    57         71
+    71         97
+    72        999
+    73         40
+    80         28
+    82         31
+    98        218
+   100         68
+   106         31
+   107         21
+   108         21
+   114         20
+   116         19
+   133         51
+   135        179
+   136         90
+   150         19
+   151        337
+   152         29
+   205         41
+   218         10
+   221        263
+   222         30

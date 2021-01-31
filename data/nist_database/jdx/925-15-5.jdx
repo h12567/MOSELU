@@ -1,0 +1,63 @@
+##TITLE=Library Entry 75264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Butanedioic acid, dipropyl ester
+##MOLFORM=C10H18O4
+##CAS REGISTRY NO=925-15-5
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=1338
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          1
+    15          7
+    16          0
+    26         14
+    27        122
+    28         96
+    29         71
+    30          8
+    31         19
+    32          1
+    39         36
+    41        119
+    42         58
+    43        186
+    44          7
+    45         23
+    53          1
+    55         74
+    56         70
+    57         14
+    58          2
+    59          9
+    60          1
+    61          4
+    71          0
+    73         66
+    74         41
+    75         21
+    83          2
+    84          7
+    85          2
+    86          2
+    87          2
+    97          0
+   101        999
+   102         44
+   103          7
+   114          4
+   115          1
+   116         10
+   117          1
+   119          7
+   143        246
+   144         19
+   145          3
+   161         22
+   162          1

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 49911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-Methyl-1-penten-4-yn-3-ol
+##MOLFORM=C6H8O
+##CAS REGISTRY NO=3230-69-1
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        110
+    40         35
+    41         78
+    42         10
+    43        295
+    44         50
+    50         95
+    51        270
+    52         75
+    53        330
+    54         15
+    67         80
+    68         10
+    69        195
+    70         35
+    77         90
+    78         15
+    81        999
+    82         70
+    95        140
+    96         45
+    97          3

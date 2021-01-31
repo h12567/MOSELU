@@ -1,0 +1,64 @@
+##TITLE=Library Entry 19845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-methyl-2-(4-methylpentyl)-, trans-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=66553-50-2
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1152
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27        187
+    28         97
+    29        219
+    32         13
+    39        255
+    40         63
+    41        762
+    42        137
+    43        408
+    44         21
+    51         18
+    52         14
+    53        117
+    54        131
+    55        999
+    56        854
+    57        470
+    58         18
+    65         29
+    66         24
+    67        259
+    68        103
+    69        613
+    70        337
+    71         91
+    77         27
+    79         43
+    80         10
+    81         94
+    82        252
+    83        603
+    84        232
+    85         58
+    95         23
+    96         45
+    97        282
+    98         84
+   110         41
+   111        129
+   112        184
+   113         18
+   124         25
+   125         90
+   126         39
+   140        131
+   141         15
+   153         75
+   168        105
+   169         14

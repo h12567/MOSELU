@@ -1,0 +1,49 @@
+##TITLE=Library Entry 5832
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(7-oxabicyclo[4.1.0]hept-1-yl)-
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=15121-01-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    38         30
+    39        320
+    40         50
+    41        610
+    42        100
+    43        999
+    44         20
+    50         20
+    51         60
+    52         10
+    53        100
+    54         10
+    55        240
+    65         10
+    67         40
+    68         10
+    69        250
+    70        240
+    71         30
+    77         30
+    78         10
+    79         70
+    80         10
+    81        110
+    83         80
+    84         30
+    97        180
+    98         90
+   109         60
+   112         50
+   124         30
+   125         20
+   140         40

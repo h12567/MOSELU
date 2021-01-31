@@ -1,0 +1,61 @@
+##TITLE=Library Entry 1565
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=1,2-Dibromotetrafluoroethane
+##MOLFORM=C2Br2F4
+##CAS REGISTRY NO=124-73-2
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=541
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    19         20
+    24         18
+    31        999
+    43         25
+    50        418
+    51          4
+    62         21
+    63          1
+    69        180
+    70          3
+    79        321
+    81        322
+    91         62
+    93         58
+   100        315
+   101          7
+   103          5
+   105          6
+   110         82
+   112         83
+   122          9
+   124          9
+   129        459
+   131        441
+   141          5
+   143          5
+   158          4
+   160         84
+   162         74
+   163          1
+   170          1
+   172          2
+   174          1
+   179        973
+   181        937
+   182         22
+   189         36
+   191         72
+   193         35
+   239         24
+   241         46
+   243         23
+   258         69
+   260        129
+   262         65
+   263          1

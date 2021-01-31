@@ -1,0 +1,37 @@
+##TITLE=Library Entry 12835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Oxaspiro[4.5]dec-3-en-6-ol, 6,10,10-trimethyl-, acetate
+##MOLFORM=C14H22O3
+##CAS REGISTRY NO=54345-70-9
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        350
+    43        999
+    55        200
+    67        130
+    69        150
+    77        150
+    79        140
+    81        110
+    91        180
+    93        180
+    95        200
+   107        110
+   109        270
+   117        140
+   119        140
+   121        150
+   135        220
+   163        999
+   178        300
+   196        100
+   223         70
+   238         50

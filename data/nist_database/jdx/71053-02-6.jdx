@@ -1,0 +1,42 @@
+##TITLE=Library Entry 20350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-n-Propylthiolane, S,S-dioxide
+##MOLFORM=C7H14O2S
+##CAS REGISTRY NO=71053-02-6
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    53         40
+    54         50
+    55        999
+    56        330
+    57         30
+    67         50
+    68         60
+    69        290
+    70        400
+    71         30
+    81         60
+    82         10
+    83         30
+    91         20
+    92         20
+    95         50
+    96         70
+    97        320
+    98         30
+   110         20
+   117         20
+   118         20
+   120         30
+   145         70
+   162         30
+   163          2
+   164          1

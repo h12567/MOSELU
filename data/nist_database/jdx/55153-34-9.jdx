@@ -1,0 +1,34 @@
+##TITLE=Library Entry 79139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)102(1974); THOMAS
+##NAMES=HP
+##CAS NAME=Ethanone, 2-(benzoyloxy)-1-(4-nitrophenyl)-
+##MOLFORM=C15H11NO5
+##CAS REGISTRY NO=55153-34-9
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    50         50
+    51         80
+    75         40
+    76        100
+    77        400
+    78         40
+    92         30
+   104         90
+   105        999
+   106        150
+   120        110
+   134         30
+   135        100
+   150         30
+   151         30
+   225         50
+   239         50
+   255        140
+   285         50

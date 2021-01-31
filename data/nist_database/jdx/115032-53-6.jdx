@@ -1,0 +1,38 @@
+##TITLE=Library Entry 17717
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(Z)-2-Methoxymethoxy-4'-bromo-stilbene
+##MOLFORM=C16H15BrO2
+##CAS REGISTRY NO=115032-53-6
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    45        999
+   131         19
+   165        426
+   166        209
+   169         59
+   171         59
+   176         60
+   177         29
+   178         59
+   194        148
+   199         19
+   201         19
+   207         29
+   212         79
+   214         79
+   245         69
+   247         69
+   273        289
+   275        287
+   286         19
+   288         19
+   318        297
+   320        298

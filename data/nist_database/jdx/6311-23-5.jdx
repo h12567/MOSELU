@@ -1,0 +1,58 @@
+##TITLE=Library Entry 99831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-(((4-methylphenyl)sulfonyl)amino)-
+##MOLFORM=C14H13NO4S
+##CAS REGISTRY NO=6311-23-5
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    50          8
+    51         27
+    52         28
+    53         10
+    62          7
+    63         71
+    64         64
+    65        308
+    66         20
+    67          2
+    76          3
+    77         21
+    78          5
+    79          7
+    80          4
+    89         35
+    90         43
+    91        710
+    92        284
+    93         14
+   107          9
+   108          4
+   119        999
+   120        264
+   121         16
+   135          8
+   137         84
+   138          2
+   139         32
+   140          1
+   155         74
+   156         25
+   180         14
+   181          3
+   182          4
+   208          6
+   209         24
+   210          1
+   273         30
+   274          2
+   291        364
+   292         57
+   293         15

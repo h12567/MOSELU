@@ -1,0 +1,59 @@
+##TITLE=Library Entry 53302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.N.Bochkarev
+##NAMES=HP
+##CAS NAME=3-(2-Butyl)-6-isopropyl-4-methyl-2,5-dioxomorpholine
+##MOLFORM=C12H21NO3
+##CAS REGISTRY NO=2503-14-2
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    29         44
+    30         20
+    40         20
+    41        114
+    42        422
+    43         89
+    45         79
+    46         24
+    55         24
+    56         96
+    57        176
+    59         24
+    69        480
+    70         58
+    71        342
+    72         24
+    83        999
+    84        446
+    85         31
+    88         27
+    89         17
+    98         27
+    99         20
+   100        131
+   101         17
+   111         27
+   112         34
+   114         20
+   126         79
+   127         20
+   128         20
+   129         93
+   142        110
+   143         24
+   155         24
+   156        207
+   157         24
+   170         55
+   171        678
+   172         72
+   185        211
+   212         34
+   227         62
+   228         34

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 53677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Spiteller, Monantsh Chem., 96,104(1965)
+##NAMES=HP
+##CAS NAME=Pelletierine
+##MOLFORM=C8H15NO
+##CAS REGISTRY NO=4396-01-4
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         89
+    42         62
+    43        252
+    54         37
+    55         98
+    56        192
+    57         33
+    58         60
+    69         16
+    79         18
+    80         84
+    81         25
+    82         82
+    83         42
+    84        999
+    85         52
+    97         16
+    98        123
+    99         10
+   126          8
+   140         16
+   141        111
+   142          8

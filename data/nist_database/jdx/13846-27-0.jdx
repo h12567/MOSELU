@@ -1,0 +1,29 @@
+##TITLE=Library Entry 36785
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,3-Bis(difluoroamino)-1,1,1,4,4,4-hexafluoro-2-butene
+##MOLFORM=C4F10N2
+##CAS REGISTRY NO=13846-27-0
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    31         84
+    32          1
+    50         60
+    51          1
+    69        999
+    70         11
+    76         35
+    77          1
+   114         65
+   115          2
+   176         37
+   177          2
+   247        129
+   248          7

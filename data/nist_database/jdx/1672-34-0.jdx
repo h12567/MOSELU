@@ -1,0 +1,57 @@
+##TITLE=Library Entry 40885
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3,6-Bis[methylthio]-1,2,4,5-tetrazine
+##MOLFORM=C4H6N4S2
+##CAS REGISTRY NO=1672-34-0
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         13
+    42          5
+    44         71
+    45        318
+    46        235
+    47        169
+    53          1
+    54          4
+    55          2
+    56          4
+    57         11
+    58        108
+    59         15
+    60          5
+    61          1
+    64          0
+    67          1
+    70         13
+    72        178
+    73        999
+    74        194
+    75         46
+    76          9
+    78          1
+    83          1
+    88          5
+    90          1
+    97          1
+    99          3
+   111          1
+   116          3
+   119          0
+   131          3
+   133          0
+   148          0
+   172          1
+   174        261
+   175         21
+   176         24
+   177          1
+   178          1

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 40677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. KURODA, DEPT. APPL. CHEM., WASEDA UNIV., TOKYO
+##NAMES=HP
+##CAS NAME=3,3,5-Triisopropoxy-1,1,1,7,7,7-hexamethyl-5-(trimethylsiloxy)tet
+rasiloxane
+##MOLFORM=C18H48O7Si5
+##CAS REGISTRY NO=71579-65-2
+##MP= -300
+##BP= -300
+##MW= 516
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        107
+    43        452
+    44         31
+    45         47
+    59         33
+    73        999
+    74         88
+    75         62
+    87         12
+   251         17
+   253         17
+   267         31
+   325         62
+   327        204
+   328         60
+   329         39
+   341        156
+   342         65
+   343        162
+   344         48
+   345         33
+   375         98
+   376         33
+   377         23
+   415         16
+   417         17
+   457        130
+   458         52
+   459         30
+   460         11
+   501         16

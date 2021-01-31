@@ -1,0 +1,30 @@
+##TITLE=Library Entry 97415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(4-Fluoro-phenylthio)indan
+##MOLFORM=C15H13FS
+##CAS REGISTRY NO=75102-58-8
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    51         25
+    63         52
+    65         39
+    73         82
+    89         46
+    91        156
+   115        564
+   116        670
+   117        999
+   118         95
+   127         69
+   128         36
+   244        399
+   245         69
+   246         22

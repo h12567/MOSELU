@@ -1,0 +1,67 @@
+##TITLE=Library Entry 55411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Vinyltriethylsilane
+##MOLFORM=C8H18Si
+##CAS REGISTRY NO=1112-54-5
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15          5
+    25          2
+    26         12
+    27         61
+    29        136
+    30         12
+    31        136
+    33          4
+    39          7
+    40          1
+    41          4
+    42         16
+    43        120
+    44         19
+    45         54
+    46          2
+    47          2
+    53         48
+    54         21
+    55        143
+    56         88
+    57        452
+    58         88
+    59        173
+    60         12
+    61          5
+    65          2
+    66          4
+    67         11
+    69          8
+    70          6
+    71         13
+    72          3
+    73          3
+    79          2
+    80          2
+    81         10
+    82         10
+    83         92
+    85        999
+    86         95
+    87         75
+    88          6
+   100         14
+   101         17
+   102          2
+   111          3
+   113        529
+   114        214
+   115         36
+   116          5
+   142         21

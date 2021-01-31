@@ -1,0 +1,56 @@
+##TITLE=Library Entry 11880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.DARLING INST. PAPER CHEM., APPLETON, WIS., USA
+##NAMES=HP
+##CAS NAME=Salirepin, hexaacetate
+##MOLFORM=C25H30O14
+##CAS REGISTRY NO=20688-96-4
+##MP= -300
+##BP= -300
+##MW= 554
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    43        999
+    44        106
+    45         71
+    55         64
+    57         53
+    60         53
+    61         43
+    65         39
+    69         82
+    71         46
+    73         64
+    81        216
+    85        127
+    94        127
+    97        231
+    98         64
+    99         78
+   103        135
+   109        436
+   110        131
+   111         46
+   115        156
+   122        575
+   123        210
+   127        582
+   139        241
+   145        142
+   164         43
+   165         78
+   169        532
+   170        174
+   182        163
+   187        153
+   211         57
+   225         35
+   229        142
+   271         57
+   289         46
+   331        334
+   332         53
+   512          0

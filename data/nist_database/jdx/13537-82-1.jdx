@@ -1,0 +1,41 @@
+##TITLE=Library Entry 51349
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Ethyl-4-methyl-2-cyclohexanone-1-carboxylate
+##MOLFORM=C10H16O3
+##CAS REGISTRY NO=13537-82-1
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        291
+    41        465
+    43        210
+    55        674
+    67        785
+    68        346
+    69        463
+    81        219
+    82        999
+    83        182
+    95        216
+    96        151
+   101        107
+   110        132
+   111         81
+   114        180
+   123        101
+   137        308
+   138        757
+   139        400
+   155        170
+   156        139
+   169         37
+   184        533
+   185         77

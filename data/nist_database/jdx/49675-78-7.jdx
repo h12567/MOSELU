@@ -1,0 +1,52 @@
+##TITLE=Library Entry 76929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.T.Lebedev, Moscow State University
+##NAMES=HP
+##CAS NAME=1H-Indole-2,3-dione, 5-bromo-, 3-oxime
+##MOLFORM=C8H5BrN2O2
+##CAS REGISTRY NO=49675-78-7
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    25         15
+    26         28
+    39         46
+    41         15
+    42         48
+    43         25
+    63        171
+    64         11
+    77        272
+    78         11
+    90        240
+    91        182
+    92         19
+   104        999
+   105        258
+   106         50
+   115        170
+   116         50
+   117        112
+   118         62
+   119         58
+   146        192
+   147         17
+   160        116
+   161         11
+   196        210
+   197         27
+   198        200
+   199         27
+   222        154
+   223         24
+   224        154
+   225         27
+   240         70
+   241         10
+   242         70
+   243         10

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 45534
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Allyloxy-dimethyl-silane
+##MOLFORM=C5H12OSi
+##CAS REGISTRY NO=23483-20-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    45        419
+    47         81
+    53         33
+    55         69
+    57         62
+    58         89
+    59        744
+    60         73
+    61        335
+    63         11
+    69         10
+    71        223
+    73        158
+    74         32
+    75        999
+    76         77
+    77         37
+    85        183
+    86         28
+    87         37
+    88         26
+    89         49
+    92         19
+    97         19
+    99        861
+   100         86
+   101        735
+   102         72
+   103         28
+   115        183
+   116         20
+   117         10

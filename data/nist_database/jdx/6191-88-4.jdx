@@ -1,0 +1,57 @@
+##TITLE=Library Entry 32769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.N.R.S. LABORATOIRE DES GAZ, FRANCE.
+##NAMES=HP
+##CAS NAME=Spiropentane, propyl-
+##MOLFORM=C8H14
+##CAS REGISTRY NO=6191-88-4
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         11
+    26         24
+    27        306
+    28         85
+    29        173
+    30          4
+    37          8
+    38         28
+    39        439
+    40        161
+    41        576
+    42        509
+    43         69
+    50         29
+    51         63
+    52         40
+    53        372
+    54        319
+    55        558
+    56        101
+    57          7
+    63         14
+    65         75
+    66         72
+    67        999
+    68        347
+    69        103
+    70         19
+    77         60
+    78          9
+    79          4
+    80         38
+    81        797
+    82        196
+    83         12
+    91         14
+    93         32
+    94          3
+    95        503
+    96         40
+   109         12
+   110          2

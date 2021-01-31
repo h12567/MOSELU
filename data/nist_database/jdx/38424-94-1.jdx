@@ -1,0 +1,43 @@
+##TITLE=Library Entry 36653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=D-Xylose, 2,3,4,5-tetrakis(trifluoroacetate)
+##MOLFORM=C13H6F12O9
+##CAS REGISTRY NO=38424-94-1
+##MP= -300
+##BP= -300
+##MW= 534
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29         74
+    41        118
+    43         72
+    59         79
+    69        999
+    71         63
+    97        346
+    99         75
+   117         50
+   125         73
+   137         94
+   140         78
+   153        210
+   165        234
+   167         54
+   180         99
+   182         54
+   193        970
+   194        111
+   196        130
+   209         64
+   252        130
+   265        525
+   266         52
+   278        821
+   279        198
+   287         82

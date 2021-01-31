@@ -1,0 +1,27 @@
+##TITLE=Library Entry 82987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Formamide, N-(2-formylphenyl)-N-methyl-
+##MOLFORM=C9H9NO2
+##CAS REGISTRY NO=52479-54-6
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    50        180
+    51        370
+    65        170
+    66        110
+    77        300
+    78        230
+    79        190
+    91        230
+   106        999
+   118        200
+   135        899
+   163        280

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 34738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=3-Bromo-5-isopropyl-1,2,4-oxadiazole
+##MOLFORM=C5H7BrN2O
+##CAS REGISTRY NO=121562-07-0
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         72
+    27        405
+    28        156
+    29        309
+    30         63
+    32         12
+    36          3
+    37         26
+    38         53
+    39        356
+    40         95
+    41        599
+    42        192
+    43        776
+    44         51
+    50          7
+    51         24
+    52         23
+    53        128
+    54         53
+    55        637
+    56         35
+    64         15
+    65          3
+    66         16
+    67         15
+    69        999
+    70         49
+    79         25
+    80         54
+    81         48
+    82         19
+    83        221
+    84         11
+    91         11
+    93         17
+    95         12
+   105          4
+   106         66
+   107          7
+   108         63
+   111        183
+   112          9
+   119          9
+   120         10
+   121         94
+   122         13
+   123         81
+   133         60
+   135         55
+   145          7
+   147         11
+   148         14
+   149          5
+   150         13
+   160         43
+   162         42
+   175         70
+   176          4
+   177         67
+   190        122
+   191         11
+   192        119
+   193          6

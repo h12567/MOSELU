@@ -1,0 +1,28 @@
+##TITLE=Library Entry 89333
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. NAOSHIMA, COLL. AGRIC., OSAKA PREFECT. UNIV., OSAKA,
+ JAPAN
+##NAMES=HP
+##CAS NAME=2-Hydroxy-5-ethyl-5-methylcyclopent-2-en-1-one
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=53263-57-3
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    39        410
+    41        540
+    43        480
+    55        820
+    69        320
+    83        220
+    94        420
+    97        230
+   111        330
+   112        999
+   125        240
+   140        180

@@ -1,0 +1,76 @@
+##TITLE=Library Entry 62107
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-(N-Benzyl-N-methylamino)-1,2-propanediol
+##MOLFORM=C11H17NO2
+##CAS REGISTRY NO=60278-98-0
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          1
+    27          2
+    29          3
+    30          2
+    31          9
+    38          1
+    39         15
+    40          1
+    41          9
+    42         43
+    43         19
+    44         24
+    45          3
+    50          4
+    51         14
+    52          4
+    53          1
+    55          1
+    56          1
+    57          5
+    58         11
+    59          1
+    60          1
+    61          4
+    62          3
+    63         16
+    64          5
+    65         93
+    66          5
+    70          1
+    72          3
+    74          1
+    75          1
+    76          1
+    77         11
+    78          5
+    79          1
+    86          1
+    89         20
+    90         12
+    91        999
+    92         85
+    93          3
+   103          2
+   104          3
+   105          3
+   116          1
+   117          5
+   118         11
+   119          1
+   120         14
+   121          5
+   130          1
+   131          2
+   132         12
+   134        577
+   135         59
+   136          2
+   164         26
+   165          3
+   195          5

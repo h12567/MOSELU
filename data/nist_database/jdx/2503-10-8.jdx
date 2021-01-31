@@ -1,0 +1,57 @@
+##TITLE=Library Entry 51984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.N.Bochkarev
+##NAMES=HP
+##CAS NAME=4-Methyl-3,6-diisopropyl-2,5-diketomorpholine
+##MOLFORM=C11H19NO3
+##CAS REGISTRY NO=2503-10-8
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    29         51
+    30         17
+    39         72
+    40         10
+    41         20
+    42        622
+    43         96
+    44         13
+    55         51
+    56         65
+    57         20
+    58         17
+    69        384
+    70        103
+    71        349
+    72         27
+    83        999
+    84        311
+    86        107
+    87         24
+    88        166
+    89         20
+    98         27
+    99         17
+   100        100
+   112         55
+   113         20
+   114         65
+   126         69
+   127         17
+   128         17
+   129         48
+   142        231
+   143         55
+   154         24
+   155         17
+   156         55
+   170         62
+   171        608
+   172         41
+   198         27
+   213         76

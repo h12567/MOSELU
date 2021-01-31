@@ -1,0 +1,60 @@
+##TITLE=Library Entry 30087
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=N-(3-Hydroxy-3-methylbutyl)imidazole
+##MOLFORM=C8H14N2O
+##CAS REGISTRY NO=106017-19-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27        259
+    29         96
+    31        171
+    39        141
+    40        159
+    41        619
+    42        146
+    43        504
+    45         83
+    53         83
+    54        187
+    55        114
+    57         79
+    59        999
+    68        707
+    69        991
+    70        107
+    71        124
+    72        123
+    81        813
+    82        163
+    83         32
+    87        114
+    94        100
+    95        198
+    96        162
+    97         64
+    98        147
+   104         65
+   108         33
+   109         70
+   121        365
+   122         54
+   127        294
+   128         27
+   135        114
+   136        147
+   137        103
+   139        243
+   144         23
+   145         15
+   153         70
+   154        807
+   155         97
+   156          7

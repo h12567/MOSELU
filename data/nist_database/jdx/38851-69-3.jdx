@@ -1,0 +1,34 @@
+##TITLE=Library Entry 20347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. INOUE, DEP. APPL. CHEM., HIMEJI INST. TECHNOL., HYOG
+O, JPN.
+##NAMES=HP
+##CAS NAME=cis-1-Butyl-2-methylcyclopropane
+##MOLFORM=C8H16
+##CAS REGISTRY NO=38851-69-3
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=834
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41        507
+    42        726
+    43        150
+    54         47
+    55        999
+    56        785
+    57        253
+    67         34
+    68         64
+    69        392
+    70        886
+    71         95
+    82         92
+    83        368
+    84        222
+    97         50
+   112        351
+   113         32

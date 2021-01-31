@@ -1,0 +1,53 @@
+##TITLE=Library Entry 90974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Ethane, 1-[(2-diisopropylamino)ethylthio]-2-[(2-diisopropylamino)
+ethyldithio]-
+##MOLFORM=C18H40N2S3
+##CAS REGISTRY NO=110501-59-2
+##MP= -300
+##BP= -300
+##MW= 380
+##$RETENTION INDEX=2562
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    45         12
+    56         40
+    58         23
+    59         10
+    61         20
+    70         69
+    71         12
+    72        167
+    73         10
+    84         28
+    85         11
+    86         24
+    98         10
+   102         11
+   112         10
+   114        999
+   115         80
+   116          5
+   118          7
+   119          3
+   127          4
+   128         28
+   129          3
+   130          6
+   144         17
+   145          1
+   158          2
+   160         11
+   161          2
+   162          2
+   188          5
+   204          1
+   220          1
+   253          9
+   254          1
+   255          1
+   365          1

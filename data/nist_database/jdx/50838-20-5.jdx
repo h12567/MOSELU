@@ -1,0 +1,54 @@
+##TITLE=Library Entry 23318
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-[(1,1-dimethylethyl)thio]-, methyl ester
+##MOLFORM=C8H14O2S
+##CAS REGISTRY NO=50838-20-5
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         68
+    28        297
+    29        331
+    30         12
+    31         29
+    32         21
+    39         80
+    40         12
+    41        400
+    42         34
+    43         42
+    44         68
+    45         76
+    53         29
+    54         12
+    55         68
+    56         76
+    57        999
+    58         85
+    59        119
+    60         21
+    61          8
+    74         17
+    85         21
+    86        280
+    87        229
+    88         29
+    89         17
+    99          8
+   118        263
+   119         34
+   120         17
+   127         17
+   143         34
+   144         12
+   159         12
+   174        153
+   175         25

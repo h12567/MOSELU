@@ -1,0 +1,48 @@
+##TITLE=Library Entry 23421
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.Gorski ET AL. J.Chrom.,509,383(1990)
+##NAMES=HP
+##CAS NAME=N-2-Ethylhexanoylimidazole
+##MOLFORM=C11H18N2O
+##CAS REGISTRY NO=62615-83-2
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    40        118
+    41        383
+    42         85
+    43        249
+    44         45
+    50         12
+    51         16
+    53         28
+    54         16
+    55        203
+    56         34
+    57        999
+    58         53
+    67         28
+    68         91
+    69        158
+    70         39
+    71         16
+    72         12
+    77         10
+    80         26
+    83         39
+    95         37
+    96         12
+    97         30
+    99        144
+   100         25
+   126         22
+   127        164
+   128         14
+   133         14
+   166         14
+   194         51

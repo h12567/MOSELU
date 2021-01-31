@@ -1,0 +1,73 @@
+##TITLE=Library Entry 23683
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1206
+##NAMES=HP
+##CAS NAME=2-Butanone, 1-bromo-3,3-dimethyl-
+##MOLFORM=C6H11BrO
+##CAS REGISTRY NO=5469-26-1
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          4
+    26          2
+    27         25
+    28          8
+    29        212
+    30          5
+    37          1
+    38          4
+    39         53
+    40          8
+    41        373
+    42         26
+    43         38
+    44          1
+    50          3
+    51          3
+    52          1
+    53          8
+    54          1
+    55         49
+    56         31
+    57        999
+    58         55
+    59          1
+    65          2
+    67          3
+    69          3
+    70          2
+    71          1
+    79          2
+    80          5
+    81          2
+    82          5
+    83          2
+    85        289
+    86         15
+    87          1
+    92          1
+    93         16
+    94          1
+    95         15
+   100          9
+   101          2
+   107          1
+   109          1
+   120          2
+   121         18
+   122          2
+   123         17
+   135          4
+   137          3
+   163          1
+   165          1
+   178          9
+   179          7
+   180          9
+   181          6

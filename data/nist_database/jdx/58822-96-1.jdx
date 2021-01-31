@@ -1,0 +1,31 @@
+##TITLE=Library Entry 77586
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MAQUESTIAU, ORG. CHEM. SERVICE, STATE UNIV., MONS, B
+ELGIU
+##NAMES=HP
+##CAS NAME=1,2-Diethyl-1,2-dihydro-3,6-diphenyl-S-tetrazine
+##MOLFORM=C18H20N4
+##CAS REGISTRY NO=58822-96-1
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    50         32
+    51         51
+    76         70
+    77        121
+   103        172
+   104        999
+   105         96
+   118         32
+   132        548
+   133         64
+   147         25
+   263        363
+   264         89
+   292        459
+   293        108

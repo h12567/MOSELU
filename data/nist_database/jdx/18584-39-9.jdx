@@ -1,0 +1,79 @@
+##TITLE=Library Entry 89549
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7725
+##NAMES=HP
+##CAS NAME=5-Hydroxypyridazine 1-oxide
+##MOLFORM=C4H4N2O2
+##CAS REGISTRY NO=18584-39-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14         13
+    15          1
+    16          1
+    17         13
+    18         63
+    24          2
+    25          7
+    26         48
+    27        222
+    28        201
+    29         42
+    30         33
+    31          2
+    34          1
+    36          2
+    37         10
+    38         29
+    39         52
+    40         66
+    41         61
+    42         99
+    43         15
+    44         69
+    45          1
+    49          2
+    50          8
+    51         22
+    52         12
+    53         24
+    54         13
+    55        105
+    56          9
+    57          3
+    58         14
+    63          1
+    64          3
+    65         11
+    66          9
+    67         51
+    68         66
+    69        106
+    70          9
+    71          1
+    76          1
+    77          2
+    78          4
+    80          1
+    81          1
+    82          9
+    83          3
+    84          3
+    85          1
+    93          1
+    94          4
+    95          5
+    96        223
+    97         19
+    98          1
+   111          2
+   112        999
+   113         76
+   114          7

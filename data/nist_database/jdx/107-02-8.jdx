@@ -1,0 +1,35 @@
+##TITLE=Library Entry 21910
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Propenal
+##MOLFORM=C3H4O
+##CAS REGISTRY NO=107-02-8
+##MP= -300
+##BP= -300
+##MW= 56
+##$RETENTION INDEX=456
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    13         22
+    14         52
+    16         28
+    24         42
+    25        184
+    26        728
+    27        954
+    28        530
+    29        564
+    36         70
+    37        180
+    38        150
+    39        104
+    40         22
+    41         20
+    52         38
+    53        107
+    55        718
+    56        999
+    57         41

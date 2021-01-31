@@ -1,0 +1,52 @@
+##TITLE=Library Entry 73379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Phosphorochloridous acid, diethyl ester
+##MOLFORM=C4H10ClO2P
+##CAS REGISTRY NO=589-57-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    25          3
+    26         53
+    27        211
+    29        315
+    30         15
+    42         10
+    43         41
+    45         24
+    47         52
+    48         27
+    65        325
+    68          6
+    76         14
+    83        179
+    84          2
+    85         58
+    93        139
+    99         30
+   100        999
+   101         49
+   102        332
+   103          9
+   111        101
+   112         21
+   113         40
+   119          2
+   121        202
+   128        193
+   129         55
+   130         66
+   131         16
+   140          1
+   145          1
+   156        134
+   157          8
+   158         44
+   159          2

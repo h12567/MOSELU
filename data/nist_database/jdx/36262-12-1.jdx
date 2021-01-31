@@ -1,0 +1,79 @@
+##TITLE=Library Entry 66499
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.0]hex-3-en-2-one, 5-(1-methylethyl)-
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=36262-12-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1117
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         54
+    31          1
+    37          7
+    38         27
+    39        228
+    40         40
+    41         63
+    42          6
+    43         94
+    44          5
+    45         10
+    47          1
+    49          3
+    50         40
+    51         94
+    52         41
+    53         65
+    58          1
+    60          3
+    61         11
+    62         32
+    63         87
+    64         25
+    65        194
+    66        115
+    72          1
+    73          2
+    74         11
+    75          6
+    76          5
+    77        644
+    78        101
+    79        177
+    80         14
+    85          1
+    86          2
+    87          1
+    89          7
+    90          3
+    91        600
+    92         67
+    93        999
+    94        364
+    98          1
+   102          2
+   103         28
+   104          4
+   105         31
+   106          6
+   107         78
+   108        188
+   115          4
+   116          1
+   117          9
+   118          3
+   119          6
+   120          3
+   121        759
+   122         71
+   123          3
+   135          8
+   136        107
+   137         15

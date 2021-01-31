@@ -1,0 +1,33 @@
+##TITLE=Library Entry 50761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thymidine, 5'-deoxy-5'-(3,4-dihydro-5-methyl-2,4-dioxo-1(2H)-pyri
+midinyl)-
+##MOLFORM=C15H18N4O6
+##CAS REGISTRY NO=35959-35-4
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        140
+    28        150
+    39         70
+    43         20
+    53        170
+    54        110
+    55        250
+    81        999
+    82        100
+    96         60
+   126        270
+   127         80
+   139         30
+   206        120
+   207         40
+   225         40
+   350          5

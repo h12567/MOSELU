@@ -1,0 +1,27 @@
+##TITLE=Library Entry 69390
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Silacyclohexa-2,5-diene
+##MOLFORM=C5H8Si
+##CAS REGISTRY NO=81200-77-3
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    43        203
+    53        240
+    55        279
+    66        188
+    67        360
+    68        339
+    69        240
+    70        159
+    81        160
+    93        259
+    95        526
+    96        999

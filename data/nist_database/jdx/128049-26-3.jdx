@@ -1,0 +1,65 @@
+##TITLE=Library Entry 79808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4609
+##NAMES=HP
+##CAS NAME=3,4-Dibenzamido-nitro-benzene
+##MOLFORM=C20H15N3O4
+##CAS REGISTRY NO=128049-26-3
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27          2
+    28          3
+    30          1
+    38          1
+    39          2
+    50          8
+    51         40
+    52          5
+    53          1
+    62          3
+    63          4
+    64          1
+    74          2
+    75          3
+    76          9
+    77        322
+    78         26
+    79          2
+    88          1
+    89          2
+    90          2
+   103          3
+   104          5
+   105        999
+   106         77
+   107          4
+   122          6
+   139          1
+   166          2
+   181          1
+   192          1
+   193          5
+   194          2
+   209          8
+   210          2
+   223          2
+   226          4
+   227          1
+   239        131
+   240         28
+   241          3
+   313          2
+   331          5
+   332          1
+   343         22
+   344          5
+   345          1
+   361        109
+   362         24
+   363          4

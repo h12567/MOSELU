@@ -1,0 +1,59 @@
+##TITLE=Library Entry 35217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Propanenitrile, 2,2'-azobis[2-methyl-
+##MOLFORM=C8H12N4
+##CAS REGISTRY NO=78-67-1
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         48
+    18          1
+    26         26
+    27        111
+    28         77
+    29         16
+    30          4
+    37         18
+    38         39
+    39        209
+    40         66
+    41        413
+    42        278
+    43         25
+    44          5
+    50         15
+    51         53
+    52        108
+    53         56
+    54        342
+    55         23
+    63         11
+    64         23
+    65         16
+    66         36
+    67         59
+    68        475
+    69        999
+    70         50
+    75          2
+    76          4
+    77         12
+    78         15
+    79         12
+    80         32
+    81         10
+    82          5
+    92          4
+    93         14
+    94         47
+    95          8
+   105          6
+   121         37

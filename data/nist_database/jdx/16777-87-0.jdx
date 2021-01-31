@@ -1,0 +1,78 @@
+##TITLE=Library Entry 76477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,3-Diethoxy-1-propanol
+##MOLFORM=C7H16O3
+##CAS REGISTRY NO=16777-87-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=1611
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    13          3
+    14          8
+    15         36
+    19        137
+    20          2
+    24          1
+    25          6
+    26         45
+    27        210
+    28         34
+    29        377
+    30         40
+    31        312
+    33          1
+    36          1
+    37          2
+    38          2
+    39          7
+    41         11
+    42         22
+    43        166
+    44        170
+    45        561
+    46         67
+    47        613
+    48          9
+    49          3
+    53          3
+    54          2
+    55         47
+    56         54
+    57        296
+    58         40
+    59         83
+    60          3
+    61          9
+    69          1
+    70          1
+    71         17
+    72        104
+    73        109
+    74         11
+    75        632
+    76         23
+    77          3
+    83          1
+    85         12
+    86          2
+    87          1
+    88          1
+    89          1
+    91          1
+    98          1
+    99          1
+   100          2
+   101          9
+   102         27
+   103        999
+   104         60
+   105          6
+   119          4
+   135          1
+   147          3

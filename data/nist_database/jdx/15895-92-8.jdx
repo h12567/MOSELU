@@ -1,0 +1,42 @@
+##TITLE=Library Entry 42081
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.A.Khmel'nitsky
+##NAMES=HP
+##CAS NAME=1,5-Di(trimethylsilyl)pentane
+##MOLFORM=C11H28Si2
+##CAS REGISTRY NO=15895-92-8
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    28         22
+    29         13
+    31         17
+    43         44
+    44         31
+    45         89
+    57         12
+    58         13
+    59         86
+    71         10
+    72         30
+    73        999
+    74         82
+    75         47
+    85         69
+    86         10
+    99         36
+   100         18
+   101         19
+   113        334
+   114         39
+   115         13
+   127         56
+   128         31
+   129         12
+   201         10
+   216          6

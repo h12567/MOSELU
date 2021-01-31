@@ -1,0 +1,62 @@
+##TITLE=Library Entry 5267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=5-Allyl-4-hydroxy-2,6-dimethylpyrimidine
+##MOLFORM=C9H12N2O
+##CAS REGISTRY NO=78304-54-8
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    35          8
+    36          8
+    38          9
+    39        182
+    40        156
+    41        224
+    42        999
+    43        102
+    44         97
+    50         31
+    51        105
+    52        112
+    53        187
+    54         97
+    55         65
+    56         29
+    57          8
+    65         48
+    66         38
+    67         42
+    68         37
+    70          8
+    77        114
+    78         46
+    79        180
+    80        194
+    81         38
+    82         13
+    93          8
+    94        150
+    95         20
+   105         30
+   106         42
+   108         23
+   109         11
+   120         17
+   121         15
+   122         28
+   123         35
+   135         15
+   137         31
+   147         63
+   149        621
+   150         61
+   163         49
+   164        416
+   165         35

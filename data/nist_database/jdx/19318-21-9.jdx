@@ -1,0 +1,30 @@
+##TITLE=Library Entry 96892
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KOBATAKE,CENT. RES. LAB.,ZERIA PHARM. LTD.,SAITAMA-K
+EN,JAP.
+##NAMES=HP
+##CAS NAME=1,4,5-Tri-O-acetyl-2,3-di-O-methylarabinitol
+##MOLFORM=C13H22O8
+##CAS REGISTRY NO=19318-21-9
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        566
+    57        103
+    71        125
+    87        274
+    99        177
+   101        182
+   113         89
+   117        999
+   129        440
+   142         44
+   161         45
+   173        127
+   189         99
+   217         34

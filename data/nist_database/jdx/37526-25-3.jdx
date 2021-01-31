@@ -1,0 +1,40 @@
+##TITLE=Library Entry 77850
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-6-phenyl-3-thioxo-5-oxo-2,3,4,5-tetrahydro-1,2,4-triazin
+e
+##MOLFORM=C10H9N3OS
+##CAS REGISTRY NO=37526-25-3
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41         70
+    43        284
+    45        112
+    50        251
+    55        312
+    59        118
+    60        322
+    63        299
+    73        468
+    74         81
+    76        321
+    77        498
+    83        238
+    86        101
+    88        151
+    89        321
+   103        262
+   104        999
+   116        141
+   131        302
+   132        403
+   159         60
+   160         50
+   219        741

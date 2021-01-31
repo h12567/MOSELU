@@ -1,0 +1,39 @@
+##TITLE=Library Entry 74294
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4,(13)1564(1977); D. HORTON ET AL.
+##NAMES=HP
+##CAS NAME=.beta.-d-Erythro-hexopyranoside, methyl 2,3-dideoxy-4,6-O-(phenyl
+methylene)-
+##MOLFORM=C14H18O4
+##CAS REGISTRY NO=26532-08-1
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    59         69
+    69        280
+    77         70
+    79         22
+    83         16
+    91         80
+    96          2
+   101        999
+   105        110
+   106         34
+   107         21
+   114         19
+   127          8
+   144         11
+   149         22
+   173          2
+   190          1
+   207         58
+   218          6
+   219          2
+   249         20
+   250         37
+   251          5

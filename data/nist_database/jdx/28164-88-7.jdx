@@ -1,0 +1,45 @@
+##TITLE=Library Entry 82081
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.H. HUANG, CHIN. ACAD. SCI., SHANGHAI, CHINA
+##NAMES=HP
+##CAS NAME=Daphnetoxin
+##MOLFORM=C27H30O8
+##CAS REGISTRY NO=28164-88-7
+##MP= -300
+##BP= -300
+##MW= 482
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+   105        999
+   161        727
+   189        364
+   217        327
+   230        282
+   241        295
+   255        341
+   265        277
+   270        318
+   271        273
+   283        818
+   284        327
+   295        259
+   301        189
+   311        364
+   317        545
+   324        295
+   329        264
+   342        227
+   359         59
+   360        141
+   377         91
+   405        136
+   406        114
+   415         95
+   417         82
+   433        182
+   451        250
+   464         50
+   482        227

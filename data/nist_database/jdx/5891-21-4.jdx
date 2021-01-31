@@ -1,0 +1,62 @@
+##TITLE=Library Entry 8061
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Pentanone, 5-chloro-
+##MOLFORM=C5H9ClO
+##CAS REGISTRY NO=5891-21-4
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=965
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         26
+    27         81
+    28         34
+    29         17
+    31          3
+    32          1
+    35          2
+    36          6
+    37         12
+    38         22
+    39        106
+    40         20
+    41        191
+    42        100
+    43        999
+    44         25
+    45          3
+    48          3
+    49         37
+    50          8
+    51         16
+    52          2
+    53          9
+    54          3
+    55         12
+    56          3
+    57          2
+    58        264
+    59         11
+    60          2
+    61          4
+    62          4
+    63          4
+    69          7
+    71          4
+    75          2
+    77         27
+    79          9
+    82          4
+    83          6
+    84         29
+    85         11
+   105         36
+   107         12
+   120         36
+   121          2
+   122         12

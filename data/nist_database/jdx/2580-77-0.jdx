@@ -1,0 +1,64 @@
+##TITLE=Library Entry 16795
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethanol, 2,2'-sulfonylbis-
+##MOLFORM=C4H10O4S
+##CAS REGISTRY NO=2580-77-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         43
+    27        380
+    29        201
+    30         14
+    31        131
+    38         12
+    39         19
+    40         56
+    41        112
+    42         59
+    43        508
+    44        281
+    45        999
+    46        162
+    47         22
+    48         47
+    49          9
+    50          6
+    58          6
+    59         16
+    60         14
+    61         15
+    62          8
+    63        162
+    64         56
+    65         73
+    66         22
+    72         60
+    73         11
+    75         25
+    76         13
+    78         10
+    79         10
+    80         13
+    81        157
+    83          9
+    87          9
+    91         11
+    93        293
+    94         12
+    95         15
+   106          6
+   107         20
+   109         49
+   111        121
+   113          6
+   124         13
+   127          6
+   135         14

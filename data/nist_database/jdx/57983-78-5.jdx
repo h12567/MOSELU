@@ -1,0 +1,55 @@
+##TITLE=Library Entry 12289
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=Glycine, N-methyl-N-(trifluoroacetyl)-, 1-methylpentyl ester
+##MOLFORM=C11H18F3NO3
+##CAS REGISTRY NO=57983-78-5
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    40         13
+    41        242
+    42        210
+    43        999
+    44         76
+    45          7
+    49          5
+    50          3
+    53         12
+    54          6
+    55        127
+    56         73
+    57        122
+    58         10
+    60         31
+    64          2
+    69        154
+    70          3
+    72         71
+    78         34
+    83          2
+    84         50
+    85        281
+    86         20
+    88         13
+    90         22
+    97         17
+   110          9
+   112         22
+   126         11
+   139          6
+   140        682
+   141        501
+   142         31
+   166         13
+   168        134
+   169          5
+   185        128
+   186         26

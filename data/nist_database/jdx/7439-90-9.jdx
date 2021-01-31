@@ -1,0 +1,24 @@
+##TITLE=Library Entry 54065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLANTIC REFINING CO., PHILADELPHIA, PENNSYLVANIA
+##NAMES=HP
+##CAS NAME=Krypton
+##MOLFORM=Kr
+##CAS REGISTRY NO=7439-90-9
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    41         34
+    42        159
+    43         49
+    78          6
+    80         42
+    82        206
+    83        205
+    84        999
+    86        306

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 44951
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methane, trimethoxy-
+##MOLFORM=C4H10O3
+##CAS REGISTRY NO=149-73-5
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=657
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         11
+    14         57
+    15        411
+    16          9
+    17          0
+    19          1
+    26          1
+    27          6
+    29        447
+    31        740
+    32         13
+    33         12
+    41          0
+    42          2
+    43          8
+    44         12
+    45         54
+    46          0
+    47        536
+    48         11
+    49          1
+    59         25
+    60          1
+    61          5
+    75        999
+    76         35
+    77          5
+   105         17
+   106          0

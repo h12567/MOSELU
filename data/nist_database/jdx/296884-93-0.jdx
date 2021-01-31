@@ -1,0 +1,71 @@
+##TITLE=Library Entry 34095
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzonitrile, 2-(2-cyclopropyl-2-oxoethoxy)-
+##MOLFORM=C12H11NO2
+##CAS REGISTRY NO=296884-93-0
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    33         27
+    36          0
+    37         15
+    38         30
+    39        327
+    41        756
+    43         16
+    44          3
+    49          0
+    50         23
+    51         73
+    52         16
+    53         22
+    55         53
+    57          4
+    61          3
+    62         10
+    63         49
+    64         28
+    65          4
+    66          1
+    69        999
+    71          1
+    73          0
+    74          6
+    75         64
+    76         46
+    77         34
+    78          5
+    81          4
+    83          4
+    88          4
+    90         23
+    91         19
+    92          2
+    99          1
+   101          1
+   102        104
+   104         35
+   105          5
+   116          1
+   118          6
+   119          4
+   130          1
+   132         25
+   133        179
+   134         12
+   144          1
+   146          1
+   160          5
+   172         14
+   173          3
+   186          2
+   200          5
+   201         57
+   202          7

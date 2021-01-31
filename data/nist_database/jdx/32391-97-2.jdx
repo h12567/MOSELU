@@ -1,0 +1,87 @@
+##TITLE=Library Entry 31269
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butanoic acid, 4-(methylthio)-
+##MOLFORM=C5H10O2S
+##CAS REGISTRY NO=32391-97-2
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=2384
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         30
+    27        338
+    29         49
+    30          2
+    31         42
+    33          4
+    35        163
+    36         13
+    37         18
+    38         26
+    39        227
+    41        545
+    42         98
+    43        364
+    44         18
+    45        669
+    46        165
+    47        236
+    48        171
+    49         53
+    50         10
+    51          5
+    52          2
+    53          7
+    54          4
+    55         54
+    56          4
+    57         17
+    58         47
+    59         78
+    60        108
+    61        999
+    62        240
+    63         52
+    64         10
+    65          1
+    68         17
+    69         58
+    70          7
+    71         19
+    72         12
+    73        153
+    74        839
+    75        508
+    76         57
+    77         23
+    78          2
+    79          1
+    81          1
+    83          1
+    84          1
+    85         26
+    86         12
+    87        310
+    88         39
+    89         12
+    91          2
+    97          1
+   100          2
+   101         34
+   102          3
+   103         12
+   105          1
+   116         26
+   117          9
+   118          1
+   119          8
+   134        742
+   135         45
+   136         37
+   137          1

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 36543
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,2-Difluoro-3,3-bis(trifluoromethyl)aziridine
+##MOLFORM=C4HF8N
+##CAS REGISTRY NO=30718-57-1
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    28        198
+    31        178
+    32          9
+    44         23
+    45        153
+    46         11
+    50         58
+    51        113
+    52          9
+    69        999
+    70         11
+    76        273
+    77          3
+    96        218
+    97         21
+   100        383
+   101          4
+   119         38
+   126        263
+   127         13
+   131         48
+   132          4
+   145        530
+   146         26
+   157         48
+   176        698
+   177         34
+   195        655
+   196         32
+   215         10
+   216          1

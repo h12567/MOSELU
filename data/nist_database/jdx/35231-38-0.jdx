@@ -1,0 +1,60 @@
+##TITLE=Library Entry 16573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.Maurer ET AL.J.Chromatogr. 222,409(1981)
+##NAMES=HP
+##CAS NAME=5-Chloro-2'-fluoro-2-hydroxyethyaminobenzophenone
+##MOLFORM=C15H13ClFNO2
+##CAS REGISTRY NO=35231-38-0
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=2500
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    44        999
+    45        818
+    46        155
+    51         94
+    53         74
+    61        114
+    63         54
+    70         74
+    73         74
+    74         54
+    75        215
+    76         54
+    77         94
+    83         34
+    88         74
+    89         34
+    95        255
+    96         34
+   102         74
+   109        862
+   110         77
+   111        137
+   112         37
+   113         54
+   123        235
+   138         57
+   166        658
+   167         57
+   168        218
+   169         37
+   170         57
+   198         34
+   207         54
+   214         54
+   227         57
+   232         34
+   262        997
+   263        195
+   264        393
+   265         74
+   275         94
+   277         34
+   293        353
+   294         77
+   295        135

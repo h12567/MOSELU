@@ -1,0 +1,42 @@
+##TITLE=Library Entry 60932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Bis[4-benzylamino-3-nitrophenyl]sulfone
+##MOLFORM=C26H22N4O6S
+##CAS REGISTRY NO=24612-34-8
+##MP= -300
+##BP= -300
+##MW= 518
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    49         37
+    50        234
+    51        385
+    52         84
+    63         32
+    65         89
+    70         31
+    74        106
+    75         25
+    76         70
+    77        478
+    78        125
+    91        999
+    92         63
+   105        686
+   106        245
+   125        102
+   152        141
+   179         52
+   180        196
+   194         16
+   395         17
+   413         17
+   517         16
+   518        192
+   519         47

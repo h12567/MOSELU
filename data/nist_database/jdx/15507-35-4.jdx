@@ -1,0 +1,75 @@
+##TITLE=Library Entry 33184
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Cyclopentenylphenylmethane
+##MOLFORM=C12H14
+##CAS REGISTRY NO=15507-35-4
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         70
+    28         22
+    29         10
+    32          0
+    38         23
+    39        199
+    40         37
+    41        129
+    42          6
+    50         61
+    51        169
+    52         50
+    53         41
+    61          5
+    62         32
+    63        110
+    64         59
+    65        324
+    66        279
+    67        999
+    68         49
+    70          5
+    74         24
+    75         32
+    76         43
+    77        165
+    78         74
+    79        190
+    80        174
+    81         16
+    86          7
+    87         11
+    89         68
+    91        572
+    92         97
+    93          7
+   101          8
+   102         41
+   103         30
+   104         43
+   105          8
+   115        317
+   116         85
+   117        384
+   118         41
+   126         16
+   127         64
+   128        203
+   129        371
+   130        215
+   131         25
+   141         35
+   142         30
+   143        124
+   144         14
+   157          7
+   158        738
+   159         88
+   160          6

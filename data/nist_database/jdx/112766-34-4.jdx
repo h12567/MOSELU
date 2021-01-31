@@ -1,0 +1,80 @@
+##TITLE=Library Entry 12879
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Org.Mass.Spectrom.,22(7)444(1987);U.Filges ET AL
+##NAMES=HP
+##CAS NAME=Benzenemethanol, 4-(methoxymethyl)-.alpha.,.alpha.-dimethyl-
+##MOLFORM=C11H16O2
+##CAS REGISTRY NO=112766-34-4
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    38         19
+    39        103
+    40         17
+    41         59
+    43        999
+    44         20
+    45        673
+    46         11
+    50         40
+    51         78
+    52         15
+    53         20
+    55          5
+    57         11
+    59         68
+    61          7
+    62         17
+    63         57
+    64         13
+    65         59
+    67         13
+    74         17
+    75         22
+    76          7
+    77         95
+    78         20
+    79         28
+    82          7
+    89         72
+    90         38
+    91        582
+    92         53
+   103         19
+   104          9
+   105        120
+   106          9
+   107          9
+   115         51
+   116         19
+   117         22
+   118          5
+   119         20
+   120         11
+   121         91
+   122         11
+   129          7
+   130          5
+   131         83
+   132         15
+   133         93
+   134         38
+   135         47
+   145          7
+   147         41
+   149         53
+   150          5
+   161         24
+   162         41
+   163         17
+   164          7
+   165        902
+   166         95
+   167          5
+   179          7
+   180         38

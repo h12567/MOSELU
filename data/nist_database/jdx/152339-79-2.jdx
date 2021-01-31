@@ -1,0 +1,63 @@
+##TITLE=Library Entry 65594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Danikiewicz ET AL.Org.Mass.Spectrom.28,853(1993)
+##NAMES=HP
+##CAS NAME=4-Nitro-2,1-benzisothiazoline, 2,2-dioxide
+##MOLFORM=C7H6N2O4S
+##CAS REGISTRY NO=152339-79-2
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         18
+    39         87
+    41         11
+    48         14
+    50         85
+    51        246
+    52         76
+    53         14
+    62         14
+    63         52
+    64         46
+    65        583
+    66         65
+    67         22
+    74         24
+    75         57
+    76        113
+    77        371
+    78        145
+    79         48
+    90         18
+    91         67
+    92        999
+    93        117
+    94         11
+    95        138
+   102         69
+   103         31
+   104         80
+   105         87
+   106         24
+   107         22
+   119         16
+   120         29
+   121          5
+   122         11
+   133         31
+   134          3
+   135          5
+   136         11
+   150        569
+   151         50
+   184         11
+   197          5
+   198         11
+   214        981
+   215         87
+   216         52

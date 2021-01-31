@@ -1,0 +1,36 @@
+##TITLE=Library Entry 22364
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.- L.Lehtela ET AL, Org.Mass Spectrom.,29,647(1994)
+##NAMES=HP
+##CAS NAME=4-Methyloxazolidine
+##MOLFORM=C4H9NO
+##CAS REGISTRY NO=155799-98-7
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    15         42
+    26         18
+    27         90
+    28        200
+    29        178
+    30        141
+    31         80
+    39         37
+    41        144
+    42        149
+    43         93
+    44        101
+    45         16
+    54         21
+    55         16
+    56        999
+    57        685
+    58         98
+    72        114
+    86         74
+    87         29

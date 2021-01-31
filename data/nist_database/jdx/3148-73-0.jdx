@@ -1,0 +1,48 @@
+##TITLE=Library Entry 9258
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1.2-diacetylhydrazine
+##MOLFORM=C4H8N2O2
+##CAS REGISTRY NO=3148-73-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         13
+    14         53
+    15        214
+    16          9
+    17          7
+    18          1
+    24          1
+    25          2
+    26         19
+    27         28
+    28         36
+    29         62
+    30         20
+    31         24
+    32        329
+    36          1
+    38         15
+    39         20
+    40         13
+    41         30
+    42        103
+    43        999
+    44         50
+    45          8
+    55         12
+    56         17
+    70          3
+    73          3
+    74        451
+    75         12
+   101          1
+   116         92

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 2792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JOCEAH, 44(3)330(1979); S. R. WILSON AND R. A. SAWICKI
+##NAMES=HP
+##CAS NAME=4-Cycloocten-1-one, 8-butyl-, oxime, (Z,Z)-
+##MOLFORM=C12H21NO
+##CAS REGISTRY NO=68344-29-6
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        999
+    55        780
+    67        590
+    69        340
+    81        400
+    85        270
+    94        230
+    98        310
+   110        180
+   111        210
+   122        200
+   138        220
+   139        230
+   152        170
+   178        370
+   195         70

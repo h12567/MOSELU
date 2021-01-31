@@ -1,0 +1,63 @@
+##TITLE=Library Entry 66885
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DAVID L. STALLING
+##NAMES=HP
+##CAS NAME=Silane, trimethyl[(2,2',5,5'-tetrachloro[1,1'-biphenyl]-3-yl)oxy]
+-
+##MOLFORM=C15H14Cl4OSi
+##CAS REGISTRY NO=55683-17-5
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    44         58
+    45        181
+    63         62
+    65        118
+    67         35
+    73        473
+    74         50
+    75         58
+    77         50
+    78         67
+    79         55
+    81         23
+    87         25
+    93        999
+    94         86
+    95        377
+    96         35
+    97         24
+   113         25
+   137         66
+   147         48
+   172         23
+   173         22
+   181         27
+   182         41
+   184         26
+   199         28
+   207        126
+   208         28
+   209         78
+   221         25
+   233         29
+   235         82
+   237         44
+   281         26
+   292         32
+   293         27
+   328        159
+   330        145
+   332         62
+   363        418
+   365        530
+   367        350
+   378        151
+   380        194
+   382        102
+   384         34

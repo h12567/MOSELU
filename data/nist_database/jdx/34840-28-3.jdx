@@ -1,0 +1,59 @@
+##TITLE=Library Entry 99006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Aminoformanilide
+##MOLFORM=C7H8N2O
+##CAS REGISTRY NO=34840-28-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         14
+    28         30
+    29          6
+    30          8
+    39         38
+    40          7
+    41         25
+    42         13
+    43         16
+    51          7
+    52         37
+    53        194
+    54         43
+    55         14
+    56         13
+    57         12
+    63         34
+    64         48
+    65         65
+    66         21
+    67         28
+    68          6
+    69          6
+    78         10
+    79         36
+    80        849
+    81        257
+    82         21
+    90         21
+    91         77
+    92         43
+    93         13
+   105         25
+   106         30
+   107        465
+   108        844
+   109         70
+   118         88
+   119        999
+   120         88
+   134         18
+   135         28
+   136        833
+   137         78

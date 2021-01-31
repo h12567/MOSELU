@@ -1,0 +1,33 @@
+##TITLE=Library Entry 32706
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=Acetaldehyde, methyl(2-propynyl)hydrazone
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=110213-11-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    30        340
+    38         60
+    39        270
+    40         60
+    41        210
+    42        340
+    43        240
+    44         90
+    56        140
+    65         60
+    66         80
+    67        999
+    68        100
+    71        410
+    95         60
+   109        220
+   110        380

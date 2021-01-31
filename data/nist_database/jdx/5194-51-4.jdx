@@ -1,0 +1,50 @@
+##TITLE=Library Entry 32881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,4-Hexadiene, (E,E)-
+##MOLFORM=C6H10
+##CAS REGISTRY NO=5194-51-4
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=646
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         34
+    26         49
+    27        213
+    28         35
+    29         41
+    37         25
+    38         67
+    39        413
+    40         80
+    41        358
+    42         56
+    43          8
+    49         13
+    50         86
+    51        111
+    52         48
+    53        187
+    54        174
+    55         63
+    56         11
+    61          7
+    62         16
+    63         31
+    64          7
+    65        161
+    66          7
+    67        999
+    68         52
+    74         15
+    77         61
+    79        144
+    80         20
+    81        103
+    82        419
+    83         28

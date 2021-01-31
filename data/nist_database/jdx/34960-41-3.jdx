@@ -1,0 +1,58 @@
+##TITLE=Library Entry 68151
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=4-(Bromomethyl)cyclohexene
+##MOLFORM=C7H11Br
+##CAS REGISTRY NO=34960-41-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    26         15
+    27        141
+    28          9
+    29         52
+    31          8
+    32          3
+    38         20
+    39        258
+    40         63
+    41        247
+    42         13
+    43          8
+    44          8
+    50         21
+    51         55
+    52         39
+    53        161
+    54        300
+    55        111
+    57         11
+    63         14
+    65         45
+    66         39
+    67        180
+    68         68
+    69         17
+    70         11
+    77         98
+    78         21
+    79        345
+    80         47
+    81        314
+    82         21
+    91         33
+    93         50
+    94         86
+    95        999
+    96         77
+    97          7
+   109         19
+   174         47
+   176         46

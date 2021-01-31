@@ -1,0 +1,68 @@
+##TITLE=Library Entry 57625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2,3-dimethyl-, methyl ester
+##MOLFORM=C7H14O2
+##CAS REGISTRY NO=30540-29-5
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=763
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26         31
+    27        262
+    28         77
+    29        178
+    30          9
+    31         31
+    32          5
+    33          6
+    36          0
+    37          7
+    38         11
+    39        148
+    40          2
+    41        253
+    42         42
+    43        571
+    44         11
+    45         26
+    50          5
+    51         11
+    52          4
+    53         28
+    54          7
+    55        156
+    56        163
+    57        412
+    58         18
+    59        250
+    60         17
+    61          3
+    67          3
+    68          1
+    69         19
+    70         25
+    71        231
+    72         13
+    73         28
+    74          4
+    75          1
+    83         32
+    84          2
+    85          3
+    87         78
+    88        999
+    89         46
+    90          5
+    98          1
+    99         90
+   100          5
+   101         12
+   102          1
+   115         71
+   116          5

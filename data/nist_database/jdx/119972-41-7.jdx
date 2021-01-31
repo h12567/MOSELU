@@ -1,0 +1,52 @@
+##TITLE=Library Entry 32873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-Methylbicyclo[3.2.1]octane
+##MOLFORM=C9H16
+##CAS REGISTRY NO=119972-41-7
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39        180
+    40         34
+    41        500
+    44         54
+    51         33
+    52         20
+    53        161
+    54        115
+    55        530
+    65        100
+    66        135
+    67        999
+    68        267
+    69        365
+    70         27
+    71        140
+    77         18
+    79        390
+    80        190
+    81        800
+    82        290
+    83        235
+    91         26
+    93         24
+    94        100
+    95        450
+    96         17
+    97         16
+   108         80
+   109        660
+   110        114
+   111         94
+   121         35
+   123         77
+   124        220
+   125         21
+   126          1

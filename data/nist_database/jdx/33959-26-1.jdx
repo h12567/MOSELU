@@ -1,0 +1,67 @@
+##TITLE=Library Entry 30372
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=3-Methyl-3-hydroxybutane-1-thiol
+##MOLFORM=C5H12OS
+##CAS REGISTRY NO=33959-26-1
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26          6
+    27         64
+    28          9
+    29         32
+    31        141
+    32          2
+    34          5
+    35         16
+    38          4
+    39         34
+    40          2
+    41        172
+    42          9
+    43        341
+    44          9
+    45         39
+    46         15
+    47        120
+    48          3
+    49          6
+    51          4
+    52          4
+    53         21
+    54          7
+    55         26
+    56        125
+    57         33
+    58         12
+    59        999
+    60         47
+    61         49
+    62          8
+    63          7
+    67         12
+    68         43
+    69        166
+    70         10
+    71        160
+    72          7
+    74         33
+    87         89
+    88          4
+    89          4
+    92          4
+   101          3
+   102        525
+   103         37
+   104         24
+   105        100
+   106          5
+   107          4

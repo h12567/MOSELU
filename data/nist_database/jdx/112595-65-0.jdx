@@ -1,0 +1,37 @@
+##TITLE=Library Entry 36013
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-(Acetylmethylene)tetrahydrofuran
+##MOLFORM=C7H10O2
+##CAS REGISTRY NO=112595-65-0
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27        236
+    29         51
+    38         35
+    39        159
+    40         41
+    41         97
+    42         85
+    43        411
+    52         19
+    53         44
+    54          9
+    55         60
+    69        999
+    70         34
+    81         16
+    85         44
+   111        418
+   112         29
+   125         10
+   126        221
+   127         19
+   128          3

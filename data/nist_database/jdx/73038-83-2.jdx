@@ -1,0 +1,79 @@
+##TITLE=Library Entry 60203
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1-Phenyl-5-(isopropylamino)-1H-tetrazole
+##MOLFORM=C10H13N5
+##CAS REGISTRY NO=73038-83-2
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26         37
+    27        267
+    29         50
+    30         47
+    37         23
+    38         77
+    39        273
+    40         50
+    41        340
+    42        157
+    43        517
+    44         70
+    50         97
+    51        343
+    52         78
+    53         20
+    55         27
+    56         52
+    57         55
+    58        147
+    62         23
+    63        127
+    64        303
+    65        305
+    66         38
+    67         23
+    69         27
+    76         58
+    77        933
+    78        137
+    79         63
+    80         27
+    90         38
+    91        999
+    92        230
+    93         85
+    94         20
+   103         23
+   104        467
+   105        202
+   106        210
+   107         40
+   116         10
+   117        407
+   118        330
+   119        387
+   120         38
+   131         10
+   132        153
+   133        633
+   134         75
+   135         11
+   143         10
+   145         10
+   146         60
+   147         22
+   160        473
+   161         61
+   174        267
+   175         50
+   203        307
+   204         49
+   205         10

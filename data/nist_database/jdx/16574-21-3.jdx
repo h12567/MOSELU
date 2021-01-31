@@ -1,0 +1,42 @@
+##TITLE=Library Entry 4408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.A. CORRAL, FAC. CIENC. EXACT., UNIV. NAC. LA PLATA, A
+RGENT.
+##NAMES=HP
+##CAS NAME=5-N-Butyldihydro-1,3,5-dioxazine
+##MOLFORM=C7H15NO2
+##CAS REGISTRY NO=16574-21-3
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    30        540
+    31         40
+    39         70
+    40         80
+    41        210
+    42        999
+    43        360
+    44        200
+    55         60
+    56         80
+    57        140
+    58        100
+    70         40
+    71         20
+    72        160
+    84        390
+    85         30
+    86         20
+    91         60
+    92         40
+    98         20
+    99         20
+   102        270
+   114         20
+   144        110
+   145         40

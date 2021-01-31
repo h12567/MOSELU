@@ -1,0 +1,67 @@
+##TITLE=Library Entry 58040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.N.C.WHYTE FISHERIES RES. BOARD, VANCOUVER, CANADA
+##NAMES=HP
+##CAS NAME=D-Gluconic acid, 2,3,4,5-tetra-O-methyl-6-O-(2,3,4,6-tetra-O-meth
+yl-.alpha.-D-glucopyranosyl)-, methyl ester
+##MOLFORM=C21H40O12
+##CAS REGISTRY NO=51236-48-7
+##MP= -300
+##BP= -300
+##MW= 484
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    45        369
+    59        117
+    71        326
+    73        376
+    75        556
+    88        999
+    89        200
+    99        169
+   101        791
+   102         93
+   103        130
+   111        434
+   115         97
+   119        134
+   125         32
+   127        108
+   129        178
+   131         54
+   133         45
+   141         43
+   143         50
+   145        110
+   147         52
+   149         26
+   153         21
+   155         13
+   159        365
+   171         30
+   173         19
+   175         17
+   185        206
+   187        593
+   191        119
+   203         44
+   217         43
+   219        110
+   229          8
+   231          4
+   233          8
+   235         10
+   249        530
+   250         60
+   263          8
+   273          6
+   275          8
+   293         17
+   309        197
+   310         23
+   319          6
+   337         10
+   351          5

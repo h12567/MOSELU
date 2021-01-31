@@ -1,0 +1,43 @@
+##TITLE=Library Entry 70017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Massoilactone
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=51154-96-2
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1483
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        160
+    42        109
+    43        269
+    44         83
+    45         90
+    46         23
+    55         14
+    56         25
+    57         58
+    58         18
+    59         10
+    60          7
+    67         54
+    68        672
+    69        247
+    79         14
+    80         50
+    81         14
+    96         69
+    97        999
+    98         69
+    99         45
+   106         14
+   107         69
+   108         18
+   167         18
+   168         32

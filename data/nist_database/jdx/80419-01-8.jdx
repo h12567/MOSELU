@@ -1,0 +1,64 @@
+##TITLE=Library Entry 2534
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 5-chlorododecanoate  #
+##MOLFORM=C13H24Cl2O2
+##CAS REGISTRY NO=80419-01-8
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=1870
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    36        172
+    39        197
+    41        999
+    42        318
+    43        860
+    49         85
+    53        122
+    54        292
+    55        121
+    56        442
+    57        451
+    67        464
+    68        500
+    69        622
+    70        243
+    71        172
+    72         73
+    73         24
+    79        133
+    81        401
+    82        329
+    83        405
+    84        526
+    85        182
+    93         49
+    94         61
+    95        281
+    96        672
+    97        560
+    98        343
+    99        182
+   108         84
+   109        147
+   110        195
+   111        146
+   112         61
+   119         73
+   121         72
+   123        160
+   124         48
+   136        121
+   137        109
+   138        329
+   139         37
+   162         85
+   163        111
+   180         97
+   181        158
+   182         12

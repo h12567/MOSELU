@@ -1,0 +1,54 @@
+##TITLE=Library Entry 34923
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=(2,4,6-Trimethylcyclohexyl) methanol
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=13702-56-2
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        122
+    28         90
+    29        146
+    31        149
+    39        177
+    41        514
+    42         62
+    43        140
+    51         25
+    53        101
+    55        522
+    56         44
+    57        156
+    65         37
+    67        235
+    68        194
+    69        999
+    70         80
+    71         40
+    77         41
+    79         55
+    81        248
+    82        257
+    83        309
+    84         30
+    91         28
+    93         26
+    94         18
+    95        135
+    96        286
+    97         33
+   107         16
+   109        227
+   110         55
+   121         30
+   123        489
+   124         53
+   125         76
+   138         59

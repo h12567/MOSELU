@@ -1,0 +1,48 @@
+##TITLE=Library Entry 80910
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 17(6)1060(1978); W. HERZ ET AL
+##NAMES=HP
+##CAS NAME=1,2-Ethanediol, 1-(2,3,4,4a,4b,5,6,7,8,8a,9,10-dodecahydro-7-hydr
+oxy-2,4b,8,8-tetramethyl-2-phenanthrenyl)-, [2S-[2.alpha.(S*),4a.beta.,4b.al
+pha.,7.alpha.,8a.beta.]]-
+##MOLFORM=C20H34O3
+##CAS REGISTRY NO=5940-00-1
+##MP= -300
+##BP= -300
+##MW= 322
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+   105        999
+   107        578
+   109        386
+   119        503
+   120        865
+   121        858
+   123        718
+   131        365
+   134        466
+   135        606
+   143        113
+   145        203
+   147        236
+   151        345
+   152         75
+   157         90
+   159        148
+   161        125
+   164        182
+   173        148
+   187         98
+   227        130
+   243        242
+   258        164
+   261         51
+   271        176
+   273        342
+   289        229
+   304        278
+   307         89
+   322         61

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 39522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Meidani ET.AL. JAOCS, 54,496(1977)
+##NAMES=HP
+##CAS NAME=3,3'-Oxy-di(1,2-propanediol) tetrabutyrate
+##MOLFORM=C22H38O9
+##CAS REGISTRY NO=65235-15-6
+##MP= -300
+##BP= -300
+##MW= 446
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27         66
+    29         15
+    39         26
+    41        117
+    42         45
+    43        539
+    44         25
+    55         36
+    57         25
+    59          8
+    68          6
+    70         13
+    71        999
+    72         66
+    73         15
+    84          6
+    88          8
+   113          8
+   127         17
+   128         57
+   129         68
+   143         38
+   145        149
+   187         36
+   199         38
+   200          9
+   201         47
+   213         17
+   214          8
+   215        943
+   216        149
+   217         38
+   244          9
+   245         89
+   246          4
+   247          9
+   287         40

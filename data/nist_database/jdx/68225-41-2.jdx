@@ -1,0 +1,41 @@
+##TITLE=Library Entry 8858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.X.WEBSTER,STATE UNIV.N.Y.,COLL.ENVIRON.SCI.FORESTRY,N
+.Y.,USA
+##NAMES=HP
+##CAS NAME=(1R,2S)-2-Acetyl-1-methylcyclobutaneacetic acid
+##MOLFORM=C9H14O3
+##CAS REGISTRY NO=68225-41-2
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        250
+    43        999
+    44         80
+    53         80
+    54         60
+    56        260
+    57         50
+    58         70
+    67         70
+    68         50
+    71        570
+    72         90
+    81        100
+    82        160
+    83         50
+    85         60
+    95         70
+    96         70
+   100         70
+   109        100
+   110        130
+   111        140
+   124         50
+   152         40
+   170         10

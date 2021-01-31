@@ -1,0 +1,47 @@
+##TITLE=Library Entry 20616
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Methylcyclopropanecarboxylic acid, methyl ester
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=6206-25-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    33          1
+    39        330
+    41        129
+    42         47
+    43         65
+    45         35
+    50         42
+    51         35
+    53        190
+    55        999
+    56         38
+    57          9
+    59        282
+    61          4
+    65          1
+    67          5
+    69         32
+    71         46
+    72         32
+    73          2
+    74          3
+    83        343
+    84         12
+    85         11
+    86          9
+    87          4
+    88          1
+    99        126
+   100          5
+   113        233
+   114        140
+   115         10

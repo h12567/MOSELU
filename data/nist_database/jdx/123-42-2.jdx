@@ -1,0 +1,88 @@
+##TITLE=Library Entry 8178
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Pentanone, 4-hydroxy-4-methyl-
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=123-42-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=838
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         26
+    27         54
+    28         10
+    29         37
+    30          2
+    31         45
+    32          0
+    34          1
+    35          0
+    36          2
+    37         10
+    38         14
+    39         50
+    40         10
+    41         54
+    42         57
+    43        999
+    44         25
+    45          9
+    46          0
+    48          0
+    49          0
+    50          4
+    51          5
+    52          1
+    53          9
+    54          2
+    55         29
+    56         21
+    57         12
+    58        201
+    59        248
+    60          8
+    61          2
+    62          0
+    63          0
+    65          1
+    66          0
+    67          4
+    68          0
+    69          3
+    70          0
+    71          0
+    72          0
+    73          0
+    76          0
+    77          2
+    78          0
+    79          2
+    80          0
+    81          1
+    82          0
+    83         28
+    84          2
+    85          1
+    86          0
+    87          0
+    88          1
+    89          0
+    91          3
+    92          0
+    93          1
+    94          1
+    95          0
+    96          1
+    97          0
+    98         30
+    99          2
+   100          0
+   101         98
+   102          6
+   103          2

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 17344
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER UNIV. OF HAMBURG, W.GERMANY
+##NAMES=HP
+##CAS NAME=Heptane, 4-methoxy-3-(methoxymethyl)-
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=20637-47-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39         75
+    40         12
+    41        215
+    42         25
+    43         65
+    44          7
+    45        999
+    46         22
+    47          6
+    51          8
+    53         33
+    54         13
+    55        181
+    56         35
+    57         54
+    58         17
+    59         25
+    65          7
+    67         29
+    68          9
+    69         46
+    70          7
+    71        125
+    72         10
+    73         12
+    75         13
+    77          9
+    79          5
+    81         14
+    82          6
+    83          5
+    85         54
+    86        118
+    87        475
+    88         29
+    89         29
+    95          6
+    97          7
+    99         69
+   100          8
+   101         23
+   110          8
+   111          5
+   113         32
+   131         65
+   142         35
+   143          5
+   159          9

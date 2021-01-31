@@ -1,0 +1,84 @@
+##TITLE=Library Entry 24765
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1-(2-methylbutyl)-1-(1-methylpropyl)-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=64723-36-0
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26         18
+    27         40
+    28         80
+    29        235
+    30          5
+    31          1
+    38          0
+    39         27
+    40          8
+    41        426
+    42         60
+    43        406
+    44         17
+    45          2
+    50          2
+    51          1
+    52          1
+    53         26
+    54         31
+    55        776
+    56        457
+    57        999
+    58         43
+    59          0
+    65          4
+    66          3
+    67         71
+    68         24
+    69        643
+    70        718
+    71        383
+    72         19
+    77          4
+    78          1
+    79         12
+    80          4
+    81         58
+    82         72
+    83        584
+    84        218
+    85         91
+    86          5
+    88          1
+    91          2
+    93          3
+    94          0
+    95         29
+    96         14
+    97         87
+    98        166
+    99         47
+   100          3
+   107          0
+   109          6
+   110         24
+   111        113
+   112         99
+   113         39
+   114          3
+   123          1
+   125          1
+   138          1
+   139         15
+   140        169
+   141         17
+   142         18
+   143          1
+   168          3

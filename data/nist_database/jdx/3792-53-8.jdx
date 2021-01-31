@@ -1,0 +1,75 @@
+##TITLE=Library Entry 33039
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=cis-Dihydrocarvone
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=3792-53-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1195
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         64
+    28         35
+    29         54
+    37          4
+    38         12
+    39        272
+    40         79
+    41        444
+    42         74
+    43         74
+    44          3
+    46          4
+    50         12
+    51         46
+    52         27
+    53        233
+    54         79
+    55        297
+    56         91
+    58          5
+    65         80
+    66         45
+    67        999
+    68        548
+    69        340
+    70         21
+    77         78
+    79        266
+    80         97
+    81        373
+    82        384
+    83         73
+    84         61
+    91         92
+    92         23
+    93        170
+    94        122
+    95        633
+    96        130
+    97         87
+    98          7
+   105         34
+   106         24
+   107         31
+   108        194
+   109        364
+   110        181
+   111         43
+   118         10
+   119         21
+   122         20
+   123         57
+   124         25
+   137        155
+   138         14
+   151          5
+   152        164
+   153         22
+   154          2

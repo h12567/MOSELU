@@ -1,0 +1,86 @@
+##TITLE=Library Entry 14247
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.SELVA INST. OF CHEMISTRY, MILAN POLYTECH., MILAN, ITA
+LY
+##NAMES=HP
+##CAS NAME=Ethanone, 1-[4,5-dihydro-3-(4-nitrophenyl)-5-phenyl-4-isoxazolyl]
+-
+##MOLFORM=C17H14N2O4
+##CAS REGISTRY NO=77508-73-7
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         30
+    45         50
+    46         20
+    50         40
+    51         80
+    52         20
+    56         20
+    62         20
+    63         40
+    64         10
+    65         30
+    69         20
+    74         10
+    75         40
+    76         60
+    77        280
+    78        130
+    79         10
+    88         20
+    89         40
+    90         20
+    91        110
+    92         10
+    95         30
+   102         40
+   103        150
+   104         30
+   105        390
+   106         50
+   115         40
+   116         10
+   117         10
+   118         10
+   119         20
+   120         60
+   131        120
+   132         20
+   143         10
+   144         20
+   145        110
+   146         90
+   147         60
+   148         10
+   149         20
+   161        140
+   162        260
+   163         40
+   165         20
+   189         90
+   190         60
+   191        400
+   192         60
+   193         30
+   204         30
+   205        110
+   206         30
+   221         50
+   222         30
+   223         20
+   236         20
+   237         10
+   239         20
+   251        110
+   252         20
+   267        360
+   268        430
+   269         70
+   310         10

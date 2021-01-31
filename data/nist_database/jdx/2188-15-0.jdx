@@ -1,0 +1,46 @@
+##TITLE=Library Entry 1732
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Propyne, 3,3'-[ethylidenebis(oxy)]bis-
+##MOLFORM=C8H10O2
+##CAS REGISTRY NO=2188-15-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    13         12
+    14         28
+    15        107
+    25         30
+    26         60
+    27        101
+    28         52
+    29        132
+    31         16
+    37         39
+    38         99
+    39        999
+    40         60
+    41        109
+    42         23
+    43        576
+    44         21
+    45         55
+    51         18
+    53         60
+    55        132
+    64         29
+    65         34
+    66         21
+    67         16
+    77         34
+    82         21
+    83        556
+    84         34
+   123         81
+   138          5

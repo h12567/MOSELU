@@ -1,0 +1,37 @@
+##TITLE=Library Entry 67870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid, 3-ethenyl-2,2-dimethyl-, methyl este
+r, trans-
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=41977-59-7
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        234
+    41        269
+    43        107
+    51        107
+    53        168
+    55        351
+    59        117
+    67        318
+    73        138
+    77         89
+    79        175
+    80         70
+    81         74
+    94         60
+    95        999
+    96        107
+   109         89
+   111         60
+   123         60
+   139         51
+   154        156

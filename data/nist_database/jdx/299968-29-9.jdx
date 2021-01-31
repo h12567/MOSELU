@@ -1,0 +1,62 @@
+##TITLE=Library Entry 2255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=5-(1-Methyl-1,2-dihydroquinolin-2-ylidene)-3-(2-propenyl)-2-(p-to
+lylimino)thiazolidin-4-one
+##MOLFORM=C23H21N3OS
+##CAS REGISTRY NO=299968-29-9
+##MP= -300
+##BP= -300
+##MW= 387
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    39        350
+    41        999
+    42         24
+    43         13
+    45          9
+    50         32
+    51         22
+    52         11
+    53         13
+    54         15
+    55          8
+    56          6
+    57          9
+    59          3
+    61          3
+    63         36
+    65         74
+    69         11
+    72          5
+    76        105
+    78         23
+    79         11
+    82          4
+    85          3
+    87          6
+    89         44
+    91         81
+    93          5
+   101         47
+   103          8
+   104         10
+   114         49
+   116         15
+   117         10
+   128        113
+   129         18
+   131         33
+   140          8
+   142         31
+   145         11
+   154         11
+   159          4
+   172          7
+   186        291
+   188         12
+   387          4

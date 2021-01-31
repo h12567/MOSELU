@@ -1,0 +1,47 @@
+##TITLE=Library Entry 84862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=Tris(ethanesulfonyl)methane
+##MOLFORM=C7H16O6S3
+##CAS REGISTRY NO=21467-59-4
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         11
+    45         30
+    49         11
+    50         10
+    59          9
+    61         13
+    63         27
+    64         11
+    65         33
+    66         18
+    67         10
+    77        122
+    78         17
+    80        823
+    81         18
+    82         34
+    91         11
+    92         25
+    93         15
+    94         17
+    95         14
+   107         12
+   108        999
+   109        123
+   110         47
+   125         31
+   136         64
+   155         13
+   171         43
+   200         47
+   201         48
+   292         12

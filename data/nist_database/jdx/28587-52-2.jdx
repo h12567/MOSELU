@@ -1,0 +1,59 @@
+##TITLE=Library Entry 67763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.VOELTER CHEM. INST., UNIV., TUBINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=O-Trifluoroacetyl-neomenthol
+##MOLFORM=C12H19F3O2
+##CAS REGISTRY NO=28587-52-2
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        210
+    29        170
+    39        190
+    41        570
+    42        120
+    43        500
+    51         30
+    53        160
+    54        150
+    55        500
+    56        140
+    57        110
+    59         30
+    65         30
+    67        310
+    68        190
+    69        240
+    70         50
+    77         70
+    79        150
+    80         80
+    81        240
+    82        250
+    83        180
+    91         40
+    93        150
+    94        160
+    95        999
+    96        450
+    97         90
+   107         50
+   109         50
+   110         30
+   121        100
+   123        170
+   124         30
+   136         70
+   137         30
+   138        550
+   139        130
+   153         10
+   167         10
+   237          5
+   252          5

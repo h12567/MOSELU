@@ -1,0 +1,68 @@
+##TITLE=Library Entry 83625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-1-phenyl-1-propanol
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=3835-64-1
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27         26
+    28          4
+    29         42
+    38          7
+    39         64
+    40         13
+    41        104
+    42          8
+    43         51
+    50         30
+    51         92
+    52         26
+    53         27
+    55         16
+    57        111
+    58          6
+    62          9
+    63         23
+    64         12
+    65         21
+    66          5
+    67          6
+    71         13
+    74          9
+    75          9
+    77        297
+    78         84
+    79        537
+    80         36
+    89         14
+    91         86
+    92          7
+   102         10
+   103         24
+   105        104
+   107        999
+   108        104
+   109          7
+   115         37
+   116         23
+   117         15
+   127          8
+   128         17
+   129         22
+   130          8
+   131        127
+   132         14
+   145         12
+   146         53
+   147          7
+   149         25
+   164         33
+   165          4

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 38994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Butanoic acid, cyclohexyl ester
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=1551-44-6
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1206
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         12
+    26         23
+    27        228
+    28         92
+    29        124
+    31         13
+    32          8
+    39        216
+    40         52
+    41        499
+    42        148
+    43        787
+    44         53
+    45         22
+    50          8
+    51         18
+    52         10
+    53         66
+    54        207
+    55        531
+    56         37
+    57         42
+    58         25
+    59          8
+    60         56
+    65         19
+    67        758
+    68         44
+    69         15
+    70         15
+    71        999
+    72         45
+    73         46
+    77         15
+    79         33
+    81        169
+    82        932
+    83        397
+    84         28
+    85         15
+    86         60
+    87         24
+    88        157
+    89        758
+    90         31
+    99         63
+   127         51

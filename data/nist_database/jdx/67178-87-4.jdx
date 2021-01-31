@@ -1,0 +1,31 @@
+##TITLE=Library Entry 28957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(3)1039(1978); H. SCHMID ET AL
+##NAMES=HP
+##CAS NAME=Heptanamide, N-hexyl-N-[3-(methylamino)propyl]-
+##MOLFORM=C17H36N2O
+##CAS REGISTRY NO=67178-87-4
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    58        999
+    70        400
+    87        160
+   101        160
+   114        560
+   128        500
+   142        310
+   156        360
+   170        250
+   171        250
+   184        310
+   214        220
+   227        150
+   241         60
+   254        150
+   284        250

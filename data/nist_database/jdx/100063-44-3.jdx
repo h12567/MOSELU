@@ -1,0 +1,40 @@
+##TITLE=Library Entry 97933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=5-Oxazolidinone, 3-acetyl-2-benzylidene-
+##MOLFORM=C12H11NO3
+##CAS REGISTRY NO=100063-44-3
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    43        315
+    44         11
+    64          7
+    65          6
+    77         10
+    89         76
+    90        326
+    91         67
+    92          6
+   103         16
+   104          6
+   116         63
+   117         20
+   118        999
+   119        116
+   120          8
+   130         15
+   146         12
+   147         77
+   148          6
+   149          6
+   175        226
+   176         32
+   217        199
+   218         29

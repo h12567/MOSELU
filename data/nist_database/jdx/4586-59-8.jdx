@@ -1,0 +1,68 @@
+##TITLE=Library Entry 19790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=2,5-Cyclohexadiene-1,4-dione, 3-hydroxy-5-methyl-2-(1-methylethyl
+)-
+##MOLFORM=C10H12O3
+##CAS REGISTRY NO=4586-59-8
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    50        340
+    51        680
+    52        420
+    53        860
+    54        180
+    55        999
+    56        310
+    62        110
+    63        290
+    64        100
+    65        360
+    66        160
+    67        310
+    68         90
+    69        160
+    74         50
+    75         50
+    77        290
+    78        130
+    79        300
+    80         80
+    81        230
+    82         70
+    83        360
+    84         50
+    89         60
+    91        480
+    92         50
+    93         50
+    94         90
+    95        130
+    96        150
+    97         50
+   105        100
+   106        100
+   107        100
+   109        750
+   110        110
+   119         90
+   123        150
+   124        170
+   133         50
+   134         90
+   137        470
+   138         50
+   147         50
+   152        570
+   153         70
+   165         80
+   180        250
+   181         30
+   182         10

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 40408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH, EPA-PTSEL 3620
+##NAMES=HP
+##CAS NAME=Fluometuron
+##MOLFORM=C10H11F3N2O
+##CAS REGISTRY NO=2164-17-2
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=1634
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          2
+    15        140
+    27         16
+    28         12
+    30         13
+    32          1
+    37          8
+    38         19
+    39         24
+    40          5
+    41         12
+    42        114
+    43         41
+    44        223
+    45         26
+    50         17
+    51         12
+    52          5
+    56         39
+    57         12
+    62         12
+    63         39
+    64         20
+    65          3
+    69         15
+    72        999
+    73         66
+    74          4
+    75         27
+    83         14
+    88          4
+    90         10
+    91         11
+    95         13
+   113         19
+   114         14
+   120          4
+   133         11
+   139          3
+   140         14
+   145         36
+   159         10
+   160         19
+   161          6
+   168         26
+   187         28
+   188          5
+   213         27
+   231         11
+   232        246
+   233         27

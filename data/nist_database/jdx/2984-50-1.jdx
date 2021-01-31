@@ -1,0 +1,62 @@
+##TITLE=Library Entry 38185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Oxirane, hexyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=2984-50-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         15
+    26         33
+    27        270
+    28         64
+    29        306
+    30         17
+    31         99
+    32          2
+    39        374
+    40         92
+    41        789
+    42        329
+    43        375
+    44         95
+    45         64
+    51         38
+    52         20
+    53        104
+    54        157
+    55        646
+    56        377
+    57        292
+    58        388
+    59         42
+    65         26
+    66         27
+    67        232
+    68        275
+    69        274
+    70        233
+    71        999
+    72         76
+    77         17
+    79         41
+    81        301
+    82         75
+    83         35
+    84         57
+    85        168
+    86         18
+    95         44
+    96         28
+    97         17
+    98         11
+    99         46
+   100         19
+   110         24

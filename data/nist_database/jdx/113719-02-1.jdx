@@ -1,0 +1,32 @@
+##TITLE=Library Entry 36808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid, 2,4,6-tri-t-butyl-phenyl ester
+##MOLFORM=C22H34O2
+##CAS REGISTRY NO=113719-02-1
+##MP= -300
+##BP= -300
+##MW= 330
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         45
+    58          6
+    60          6
+    61          6
+    69        999
+    70         61
+   219          6
+   231         19
+   247        155
+   248         25
+   262        317
+   263         85
+   264          7
+   273          4
+   315          7
+   330         74
+   331         21

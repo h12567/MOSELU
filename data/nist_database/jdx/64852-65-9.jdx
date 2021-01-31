@@ -1,0 +1,38 @@
+##TITLE=Library Entry 80020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Phenacyl-6-chioro-2(1H)-quinoxalinone
+##MOLFORM=C16H11ClN2O2
+##CAS REGISTRY NO=64852-65-9
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    77        551
+   105        999
+   165         80
+   167         30
+   168         39
+   170         20
+   193        129
+   195         50
+   221        141
+   223         50
+   253         19
+   255         19
+   257         10
+   269        181
+   270         59
+   271         70
+   272         29
+   281         19
+   283         10
+   297         70
+   298        390
+   299         99
+   300        139

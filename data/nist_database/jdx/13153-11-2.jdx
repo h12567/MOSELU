@@ -1,0 +1,36 @@
+##TITLE=Library Entry 2313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Scala ET AL.J.Heterocycl.Chem.,15,421(1978)
+##NAMES=HP
+##CAS NAME=Thietane, 1-oxide
+##MOLFORM=C3H6OS
+##CAS REGISTRY NO=13153-11-2
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         66
+    27        228
+    28        147
+    29         40
+    38         42
+    39        255
+    40        144
+    41        999
+    42        824
+    43        148
+    44         88
+    45         62
+    46         81
+    48         61
+    49          2
+    57         33
+    62        104
+    63         81
+    73         98
+    74         38
+    90        437

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 53144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(7)635(1974); TATEMATSU
+##NAMES=HP
+##CAS NAME=1H-Pyrrole-2-carboxamide, 5-[[(5-imino-3,4-dihydro-2H-pyrrol-2-yl
+)carbonyl]amino]-N-(3-amino-3-iminopropyl)-
+##MOLFORM=C13H19N7O2
+##CAS REGISTRY NO=61233-56-5
+##MP= -300
+##BP= -300
+##MW= 305
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    38        110
+    41        110
+    42        130
+    43        220
+    44        150
+    52         60
+    53         70
+    54        100
+    56        160
+    66        110
+    71         60
+    81        160
+    82         70
+    83        999
+    84         70
+    93         50
+    95         60
+    97         80
+   105         50
+   106         60
+   108         80
+   109        140
+   111        100
+   121        100
+   122         80
+   123         60
+   124        150
+   125        250
+   134         17
+   135         24
+   136         12
+   151         34
+   171          9
+   178         26
+   179          6
+   181          7
+   188          5
+   190          6
+   217         10
+   219          9
+   235         62
+   288         50

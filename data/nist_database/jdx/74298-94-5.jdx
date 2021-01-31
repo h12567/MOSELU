@@ -1,0 +1,40 @@
+##TITLE=Library Entry 109358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. KUEHL AND G. VEITH, EPA- DULUTH, USA
+##NAMES=HP
+##CAS NAME=Benzene, 1-chloro-4-(1,2-dichloroethyl)-
+##MOLFORM=C8H7Cl3
+##CAS REGISTRY NO=74298-94-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    63        218
+    74         60
+    75        179
+    76        178
+    77        478
+    78        160
+    89        245
+    90         70
+    99         72
+   101        175
+   102        328
+   103        755
+   104         85
+   125        999
+   126        158
+   127        575
+   128         62
+   137        181
+   138        432
+   139         73
+   140        123
+   172         56
+   174         51
+   208         74
+   210         94

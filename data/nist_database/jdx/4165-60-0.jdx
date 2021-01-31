@@ -1,0 +1,68 @@
+##TITLE=Library Entry 51152
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Nitrobenzene-D5
+##MOLFORM=C6D5NO2
+##CAS REGISTRY NO=4165-60-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    16         13
+    18          8
+    26          8
+    28         45
+    30        245
+    31          3
+    32          4
+    36          6
+    38         53
+    40         75
+    41          4
+    42        126
+    43          5
+    44          8
+    45          3
+    46         30
+    48          2
+    49          3
+    50         38
+    51          2
+    52        303
+    53          2
+    54        756
+    55         36
+    56          2
+    60          3
+    61          2
+    62         13
+    63          3
+    64         24
+    65          4
+    66         35
+    68         14
+    70        168
+    71         11
+    74         10
+    75          7
+    76         58
+    77          5
+    78         30
+    79          5
+    80         26
+    81          4
+    82        999
+    83         65
+    96          7
+    98        146
+    99         11
+   112         20
+   113          3
+   128        351
+   129         25
+   130          2

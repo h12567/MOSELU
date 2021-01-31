@@ -1,0 +1,46 @@
+##TITLE=Library Entry 100552
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzamide, N,N,3-trimethyl-
+##MOLFORM=C10H13NO
+##CAS REGISTRY NO=6935-65-5
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39         16
+    41          6
+    42         11
+    43          2
+    44          7
+    50          3
+    51          8
+    62          4
+    63         18
+    64          5
+    65         83
+    66          5
+    67          9
+    72         11
+    73          3
+    74          2
+    80          9
+    81          5
+    89         30
+    90         20
+    91        415
+    92         33
+   105          3
+   118          3
+   119        999
+   120         84
+   121          5
+   148         14
+   162        421
+   163        285
+   164         35

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 1614
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Tetrafluorohydrazine
+##MOLFORM=F4N2
+##CAS REGISTRY NO=10036-47-2
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    14        125
+    19         70
+    28         16
+    29          1
+    33        999
+    34          1
+    52        532
+    53          3
+    66          4
+    85          2
+   104          1

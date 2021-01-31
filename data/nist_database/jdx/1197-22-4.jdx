@@ -1,0 +1,74 @@
+##TITLE=Library Entry 65057
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methanesulfanilide
+##MOLFORM=C7H9NO2S
+##CAS REGISTRY NO=1197-22-4
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         10
+    15        213
+    16          2
+    18          1
+    26          3
+    27          2
+    28         22
+    30          0
+    32          4
+    33          5
+    34          4
+    37         24
+    38         82
+    39        326
+    40         42
+    41         16
+    42          1
+    45          6
+    46          6
+    47          5
+    48         26
+    49          6
+    50         23
+    51         37
+    52         45
+    53         12
+    54          4
+    60          1
+    61         11
+    62         30
+    63        110
+    64        111
+    65        666
+    66         58
+    67          3
+    75          2
+    76          3
+    77         20
+    78          2
+    79         36
+    80         18
+    81          3
+    87          1
+    88          2
+    89          1
+    90          7
+    91          1
+    92        999
+    93        195
+    94         12
+   106         12
+   107          2
+   108          1
+   140          4
+   171        328
+   172         32
+   173         17

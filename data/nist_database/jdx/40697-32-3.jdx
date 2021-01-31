@@ -1,0 +1,54 @@
+##TITLE=Library Entry 9931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Acetoxythiacyclohexane
+##MOLFORM=C7H12O2S
+##CAS REGISTRY NO=40697-32-3
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41         60
+    42         30
+    43        999
+    45         29
+    46         89
+    47         39
+    51         59
+    53         50
+    54         20
+    55        108
+    57         10
+    58         50
+    59         19
+    60         50
+    61         20
+    65         19
+    66         20
+    67        129
+    68         29
+    71         39
+    72        170
+    73         60
+    74         19
+    75         29
+    85        501
+    86         50
+    87         29
+    89         40
+    99        170
+   100        450
+   101         39
+   102         19
+   116         20
+   117         19
+   131         49
+   160        180
+   161         15
+   162          8
+   163          0

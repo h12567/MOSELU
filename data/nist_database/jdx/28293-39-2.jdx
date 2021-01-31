@@ -1,0 +1,51 @@
+##TITLE=Library Entry 114371
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,5-Cyclohexadiene-1,4-dione, 2,5-dibromo-3,6-diphenyl-
+##MOLFORM=C18H10Br2O2
+##CAS REGISTRY NO=28293-39-2
+##MP= -300
+##BP= -300
+##MW= 416
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         52
+    50         52
+    51        149
+    52         22
+    62         42
+    63         52
+    74         94
+    75        218
+    76         42
+    77         81
+    87         45
+    88         81
+    98         45
+    99         45
+   100         84
+   101        254
+   102         26
+   105        101
+   115         55
+   129        999
+   130         91
+   131         26
+   150         42
+   200         58
+   201         26
+   202        159
+   203         42
+   258        325
+   259         81
+   260         29
+   309         26
+   311         26
+   336         87
+   337         39
+   338         84
+   339         39

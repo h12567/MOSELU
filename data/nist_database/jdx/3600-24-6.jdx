@@ -1,0 +1,42 @@
+##TITLE=Library Entry 581
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Trisulfide, diethyl
+##MOLFORM=C4H10S3
+##CAS REGISTRY NO=3600-24-6
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1145
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29        999
+    32         84
+    33         23
+    35        165
+    45        234
+    46         78
+    47         20
+    57         19
+    58         85
+    59        133
+    61        452
+    62         43
+    64        166
+    66         50
+    75         20
+    89         50
+    91         64
+    92         44
+    93         72
+    94         37
+    97         43
+    98         11
+   122          7
+   125         15
+   154        148
+   155         14
+   156         16

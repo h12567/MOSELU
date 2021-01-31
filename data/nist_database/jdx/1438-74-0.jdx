@@ -1,0 +1,50 @@
+##TITLE=Library Entry 97810
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Phosphonic dichloride, ethenyl-
+##MOLFORM=C2H3Cl2OP
+##CAS REGISTRY NO=1438-74-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26        208
+    27        925
+    31         45
+    35         58
+    36         50
+    43         66
+    44         51
+    47        780
+    48         85
+    55         34
+    56         69
+    57         50
+    62        378
+    64         89
+    66         62
+    79         28
+    80        136
+    82        126
+    83        336
+    84         29
+    85        102
+   101        204
+   103        125
+   109        747
+   111        242
+   116        349
+   117        112
+   118        999
+   120        535
+   144        363
+   145         33
+   146        219
+   147         26
+   148         36
+   149          8

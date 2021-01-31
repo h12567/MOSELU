@@ -1,0 +1,63 @@
+##TITLE=Library Entry 99210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Buten-1-one, 1-(4-methylphenyl)-
+##MOLFORM=C11H12O
+##CAS REGISTRY NO=130649-66-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27          4
+    38          8
+    39         64
+    40          5
+    41         30
+    42          0
+    43          3
+    45          1
+    50          8
+    51         19
+    52          2
+    53          0
+    61          1
+    62          6
+    63         37
+    64          7
+    65        112
+    66          5
+    68          2
+    69          6
+    70          1
+    74          2
+    75          4
+    76          1
+    77          5
+    79          4
+    86          3
+    89         30
+    90         18
+    91        371
+    92         29
+   105          2
+   113          0
+   115          7
+   116          1
+   118          1
+   119        999
+   120         84
+   121          2
+   127          3
+   128          2
+   134          0
+   141          0
+   144          2
+   145         36
+   159          5
+   160         49
+   161          5

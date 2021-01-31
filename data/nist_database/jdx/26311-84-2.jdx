@@ -1,0 +1,71 @@
+##TITLE=Library Entry 1458
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Lageot ET AL.J.Organomet Chem. 66.49.(1974)
+##NAMES=HP
+##CAS NAME=1-Methoxy-3,4-dimethyl-1-phenyl-1-germacyclopent-3-ene
+##MOLFORM=C13H18GeO
+##CAS REGISTRY NO=26311-84-2
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    29        240
+    30        100
+    31        999
+    32        890
+    39         80
+    41        100
+    43         60
+    51         30
+    53         30
+    54         20
+    55         30
+    58         20
+    59         20
+    67         80
+    78         50
+    81         30
+    82         80
+    83         30
+   101        140
+   103        200
+   104         60
+   107         50
+   112         60
+   147         40
+   148         60
+   149         60
+   150         90
+   151        100
+   152        120
+   153         40
+   154         20
+   159         40
+   180         50
+   181         20
+   182         70
+   183         20
+   184         20
+   210         10
+   211         20
+   212         20
+   213         40
+   214         25
+   215         10
+   228         50
+   229         10
+   230         70
+   231         40
+   232        100
+   233         10
+   234         20
+   260         30
+   262         50
+   263         15
+   264         70
+   265          5
+   266         10

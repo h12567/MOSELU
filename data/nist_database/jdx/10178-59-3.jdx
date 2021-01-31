@@ -1,0 +1,32 @@
+##TITLE=Library Entry 22356
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-Ethylthiolane, S,S-dioxide
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=10178-59-3
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    53         40
+    54         40
+    55        810
+    56        999
+    57         60
+    67         60
+    69        140
+    70         10
+    81         50
+    82        130
+    83        540
+    84         50
+    92          6
+   121          6
+   148         20
+   149          1
+   150          1

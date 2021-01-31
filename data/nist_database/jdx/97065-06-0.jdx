@@ -1,0 +1,71 @@
+##TITLE=Library Entry 83561
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. WILLIAMS, DEP. CHEM., UNIV. COLL., SWANSEA, U.K.
+##NAMES=HP
+##CAS NAME=2-Acetamido-1,2-dideoxy-1-(2-pyridylamino)-d-glucitol
+##MOLFORM=C13H21N3O5
+##CAS REGISTRY NO=97065-06-0
+##MP= -300
+##BP= -300
+##MW= 299
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27         19
+    28         12
+    29         20
+    30         28
+    31         32
+    34         10
+    39         21
+    40         13
+    41         16
+    42         36
+    43        119
+    44         16
+    45         12
+    51         35
+    52         26
+    54         13
+    57         18
+    58         25
+    60         73
+    61         25
+    67         27
+    68         10
+    71         15
+    72         99
+    73         17
+    78        215
+    79         76
+    80         42
+    84         51
+    94         77
+    95         66
+    96         14
+   107        999
+   108        188
+   109         14
+   114         82
+   115         21
+   118         10
+   119         86
+   120         11
+   121         20
+   131         13
+   132         11
+   133         12
+   136         15
+   145         10
+   149        172
+   150         25
+   160         99
+   161         39
+   178         26
+   190         12
+   208         10
+   220         12
+   250          6
+   281          7

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 54240
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Methyl (1-acetyl-2-piperidinyl)(phenyl)acetate  #
+##MOLFORM=C16H21NO3
+##CAS REGISTRY NO=27765-89-5
+##MP= -300
+##BP= -300
+##MW= 275
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    55         37
+    56         50
+    82         34
+    83         40
+    84        999
+    85         74
+    90         49
+    91         44
+   112        166
+   115         50
+   116         24
+   117         31
+   118         29
+   121         29
+   126        615
+   127         65
+   130         21
+   275          5

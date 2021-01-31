@@ -1,0 +1,51 @@
+##TITLE=Library Entry 70219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Imidazol, 1-methyl-2-amino-
+##MOLFORM=C4H7N3
+##CAS REGISTRY NO=6646-51-1
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         71
+    40         64
+    41        148
+    42        579
+    43        298
+    44         42
+    45          5
+    46          2
+    48         30
+    51         32
+    52         45
+    53         96
+    54        144
+    55        381
+    56         71
+    57         30
+    63          5
+    65          6
+    67         43
+    68         12
+    69        266
+    70         22
+    73          9
+    74          3
+    77         10
+    78          3
+    79         12
+    80         11
+    82        216
+    83         13
+    91          2
+    94          5
+    96        719
+    97        999
+    98         43
+    99          3

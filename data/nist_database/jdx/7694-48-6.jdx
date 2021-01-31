@@ -1,0 +1,47 @@
+##TITLE=Library Entry 10550
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-(Dimethylamino)-3-methyl-1-butene
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=7694-48-6
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    30         59
+    39        228
+    41        633
+    42        340
+    43        999
+    44        617
+    45         71
+    53         71
+    55        236
+    56        634
+    57        161
+    58         26
+    67         43
+    68         47
+    69        125
+    70        311
+    71        170
+    72         28
+    82         57
+    83         72
+    84         97
+    85        284
+    86        279
+    87         21
+    96         56
+    97         20
+    98        893
+    99         71
+   110         31
+   112        346
+   113        739
+   114         96

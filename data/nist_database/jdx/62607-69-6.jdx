@@ -1,0 +1,30 @@
+##TITLE=Library Entry 77020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.RONTANI, CENT. OCEANOL., FAC. SCI. DE LUMINY, MARSEIL
+LE, FR.
+##NAMES=HP
+##CAS NAME=10-Phenyl-n-decanol
+##MOLFORM=C16H26O
+##CAS REGISTRY NO=62607-69-6
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29        102
+    31        102
+    41        175
+    55        207
+    69        163
+    77         47
+    91        776
+    92        417
+   104        999
+   105        155
+   117        232
+   131         97
+   216         28
+   234        111

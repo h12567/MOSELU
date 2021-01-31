@@ -1,0 +1,31 @@
+##TITLE=Library Entry 26933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. NICOLETTI, INST. CHIM. ORG., ROME UNIV., ITALY
+##NAMES=HP
+##CAS NAME=Methyl 3-butoxymethyl-7-phthalimido-3-cephem-4-carboxylate
+##MOLFORM=C21H22N2O6S
+##CAS REGISTRY NO=88109-48-2
+##MP= -300
+##BP= -300
+##MW= 430
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    57        999
+    83        350
+    85        350
+   104        499
+   132        298
+   149        700
+   160        401
+   172        630
+   187        225
+   189        225
+   207        175
+   214        153
+   244        254
+   245        258
+   340        125
+   430         47

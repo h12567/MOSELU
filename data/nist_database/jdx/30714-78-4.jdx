@@ -1,0 +1,79 @@
+##TITLE=Library Entry 31545
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Carbonic acid, butyl ethyl ester
+##MOLFORM=C7H14O3
+##CAS REGISTRY NO=30714-78-4
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=980
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         14
+    16          1
+    19          7
+    26         29
+    27        248
+    28        130
+    29        673
+    30         36
+    31        349
+    32          7
+    33          4
+    37          2
+    38          6
+    39        119
+    40         29
+    41        594
+    42         84
+    43        206
+    44         37
+    45        276
+    46          9
+    47          9
+    53         16
+    54         15
+    55        412
+    56        846
+    57        638
+    58         30
+    59         69
+    60          2
+    61          1
+    63        999
+    65          6
+    69          6
+    70          1
+    71          3
+    73        382
+    74         24
+    75         12
+    76         11
+    77          7
+    84          2
+    85          3
+    87          1
+    89         51
+    90        339
+    91        785
+    92         28
+    93          5
+   100          1
+   101          2
+   102          1
+   103          9
+   104          3
+   105          1
+   116          2
+   117         27
+   118          8
+   119         63
+   120          4
+   131          1
+   146          1
+   147          1

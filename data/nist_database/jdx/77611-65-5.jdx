@@ -1,0 +1,52 @@
+##TITLE=Library Entry 59734
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-[(phenylmethyl)sulfonyl]-, methyl ester, (Z)-
+##MOLFORM=C11H12O4S
+##CAS REGISTRY NO=77611-65-5
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         86
+    17         31
+    18        167
+    26         36
+    27         36
+    28        104
+    29         36
+    31         36
+    32         36
+    39        117
+    40         18
+    41         49
+    42         22
+    43         36
+    44         49
+    45         18
+    48         31
+    50         18
+    51         45
+    52         18
+    53         31
+    54         18
+    55         45
+    63         63
+    64         86
+    65        334
+    89         67
+    90         36
+    91        999
+    92        248
+   115         31
+   116         31
+   144         27
+   145         13
+   176         45
+   208          9
+   240         22

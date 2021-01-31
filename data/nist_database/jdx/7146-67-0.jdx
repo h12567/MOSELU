@@ -1,0 +1,71 @@
+##TITLE=Library Entry 22681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 12103-7
+##NAMES=HP
+##CAS NAME=Benzenesulfonamide, N,N-bis(2-hydroxyethyl)-4-methyl-
+##MOLFORM=C11H17NO4S
+##CAS REGISTRY NO=7146-67-0
+##MP= -300
+##BP= -300
+##MW= 259
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15         35
+    19          5
+    27         36
+    28         75
+    29         53
+    30         48
+    31         45
+    38          1
+    39         60
+    40          6
+    41         42
+    42        144
+    43         31
+    44         26
+    45         57
+    50          3
+    51         25
+    52          1
+    54          6
+    55         17
+    56        999
+    57         46
+    58          3
+    62          1
+    63         36
+    64          8
+    65        149
+    66          3
+    72         22
+    73          1
+    74         51
+    77         11
+    84          1
+    85          1
+    86        242
+    87          8
+    89         39
+    90         38
+    91        822
+    92         83
+   105         21
+   106         31
+   107          4
+   139         24
+   155        254
+   156         30
+   157         20
+   184          7
+   198         26
+   199         21
+   210          6
+   228        701
+   229         90
+   230         46
+   241         56
+   242          4

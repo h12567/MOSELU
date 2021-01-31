@@ -1,0 +1,55 @@
+##TITLE=Library Entry 54237
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.HEESING WILHELMS-UNIVERSITAT, MUNSTER, W.GERMANY.
+##NAMES=HP
+##CAS NAME=Spherophysine
+##MOLFORM=C10H22N4
+##CAS REGISTRY NO=25978-54-5
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        300
+    42         80
+    43        250
+    44        420
+    56         90
+    58         60
+    59         60
+    60        480
+    69        260
+    70        430
+    71         80
+    72        250
+    83         60
+    84        999
+    85        130
+    86         80
+    87         90
+    97         60
+    98        100
+   100        120
+   110         60
+   112        290
+   126        540
+   127        110
+   128         60
+   138         50
+   140         60
+   141         60
+   153        220
+   154         90
+   155        180
+   167         90
+   168        150
+   169         60
+   180         60
+   181         80
+   182        110
+   183        140
+   197        130
+   198        350

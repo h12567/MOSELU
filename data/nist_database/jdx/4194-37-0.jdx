@@ -1,0 +1,29 @@
+##TITLE=Library Entry 90739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Methyl-4-amino-4,5(1H)-dihydro-1,2,4-triazole-5-one
+##MOLFORM=C3H6N4O
+##CAS REGISTRY NO=4194-37-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    40         88
+    41         90
+    42        280
+    43         58
+    44        189
+    55         58
+    56        220
+    57        277
+    58         20
+    68         29
+    72         20
+    83        190
+    84         20
+   114        999

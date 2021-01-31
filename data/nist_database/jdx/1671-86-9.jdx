@@ -1,0 +1,27 @@
+##TITLE=Library Entry 81906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA.
+##NAMES=HP
+##CAS NAME=3,6-Di-2-pyridyl-1,2-dihydro-1,2,4,5-tetrazine
+##MOLFORM=C12H10N6
+##CAS REGISTRY NO=1671-86-9
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    50         40
+    51        180
+    52         70
+    76         30
+    77         50
+    78        470
+    79        180
+   104         70
+   105        999
+   106        130
+   238        940
+   239        160

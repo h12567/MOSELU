@@ -1,0 +1,32 @@
+##TITLE=Library Entry 32069
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Cyclopropylacetylene
+##MOLFORM=C5H6
+##CAS REGISTRY NO=6746-94-7
+##MP= -300
+##BP= -300
+##MW= 66
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    40         59
+    41          5
+    48         12
+    49         68
+    50        195
+    51        181
+    52         27
+    53          3
+    60         22
+    61         81
+    62        116
+    63        182
+    64         42
+    65        691
+    66        999
+    67         76
+    68          2

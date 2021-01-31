@@ -1,0 +1,28 @@
+##TITLE=Library Entry 13108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-3-methoxycarbonyl-4,5-dihydro-1,4-oxathiine
+##MOLFORM=C7H10O3S
+##CAS REGISTRY NO=102437-87-6
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    43        999
+    45         51
+    57         22
+    58         43
+    62         21
+    87         95
+   104        294
+   142        109
+   143        146
+   146         73
+   174        463
+   175         29
+   176         13

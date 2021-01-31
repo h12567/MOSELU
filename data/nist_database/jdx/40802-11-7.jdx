@@ -1,0 +1,52 @@
+##TITLE=Library Entry 4948
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methoxy-2,2,3-trimethylaziridine (anti)
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=40802-11-7
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29        140
+    30         70
+    31         30
+    32          7
+    33         30
+    34          9
+    38         20
+    39        240
+    40         60
+    41        240
+    42        999
+    43        260
+    44        250
+    45         20
+    53         30
+    54         40
+    55        280
+    56        110
+    57         70
+    58         30
+    59         20
+    67         30
+    68        190
+    69        250
+    70        150
+    71         19
+    82         40
+    83         30
+    84        980
+    85         70
+    86          7
+    87        450
+    88         20
+   100        200
+   101         20
+   115         90
+   116          7

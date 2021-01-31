@@ -1,0 +1,50 @@
+##TITLE=Library Entry 4402
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 944
+##NAMES=HP
+##CAS NAME=n-Propyl chloride
+##MOLFORM=C3H7Cl
+##CAS REGISTRY NO=540-54-5
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=527
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         12
+    25          3
+    26         38
+    27        318
+    28         78
+    29        405
+    30          9
+    35          4
+    36         11
+    37         22
+    38         30
+    39        113
+    40         30
+    41        231
+    42        999
+    43        136
+    44          4
+    47          4
+    48          5
+    49         41
+    50          5
+    51         12
+    60          2
+    61          8
+    62          7
+    63         46
+    64          3
+    65         13
+    73          3
+    75          4
+    77          3
+    78         26
+    79          1
+    80          8

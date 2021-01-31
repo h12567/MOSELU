@@ -1,0 +1,50 @@
+##TITLE=Library Entry 78599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4336
+##NAMES=HP
+##CAS NAME=Benzoic acid, phenyl ester
+##MOLFORM=C13H10O2
+##CAS REGISTRY NO=93-99-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1615
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          5
+    28          3
+    37          3
+    38          9
+    39         39
+    40          2
+    49          2
+    50         26
+    51         97
+    52          4
+    53          2
+    61          1
+    62          4
+    63          9
+    64          4
+    65         30
+    66          4
+    73          1
+    74          9
+    75          6
+    76         12
+    77        361
+    78         24
+    93          6
+    94          6
+   104          3
+   105        999
+   106         74
+   107          4
+   115          5
+   139          1
+   141          3
+   198         40
+   199          6

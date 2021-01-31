@@ -1,0 +1,51 @@
+##TITLE=Library Entry 20340
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=SHELL RESEARCH LIMITED THORNTON RESEARCH CENTRE
+##NAMES=HP
+##CAS NAME=Furan, tetrahydro-3,4-dimethyl-, cis-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=27953-97-5
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         98
+    28         26
+    29        116
+    30          4
+    31         20
+    37          3
+    38         10
+    39        142
+    40         25
+    41        205
+    42        339
+    43         77
+    44         49
+    45         34
+    50          8
+    51         13
+    52          6
+    53         43
+    54         26
+    55        999
+    56         50
+    57         22
+    58          4
+    59         10
+    67         11
+    68         24
+    69         33
+    70        857
+    71         55
+    80          6
+    82          5
+    84          4
+    99         67
+   100        267
+   101         22

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 78701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Am Soc Mass Spectrom 2008, 19, 1114-1118
+##NAMES=HP
+##CAS NAME=4'-Chlorobenzanilide
+##MOLFORM=C13H10ClNO
+##CAS REGISTRY NO=2866-82-2
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         32
+    39         43
+    40         12
+    49         12
+    50         81
+    51        222
+    52         22
+    53         12
+    61         12
+    62         22
+    63         63
+    64         32
+    65         12
+    73         43
+    74         32
+    75         43
+    76         32
+    77        581
+    78         43
+    89         12
+    90         22
+    91         27
+    99         81
+   100         12
+   101         32
+   105        999
+   106         83
+   107         12
+   125         12
+   126         32
+   127         12
+   128         12
+   167         12
+   231        202
+   232         32
+   233         73
+   234         10

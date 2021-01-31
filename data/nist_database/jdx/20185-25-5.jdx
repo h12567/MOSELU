@@ -1,0 +1,77 @@
+##TITLE=Library Entry 48114
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Tricyclo[4.2.2.0(2,5)]dec-9-ene-3,7-dicarbonitrile
+##MOLFORM=C12H12N2
+##CAS REGISTRY NO=20185-25-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    40         24
+    41         49
+    43         24
+    44         49
+    49         36
+    50        122
+    51        220
+    52        240
+    53        110
+    54        122
+    55         24
+    56          7
+    57         12
+    61         12
+    62         24
+    63         49
+    64         24
+    65         61
+    66         44
+    67         36
+    69         12
+    71         12
+    73         14
+    74         44
+    75         29
+    76         73
+    77        201
+    78        999
+    79        159
+    80         36
+    81          7
+    89         36
+    90         14
+    91         93
+    92         53
+    93         19
+    94         17
+   102         24
+   103         44
+   104        147
+   105        122
+   106         29
+   115         14
+   116         61
+   117         53
+   118         36
+   119          7
+   128         12
+   129          7
+   130        122
+   131        117
+   132         14
+   142         24
+   143         12
+   144         19
+   155         12
+   156         24
+   157         53
+   169         14
+   183         29
+   184         44
+   185         12

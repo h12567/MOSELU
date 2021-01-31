@@ -1,0 +1,60 @@
+##TITLE=Library Entry 9808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hexane, 2-iodo-
+##MOLFORM=C6H13I
+##CAS REGISTRY NO=18589-27-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=1005
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26          9
+    27        139
+    29        150
+    30          3
+    36          1
+    37          2
+    38          7
+    39         91
+    40         42
+    41        331
+    42         89
+    43        999
+    44         38
+    45          2
+    50          5
+    51          7
+    52          3
+    53         18
+    54          9
+    55        142
+    56         49
+    57        109
+    58          6
+    63          1
+    64          3
+    65          2
+    67          5
+    68          1
+    69         28
+    70          2
+    71          3
+    74          1
+    77          1
+    79          1
+    83          3
+    84         29
+    85        811
+    86         53
+    87          2
+   127         40
+   141          2
+   155          9
+   169          3
+   212         22
+   213          1

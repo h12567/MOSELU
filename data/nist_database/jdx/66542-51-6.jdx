@@ -1,0 +1,42 @@
+##TITLE=Library Entry 84656
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl hexanoate
+##MOLFORM=C7H13ClO2
+##CAS REGISTRY NO=66542-51-6
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1071
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39        138
+    41        429
+    42        341
+    43        767
+    44         69
+    49        185
+    51         68
+    55        405
+    56        136
+    57        122
+    69        150
+    70        136
+    71        206
+    72        705
+    73         61
+    83         13
+    85        137
+    98         75
+    99        697
+   100         33
+   108        999
+   109         83
+   110        321
+   111          7
+   121        159
+   123         40
+   135         14

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 51840
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-(2-Furyl)-3-phenylpropane
+##MOLFORM=C13H14O
+##CAS REGISTRY NO=5073-13-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1637
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    40         20
+    41         80
+    50         20
+    51         80
+    52         30
+    53        180
+    54         30
+    55         20
+    63         30
+    65        150
+    66         40
+    67         40
+    69         20
+    76         10
+    77        140
+    78         60
+    79        100
+    80         20
+    81        790
+    82        999
+    83         60
+    89         20
+    90         20
+    91        390
+    92        450
+    93         50
+    94        110
+    95        200
+    96         20
+   102         20
+   103         80
+   104        190
+   105        360
+   106         30
+   107         10
+   116         30
+   117         10
+   118         50
+   119         50
+   126         15
+   127         20
+   128         20
+   186        820
+   187        118
+   188          8

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 97494
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, R.S.Borisov, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phosphorochloridic acid, dipropyl ester
+##MOLFORM=C6H14ClO3P
+##CAS REGISTRY NO=2510-89-6
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         26
+    29         10
+    31         10
+    39         23
+    40          4
+    41         53
+    42         25
+    43         84
+    47          7
+    55          3
+    58          2
+    59         38
+    65          8
+    77          2
+    81         22
+    83          2
+    99         15
+   100         34
+   101         16
+   102         10
+   103          3
+   112          2
+   117        999
+   119        342
+   123         32
+   129        130
+   130         12
+   131         53
+   132          3
+   133          2
+   143         18
+   145          5
+   157         13
+   158         27
+   159         38
+   160          8
+   161         10
+   171         12
+   173          2

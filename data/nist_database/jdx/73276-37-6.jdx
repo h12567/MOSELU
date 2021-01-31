@@ -1,0 +1,55 @@
+##TITLE=Library Entry 53739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Hesse, Org. Chem. Inst., Univ. Zurich, Zurich, Switz
+erland
+##NAMES=HP
+##CAS NAME=Ephedradine c
+##MOLFORM=C30H40N4O5
+##CAS REGISTRY NO=73276-37-6
+##MP= -300
+##BP= -300
+##MW= 536
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    45        980
+    60        420
+    70        600
+    84        999
+    98        840
+   151        970
+   155        360
+   166        320
+   169        310
+   178        310
+   214        100
+   240         90
+   253        110
+   267        270
+   280        190
+   282        250
+   294        180
+   295        230
+   296        250
+   308        220
+   322        130
+   336         50
+   351         60
+   366         50
+   382        100
+   395         80
+   408         70
+   421        190
+   422        160
+   450         80
+   464         50
+   465         50
+   478         30
+   479         30
+   493        310
+   507        130
+   536        400
+   537        139
+   538          5

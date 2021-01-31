@@ -1,0 +1,66 @@
+##TITLE=Library Entry 9420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanedinitrile, (acetyloxy)methyl-
+##MOLFORM=C6H6N2O2
+##CAS REGISTRY NO=7790-01-4
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         18
+    27          7
+    29          4
+    30          0
+    31          1
+    37          1
+    38          4
+    39          1
+    41          3
+    42         25
+    43        999
+    44         22
+    45         12
+    50          1
+    51         27
+    52        125
+    53          9
+    54          8
+    55          0
+    59          0
+    60         19
+    61          4
+    62          0
+    63          0
+    64          2
+    65          0
+    66          1
+    67          1
+    68          2
+    69          0
+    70          0
+    76          3
+    77         10
+    78          4
+    79        146
+    80          7
+    81          0
+    82          0
+    91          0
+    93          3
+    94          0
+    95          3
+    96          3
+    97          0
+   110          0
+   111          0
+   112          0
+   123          1
+   138         33
+   139          3
+   140          0

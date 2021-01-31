@@ -1,0 +1,30 @@
+##TITLE=Library Entry 70091
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 98(26) 8421(1976); R. WEST, UNIV OF WISCONSIN,
+ USA
+##NAMES=HP
+##CAS NAME=Silane, (3-ethyl-3-methyl-1-pentynyl)trimethyl-
+##MOLFORM=C11H22Si
+##CAS REGISTRY NO=61228-00-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    69        180
+    73        810
+    74         70
+    83        110
+    97        999
+    98        120
+   108        140
+   111        280
+   123        110
+   153        260
+   167        510
+   168         80
+   182        130
+   183         20

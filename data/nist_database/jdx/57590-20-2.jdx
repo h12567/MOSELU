@@ -1,0 +1,29 @@
+##TITLE=Library Entry 55045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. PYYSALO, FOOD RES. LAB., TECH. RES. CENT., ESPOO, FI
+N
+##NAMES=HP
+##CAS NAME=n-Pentanal N-methyl-N-formylhydrazone
+##MOLFORM=C7H14N2O
+##CAS REGISTRY NO=57590-20-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41        340
+    43        500
+    57        250
+    59        730
+    60        190
+    67         80
+    69        210
+    71        250
+    84        390
+    85        999
+   100        480
+   113         80
+   142        160

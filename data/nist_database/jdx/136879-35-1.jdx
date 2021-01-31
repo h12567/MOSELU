@@ -1,0 +1,71 @@
+##TITLE=Library Entry 7970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=N-Methylpropionamide, N-acetyl-
+##MOLFORM=C6H11NO2
+##CAS REGISTRY NO=136879-35-1
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         55
+    16          1
+    25          2
+    26         26
+    27        131
+    28        100
+    29        382
+    30         80
+    31         35
+    32         72
+    33          1
+    37          2
+    38          3
+    39          8
+    40          7
+    41         17
+    42        127
+    43        999
+    44         87
+    45         32
+    46          1
+    51          2
+    52          6
+    53          7
+    54         21
+    55         79
+    56        339
+    57        939
+    58        439
+    59         64
+    60          5
+    64          1
+    66          2
+    67          1
+    68         30
+    69         21
+    70         46
+    71          4
+    72         41
+    73        216
+    74        474
+    75         17
+    84          2
+    86        237
+    87        263
+    88         58
+    89          3
+   101        881
+   102         53
+   103          2
+   114         31
+   115          2
+   129        141
+   130         11
+   131          1

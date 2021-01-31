@@ -1,0 +1,63 @@
+##TITLE=Library Entry 70109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.V. BROWN, CSIRO, BLACK MOUNTAIN, CANBERRA CITY, AUSTR
+ALIA
+##NAMES=HP
+##CAS NAME=(5-Ethylcyclopent-1-enyl)methanol
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=36431-59-1
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=1073
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    38          8
+    39        168
+    41        378
+    42         27
+    43         77
+    44          6
+    45          6
+    50         12
+    51         33
+    52         18
+    53         67
+    54         14
+    55        263
+    56         14
+    57         52
+    63         10
+    65         44
+    66         33
+    67        547
+    68         40
+    69        103
+    70        124
+    71         14
+    77        105
+    78         27
+    79        778
+    80         75
+    81         33
+    82         14
+    83         16
+    85          8
+    91         37
+    92          6
+    93         69
+    94         21
+    95        589
+    96         65
+    97        999
+    98         77
+    99          6
+   107          8
+   108         33
+   109         10
+   111          6
+   124          6
+   126        315
+   127         27

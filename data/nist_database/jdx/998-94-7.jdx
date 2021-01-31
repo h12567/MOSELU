@@ -1,0 +1,55 @@
+##TITLE=Library Entry 34046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Methyl-1,5-Heptadiene
+##MOLFORM=C8H14
+##CAS REGISTRY NO=998-94-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          5
+    26          7
+    27         58
+    28          4
+    29         21
+    32          0
+    37          6
+    38         22
+    39        205
+    40          0
+    41        655
+    42         31
+    43         12
+    50         16
+    51         30
+    52         15
+    53         74
+    54         14
+    55         39
+    62          7
+    63         13
+    64          3
+    65         32
+    66         13
+    67        121
+    68          3
+    69        999
+    70         56
+    77         27
+    78          7
+    79         28
+    80         10
+    81         45
+    82          9
+    91         12
+    93          5
+    95         91
+    96          6
+   110          5

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 9625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=(1-Azido-2,2,2-trichloroethyl)formamide
+##MOLFORM=C3H3Cl3N4O
+##CAS REGISTRY NO=35530-17-7
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    42        190
+    43        999
+    44        160
+    47        200
+    62        110
+    64        100
+    71        140
+    76        110
+    82        230
+    83        190
+    84        150
+    85        130
+   110        220
+   111        140
+   112        150
+   118        160
+   120        170
+   122         50
+   146        140
+   148        140
+   150         50
+   174        180
+   176        170
+   178         50

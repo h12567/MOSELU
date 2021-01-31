@@ -1,0 +1,54 @@
+##TITLE=Library Entry 10605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=3-Methyl-2,4-hexanedione
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=4220-52-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    37          3
+    38          9
+    41         13
+    42         64
+    43        999
+    44         34
+    45         31
+    46         37
+    47          1
+    48          2
+    49          3
+    51          6
+    53          9
+    57        264
+    58         15
+    59         10
+    60          2
+    61         11
+    65          3
+    67          1
+    70          4
+    71         74
+    72          9
+    73         19
+    74          5
+    76         16
+    77          1
+    78          7
+    79          3
+    80          2
+    81          7
+    85         14
+    86         32
+    87         79
+    88          2
+    99        425
+   100         25
+   113          8
+   128          5

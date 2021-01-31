@@ -1,0 +1,80 @@
+##TITLE=Library Entry 40137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3398
+##NAMES=HP
+##CAS NAME=2,trans-5-Diethylpiperazine
+##MOLFORM=C8H18N2
+##CAS REGISTRY NO=6189-24-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    15          4
+    17          4
+    18         18
+    26          2
+    27         26
+    28         76
+    29         34
+    30        100
+    31          5
+    39         25
+    40          5
+    41         83
+    42         54
+    43         18
+    44         15
+    48          1
+    51          2
+    52          3
+    53          9
+    54         21
+    55         43
+    56        169
+    57         35
+    58        148
+    59          7
+    65          1
+    67          6
+    68         13
+    69          8
+    70         93
+    71         61
+    72        999
+    73         58
+    74          1
+    80          3
+    81          3
+    82         34
+    83         29
+    84         98
+    85         13
+    86          2
+    87          1
+    94          2
+    95          3
+    96         21
+    97          3
+    98         76
+    99          7
+   108          1
+   109          2
+   110          2
+   111          6
+   112         24
+   113        323
+   114         23
+   115          1
+   121          4
+   123          1
+   125          1
+   127          1
+   138          1
+   140          1
+   141          9
+   142        106
+   143          9

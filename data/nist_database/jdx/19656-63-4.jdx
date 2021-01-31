@@ -1,0 +1,31 @@
+##TITLE=Library Entry 26745
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.D.GREEN MASSACHUSETTS INST. OF TECH., CAMBRIDGE, MASS
+. USA
+##NAMES=HP
+##CAS NAME=1,2,4-Oxadiazolidin-5-one, 2-tert-butyl-3-(tert-butylimino)-4-phe
+nyl-
+##MOLFORM=C16H23N3O2
+##CAS REGISTRY NO=19656-63-4
+##MP= -300
+##BP= -300
+##MW= 289
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    57        999
+    77        260
+    83        260
+    91        200
+    93        220
+   105        100
+   118         70
+   119         80
+   133        800
+   174         80
+   177        410
+   189         60
+   233        140
+   245         70

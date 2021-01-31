@@ -1,0 +1,61 @@
+##TITLE=Library Entry 97507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. MOLTZEN,DEP. CHEM.,KANSAS STATE UNIV.,MANHATTAN,KANS
+AS,USA
+##NAMES=HP
+##CAS NAME=trans-2,3-Bis[(trichloromethyl)thio]-2,3-dichlorothiirane
+##MOLFORM=C4Cl8S3
+##CAS REGISTRY NO=91631-90-2
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    79        690
+    81        250
+    82        110
+    84         70
+   114        180
+   116        120
+   117        999
+   119        950
+   121        300
+   123        440
+   125        180
+   126        390
+   128        270
+   130         50
+   149         40
+   151         40
+   153         10
+   190        790
+   192        610
+   194        150
+   205        490
+   207        510
+   209        190
+   211         30
+   240         30
+   242         40
+   244         20
+   275        510
+   277        860
+   279        590
+   281        220
+   307        510
+   309        880
+   311        630
+   313        240
+   354         20
+   356         50
+   358         50
+   360         30
+   389         60
+   391        170
+   393        200
+   395        140
+   426          0
+   428          0

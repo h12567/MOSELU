@@ -1,0 +1,39 @@
+##TITLE=Library Entry 18279
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Buten-3-yne
+##MOLFORM=C4H4
+##CAS REGISTRY NO=689-97-4
+##MP= -300
+##BP= -300
+##MW= 52
+##$RETENTION INDEX=374
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+     2          4
+    12          6
+    13          3
+    14          3
+    15          2
+    24          5
+    25         33
+    26         84
+    27         18
+    28          4
+    29          1
+    31          1
+    36         15
+    37         44
+    38         16
+    39          3
+    40          1
+    48         29
+    49        137
+    50        458
+    51        479
+    52        999
+    53         44
+    54          1

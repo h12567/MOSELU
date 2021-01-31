@@ -1,0 +1,56 @@
+##TITLE=Library Entry 51066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Djerassi ET AL.J.Org.Chem.,31,1599(1966)
+##NAMES=HP
+##CAS NAME=3,9-Diazabicyclo[4.2.1]nonan-4-one, 9-methyl-
+##MOLFORM=C8H14N2O
+##CAS REGISTRY NO=7309-42-4
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        177
+    42        554
+    43         74
+    44         64
+    45         18
+    51         16
+    52         16
+    53         38
+    54         58
+    55        135
+    56         96
+    57         96
+    58         16
+    66         26
+    67         56
+    68         86
+    69         26
+    70         56
+    73        205
+    74         18
+    80         36
+    81         60
+    82        999
+    83        149
+    84         32
+    94         58
+    95         30
+    96        518
+    97        328
+    98         30
+    99         20
+   111         16
+   112         12
+   113          8
+   123         10
+   124         22
+   125         12
+   126         10
+   139         14
+   154        157
+   155         50

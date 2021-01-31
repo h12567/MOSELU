@@ -1,0 +1,44 @@
+##TITLE=Library Entry 25718
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 4-(1,1-dimethylethyl)-, acetate, trans-
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=1900-69-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1322
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         19
+    41         75
+    43        175
+    54         42
+    55         75
+    56        205
+    57        999
+    58         42
+    61        172
+    67        275
+    68          8
+    69         32
+    70          8
+    79          7
+    80        292
+    81        231
+    82        475
+    83        134
+    84          7
+    95         32
+    96         19
+    99          7
+   110          8
+   123        146
+   124          8
+   138         58
+   141          8
+   142          8
+   143          8

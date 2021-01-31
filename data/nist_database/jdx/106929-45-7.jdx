@@ -1,0 +1,36 @@
+##TITLE=Library Entry 8963
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G. Peter, Inst. Org. Chem. Biochem., Univ. Bonn, Bonn
+, W. Ger.
+##NAMES=HP
+##CAS NAME=Oxirane, 3-[5-(4-azidophenoxy)-3-methyl-3-pentenyl]-2,2-dimethyl-
+, (E)-.+/-.-
+##MOLFORM=C16H21N3O2
+##CAS REGISTRY NO=106929-45-7
+##MP= -300
+##BP= -300
+##MW= 287
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        110
+    41        300
+    43        999
+    53        110
+    55        160
+    59        220
+    67        160
+    69        110
+    71        850
+    79        150
+    81        750
+    85        200
+    93        120
+    95        150
+   107        370
+   135        140
+   153        400
+   209          2
+   287          9

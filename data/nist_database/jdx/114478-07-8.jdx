@@ -1,0 +1,39 @@
+##TITLE=Library Entry 76394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,1-Bis(2-methoxyethyl)hydrazine
+##MOLFORM=C6H16N2O2
+##CAS REGISTRY NO=114478-07-8
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         48
+    29        196
+    30         84
+    31        167
+    33         17
+    41         26
+    42         64
+    43         90
+    44         67
+    45        281
+    56        164
+    57         26
+    58         78
+    59        719
+    60         30
+    64         13
+    71         33
+    88        401
+    89         25
+   103        999
+   104         60
+   133         20
+   148        110
+   149         11

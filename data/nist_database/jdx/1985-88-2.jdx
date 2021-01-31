@@ -1,0 +1,39 @@
+##TITLE=Library Entry 29799
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,1-Dimethyl-3-chloropropanol
+##MOLFORM=C5H11ClO
+##CAS REGISTRY NO=1985-88-2
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        132
+    29         58
+    31        197
+    39         65
+    41        167
+    42         23
+    43        707
+    44         19
+    45         25
+    53         26
+    55         37
+    57         16
+    58         21
+    59        999
+    60         33
+    67         12
+    69         71
+    71         38
+    73          6
+    81         13
+    95          7
+   107        251
+   108         13
+   109         86

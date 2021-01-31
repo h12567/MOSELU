@@ -1,0 +1,46 @@
+##TITLE=Library Entry 1755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,4-Pentadienal
+##MOLFORM=C5H6O
+##CAS REGISTRY NO=4009-55-6
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    12         24
+    13         37
+    14         87
+    15        236
+    24         15
+    25         37
+    26        130
+    27        461
+    28        236
+    29        173
+    30         13
+    31         27
+    36         13
+    37         77
+    38        133
+    39        999
+    40         57
+    41         82
+    42         83
+    43        112
+    45         24
+    49         13
+    50         50
+    51         60
+    52         40
+    53        483
+    54        167
+    55        113
+    56         18
+    81        190
+    82        100

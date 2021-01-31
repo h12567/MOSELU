@@ -1,0 +1,54 @@
+##TITLE=Library Entry 22797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=N,N'-Dimethylnitroacetamidine
+##MOLFORM=C4H9N3O2
+##CAS REGISTRY NO=54252-45-8
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    42        545
+    43         63
+    44        224
+    45          9
+    46         58
+    51         10
+    52         49
+    53         40
+    54        217
+    55        415
+    56        999
+    57        258
+    58         97
+    60         21
+    66          2
+    67         16
+    68         11
+    69        179
+    70         64
+    71        200
+    72         44
+    83         73
+    84        189
+    85        577
+    86         31
+    96         10
+    97          5
+    98         58
+   100         11
+   101         71
+   102          3
+   105          8
+   113         14
+   114         69
+   115         35
+   130         13
+   131        918
+   132         92
+   133          6

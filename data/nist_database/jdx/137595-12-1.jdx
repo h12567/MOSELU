@@ -1,0 +1,57 @@
+##TITLE=Library Entry 32628
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=n-Octylidencyclohexane
+##MOLFORM=C14H26
+##CAS REGISTRY NO=137595-12-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        220
+    40         30
+    41        630
+    42        130
+    43        390
+    44         90
+    45         40
+    53        158
+    54        125
+    55        792
+    56        151
+    57        224
+    65         39
+    66         46
+    67        999
+    68        224
+    69        257
+    70         99
+    71         86
+    77         66
+    78         99
+    80         73
+    81        281
+    82        555
+    83        561
+    84         86
+    85         66
+    91        139
+    93         53
+    94         53
+    95        223
+    96        726
+    97        211
+    98         46
+   105         46
+   108         36
+   109        620
+   110        125
+   123         40
+   194        165
+   195         25
+   196          2

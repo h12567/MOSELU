@@ -1,0 +1,29 @@
+##TITLE=Library Entry 94050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T.SHARP DEPT. OF CHEM., UNIV. OF EDINBURGH, EDINBURGH
+, UK
+##NAMES=HP
+##CAS NAME=1H-2,3-Benzodiazepine, 1-methyl-
+##MOLFORM=C10H10N2
+##CAS REGISTRY NO=29100-32-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        120
+    51        240
+    63        180
+    64        250
+    77        120
+    89        100
+   115        999
+   116        220
+   128        250
+   129        890
+   130        840
+   131        130
+   158        420

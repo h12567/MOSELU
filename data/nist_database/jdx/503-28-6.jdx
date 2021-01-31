@@ -1,0 +1,28 @@
+##TITLE=Library Entry 16
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.F.DIAMOND,SHELL RESEARCH LIMITED THORNTON RESEARCH CE
+NTRE
+##NAMES=HP
+##CAS NAME=Diazene, dimethyl-
+##MOLFORM=C2H6N2
+##CAS REGISTRY NO=503-28-6
+##MP= -300
+##BP= -300
+##MW= 58
+##$RETENTION INDEX=396
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    13         24
+    14         72
+    15        999
+    26         27
+    27        134
+    28        365
+    29         24
+    30         62
+    42        110
+    43        675
+    57         41
+    58        317

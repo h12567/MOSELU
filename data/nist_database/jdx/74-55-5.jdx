@@ -1,0 +1,45 @@
+##TITLE=Library Entry 75849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.Ardrey ET AL.Pharmaceutical Mass Spectra,L.,1985
+##NAMES=HP
+##CAS NAME=Ethambutol
+##MOLFORM=C10H24N2O2
+##CAS REGISTRY NO=74-55-5
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         20
+    29         30
+    30        680
+    31         40
+    41         50
+    42         60
+    43         60
+    44        200
+    49         10
+    54         10
+    55         90
+    56         60
+    57         50
+    58         60
+    70         30
+    71         60
+    72        290
+    73         10
+    74         10
+    84         50
+    85         30
+    86         30
+    88         10
+    97         40
+   102        999
+   103         50
+   115         50
+   116        130
+   117         10
+   173         70

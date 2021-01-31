@@ -1,0 +1,40 @@
+##TITLE=Library Entry 43932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=Dihydroxymalonic acid, 4TMS derivative
+##MOLFORM=C15H36O6Si4
+##CAS REGISTRY NO=42827-95-2
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    44         46
+    45         94
+    49         38
+    69         50
+    72         23
+    73        999
+    74         90
+    75        135
+    77         29
+    84         12
+    93          9
+   131         48
+   133         16
+   147        457
+   148         74
+   149         36
+   221         57
+   307        574
+   308        159
+   309         83
+   381         32
+   409        199
+   410         68
+   411         41

@@ -1,0 +1,86 @@
+##TITLE=Library Entry 60608
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=dl-Erythro-pentonic acid, 2,5-dideoxy-4-O-(phenylmethyl)-, methyl
+ ester
+##MOLFORM=C13H18O4
+##CAS REGISTRY NO=74262-64-9
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    26          3
+    27          8
+    29         17
+    31         10
+    33          9
+    38          3
+    39         27
+    41         15
+    42         14
+    43        112
+    44          9
+    45         12
+    50          5
+    51         15
+    52          3
+    53          6
+    54          4
+    55         12
+    56          5
+    57         25
+    58          3
+    59         24
+    61         75
+    62          3
+    63         13
+    64          0
+    65         62
+    66          2
+    69          2
+    71        148
+    72          8
+    73          2
+    74         11
+    75          2
+    77         19
+    78          2
+    79         18
+    80          0
+    82          9
+    83          3
+    89         16
+    90          9
+    91        999
+    92        285
+    93         22
+    97          4
+    99          7
+   103        203
+   104          9
+   105         12
+   106          1
+   107         45
+   108          6
+   109          2
+   114        221
+   115         16
+   117          3
+   118          1
+   121          0
+   130          0
+   131          5
+   132          2
+   134          2
+   135         70
+   136          6
+   147          2
+   163          2
+   176          6
+   177          0
+   178          0

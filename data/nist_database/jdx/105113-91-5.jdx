@@ -1,0 +1,73 @@
+##TITLE=Library Entry 73313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Dziwinski ET AL. J.Chromatogr.,367,201(1986)
+##NAMES=HP
+##CAS NAME=Benzyl decyl maleate
+##MOLFORM=C21H30O4
+##CAS REGISTRY NO=105113-91-5
+##MP= -300
+##BP= -300
+##MW= 346
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    39         77
+    41        344
+    42        127
+    43        553
+    50         20
+    51         57
+    52         16
+    53         24
+    54         69
+    55        389
+    56        172
+    57        512
+    58         16
+    63         16
+    65         69
+    66         12
+    67         20
+    68         32
+    69        172
+    70        118
+    71        151
+    75         16
+    76         16
+    77        135
+    79         53
+    80         20
+    82        135
+    83        168
+    84         45
+    85        159
+    89         16
+    90         40
+    91        819
+    92        168
+    93          8
+    97         20
+    99         65
+   100        999
+   105         61
+   106         40
+   107        168
+   108         45
+   112         16
+   117         16
+   133          8
+   140          8
+   144          8
+   161         57
+   162         36
+   187         12
+   189         36
+   190         16
+   240         57
+   241         16
+   301          5
+   302          1
+   346          6
+   347          2

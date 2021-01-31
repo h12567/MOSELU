@@ -1,0 +1,63 @@
+##TITLE=Library Entry 71468
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=5-Nonyl-1H-[1,2,4]triazol-3-ylamine
+##MOLFORM=C11H22N4
+##CAS REGISTRY NO=23988-45-6
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    53          4
+    54         11
+    55         43
+    56         19
+    57         59
+    58         21
+    60          7
+    67          5
+    68          4
+    69         21
+    70          3
+    71          4
+    73          7
+    74          1
+    81          4
+    82          2
+    83          3
+    84          1
+    85          2
+    95          2
+    96          1
+    97         51
+    98        999
+    99         44
+   110         14
+   111        455
+   112        117
+   113          7
+   123          1
+   124          1
+   125         62
+   126         13
+   129          3
+   137          2
+   139         28
+   140         18
+   141          2
+   153        109
+   154         20
+   155          2
+   167         78
+   168         23
+   181         40
+   182          3
+   195          6
+   209         12
+   210        120
+   211         14

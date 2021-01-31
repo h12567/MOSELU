@@ -1,0 +1,72 @@
+##TITLE=Library Entry 3871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=.alpha.-Isothiocyanato-.gamma.-butyrolactone
+##MOLFORM=C5H5NO2S
+##CAS REGISTRY NO=61315-63-7
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    14         13
+    15         17
+    25         13
+    26         92
+    27        289
+    28         89
+    29        128
+    30         19
+    31          8
+    32         52
+    33          4
+    36          3
+    37         24
+    38         53
+    39        330
+    40         93
+    41        999
+    42         46
+    43          3
+    44        101
+    45         47
+    46         14
+    49          5
+    51         16
+    52         21
+    53         15
+    54         34
+    55         84
+    56         12
+    57         30
+    58        146
+    59        144
+    60         53
+    61          8
+    64          4
+    66          6
+    67         40
+    68          5
+    69          4
+    70         94
+    71        171
+    72        255
+    73         21
+    74         10
+    82          5
+    83          9
+    84         35
+    85         93
+    86         24
+    87          6
+    98         76
+    99        433
+   100         25
+   101         18
+   143        416
+   144         30
+   145         22

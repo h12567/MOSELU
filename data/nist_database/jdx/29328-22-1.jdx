@@ -1,0 +1,60 @@
+##TITLE=Library Entry 9178
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetone, ethyl methyl acetal
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=29328-22-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14         40
+    15        190
+    19          9
+    25          6
+    26         57
+    27        215
+    28         97
+    29        370
+    30         46
+    31        504
+    32        151
+    33          9
+    36          2
+    37         11
+    38         20
+    39        126
+    40         46
+    41        174
+    42        203
+    43        999
+    44         34
+    45        186
+    46         52
+    47          3
+    53          2
+    55         12
+    56          1
+    57         64
+    58        368
+    59        327
+    60         10
+    61          9
+    71          2
+    72         56
+    73        608
+    74         29
+    75        115
+    76          3
+    86        142
+    87        147
+    88          8
+    89         13
+   103         47
+   104          2
+   117          3

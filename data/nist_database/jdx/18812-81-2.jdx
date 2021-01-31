@@ -1,0 +1,46 @@
+##TITLE=Library Entry 23606
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.ZEEH TUBINGEN UNIVERSITY, TUBINGEN F.R.G.
+##NAMES=HP
+##CAS NAME=2-Propanamine, N,N'-[4-(chloromethyl)-4-methyl-2,3-oxetanediylide
+ne]bis[2-methyl-
+##MOLFORM=C13H23ClN2O
+##CAS REGISTRY NO=18812-81-2
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        282
+    42         54
+    43         55
+    49         11
+    53          9
+    55         24
+    56         39
+    57        999
+    58         71
+    68         93
+    69          7
+    84         18
+    94         12
+   103         14
+   104          4
+   105          5
+   110          6
+   111          6
+   124         66
+   125          6
+   132          9
+   134          3
+   140          2
+   144          5
+   146          2
+   151          2
+   159          4
+   161          2
+   187          4
+   189          1

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 100588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ethanamine, 1,1,2,2,2-pentafluoro-N,N-bis(pentafluoroethyl)-
+##MOLFORM=C6F15N
+##CAS REGISTRY NO=359-70-6
+##MP= -300
+##BP= -300
+##MW= 371
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    69        135
+    70          1
+   100         13
+   114         46
+   119        999
+   120         10
+   146          8
+   164        201
+   165          3
+   196         31
+   214        135
+   215          2
+   302         71
+   303          1

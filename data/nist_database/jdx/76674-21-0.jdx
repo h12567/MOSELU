@@ -1,0 +1,42 @@
+##TITLE=Library Entry 107036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectral Data Center
+##NAMES=HP
+##CAS NAME=Flutriafol
+##MOLFORM=C16H13F2N3O
+##CAS REGISTRY NO=76674-21-0
+##MP= -300
+##BP= -300
+##MW= 301
+##$RETENTION INDEX=2155
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    74         13
+    75         94
+    82        167
+    83        104
+    93         19
+    95        182
+    96         19
+   109         39
+   113         12
+   122         11
+   123        999
+   124         75
+   138         20
+   151         14
+   164        552
+   165         47
+   169         18
+   170         61
+   171         14
+   181         10
+   183         19
+   188         14
+   198         11
+   199         10
+   201         26
+   219        255
+   220         38

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 7726
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. MATOBA, TOYAMA MED. PHARM. UNIV., SUGITANI, TOYAMA,
+ JAPAN
+##NAMES=HP
+##CAS NAME=9,9-Dimethoxybicyclo[3.3.1]nona-2,4-dione
+##MOLFORM=C11H16O4
+##CAS REGISTRY NO=117132-08-8
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=2148
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    40        296
+    41        885
+    42        194
+    43        999
+    44        546
+    45        268
+    54        141
+    55        914
+    56        351
+    57        971
+    60        648
+    61        144
+    67        247
+    68        212
+    69        880
+    70        302
+    71        487
+    73        737
+    74        156
+    77        218
+    79        149
+    81        378
+    82        203
+    83        459
+    84        259
+    85        299
+    87        189
+    91        129
+    95        214
+    96        177
+    97        348
+    98        183
+    99        119
+   101        322
+   109        142
+   110        142
+   111        505
+   112        140
+   113        130
+   114        299
+   115        213
+   123        122
+   129        262
+   149        359
+   212        259

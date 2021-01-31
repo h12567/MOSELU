@@ -1,0 +1,46 @@
+##TITLE=Library Entry 22721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=3,3-Dimethylthietane
+##MOLFORM=C5H10S
+##CAS REGISTRY NO=13188-85-7
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=739
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         65
+    28          3
+    29         75
+    38          8
+    39         88
+    40         91
+    41        465
+    42         18
+    45         87
+    46        116
+    47         66
+    50          7
+    51          9
+    53         38
+    54        118
+    55        117
+    56        999
+    57        103
+    58          8
+    59         27
+    60         18
+    61         12
+    67         11
+    68         17
+    69         26
+    74         18
+    87        141
+   102        594
+   103         37
+   104         27

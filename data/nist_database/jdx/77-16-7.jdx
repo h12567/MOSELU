@@ -1,0 +1,31 @@
+##TITLE=Library Entry 314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. YAMAUCHI,FAC. PHARMACEUT. SCI.,FUKUOKA UNIV.,FUKUOKA
+,JAPAN
+##NAMES=HP
+##CAS NAME=Plumericin
+##MOLFORM=C15H14O6
+##CAS REGISTRY NO=77-16-7
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    28        999
+    53        405
+    77        372
+   115        363
+   139        796
+   160        700
+   165        511
+   173        416
+   193        833
+   201        742
+   229        852
+   230        941
+   258        622
+   261        507
+   290        592

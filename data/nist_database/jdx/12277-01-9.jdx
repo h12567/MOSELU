@@ -1,0 +1,59 @@
+##TITLE=Library Entry 1668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Tungsten, tetracarbonyl[(2,3,5,6-.eta.)-3a,4,7,7a-tetrahydro-4,7-
+methano-1H-indene]-
+##MOLFORM=C14H12O4W
+##CAS REGISTRY NO=12277-01-9
+##MP= -300
+##BP= -300
+##MW= 428
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    38        193
+    39        999
+    40        800
+    41        126
+    50         86
+    51        200
+    52         66
+    53         60
+    54         60
+    77        146
+    78        180
+    79         93
+    80         46
+    91        186
+   102         20
+   103         33
+   104         33
+   105         20
+   115        100
+   117        166
+   132        733
+   143         80
+   156        133
+   157        113
+   171         20
+   185          6
+   186          6
+   209         13
+   210         13
+   222         53
+   234         26
+   250        140
+   260         60
+   278         60
+   286         86
+   288         86
+   306         33
+   314        666
+   334         20
+   342        133
+   372         66
+   400         33
+   428        146

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 16698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Butyne, 4-methoxy-
+##MOLFORM=C5H8O
+##CAS REGISTRY NO=36678-08-7
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    24          0
+    25          5
+    26         37
+    27        208
+    28         51
+    29        333
+    30         13
+    31         22
+    33          1
+    36          3
+    37         34
+    38         66
+    39        182
+    40         18
+    41         41
+    42          5
+    43        227
+    44         12
+    45        999
+    46         31
+    47          2
+    48          1
+    49         15
+    50         89
+    51         96
+    52         66
+    53        159
+    54        234
+    55         65
+    56          9
+    58          2
+    65          0
+    66          2
+    67          1
+    68         11
+    69         48
+    70          1
+    81          0
+    83        105
+    84          5

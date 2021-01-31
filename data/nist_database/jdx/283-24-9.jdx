@@ -1,0 +1,85 @@
+##TITLE=Library Entry 16131
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 82
+##NAMES=HP
+##CAS NAME=3-Azabicyclo[3.2.2]nonane
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=283-24-9
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          8
+    26          3
+    27         64
+    28         62
+    29         49
+    30        227
+    31          4
+    32         28
+    37          1
+    38          6
+    39        122
+    40         19
+    41        171
+    42         92
+    43        331
+    44        999
+    45         48
+    46          9
+    48          1
+    50          6
+    51         16
+    52          9
+    53         59
+    54         81
+    55        137
+    56         85
+    57        103
+    58          8
+    59          2
+    62          1
+    63          4
+    64          1
+    65         21
+    66         20
+    67        124
+    68        145
+    69        102
+    70        147
+    71         39
+    72          1
+    77         33
+    78          9
+    79        137
+    80         36
+    81         66
+    82        126
+    83         39
+    84         29
+    85          2
+    91         19
+    92          4
+    93         32
+    94        100
+    95         42
+    96        390
+    97         49
+    98          4
+   105          1
+   106          1
+   107          3
+   108          4
+   109          1
+   110         50
+   111          4
+   122          7
+   123          4
+   124        157
+   125        448
+   126         48
+   127          2

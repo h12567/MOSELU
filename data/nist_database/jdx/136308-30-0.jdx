@@ -1,0 +1,55 @@
+##TITLE=Library Entry 63713
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Plaziak ET AL. Org.Mass Spectrom.,26,849 (1991)
+##NAMES=HP
+##CAS NAME=4-Benzylamino-1-methylcytosine
+##MOLFORM=C12H13N3O
+##CAS REGISTRY NO=136308-30-0
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    53         55
+    54        106
+    55         90
+    56         19
+    63         94
+    64         19
+    65        437
+    66         39
+    67         15
+    68         19
+    70         43
+    76         19
+    77        177
+    78         66
+    79         78
+    80         27
+    81        177
+    82        291
+    83         27
+    89         66
+    90         11
+    91        999
+    92         62
+    95         15
+   103         27
+   104         51
+   106        366
+   107         23
+   109         19
+   110         90
+   130         35
+   132         43
+   136         15
+   138         11
+   157         11
+   171         11
+   200         19
+   214        106
+   215        448
+   216         55

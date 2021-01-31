@@ -1,0 +1,50 @@
+##TITLE=Library Entry 69669
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. SASAKI, INST. APPL. ORG. CHEM., NAGOYA UNIV., NAGOYA
+, JAPAN
+##NAMES=HP
+##CAS NAME=9-Thianoradamantane
+##MOLFORM=C8H12S
+##CAS REGISTRY NO=67194-73-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        875
+    41        900
+    45        509
+    50        105
+    51        184
+    53        318
+    55        104
+    58         83
+    59         84
+    65        500
+    66        449
+    67        185
+    77        377
+    78        280
+    79        700
+    80        431
+    81        145
+    84        194
+    85        377
+    86         97
+    91        431
+    93        162
+    97        999
+    98        875
+    99        750
+   105         92
+   106        300
+   107        135
+   111         92
+   112        104
+   125         64
+   140        850
+   141        110
+   142         50

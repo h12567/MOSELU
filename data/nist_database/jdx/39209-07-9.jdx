@@ -1,0 +1,76 @@
+##TITLE=Library Entry 2929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2-methyl-, O-methyloxime
+##MOLFORM=C8H15NO
+##CAS REGISTRY NO=39209-07-9
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    40         90
+    41        999
+    42        360
+    43        200
+    44         60
+    45         60
+    51         50
+    52         50
+    53        200
+    54        380
+    55        840
+    56        250
+    57         70
+    58         40
+    59         30
+    60         20
+    65         50
+    66         60
+    67        450
+    68        440
+    69        570
+    70         50
+    71         30
+    72         20
+    73        130
+    74         20
+    77         70
+    78         20
+    79        130
+    80        100
+    81        180
+    82        200
+    83        270
+    84         30
+    85         10
+    86        120
+    87        100
+    91         50
+    92         20
+    93        140
+    94        270
+    95        600
+    96        100
+    97         20
+    98         30
+    99         50
+   100        430
+   101         20
+   108         80
+   109         20
+   110        470
+   111         50
+   112        150
+   113        230
+   114         20
+   126        190
+   127         30
+   140         40
+   141        800
+   142         80

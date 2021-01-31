@@ -1,0 +1,28 @@
+##TITLE=Library Entry 47385
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Benzenesulfonyloxy-2,2-bis(trifluoromethyl)aziridine
+##MOLFORM=C10H7F6NO3S
+##CAS REGISTRY NO=55734-41-3
+##MP= -300
+##BP= -300
+##MW= 335
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    51        213
+    52         21
+    69        101
+    70          7
+    77        999
+    78        101
+    79         11
+   141        999
+   142         81
+   143         51
+   335         21
+   336          3
+   337          1

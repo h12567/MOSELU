@@ -1,0 +1,64 @@
+##TITLE=Library Entry 43444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. BRUCK, MAGYAR TUDOMANYOS AKADEMIA, HUNGARY
+##NAMES=HP
+##CAS NAME=Heptasiloxane, hexadecamethyl-
+##MOLFORM=C16H48O6Si7
+##CAS REGISTRY NO=541-01-5
+##MP= -300
+##BP= -300
+##MW= 532
+##$RETENTION INDEX=1553
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    45         21
+    59         21
+    73        999
+    74         82
+    75         37
+   117         12
+   131         19
+   133         18
+   147        381
+   148         60
+   149         30
+   191         22
+   205         28
+   207        217
+   208         42
+   209         26
+   221        863
+   222        205
+   223        110
+   265         20
+   267         59
+   268         14
+   269         10
+   279         24
+   281         90
+   282         24
+   283         15
+   295        266
+   296         82
+   297         49
+   298         10
+   325         57
+   326         18
+   327         13
+   339         14
+   341        167
+   342         55
+   343         38
+   355        201
+   356         72
+   357         47
+   358         12
+   429         47
+   430         20
+   431         14
+   517         73
+   518         38
+   519         25
+   520         10

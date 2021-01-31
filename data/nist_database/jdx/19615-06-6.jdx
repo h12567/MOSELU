@@ -1,0 +1,43 @@
+##TITLE=Library Entry 6427
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Carbonodithioic acid, O,S-bis(1-methylethyl) ester
+##MOLFORM=C7H14OS2
+##CAS REGISTRY NO=19615-06-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    38         28
+    39         84
+    40          5
+    41        264
+    42         78
+    43        999
+    44         50
+    45         39
+    47         28
+    59         84
+    60         56
+    61         61
+    74         28
+    75        101
+    76        112
+    77         28
+    78         28
+    94        101
+    95         39
+    96         28
+   103         56
+   119         11
+   120         56
+   136         78
+   137         11
+   178        258
+   179         33
+   180         33

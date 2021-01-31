@@ -1,0 +1,51 @@
+##TITLE=Library Entry 100213
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Pyridinecarbonitrile, 1,4-dihydro-1-methyl-
+##MOLFORM=C7H8N2
+##CAS REGISTRY NO=19424-15-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    15        150
+    16         10
+    25         60
+    26         70
+    27         80
+    37         40
+    38         50
+    39         90
+    40         30
+    41         50
+    42        150
+    43         10
+    50         60
+    51         90
+    52         70
+    53         30
+    63         30
+    64         40
+    65         70
+    66         30
+    75         20
+    76         50
+    77         70
+    78         70
+    90         10
+    91         20
+    92         50
+    93         20
+    94         50
+   103         60
+   104         90
+   105         30
+   118         50
+   119        999
+   120        320
+   121         20

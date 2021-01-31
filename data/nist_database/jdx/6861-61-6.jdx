@@ -1,0 +1,42 @@
+##TITLE=Library Entry 19991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclobutanethiol
+##MOLFORM=C4H8S
+##CAS REGISTRY NO=6861-61-6
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    42         20
+    43         10
+    44         20
+    45        101
+    46         50
+    47        121
+    48         10
+    49         10
+    50         10
+    51         10
+    53         60
+    54        121
+    55        999
+    56         40
+    58         30
+    59         50
+    60        171
+    61         20
+    62         20
+    73         10
+    85         30
+    86         30
+    87         50
+    88        111
+    89         10
+    90         10

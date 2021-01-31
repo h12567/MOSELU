@@ -1,0 +1,60 @@
+##TITLE=Library Entry 50187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. SINNHUBER, DEP. FOOD SCI. TECHNOL., OREGON STATE UNI
+V., U
+##NAMES=HP
+##CAS NAME=1,2-Dihexylcyclopropene
+##MOLFORM=C15H28
+##CAS REGISTRY NO=35365-52-7
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        250
+    28        190
+    29        380
+    39        200
+    40         60
+    41        690
+    42         70
+    43        270
+    51         40
+    52         40
+    53        220
+    54        100
+    55        450
+    56         50
+    57         80
+    65         80
+    66         50
+    67        580
+    68        850
+    69        270
+    70         40
+    77        140
+    78         40
+    79        180
+    80         80
+    81        999
+    82        580
+    83        120
+    91         80
+    93         90
+    94         40
+    95        750
+    96        220
+    97         50
+   109        220
+   110         50
+   123        190
+   124         40
+   137        150
+   138        350
+   139         30
+   151        140
+   165         50
+   208        120

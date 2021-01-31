@@ -1,0 +1,28 @@
+##TITLE=Library Entry 83511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Tolyl trifluoromethanesulfonate
+##MOLFORM=C8H7F3O3S
+##CAS REGISTRY NO=66107-34-4
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        101
+    51        227
+    52         61
+    53         60
+    69        160
+    77        519
+    78        109
+    79        390
+    90         49
+    91         91
+   107        999
+   108         78
+   240        290

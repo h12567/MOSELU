@@ -1,0 +1,61 @@
+##TITLE=Library Entry 49372
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=2-Naphthalenol, 1-[(2-pyridinylimino)methyl]-
+##MOLFORM=C16H12N2O
+##CAS REGISTRY NO=789-58-2
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27         37
+    29         13
+    38         11
+    39         42
+    41         16
+    44         32
+    50         25
+    51         95
+    52        161
+    53         20
+    62         15
+    63         36
+    65         15
+    67         16
+    75         25
+    77         26
+    78        159
+    79        999
+    80        139
+    88         16
+    89         20
+   101         14
+   110         27
+   113         17
+   114         42
+   115         85
+   116         14
+   124         23
+   126         21
+   127         29
+   128         16
+   140         19
+   141         18
+   152         18
+   169         32
+   170         65
+   218         18
+   219        206
+   220         59
+   230         19
+   231        175
+   232         30
+   247         69
+   248        374
+   249         62
+   250          7

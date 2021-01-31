@@ -1,0 +1,32 @@
+##TITLE=Library Entry 78070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.DARLING INST. PAPER CHEM., APPLETON, WIS., USA
+##NAMES=HP
+##CAS NAME=Salicin, 2',3',4'-triacetate 6'-benzoate .alpha.-salicylate aceta
+te
+##MOLFORM=C35H34O14
+##CAS REGISTRY NO=20689-01-4
+##MP= -300
+##BP= -300
+##MW= 678
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        497
+    77         63
+    78         40
+   105        999
+   106        122
+   107         76
+   109         96
+   120         30
+   121        129
+   127         40
+   169         63
+   231        258
+   232         40
+   333          2
+   393        152
+   394         33

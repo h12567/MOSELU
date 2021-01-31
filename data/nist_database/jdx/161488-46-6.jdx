@@ -1,0 +1,38 @@
+##TITLE=Library Entry 90722
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=O-Ethyl S-(2-diisopropylaminoethyl) methylphosphonodithioate
+##MOLFORM=C11H26NOPS2
+##CAS REGISTRY NO=161488-46-6
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    30        462
+    41        169
+    42        170
+    43        234
+    44        138
+    56         94
+    58         34
+    63         69
+    70        155
+    72        350
+    84         67
+    85         32
+    86         30
+    95        148
+    98         16
+   112         27
+   114        999
+   115         85
+   123         52
+   127         83
+   128         11
+   155         51
+   183          4

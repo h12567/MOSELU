@@ -1,0 +1,63 @@
+##TITLE=Library Entry 3469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chiloscyphone
+##MOLFORM=C15H22O
+##CAS REGISTRY NO=23538-45-6
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        999
+    42         10
+    43        248
+    51         60
+    52         20
+    53        131
+    54         10
+    55        268
+    65         69
+    66          9
+    67        120
+    68         30
+    69        531
+    77        120
+    78         40
+    79        260
+    80          9
+    81        109
+    82         20
+    83         10
+    84         40
+    85          9
+    86         20
+    91        289
+    92         50
+    93        229
+    94         30
+    95         40
+    96         19
+    97        209
+   105        130
+   106         60
+   107        500
+   108         70
+   119         89
+   120         60
+   121         69
+   122        199
+   147        309
+   148         80
+   149        199
+   150         39
+   162         40
+   175         89
+   176          9
+   203         39
+   218        119
+   219         20

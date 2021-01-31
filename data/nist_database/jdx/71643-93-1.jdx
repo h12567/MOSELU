@@ -1,0 +1,58 @@
+##TITLE=Library Entry 94471
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.M. ZOLOTAREV, INST. ORG. CHEM. N.D. ZELINSKI, MOSCOW,
+ USSR
+##NAMES=HP
+##CAS NAME=(2-Selenyl-3-benzo[b]thienylidene)-.beta.-naphthylamine
+##MOLFORM=C19H13NSSe
+##CAS REGISTRY NO=71643-93-1
+##MP= -300
+##BP= -300
+##MW= 367
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        200
+    51        140
+    63        240
+    65        120
+    75         80
+    76         60
+    77        100
+    89        260
+    90         50
+   101        160
+   102        100
+   113         70
+   114        120
+   115        999
+   116        400
+   117         80
+   126        130
+   127        520
+   128        250
+   132         70
+   134        120
+   142         70
+   143        960
+   144        180
+   145        140
+   159        280
+   160         70
+   236         20
+   238         40
+   240         70
+   285         50
+   286        360
+   287        100
+   288         50
+   363         30
+   364         30
+   365         50
+   366         20
+   367        110
+   368         40
+   369         40
+   370         20

@@ -1,0 +1,86 @@
+##TITLE=Library Entry 109308
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6279
+##NAMES=HP
+##CAS NAME=4-Aminoresorcinol
+##MOLFORM=C6H7NO2
+##CAS REGISTRY NO=13066-95-0
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15          6
+    17          1
+    18          2
+    25          2
+    26          9
+    27         15
+    28         49
+    29          9
+    30          5
+    39         32
+    40          9
+    41         43
+    42         22
+    43         23
+    44          7
+    45          1
+    47          2
+    48          6
+    49          4
+    50         15
+    51         39
+    52        119
+    53         34
+    54         31
+    55         27
+    56         18
+    57          2
+    60          1
+    61          2
+    62         46
+    63          8
+    64          2
+    65          4
+    66          6
+    67         15
+    68         35
+    69         35
+    70         13
+    71          4
+    74          1
+    75          2
+    76          4
+    77          4
+    78         17
+    79         40
+    80         94
+    81         16
+    82          8
+    83          5
+    84          6
+    89          1
+    94          2
+    95          6
+    96        147
+    97         15
+    98          4
+    99          1
+   105          3
+   106         10
+   107         22
+   108          5
+   109          1
+   110          2
+   122          1
+   123          2
+   124        101
+   125        999
+   126         71
+   127          6

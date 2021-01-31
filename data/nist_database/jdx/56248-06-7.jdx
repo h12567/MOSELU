@@ -1,0 +1,43 @@
+##TITLE=Library Entry 33674
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-Pyran-2,3,5-triol, 5,6-dihydro-, triacetate
+##MOLFORM=C11H14O7
+##CAS REGISTRY NO=56248-06-7
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         48
+    42         17
+    43        615
+    44         17
+    45          6
+    58         13
+    59          3
+    60          6
+    68        999
+    69        155
+    70         20
+    84         10
+    85        795
+    86        162
+    87         10
+    97        193
+    98         31
+    99         24
+   127         10
+   128         69
+   139         34
+   156        297
+   157         93
+   158          6
+   170         62
+   171          6
+   199         20
+   216         17

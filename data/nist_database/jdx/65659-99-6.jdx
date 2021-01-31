@@ -1,0 +1,37 @@
+##TITLE=Library Entry 6917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,111(1)299(1978); H. NEUNHOEFFER AND H. OHL
+##NAMES=HP
+##CAS NAME=2H-Azirin-3-amine, N,N-diethyl-2-methyl-2-(1,2,3-triphenyl-2-cycl
+opropen-1-yl)-
+##MOLFORM=C28H28N2
+##CAS REGISTRY NO=65659-99-6
+##MP= -300
+##BP= -300
+##MW= 392
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    43        999
+    45        790
+    56        160
+    61        320
+    72        170
+    73        300
+   100        120
+   105         40
+   111        180
+   139        370
+   151         30
+   154        100
+   178        100
+   192         60
+   207         20
+   267         60
+   320         30
+   349         30
+   363        100
+   377         20
+   392         30

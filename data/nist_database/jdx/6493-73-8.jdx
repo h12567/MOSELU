@@ -1,0 +1,71 @@
+##TITLE=Library Entry 64062
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8678
+##NAMES=HP
+##CAS NAME=Trisulfide, bis(phenylmethyl)
+##MOLFORM=C14H14S3
+##CAS REGISTRY NO=6493-73-8
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27          2
+    28          1
+    32          1
+    38          2
+    39         22
+    40          1
+    41          7
+    44          1
+    45         71
+    46          1
+    47          3
+    50          4
+    51         17
+    52          3
+    53          1
+    61          1
+    62          3
+    63         13
+    64         13
+    65         84
+    66          5
+    69          2
+    75          1
+    76          4
+    77         24
+    78          7
+    79          8
+    89         12
+    90          5
+    91        999
+    92         86
+    93          3
+   121         26
+   122         23
+   123         36
+   124         18
+   125          3
+   135          1
+   153          3
+   154          1
+   165          1
+   167          1
+   180          1
+   181         52
+   182          9
+   213         89
+   214         28
+   215          7
+   216          1
+   246        115
+   247         19
+   248         11
+   249          1
+   278         42
+   279          7
+   280          6

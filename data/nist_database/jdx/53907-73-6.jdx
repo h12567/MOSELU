@@ -1,0 +1,51 @@
+##TITLE=Library Entry 18975
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Hexen-1-ol, 2-ethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=53907-73-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    15         27
+    26         16
+    27        210
+    28         62
+    29        188
+    31         97
+    38         14
+    39        191
+    40         26
+    41        294
+    42         32
+    43         98
+    50         14
+    51         28
+    53         89
+    54         30
+    55        999
+    56         67
+    57         85
+    59         19
+    65         20
+    67         94
+    68         78
+    69         73
+    70         25
+    72         25
+    77         18
+    79         36
+    81        125
+    82         17
+    85         12
+    95         33
+    97        184
+    98         18
+   110         53
+   128         10

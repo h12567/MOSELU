@@ -1,0 +1,31 @@
+##TITLE=Library Entry 28262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. GLOMBIK, DEP. PHARM. SYNTH., HOECHST AG, FRANKFURT,
+ W. GER.
+##NAMES=HP
+##CAS NAME=4-Methoxy-6-methyl-6,7-dihydro-4H-furo[3,2-c]pyran
+##MOLFORM=C9H12O3
+##CAS REGISTRY NO=91894-15-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    53        120
+    55        260
+    56        110
+    57        250
+    58        999
+    59        270
+    69        200
+    71        110
+    81        160
+    83        160
+    95        110
+   109        240
+   124        210
+   137        160
+   168         50

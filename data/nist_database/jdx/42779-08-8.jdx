@@ -1,0 +1,71 @@
+##TITLE=Library Entry 30847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Octane, 1-(ethenylthio)-
+##MOLFORM=C10H20S
+##CAS REGISTRY NO=42779-08-8
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    39        160
+    40        110
+    41        780
+    42        220
+    43        860
+    44         30
+    45        340
+    46         20
+    47         60
+    53         50
+    54         70
+    55        540
+    56        310
+    57        460
+    58         50
+    59        150
+    60        999
+    61        280
+    62         40
+    67        120
+    68        180
+    69        370
+    70        170
+    71        130
+    73        210
+    74         80
+    75        120
+    81        130
+    82         60
+    83         90
+    84         50
+    85         20
+    87        220
+    88         30
+    89         30
+    95         50
+    96         10
+    97         10
+   101        180
+   102         20
+   103         10
+   109         10
+   110         30
+   111         20
+   112         10
+   115        130
+   116         10
+   117         10
+   129         10
+   143        100
+   144         10
+   145         10
+   157         20
+   172        180
+   173         10

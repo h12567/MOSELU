@@ -1,0 +1,55 @@
+##TITLE=Library Entry 62919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-bromo-4-(2-phenylethyl)-
+##MOLFORM=C14H13Br
+##CAS REGISTRY NO=14310-24-8
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         72
+    40          5
+    41         16
+    50         33
+    51         68
+    52         14
+    62         15
+    63         72
+    64         20
+    65        129
+    66          8
+    74         11
+    75         19
+    76         31
+    77         42
+    78         12
+    89        115
+    90        155
+    91        999
+    92         81
+   102         15
+   103         15
+   141         13
+   152         11
+   165         20
+   166          9
+   167        118
+   169        416
+   170         42
+   171        387
+   172         40
+   178         26
+   179         18
+   180          9
+   181         80
+   182         12
+   260        173
+   261         27
+   262        172
+   263         27

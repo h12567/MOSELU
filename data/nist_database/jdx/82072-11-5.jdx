@@ -1,0 +1,67 @@
+##TITLE=Library Entry 14086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Isopropyl N-(3,5-dicyano-6-methoxy-4-phenylpyridinyl-2)carbamate
+##MOLFORM=C18H16N4O3
+##CAS REGISTRY NO=82072-11-5
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27        115
+    28         93
+    29         22
+    32         20
+    39         46
+    41        263
+    42         34
+    43        999
+    44         45
+    45         68
+    51         34
+    55         33
+    57         44
+    58         20
+    59         21
+    69         37
+    77         45
+    78         64
+    83         22
+   127         38
+   138         23
+   139         25
+   140         24
+   152         24
+   153         42
+   154         19
+   164         34
+   165         14
+   166         19
+   179         32
+   180         32
+   193         41
+   194         46
+   204         26
+   205         37
+   206         21
+   207         23
+   219         44
+   220         45
+   221        100
+   222        122
+   223         26
+   234         31
+   249        234
+   250        743
+   251        120
+   275         47
+   276         49
+   277        175
+   278         30
+   336        149
+   337         32

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 93331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Hexenoic acid, butyl ester, (E)-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=54411-16-4
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1243
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         15
+    27        125
+    28         22
+    29        239
+    39        111
+    40         43
+    42         63
+    43         56
+    44         21
+    53         42
+    54         21
+    55        591
+    56        264
+    57         88
+    59         12
+    60         12
+    67         28
+    68         90
+    69         92
+    70         13
+    71         15
+    73        318
+    81         37
+    85         19
+    86         16
+    97        640
+    98         43
+    99         44
+   109         19
+   115        999
+   127        117
+   141          8

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 46937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Oxazoline, 4,5-diethyl-2-phenyl-, cis-
+##MOLFORM=C13H17NO
+##CAS REGISTRY NO=25943-05-9
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    71        160
+    72         10
+    77        999
+    78         60
+   104        960
+   105        400
+   106         30
+   117         80
+   118         10
+   130        930
+   131         90
+   145        400
+   146         40
+   174        860
+   175         90
+   186        150
+   187         20
+   201         80
+   202         10
+   203         40
+   204          5

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 53866
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Cyclopropyl-1-methyl-ethylamine
+##MOLFORM=C6H13N
+##CAS REGISTRY NO=172947-13-6
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    25         15
+    27        101
+    28        125
+    29         50
+    30        150
+    31          3
+    37          9
+    38         24
+    39        191
+    40         33
+    41        277
+    42        470
+    43        105
+    44         59
+    50          8
+    51         14
+    52         11
+    53         24
+    54         28
+    55         70
+    56        168
+    57         53
+    58        853
+    59         40
+    63          4
+    65         23
+    66         10
+    67         88
+    68         27
+    69         17
+    70        151
+    71         85
+    72         11
+    77          4
+    79          4
+    80          5
+    81          7
+    82         19
+    83         15
+    84        999
+    85         74
+    86          2
+    98          8
+    99          3

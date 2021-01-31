@@ -1,0 +1,51 @@
+##TITLE=Library Entry 28804
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N,N-dimethyl-N'-phenyl-N'-(2-thienylmethyl)-
+##MOLFORM=C15H20N2S
+##CAS REGISTRY NO=493-78-7
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=1966
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    45         33
+    51         58
+    53         56
+    58        999
+    59         34
+    70         14
+    73         16
+    77        129
+    91         19
+    97        774
+    98         49
+    99         34
+   104         62
+   105         38
+   111          6
+   117          3
+   118          3
+   128          0
+   130          3
+   154          0
+   159          0
+   161          9
+   167          0
+   168          0
+   186         18
+   187         15
+   188          7
+   202        157
+   203         19
+   204          7
+   212          1
+   213          1
+   214          0
+   252          0
+   260         32
+   261          3

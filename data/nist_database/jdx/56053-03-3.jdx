@@ -1,0 +1,78 @@
+##TITLE=Library Entry 85760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Naphthalenamine, 1,2,4a,5,6,7,8,8a-octahydro-4a-methyl-
+##MOLFORM=C11H19N
+##CAS REGISTRY NO=56053-03-3
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    40         60
+    41        430
+    42         60
+    43        150
+    44        140
+    50         30
+    51         90
+    52         50
+    53        210
+    54         80
+    55        290
+    56         60
+    57         40
+    58         30
+    59         20
+    63         30
+    64         20
+    65        110
+    66        100
+    67        640
+    68        220
+    69        270
+    70         60
+    71         20
+    73         20
+    77        210
+    78         60
+    79        390
+    80        200
+    81        470
+    82         90
+    83         40
+    84         20
+    91        220
+    92         50
+    93        360
+    94        130
+    95        220
+    96        380
+    97         40
+   103         20
+   105         60
+   106         30
+   107        170
+   108        180
+   109        999
+   110        120
+   111         20
+   115         20
+   119         20
+   121        270
+   122         70
+   133         20
+   135        380
+   136         60
+   137         20
+   148         20
+   149         20
+   150        170
+   151         30
+   164         20
+   165         40

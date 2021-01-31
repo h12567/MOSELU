@@ -1,0 +1,31 @@
+##TITLE=Library Entry 73166
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Perfluoro(1-oxaspiro[4.4]nonane)
+##MOLFORM=C8F14O
+##CAS REGISTRY NO=73187-04-9
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    31        278
+    50        119
+    69        870
+    93        396
+   100        999
+   109        295
+   131        395
+   143        229
+   181        330
+   193        243
+   209        133
+   243        291
+   259        603
+   309         50
+   359        202
+   378         36

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 54246
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,3'-Bipiperidine, 1,1'-diacetyl-
+##MOLFORM=C14H24N2O2
+##CAS REGISTRY NO=53508-18-2
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41         70
+    42         50
+    43        270
+    44        120
+    55         70
+    56        100
+    70         70
+    84        999
+    85        200
+    86        120
+    96         50
+   112         60
+   126        600
+   127        800
+   128        210
+   129        100
+   209        100
+   210         30
+   237         20
+   252         40
+   253         10

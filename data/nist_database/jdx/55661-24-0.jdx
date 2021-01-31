@@ -1,0 +1,77 @@
+##TITLE=Library Entry 39231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.LAM CHEMICAL INST., UNIV OF AARHUS, AARHUS, DENMARK
+##NAMES=HP
+##CAS NAME=2H-Pyran-3-ol, tetrahydro-2-(1,7-nonadiene-3,5-diynyl)-
+##MOLFORM=C14H16O2
+##CAS REGISTRY NO=55661-24-0
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    39        240
+    40         48
+    41        252
+    42         56
+    43        676
+    44        416
+    45         40
+    50         52
+    51        160
+    52         40
+    53         76
+    54         20
+    55         96
+    57        110
+    58         30
+    62        130
+    63        240
+    64         60
+    65        148
+    69        142
+    71        999
+    72         72
+    74        108
+    75        168
+    76        118
+    77        164
+    78         76
+    87        156
+    88         96
+    89        224
+    90        200
+    91        376
+   100        864
+   101        104
+   102        100
+   103         92
+   105         56
+   115        860
+   116        272
+   117        264
+   127        136
+   128        132
+   129        136
+   130         60
+   132         76
+   142         60
+   145        504
+   146         92
+   152         16
+   153         20
+   154          8
+   155         24
+   157         16
+   158          8
+   159         36
+   160         24
+   171         24
+   173         28
+   187         20
+   198         20
+   201         20
+   216        160

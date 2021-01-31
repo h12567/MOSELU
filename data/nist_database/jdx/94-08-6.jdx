@@ -1,0 +1,85 @@
+##TITLE=Library Entry 99572
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3776
+##NAMES=HP
+##CAS NAME=Ethyl 4-methylbenzoate
+##MOLFORM=C10H12O2
+##CAS REGISTRY NO=94-08-6
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1297
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          5
+    18          1
+    26          5
+    27         30
+    28          3
+    29         31
+    30          1
+    37          2
+    38          7
+    39         50
+    40          5
+    41         15
+    42          1
+    43          4
+    44          1
+    45          8
+    50         13
+    51         23
+    52          6
+    53          4
+    55          1
+    59          2
+    61          3
+    62         11
+    63         37
+    64         10
+    65        123
+    66          7
+    69          1
+    74          3
+    75          4
+    76          3
+    77         10
+    78          2
+    79          2
+    81          1
+    85          1
+    86          2
+    87          2
+    88          1
+    89         35
+    90         25
+    91        338
+    92         38
+    93          3
+   105         10
+   106          1
+   107          7
+   108          1
+   117          1
+   118          6
+   119        999
+   120        110
+   121          9
+   133          3
+   135          5
+   136        248
+   137         23
+   138          2
+   145          1
+   146          4
+   147          1
+   149         27
+   150          3
+   162          1
+   163          9
+   164        214
+   165         23
+   166          2

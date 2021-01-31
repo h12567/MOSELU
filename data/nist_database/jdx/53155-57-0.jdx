@@ -1,0 +1,30 @@
+##TITLE=Library Entry 13875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(2,3,4,4a,9,9a-hexahydro-4a-methyl-1H-carbazol-8-yl)-
+##MOLFORM=C15H19NO
+##CAS REGISTRY NO=53155-57-0
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        380
+    77         80
+   115        100
+   130        200
+   143         80
+   144         90
+   154        100
+   158        200
+   172        210
+   173        120
+   186        330
+   187        140
+   214        120
+   229        430

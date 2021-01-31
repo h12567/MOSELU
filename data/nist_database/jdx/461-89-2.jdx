@@ -1,0 +1,58 @@
+##TITLE=Library Entry 5138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1179
+##NAMES=HP
+##CAS NAME=1,2,4-Triazine-3,5(2H,4H)-dione
+##MOLFORM=C3H3N3O2
+##CAS REGISTRY NO=461-89-2
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    12          9
+    13         36
+    14         48
+    15          9
+    16         11
+    17          1
+    24          1
+    25          2
+    26          9
+    27         56
+    28         64
+    29         87
+    30          8
+    31          2
+    35          1
+    38          7
+    39          7
+    40          9
+    41        134
+    42        999
+    43        243
+    44        253
+    45          5
+    46          3
+    47          1
+    52          1
+    53          4
+    54         18
+    55          4
+    56          2
+    57          2
+    59          2
+    60          3
+    68          1
+    69         19
+    70        259
+    71          9
+    72          3
+    74          1
+    85          1
+   113        554
+   114         25
+   115          3

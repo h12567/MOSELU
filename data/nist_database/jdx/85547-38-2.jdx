@@ -1,0 +1,41 @@
+##TITLE=Library Entry 20099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLER-SCHIERLEIN, ORG.-CHEM. LAB., ETH-Z, ZURICH, S
+WITZ.
+##NAMES=HP
+##CAS NAME=2-(6'-Methoxycarbonyl-5'-methyl-2'-tetrahydropyranyl)propionic ac
+id methyl ester
+##MOLFORM=C12H20O5
+##CAS REGISTRY NO=85547-38-2
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    29        900
+    41        970
+    43        260
+    55        999
+    59        650
+    69        980
+    82        390
+    85        260
+    88        260
+    97        520
+   101        650
+   107        290
+   112        230
+   114        130
+   125        580
+   129        610
+   144        260
+   153        450
+   157        130
+   166        100
+   185        260
+   194         60
+   212        130
+   244         10

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 20498
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Octen-1-ol, (Z)-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=20125-84-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1055
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         21
+    27        206
+    28         60
+    29        176
+    31        207
+    32         10
+    39        333
+    40         69
+    41        597
+    42        114
+    43        199
+    44         54
+    45         19
+    50         21
+    51         46
+    52         30
+    53        191
+    54        291
+    55        999
+    56        237
+    57        165
+    58         16
+    63         14
+    65         57
+    66         83
+    67        520
+    68        568
+    69        207
+    70         61
+    71         37
+    72         11
+    77         33
+    79        122
+    81        667
+    82        222
+    83         37
+    84         29
+    85         23
+    95        153
+    96         15
+    97         16
+   100         14
+   110        146
+   111         14

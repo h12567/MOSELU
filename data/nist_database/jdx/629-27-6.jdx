@@ -1,0 +1,76 @@
+##TITLE=Library Entry 24238
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3412
+##NAMES=HP
+##CAS NAME=Octane, 1-iodo-
+##MOLFORM=C8H17I
+##CAS REGISTRY NO=629-27-6
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1238
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         10
+    27        191
+    28         27
+    29        231
+    30          5
+    37          2
+    38          7
+    39        117
+    40         28
+    41        501
+    42        114
+    43        863
+    44         32
+    45          1
+    50          5
+    51          9
+    52          4
+    53         32
+    54         11
+    55        208
+    56         65
+    57        999
+    58         48
+    62          1
+    63          2
+    65          3
+    66          1
+    67         10
+    68          3
+    69         50
+    70         10
+    71        615
+    72         44
+    77          2
+    79          3
+    81          3
+    82          1
+    83          6
+    84          3
+    85          7
+    95          1
+    97          2
+   111          1
+   112          1
+   113        102
+   114         10
+   127         23
+   128         12
+   129          1
+   135          1
+   137          1
+   141         12
+   154          3
+   155         55
+   156          1
+   169          4
+   183          5
+   197          1
+   240         30
+   241          3

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 27702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Penn State Mass Spectrom.Center
+##NAMES=HP
+##CAS NAME=10-Methyl-10-azatricyclo[6.4.1.0(2,6)trideca-2,4,6-triene
+##MOLFORM=C13H17N
+##CAS REGISTRY NO=66318-96-5
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    27         19
+    29        281
+    30         42
+    31        337
+    34          3
+    35         18
+    36         29
+    37          3
+    38          7
+    39         18
+    40        112
+    41         22
+    42        209
+    43         94
+    44        156
+    45         11
+    46          3
+    47         29
+    48         12
+    49        128
+    50          8
+    51         59
+    55          7
+    56         18
+    57         99
+    58        999
+    59         41
+    63          8
+    65         16
+    67          3
+    69          6
+    70        228
+    71        107
+    72         57
+    73          6
+    75          3
+    77         26
+    78         13
+    82          2
+    83          3
+    84         79
+    85          2
+    86         54
+    88          8
+    89         19
+    91         27
+    94          8
+   102          8
+   103          7
+   104          3
+   105          2
+   114          6
+   115        199
+   116        213
+   117         27
+   126          2
+   127         39
+   128        119
+   129         71
+   130         11
+   131          2
+   141         35
+   142         35
+   143         17
+   144          7
+   172          8
+   184          2
+   186         16
+   187        247
+   188         36

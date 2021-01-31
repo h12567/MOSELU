@@ -1,0 +1,62 @@
+##TITLE=Library Entry 2982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-2-Heptene
+##MOLFORM=C7H14
+##CAS REGISTRY NO=6443-92-1
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=704
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         50
+    26         51
+    27        508
+    28          2
+    29        360
+    30          7
+    36          1
+    37         11
+    38         42
+    39        462
+    40         86
+    41        999
+    42        218
+    43        208
+    44          4
+    49          2
+    50         27
+    51         43
+    52         20
+    53        115
+    54        119
+    55        695
+    56        857
+    57         98
+    58          3
+    61          1
+    62          5
+    63         10
+    64          2
+    65         17
+    66          7
+    67         47
+    68         37
+    69        387
+    70        180
+    71          8
+    74          1
+    77          7
+    78          1
+    79          7
+    81          6
+    82          2
+    83         33
+    84          2
+    98        262
+    99         18

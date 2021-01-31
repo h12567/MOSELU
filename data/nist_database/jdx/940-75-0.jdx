@@ -1,0 +1,46 @@
+##TITLE=Library Entry 87206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Benzene-1,4-diol monophosphate
+##MOLFORM=C6H7O5P
+##CAS REGISTRY NO=940-75-0
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         25
+    42         38
+    43        103
+    44         22
+    45         39
+    50         38
+    51         52
+    52         47
+    53        182
+    54         97
+    55        118
+    56          7
+    60         52
+    61          7
+    62         33
+    63         72
+    64         31
+    65         15
+    69         16
+    74         25
+    81        360
+    82        104
+    86         71
+    98          7
+    99         16
+   109         89
+   110        999
+   111         64
+   172          7
+   190        201
+   191         31

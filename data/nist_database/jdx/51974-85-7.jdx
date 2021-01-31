@@ -1,0 +1,25 @@
+##TITLE=Library Entry 17757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J-C.NONCIAUX CNRS, FACULTY OF SCIENCE, DIJON, FRANCE
+##NAMES=HP
+##CAS NAME=Dithieno[2,3-c:3',2'-e]pyridazine, 4,5-dioxide
+##MOLFORM=C8H4N2O2S2
+##CAS REGISTRY NO=51974-85-7
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    45        999
+   120         60
+   150        130
+   164         20
+   178         30
+   179         10
+   192         30
+   194        260
+   208         90
+   224        170

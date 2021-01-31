@@ -1,0 +1,70 @@
+##TITLE=Library Entry 97535
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, 1-methyl-4-(1-methylethenyl)-
+##MOLFORM=C10H12
+##CAS REGISTRY NO=1195-32-0
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1090
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14         14
+    15         23
+    26         11
+    27         60
+    28        112
+    32         36
+    37          8
+    38         36
+    39        209
+    40         28
+    41         42
+    50         86
+    51        161
+    52         40
+    53         42
+    58         27
+    61         17
+    62         63
+    63        172
+    64         99
+    65        228
+    66         20
+    74         41
+    75         47
+    76         37
+    77        124
+    78         55
+    79         30
+    85          7
+    86         18
+    87         24
+    88         12
+    89        110
+    90          7
+    91        543
+    92        230
+    93         16
+    98          7
+   101         13
+   102         55
+   103         46
+   104         35
+   105         38
+   115        634
+   116        190
+   117        999
+   118        106
+   126          8
+   127         26
+   128         56
+   129         46
+   130          8
+   131        180
+   132        807
+   133         93

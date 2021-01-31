@@ -1,0 +1,83 @@
+##TITLE=Library Entry 70827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N-[1-[2-Piperidylethyl]]-2-amino-3,4-quinolinedicarboxylic acid i
+mide
+##MOLFORM=C18H20N4O2
+##CAS REGISTRY NO=27295-65-4
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    41         84
+    42         94
+    43         12
+    44         37
+    51          2
+    53          5
+    54         10
+    55         71
+    56         15
+    57          1
+    58          1
+    62          2
+    63          4
+    65          2
+    67          3
+    68          8
+    69         24
+    70         34
+    71          2
+    74          2
+    75          2
+    76          2
+    77          2
+    82          4
+    83          4
+    84          2
+    85          1
+    87          2
+    88          9
+    89         10
+    90          1
+    96         17
+    98        999
+    99         60
+   100          3
+   101          2
+   102          1
+   110          1
+   111          1
+   114         21
+   115         21
+   116         25
+   117          1
+   126          4
+   128          4
+   129          1
+   140          2
+   141         11
+   142         22
+   143         31
+   144          5
+   153          5
+   155          3
+   168          4
+   169         11
+   170          9
+   171          3
+   198          1
+   213          9
+   214          5
+   226         10
+   227          2
+   240         10
+   323          6
+   324         28
+   325         10

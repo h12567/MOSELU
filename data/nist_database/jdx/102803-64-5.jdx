@@ -1,0 +1,47 @@
+##TITLE=Library Entry 12934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GALBIS PEREZ,DEP.QUIM.ORG.,UNIV.EXTREMADURA,BADAJOZ
+,SPAIN
+##NAMES=HP
+##CAS NAME=3-Methoxycarbonyl-2-methyl-5-(2,3,4-tri-O-acetyl-.alpha.-d-ribopy
+ranosyl)pyrrole
+##MOLFORM=C18H23NO9
+##CAS REGISTRY NO=102803-64-5
+##MP= -300
+##BP= -300
+##MW= 397
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    43        999
+    57         62
+    69        462
+    85         17
+   136        108
+   138         11
+   139         44
+   140         32
+   152         46
+   166         64
+   167         62
+   168        554
+   180         18
+   181         54
+   191         25
+   193          1
+   194         22
+   218        181
+   219         33
+   234         22
+   235         31
+   277         46
+   278         42
+   279          8
+   324          3
+   337         13
+   338          3
+   366         28
+   397         32
+   398          6

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 82113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethanone, 1-phenyl-2-(4-phenyl-3H-1,2-dithiol-3-ylidene)-
+##MOLFORM=C17H12OS2
+##CAS REGISTRY NO=5368-02-5
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    50         16
+    51        101
+    69         11
+    77        446
+    78         39
+    85         11
+   105        999
+   106         73
+   115         39
+   147         56
+   158         45
+   190         96
+   191        146
+   192         33
+   219        271
+   220         39
+   221         28
+   231         45
+   234         33
+   263         33
+   264         22
+   279        220
+   280         45
+   281         22
+   295         33
+   296        632
+   297        152
+   298         73

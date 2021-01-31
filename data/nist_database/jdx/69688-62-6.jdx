@@ -1,0 +1,67 @@
+##TITLE=Library Entry 27569
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. MILLER,BROCK UNIVERSITY,ONTARIO,CANADA
+##NAMES=HP
+##CAS NAME=5H-Dibenzophosphole, 5-(2,2-dimethylpropyl)-1,2,3,4,6,7,8,9-octaf
+luoro-
+##MOLFORM=C17H11F8P
+##CAS REGISTRY NO=69688-62-6
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    53          4
+    54          1
+    55         20
+    56         15
+    57        999
+    58         80
+    59          2
+    65          2
+    69          3
+    88          1
+   105          1
+   177          1
+   179          2
+   189          4
+   190          1
+   205          2
+   208          5
+   209          2
+   220          1
+   227          4
+   228          2
+   239          4
+   240          5
+   241          2
+   258         48
+   259          9
+   260          2
+   277          0
+   278         12
+   279          2
+   289          1
+   291          1
+   296          9
+   297          2
+   304          1
+   308          2
+   309         13
+   310          3
+   322          2
+   323          2
+   327        199
+   328         48
+   329          6
+   344          2
+   345          1
+   346          3
+   347          1
+   369         20
+   370          4
+   384          6
+   385          3

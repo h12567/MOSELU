@@ -1,0 +1,70 @@
+##TITLE=Library Entry 51136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=(-)-Carvone
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=6485-40-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          8
+    26          9
+    27         81
+    28          5
+    29         20
+    39        318
+    40         55
+    41        175
+    42         28
+    43         18
+    50         41
+    51         89
+    52         50
+    53        203
+    54        457
+    55         57
+    58         76
+    62         11
+    63         29
+    64          8
+    65         73
+    66         29
+    67         94
+    68         24
+    69         34
+    77        127
+    78         36
+    79        166
+    80         60
+    81          8
+    82        999
+    83         50
+    91        148
+    92         65
+    93        312
+    94         66
+    95         34
+   103         10
+   105         43
+   106        127
+   107        190
+   108        258
+   109         34
+   115         13
+   117         11
+   119         10
+   121         16
+   122         19
+   132          8
+   133          9
+   135         82
+   136          7
+   148         11
+   150         79
+   151          9

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 52084
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. KONOPSKI, INST. ORG. IND., ANNOPOL, WARSAW, POLAND
+##NAMES=HP
+##CAS NAME=N,N'-Bis(2,6-dimethyl-6-nitrosohept-2-en-4-one)
+##MOLFORM=C18H30N2O4
+##CAS REGISTRY NO=66737-12-0
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    18         20
+    27         50
+    28         24
+    29         99
+    30          9
+    39         83
+    40         12
+    41         46
+    42         14
+    43         14
+    52          5
+    53         40
+    54         14
+    55        390
+    56         45
+    57          6
+    58          7
+    67         10
+    68          3
+    69          5
+    70          5
+    77          7
+    79          6
+    82         18
+    83        999
+    84         72
+    85          6
+   123         27
+   138          6
+   139          7
+   140          4
+   170          1

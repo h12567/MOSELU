@@ -1,0 +1,35 @@
+##TITLE=Library Entry 5505
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,8-Dioxatricyclo[5.1.0.0(3,5)]octane, 1-methyl-5-(1-methylethyl)
+-, (1.alpha.,3.alpha.,5.alpha.,7.alpha.)-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=42569-58-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    27        166
+    28         79
+    29         57
+    39        125
+    43        999
+    44         85
+    53         52
+    55        116
+    67         49
+    71        112
+    79         47
+    81         44
+    83         48
+    91         46
+    95         34
+    97         42
+   119         74
+   153          5
+   168          1

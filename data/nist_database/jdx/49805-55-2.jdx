@@ -1,0 +1,47 @@
+##TITLE=Library Entry 2994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Mark Whitten, Florida Museum of Natural History, U. of
+ Florida
+##NAMES=HP
+##CAS NAME=Butyl aldoxime, 2-methyl-, anti-
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=49805-55-2
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=1486
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        313
+    43        141
+    44        207
+    45         86
+    46        118
+    49          9
+    50         39
+    51         55
+    52         52
+    53         69
+    54        224
+    55        272
+    56        756
+    57        125
+    59        487
+    60         86
+    63          6
+    67         33
+    68         72
+    69        137
+    70         21
+    72        171
+    73        659
+    74         24
+    82         12
+    84        208
+    86        212
+    87         14
+   100         18
+   101         22

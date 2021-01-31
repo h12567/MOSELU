@@ -1,0 +1,52 @@
+##TITLE=Library Entry 55821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethanol, 2,2'-thiobis-, diacetate
+##MOLFORM=C8H14O4S
+##CAS REGISTRY NO=4275-28-9
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    26         20
+    27         38
+    29         20
+    41         12
+    42         58
+    43        897
+    44         64
+    45        105
+    46         58
+    47         19
+    57          8
+    58         42
+    59         78
+    60        104
+    61         81
+    62          6
+    73         76
+    74         60
+    75         12
+    76          6
+    77         32
+    84          6
+    85        304
+    86        999
+    87        336
+    88         67
+    89          6
+    91         41
+   102         12
+   103         80
+   104          8
+   116         14
+   119          7
+   133          9
+   146        347
+   147         38
+   148         17

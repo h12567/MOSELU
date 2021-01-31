@@ -1,0 +1,81 @@
+##TITLE=Library Entry 69522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Geltenpoth, Dr. J. Nolte, ISAS, Dortmund, Germany
+##NAMES=HP
+##CAS NAME=2-Carboxamidopyrazine 4-N-oxide
+##MOLFORM=C5H5N3O2
+##CAS REGISTRY NO=768-36-5
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    31          1
+    32          2
+    33          1
+    36          1
+    37         25
+    38         63
+    39        125
+    40        108
+    41        176
+    42        133
+    43         37
+    44        385
+    45          8
+    46          1
+    48          1
+    49          1
+    50         15
+    51        131
+    52        571
+    53        277
+    54         24
+    55          9
+    56          1
+    57          2
+    62          3
+    63          6
+    64         22
+    65          7
+    66         15
+    67         44
+    68         29
+    69         27
+    70         14
+    71          1
+    74          1
+    75          1
+    76          6
+    77         16
+    78         20
+    79        124
+    80        352
+    81         17
+    82          1
+    92          1
+    93          2
+    94          4
+    95        120
+    96        999
+    97         53
+    98          2
+   105          6
+   106          3
+   107          3
+   111          2
+   115          1
+   121          2
+   122          3
+   123        247
+   124         21
+   125          1
+   129          1
+   131          1
+   137          1
+   139        853
+   140         58
+   141          6

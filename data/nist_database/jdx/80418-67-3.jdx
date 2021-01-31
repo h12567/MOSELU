@@ -1,0 +1,65 @@
+##TITLE=Library Entry 69338
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 5-chloro-octanoate
+##MOLFORM=C9H16Cl2O2
+##CAS REGISTRY NO=80418-67-3
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1464
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        201
+    41        304
+    49        101
+    51         33
+    53        205
+    54         98
+    55        783
+    56        129
+    57         72
+    67        343
+    68        103
+    69        136
+    70         86
+    71         85
+    72        103
+    73         33
+    77         62
+    79         78
+    80         26
+    81        275
+    82        926
+    83        378
+    84         33
+    85         75
+    89         50
+    91         50
+    93         33
+    95        161
+    96        999
+    97        277
+    98         47
+    99         64
+   105         68
+   107         37
+   108        105
+   109         37
+   110         40
+   118        115
+   119         37
+   121        105
+   123         78
+   124        470
+   125        540
+   126         40
+   135         75
+   137         31
+   161        240
+   162          7
+   163         85
+   164          2

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 8906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Undecanone, 10-methyl-
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=29379-12-2
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        424
+    42         90
+    43        999
+    55        181
+    56         70
+    57        363
+    58        858
+    59         60
+    67        131
+    69         60
+    71        999
+    72         50
+    81        181
+    82         60
+    83         20
+    84         70
+    85         40
+    86        696
+    87        191
+    99        212
+   113         80
+   123        313
+   141        111
+   184         90

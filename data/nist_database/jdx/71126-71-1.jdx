@@ -1,0 +1,53 @@
+##TITLE=Library Entry 29027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN, W.
+ GERMA
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-5-benzyloxypentylamine
+##MOLFORM=C14H23NO
+##CAS REGISTRY NO=71126-71-1
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    30         14
+    39         14
+    41         22
+    42         30
+    43         11
+    44         18
+    45          8
+    46          7
+    51         10
+    55          6
+    56          7
+    57         12
+    58        999
+    59         41
+    65         24
+    70          5
+    71          6
+    72          7
+    77         16
+    78          6
+    79         19
+    84         13
+    85          8
+    89          5
+    91        129
+    92         35
+   100          5
+   105          6
+   107         19
+   108         15
+   114         27
+   115          8
+   130        239
+   131         21
+   220          2
+   221          1
+   222          0

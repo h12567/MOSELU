@@ -1,0 +1,59 @@
+##TITLE=Library Entry 58872
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=Pyridinium, 1-(m-chloroanilino)-, hydroxide, inner salt
+##MOLFORM=C11H9ClN2
+##CAS REGISTRY NO=31378-94-6
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41         10
+    50        180
+    51        320
+    52        530
+    53        130
+    62        130
+    63        470
+    64        130
+    65         90
+    73         30
+    74         30
+    75         90
+    76         30
+    77         30
+    78        130
+    79        640
+    80        740
+    81         30
+    84         90
+    89        180
+    90        999
+    91        120
+    92         40
+    93         30
+   123         20
+   124         30
+   125        750
+   126         60
+   127        330
+   128         30
+   129         60
+   140         40
+   141         30
+   142         30
+   143         30
+   163         20
+   168        120
+   169        570
+   170         60
+   203         30
+   204        830
+   205        130
+   206        290
+   207         30

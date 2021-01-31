@@ -1,0 +1,34 @@
+##TITLE=Library Entry 49547
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. SASAKI, INST. APPL. ORG. CHEM., NAGOYA UNIV., NAGOYA
+, JAPAN
+##NAMES=HP
+##CAS NAME=syn-9-Hydroxybicyclo[4.2.1]nonane
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=54288-14-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39        192
+    41        384
+    43        210
+    55        306
+    67        447
+    68        139
+    70        146
+    79        439
+    80        999
+    81        471
+    83        181
+    93        373
+    94        290
+   110        139
+   122        231
+   140        403
+   141         40
+   142          5

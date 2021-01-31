@@ -1,0 +1,35 @@
+##TITLE=Library Entry 37493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Hexanol, 4-methyl-
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=818-49-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=953
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    27        170
+    28        150
+    29        410
+    31        190
+    39        100
+    41        910
+    42        230
+    43        260
+    44         40
+    55        400
+    56        400
+    57        370
+    67         10
+    68         20
+    69        950
+    70        999
+    71         50
+    83         50
+    98         50

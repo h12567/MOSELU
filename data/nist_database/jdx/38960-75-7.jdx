@@ -1,0 +1,42 @@
+##TITLE=Library Entry 32110
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING DEPT. CHEM., UNIV. OF GEORGIA, ATHENS, GEORGIA
+, USA
+##NAMES=HP
+##CAS NAME=Chromium, (.eta.5-2,4-cyclopentadien-1-yl)dinitrosyl[2,3,3,3-tetr
+afluoro-1-(trifluoromethyl)-1-propenyl]-
+##MOLFORM=C9H5CrF7N2O2
+##CAS REGISTRY NO=38960-75-7
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        439
+    52        348
+    65        378
+    66        999
+    69        757
+    71        802
+    74        696
+    75        499
+    82        181
+    93        187
+   113         72
+   124         43
+   136        151
+   143        257
+   147          7
+   150          4
+   155          6
+   162        605
+   163        109
+   166         21
+   177         40
+   182         49
+   298         60
+   328        681
+   358        121

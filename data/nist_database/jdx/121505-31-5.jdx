@@ -1,0 +1,36 @@
+##TITLE=Library Entry 23370
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=1-Pentanol, 4-methyl-2-methylene-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=121505-31-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    31        250
+    39        880
+    40        150
+    41        930
+    42        150
+    43        800
+    51        100
+    53        250
+    54        590
+    55        400
+    56        150
+    57        999
+    67        130
+    70        120
+    71        450
+    72        200
+    79        180
+    81        640
+    96        610
+   114         30

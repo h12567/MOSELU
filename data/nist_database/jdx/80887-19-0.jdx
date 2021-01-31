@@ -1,0 +1,65 @@
+##TITLE=Library Entry 20189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Bis(12-hydroxydodecanyl)isooxazole-3,5-dicarboxylate
+##MOLFORM=C29H51NO7
+##CAS REGISTRY NO=80887-19-0
+##MP= -300
+##BP= -300
+##MW= 525
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        397
+    43        264
+    55        999
+    57        274
+    67        450
+    68        389
+    69        534
+    81        250
+    82        273
+    83        263
+    95        216
+    97        175
+   109        124
+   110         75
+   111        138
+   112         25
+   113         50
+   114        211
+   115         24
+   121         25
+   123         63
+   124         44
+   125         35
+   137         34
+   138         32
+   140         37
+   141         30
+   143         29
+   158         24
+   222         50
+   224         24
+   234         50
+   236         25
+   250         24
+   252         62
+   253         12
+   266        133
+   267         25
+   278         89
+   280         30
+   296         87
+   298         50
+   324         49
+   325         20
+   452          9
+   462          4
+   480          9
+   481          4
+   507          5
+   525         10

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 38977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=cis-3-Methylcyclohexanol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=5454-79-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=964
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         39
+    16         10
+    17         10
+    18         24
+    26         37
+    27        323
+    28        132
+    29        285
+    30         15
+    31         93
+    32          9
+    37          8
+    39        400
+    40         82
+    41        542
+    42        304
+    43        436
+    44        308
+    45         47
+    50         22
+    51         50
+    52         19
+    53        135
+    54        140
+    55        493
+    56        134
+    57        543
+    58         59
+    59         13
+    63         11
+    65         30
+    66         38
+    67        213
+    68        182
+    69        147
+    70        148
+    71        999
+    72         51
+    73         11
+    77         32
+    79         73
+    81        866
+    82         57
+    83         13
+    85         11
+    86         20
+    91         11
+    94         12
+    95         85
+    96        514
+    97         52
+    99         26
+   112         19
+   113         18

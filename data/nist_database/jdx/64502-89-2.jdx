@@ -1,0 +1,58 @@
+##TITLE=Library Entry 8732
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. PECHAL, SHOE & LEATHER RES. INST., GOTTWALDOV, CZ
+##NAMES=HP
+##CAS NAME=1-Hydroxy-2-pentanone
+##MOLFORM=C5H10O2
+##CAS REGISTRY NO=64502-89-2
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=695
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15         38
+    16         18
+    17        127
+    18        555
+    26         46
+    27        316
+    28        472
+    29         81
+    30         29
+    31        258
+    32         20
+    37         16
+    38         21
+    39        122
+    40         37
+    41        407
+    42         62
+    43        999
+    44        134
+    45         15
+    50         17
+    51         19
+    52         19
+    53         23
+    54         11
+    55         47
+    56         12
+    57         16
+    58         16
+    65         18
+    66         25
+    67         18
+    69         40
+    70         35
+    71        633
+    72         34
+    80         16
+    82         17
+    84         13
+    86         17
+   100          8
+   102         40
+   103          9

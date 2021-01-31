@@ -1,0 +1,52 @@
+##TITLE=Library Entry 5248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1244
+##NAMES=HP
+##CAS NAME=Methenamine
+##MOLFORM=C6H12N4
+##CAS REGISTRY NO=100-97-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1205
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         73
+    18          2
+    26          1
+    27          6
+    28         18
+    29          2
+    30         11
+    32          1
+    39          1
+    40          8
+    41         36
+    42        999
+    43         36
+    44         14
+    54          2
+    55          3
+    56          9
+    57          4
+    58          1
+    69         30
+    70          5
+    71         38
+    72          1
+    81          1
+    83         28
+    84         12
+    85         54
+    86          3
+    96          9
+    97          6
+    98          5
+   110          1
+   111         19
+   112         76
+   113          5
+   140        385
+   141         31

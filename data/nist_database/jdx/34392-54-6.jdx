@@ -1,0 +1,45 @@
+##TITLE=Library Entry 69111
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Imidazole-4-ethanamine, 2-methyl-
+##MOLFORM=C6H11N3
+##CAS REGISTRY NO=34392-54-6
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    28        240
+    29         30
+    30        480
+    31         20
+    39         50
+    41         80
+    42        280
+    43         30
+    52         40
+    53         30
+    54        260
+    55        240
+    56         50
+    66         30
+    67         30
+    68         60
+    69         30
+    81        100
+    82         30
+    83         30
+    94         20
+    95        410
+    96        999
+    97        100
+   108         20
+   109         20
+   123         20
+   124         20
+   125         80
+   126         10

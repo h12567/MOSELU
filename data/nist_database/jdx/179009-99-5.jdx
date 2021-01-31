@@ -1,0 +1,65 @@
+##TITLE=Library Entry 57897
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,3-Dithiolo[4,5-b][1,4]-dithiin-2-thione, 5,6-dihydro-5-bromomet
+hyl-
+##MOLFORM=C6H5BrS5
+##CAS REGISTRY NO=179009-99-5
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        232
+    41        607
+    42         25
+    44        124
+    45        500
+    46         35
+    56         35
+    57         41
+    58         95
+    59         25
+    64         23
+    69         56
+    70         63
+    71         96
+    73         97
+    76        686
+    77         62
+    78         47
+    85        249
+    88        999
+    89         64
+    90         52
+    97         65
+   102         29
+   103         35
+   115        139
+   116         27
+   117         62
+   120        335
+   121         23
+   122         34
+   127         59
+   128         67
+   129         30
+   161         64
+   196        214
+   197         36
+   198         94
+   237         68
+   240         44
+   242         63
+   272         66
+   274         33
+   284         26
+   286         19
+   316        456
+   318        536
+   319         57
+   320         95

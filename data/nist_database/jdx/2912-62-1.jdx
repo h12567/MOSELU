@@ -1,0 +1,77 @@
+##TITLE=Library Entry 109592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=.alpha.-Chlorophenylacetyl chloride
+##MOLFORM=C8H6Cl2O
+##CAS REGISTRY NO=2912-62-1
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          2
+    35          3
+    36          1
+    37          9
+    38         16
+    39         33
+    40          3
+    43          7
+    44         11
+    48          1
+    49          7
+    50         34
+    51         33
+    52          4
+    53          1
+    59          3
+    60          3
+    61         22
+    62         58
+    63        139
+    64         30
+    65         12
+    72          1
+    73         15
+    74         11
+    75         14
+    76          3
+    77          4
+    84          3
+    85          8
+    86         13
+    87         11
+    88          4
+    89        239
+    90        121
+    91          9
+    97          5
+    98          1
+    99         41
+   100          2
+   101         14
+   102          1
+   112          1
+   118         47
+   119          4
+   123          4
+   124         17
+   125        999
+   126         86
+   127        344
+   128         26
+   152          9
+   153          1
+   154          3
+   159          1
+   161          1
+   188         52
+   189          4
+   190         33
+   191          2
+   192          5

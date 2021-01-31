@@ -1,0 +1,48 @@
+##TITLE=Library Entry 32987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=2H-1,4-Benzoxazine-6,7-dione, 3,4-dihydro-4-methyl-
+##MOLFORM=C9H9NO3
+##CAS REGISTRY NO=29441-79-0
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    50        510
+    51        260
+    52        360
+    53        320
+    54        380
+    55        280
+    56        180
+    57         80
+    64         60
+    65        110
+    66        310
+    67        999
+    68        190
+    69        500
+    77         70
+    78         80
+    79        130
+    80        100
+    81        230
+    82        999
+    83         70
+    93         90
+    94        120
+    95        190
+    96        140
+   122         90
+   149         80
+   151        999
+   152        220
+   164        120
+   177         70
+   178         70
+   179        230

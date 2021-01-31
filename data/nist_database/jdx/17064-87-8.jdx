@@ -1,0 +1,41 @@
+##TITLE=Library Entry 46395
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-Nitro)benzylidene-2-bromo-aniline
+##MOLFORM=C13H9BrN2O2
+##CAS REGISTRY NO=17064-87-8
+##MP= -300
+##BP= -300
+##MW= 304
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    76        999
+    77        443
+    89         99
+    90        101
+    91        121
+   104        239
+   134        160
+   151        270
+   152        571
+   155        429
+   157        429
+   170        100
+   172        138
+   177        161
+   178        482
+   179        130
+   180        732
+   181        121
+   195        130
+   208        100
+   257        298
+   259        299
+   287        570
+   289        570
+   304        229
+   306        231

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 87002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. BAUER, MAX-PLANCK INST. MED. FORSCH., HEIDELBERG, W.
+##NAMES=HP
+##CAS NAME=3-Butyl-2-methyl-1-pyrrolin-4-one
+##MOLFORM=C9H15NO
+##CAS REGISTRY NO=58868-58-9
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         30
+    28          4
+    29         20
+    30         30
+    32          0
+    37         10
+    38         10
+    39         70
+    40         60
+    41         40
+    42         50
+    43        420
+    44         80
+    53         20
+    54         10
+    55         20
+    56         10
+    57         10
+    58        290
+    59         10
+    60         10
+    67         10
+    81         10
+    82         90
+    83         20
+    94         20
+    95         10
+    96         20
+    97         20
+   110        999
+   111        320
+   112         20
+   124         60
+   125         10
+   136         30
+   138         30
+   152         10
+   153        360
+   154         40

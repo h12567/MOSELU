@@ -1,0 +1,70 @@
+##TITLE=Library Entry 65801
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Mark Whitten, Florida Museum of Natural History, U. of
+ Florida
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-
+##MOLFORM=C15H24
+##CAS REGISTRY NO=17699-05-7
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=1435
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41        884
+    42         54
+    43        158
+    50         14
+    51         63
+    52         45
+    53        196
+    55        321
+    56        111
+    57         55
+    63         17
+    65        103
+    66         31
+    67        131
+    69        403
+    70         53
+    77        319
+    78         75
+    79        286
+    80         75
+    81         97
+    82         26
+    83         20
+    84         14
+    91        437
+    92        165
+    93        999
+    94        133
+    95         58
+    97         13
+   103         30
+   105        259
+   106         49
+   107        340
+   108         46
+   109         69
+   115         20
+   117         23
+   119        856
+   120        144
+   121        119
+   122         29
+   123         21
+   133         48
+   134         32
+   135         38
+   136         23
+   147         26
+   148         29
+   161         73
+   162         17
+   189         33
+   204         35
+   205          6

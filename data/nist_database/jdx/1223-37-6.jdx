@@ -1,0 +1,48 @@
+##TITLE=Library Entry 60793
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. Dziwinski, Inst. Heavy Org. Synth. Blachownia, Kedzi
+erzyn-Kozle, Poland
+##NAMES=HP
+##CAS NAME=Butanedioic acid, butyl phenylmethyl ester
+##MOLFORM=C15H20O4
+##CAS REGISTRY NO=1223-37-6
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=1941
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39         70
+    41        150
+    42         20
+    43        200
+    51         60
+    55         90
+    56        230
+    57        200
+    63         20
+    65        130
+    73         60
+    74        150
+    75         90
+    77         60
+    79         90
+    89         50
+    90         80
+    91        999
+    92        120
+   101        730
+   102         50
+   105         60
+   107        470
+   108        150
+   130         90
+   157        160
+   158         20
+   162        100
+   190         30
+   191         10
+   236         20
+   264         30

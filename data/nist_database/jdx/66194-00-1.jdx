@@ -1,0 +1,61 @@
+##TITLE=Library Entry 70111
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Eric Wils, TNO Prins Maurits Laboratory, The Netherland
+s.
+##NAMES=HP
+##CAS NAME=Phosphonic acid, methyl-, ethyl 1-methylethyl ester
+##MOLFORM=C6H15O3P
+##CAS REGISTRY NO=66194-00-1
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         17
+    27         97
+    29         70
+    31         30
+    37          6
+    38         11
+    39         84
+    40         21
+    41        113
+    42         51
+    43        210
+    44         20
+    45        185
+    46          5
+    47        106
+    48         14
+    49         22
+    59         35
+    62          8
+    63         14
+    65        105
+    78         21
+    79        792
+    80        281
+    81         80
+    91         35
+    93         19
+    96         29
+    97        999
+   105         12
+   107        153
+   108        100
+   109         61
+   111          6
+   121        127
+   122          7
+   123        523
+   124        205
+   125        630
+   126         30
+   127          5
+   137          6
+   151        363
+   152         21
+   165         23

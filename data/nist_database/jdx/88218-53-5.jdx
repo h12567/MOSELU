@@ -1,0 +1,50 @@
+##TITLE=Library Entry 81878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=1-N-Phenyl-4-(trichlorovinyl)benzoamide
+##MOLFORM=C15H10Cl3NO
+##CAS REGISTRY NO=88218-53-5
+##MP= -300
+##BP= -300
+##MW= 325
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    51        266
+    54        433
+    55        606
+    56        266
+    57        666
+    65        466
+    69        266
+    70        466
+    71        333
+    77        700
+    83        266
+    85        233
+    91        800
+    92        400
+    99        266
+   100        300
+   105        999
+   106        266
+   107        300
+   120        533
+   121        466
+   135        533
+   149        800
+   154        600
+   163        333
+   165        266
+   167        233
+   170        666
+   172        433
+   233        999
+   235        999
+   237        333
+   325        200
+   327        200
+   329         60

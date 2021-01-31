@@ -1,0 +1,77 @@
+##TITLE=Library Entry 43449
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(1-Hydroxy-2-trimethylsilyl-1-phenylethyl)cyclopentadienylmangane
+se tricarbonyl
+##MOLFORM=C19H21MnO4Si
+##CAS REGISTRY NO=83617-89-4
+##MP= -300
+##BP= -300
+##MW= 396
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    51          9
+    55        319
+    56         14
+    59         39
+    70         49
+    72         29
+    73        999
+    74         89
+    75        229
+    76         19
+    77         29
+   129         89
+   130         29
+   132         79
+   135         39
+   144        109
+   145         19
+   151          9
+   152         59
+   153         29
+   165        139
+   166         69
+   167         89
+   168         29
+   192         59
+   193          9
+   220         24
+   221          9
+   222        644
+   223        109
+   224         49
+   239         14
+   240         69
+   241         14
+   242          9
+   278         79
+   279         24
+   280         14
+   294        409
+   295         99
+   296         39
+   297         39
+   298          9
+   312        199
+   313         49
+   314          6
+   325          8
+   326          2
+   327          0
+   363          3
+   364          0
+   365          0
+   378         12
+   379          3
+   380          1
+   381          7
+   382          1
+   383          0
+   396         44
+   397         12
+   398          3

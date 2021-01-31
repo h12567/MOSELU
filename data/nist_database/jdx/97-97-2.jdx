@@ -1,0 +1,71 @@
+##TITLE=Library Entry 45516
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4365
+##NAMES=HP
+##CAS NAME=Ethane, 2-chloro-1,1-dimethoxy-
+##MOLFORM=C4H9ClO2
+##CAS REGISTRY NO=97-97-2
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         10
+    15        129
+    16          1
+    18          2
+    25          2
+    26         13
+    27         49
+    28          6
+    29         92
+    30          9
+    31        155
+    32          5
+    33          3
+    35          2
+    36          5
+    37          1
+    38          2
+    41          3
+    42         28
+    43        486
+    44         12
+    45         35
+    46          1
+    47        143
+    48          9
+    49         82
+    50         14
+    51         26
+    52          4
+    53          1
+    57         13
+    58         21
+    59         10
+    60          2
+    61          8
+    62          5
+    63         16
+    64          2
+    65          5
+    73          7
+    74          3
+    75        999
+    76         35
+    77         12
+    78          7
+    79          5
+    80          2
+    89          1
+    92         13
+    93        564
+    94         22
+    95        182
+    96          6
+   123          8
+   125          3

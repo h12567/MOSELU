@@ -1,0 +1,43 @@
+##TITLE=Library Entry 83402
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Cohen, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2-Cyanohistamine
+##MOLFORM=C6H8N4
+##CAS REGISTRY NO=74419-78-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        150
+    42        122
+    43        162
+    44        285
+    45        276
+    46        166
+    51         66
+    52        123
+    53        194
+    54        107
+    55         88
+    56         67
+    57         57
+    60         23
+    64         23
+    65         32
+    66         24
+    67         23
+    69         30
+    77         86
+    78        151
+    79         34
+    80         53
+    81         29
+   106        263
+   107        999
+   108         97
+   136        123

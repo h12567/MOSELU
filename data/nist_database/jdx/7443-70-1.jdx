@@ -1,0 +1,85 @@
+##TITLE=Library Entry 25702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1355
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 2-methyl-, cis-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=7443-70-1
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=946
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          8
+    17          3
+    18         11
+    19          1
+    26          8
+    27        116
+    28         34
+    29        161
+    30         16
+    31         54
+    32          1
+    37          2
+    38          7
+    39        136
+    40         27
+    41        327
+    42        190
+    43        247
+    44        234
+    45         88
+    46          3
+    47          1
+    50          7
+    51         15
+    52          6
+    53         65
+    54        173
+    55        419
+    56         93
+    57        999
+    58        178
+    59         13
+    60          1
+    62          1
+    63          3
+    65         14
+    66         29
+    67        256
+    68        735
+    69         88
+    70        167
+    71        558
+    72        101
+    73          9
+    74          1
+    77         12
+    78          3
+    79         43
+    80          7
+    81        907
+    82         64
+    83         40
+    84         12
+    85         92
+    86         99
+    87          6
+    91          7
+    92          2
+    93          4
+    94          2
+    95         62
+    96        788
+    97         97
+    98          5
+    99         18
+   100          1
+   112         13
+   113         17
+   114        116
+   115          9

@@ -1,0 +1,83 @@
+##TITLE=Library Entry 10006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Methyl-2-butylisothiocyanate
+##MOLFORM=C6H11NS
+##CAS REGISTRY NO=201224-92-2
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          8
+    15         43
+    16          2
+    26         40
+    27        343
+    28        109
+    29        164
+    30          5
+    32         24
+    33          3
+    34          2
+    37         11
+    38         26
+    39        223
+    40         41
+    41        350
+    42         90
+    43        999
+    44         51
+    45         35
+    46         15
+    47          2
+    48          1
+    49          2
+    50         13
+    51         24
+    52         15
+    53         53
+    54        103
+    55        260
+    56         20
+    57         14
+    58         52
+    59         88
+    60        119
+    61          8
+    62          7
+    63          3
+    64          2
+    65          2
+    66          2
+    67          3
+    68          3
+    69         20
+    70         92
+    71        449
+    72         73
+    73          3
+    74          3
+    78          2
+    80          2
+    81          2
+    82          5
+    83          2
+    84         19
+    85          2
+    86        570
+    87        105
+    88         28
+    89          5
+    98          4
+   100          2
+   114          6
+   129        334
+   130         27
+   131         15
+   132          1

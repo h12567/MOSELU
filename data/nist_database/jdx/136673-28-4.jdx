@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89153
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-(4-Bromophenyl)-2-(4-ethoxycarbonylphenyl)-3-(thiophen-2-ylcarb
+onyl)-cyclopropane
+##MOLFORM=C23H19BrO3S
+##CAS REGISTRY NO=136673-28-4
+##MP= -300
+##BP= -300
+##MW= 454
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    77          9
+    83         19
+    85          9
+   102          9
+   111        999
+   115         79
+   163         10
+   169          9
+   178         49
+   179         49
+   180          9
+   187          9
+   189         40
+   192         29
+   193         10
+   271         10
+   299         10
+   324        170
+   325         39
+   342         30
+   344         30
+   410          9
+   454         10

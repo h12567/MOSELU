@@ -1,0 +1,53 @@
+##TITLE=Library Entry 29612
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2965
+##NAMES=HP
+##CAS NAME=Methyl fluoroacetate
+##MOLFORM=C3H5FO2
+##CAS REGISTRY NO=453-18-9
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         13
+    14         46
+    15        644
+    16          8
+    25          2
+    26          3
+    27          7
+    28         10
+    29        161
+    30         14
+    31         71
+    32         38
+    33        727
+    34          9
+    35         28
+    36          2
+    39          1
+    40          1
+    41          7
+    42         52
+    43          9
+    44         10
+    45         16
+    46         11
+    47        131
+    48        113
+    49          4
+    57          1
+    59        999
+    60         56
+    61        486
+    62         13
+    63         54
+    64          1
+    91          9
+    92         78
+    93          2

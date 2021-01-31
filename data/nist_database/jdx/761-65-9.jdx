@@ -1,0 +1,77 @@
+##TITLE=Library Entry 40138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 561
+##NAMES=HP
+##CAS NAME=Formamide, N,N-dibutyl-
+##MOLFORM=C9H19NO
+##CAS REGISTRY NO=761-65-9
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=1310
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          4
+    18          1
+    26          2
+    27         38
+    28         40
+    29        134
+    30        181
+    31          3
+    32          1
+    39         26
+    40          3
+    41        120
+    42         38
+    43         19
+    44        119
+    45          6
+    46         25
+    51          1
+    52          1
+    53          6
+    54          5
+    55         35
+    56         21
+    57         96
+    58        139
+    59         44
+    60         19
+    67          1
+    68          2
+    69          2
+    70          8
+    71          5
+    72        999
+    73        136
+    74          7
+    82          1
+    83          1
+    84         19
+    85         14
+    86         34
+    87          4
+    96          1
+    98         15
+    99          3
+   100         45
+   101          5
+   102         21
+   103          1
+   112          3
+   114        690
+   115         67
+   116          4
+   126          1
+   128         55
+   129          5
+   140          2
+   142         14
+   143          1
+   156          5
+   157         18
+   158         45
+   159          4

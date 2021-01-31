@@ -1,0 +1,43 @@
+##TITLE=Library Entry 3322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Penten-1-one, 2-methyl-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=29336-29-6
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         48
+    18         42
+    26         49
+    27        207
+    28         53
+    29        109
+    31          9
+    37         18
+    38         31
+    39        235
+    40         50
+    41        999
+    42        114
+    43         69
+    44          9
+    50         15
+    51         17
+    53         39
+    54         11
+    55        151
+    56         15
+    67         12
+    68         11
+    69        359
+    70         21
+    86         13
+    98        192
+    99         13

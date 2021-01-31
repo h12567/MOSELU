@@ -1,0 +1,45 @@
+##TITLE=Library Entry 15187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Butanedial, dioxime
+##MOLFORM=C4H8N2O2
+##CAS REGISTRY NO=2580-71-4
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        759
+    42        181
+    43        413
+    44        999
+    45         64
+    46         42
+    51         66
+    52        169
+    53        129
+    54        581
+    55        176
+    56        120
+    57         67
+    58         88
+    59        217
+    67        125
+    68        278
+    69         31
+    70        132
+    71         74
+    72         87
+    79         36
+    81        332
+    82        175
+    83         33
+    84        450
+    85        175
+    99        469
+   100          9
+   116         14

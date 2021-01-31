@@ -1,0 +1,50 @@
+##TITLE=Library Entry 59750
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, [(methylsulfonyl)methyl]-
+##MOLFORM=C8H10O2S
+##CAS REGISTRY NO=3112-90-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         29
+    17          0
+    18          5
+    26          2
+    27          5
+    28          0
+    32          1
+    37          2
+    38         10
+    39         59
+    40          4
+    41         12
+    45          5
+    48          4
+    49          2
+    50         12
+    51         29
+    52          8
+    61          3
+    62         13
+    63         45
+    64         19
+    65        138
+    66          7
+    76          2
+    77          6
+    78          3
+    79          5
+    87          3
+    89         37
+    91        999
+    92         72
+    93          3
+   170         28
+   171          3

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 4838
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclobutanone
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=1191-95-3
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=641
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         11
+    14         47
+    15         21
+    16          0
+    18          0
+    24          2
+    25         13
+    26         71
+    27        106
+    28         45
+    29         12
+    30          0
+    33          0
+    34          0
+    35          0
+    36          7
+    37         35
+    38         47
+    39        133
+    40         39
+    41        156
+    42        999
+    43         52
+    44          4
+    48          1
+    49          8
+    50         14
+    51          5
+    52          1
+    53          6
+    55          4
+    56          0
+    70        236
+    71         11
+    72          0

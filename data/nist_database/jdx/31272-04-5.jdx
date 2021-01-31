@@ -1,0 +1,64 @@
+##TITLE=Library Entry 87924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Methyl-3-n-propyl-2-pyrazolin-5-one
+##MOLFORM=C7H12N2O
+##CAS REGISTRY NO=31272-04-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    13          8
+    14         23
+    15        260
+    16         13
+    26         53
+    27        293
+    28        139
+    29         69
+    30         55
+    37         19
+    38         48
+    39        373
+    40        167
+    41        740
+    42        219
+    43        771
+    44         39
+    46          6
+    50         17
+    51         39
+    52         34
+    53         85
+    54         56
+    55        156
+    56         32
+    57          7
+    58         17
+    63          9
+    65         19
+    66         12
+    67         74
+    68         50
+    69        242
+    70         45
+    71          8
+    80         10
+    81         18
+    82         20
+    83         96
+    84         66
+    95         13
+    97        119
+    98         23
+   111        999
+   112        594
+   113         38
+   125         77
+   140        498
+   141         42

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 94049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, 1-hexynyl-
+##MOLFORM=C12H14
+##CAS REGISTRY NO=1129-65-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         76
+    28          1
+    29         21
+    38         12
+    39         88
+    40         11
+    41         58
+    43         26
+    50         53
+    51        100
+    52         22
+    53         11
+    58          7
+    61         11
+    62         58
+    63        164
+    64         28
+    65         99
+    66          9
+    67         14
+    70          4
+    74         54
+    75         63
+    76         57
+    77         90
+    78         26
+    79         35
+    80         40
+    81         12
+    85          6
+    86         26
+    87         39
+    88         44
+    89        181
+    90         17
+    91         79
+    92          8
+    98         10
+    99          7
+   102        191
+   103         42
+   104         26
+   113         40
+   115        999
+   116        155
+   117         93
+   118         10
+   126         25
+   127        132
+   128        484
+   129        592
+   130         94
+   131          9
+   139          8
+   141         44
+   142         47
+   143        437
+   144         47
+   152          6
+   153          5
+   157         44
+   158        273
+   159         36

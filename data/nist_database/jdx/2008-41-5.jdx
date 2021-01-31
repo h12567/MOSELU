@@ -1,0 +1,69 @@
+##TITLE=Library Entry 23166
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CATALOGUE OF MASS SPECTRA OF PESTICIDES, APRIL, 1975; J
+. FREUDENTHAL & L. G. GRAMBERG, NAT'L INST. OF PUBLIC HEALTH, THE NETHERLAND
+S
+##NAMES=HP
+##CAS NAME=Carbamothioic acid, bis(2-methylpropyl)-, S-ethyl ester
+##MOLFORM=C11H23NOS
+##CAS REGISTRY NO=2008-41-5
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=1419
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         33
+    17        192
+    26         20
+    27         84
+    28        147
+    29        446
+    30         45
+    32         43
+    34         14
+    39         58
+    41        235
+    42        108
+    43        105
+    45         29
+    47         16
+    55         55
+    56         36
+    57        999
+    58        127
+    60         10
+    61         30
+    62         31
+    72         31
+    75        256
+    77         16
+    84         26
+    86         38
+    89        400
+    90         70
+    91         11
+   100        112
+   101         20
+   103         13
+   114         14
+   118         17
+   132         29
+   133         10
+   142         66
+   146        428
+   147         23
+   148         30
+   156        413
+   157         52
+   158         29
+   160         16
+   174        393
+   175         20
+   176         24
+   188         32
+   203         18
+   217        155
+   218         19

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 6492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER UNIV. OF COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetrazine, 3,6-bis(1-methylethyl)-
+##MOLFORM=C8H14N4
+##CAS REGISTRY NO=13717-93-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    14         63
+    26         84
+    27        300
+    28        537
+    29         32
+    38         27
+    39        144
+    40         62
+    41        338
+    42        819
+    43        999
+    44         40
+    51         29
+    52         94
+    53         61
+    54        349
+    55         44
+    68        325
+    69        170
+    70        424
+    71         24
+    81         73
+    82         66
+   166         18

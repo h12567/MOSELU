@@ -1,0 +1,50 @@
+##TITLE=Library Entry 60821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, 3-heptenyl-
+##MOLFORM=C13H18
+##CAS REGISTRY NO=26447-64-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        148
+    42          9
+    43          9
+    51         19
+    52          9
+    53         19
+    54          9
+    55        217
+    56          9
+    63          9
+    65         69
+    66          9
+    67         39
+    77         19
+    78          9
+    81          9
+    82         69
+    83         69
+    89          9
+    90         19
+    91        999
+    92        138
+    93          9
+   103          9
+   104        247
+   105         29
+   115          9
+   117         49
+   118          9
+   131         39
+   132          9
+   145          9
+   174         99
+   175          9

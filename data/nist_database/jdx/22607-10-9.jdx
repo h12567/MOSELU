@@ -1,0 +1,38 @@
+##TITLE=Library Entry 20423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4,5-Octanediol
+##MOLFORM=C8H18O2
+##CAS REGISTRY NO=22607-10-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39         79
+    40          9
+    41        227
+    42         29
+    43        514
+    44         49
+    45         59
+    47          9
+    53         19
+    54          9
+    55        999
+    56         69
+    57        168
+    58         19
+    67         19
+    69          9
+    71         69
+    72        524
+    73        683
+    74         19
+   103         39
+   146         19

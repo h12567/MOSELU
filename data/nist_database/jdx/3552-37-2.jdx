@@ -1,0 +1,57 @@
+##TITLE=Library Entry 16073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LDDRD, NCI, NIH-FCRDC, Frederick, MD 21702
+##NAMES=HP
+##CAS NAME=2-Propenamide, 3-glyoxylamido-, oxime
+##MOLFORM=C5H7N3O3
+##CAS REGISTRY NO=3552-37-2
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        191
+    42        230
+    43        199
+    44        999
+    45         33
+    52         28
+    53         43
+    54         49
+    55         41
+    56         11
+    57         17
+    58          6
+    59         49
+    66          6
+    67         57
+    68        209
+    69        153
+    70        746
+    71         75
+    72        183
+    73          7
+    82         36
+    83         25
+    84         50
+    85         69
+    86        230
+    87         35
+    95         41
+    96        348
+    97        288
+    98         29
+   111          6
+   112         23
+   113        821
+   114         50
+   123         61
+   124          6
+   140        776
+   141        126
+   142          6
+   157        355
+   158         36

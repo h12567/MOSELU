@@ -1,0 +1,72 @@
+##TITLE=Library Entry 49204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3,4,5,6-Tetrahydrophthalic anhydride
+##MOLFORM=C8H8O3
+##CAS REGISTRY NO=2426-02-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15         43
+    18          4
+    25          6
+    26         82
+    27        188
+    28         57
+    29         15
+    32          2
+    36          3
+    37         55
+    38        103
+    39        248
+    40         41
+    41         45
+    42          7
+    43          6
+    44          8
+    45         14
+    47          0
+    48          2
+    49         29
+    50        198
+    51        278
+    52        357
+    53         96
+    54         18
+    55         25
+    56          2
+    60          1
+    61         11
+    62         19
+    63         53
+    64         11
+    65         58
+    66         58
+    67          8
+    68          4
+    69          1
+    73          8
+    74         25
+    75         10
+    76          1
+    77        168
+    78          1
+    79        999
+    80        363
+    81         25
+    82          1
+    92          1
+    93          7
+    95          3
+   105          2
+   108        632
+   109         45
+   110          3
+   152         42
+   153          4

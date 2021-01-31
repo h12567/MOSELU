@@ -1,0 +1,66 @@
+##TITLE=Library Entry 100876
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.F.ZERILLI RES. LABS., GRUPPO LEPETIT S.P.A., MILAN, I
+TALY
+##NAMES=HP
+##CAS NAME=1,2,4-Oxadiazole, 5-(4-chlorophenyl)-3-phenyl-
+##MOLFORM=C14H9ClN2O
+##CAS REGISTRY NO=28825-13-0
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    18         10
+    28         20
+    29         10
+    37         10
+    38         20
+    39         60
+    40         10
+    41         20
+    50         60
+    51         70
+    52         20
+    61         10
+    62         30
+    63         90
+    64        120
+    65         20
+    73         20
+    74         40
+    75        100
+    76         40
+    77         30
+    85         10
+    86         10
+    87         15
+    88         20
+    89         80
+    90         20
+    91        180
+    92         10
+   102         20
+   103         40
+   111         90
+   112         10
+   113         40
+   114         10
+   119        999
+   120         90
+   121         10
+   123         30
+   125         10
+   128         30
+   129         10
+   137         30
+   139         70
+   140         10
+   141         20
+   256        470
+   257         80
+   258        170
+   259         30

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 76107
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanimine, 1-(1,4,4-trimethyl-2-tetrazenyl)-
+##MOLFORM=C4H11N5
+##CAS REGISTRY NO=42448-53-3
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43         50
+    44        100
+    45        130
+    57         70
+    58         70
+    59        170
+    72        140
+    85        120
+   102        999
+   103        110
+   129        380

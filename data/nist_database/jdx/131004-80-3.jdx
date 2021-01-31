@@ -1,0 +1,79 @@
+##TITLE=Library Entry 3310
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Scientific Instruments & Applications
+##NAMES=HP
+##CAS NAME=N-(4-hydroxybutyl)-2-methyl-2-propenamide
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=131004-80-3
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    39        327
+    40        192
+    41        999
+    42         91
+    43         67
+    44         53
+    45          8
+    49          2
+    51          3
+    52          4
+    53         18
+    54         51
+    55         92
+    56         28
+    57         13
+    58         14
+    59          7
+    60          1
+    65          1
+    66          1
+    67          2
+    69        871
+    70        206
+    71         39
+    72          7
+    73          1
+    78          1
+    79          1
+    80          2
+    81          7
+    82         29
+    83         48
+    84         12
+    85          2
+    86         69
+    87         12
+    88          2
+    93          1
+    94          2
+    95          9
+    96         14
+    97          2
+    98        133
+    99         14
+   100          4
+   107          1
+   108          2
+   109          3
+   110         23
+   111         22
+   112         23
+   113          5
+   122          3
+   124         11
+   125          2
+   126         27
+   127          1
+   138         18
+   139         43
+   140         51
+   141          5
+   155          1
+   156         75
+   157          6

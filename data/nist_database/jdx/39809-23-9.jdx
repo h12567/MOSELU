@@ -1,0 +1,30 @@
+##TITLE=Library Entry 63414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N M M. NIBBERING
+##NAMES=HP
+##CAS NAME=2(1H)-Pyrimidinone, 4-amino-1-[4-(phenylmethoxy)-3-[(phenylmethox
+y)methyl]butyl]-
+##MOLFORM=C23H27N3O3
+##CAS REGISTRY NO=39809-23-9
+##MP= -300
+##BP= -300
+##MW= 393
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    28         50
+    41         50
+    51         50
+    65        110
+    81        130
+    91        999
+    92        110
+   111         60
+   112         70
+   138         50
+   139         50
+   166        110
+   196        190
+   302         80

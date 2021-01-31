@@ -1,0 +1,57 @@
+##TITLE=Library Entry 1992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Heptane, 1-(ethenylthio)-
+##MOLFORM=C9H18S
+##CAS REGISTRY NO=21961-05-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    40        999
+    41        860
+    42        230
+    43        600
+    45        280
+    46         10
+    47         60
+    53         20
+    54         60
+    55        480
+    56        270
+    57        460
+    58         50
+    59        120
+    60        999
+    61        230
+    62         30
+    67         60
+    68         50
+    69        160
+    70        140
+    73        180
+    74         60
+    75         80
+    81        110
+    82         20
+    83         10
+    87        190
+    88         20
+    89         10
+    95         30
+    96         90
+    97         60
+    98         40
+   101        140
+   103         10
+   115        150
+   129        110
+   143         40
+   158        350
+   159         20

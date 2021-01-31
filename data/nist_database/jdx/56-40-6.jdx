@@ -1,0 +1,45 @@
+##TITLE=Library Entry 871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 601
+##NAMES=HP
+##CAS NAME=Glycine
+##MOLFORM=C2H5NO2
+##CAS REGISTRY NO=56-40-6
+##MP= -300
+##BP= -300
+##MW= 75
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          3
+    15          2
+    16         15
+    17         17
+    18         77
+    26          4
+    27         32
+    28         80
+    29         45
+    30        999
+    31         20
+    39          2
+    40          9
+    41          4
+    42          7
+    43          4
+    44         57
+    45         27
+    46          5
+    54          2
+    55          2
+    56          2
+    57          4
+    67          1
+    69          3
+    70          2
+    71          3
+    75         36
+    76          1

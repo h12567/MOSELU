@@ -1,0 +1,73 @@
+##TITLE=Library Entry 98312
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-Methoxy-3-phenylpropane
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=2046-33-5
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    30         30
+    31         85
+    32         25
+    33         10
+    38         25
+    39        180
+    40         25
+    41         90
+    42         25
+    43         50
+    44         10
+    45        590
+    46         15
+    49         10
+    50         60
+    51        135
+    52         40
+    53         20
+    55         15
+    56         10
+    57         15
+    58         40
+    59         30
+    61         10
+    62         25
+    63         60
+    64         15
+    65        190
+    66         20
+    67         10
+    71         20
+    72         15
+    74         15
+    75         15
+    76         20
+    77        145
+    78        100
+    79         75
+    89         50
+    90         60
+    91        680
+    92        340
+    93         30
+   102         20
+   103         90
+   104         60
+   105        120
+   106         15
+   107         10
+   113         55
+   115         80
+   116        150
+   117        752
+   118        999
+   119        110
+   120         10
+   150         20
+   151          2

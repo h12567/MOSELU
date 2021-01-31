@@ -1,0 +1,32 @@
+##TITLE=Library Entry 57892
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,3,4--tri-O-methyl.alpha.l-rhamnopyranoside
+##MOLFORM=C10H20O5
+##CAS REGISTRY NO=3253-23-4
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    45          5
+    59          5
+    71          8
+    72         77
+    73         10
+    74         15
+    75        597
+    88        999
+    99         16
+   101        175
+   119         84
+   129         18
+   131          9
+   145         10
+   157          7
+   176        135
+   189         45

@@ -1,0 +1,76 @@
+##TITLE=Library Entry 2740
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Cyclopentacycloocten-2-one, decahydro-3a-methyl-, trans-
+##MOLFORM=C12H20O
+##CAS REGISTRY NO=55103-65-6
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        160
+    43        210
+    44         10
+    51         40
+    52         30
+    53        260
+    54        400
+    55        760
+    56        630
+    57        200
+    58         10
+    65         50
+    66         70
+    67        630
+    68        420
+    69        340
+    70         90
+    71         20
+    77         60
+    78         20
+    79        110
+    80         50
+    81        620
+    82        320
+    83        100
+    84         50
+    85         20
+    91         30
+    92         10
+    93         50
+    94         40
+    95        370
+    96        380
+    97         70
+    98         50
+   105         10
+   107         40
+   108         20
+   109        200
+   110        120
+   111         50
+   112         30
+   119         10
+   121         10
+   122         40
+   123         80
+   124         60
+   125         30
+   133         10
+   136         10
+   137        100
+   138         20
+   147         10
+   151         10
+   152         30
+   162         10
+   165         40
+   180        190
+   181         30

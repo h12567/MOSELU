@@ -1,0 +1,70 @@
+##TITLE=Library Entry 16511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=1-Aminoethylphosphonate, 2TMS derivative
+##MOLFORM=C8H24NO3PSi2
+##CAS REGISTRY NO=53121-99-6
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         40
+    43         25
+    44        999
+    45        130
+    46         10
+    47         30
+    57         10
+    58         10
+    59         25
+    61         30
+    63         20
+    72         15
+    73        270
+    74         30
+    75        115
+    76         10
+    77         40
+    78         10
+    91         10
+   103         10
+   105         10
+   107         10
+   115         10
+   116         20
+   117         10
+   118         15
+   119         15
+   121         40
+   131         15
+   133         90
+   134         15
+   135        150
+   136         20
+   137         15
+   147         90
+   148         15
+   149         45
+   151         20
+   195        155
+   196         25
+   197         20
+   209         10
+   210         10
+   211        540
+   212         90
+   213         45
+   225         10
+   226        190
+   227         40
+   228         20
+   254         20
+   269         50
+   270         10

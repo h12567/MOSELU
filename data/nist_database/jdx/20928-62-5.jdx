@@ -1,0 +1,76 @@
+##TITLE=Library Entry 71361
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7900
+##NAMES=HP
+##CAS NAME=1,2-Dihydro-3-methoxy-2-oxo-1-piperidinomethylpyridine
+##MOLFORM=C12H18N2O2
+##CAS REGISTRY NO=20928-62-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          3
+    27          8
+    28         15
+    29          6
+    30          9
+    37          1
+    38          4
+    39         16
+    40          5
+    41         46
+    42         48
+    43          9
+    44         23
+    50          1
+    51          2
+    52          5
+    53          7
+    54          9
+    55         57
+    56          9
+    57          4
+    58          1
+    65          2
+    66          3
+    67         16
+    68          8
+    69         24
+    70         22
+    71          1
+    78         10
+    79          5
+    80          3
+    81          4
+    82         19
+    83          4
+    84         11
+    85          5
+    89          3
+    93          1
+    94          7
+    95         22
+    96         52
+    97         24
+    98        999
+    99         76
+   100          2
+   106          1
+   107          1
+   108         10
+   109          3
+   110          3
+   111          3
+   122          2
+   124         30
+   125         52
+   126          9
+   138          6
+   139          1
+   222         29
+   223          4

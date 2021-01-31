@@ -1,0 +1,55 @@
+##TITLE=Library Entry 16670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methoxyacetyl chloride
+##MOLFORM=C3H5ClO2
+##CAS REGISTRY NO=38870-89-2
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         19
+    14         67
+    15        297
+    16          7
+    17          7
+    24          1
+    25          3
+    26          7
+    28         17
+    29        335
+    30         28
+    31          7
+    35         13
+    36          8
+    37          4
+    38          2
+    40          2
+    41         11
+    42         78
+    43         11
+    45        999
+    46         20
+    47          5
+    48          4
+    49         44
+    50          2
+    51         15
+    56          2
+    61          1
+    63         17
+    65          6
+    72         14
+    73          2
+    78          2
+    79          1
+    80          3
+    82          1
+   108          3
+   110          1

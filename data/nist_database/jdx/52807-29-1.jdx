@@ -1,0 +1,49 @@
+##TITLE=Library Entry 80086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Am Soc Mass Spectrom 2008, 19, 1114-1118
+##NAMES=HP
+##CAS NAME=N-Benzoyl derivative of p-iodoaniline
+##MOLFORM=C13H10INO
+##CAS REGISTRY NO=52807-29-1
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         32
+    39         35
+    40         12
+    41         15
+    50         63
+    51        161
+    52         25
+    53         12
+    62         22
+    63         73
+    64         73
+    65         22
+    76         43
+    77        531
+    78         43
+    90         22
+    91         63
+    92         12
+   105        999
+   106         83
+   107         12
+   127         12
+   128         12
+   139         12
+   166         12
+   167         15
+   191         12
+   195         12
+   196         12
+   197         12
+   218         22
+   323        303
+   324         53

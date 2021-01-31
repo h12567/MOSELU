@@ -1,0 +1,49 @@
+##TITLE=Library Entry 96200
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Benzonitrile, 4-(chloromethyl)-
+##MOLFORM=C8H6ClN
+##CAS REGISTRY NO=874-86-2
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27        233
+    28        134
+    35        148
+    37        373
+    38        476
+    39        700
+    43         51
+    49        161
+    50        487
+    51        429
+    52        156
+    61        249
+    62        391
+    63        593
+    64        249
+    65         90
+    74         81
+    75        145
+    76        129
+    85         43
+    86         76
+    87        146
+    88        177
+    89        411
+    90        136
+    99         28
+   114         73
+   115         67
+   116        999
+   117        106
+   123         23
+   151         34
+   152         11
+   153         22

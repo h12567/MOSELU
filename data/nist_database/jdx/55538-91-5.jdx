@@ -1,0 +1,73 @@
+##TITLE=Library Entry 44481
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=D-Glycero-D-galacto-2-Nonulosonic acid, 5-(acetylamino)-3,5-dideo
+xy-4,6,7,8,9-pentakis-O-(trimethylsilyl)-, trimethylsilyl ester
+##MOLFORM=C29H67NO9Si6
+##CAS REGISTRY NO=55538-91-5
+##MP= -300
+##BP= -300
+##MW= 741
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    40         65
+    43         28
+    44         17
+    45         30
+    73        999
+    74         90
+    75        228
+    84         30
+   103        100
+   116        107
+   117         96
+   129         22
+   131         14
+   132         15
+   133         43
+   143         80
+   144         77
+   147        328
+   148         21
+   149         28
+   157         14
+   172         46
+   173         78
+   186        122
+   191         14
+   204         71
+   205         83
+   217        113
+   218         16
+   246         30
+   259         14
+   261         18
+   266         20
+   285         39
+   286         21
+   300        172
+   301         34
+   302         21
+   356        293
+   357         78
+   358         30
+   375         56
+   388         38
+   416         16
+   458         32
+   507         17
+   536        181
+   537         71
+   538         49
+   624        331
+   625        171
+   626        102
+   627         29
+   726         81
+   727         52
+   728         36

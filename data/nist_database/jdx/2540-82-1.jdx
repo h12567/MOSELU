@@ -1,0 +1,77 @@
+##TITLE=Library Entry 66552
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CATALOGUE OF MASS SPECTRA OF PESTICIDES, APRIL, 1975; J
+. FREUDENTHAL & L. G. GRAMBERG, NAT'L INST. OF PUBLIC HEALTH, THE NETHERLAND
+S
+##NAMES=HP
+##CAS NAME=Formothion
+##MOLFORM=C6H12NO4PS2
+##CAS REGISTRY NO=2540-82-1
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=1831
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    13         56
+    29         15
+    30         21
+    31         38
+    42        168
+    45        118
+    46         75
+    47        213
+    48         11
+    49         20
+    55         13
+    56         54
+    58         93
+    60         31
+    62         81
+    63        195
+    64         67
+    73         16
+    77         34
+    79        335
+    80         13
+    81         14
+    87        316
+    88         35
+    92         14
+    93        999
+    94         76
+    95         58
+    96         37
+   100         30
+   104         22
+   109         57
+   111         40
+   112         22
+   115         72
+   116         65
+   117         18
+   124         16
+   125        826
+   126        470
+   127         70
+   140         19
+   141         26
+   142         29
+   143        128
+   145         15
+   156         13
+   157         86
+   158         19
+   170        171
+   171         29
+   172        227
+   173         22
+   174         19
+   184         15
+   198         55
+   199         17
+   224         76
+   229         16
+   257         69

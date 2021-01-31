@@ -1,0 +1,36 @@
+##TITLE=Library Entry 57223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, [(4-chlorophenyl)sulfonyl]-, ethyl ester
+##MOLFORM=C10H11ClO4S
+##CAS REGISTRY NO=3636-65-5
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    45        300
+    75        140
+    77         90
+    87        999
+    91         40
+   103         20
+   105         20
+   111        240
+   112         50
+   113         80
+   114         10
+   127         30
+   129         10
+   135        100
+   139         20
+   159        100
+   161         40
+   175         80
+   177         40
+   262        120
+   264         50

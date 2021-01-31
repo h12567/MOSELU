@@ -1,0 +1,72 @@
+##TITLE=Library Entry 50917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Furfuryl sulfide
+##MOLFORM=C10H10O2S
+##CAS REGISTRY NO=13678-67-6
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=1463
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         46
+    29          8
+    37          4
+    38         11
+    39         34
+    40          1
+    41         14
+    42          4
+    45         84
+    46          4
+    47          4
+    49          2
+    50         25
+    51         52
+    52         32
+    53        221
+    54         13
+    55          2
+    57          3
+    58         17
+    59         18
+    60          1
+    61          1
+    63          1
+    65          1
+    68          5
+    69         27
+    70          2
+    71          1
+    77          1
+    79          4
+    81        999
+    82        112
+    83         12
+    84         13
+    85         70
+    86          4
+    87          3
+    91          3
+    97          8
+    98          1
+   111         14
+   112         38
+   113        232
+   114         16
+   115         11
+   119          1
+   126        159
+   127         12
+   128          7
+   147          2
+   148          6
+   194        298
+   195         35
+   196         16
+   197          1

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 31277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2718
+##NAMES=HP
+##CAS NAME=Ethane, (methylthio)-
+##MOLFORM=C3H8S
+##CAS REGISTRY NO=624-89-5
+##MP= -300
+##BP= -300
+##MW= 76
+##$RETENTION INDEX=619
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          5
+    15         19
+    25          3
+    26         34
+    27        229
+    28         20
+    29        150
+    30          3
+    32          5
+    33          5
+    34          6
+    35        141
+    36          1
+    37          6
+    39          7
+    40          1
+    41         47
+    42          5
+    43          4
+    44         15
+    45        168
+    46         92
+    47        332
+    48        470
+    49         47
+    50         20
+    51          1
+    56          2
+    57         13
+    58         34
+    59         53
+    60         26
+    61        999
+    62         33
+    63         43
+    64          1
+    69          1
+    71          1
+    73          1
+    74          1
+    75         41
+    76        711
+    77         30
+    78         31
+    79          1

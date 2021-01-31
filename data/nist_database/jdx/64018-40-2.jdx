@@ -1,0 +1,39 @@
+##TITLE=Library Entry 73103
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1273(1977);20; A. VASELLA, EIDGENOSSISCHEN
+ TECHNISCHEN HOCHSCHULE, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=5-Isoxazolidinecarboxylic acid, 3,5-dimethyl-, methyl ester, (3R-
+cis)-
+##MOLFORM=C7H13NO3
+##CAS REGISTRY NO=64018-40-2
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        390
+    42        280
+    43        920
+    44         50
+    56        100
+    57         80
+    58        980
+    59        470
+    60        200
+    67         60
+    69        260
+    73        170
+    84        240
+    95         40
+   100        999
+   101        690
+   102         40
+   112         80
+   127         30
+   144        100
+   159        510
+   160         80

@@ -1,0 +1,84 @@
+##TITLE=Library Entry 99511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3039
+##NAMES=HP
+##CAS NAME=Ethanone, 2-bromo-1-(4-methylphenyl)-
+##MOLFORM=C9H9BrO
+##CAS REGISTRY NO=619-41-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          1
+    26          2
+    27         13
+    28          3
+    29          4
+    30          1
+    31         26
+    37          2
+    38          6
+    39         34
+    40          3
+    41         10
+    42          5
+    43          6
+    44          1
+    45         14
+    46          6
+    49          1
+    50         16
+    51         26
+    52          9
+    53          5
+    56          1
+    57          1
+    61          3
+    62         11
+    63         31
+    64          9
+    65         86
+    66          5
+    74          5
+    75          4
+    76          4
+    77         24
+    78          8
+    79         12
+    80          4
+    81          2
+    82          4
+    85          1
+    86          3
+    87          2
+    88          1
+    89         33
+    90         20
+    91        310
+    92         24
+    93          3
+    95          2
+   102          2
+   103         12
+   104          9
+   105         47
+   106          4
+   115          2
+   116          1
+   118          4
+   119        999
+   120         90
+   121          5
+   131          1
+   134          5
+   183          1
+   185          1
+   212         22
+   213          2
+   214         21
+   215          2

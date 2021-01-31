@@ -1,0 +1,66 @@
+##TITLE=Library Entry 15477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3889
+##NAMES=HP
+##CAS NAME=Phenylephrine
+##MOLFORM=C9H13NO2
+##CAS REGISTRY NO=59-42-7
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=1660
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          6
+    17          2
+    18         10
+    27          5
+    28         11
+    29          4
+    30         11
+    38          3
+    39         15
+    40          3
+    41          6
+    42         18
+    43          8
+    44        999
+    45         29
+    50          3
+    51          7
+    52          2
+    53          3
+    55          3
+    62          2
+    63          5
+    64          2
+    65         11
+    66          5
+    67          3
+    74          1
+    77         25
+    78          4
+    79          2
+    91          5
+    93          4
+    94          6
+    95         18
+    96          1
+   104          2
+   105          2
+   106          1
+   107          5
+   108          3
+   119          1
+   120          5
+   121          7
+   122          3
+   123          6
+   124          6
+   133          3
+   148          7
+   149          3
+   167         14
+   168          2

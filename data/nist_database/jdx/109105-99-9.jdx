@@ -1,0 +1,30 @@
+##TITLE=Library Entry 2412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S-T. Lin, Dep. Appl. Chem., Providence Coll., Taichung,
+ Taiwan
+##NAMES=HP
+##CAS NAME=Dodecanoic acid, 2-iodo-
+##MOLFORM=C12H23IO2
+##CAS REGISTRY NO=109105-99-9
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        940
+    55        800
+    83        320
+    87         60
+   111        100
+   115         50
+   139         30
+   143         30
+   163         60
+   171         20
+   181         70
+   199        200
+   326         10

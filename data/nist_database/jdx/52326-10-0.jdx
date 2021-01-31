@@ -1,0 +1,58 @@
+##TITLE=Library Entry 75925
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=2-Methyl-3-(methylthio)-1-propene
+##MOLFORM=C5H10S
+##CAS REGISTRY NO=52326-10-0
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        173
+    28         15
+    29        214
+    32         21
+    38         18
+    39        275
+    40         47
+    41        117
+    43         11
+    45        238
+    46         72
+    47        136
+    48         23
+    49         15
+    50         26
+    51         35
+    52         14
+    53        210
+    54        205
+    55        538
+    56        211
+    57         21
+    58         15
+    59         67
+    60          9
+    61        217
+    62         26
+    63         11
+    67         15
+    69          9
+    71         22
+    74          9
+    85         30
+    86         11
+    87        447
+    88         23
+    89         20
+   101         13
+   102        999
+   103         61
+   104         45

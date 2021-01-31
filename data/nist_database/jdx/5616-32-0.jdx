@@ -1,0 +1,46 @@
+##TITLE=Library Entry 4384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2846
+##NAMES=HP
+##CAS NAME=CH3NHCH2CN
+##MOLFORM=C3H6N2
+##CAS REGISTRY NO=5616-32-0
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    12         13
+    13         13
+    14         32
+    15        284
+    16          6
+    25          1
+    26         97
+    27        667
+    28        209
+    29         12
+    30         33
+    31          6
+    32          4
+    38         37
+    39         51
+    40        161
+    41        213
+    42        999
+    43        499
+    44        127
+    45          3
+    51          1
+    53          9
+    55          8
+    56          1
+    66          1
+    67          6
+    68          4
+    69        189
+    70        115
+    71          4

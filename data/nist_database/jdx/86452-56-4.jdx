@@ -1,0 +1,43 @@
+##TITLE=Library Entry 76606
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.Farina ET AL,Biomed.Mass Spectrom.,10,485,(1983)
+##NAMES=HP
+##CAS NAME=1-[4-(1-Hydroxyethyl)phenyl]-3,3-dimethyltriazene
+##MOLFORM=C10H15N3O
+##CAS REGISTRY NO=86452-56-4
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    75         22
+    76         81
+    77        647
+    78        105
+    79         52
+    80         37
+    88         53
+    90         16
+    91        108
+    92         23
+   100         17
+   102         42
+   103        999
+   104        159
+   105         83
+   106         52
+   107         49
+   110         16
+   115         57
+   120         27
+   121        801
+   122         93
+   131         37
+   149        407
+   175         29
+   178         33
+   193        246
+   194         41

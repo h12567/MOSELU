@@ -1,0 +1,23 @@
+##TITLE=Library Entry 927
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.FORNSTEDT INST. OF PHYS. CHEM., UPPSALA UNIV., SWEDEN
+##NAMES=HP
+##CAS NAME=Nitrosyl chloride
+##MOLFORM=ClNO
+##CAS REGISTRY NO=2696-92-6
+##MP= -300
+##BP= -300
+##MW= 65
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    14         28
+    16         19
+    30        999
+    35        217
+    37         70
+    46          2
+    49         16
+    51          6

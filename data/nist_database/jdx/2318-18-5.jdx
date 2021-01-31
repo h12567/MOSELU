@@ -1,0 +1,50 @@
+##TITLE=Library Entry 12563
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. Roeder, Pharm. Inst., Univ. Bonn, Bonn, W. Ger.
+##NAMES=HP
+##CAS NAME=Renardine
+##MOLFORM=C19H27NO6
+##CAS REGISTRY NO=2318-18-5
+##MP= -300
+##BP= -300
+##MW= 365
+##$RETENTION INDEX=2540
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    43        999
+    44        548
+    58        479
+    70        366
+    82        209
+    94        249
+    96        336
+   100        333
+   110        688
+   112        103
+   123         88
+   124        119
+   125         36
+   128        173
+   136         56
+   140        231
+   149         29
+   150        157
+   151        927
+   166        212
+   167        209
+   168        702
+   169        111
+   184         56
+   221         71
+   222        205
+   249         85
+   250        165
+   254        100
+   266        304
+   278         34
+   294        187
+   321        227
+   337         87
+   365         63

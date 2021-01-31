@@ -1,0 +1,29 @@
+##TITLE=Library Entry 47133
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Propanal, 2-chloro-2-methyl-
+##MOLFORM=C4H7ClO
+##CAS REGISTRY NO=917-93-1
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    36         12
+    48         26
+    49         68
+    70         30
+    76         29
+    77        999
+    78        115
+    79        269
+    80         25
+   105         64
+   106        860
+   107         62
+   108        378
+   109         16

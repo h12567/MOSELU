@@ -1,0 +1,33 @@
+##TITLE=Library Entry 25865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Ditert.-butylphosphinacrylonitryl
+##MOLFORM=C11H20NP
+##CAS REGISTRY NO=77376-95-5
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    29        272
+    41        455
+    43         91
+    55         91
+    56        107
+    57        999
+    58        182
+    71         99
+    85        633
+    86         63
+    97         63
+    99         81
+   111         72
+   126        207
+   141        363
+   142         90
+   197        126
+   198         26

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 84635
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pyrazine, 2,6-dimethyl-
+##MOLFORM=C6H8N2
+##CAS REGISTRY NO=108-50-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=917
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          7
+    15         39
+    16          2
+    25          4
+    26         29
+    27         44
+    28         75
+    29          1
+    32          2
+    36          6
+    37         67
+    38        154
+    39        500
+    40        515
+    41         88
+    42        884
+    43         22
+    44          1
+    48          1
+    49          3
+    50          7
+    51         25
+    52         39
+    53         15
+    54         17
+    55          4
+    62          3
+    63         10
+    64         27
+    65         12
+    66         58
+    67         80
+    68          6
+    69          1
+    74          1
+    75          3
+    76          2
+    77          1
+    78          3
+    79          3
+    80         16
+    81         66
+    82          9
+    93         23
+   105          2
+   108        999
+   109         75
+   110          2

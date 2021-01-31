@@ -1,0 +1,47 @@
+##TITLE=Library Entry 31631
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Bis(trifluoromethylthio)methylarsine
+##MOLFORM=C3H3AsF6S2
+##CAS REGISTRY NO=153650-83-0
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    44         28
+    45         81
+    46         10
+    63        999
+    64         19
+    65         54
+    69        326
+    75         64
+    82         93
+    88        120
+    89        257
+    90        110
+    94         28
+   101         18
+   107        762
+   108         40
+   109        546
+   110          9
+   113         65
+   119         19
+   120         19
+   121         73
+   122         50
+   125         41
+   126         12
+   141         35
+   144         13
+   145         11
+   191        326
+   195         24
+   292        136
+   294          5

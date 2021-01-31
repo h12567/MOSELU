@@ -1,0 +1,38 @@
+##TITLE=Library Entry 32585
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Ethylidenecyclobutane
+##MOLFORM=C6H10
+##CAS REGISTRY NO=1528-21-8
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        270
+    42        115
+    43         45
+    49         10
+    50         60
+    51         95
+    52         70
+    53        250
+    54        790
+    55         65
+    56         15
+    63         15
+    65         55
+    66         25
+    67        999
+    68         50
+    77         20
+    79         50
+    80         10
+    81        120
+    82        545
+    83         36
+    84          1

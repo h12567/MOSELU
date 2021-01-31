@@ -1,0 +1,30 @@
+##TITLE=Library Entry 2639
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane, trifluoro(2-methyl-2-butenyl)-
+##MOLFORM=C5H9F3Si
+##CAS REGISTRY NO=51676-19-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27        390
+    28        130
+    29        709
+    39        475
+    41        999
+    42        260
+    53        200
+    55        899
+    69        609
+    85        170
+   105        130
+   125        150
+   126        110
+   139        450
+   154        559

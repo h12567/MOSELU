@@ -1,0 +1,67 @@
+##TITLE=Library Entry 28938
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N-tert-Octylacrylamide
+##MOLFORM=C11H21NO
+##CAS REGISTRY NO=4223-03-4
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         27
+    17          2
+    18         11
+    27        201
+    29        101
+    30         14
+    39         73
+    41        198
+    42        114
+    43         49
+    44         12
+    45          1
+    51          4
+    52          4
+    53         24
+    54          1
+    55        481
+    56         71
+    57        210
+    58        999
+    59         37
+    65          3
+    66          1
+    67          8
+    68          5
+    69         17
+    70          7
+    71          1
+    72        213
+    73          8
+    77          2
+    79          5
+    80          2
+    81          6
+    82          8
+    83          9
+    84          8
+    85          2
+    95          1
+    97        213
+    98         25
+    99          1
+   110          4
+   112        991
+   113         74
+   114         59
+   115          5
+   126         38
+   127          5
+   128          1
+   168         30
+   169          3

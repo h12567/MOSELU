@@ -1,0 +1,47 @@
+##TITLE=Library Entry 33110
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Spiro[4.4]nonan-2-one
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=34177-18-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    28        230
+    29         80
+    39        240
+    40        100
+    41        310
+    43        130
+    44         30
+    53        160
+    54        220
+    55        210
+    56        280
+    57        310
+    66        130
+    67        999
+    68        310
+    79        160
+    80        450
+    81        480
+    82        390
+    83        290
+    94        200
+    95        620
+    96        480
+    97         60
+   109        910
+   110        130
+   120         20
+   122         40
+   123         30
+   137         20
+   138        750
+   139         80

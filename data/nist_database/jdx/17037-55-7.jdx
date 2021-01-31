@@ -1,0 +1,51 @@
+##TITLE=Library Entry 60931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.G. DAS
+##NAMES=HP
+##CAS NAME=7-Azabicyclo[2.2.1]heptane-2,7-dicarboxylic acid, 3-hydroxy-, 7-b
+enzyl methyl ester, benzoate (ester), endo-2,exo-3-
+##MOLFORM=C23H23NO6
+##CAS REGISTRY NO=17037-55-7
+##MP= -300
+##BP= -300
+##MW= 409
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    64         10
+    65        120
+    66         21
+    67         23
+    68         45
+    69         35
+    76         23
+    77        344
+    78         41
+    79        160
+    80         14
+    82         27
+    89         27
+    90         23
+    91        999
+    92        102
+    93         17
+    94         17
+   105        569
+   106         49
+   107         12
+   122         31
+   131         17
+   152         14
+   158         43
+   159         37
+   172         13
+   203         12
+   208         35
+   260         37
+   274         89
+   275         17
+   318         64
+   319         12
+   409          4

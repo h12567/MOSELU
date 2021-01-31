@@ -1,0 +1,35 @@
+##TITLE=Library Entry 15101
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(methylamino)-
+##MOLFORM=C3H9NO
+##CAS REGISTRY NO=109-83-1
+##MP= -300
+##BP= -300
+##MW= 75
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    15         11
+    18          4
+    26          3
+    27         24
+    28        128
+    29         46
+    30         67
+    31         24
+    32          4
+    40         17
+    41         23
+    42         96
+    43         64
+    44        999
+    45         45
+    54          3
+    55          2
+    56         41
+    74          8
+    75         75

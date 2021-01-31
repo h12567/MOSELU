@@ -1,0 +1,85 @@
+##TITLE=Library Entry 89016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Thiophene-2-carboxylic acid (2-cyano-phenyl)-amide
+##MOLFORM=C12H8N2OS
+##CAS REGISTRY NO=84197-49-9
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    37          0
+    38         13
+    39        147
+    40         32
+    41          4
+    43          1
+    44         22
+    45         15
+    49          0
+    50          6
+    51          7
+    52          4
+    53          5
+    55          1
+    56          0
+    57         14
+    58          5
+    59          1
+    61          0
+    62          7
+    63         14
+    64         13
+    65          3
+    66          1
+    69          7
+    70          2
+    71          4
+    75          5
+    76          5
+    77          5
+    78          1
+    79          1
+    81          7
+    82         15
+    83         78
+    84          9
+    85          3
+    89          4
+    90         24
+    91          5
+   101          1
+   102          7
+   103          0
+   105          1
+   109         18
+   111        999
+   112         64
+   113         48
+   114          2
+   116          1
+   117          7
+   118          4
+   119          1
+   121          1
+   128          3
+   129          2
+   137          1
+   145          1
+   147          0
+   155          3
+   165          3
+   171          1
+   173          0
+   175          1
+   178          1
+   193          0
+   228        292
+   229         43
+   230         15
+   231          2

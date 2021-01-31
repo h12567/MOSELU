@@ -1,0 +1,42 @@
+##TITLE=Library Entry 36446
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Ether, methyl heptafluoroisobutenyl
+##MOLFORM=C5H3F7O
+##CAS REGISTRY NO=360-53-2
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    47         78
+    69        999
+    70          9
+    71         76
+    81         54
+    90         57
+    91         17
+    93        226
+    94         61
+    95         12
+   100        162
+   112         61
+   113         45
+   131         15
+   150         99
+   151          3
+   159        419
+   160         16
+   162         17
+   178        106
+   179          6
+   181         14
+   182          4
+   193        237
+   194         12
+   212        135
+   213          8

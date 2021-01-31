@@ -1,0 +1,41 @@
+##TITLE=Library Entry 38115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY,INST. ORG. CHEM.,UNIV. KARLSRUHE,KARLSRUHE
+,W.GER.
+##NAMES=HP
+##CAS NAME=1-Methyl-2-ethyl-4,4-diphenyl-2-imidazolin-5-one
+##MOLFORM=C18H18N2O
+##CAS REGISTRY NO=94514-24-6
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    42        200
+    51         30
+    70        999
+    71         65
+    77         70
+    82         85
+    83         50
+   118         65
+   132         35
+   139         30
+   146         30
+   147         60
+   164         30
+   165        200
+   166        150
+   173         50
+   180         35
+   192         40
+   206         75
+   221         65
+   249        150
+   250         50
+   263         30
+   278        500
+   279        100

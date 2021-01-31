@@ -1,0 +1,51 @@
+##TITLE=Library Entry 11602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Prednisolone, 11-acetate
+##MOLFORM=C23H30O6
+##CAS REGISTRY NO=104687-90-3
+##MP= -300
+##BP= -300
+##MW= 402
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         50
+    43        999
+    45         46
+    55        100
+    77         39
+    91        239
+    93         39
+   105         46
+   107        104
+   115         39
+   117         47
+   119         40
+   121        696
+   122        652
+   123         42
+   133         54
+   134         55
+   135        161
+   145         91
+   147        307
+   159         44
+   161         68
+   171         49
+   173         46
+   223        125
+   225        247
+   238        124
+   239         40
+   265        339
+   281         78
+   283        430
+   300         55
+   301        189
+   342        284
+   402        198

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 30004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methyl N-chloroacetylcarbamate
+##MOLFORM=C4H6ClNO3
+##CAS REGISTRY NO=13558-70-8
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    12         32
+    13         55
+    15        104
+    16          7
+    17          8
+    18         11
+    25          9
+    26         24
+    27         74
+    28         56
+    29        384
+    30        114
+    31        150
+    32          9
+    35         42
+    36         23
+    37         15
+    38         31
+    39         24
+    40         48
+    41         70
+    42        539
+    43        146
+    44        348
+    45         98
+    46          8
+    47         50
+    48        139
+    49        760
+    50         59
+    51        247
+    52          6
+    54         17
+    55          6
+    56         32
+    57          6
+    58        952
+    59        999
+    60         22
+    63          9
+    64         40
+    65         10
+    66         12
+    70        544
+    71         15
+    72         32
+    73          4
+    74          4
+    75         56
+    76        405
+    77        609
+    78        117
+    79        198
+    80          6
+    85          7
+    89          6
+    93         10
+   102        275
+   103          8
+   107         10
+   108         83
+   109          7
+   110         30
+   116        391
+   117         20
+   119        306
+   120         65
+   121        115
+   122         19
+   151         53
+   152          5
+   153         18

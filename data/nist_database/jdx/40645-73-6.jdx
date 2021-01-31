@@ -1,0 +1,30 @@
+##TITLE=Library Entry 18920
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AJ46-293-3N
+##NAMES=HP
+##CAS NAME=Butanimidamide, N-(1-chloro-2-methyl-1-butenyl)-2-methyl-
+##MOLFORM=C10H19ClN2
+##CAS REGISTRY NO=40645-73-6
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27        350
+    28        380
+    29        589
+    36        209
+    38         70
+    41        430
+    54        460
+    55        999
+    57        519
+    68        490
+    83        400
+    84        330
+   167         30
+   202         20
+   204         10

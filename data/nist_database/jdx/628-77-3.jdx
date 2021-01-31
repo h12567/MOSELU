@@ -1,0 +1,55 @@
+##TITLE=Library Entry 4224
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Pentane, 1,5-diiodo-
+##MOLFORM=C5H10I2
+##CAS REGISTRY NO=628-77-3
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15          8
+    26         48
+    27        214
+    29         46
+    37         23
+    38         60
+    39        466
+    40         67
+    41        999
+    42        144
+    43         15
+    50         18
+    51         24
+    52          7
+    53         59
+    55         48
+    62          8
+    63         11
+    65         13
+    67         46
+    68          5
+    69        842
+    70         67
+    77          3
+   105          2
+   127        456
+   128        168
+   129          8
+   139          5
+   140          6
+   141        101
+   153          6
+   154          9
+   155        677
+   156         16
+   167          4
+   169         86
+   197        986
+   198         56
+   324         71

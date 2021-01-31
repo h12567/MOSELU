@@ -1,0 +1,53 @@
+##TITLE=Library Entry 49298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT;99(1)223(1977); D.H. AUE, UNIV. OF CALIFORNIA, U
+SA
+##NAMES=HP
+##CAS NAME=Dicyclopropa[cd,gh]pentalene, octahydro-1-(2-methyl-2-propenylide
+ne)-
+##MOLFORM=C12H14
+##CAS REGISTRY NO=62025-04-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27        180
+    28        260
+    39        340
+    41        120
+    50         80
+    51        240
+    52         80
+    53         90
+    63        130
+    64         50
+    65        160
+    66        110
+    77        420
+    78        160
+    79        999
+    80        420
+    89         50
+    91        340
+    92        110
+    93         80
+   103         70
+   115        420
+   116        130
+   117        160
+   127        130
+   128        610
+   129        340
+   130        120
+   131        120
+   141        130
+   142        120
+   143        790
+   144         80
+   157        110
+   158        340
+   159         40

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 35086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,1-dimethyl-2-propyl-
+##MOLFORM=C11H22
+##CAS REGISTRY NO=81983-71-3
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        180
+    29        260
+    30         10
+    39        150
+    41        770
+    42        130
+    43        410
+    51         10
+    53         80
+    54         30
+    55        740
+    56        840
+    57        300
+    58         10
+    65         20
+    66         10
+    67         80
+    68         60
+    69        999
+    70        450
+    71        100
+    72         10
+    77         20
+    78         10
+    79         20
+    81         50
+    82         20
+    83        350
+    84        430
+    85        100
+    86         10
+    91         10
+    93         10
+    95         20
+    96         10
+    97        110
+    98         70
+    99         10
+   107         10
+   109         10
+   110         10
+   111        100
+   112         20
+   125         40
+   126         10
+   139        130
+   140         10
+   154        120
+   155         10

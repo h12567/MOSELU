@@ -1,0 +1,29 @@
+##TITLE=Library Entry 5202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4-Imidazolidinedione, 3,5,5-trimethyl-
+##MOLFORM=C6H10N2O2
+##CAS REGISTRY NO=6345-19-3
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41         90
+    42        999
+    43         50
+    56         30
+    57        280
+    58         80
+    70         20
+    84         40
+    99         20
+   114         40
+   127        940
+   128         70
+   142        240
+   143         30

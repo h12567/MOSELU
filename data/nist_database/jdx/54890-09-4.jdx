@@ -1,0 +1,63 @@
+##TITLE=Library Entry 42876
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MO-80
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 3-methyl-2-[(trimethylsilyl)oxy]-, trimethylsilyl
+ ester
+##MOLFORM=C12H28O3Si2
+##CAS REGISTRY NO=54890-09-4
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=1253
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         14
+    18         35
+    27         17
+    28        140
+    29         32
+    32         24
+    39         14
+    41         55
+    43         33
+    44         35
+    45        145
+    46         12
+    47         29
+    55         17
+    57         22
+    58         14
+    59         53
+    61         17
+    66         18
+    69        174
+    70         15
+    72         23
+    73        999
+    74         90
+    75        158
+    76         12
+   103        193
+   104         20
+   105         12
+   115         14
+   117         76
+   131         23
+   133         57
+   143         19
+   147        427
+   148         70
+   149         50
+   159        907
+   160        130
+   161         43
+   171         10
+   190         20
+   191         11
+   233         53
+   234         13
+   261         41
+   262         11

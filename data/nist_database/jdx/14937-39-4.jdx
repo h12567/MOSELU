@@ -1,0 +1,57 @@
+##TITLE=Library Entry 15790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Bis(dimethylamino)methylphosphine
+##MOLFORM=C5H15N2P
+##CAS REGISTRY NO=14937-39-4
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15        147
+    27         36
+    28        179
+    30         79
+    33          4
+    39          3
+    40         29
+    41         54
+    42        629
+    43        129
+    44        999
+    45        299
+    46         36
+    47         89
+    48          2
+    49          2
+    57          6
+    58         73
+    59         36
+    61         36
+    62         59
+    63        229
+    67         17
+    72          3
+    73          4
+    74         73
+    75         29
+    76        999
+    77         14
+    88          6
+    89        109
+    90        949
+    91         64
+    92         32
+   106         74
+   107         17
+   119        779
+   120         44
+   122          6
+   123          3
+   134         44
+   135          3

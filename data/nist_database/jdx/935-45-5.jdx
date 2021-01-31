@@ -1,0 +1,32 @@
+##TITLE=Library Entry 74104
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3-Dioxolane, 2-ethyl-2-isobutyl-
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=935-45-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        215
+    42         66
+    43        342
+    45         48
+    48         76
+    55        121
+    56         20
+    57        876
+    58         20
+    99        106
+   101        999
+   102         80
+   103         34
+   113         80
+   114         14
+   129        733
+   130         90

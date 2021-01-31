@@ -1,0 +1,63 @@
+##TITLE=Library Entry 62311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, (2-methyl-3-butenyl)-
+##MOLFORM=C11H14
+##CAS REGISTRY NO=1647-06-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26          6
+    27         41
+    28         22
+    29         25
+    32          4
+    38          9
+    39         86
+    40          8
+    41         23
+    50         22
+    51         49
+    52         12
+    53         18
+    54          6
+    55         64
+    62         10
+    63         36
+    64         16
+    65        136
+    66          8
+    67          4
+    68          3
+    74          6
+    75          6
+    76          7
+    77         30
+    78         15
+    79          4
+    89         28
+    91        999
+    92        121
+    93          6
+   102          8
+   103         11
+   104         42
+   105          7
+   115         34
+   116         12
+   117         39
+   118         15
+   127          7
+   128         18
+   129         14
+   130          5
+   131         44
+   132          4
+   146        146
+   147         16

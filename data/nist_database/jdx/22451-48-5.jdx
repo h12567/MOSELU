@@ -1,0 +1,66 @@
+##TITLE=Library Entry 66127
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Swigar, R.Silverstein, Monoterpenes,1981
+##NAMES=HP
+##CAS NAME=trans-Shisool
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=22451-48-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1248
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    31        109
+    39        251
+    40         74
+    41        534
+    42         74
+    43        194
+    51         55
+    52         38
+    53        206
+    54        115
+    55        415
+    56         72
+    57        106
+    65         74
+    66         85
+    67        674
+    68        279
+    69        240
+    70         77
+    71         45
+    77        142
+    78         55
+    79        808
+    80        245
+    81        515
+    82        217
+    83         89
+    84         38
+    91        164
+    92         83
+    93        999
+    94        245
+    95        232
+    96         36
+    97         36
+   105         87
+   106         34
+   107        543
+   108        336
+   109         68
+   110         34
+   111         68
+   120          5
+   121        706
+   122         92
+   123        138
+   124         34
+   136        262
+   137         45
+   154        289
+   155         47

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 69383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 1,2-dimethyl-
+##MOLFORM=C5H8N2
+##CAS REGISTRY NO=1739-84-0
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=1006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          4
+    15         53
+    16          0
+    25          3
+    26         45
+    27         70
+    28        166
+    29         17
+    30          3
+    35          0
+    36          3
+    37          9
+    38         22
+    39         38
+    40        140
+    41         91
+    42        327
+    43         24
+    44          1
+    47         16
+    48          1
+    50          2
+    51         25
+    52         73
+    53         33
+    54        330
+    55        140
+    56         21
+    57          0
+    62          0
+    63          1
+    64          3
+    65          2
+    66          7
+    67         10
+    68         69
+    69         13
+    70          0
+    77          1
+    78          2
+    79          7
+    80          4
+    81        130
+    82          6
+    93          6
+    95        562
+    96        999
+    97         64
+    98          2

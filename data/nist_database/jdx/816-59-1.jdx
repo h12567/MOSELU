@@ -1,0 +1,65 @@
+##TITLE=Library Entry 3100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=L-Glutamic acid, N-(trifluoroacetyl)-, dibutyl ester
+##MOLFORM=C15H24F3NO5
+##CAS REGISTRY NO=816-59-1
+##MP= -300
+##BP= -300
+##MW= 355
+##$RETENTION INDEX=1807
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        153
+    40         26
+    41        999
+    42         85
+    43        146
+    44         22
+    45          6
+    51         11
+    54         31
+    55        174
+    56        267
+    57        544
+    58         18
+    60         23
+    61         11
+    69        131
+    70         42
+    73         40
+    74         13
+    77         40
+    78          7
+    82         18
+    84         83
+    85        196
+    86         22
+   110          6
+   113          7
+   116         15
+   119         10
+   129          5
+   131         18
+   132          7
+   138          7
+   139         48
+   140         11
+   152        261
+   153         35
+   169         13
+   171         13
+   180        286
+   181         41
+   198        208
+   199         22
+   207         39
+   225         18
+   226         20
+   254         85
+   255         14
+   282         16

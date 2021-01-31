@@ -1,0 +1,28 @@
+##TITLE=Library Entry 30655
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. JAKOBSEN, MED.-KEM. INSTITUTE, COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=N(2),N(2)-Dimethyl-N(1)-tosylformohydrazide cyclohexylimide
+##MOLFORM=C16H25N3O2S
+##CAS REGISTRY NO=69282-61-7
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    55        160
+    59        999
+    65        160
+    91        300
+    98        390
+   110        140
+   125         90
+   139        100
+   155        140
+   168        730
+   169        200
+   281        100
+   323         50

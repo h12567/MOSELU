@@ -1,0 +1,60 @@
+##TITLE=Library Entry 65822
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.VON BUNAU MAX-PLANCK-INST., MULHEIM-RHUR, GERMANY, FR
+G
+##NAMES=HP
+##CAS NAME=4-Carene, (1S,3S,6R)-(-)-
+##MOLFORM=C10H16
+##CAS REGISTRY NO=5208-50-4
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         19
+    27        128
+    28         19
+    29         65
+    38         19
+    39        196
+    40         38
+    41        205
+    42         16
+    43        477
+    50         29
+    51         79
+    52         38
+    53         84
+    54         19
+    55         48
+    59         16
+    63         36
+    65         77
+    66         26
+    67         58
+    68         26
+    75         16
+    77        244
+    78         53
+    79        358
+    80         58
+    81         26
+    89         36
+    90         26
+    91        355
+    92        346
+    93        999
+    94        104
+    95         16
+   103         16
+   105         84
+   106         24
+   107         72
+   119         24
+   121        181
+   122         26
+   136        125
+   137         24

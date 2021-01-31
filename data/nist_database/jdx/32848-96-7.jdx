@@ -1,0 +1,43 @@
+##TITLE=Library Entry 10687
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Xylofuranose, 1,2:3,5-di-O-isopropylidene-4-thio-, .alpha.-D-
+##MOLFORM=C11H18O4S
+##CAS REGISTRY NO=32848-96-7
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        150
+    42         50
+    43        999
+    44        150
+    45        180
+    55        180
+    57         80
+    58         60
+    59        629
+    60         80
+    69         50
+    71         80
+    72        130
+    73         90
+    74         50
+    85        499
+    88        130
+   100        999
+   101        200
+   113         90
+   129        380
+   130         50
+   131         90
+   158        190
+   173        130
+   188         40
+   231        240
+   246        240

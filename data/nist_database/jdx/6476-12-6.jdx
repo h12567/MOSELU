@@ -1,0 +1,47 @@
+##TITLE=Library Entry 81821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanone, phenyl[3-phenyl-1-(phenylmethyl)-2-aziridinyl]-, trans
+-
+##MOLFORM=C22H19NO
+##CAS REGISTRY NO=6476-12-6
+##MP= -300
+##BP= -300
+##MW= 313
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    51         57
+    65         59
+    77        327
+    78         32
+    89         72
+    90         76
+    91        284
+    92         28
+   104         65
+   105        999
+   106         85
+   107          6
+   117         39
+   118         21
+   152         23
+   165         45
+   166         22
+   167        209
+   168         36
+   206         23
+   208         36
+   221         61
+   222        471
+   223         81
+   236         13
+   296         10
+   297          9
+   312         26
+   313        294
+   314         65
+   315          9

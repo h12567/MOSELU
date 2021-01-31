@@ -1,0 +1,67 @@
+##TITLE=Library Entry 62592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Bromo-1-(toluene-4-sulfonyl)-1H-indole
+##MOLFORM=C15H12BrNO2S
+##CAS REGISTRY NO=90481-72-4
+##MP= -300
+##BP= -300
+##MW= 349
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    38         16
+    39         75
+    40          9
+    41         29
+    50         24
+    51         36
+    52         13
+    61         12
+    62         93
+    63         81
+    64         27
+    65        186
+    66          9
+    74         10
+    75         13
+    76          6
+    77          9
+    78          5
+    86          9
+    87         34
+    88         81
+    89         68
+    90         31
+    91        999
+    92         60
+   114         51
+   115        254
+   116         34
+   139         29
+   140          2
+   155        415
+   156         31
+   157         15
+   167          7
+   169          6
+   178          6
+   179          6
+   190          4
+   191          7
+   194        124
+   195         17
+   196        122
+   197         17
+   204         14
+   205          6
+   206          5
+   270          3
+   349        238
+   350         41
+   351        242
+   352         41
+   353         13

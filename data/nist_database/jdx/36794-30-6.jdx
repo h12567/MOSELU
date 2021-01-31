@@ -1,0 +1,35 @@
+##TITLE=Library Entry 84164
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. E. SMITH
+##NAMES=HP
+##CAS NAME=Mercury, chloro[(17.beta.)-17-hydroxy-3-oxoandrosta-1,4,6-trien-2
+-yl]-
+##MOLFORM=C19H23ClHgO2
+##CAS REGISTRY NO=36794-30-6
+##MP= -300
+##BP= -300
+##MW= 520
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+   107        999
+   121        370
+   128        460
+   129        320
+   133        810
+   134        590
+   145        380
+   149        380
+   150        310
+   151        810
+   158        300
+   159        330
+   171        790
+   202        370
+   283        490
+   284        480
+   370         90
+   485        140
+   520         70

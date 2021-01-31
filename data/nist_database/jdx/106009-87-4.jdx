@@ -1,0 +1,57 @@
+##TITLE=Library Entry 12917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Willuhn, Inst. Pharm. Biol., Univ. Dusseldorf, Dusse
+ldorf, Germany
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-, 3-(acetyloxy)-2-hydroxy-2-(2-hydroxy-4
+-methylphenyl)propyl ester
+##MOLFORM=C16H22O6
+##CAS REGISTRY NO=106009-87-4
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        160
+    43        999
+    45        180
+    51         30
+    57         60
+    60         90
+    61        140
+    65         40
+    70        120
+    71        850
+    73        140
+    77        150
+    79         80
+    88        110
+    91        110
+   101         70
+   103         50
+   105        240
+   115         60
+   119         50
+   121        220
+   129         50
+   133        220
+   134         80
+   135        280
+   145        160
+   149        660
+   150         90
+   161        170
+   162        500
+   163        110
+   167        860
+   168         80
+   209        360
+   222         10
+   237        280
+   252         50
+   292         40
+   310        120
+   311         21

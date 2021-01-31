@@ -1,0 +1,49 @@
+##TITLE=Library Entry 32316
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,4-Pentadiene, 2-methyl-
+##MOLFORM=C6H10
+##CAS REGISTRY NO=763-30-4
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=559
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15         28
+    26         31
+    27        153
+    28          8
+    29         39
+    37         32
+    38         76
+    39        520
+    40         98
+    41        406
+    42         60
+    43         12
+    49          7
+    50         48
+    51         60
+    52         27
+    53        111
+    54        107
+    55         42
+    56         17
+    61          7
+    62         14
+    63         21
+    64          7
+    65        126
+    66          7
+    67        999
+    68         52
+    74          5
+    77         26
+    79         63
+    81         75
+    82         79
+    83          5

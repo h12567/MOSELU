@@ -1,0 +1,72 @@
+##TITLE=Library Entry 81940
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.GOLDBERG CHEM. PATH., NAT. HOSP., QUEEN SQ., LONDON,
+ UK
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-(N-benzoyl-1-naphthalenylamino)-
+##MOLFORM=C24H17NO3
+##CAS REGISTRY NO=50495-83-5
+##MP= -300
+##BP= -300
+##MW= 367
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    50        100
+    51        170
+    52         50
+    55         30
+    56         20
+    57         30
+    63         30
+    64         20
+    65         50
+    66         20
+    69         30
+    73         20
+    74         50
+    75         50
+    76         50
+    77        550
+    78         70
+    83        100
+    85         70
+    86         20
+    94         30
+   101         20
+   104         20
+   105        999
+   106        100
+   115         30
+   122        430
+   123         50
+   126         20
+   127         30
+   137         20
+   144         20
+   180        100
+   181         20
+   189         30
+   190         20
+   214         30
+   215         30
+   216         80
+   217        100
+   218         30
+   219         20
+   224         50
+   230         10
+   244         20
+   245        600
+   246        130
+   247         30
+   252         20
+   263        100
+   264         30
+   322         50
+   323         70
+   324         20
+   367         50
+   368         10

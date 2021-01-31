@@ -1,0 +1,57 @@
+##TITLE=Library Entry 4903
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Pyrrolidinylacetonitrile
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=29134-29-0
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    12         14
+    13         11
+    14         28
+    15         89
+    16          1
+    25         13
+    26         80
+    27        223
+    28        274
+    30         27
+    35          4
+    37         22
+    38         67
+    39        280
+    40        297
+    41        406
+    42        999
+    43        126
+    50         13
+    51         22
+    52         33
+    53         51
+    54         74
+    55        102
+    56         21
+    57         75
+    64          6
+    65          7
+    67        214
+    68         60
+    69         52
+    70         26
+    78          4
+    79          3
+    80         28
+    82        452
+    83         39
+    84         47
+   107         11
+   109        378
+   110        218
+   111         13

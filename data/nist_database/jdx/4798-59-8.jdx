@@ -1,0 +1,67 @@
+##TITLE=Library Entry 38308
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Hepten-4-ol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=4798-59-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         23
+    17          5
+    18         13
+    26         18
+    27        195
+    28         35
+    29        111
+    30          6
+    31         47
+    32          2
+    37          8
+    38         23
+    39        196
+    40         44
+    41        314
+    42         44
+    43        392
+    44         25
+    45         12
+    50         13
+    51         25
+    53        143
+    54         52
+    55         95
+    56          9
+    57        101
+    58         28
+    62          4
+    63          6
+    65         18
+    66          9
+    67         54
+    68         17
+    69         50
+    70          4
+    71        999
+    72         50
+    73          6
+    77         15
+    79         39
+    81         95
+    82          6
+    85         11
+    86         75
+    87          3
+    95          5
+    96         38
+    97          6
+    98          3
+    99         77
+   100          5
+   114         20

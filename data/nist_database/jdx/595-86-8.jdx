@@ -1,0 +1,30 @@
+##TITLE=Library Entry 17849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T.LARKINS U.S. DEPT. OF COMMERCE, WASHINGTON, D.C., U
+SA
+##NAMES=HP
+##CAS NAME=Ethane, 1,1,1-trinitro-
+##MOLFORM=C2H3N3O6
+##CAS REGISTRY NO=595-86-8
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    15          7
+    16        308
+    25         10
+    26         43
+    27         59
+    30         15
+    38          3
+    39          3
+    40          3
+    41         10
+    42         57
+    46        999
+    73         64
+   119        163

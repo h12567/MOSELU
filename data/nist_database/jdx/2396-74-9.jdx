@@ -1,0 +1,30 @@
+##TITLE=Library Entry 9066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran-2,3-diol, tetrahydro-, diacetate, cis-
+##MOLFORM=C9H14O5
+##CAS REGISTRY NO=2396-74-9
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         30
+    43        999
+    44         40
+    55         20
+    71        290
+    72         20
+    83         10
+    84         10
+    86         10
+   100         60
+   101         20
+   131         20
+   143         70

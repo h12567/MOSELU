@@ -1,0 +1,90 @@
+##TITLE=Library Entry 1352
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8103
+##NAMES=HP
+##CAS NAME=Undecanoic acid, 11-amino-
+##MOLFORM=C11H23NO2
+##CAS REGISTRY NO=2432-99-7
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          1
+    17          2
+    18          7
+    27         21
+    28          7
+    29         31
+    30        999
+    31         24
+    32          2
+    39         17
+    40          3
+    41         80
+    42         21
+    43         35
+    44        104
+    45        133
+    46          4
+    53          7
+    54          6
+    55         72
+    56         28
+    57          9
+    58         10
+    59         46
+    60         20
+    61          1
+    65          1
+    67          9
+    68          6
+    69         36
+    70          8
+    71          3
+    72         30
+    73         29
+    74          2
+    77          1
+    79          2
+    80          1
+    81          9
+    82          5
+    83         12
+    84          7
+    85          1
+    86         69
+    87         15
+    93          1
+    94          1
+    95          4
+    96          4
+    97          4
+    98          4
+   100         35
+   101          5
+   109          1
+   110          1
+   111          1
+   112          2
+   114         18
+   115          4
+   122          1
+   123          1
+   124          2
+   128         12
+   129         14
+   130          1
+   142        151
+   143         15
+   156          4
+   157          2
+   182          5
+   184          3
+   200          3
+   201          9
+   202         17
+   203          2

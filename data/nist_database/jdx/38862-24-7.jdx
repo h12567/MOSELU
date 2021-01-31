@@ -1,0 +1,61 @@
+##TITLE=Library Entry 18831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-[(1-Oxo-2-propenyl)oxy]-2,5-pyrrolidinedione
+##MOLFORM=C7H7NO4
+##CAS REGISTRY NO=38862-24-7
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          2
+    15          4
+    18          2
+    25          3
+    26         33
+    27        168
+    28         84
+    29          4
+    30          5
+    31          1
+    32          1
+    37          1
+    38          1
+    39          2
+    40          1
+    41          2
+    42         24
+    43          6
+    44          3
+    45          1
+    51          1
+    52          1
+    53          6
+    54          6
+    55        999
+    56         76
+    57          6
+    59          2
+    69          1
+    70         27
+    71          1
+    72          1
+    80          1
+    82          1
+    84          4
+    87         16
+    88          1
+    97          1
+    98          2
+    99          3
+   114          1
+   115          2
+   116          1
+   169          7
+   170          1

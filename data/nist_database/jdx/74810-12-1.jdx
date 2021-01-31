@@ -1,0 +1,42 @@
+##TITLE=Library Entry 82111
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=[1,2]Dithiolo[1,5-b][1,2]oxathiole-7-Siv, 2,4-diphenyl-
+##MOLFORM=C17H12OS2
+##CAS REGISTRY NO=74810-12-1
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    50         20
+    51         94
+    69         20
+    77        443
+    78         35
+    85         19
+   105        999
+   106         73
+   115         36
+   147         57
+   158         41
+   190         76
+   191        141
+   192         23
+   219        260
+   220         33
+   221         24
+   231         41
+   234         23
+   263         31
+   279        219
+   280         39
+   281         21
+   295         24
+   296        631
+   297        151
+   298         69

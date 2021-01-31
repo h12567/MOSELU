@@ -1,0 +1,29 @@
+##TITLE=Library Entry 84613
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.J. MACLEOD, DEP. CHEM., QUEEN ELIZ. COLL., UNIV. LOND
+ON, U
+##NAMES=HP
+##CAS NAME=Pyrimidine, 2,4-dimethyl-
+##MOLFORM=C6H8N2
+##CAS REGISTRY NO=14331-54-5
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        740
+    40        840
+    41        700
+    42        460
+    51        250
+    52        270
+    66        180
+    67        570
+    81        110
+    93        250
+   107        150
+   108        999
+   109         90

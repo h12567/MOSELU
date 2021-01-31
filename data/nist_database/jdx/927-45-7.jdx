@@ -1,0 +1,52 @@
+##TITLE=Library Entry 21090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=7-Tridecanol
+##MOLFORM=C13H28O
+##CAS REGISTRY NO=927-45-7
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=1568
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        140
+    28         73
+    29        242
+    30         10
+    31         40
+    39         80
+    41        365
+    42         75
+    43        395
+    44         92
+    45         30
+    53         28
+    55        999
+    56         86
+    57        153
+    58         40
+    59         20
+    67         38
+    68         46
+    69        225
+    70         72
+    71         50
+    72         15
+    81         35
+    82         12
+    83         31
+    84         17
+    85         33
+    86         14
+    95          9
+    97        981
+    98         78
+   111         15
+   113         34
+   115        308
+   116         23
+   182         25

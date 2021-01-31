@@ -1,0 +1,44 @@
+##TITLE=Library Entry 30058
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,1-Dimethyl-2-[2-methyl-1-(methoxycarbonyl)prop-2-yl]hydrazine
+##MOLFORM=C8H18N2O2
+##CAS REGISTRY NO=97812-29-8
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28         41
+    29         21
+    42         72
+    43         71
+    44        152
+    45        172
+    46         23
+    55         53
+    56         32
+    57         23
+    58        123
+    59        999
+    60        811
+    61         82
+    62         12
+    73         92
+    74         14
+    83         21
+    84         22
+    85         29
+    86         84
+    87         19
+   101        231
+   102         24
+   143         39
+   144         21
+   159        292
+   160         32
+   161         12

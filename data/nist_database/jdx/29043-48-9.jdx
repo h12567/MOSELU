@@ -1,0 +1,61 @@
+##TITLE=Library Entry 18276
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Benzimidazol-5-amine, 2-methyl-
+##MOLFORM=C8H9N3
+##CAS REGISTRY NO=29043-48-9
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    39        360
+    40         41
+    41        517
+    42        715
+    43        113
+    44        187
+    45         31
+    50        202
+    51        362
+    52        999
+    53        296
+    54        113
+    55         33
+    57         35
+    61         36
+    62         93
+    63        122
+    64        135
+    65        133
+    66        213
+    67        131
+    68          8
+    75         82
+    76        118
+    77        157
+    78        300
+    79        314
+    80         63
+    83         11
+    89         17
+    90         41
+    91         62
+    92         72
+    93         17
+   104         20
+   105        251
+   106         79
+   107         13
+   117         23
+   119         85
+   120          8
+   132         26
+   133          9
+   146        334
+   147        550
+   148         63

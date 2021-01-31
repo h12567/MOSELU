@@ -1,0 +1,26 @@
+##TITLE=Library Entry 97223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA
+##NAMES=HP
+##CAS NAME=3,6-Di-m-tolyl-1,2,4,5-tetrazine
+##MOLFORM=C16H14N4
+##CAS REGISTRY NO=58884-41-6
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39         40
+    63         40
+    89        130
+    90        250
+    91         50
+   116        210
+   117        999
+   118        170
+   262        160
+   263         40
+   264         30

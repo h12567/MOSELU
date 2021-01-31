@@ -1,0 +1,25 @@
+##TITLE=Library Entry 2273
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.G.GILLIS AUST SCI SERVICE, ASCOT VALE, VIC., AUSTRALI
+A
+##NAMES=HP
+##CAS NAME=Methyl isocyanide
+##MOLFORM=C2H3N
+##CAS REGISTRY NO=593-75-9
+##MP= -300
+##BP= -300
+##MW= 41
+##$RETENTION INDEX=1006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    15         80
+    26         20
+    27         40
+    28         80
+    38        130
+    39        200
+    40        490
+    41        999
+    42         30

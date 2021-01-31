@@ -1,0 +1,33 @@
+##TITLE=Library Entry 40977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,2-Benzenedicarboperoxoic acid, bis(1,1-dimethylethyl) ester
+##MOLFORM=C16H22O6
+##CAS REGISTRY NO=2155-71-7
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    43        461
+    57        582
+    73        999
+    74        248
+    75         30
+    93         30
+   104        269
+   105         39
+   121         40
+   132          9
+   146         59
+   148         60
+   149        268
+   150         29
+   163         20
+   165         29
+   205         29
+   223         10

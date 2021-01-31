@@ -1,0 +1,84 @@
+##TITLE=Library Entry 60975
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2-Iodophenyl-.beta.-phenylpropionate
+##MOLFORM=C15H13IO2
+##CAS REGISTRY NO=40123-40-8
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    41         15
+    42          5
+    43          0
+    45          1
+    49          1
+    50         48
+    51         92
+    52         22
+    53         19
+    54          2
+    55         15
+    61          4
+    62         23
+    63        131
+    64        120
+    65        139
+    66         10
+    74         11
+    75         12
+    76         33
+    77        181
+    78         78
+    79        116
+    80          5
+    89         21
+    91        999
+    92        174
+    93         23
+    94          4
+   101          1
+   102         16
+   103        111
+   104        153
+   105        959
+   106         79
+   107          3
+   115          2
+   120          0
+   121          4
+   127          4
+   129          1
+   131         81
+   132        132
+   133        711
+   134         66
+   135          3
+   141          1
+   150         11
+   151          0
+   152          2
+   153          2
+   154          0
+   155          0
+   164          0
+   165          7
+   167          1
+   178          0
+   181          5
+   182          0
+   191         26
+   203          6
+   217          0
+   220        437
+   221         23
+   223          1
+   225          6
+   237          1
+   352         47
+   353          6

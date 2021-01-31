@@ -1,0 +1,83 @@
+##TITLE=Library Entry 45509
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzene, (3,3-dimethoxypropyl)-
+##MOLFORM=C11H16O2
+##CAS REGISTRY NO=30076-98-3
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         26
+    29          3
+    30          3
+    31         46
+    34          1
+    38          3
+    39         40
+    41         20
+    42          4
+    43         25
+    44          2
+    45         27
+    47        113
+    50         14
+    51         44
+    52         12
+    53          9
+    55         13
+    56          3
+    57          9
+    58         37
+    59          4
+    61          2
+    62          7
+    63         22
+    64          7
+    65         83
+    66          7
+    71         15
+    72          4
+    74          5
+    75        999
+    76         40
+    77         65
+    78         29
+    79         22
+    80          3
+    87          2
+    88          5
+    89         27
+    90         14
+    91        599
+    92         71
+    93          3
+   101          2
+   102         27
+   103         31
+   104         15
+   105         50
+   106          5
+   115         41
+   116         60
+   117        179
+   118         30
+   119          6
+   121         22
+   122          2
+   131          9
+   132          2
+   133         23
+   134          4
+   147         48
+   148        333
+   149         96
+   150          5
+   179          6
+   180          6

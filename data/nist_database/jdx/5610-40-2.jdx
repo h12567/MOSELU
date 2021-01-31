@@ -1,0 +1,51 @@
+##TITLE=Library Entry 53984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Securinine
+##MOLFORM=C13H15NO2
+##CAS REGISTRY NO=5610-40-2
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    38          5
+    39        100
+    40         13
+    41        136
+    42         47
+    50         49
+    51         92
+    52         84
+    53         39
+    54         87
+    55        205
+    56        115
+    63         25
+    65         28
+    66          3
+    67         14
+    68          5
+    77        163
+    78        581
+    79         40
+    80         11
+    82         26
+    84        999
+    85         46
+    89          7
+    90          3
+    91         11
+   106        422
+   107         24
+   117          7
+   118          8
+   120          4
+   132          4
+   134         89
+   217        134
+   218         11

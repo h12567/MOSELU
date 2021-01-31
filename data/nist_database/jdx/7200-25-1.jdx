@@ -1,0 +1,42 @@
+##TITLE=Library Entry 6577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=DL-Arginine
+##MOLFORM=C6H14N4O2
+##CAS REGISTRY NO=7200-25-1
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        375
+    42        752
+    43        999
+    44        522
+    45        136
+    54         99
+    55         37
+    56        502
+    57        155
+    58        231
+    59        119
+    68        171
+    69        467
+    70        578
+    75         80
+    84         60
+    85         94
+    86         87
+    87        130
+    97         29
+    99         76
+   110         29
+   111         93
+   112        125
+   114         65
+   137         66
+   138         65

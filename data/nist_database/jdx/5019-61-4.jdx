@@ -1,0 +1,42 @@
+##TITLE=Library Entry 13228
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 1-acetyl-3-(5-nitro-2-furanyl)-
+##MOLFORM=C8H6N4O4
+##CAS REGISTRY NO=5019-61-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41         33
+    42        100
+    43        999
+    44         50
+    50        129
+    51         91
+    52         62
+    53         41
+    76         66
+    77         75
+    78         83
+    79         95
+    80         41
+    95         58
+    96        170
+   105         41
+   106        158
+   122        125
+   148         50
+   149         25
+   150        200
+   151         33
+   180        999
+   181        112
+   182         25
+   222        158
+   223         33

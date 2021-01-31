@@ -1,0 +1,63 @@
+##TITLE=Library Entry 86297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Acetyl-5-methylfuran
+##MOLFORM=C7H8O2
+##CAS REGISTRY NO=1193-79-9
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1039
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14         11
+    15         51
+    25          2
+    26         24
+    27        108
+    28          6
+    29          7
+    31          1
+    36          1
+    37         12
+    38         21
+    39         37
+    40          3
+    41         12
+    42         23
+    43        191
+    44          4
+    49          8
+    50         55
+    51         74
+    52         55
+    53        237
+    54         26
+    55          4
+    61          3
+    62          5
+    63          5
+    64          1
+    65          5
+    66          3
+    67          2
+    69          1
+    77          2
+    79          8
+    80          6
+    81         56
+    82          5
+    83          1
+    94          2
+    95         10
+   109        999
+   110         62
+   111          6
+   124        404
+   125         31
+   126          2

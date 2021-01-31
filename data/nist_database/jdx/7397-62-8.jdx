@@ -1,0 +1,67 @@
+##TITLE=Library Entry 23577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2012
+##NAMES=HP
+##CAS NAME=Butyl glycolate
+##MOLFORM=C6H12O3
+##CAS REGISTRY NO=7397-62-8
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          4
+    18          1
+    19          2
+    26         12
+    27        103
+    28         52
+    29        407
+    30         25
+    31        405
+    32          7
+    33          4
+    36          1
+    37          2
+    38          7
+    39        107
+    40         18
+    41        661
+    42         72
+    43         79
+    44         17
+    45         33
+    46          2
+    47          1
+    49         49
+    50          5
+    51          6
+    52          2
+    53         14
+    54          6
+    55        131
+    56        518
+    57        999
+    58         55
+    59         17
+    61        214
+    62          5
+    63          1
+    69          1
+    70          1
+    71         23
+    72          3
+    73         12
+    74          3
+    75          2
+    76          7
+    77         71
+    78          2
+    79          1
+    83          1
+   101          4
+   103          5

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 31783
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Difluoroaminofluoroaminodifluoromethane
+##MOLFORM=CHF5N2
+##CAS REGISTRY NO=37931-37-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    31        182
+    32          2
+    46        304
+    47          4
+    50        132
+    51          2
+    52        102
+    64        999
+    65        302
+    66          4
+    69        504
+    70          6
+    84        990
+    85         12
+    98         72
+    99          1
+   116         22
+   117          1

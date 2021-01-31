@@ -1,0 +1,32 @@
+##TITLE=Library Entry 79997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N. E. ALEXANDROU, UNIV. OF THESSALONIKI, GREECE
+##NAMES=HP
+##CAS NAME=Benzoic acid, anhydride with N-(4,5-dimethyl-1H-1,2,3-triazol-1-y
+l)benzenecarboximidic acid
+##MOLFORM=C18H16N4O2
+##CAS REGISTRY NO=19226-31-4
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    51         60
+    54          4
+    68         60
+    77        290
+   103          3
+   104         10
+   105        999
+   121          2
+   122          4
+   145         10
+   172         10
+   187          6
+   225          2
+   292         85
+   293         18
+   320         18

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 79846
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Tox21 Consortium/NIST Mass Spectrometry Data Center, 20
+12
+##NAMES=HP
+##CAS NAME=Benzoxiquine
+##MOLFORM=C16H11NO2
+##CAS REGISTRY NO=86-75-9
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          3
+    28          2
+    37          2
+    38          5
+    39         20
+    40          1
+    41          1
+    49          1
+    50         26
+    51         78
+    52          6
+    53          2
+    61          3
+    62         13
+    63         38
+    64          9
+    65          4
+    66          1
+    73          1
+    74          8
+    75          9
+    76         15
+    77        353
+    78         25
+    79          1
+    86          2
+    87          4
+    88          8
+    89         63
+    90         16
+    91          2
+    98          1
+    99          1
+   100          1
+   101          4
+   102          2
+   103          1
+   105        999
+   106         76
+   107          5
+   114          5
+   115          5
+   116         54
+   117         15
+   118          1
+   127          1
+   128          2
+   129          1
+   139          1
+   140          1
+   144          4
+   145          4
+   146          1
+   163          1
+   164          1
+   165          2
+   166          1
+   190          2
+   191          5
+   192          2
+   204          2
+   219          1
+   220          2
+   221          3
+   222          1
+   249         99
+   250         17
+   251          2

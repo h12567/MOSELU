@@ -1,0 +1,57 @@
+##TITLE=Library Entry 26651
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. UTILIZATION R & D DIV., U.S. DEPT. OF AGRIC., ALBANY
+, CAL.
+##NAMES=HP
+##CAS NAME=Octanethioic acid, S-ethyl ester
+##MOLFORM=C10H20OS
+##CAS REGISTRY NO=2432-84-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    29        132
+    35          8
+    39         14
+    41        230
+    42         28
+    43        284
+    44          4
+    45          5
+    47          7
+    53          6
+    55        170
+    56         17
+    57        999
+    58         31
+    59         11
+    61         20
+    62          6
+    63          3
+    67         39
+    69         16
+    70          9
+    71          9
+    75          5
+    76         11
+    81          6
+    82          4
+    83         17
+    84         13
+    85          5
+    89         11
+    97          5
+    98         12
+    99          2
+   104         13
+   109         81
+   127        558
+   128         45
+   159        152
+   160          6
+   161          3
+   188          1

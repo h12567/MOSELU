@@ -1,0 +1,63 @@
+##TITLE=Library Entry 35051
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,2,3-trimethyl-, (1.alpha.,2.beta.,3.alpha.)-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=1678-81-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=877
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15         14
+    27        165
+    28         84
+    29        154
+    31          9
+    32         10
+    39        272
+    40         62
+    41        597
+    42        166
+    43        172
+    44         11
+    45          5
+    50         12
+    51         34
+    52         18
+    53        108
+    54          5
+    55        762
+    56        424
+    57        122
+    58          6
+    59          7
+    63          9
+    65         31
+    67        150
+    69        999
+    70        366
+    71         56
+    77         28
+    78          6
+    79         25
+    80          5
+    81         27
+    82        149
+    83        274
+    84         87
+    85         13
+    91         11
+    95         10
+    96         23
+    97        108
+    98         40
+   109          7
+   111        657
+   112         54
+   126        336
+   127         35

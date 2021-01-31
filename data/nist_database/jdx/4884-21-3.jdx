@@ -1,0 +1,56 @@
+##TITLE=Library Entry 32741
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Cyclopentylcyclopentene
+##MOLFORM=C10H16
+##CAS REGISTRY NO=4884-21-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1096
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         21
+    26         24
+    27        199
+    28        125
+    29         88
+    39        423
+    40         88
+    41        443
+    42         67
+    50         43
+    51        113
+    52         61
+    53        139
+    54         41
+    55         67
+    62         14
+    63         48
+    65        178
+    66        366
+    67        999
+    68        411
+    69         92
+    77        315
+    78        106
+    79        746
+    80        158
+    81         74
+    82         30
+    91        279
+    92         46
+    93        387
+    94        310
+    95        714
+    96         47
+   103         17
+   105         32
+   107        211
+   108        113
+   121        131
+   136        382
+   137         39

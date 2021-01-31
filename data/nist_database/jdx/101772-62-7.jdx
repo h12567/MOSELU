@@ -1,0 +1,36 @@
+##TITLE=Library Entry 82977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.K. CARTLEDGE, DEP. CHEM., LA. STATE UNIV., BATON ROUG
+E, USA
+##NAMES=HP
+##CAS NAME=cis-1-Chloro-1,4-dimethylsilacyclohexane
+##MOLFORM=C7H15ClSi
+##CAS REGISTRY NO=101772-62-7
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    63        220
+    78        220
+    79        460
+    81        170
+    92        510
+    93        610
+    94        260
+    95        230
+   105        310
+   106        999
+   107        320
+   108        320
+   119        460
+   121        150
+   134        900
+   136        320
+   147        180
+   149         60
+   162        260
+   164        110

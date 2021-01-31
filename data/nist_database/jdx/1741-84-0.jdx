@@ -1,0 +1,65 @@
+##TITLE=Library Entry 3037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Propane, 2-methyl-1-(propylthio)-
+##MOLFORM=C7H16S
+##CAS REGISTRY NO=1741-84-0
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=941
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15         40
+    26         20
+    27        390
+    28         40
+    29        330
+    30         10
+    34         10
+    35         10
+    37         10
+    38         20
+    39        310
+    40         40
+    41        999
+    42        210
+    43        800
+    44         30
+    45        160
+    46        120
+    47        390
+    48         70
+    49         70
+    50         10
+    51         10
+    53         30
+    54         20
+    55        250
+    56        760
+    57        880
+    58         50
+    59         40
+    60         40
+    61        620
+    62         20
+    63         30
+    69         20
+    71         10
+    73         20
+    74         60
+    75        120
+    76        190
+    77        110
+    89        790
+    90        130
+    91         50
+   103        120
+   117         40
+   132        380
+   133         20
+   134         20

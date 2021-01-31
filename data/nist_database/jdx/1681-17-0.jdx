@@ -1,0 +1,78 @@
+##TITLE=Library Entry 10415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Heptanedinitrile, 4-acetyl-4-methyl-
+##MOLFORM=C10H14N2O
+##CAS REGISTRY NO=1681-17-0
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         21
+    26          7
+    27         46
+    29         23
+    30          2
+    37          2
+    38          6
+    39         69
+    40         16
+    41        121
+    42         34
+    43        999
+    44         29
+    45          3
+    50          7
+    51         19
+    52         21
+    53         55
+    54         30
+    55         54
+    56          3
+    57          3
+    62          1
+    63          3
+    64          4
+    65         16
+    66         12
+    67         49
+    68         11
+    69         23
+    70          1
+    75          1
+    76          1
+    77          7
+    78          3
+    79         13
+    80         14
+    81         34
+    82          6
+    83         13
+    85         11
+    91          7
+    92          2
+    93          6
+    94         16
+    95         12
+    96        139
+    97         12
+   106          2
+   107          1
+   108         38
+   109          3
+   118          1
+   124          4
+   125          1
+   135          4
+   136         11
+   137          1
+   138         70
+   139          6
+   178          2
+   179          1

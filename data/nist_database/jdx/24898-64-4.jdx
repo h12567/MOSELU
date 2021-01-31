@@ -1,0 +1,59 @@
+##TITLE=Library Entry 40264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4(3H)-Pteridinone, 3-methoxy-2-methyl-
+##MOLFORM=C8H8N4O2
+##CAS REGISTRY NO=24898-64-4
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    40         50
+    41        140
+    42        390
+    43         70
+    45         70
+    46         50
+    53        110
+    54        190
+    55        120
+    56         30
+    57        180
+    58         30
+    59         30
+    64         30
+    65        130
+    66        200
+    67        100
+    68         90
+    69        100
+    72        999
+    73         90
+    77         40
+    78        150
+    79        160
+    91         50
+    92         70
+    93        210
+    94         70
+   106         40
+   107         30
+   108        150
+   119        140
+   120        150
+   121        180
+   133         80
+   134        400
+   135         80
+   147         30
+   148         40
+   161        180
+   162        710
+   163         80
+   192        480
+   193         70

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 79184
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=1,5-Diphenyl-1,5-pentanedione
+##MOLFORM=C17H16O2
+##CAS REGISTRY NO=6263-83-8
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         15
+    28          5
+    39         11
+    41         11
+    42          6
+    43          5
+    50         20
+    51         80
+    52          9
+    55         27
+    63          3
+    65          8
+    74          5
+    75          8
+    76          7
+    77        436
+    78         39
+    79          5
+    89          5
+    91         17
+   103          8
+   105        999
+   106         60
+   107          5
+   115         10
+   120        172
+   121         15
+   130         52
+   131          6
+   132         14
+   133        118
+   134         12
+   146         32
+   147         39
+   148          6
+   207          5
+   223         12
+   224          5
+   234         20
+   252         20

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 2307
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2-Carbomethoxyaziridine
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=5950-34-5
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    15        435
+    16         66
+    17          9
+    27         66
+    28          9
+    29        158
+    30         67
+    31        197
+    32         11
+    40         39
+    41        999
+    42        735
+    43        407
+    44         39
+    45         92
+    46         11
+    55         53
+    56          6
+    58         66
+    59         79
+    60          8
+    69        630
+    70        105
+    71         53
+    72          9
+    86         26
+    87          7
+   101         13
+   102          9

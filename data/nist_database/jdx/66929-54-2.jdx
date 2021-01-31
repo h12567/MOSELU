@@ -1,0 +1,72 @@
+##TITLE=Library Entry 35935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Westmore ET AL, J.ASMS. 9, 29 (1998)
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 1,1,1-trifluoro-4-hydroxy-4-phenyl-
+##MOLFORM=C10H7F3O2
+##CAS REGISTRY NO=66929-54-2
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    32        102
+    36         24
+    37         14
+    39        112
+    40          3
+    41         91
+    42         28
+    43        112
+    44        204
+    45         28
+    50        165
+    51        383
+    52         56
+    53          7
+    55         49
+    56         21
+    57         49
+    59          7
+    60         24
+    62          3
+    63         56
+    65         70
+    69        999
+    70         24
+    71         17
+    73         14
+    74         70
+    75         42
+    76         80
+    77        704
+    78         80
+    79          7
+    81          7
+    83         14
+    84         10
+    89         38
+    90         17
+    91         70
+   101         17
+   102        183
+   103         38
+   105        725
+   106         38
+   118         10
+   119          7
+   120         38
+   129         24
+   139         10
+   146         17
+   147        683
+   148         59
+   149         17
+   196         38
+   198         10
+   215         38
+   216        348
+   217         24

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 16776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.A. GEORGE, U.S. AGRIC. RES. LAB., YAKIMA, WASH., USA
+##NAMES=HP
+##CAS NAME=Heptane, 2,3-epoxy-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=14925-96-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         70
+    27        650
+    28        560
+    29        640
+    30         20
+    31         60
+    32         50
+    38         20
+    39        400
+    40         70
+    41        790
+    42        960
+    43        900
+    44        290
+    45        999
+    46         30
+    47         10
+    50         10
+    51         20
+    52         20
+    53         90
+    54         60
+    55        860
+    56        130
+    57        740
+    58        160
+    59         70
+    65         10
+    67         60
+    68        130
+    69        110
+    70        170
+    71        550
+    72        250
+    73         30
+    77         10
+    79         10
+    81        100
+    82         20
+    83         10
+    85        860
+    86         50
+    96         30
+    97         10
+    98         30
+    99        190
+   114         70

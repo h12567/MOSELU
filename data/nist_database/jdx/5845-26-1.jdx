@@ -1,0 +1,45 @@
+##TITLE=Library Entry 38845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiazesim
+##MOLFORM=C19H22N2OS
+##CAS REGISTRY NO=5845-26-1
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=2595
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         35
+    42        164
+    43         79
+    44         55
+    55         31
+    56        101
+    57        106
+    58        499
+    59        210
+    65         50
+    70         50
+    71        999
+    72         49
+    77         88
+    91         79
+   103        111
+   104        106
+   109         86
+   131        111
+   136         88
+   149         16
+   150         15
+   151         27
+   178         11
+   179         12
+   223         19
+   236         12
+   255          7
+   282          7
+   326         12

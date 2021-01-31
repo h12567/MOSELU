@@ -1,0 +1,50 @@
+##TITLE=Library Entry 22788
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Propranolol methylboronate
+##MOLFORM=C17H22BNO2
+##CAS REGISTRY NO=127202-03-3
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        543
+    42        386
+    43        587
+    56        999
+    58        139
+    68        100
+    69         71
+    70         68
+    82         69
+    84        135
+    97        151
+    98        637
+   110        136
+   115        383
+   124        633
+   125        509
+   127        192
+   128        748
+   138        106
+   139        251
+   140        371
+   155         20
+   157         91
+   169         10
+   183         58
+   184          5
+   185          2
+   198         15
+   199         32
+   225          2
+   267         60
+   268        186
+   269         27
+   282        137
+   283        338

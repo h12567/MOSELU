@@ -1,0 +1,50 @@
+##TITLE=Library Entry 968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Pent-4-enylamine
+##MOLFORM=C5H11N
+##CAS REGISTRY NO=22537-07-1
+##MP= -300
+##BP= -300
+##MW= 85
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         66
+    28         80
+    29         33
+    30        999
+    31         42
+    37          5
+    38         13
+    39         89
+    40         20
+    41         74
+    42         64
+    43        188
+    44         54
+    45         12
+    46          2
+    50         11
+    51         14
+    52          7
+    53         31
+    54         14
+    55         12
+    56        144
+    57         19
+    63          2
+    65          7
+    66          4
+    67         73
+    68         56
+    69          9
+    70          6
+    82          5
+    84         11
+    85          4
+    86          3

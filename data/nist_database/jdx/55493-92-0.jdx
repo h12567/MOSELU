@@ -1,0 +1,80 @@
+##TITLE=Library Entry 42992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-(methoxyimino)-, trimethylsilyl ester
+##MOLFORM=C7H15NO3Si
+##CAS REGISTRY NO=55493-92-0
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=1099
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    38          2
+    39         12
+    40         27
+    41         33
+    42         49
+    43         91
+    44         53
+    45        169
+    46          8
+    47         26
+    49          5
+    51         12
+    52          5
+    53          2
+    54          3
+    55         29
+    56         22
+    57         17
+    58         56
+    59        147
+    60         16
+    61         19
+    69         61
+    70         10
+    71          8
+    72         72
+    73        999
+    74        221
+    75         97
+    76         13
+    77          8
+    78          1
+    79         11
+    84         11
+    85          1
+    86          3
+    87          2
+    89        121
+    90          9
+    91          7
+    93          1
+    99         45
+   100         44
+   101          8
+   102          1
+   103          2
+   114          5
+   115        121
+   116         14
+   117         26
+   119          8
+   131         80
+   132          8
+   133          1
+   143          1
+   147          1
+   158         23
+   159          5
+   160          8
+   169          3
+   174        476
+   175         58
+   176         23
+   189         17

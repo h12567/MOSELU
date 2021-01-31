@@ -1,0 +1,39 @@
+##TITLE=Library Entry 73594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(2-Thioacetylvinyl)-phenylamine
+##MOLFORM=C10H11NS
+##CAS REGISTRY NO=54920-39-7
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    45         88
+    51        321
+    59        176
+    68        168
+    77        594
+    78        129
+    88        111
+    92         99
+   100        999
+   104        100
+   116         78
+   117         80
+   118         69
+   128        118
+   129        108
+   130         99
+   143        230
+   144        715
+   145         78
+   162        178
+   175        159
+   177        965
+   178        130
+   179         60

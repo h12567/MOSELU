@@ -1,0 +1,26 @@
+##TITLE=Library Entry 10862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.GRIESBAUM,DEP.PETROCHEM.ORG.TECHNOL.,UNIV.KARLSRUHE,W
+.GER.
+##NAMES=HP
+##CAS NAME=2-Chloro-1-buten-3-one
+##MOLFORM=C4H5ClO
+##CAS REGISTRY NO=683-70-5
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    42        150
+    43        999
+    53         90
+    54         60
+    61        390
+    63        130
+    89        190
+    91         60
+   104        760
+   106        260

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 47778
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Bis(perfluoro(2-isopropyloxyethyl)-dimethylsilane
+##MOLFORM=C12H6F22O2Si
+##CAS REGISTRY NO=104745-20-2
+##MP= -300
+##BP= -300
+##MW= 628
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    69        137
+    77        999
+    81         58
+    85         68
+   147         80
+   193         40
+   197         39
+   243        978
+   247        671
+   266         40
+   347         50

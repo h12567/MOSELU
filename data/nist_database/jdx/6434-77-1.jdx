@@ -1,0 +1,53 @@
+##TITLE=Library Entry 19137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=cis-2-Nonene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=6434-77-1
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=902
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26         22
+    27        228
+    28         79
+    29        272
+    30          6
+    39        384
+    40         79
+    41        674
+    42        294
+    43        452
+    44         18
+    50         19
+    51         41
+    52         24
+    53        136
+    54        139
+    55        999
+    56        615
+    57        102
+    63          9
+    65         25
+    66         13
+    67        118
+    68         82
+    69        436
+    70        435
+    71         81
+    77         16
+    79         16
+    81         17
+    82         37
+    83        147
+    84        145
+    85         20
+    97        184
+    98         58
+   126        292
+   127         27

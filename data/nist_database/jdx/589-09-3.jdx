@@ -1,0 +1,77 @@
+##TITLE=Library Entry 82966
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=N-Allylaniline
+##MOLFORM=C9H11N
+##CAS REGISTRY NO=589-09-3
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         23
+    17          7
+    18          7
+    26         42
+    27        140
+    28        115
+    29         18
+    30         59
+    37         34
+    38        102
+    39        454
+    40         60
+    41        138
+    42         11
+    49         15
+    50        163
+    51        419
+    52        119
+    53         35
+    54         34
+    55         18
+    56         93
+    59          9
+    61         12
+    62         34
+    63        117
+    64         90
+    65        305
+    66         78
+    67          9
+    73         11
+    74         46
+    75         32
+    76         72
+    77        634
+    78        162
+    79        221
+    80         19
+    88          4
+    89         13
+    90         32
+    91        137
+    92        108
+    93         39
+   102         12
+   103         51
+   104        332
+   105        142
+   106        999
+   107         79
+   115         71
+   116         54
+   117        251
+   118        108
+   119         10
+   128          6
+   130        141
+   132        710
+   133        803
+   134         88
+   135          6

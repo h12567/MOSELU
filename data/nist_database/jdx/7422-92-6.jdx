@@ -1,0 +1,43 @@
+##TITLE=Library Entry 1202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Propionaldehyde, ethylhydrazone
+##MOLFORM=C5H12N2
+##CAS REGISTRY NO=7422-92-6
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=832
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29        450
+    30        999
+    39        120
+    40         45
+    41        230
+    42        230
+    43        150
+    44        100
+    45         80
+    46         22
+    54         54
+    55         34
+    56        330
+    57         70
+    58         80
+    59         22
+    69         30
+    70         17
+    71        135
+    72         21
+    73         20
+    83         70
+    85        900
+    86         61
+    99         46
+   100        700
+   101         95

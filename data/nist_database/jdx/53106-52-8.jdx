@@ -1,0 +1,67 @@
+##TITLE=Library Entry 41106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2,3,4,5-Tetrahydroxypentanal
+##MOLFORM=C5H10O5
+##CAS REGISTRY NO=53106-52-8
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         75
+    28         55
+    29        177
+    31        232
+    33          4
+    38          3
+    39         27
+    40         17
+    41         32
+    42        138
+    43        312
+    44        133
+    45        120
+    46          5
+    47         40
+    49          9
+    53          4
+    54         13
+    55         65
+    56         61
+    57        160
+    58         36
+    59         10
+    60        515
+    61        206
+    62          9
+    68         21
+    69         20
+    71        156
+    72         62
+    73        999
+    74         74
+    75          9
+    77         11
+    83          8
+    84          3
+    85         18
+    86         71
+    87          9
+    88          3
+    89         21
+    90         14
+    91         38
+   101         44
+   102         14
+   103         12
+   104          4
+   114         10
+   115          3
+   119         48
+   133          3

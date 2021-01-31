@@ -1,0 +1,56 @@
+##TITLE=Library Entry 73473
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=[2,2,3,3,4,4-Hexafluoro-4-(fluoroformyl)butyramido]sulfur pentafl
+uoride
+##MOLFORM=C5HF12NO2S
+##CAS REGISTRY NO=91940-19-1
+##MP= -300
+##BP= -300
+##MW= 367
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    31        220
+    42         16
+    43         68
+    47         56
+    48         62
+    50         96
+    51         18
+    64        112
+    69        268
+    70        160
+    78         36
+    81         56
+    85         40
+    89         60
+    92         29
+    93         43
+   100        999
+   104         17
+   105          6
+   108          8
+   109         39
+   112         16
+   119         20
+   123          9
+   127        270
+   131        264
+   150        264
+   169         56
+   170         62
+   173         60
+   178         31
+   193         10
+   197         11
+   201         28
+   221         38
+   320          1
+   328          1
+   347          1
+   348          1
+   368          1

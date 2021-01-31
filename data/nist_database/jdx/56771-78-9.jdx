@@ -1,0 +1,60 @@
+##TITLE=Library Entry 152
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.S.HORVATH STATE UNIV., BOWLING GREEN, OHIO, USA
+##NAMES=HP
+##CAS NAME=2-Hexenedioic acid, 2,4-dichloro-5-oxo-
+##MOLFORM=C6H4Cl2O5
+##CAS REGISTRY NO=56771-78-9
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    16        340
+    17        510
+    18        280
+    28        999
+    29        160
+    35        450
+    36        999
+    37        160
+    38        380
+    43        190
+    44        999
+    45        130
+    59         73
+    60        190
+    62         86
+    69         47
+    73         35
+    87        220
+    88        170
+    90         56
+   116         61
+   118         23
+   122         94
+   124         33
+   136         16
+   138         11
+   140          4
+   152         37
+   154         21
+   156         12
+   164        160
+   166        110
+   168         47
+   192         38
+   194         27
+   196         10
+   198         14
+   200         11
+   202          5
+   209         42
+   211         27
+   213         15
+   226          9
+   228          5
+   230          3

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 69377
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Furfural
+##MOLFORM=C5H4O2
+##CAS REGISTRY NO=98-01-1
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=833
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          7
+    13         11
+    14         12
+    17          2
+    18          4
+    24          6
+    25         22
+    26         22
+    27          9
+    28         29
+    29        201
+    34          5
+    36         26
+    37        151
+    38        226
+    39        644
+    40         69
+    41         23
+    42         53
+    44          6
+    48          9
+    49         22
+    50         28
+    51         33
+    52          9
+    53         19
+    66         17
+    67        114
+    68         18
+    69          6
+    95        991
+    96        999
+    97         57
+    98          5

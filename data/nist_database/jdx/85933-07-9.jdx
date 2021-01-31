@@ -1,0 +1,65 @@
+##TITLE=Library Entry 109413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Cyclic ester of bis-benzene-1,2-diol bis-heptanedioate
+##MOLFORM=C26H28O8
+##CAS REGISTRY NO=85933-07-9
+##MP= -300
+##BP= -300
+##MW= 468
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        256
+    43         48
+    55        370
+    56         30
+    57         46
+    67         48
+    68         23
+    69        374
+    70         28
+    71         22
+    79         51
+    80         34
+    81        126
+    82         28
+    83         23
+    91         46
+    92         28
+    93         11
+    94         20
+    95         23
+    96         11
+    97        117
+    98         22
+   109         11
+   110        419
+   111         94
+   112         21
+   125        999
+   126        140
+   127         25
+   189         23
+   203         22
+   217         99
+   218         22
+   221         48
+   222         11
+   234         47
+   235        191
+   236         35
+   249         66
+   250         23
+   261         11
+   313         11
+   326         21
+   341         14
+   359         36
+   360         21
+   468        114
+   469         28
+   470         11

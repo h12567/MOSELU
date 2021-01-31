@@ -1,0 +1,91 @@
+##TITLE=Library Entry 613
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Ethoxy-2-oxoethyl 2,2,2-trifluoroacetate
+##MOLFORM=C6H7F3O4
+##CAS REGISTRY NO=137131-10-3
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         14
+    16          1
+    19          3
+    25          1
+    26         26
+    27        227
+    28         98
+    29        999
+    30         54
+    31        151
+    32          2
+    33         28
+    39          1
+    40          1
+    41         19
+    42        205
+    43        105
+    44         20
+    45         63
+    46          2
+    47         22
+    48          1
+    50         60
+    51          7
+    54          2
+    55          7
+    56          2
+    57          7
+    58          5
+    59        253
+    60          7
+    61          2
+    67          2
+    69        785
+    70          9
+    73         15
+    74          1
+    75          6
+    77          2
+    78         46
+    79          2
+    80         12
+    81          1
+    86          5
+    87         26
+    88          1
+    95          4
+    97         80
+    99        380
+   100          8
+   101          1
+   103         28
+   104          1
+   105          1
+   108          1
+   112          1
+   113         12
+   115          4
+   127        569
+   128        768
+   129         29
+   130          4
+   131          2
+   141         32
+   142          1
+   153         88
+   155        397
+   156         17
+   157          3
+   172         30
+   173         23
+   174          1
+   185          1
+   200         16
+   201          2

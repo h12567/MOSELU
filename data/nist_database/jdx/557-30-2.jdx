@@ -1,0 +1,49 @@
+##TITLE=Library Entry 15109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethanedial, dioxime
+##MOLFORM=C2H4N2O2
+##CAS REGISTRY NO=557-30-2
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12         47
+    13         44
+    14         41
+    15         41
+    16        261
+    17        173
+    18         75
+    19         36
+    24         34
+    25         55
+    26        141
+    27        502
+    28        834
+    29         84
+    30        522
+    32         21
+    33         39
+    38        128
+    39        139
+    40        561
+    41        129
+    42         75
+    43        684
+    44        999
+    45         37
+    52         68
+    53        184
+    54         25
+    58         79
+    69         14
+    70        315
+    71        202
+    88        320
+    89          9

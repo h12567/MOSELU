@@ -1,0 +1,26 @@
+##TITLE=Library Entry 96451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. IWASE, CENT. RES. LAB., AJINOMOTO CO. INC., KAWASAKI
+, JPN
+##NAMES=HP
+##CAS NAME=Adrenaline, 4TMS derivative
+##MOLFORM=C21H45NO3Si4
+##CAS REGISTRY NO=54947-77-2
+##MP= -300
+##BP= -300
+##MW= 471
+##$RETENTION INDEX=2002
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    45        100
+    73        678
+    74         71
+    75         41
+   116        999
+   117        111
+   118         36
+   147         34
+   355         75
+   356         24

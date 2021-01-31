@@ -1,0 +1,30 @@
+##TITLE=Library Entry 472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.F.EVANS UNIV. QUEENSLAND, ST. LUCIA, QUEENSLAND, AUST
+RALIA
+##NAMES=HP
+##CAS NAME=Butanal, 3,3-dimethyl-2-oxo-, hemihydrate
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=77572-68-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29        999
+    38         50
+    39        570
+    40         60
+    41        940
+    42        140
+    43        150
+    55         90
+    57        940
+    68        100
+    85        650
+    86         30
+   113          3
+   114          2

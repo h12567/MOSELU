@@ -1,0 +1,36 @@
+##TITLE=Library Entry 29668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.ZEEH TUBINGEN UNIVERSITY, TUBINGEN F.R.G.
+##NAMES=HP
+##CAS NAME=Hydrazine, 1-(5-hexenyl)-1-methyl-
+##MOLFORM=C7H16N2
+##CAS REGISTRY NO=53907-78-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        800
+    42        900
+    43        430
+    44        580
+    45        440
+    46        340
+    51         60
+    53        120
+    54         90
+    55        210
+    56        120
+    57        130
+    59        999
+    60        300
+    67         60
+    70         60
+    71         90
+    72         60
+    85        160
+   128        150
+   129         20

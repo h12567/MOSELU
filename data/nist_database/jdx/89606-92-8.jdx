@@ -1,0 +1,27 @@
+##TITLE=Library Entry 17977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=S-Methyl(pentafluorosulfanyl)thiocarbamate
+##MOLFORM=C2H4F5NOS2
+##CAS REGISTRY NO=89606-92-8
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    45        177
+    46        322
+    47        999
+    48        855
+    70        105
+    75        229
+    89        354
+   127        540
+   150        312
+   169         62
+   197         47
+   217         57

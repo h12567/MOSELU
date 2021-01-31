@@ -1,0 +1,39 @@
+##TITLE=Library Entry 72942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,5-Pyrrolidinedione, 1-propyl-
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=3470-97-1
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        349
+    42        203
+    43         66
+    44        168
+    54         39
+    55        597
+    56        566
+    57        128
+    58         53
+    70         31
+    72        106
+    82         70
+    84        362
+    85         70
+    98         35
+    99         22
+   100        999
+   101        123
+   112        154
+   113        168
+   114         22
+   126        110
+   141        473
+   142         66

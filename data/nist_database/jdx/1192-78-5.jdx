@@ -1,0 +1,62 @@
+##TITLE=Library Entry 25165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Tech. Univ. Eindhov
+en, Netherlands
+##NAMES=HP
+##CAS NAME=7-Oxabicyclo[4.1.0]heptan-2-ol
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=1192-78-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15         82
+    16         47
+    17         18
+    18         33
+    26         93
+    27        394
+    28         43
+    29        588
+    30         60
+    31        192
+    37         34
+    38         99
+    39        587
+    40        146
+    41        442
+    42        301
+    43        313
+    44        167
+    45         26
+    50         38
+    51         66
+    52         35
+    53        131
+    54         39
+    55        220
+    57        999
+    58        409
+    59         29
+    60        137
+    62         19
+    63         24
+    65         53
+    66         35
+    67        186
+    68        194
+    69        162
+    70        971
+    71        201
+    73         34
+    77         31
+    78         19
+    79         55
+    81         47
+    83         38
+    95         60
+    96         61

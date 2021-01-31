@@ -1,0 +1,49 @@
+##TITLE=Library Entry 12634
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Acetamide, N-(2-hydroxy-4-nitrophenyl)-
+##MOLFORM=C8H8N2O4
+##CAS REGISTRY NO=25351-89-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    28         50
+    29         36
+    30         85
+    39         38
+    42         63
+    43        999
+    50         80
+    51        143
+    52        164
+    53        147
+    62         25
+    63         46
+    64          8
+    67         10
+    76         15
+    77         18
+    78         54
+    79         70
+    80        128
+    81          8
+    90          5
+    96         29
+   106          4
+   107         20
+   108         61
+   124        118
+   125          7
+   137          7
+   138         10
+   154        260
+   155         18
+   156          1
+   196         30
+   197          3

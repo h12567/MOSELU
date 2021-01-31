@@ -1,0 +1,45 @@
+##TITLE=Library Entry 21913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Methylbarbituric acid
+##MOLFORM=C5H6N2O3
+##CAS REGISTRY NO=2565-47-1
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        402
+    29         72
+    41         71
+    42        133
+    43        360
+    44        335
+    53         49
+    54         64
+    55        266
+    56        999
+    57         48
+    67         13
+    69         23
+    70         89
+    71         76
+    72        171
+    77         19
+    83         19
+    86         20
+    87         17
+    97         13
+    99        118
+   100         14
+   113         25
+   114         62
+   115         50
+   128         22
+   142        387
+   143         32
+   144          5

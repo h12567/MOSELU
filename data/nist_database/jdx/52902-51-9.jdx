@@ -1,0 +1,55 @@
+##TITLE=Library Entry 48183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Bicyclo[4,2,1]nona-2,4-dien-9-one
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=52902-51-9
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15         29
+    26         54
+    27        177
+    28         26
+    29         10
+    30          4
+    37         20
+    38         59
+    39        268
+    40         29
+    41         40
+    42          4
+    50        101
+    51        178
+    52         82
+    53         40
+    54         10
+    55         12
+    61         10
+    62         31
+    63         62
+    65         89
+    66         24
+    67          8
+    74         26
+    75         16
+    78        999
+    79        206
+    80         15
+    86          7
+    89         19
+    91        525
+    92         44
+   103         39
+   105        126
+   106        177
+   107         17
+   134        226
+   135         18

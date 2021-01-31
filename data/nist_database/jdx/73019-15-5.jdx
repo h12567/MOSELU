@@ -1,0 +1,83 @@
+##TITLE=Library Entry 35254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 3,7-dimethyl-2,6-octadienyl ester, (E)-
+##MOLFORM=C17H30O2
+##CAS REGISTRY NO=73019-15-5
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=1856
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    27         31
+    29         44
+    38          2
+    39         59
+    40         21
+    41        427
+    42         35
+    43        307
+    44         11
+    45          5
+    51          9
+    52          5
+    53         70
+    54          9
+    55         81
+    56         15
+    57         54
+    59          4
+    60          8
+    63          2
+    65         19
+    66          8
+    67        167
+    68        570
+    69        999
+    70         64
+    71          5
+    72          2
+    73          5
+    77         24
+    78          5
+    79         37
+    80        226
+    81         89
+    82         13
+    83         17
+    84         18
+    85        115
+    86          8
+    87          3
+    91         26
+    92        101
+    93        444
+    94         84
+    95         43
+    96          6
+    97          6
+   107         81
+   108         26
+   109          8
+   110          4
+   111         11
+   113        250
+   114         19
+   119          7
+   121        317
+   122         31
+   123         41
+   124          5
+   131          7
+   135          5
+   136        137
+   137         26
+   139          7
+   154         16
+   155          3
+   197          7
+   266          1

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 32532
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Octyne, 2-methyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=10306-94-2
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        170
+    40         40
+    41        380
+    42         60
+    43        640
+    44         20
+    50         30
+    51         70
+    52         70
+    53        170
+    54        240
+    55        190
+    56         60
+    57         30
+    63         10
+    65         60
+    66         30
+    67        999
+    68         80
+    69         60
+    77         80
+    78         10
+    79        150
+    80         30
+    81        530
+    82        150
+    83         10
+    91         20
+    93         20
+    95        230
+    96         70
+   109         80
+   124        440
+   125         40

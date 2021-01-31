@@ -1,0 +1,53 @@
+##TITLE=Library Entry 98317
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin,TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-phenylpropyl ester
+##MOLFORM=C12H14O2
+##CAS REGISTRY NO=85909-41-7
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    36         20
+    38         11
+    39         79
+    40          9
+    41         50
+    43         18
+    44         38
+    50         21
+    51         55
+    52         15
+    53         11
+    55        343
+    56         16
+    62         10
+    63         45
+    65         81
+    69         12
+    71         29
+    72         11
+    73         11
+    77         79
+    78         50
+    79         39
+    89         18
+    90          9
+    91        396
+    92         48
+    93         11
+   102          9
+   103         51
+   104         59
+   105        103
+   106         12
+   115         38
+   116         79
+   117        621
+   118        999
+   119        105

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 1785
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2,3-Diformylphenol
+##MOLFORM=C8H6O3
+##CAS REGISTRY NO=20769-30-6
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27         59
+    29        654
+    37        178
+    38        349
+    39        999
+    40         61
+    49         59
+    50        210
+    51        149
+    53        301
+    62        343
+    63        633
+    64        182
+    65        955
+    66        178
+    74        136
+    76         28
+    77         31
+    92        105
+    93        165
+    94         37
+   105         29
+   121        651
+   122         55
+   149        660
+   150        777
+   151         76

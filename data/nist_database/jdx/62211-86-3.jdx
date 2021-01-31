@@ -1,0 +1,75 @@
+##TITLE=Library Entry 32423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane, 2-butylidene-
+##MOLFORM=C11H18
+##CAS REGISTRY NO=62211-86-3
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    27        237
+    28        423
+    29        189
+    30          8
+    31         34
+    39        304
+    40         43
+    41        635
+    42         34
+    43         92
+    44        135
+    45        110
+    50         14
+    51         47
+    52         26
+    53        143
+    54        108
+    55        363
+    56         39
+    57         40
+    63         21
+    65         65
+    66        435
+    67        999
+    68        177
+    69         64
+    70         10
+    71         18
+    73         25
+    75         14
+    77         62
+    78         50
+    79        235
+    80        215
+    81        221
+    82        119
+    83         73
+    85         10
+    87         10
+    89         16
+    91         42
+    93        149
+    94         60
+    95        254
+    96         45
+    97          9
+    99          9
+   103          0
+   107         38
+   108        303
+   109        169
+   110         22
+   111          5
+   112          5
+   121         44
+   122         36
+   123          9
+   135         18
+   150         10

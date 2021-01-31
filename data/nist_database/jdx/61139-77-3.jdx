@@ -1,0 +1,42 @@
+##TITLE=Library Entry 4803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,6,7-Trimethyl-(1,2,4)-triazolo(2,3-b)(1,2,4)-triazine
+##MOLFORM=C7H9N5
+##CAS REGISTRY NO=61139-77-3
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26        460
+    27        726
+    28        332
+    38        329
+    39        736
+    40        728
+    41        875
+    42        999
+    43        260
+    50        260
+    51        532
+    52        734
+    53        534
+    54        261
+    55        199
+    66        333
+    67        929
+    77        332
+    79        261
+    93        400
+    94        260
+   107         49
+   120        471
+   134        672
+   135        533
+   163        272
+   164        129

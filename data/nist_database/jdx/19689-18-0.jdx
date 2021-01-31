@@ -1,0 +1,52 @@
+##TITLE=Library Entry 19877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Decene
+##MOLFORM=C10H20
+##CAS REGISTRY NO=19689-18-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1001
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        540
+    42        260
+    43        310
+    44         30
+    50         10
+    51         10
+    52         10
+    53         50
+    54        100
+    55        999
+    56        600
+    57        180
+    58         10
+    65         10
+    66         10
+    67         80
+    68         50
+    69        580
+    70        470
+    71         70
+    77         10
+    79         10
+    81         20
+    82         40
+    83        200
+    84        200
+    85         50
+    95         10
+    96         10
+    97        180
+    98         70
+    99         10
+   111         60
+   112         40
+   140        320
+   141         40

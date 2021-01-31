@@ -1,0 +1,48 @@
+##TITLE=Library Entry 59900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Alanine, 3,3'-thiobis[N-carboxy-, N,N'-dibenzyl diethyl ester, L-
+##MOLFORM=C26H32N2O8S
+##CAS REGISTRY NO=26527-27-5
+##MP= -300
+##BP= -300
+##MW= 532
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    44         39
+    51         28
+    65         98
+    77         57
+    79         63
+    91        999
+    93         63
+   108         52
+   109         41
+   131         22
+   132         19
+   144         12
+   145         19
+   158          9
+   159         12
+   161         22
+   177         22
+   216         12
+   221         12
+   222         15
+   230         92
+   232         22
+   240          4
+   245         15
+   250          4
+   252         11
+   263         19
+   272         11
+   306          6
+   307         12
+   368          6
+   381         30
+   532          1

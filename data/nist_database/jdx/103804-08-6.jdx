@@ -1,0 +1,54 @@
+##TITLE=Library Entry 12882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Dihydrobisvertinol
+##MOLFORM=C28H36O8
+##CAS REGISTRY NO=103804-08-6
+##MP= -300
+##BP= -300
+##MW= 500
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        602
+    43        999
+    53        148
+    55        770
+    57        258
+    67        210
+    68        108
+    69        739
+    79        109
+    81        100
+    83        190
+    95        397
+    97        259
+    99        167
+   101         99
+   109        180
+   110        189
+   123        169
+   125         99
+   128        150
+   137        207
+   138        337
+   139        208
+   140        140
+   151        138
+   152        177
+   165        805
+   166        118
+   180        286
+   181        149
+   183        118
+   191        109
+   194        159
+   195        119
+   216        188
+   234        149
+   248        118
+   252         39
+   500          9

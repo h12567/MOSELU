@@ -1,0 +1,52 @@
+##TITLE=Library Entry 90960
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AIR PRODUCTS & CHEMICALS, INC BOX 538, ALLENTOWN, PA 18
+105, D M PAREES
+##NAMES=HP
+##CAS NAME=Ethyl di-N-butylamine
+##MOLFORM=C10H23N
+##CAS REGISTRY NO=4458-33-7
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=1009
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         37
+    29        101
+    30         55
+    31          4
+    39         18
+    40          3
+    41         71
+    42         66
+    43         23
+    44         81
+    45          5
+    54          6
+    55         21
+    56         31
+    57         65
+    58        168
+    59         20
+    70         10
+    71          9
+    72        325
+    73         18
+    84         16
+    96         12
+    98         22
+    99          3
+   100         31
+   101          5
+   109         54
+   112         13
+   114        999
+   115         95
+   116          6
+   142         26
+   156         10
+   157         88
+   158         11

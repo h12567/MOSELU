@@ -1,0 +1,60 @@
+##TITLE=Library Entry 46557
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-3,5,6-trimethyl-7-methoxy-6H-pyrazolo(3,4-b)(1,4)diazepi
+ne
+##MOLFORM=C16H18N4O
+##CAS REGISTRY NO=63566-59-6
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        370
+    42        322
+    43        353
+    51        431
+    54        128
+    56        160
+    57        149
+    64         80
+    65        101
+    69         79
+    71        120
+    76        171
+    77        999
+    78        150
+    79         80
+    80        140
+    91        129
+    94        170
+   103        170
+   104        130
+   105        109
+   117         80
+   118        201
+   119         70
+   129        109
+   131        120
+   133         70
+   141         79
+   145        161
+   156         90
+   157         50
+   169         50
+   177         79
+   183         69
+   184         59
+   198         49
+   211         50
+   212         49
+   225         50
+   226         49
+   239         50
+   254         50
+   267        260
+   282        300

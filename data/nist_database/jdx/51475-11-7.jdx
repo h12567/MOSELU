@@ -1,0 +1,47 @@
+##TITLE=Library Entry 39482
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. M. PECHINE
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-bromo-2-methoxy-, cis-
+##MOLFORM=C6H11BrO
+##CAS REGISTRY NO=51475-11-7
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         51
+    28         22
+    29         46
+    39        122
+    40         13
+    41        181
+    42         32
+    43         25
+    45         55
+    53         22
+    55         84
+    56         14
+    57         28
+    58         19
+    65         12
+    67        108
+    71        999
+    72         74
+    83         33
+    85         25
+    97         14
+    99         16
+   106         12
+   108         12
+   149         11
+   150         14
+   151         10
+   152         13
+   163         11
+   165         10
+   178        209
+   180        204

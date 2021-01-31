@@ -1,0 +1,85 @@
+##TITLE=Library Entry 31257
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4010
+##NAMES=HP
+##CAS NAME=Pentane, 1-(methylthio)-
+##MOLFORM=C6H14S
+##CAS REGISTRY NO=1741-83-9
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=902
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         17
+    26         13
+    27        200
+    28         41
+    29        183
+    30          3
+    31         23
+    32         11
+    33          2
+    34          4
+    35         57
+    36          1
+    37          5
+    38          9
+    39        125
+    40         21
+    41        374
+    42        664
+    43        314
+    44         11
+    45         84
+    46         67
+    47        139
+    48        339
+    49        142
+    50         21
+    51         11
+    52          2
+    53         20
+    54          9
+    55        473
+    56         32
+    57         25
+    58         12
+    59         30
+    60         16
+    61        999
+    62        136
+    63         51
+    64          6
+    65          3
+    66          1
+    67          9
+    68          4
+    69        119
+    70        670
+    71         92
+    72          4
+    73          9
+    74          6
+    75        125
+    76         38
+    77          8
+    78          1
+    85          2
+    87          4
+    89         70
+    90          5
+    91          4
+   102          1
+   103        166
+   104         15
+   105          9
+   106          1
+   117         22
+   118        607
+   119         50
+   120         29
+   121          2

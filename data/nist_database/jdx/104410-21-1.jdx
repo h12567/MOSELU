@@ -1,0 +1,25 @@
+##TITLE=Library Entry 76709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5-Diphenyl-4,4-dimethyl-pyrazole-1,2-dioxide
+##MOLFORM=C17H16N2O2
+##CAS REGISTRY NO=104410-21-1
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    77         19
+   103        999
+   161         20
+   193         29
+   208         29
+   220         39
+   222         40
+   250        894
+   264         10
+   280         69

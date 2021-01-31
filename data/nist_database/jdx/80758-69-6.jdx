@@ -1,0 +1,82 @@
+##TITLE=Library Entry 10625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Isopentyl 3-hydroxy-2-methylenebutanoate
+##MOLFORM=C10H18O3
+##CAS REGISTRY NO=80758-69-6
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1284
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    19          2
+    26         13
+    27        118
+    29        168
+    30          5
+    31         18
+    37          2
+    38          4
+    39        133
+    40         20
+    41        318
+    42        132
+    43        999
+    44         40
+    45        226
+    46          5
+    50         11
+    51         19
+    52          9
+    53        233
+    54        153
+    55        660
+    56        145
+    57        115
+    58         12
+    59          7
+    61          5
+    67         23
+    68          9
+    69         49
+    70        595
+    71        843
+    72         75
+    73        307
+    74         17
+    75          3
+    81        418
+    82        126
+    83        314
+    84         44
+    86          5
+    87         20
+    88          1
+    96          6
+    97        151
+    98        524
+    99        888
+   101        792
+   102         34
+   103         12
+   110          3
+   112          5
+   114          4
+   115         59
+   116        147
+   117         33
+   122          3
+   123          8
+   139         10
+   140          1
+   141          4
+   153          9
+   157          3
+   169          1
+   171         34
+   172          5
+   173          1

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 53843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Propanamine, 2-methyl-N-(2-methylpropylidene)-
+##MOLFORM=C8H17N
+##CAS REGISTRY NO=6898-82-4
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26          9
+    27        107
+    29        180
+    30         92
+    38         10
+    39        100
+    40         11
+    41        344
+    42         87
+    43        163
+    44          2
+    53         14
+    54         16
+    55        227
+    56        112
+    57        779
+    58         45
+    67         18
+    68         28
+    69         11
+    70         67
+    71          5
+    72         25
+    73          7
+    82         22
+    83          3
+    84        999
+    85         78
+    98         11
+   112         45
+   126         12
+   127         37

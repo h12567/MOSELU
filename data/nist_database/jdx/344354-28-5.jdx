@@ -1,0 +1,54 @@
+##TITLE=Library Entry 15887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Carbamoyl(methoxycarbonyl)-methoxyiminomethane
+##MOLFORM=C5H8N2O4
+##CAS REGISTRY NO=344354-28-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15        658
+    16         32
+    27        112
+    28        128
+    29        308
+    30        112
+    31        336
+    32        168
+    33         12
+    41        112
+    42        184
+    43        142
+    44        999
+    45        308
+    46         42
+    54        252
+    55         84
+    56         49
+    57         42
+    58        742
+    59        632
+    60         61
+    67         35
+    68         35
+    69         42
+    70        281
+    71         24
+    72         56
+    85         56
+    86        999
+    87        126
+    88         13
+   100        143
+   101         84
+   102          7
+   129        224
+   130         18
+   160         84
+   161          9

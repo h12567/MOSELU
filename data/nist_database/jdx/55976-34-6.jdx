@@ -1,0 +1,76 @@
+##TITLE=Library Entry 42104
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 6-O-acetyl-2-acetamido-2-deoxy-3,4-di-O-methyl-.alpha.-D-g
+lucopyranoside
+##MOLFORM=C13H23NO7
+##CAS REGISTRY NO=55976-34-6
+##MP= -300
+##BP= -300
+##MW= 305
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    41         49
+    42         39
+    43        379
+    44         19
+    45         89
+    58         95
+    59         33
+    60         20
+    61         37
+    70         33
+    71         92
+    72         24
+    73        999
+    74         89
+    75        469
+    76         23
+    81         30
+    84         36
+    85         36
+    86        129
+    87        139
+    88        209
+    98         53
+    99         19
+   101         47
+   102         19
+   111         40
+   112         33
+   115        809
+   116         66
+   117         39
+   128        299
+   129         26
+   130         57
+   138          6
+   139          3
+   140         36
+   141         10
+   142          5
+   143         39
+   144         33
+   154          5
+   158          5
+   168         26
+   172         12
+   173          5
+   181         23
+   182         12
+   183          5
+   186          1
+   202          2
+   203         38
+   213         12
+   214          2
+   241          0
+   242          6
+   243          1
+   246          2
+   274          2
+   306          0

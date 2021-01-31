@@ -1,0 +1,63 @@
+##TITLE=Library Entry 82577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Crotoniazide
+##MOLFORM=C10H11N3O
+##CAS REGISTRY NO=7007-96-7
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    50        101
+    51        364
+    52         70
+    53         48
+    54         23
+    55         18
+    56         46
+    57         20
+    58         21
+    59          7
+    60          6
+    61         21
+    62         19
+    66         10
+    67         20
+    68         58
+    69         22
+    71         16
+    76         10
+    77         27
+    78        694
+    79        193
+    80         12
+    81         14
+    82          4
+    83         67
+    84          4
+   103          4
+   104          8
+   105         22
+   106        999
+   107         76
+   108         21
+   122        501
+   123         46
+   124          4
+   147          2
+   148          8
+   149         10
+   159          1
+   161          1
+   173          2
+   174         37
+   175          3
+   187          1
+   188          2
+   189         15
+   190          2

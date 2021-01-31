@@ -1,0 +1,43 @@
+##TITLE=Library Entry 29486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Amotriphene
+##MOLFORM=C26H29NO3
+##CAS REGISTRY NO=5585-64-8
+##MP= -300
+##BP= -300
+##MW= 403
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    44         17
+    45         11
+    58        999
+    59         29
+   121         40
+   164         10
+   179         20
+   226          9
+   227         50
+   228          9
+   239          9
+   251         28
+   252          9
+   296         30
+   315         10
+   327         20
+   328          9
+   329          9
+   343         48
+   344         30
+   345         19
+   358        231
+   359        351
+   360        101
+   361         19
+   388         49
+   389         10
+   403        112

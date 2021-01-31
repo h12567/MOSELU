@@ -1,0 +1,44 @@
+##TITLE=Library Entry 49859
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G. Peter, Inst. Org. Chem. Biochem., Univ. Bonn, Bonn
+, W. Ger.
+##NAMES=HP
+##CAS NAME=3,7-Decadien-2-one, 10-(3,3-dimethyloxiranyl)-4,8-dimethyl-, (E,E
+)-.+/-.-
+##MOLFORM=C16H26O2
+##CAS REGISTRY NO=106929-52-6
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        290
+    43        920
+    55        210
+    57        110
+    59        280
+    67        200
+    69        250
+    71        700
+    72        110
+    79        190
+    81        999
+    83        600
+    85        720
+    93        270
+    95        370
+    98        700
+   107        250
+   109        210
+   111        150
+   121        420
+   123        120
+   135        170
+   207         60
+   217         15
+   232         18
+   235          9
+   250          7

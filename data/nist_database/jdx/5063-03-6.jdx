@@ -1,0 +1,74 @@
+##TITLE=Library Entry 32029
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Acetyl-5-norbornene
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=5063-03-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    12          1
+    14          7
+    15         52
+    17          1
+    25          1
+    26         17
+    27         94
+    28         18
+    29          1
+    32          1
+    37         10
+    38         31
+    39        196
+    40         58
+    41         52
+    43        318
+    44          6
+    50         25
+    51         51
+    52         21
+    53         25
+    55         66
+    56          2
+    58         88
+    61          4
+    62         13
+    63         30
+    65        130
+    66        999
+    67         56
+    68          2
+    69          1
+    71        141
+    72          7
+    75          2
+    77        109
+    78         54
+    79         25
+    80          2
+    81          3
+    82          6
+    86          1
+    89          4
+    91        114
+    92         23
+    93        112
+    94         10
+    95          5
+   103          2
+   105          1
+   107          1
+   108          3
+   109          1
+   115          2
+   117          6
+   118          3
+   121          8
+   136         73
+   137          7

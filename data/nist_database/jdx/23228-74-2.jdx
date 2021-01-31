@@ -1,0 +1,56 @@
+##TITLE=Library Entry 11514
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Biuret, thio-
+##MOLFORM=C2H5N3OS
+##CAS REGISTRY NO=23228-74-2
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41         21
+    42         65
+    43        999
+    44        391
+    45          8
+    46         22
+    47         27
+    48         58
+    49         12
+    50          3
+    51          2
+    53          1
+    54          0
+    55          0
+    59        123
+    60        225
+    61         21
+    62          8
+    68          0
+    69         10
+    70          0
+    71          0
+    73          0
+    74          2
+    76        408
+    77         54
+    78         18
+    79          1
+    84          3
+    86          9
+    87          3
+    92          1
+   102          3
+   103          2
+   105          0
+   118          0
+   119        561
+   120         23
+   121          6
+   122          1

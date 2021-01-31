@@ -1,0 +1,62 @@
+##TITLE=Library Entry 48344
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2643
+##NAMES=HP
+##CAS NAME=Pyridine, 2-bromo-
+##MOLFORM=C5H4BrN
+##CAS REGISTRY NO=109-04-6
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=988
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          2
+    14          5
+    16          1
+    24          1
+    25          5
+    26         31
+    27         56
+    28         41
+    29          1
+    36          3
+    37         12
+    38         22
+    39         27
+    40          3
+    48          2
+    49         20
+    50        112
+    51        308
+    52         90
+    53          3
+    62          1
+    63          2
+    64          1
+    74          2
+    75         14
+    76         32
+    77         10
+    78        999
+    79         58
+    80          3
+    81          5
+    82          3
+    91          1
+    93          1
+   104          4
+   105          2
+   106          6
+   107          1
+   108          2
+   129          3
+   130          3
+   131          3
+   132          2
+   157        323
+   158         19
+   159        307
+   160         18

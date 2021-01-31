@@ -1,0 +1,65 @@
+##TITLE=Library Entry 43589
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Trifluoroacetyl-tris(trimethylsilyl)silane
+##MOLFORM=C11H27F3OSi4
+##CAS REGISTRY NO=81671-46-7
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    31         57
+    32          1
+    50         99
+    51          4
+    57         98
+    58          8
+    69        122
+    70          1
+    73        999
+    74         85
+    75         36
+    76          1
+    77         86
+    78          6
+    79          3
+    97        138
+    98          3
+   131         74
+   132         11
+   133          6
+   134          1
+   147         76
+   148         12
+   149          6
+   150          1
+   173        162
+   174         36
+   175         19
+   176          3
+   177          1
+   193        107
+   194         25
+   195         13
+   196          2
+   197          1
+   247        376
+   248        115
+   249         66
+   250         14
+   251          2
+   252          1
+   275        199
+   276         87
+   277         36
+   278          8
+   279          2
+   325          5
+   326          2
+   329          5
+   330          2

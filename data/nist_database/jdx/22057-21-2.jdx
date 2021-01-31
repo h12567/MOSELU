@@ -1,0 +1,55 @@
+##TITLE=Library Entry 20049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans,trans-2,9-Undecadiene
+##MOLFORM=C11H20
+##CAS REGISTRY NO=22057-21-2
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         15
+    27        184
+    28         92
+    29        251
+    32         11
+    39        323
+    40         62
+    41        495
+    42         57
+    43         45
+    50         11
+    51         30
+    52         21
+    53        165
+    54        189
+    55        999
+    56         70
+    57          9
+    65         32
+    66         60
+    67        662
+    68        818
+    69        163
+    70         14
+    77         25
+    79         64
+    81        564
+    82        185
+    83         17
+    93         15
+    95        148
+    96         63
+    97         17
+   109         66
+   110        161
+   111         15
+   123         48
+   124          7
+   152        154
+   153         21

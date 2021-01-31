@@ -1,0 +1,61 @@
+##TITLE=Library Entry 32383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6768
+##NAMES=HP
+##CAS NAME=1,4-Pentadiene, 3-methyl-
+##MOLFORM=C6H10
+##CAS REGISTRY NO=1115-08-8
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=532
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          6
+    25          2
+    26         23
+    27        165
+    28         25
+    29         72
+    30          2
+    31          2
+    32          1
+    37         11
+    38         23
+    39        244
+    40         46
+    41        333
+    42         49
+    43         10
+    49          7
+    50         34
+    51         49
+    52         21
+    53        115
+    54        115
+    55         82
+    56         11
+    57          1
+    60          1
+    61          5
+    62          8
+    63         12
+    64          3
+    65         99
+    66         27
+    67        999
+    68         56
+    69          2
+    73          1
+    74          2
+    75          1
+    77         16
+    78          3
+    79         40
+    80          6
+    81        109
+    82        130
+    83          9

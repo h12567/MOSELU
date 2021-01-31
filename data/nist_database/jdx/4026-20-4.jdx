@@ -1,0 +1,30 @@
+##TITLE=Library Entry 23643
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.M. RUBOTTOM, DEP. CHEM., UNIV. IDAHO, MOSCOW,
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2-hydroxy-3,3-dimethyl-
+##MOLFORM=C6H12O3
+##CAS REGISTRY NO=4026-20-4
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        470
+    42         39
+    43        166
+    44         88
+    45         88
+    55         88
+    56         39
+    57        999
+    58         58
+    69         58
+    71         58
+    76        176
+    88        117
+    99         49
+   132          1

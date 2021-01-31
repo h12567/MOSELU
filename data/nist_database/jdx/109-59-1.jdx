@@ -1,0 +1,57 @@
+##TITLE=Library Entry 6877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1324
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(1-methylethoxy)-
+##MOLFORM=C5H12O2
+##CAS REGISTRY NO=109-59-1
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=768
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         43
+    16          1
+    17          1
+    18          7
+    19         30
+    26          9
+    27        162
+    28         17
+    29         47
+    30          4
+    31        146
+    32          4
+    33         43
+    37          2
+    38          5
+    39         49
+    40          9
+    41        227
+    42        108
+    43        999
+    44         33
+    45        650
+    46         16
+    47          1
+    55         27
+    56          2
+    57          2
+    58         21
+    59        107
+    60          4
+    61         38
+    62          2
+    63          4
+    72          2
+    73        321
+    74         14
+    86          9
+    87          1
+    89        238
+    90         10
+   103          1

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 1707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3,4-Dimethylgermacyclopentene-3
+##MOLFORM=C6H12Ge
+##CAS REGISTRY NO=5764-65-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        999
+    41        527
+    43         60
+    51         54
+    53         70
+    54         76
+    55        282
+    65         41
+    67        250
+    70        150
+    72        272
+    73        224
+    74        285
+    75        208
+    76        111
+    77         76
+    81         44
+    83        140
+    85        144
+    86         38
+    87        205
+    88         99
+    89        195
+    97         57
+    99         89
+   101        121
+   111        217
+   112        301
+   113        179
+   114        349
+   115        352
+   116        394
+   118         50
+   139         95
+   141        115
+   143        124
+   153         57
+   154        172
+   155         89
+   156        327
+   157        169
+   158        311
+   160         63

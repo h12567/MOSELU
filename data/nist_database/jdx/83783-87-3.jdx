@@ -1,0 +1,58 @@
+##TITLE=Library Entry 33670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-methyl-, 3-methyl-3-butenyl ester, (E)-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=83783-87-3
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1205
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         80
+    28         25
+    29        108
+    30          3
+    31          4
+    37          3
+    38          9
+    39        175
+    40         39
+    41        178
+    42         15
+    45          6
+    50         11
+    51         20
+    52         13
+    53        131
+    54         50
+    55        691
+    56         32
+    65          5
+    66          5
+    67        300
+    68        999
+    69         86
+    73          4
+    82         54
+    83        697
+    84         38
+    85          7
+    99          2
+   100          6
+   101         54
+   102          3
+   113          2
+   122         16
+   123         25
+   124          3
+   125          4
+   126          1
+   139          3
+   140          1
+   153          1

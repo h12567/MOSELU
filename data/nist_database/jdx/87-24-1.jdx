@@ -1,0 +1,68 @@
+##TITLE=Library Entry 100203
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethyl o-methylbenzoate
+##MOLFORM=C10H12O2
+##CAS REGISTRY NO=87-24-1
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1272
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         22
+    28          2
+    29         28
+    36          3
+    38          5
+    39         48
+    40          4
+    41         12
+    43          5
+    44          4
+    45          5
+    50         13
+    51         28
+    52          7
+    53          5
+    61          2
+    62         13
+    63         48
+    64         16
+    65        142
+    66          8
+    74          4
+    75          4
+    76          3
+    77         40
+    78          6
+    79         30
+    87          3
+    89         75
+    90        138
+    91        461
+    92         45
+    93          3
+   105         14
+   107          6
+   118        604
+   119        999
+   120         96
+   121          8
+   131         12
+   133          9
+   135        241
+   136         84
+   137          7
+   146          7
+   147          4
+   149         30
+   150          3
+   163         14
+   164        518
+   165         55
+   166          4

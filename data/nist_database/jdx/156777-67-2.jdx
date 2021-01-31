@@ -1,0 +1,43 @@
+##TITLE=Library Entry 35177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Bis(trifluoromethylthio)chlorofluoromethane
+##MOLFORM=C3ClF7S2
+##CAS REGISTRY NO=156777-67-2
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    42         14
+    44         20
+    50         15
+    63        633
+    64         39
+    65         33
+    69        999
+    70         15
+    76         98
+    79        162
+    81         67
+    82         66
+    85         11
+    95         52
+    98         75
+   100         27
+   101         59
+   117         10
+   130         13
+   145         48
+   164         15
+   167        592
+   168         17
+   169        202
+   170          2
+   171          8
+   233         50
+   234          1

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 15361
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=1-Octanamine, N-methyl-N-nitro-
+##MOLFORM=C9H20N2O2
+##CAS REGISTRY NO=54789-28-5
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    30        185
+    31         20
+    38         17
+    39        135
+    40         51
+    41        486
+    42        708
+    43        955
+    44        999
+    45         44
+    51         12
+    53         30
+    54         38
+    55        302
+    56        261
+    57        877
+    58         76
+    59         35
+    61         13
+    67         23
+    68         23
+    69        246
+    70        245
+    71         41
+    73         32
+    74         14
+    77         11
+    81         11
+    82         26
+    83         32
+    84        130
+    85         36
+    89        619
+    90         21
+    96         15
+    97         10
+    98         48
+    99         10
+   112         29
+   140         20
+   142        433
+   143         53

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 100613
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H-M. VORBRODT,INST. BIOCHEM.,ACAD. WISS. PFLANZ.,HALLE,
+W. GER.
+##NAMES=HP
+##CAS NAME=3,4:5,6-Di-O-isopropylidene-d-glucose-1-(trimethylenedithioacetal
+)
+##MOLFORM=C15H26O5S2
+##CAS REGISTRY NO=113340-03-7
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+   101        220
+   115        140
+   119        999
+   143         90
+   149        190
+   161         60
+   173        430
+   232        180
+   274         30
+   332         10
+   335         70
+   350         20

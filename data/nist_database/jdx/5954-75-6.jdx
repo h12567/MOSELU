@@ -1,0 +1,27 @@
+##TITLE=Library Entry 54830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiirane, ethenyl-
+##MOLFORM=C4H6S
+##CAS REGISTRY NO=5954-75-6
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    26        127
+    27        388
+    39        587
+    44        127
+    45        666
+    50        155
+    51        158
+    53        325
+    54        222
+    84        111
+    85        999
+    86        666

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 63010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1987
+##NAMES=HP
+##CAS NAME=Benzenemethanesulfonyl fluoride
+##MOLFORM=C7H7FO2S
+##CAS REGISTRY NO=329-98-6
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          5
+    28          5
+    32          1
+    37          4
+    38         11
+    39         65
+    40          4
+    41         16
+    43          2
+    44          1
+    45         10
+    46          1
+    48          6
+    49          1
+    50         16
+    51         32
+    52          9
+    53          1
+    61          5
+    62         13
+    63         40
+    64         12
+    65        131
+    66          8
+    67          4
+    74          2
+    75          2
+    76          2
+    77          8
+    78          4
+    83          2
+    85          1
+    86          2
+    87          2
+    89         30
+    90         16
+    91        999
+    92         78
+    93          3
+   105          5
+   106          3
+   109          6
+   110          3
+   174        149
+   175         12
+   176          8

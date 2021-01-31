@@ -1,0 +1,72 @@
+##TITLE=Library Entry 53797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 655
+##NAMES=HP
+##CAS NAME=2-Methylpiperidine
+##MOLFORM=C6H13N
+##CAS REGISTRY NO=109-05-7
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=793
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15         15
+    17          3
+    18          1
+    26          8
+    27         59
+    28        129
+    29         45
+    30        125
+    31          1
+    32          3
+    37          2
+    38          6
+    39         55
+    40         12
+    41         94
+    42        214
+    43        153
+    44         69
+    45          2
+    46          1
+    50          3
+    51          6
+    52          5
+    53         15
+    54         16
+    55         79
+    56        303
+    57        110
+    58         31
+    59          1
+    62          1
+    63          2
+    65          4
+    66          3
+    67         13
+    68         13
+    69         22
+    70        125
+    71         83
+    72          4
+    77          1
+    78          2
+    79          3
+    80          6
+    81          9
+    82         15
+    83         11
+    84        999
+    85         62
+    86          1
+    93          3
+    94          2
+    96          7
+    97          9
+    98        117
+    99        128
+   100          9

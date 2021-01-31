@@ -1,0 +1,68 @@
+##TITLE=Library Entry 31982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,7-Methanoisobenzofuran-1,3-dione, 3a,4,7,7a-tetrahydro-3a,7a-di
+methyl-, (3a.alpha.,4.alpha.,7.alpha.,7a.alpha.)-
+##MOLFORM=C11H12O3
+##CAS REGISTRY NO=3769-09-3
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    25         11
+    26         60
+    27        147
+    28         33
+    29         13
+    31         33
+    33         11
+    36         10
+    37         69
+    38        116
+    39        634
+    40        253
+    41         20
+    42          8
+    43         20
+    44         18
+    45          6
+    49         27
+    50         87
+    51         99
+    52         44
+    53        140
+    54        437
+    55         29
+    56          8
+    57          8
+    60         10
+    61         40
+    62         54
+    63         78
+    64         30
+    65        436
+    66        999
+    67         67
+    69          5
+    70          5
+    77         15
+    78          5
+    79         19
+    80          5
+    82        253
+    83         14
+    91         14
+    98          4
+   105         16
+   107          7
+   108         10
+   120          5
+   125          4
+   126        123
+   127         12
+   160          1

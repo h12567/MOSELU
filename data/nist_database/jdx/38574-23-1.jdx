@@ -1,0 +1,78 @@
+##TITLE=Library Entry 3614
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. VANDEWALLE
+##NAMES=HP
+##CAS NAME=3-Cyclopenten-1-one, 3-hydroxy-2-(1-hydroxy-3-methylbutylidene)-5
+-(3-methyl-2-butenylidene)-
+##MOLFORM=C15H20O3
+##CAS REGISTRY NO=38574-23-1
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    39        440
+    40         90
+    41        999
+    42         80
+    43        650
+    44        150
+    51        150
+    52         90
+    53        280
+    54         50
+    55        320
+    56         60
+    57        570
+    58         50
+    63         60
+    65        220
+    66         70
+    67        230
+    69        480
+    77        570
+    78        130
+    79        800
+    80        110
+    81        130
+    83         60
+    85        100
+    91        420
+    92         80
+    93        230
+    94        180
+    95        520
+    96         50
+   103         80
+   105         90
+   107        130
+   115         90
+   117         60
+   119        110
+   120         70
+   121        120
+   122         50
+   123        300
+   131         50
+   135         50
+   145         60
+   147         50
+   149        190
+   160         50
+   163         70
+   164        280
+   165         60
+   173         90
+   175         50
+   177         80
+   187        200
+   188        120
+   191        550
+   192        100
+   215        150
+   233        560
+   234         90
+   248        260

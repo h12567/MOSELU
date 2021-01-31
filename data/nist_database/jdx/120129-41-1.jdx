@@ -1,0 +1,45 @@
+##TITLE=Library Entry 33970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Chloro-2,2-bis(trifluoromethyl)aziridine
+##MOLFORM=C4H2ClF6N
+##CAS REGISTRY NO=120129-41-1
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    33        893
+    34         10
+    40         61
+    50        227
+    51        170
+    52         11
+    64        240
+    65          9
+    69        999
+    70         96
+    71          9
+    78        160
+    79         11
+    90         70
+    91          9
+    95         99
+    96          9
+   109        406
+   110         15
+   128        739
+   129         28
+   158         38
+   159        442
+   160         17
+   178        726
+   179         36
+   213        125
+   214          6
+   215         42
+   216          2

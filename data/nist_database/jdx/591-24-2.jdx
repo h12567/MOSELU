@@ -1,0 +1,88 @@
+##TITLE=Library Entry 35079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5017
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 3-methyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=591-24-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=958
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         18
+    16          1
+    17          8
+    18         27
+    26         14
+    27        132
+    28         42
+    29         68
+    30          2
+    31          3
+    32          2
+    33          1
+    34          1
+    37          6
+    38         18
+    39        194
+    40         51
+    41        421
+    42        265
+    43         60
+    44         12
+    45          1
+    49          2
+    50         11
+    51         17
+    52          9
+    53         37
+    54         21
+    55        260
+    56        441
+    57         37
+    58          7
+    61          2
+    62          3
+    63          6
+    64          1
+    65          9
+    66          6
+    67         36
+    68        110
+    69        999
+    70         80
+    71         12
+    74          1
+    77         10
+    78          4
+    79         52
+    80          5
+    81         12
+    82         14
+    83         24
+    84         33
+    85          3
+    86          1
+    89          1
+    90          1
+    91         12
+    92          7
+    93          5
+    94         51
+    95          6
+    96          5
+    97        104
+    98          7
+   107          6
+   108          7
+   109          1
+   110          8
+   111          6
+   112        297
+   113         23
+   114          2

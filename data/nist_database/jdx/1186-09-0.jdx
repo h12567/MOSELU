@@ -1,0 +1,50 @@
+##TITLE=Library Entry 50071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Phosphorothioic acid, O,O,S-triethyl ester
+##MOLFORM=C6H15O3PS
+##CAS REGISTRY NO=1186-09-0
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        445
+    29        472
+    35        250
+    45        408
+    60        468
+    61        467
+    62        998
+    65        590
+    75         88
+    81        999
+    82        747
+    83        540
+    91        493
+    93        747
+    97        696
+   109        795
+   110        597
+   111        597
+   112         19
+   113         69
+   114         68
+   115        129
+   125        276
+   126        297
+   137         69
+   138        295
+   139         90
+   141         89
+   142        200
+   143         69
+   153        129
+   154        249
+   169        129
+   170        397
+   198        498

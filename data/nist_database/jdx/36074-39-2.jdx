@@ -1,0 +1,52 @@
+##TITLE=Library Entry 81865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I. A. ERMAKOV
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octan-3-one, 6-[(benzoyloxy)methyl]-, trans-
+##MOLFORM=C15H17NO3
+##CAS REGISTRY NO=36074-39-2
+##MP= -300
+##BP= -300
+##MW= 259
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        170
+    42        220
+    43         50
+    54         60
+    55        230
+    56         70
+    67         70
+    68        150
+    69         70
+    70         20
+    77        200
+    80         30
+    81        160
+    82         80
+    94         30
+    95         30
+    96        150
+    97         10
+    98         60
+   105        999
+   106         80
+   109        110
+   110        420
+   111         40
+   126        360
+   127         50
+   135         20
+   160         40
+   168         20
+   180         10
+   190        140
+   203         70
+   216         20
+   230         20
+   231        700
+   232        110
+   259         20

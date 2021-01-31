@@ -1,0 +1,26 @@
+##TITLE=Library Entry 89959
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.W.ROESKY, GOTTINGEN UNIV., GOTTINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=1,2-Hydrazinedisulfonyl difluoride
+##MOLFORM=F2H2N2O4S2
+##CAS REGISTRY NO=19403-57-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    29        900
+    30        500
+    48        990
+    51         10
+    64        990
+    65        430
+    66        170
+    67        570
+    83        270
+   113        999
+   196         40

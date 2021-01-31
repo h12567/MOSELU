@@ -1,0 +1,89 @@
+##TITLE=Library Entry 44331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=erythro-Pentonic acid, 3-deoxy-2,4,5-tris-O-(trimethylsilyl)-2-C-
+[[(trimethylsilyl)oxy]methyl]-, trimethylsilyl ester
+##MOLFORM=C21H52O6Si5
+##CAS REGISTRY NO=55517-79-8
+##MP= -300
+##BP= -300
+##MW= 540
+##$RETENTION INDEX=1931
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    28         32
+    41         26
+    43         14
+    44         14
+    45         44
+    55          8
+    59         29
+    72         26
+    73        999
+    74         88
+    75         85
+    89         14
+   101         26
+   103         61
+   117         70
+   129        115
+   130          8
+   131         29
+   132         56
+   141         14
+   147        339
+   148         56
+   149         44
+   175         14
+   189         59
+   190          8
+   191         56
+   203         32
+   204         26
+   205        179
+   206         32
+   207         26
+   217         32
+   221         29
+   243        241
+   244         61
+   245         44
+   257         82
+   258         26
+   271         29
+   277         26
+   303         32
+   304          8
+   305         59
+   306         26
+   317         29
+   319         26
+   321         14
+   333         44
+   334         14
+   345         26
+   347        179
+   348         59
+   349         29
+   405         29
+   407         14
+   422         26
+   423         29
+   424          8
+   425         14
+   435        241
+   436        118
+   437        457
+   438        177
+   439         91
+   440         29
+   510         32
+   511         14
+   512         11
+   525        153
+   526         82
+   527         59
+   528         14

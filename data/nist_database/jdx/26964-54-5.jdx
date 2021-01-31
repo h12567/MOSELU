@@ -1,0 +1,47 @@
+##TITLE=Library Entry 88130
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Pyrazoline, 1-isopropyl-5-methyl-
+##MOLFORM=C7H14N2
+##CAS REGISTRY NO=26964-54-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=852
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         83
+    29         23
+    30          9
+    38          4
+    39         53
+    40         15
+    41        104
+    42        319
+    43         68
+    44         66
+    52          4
+    53          7
+    54         17
+    55         11
+    56         26
+    57          4
+    58          5
+    67          5
+    68         34
+    69        766
+    70         42
+    81          5
+    82          8
+    83         36
+    84          9
+   111        999
+   112         55
+   125          9
+   126        266
+   127         21

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 75636
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Glucitol, O-2,3,4,6-tetra-O-methyl-.beta.-D-glucopyranosyl-(1.fwd
+arw.3)-O-2,4,6-tri-O-methyl-.beta.-D-glucopyranosyl-(1.fwdarw.6)-1,2,3,4,5-p
+enta-O-methyl-, D-
+##MOLFORM=C30H58O16
+##CAS REGISTRY NO=32581-21-8
+##MP= -300
+##BP= -300
+##MW= 674
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    45        574
+    71        683
+    75        386
+    88        663
+    89        366
+   101        999
+   103         89
+   111        495
+   115        188
+   133         89
+   143         49
+   145        178
+   155        277
+   159        168
+   171         89
+   175          9
+   177         49
+   187        920
+   201          9
+   203         19
+   219        118
+   235        178
+   347          7
+   359         12
+   365          9
+   375          6
+   391          5
+   407         12
+   423          8
+   439          6
+   499          7
+   541         11

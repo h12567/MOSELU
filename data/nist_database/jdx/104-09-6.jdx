@@ -1,0 +1,75 @@
+##TITLE=Library Entry 79314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzeneacetaldehyde, 4-methyl-
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=104-09-6
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=1120
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15         13
+    26         19
+    27        101
+    29        199
+    30          3
+    31          2
+    37         14
+    38         38
+    39        152
+    40         17
+    41         14
+    42          4
+    43          2
+    50         80
+    51        143
+    52         44
+    53         42
+    54          2
+    55          2
+    58          1
+    61         14
+    62         39
+    63         89
+    64         18
+    65         59
+    66          9
+    73          4
+    74         28
+    75         19
+    76          4
+    77        279
+    78        103
+    79        239
+    80         17
+    85          3
+    86          6
+    87          7
+    88          3
+    89         30
+    90          3
+    91        225
+    92         19
+    97          1
+    98          3
+   102         28
+   103        157
+   105        999
+   106        247
+   107         19
+   115          6
+   116          9
+   117          2
+   119          1
+   131          1
+   132          1
+   134        278
+   135         29
+   136          2

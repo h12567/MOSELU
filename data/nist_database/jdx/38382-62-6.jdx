@@ -1,0 +1,53 @@
+##TITLE=Library Entry 4458
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Azetidine, 1-chloro-2-methyl-
+##MOLFORM=C4H8ClN
+##CAS REGISTRY NO=38382-62-6
+##MP= -300
+##BP= -300
+##MW= 105
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        190
+    28        390
+    29         90
+    30         85
+    31         50
+    39        100
+    40         85
+    41        450
+    42        999
+    43        115
+    44         40
+    45         15
+    55        165
+    56        450
+    57         50
+    59         35
+    64        100
+    65         80
+    66        200
+    67         40
+    68         85
+    69         20
+    70         40
+    71         40
+    72         50
+    73         30
+    76         40
+    77        325
+    78         50
+    79        130
+    90        130
+    91         30
+    92         70
+   104         15
+   105        170
+   106         10
+   107         60

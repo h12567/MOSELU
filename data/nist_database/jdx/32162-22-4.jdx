@@ -1,0 +1,52 @@
+##TITLE=Library Entry 73314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Dziwinski ET AL. J.Chromatogr.,367,201(1986)
+##NAMES=HP
+##CAS NAME=Benzyl butyl maleate
+##MOLFORM=C15H18O4
+##CAS REGISTRY NO=32162-22-4
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39         59
+    41        149
+    43        440
+    50         29
+    54         51
+    55        128
+    57        166
+    63         21
+    65        106
+    72         72
+    77         42
+    79         34
+    82        111
+    89         21
+    90         42
+    91        841
+    92         85
+    99        132
+   100        999
+   101         51
+   105         17
+   107         72
+   108          8
+   115         12
+   117         12
+   133         12
+   144         21
+   156        333
+   157         25
+   161         21
+   162          8
+   188         21
+   189         51
+   217         25
+   218         12
+   262         17
+   263         12

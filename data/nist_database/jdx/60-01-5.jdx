@@ -1,0 +1,63 @@
+##TITLE=Library Entry 38686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 509
+##NAMES=HP
+##CAS NAME=Tributyrin
+##MOLFORM=C15H26O6
+##CAS REGISTRY NO=60-01-5
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=1814
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          1
+    27         43
+    28          5
+    29          9
+    31          3
+    39         12
+    40          2
+    41         56
+    42         14
+    43        301
+    44          9
+    45          2
+    55         10
+    57          7
+    60          3
+    69          6
+    70         11
+    71        999
+    72         44
+    73          4
+    87          2
+    89          4
+   101          1
+   103          2
+   114          1
+   116          2
+   126          4
+   129          2
+   131         13
+   141          1
+   142          6
+   143         35
+   144         19
+   145         16
+   158          6
+   159          6
+   171          3
+   186         11
+   187          1
+   199          6
+   201         66
+   202          7
+   214         14
+   215         28
+   216          3
+   229         10
+   230          1

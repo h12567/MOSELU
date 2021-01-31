@@ -1,0 +1,82 @@
+##TITLE=Library Entry 63627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-[(phenylmethyl)thio]-, methyl ester, (Z)-
+##MOLFORM=C11H12O2S
+##CAS REGISTRY NO=77611-66-6
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26         35
+    27         57
+    28          3
+    29         57
+    30         31
+    31         26
+    32          1
+    38         39
+    39        216
+    40         35
+    41        110
+    42         57
+    43         92
+    44        199
+    45        212
+    46         31
+    47         26
+    50         48
+    51        106
+    52         35
+    53         35
+    55         53
+    56         35
+    57         70
+    58        123
+    59         88
+    60         88
+    61         35
+    62         35
+    63        128
+    64         53
+    65        553
+    66         53
+    67         35
+    68         26
+    69        123
+    70         35
+    71         35
+    77        123
+    78         70
+    79         57
+    81         88
+    82         35
+    85         53
+    86         88
+    87         48
+    89        106
+    90         48
+    91        999
+    92        336
+    93         31
+   115        177
+   116         48
+   117        659
+   118         48
+   121        106
+   122         48
+   123         48
+   147         61
+   148         79
+   149        123
+   175        207
+   176        154
+   177        190
+   208        707
+   209        110
+   210         57

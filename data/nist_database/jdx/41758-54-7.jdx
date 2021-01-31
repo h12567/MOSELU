@@ -1,0 +1,51 @@
+##TITLE=Library Entry 10327
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Evonimine
+##MOLFORM=C36H43NO17
+##CAS REGISTRY NO=41758-54-7
+##MP= -300
+##BP= -300
+##MW= 761
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        170
+    43        999
+    55        150
+    57        240
+    69        100
+    70        110
+    71        130
+    83        100
+    93        979
+   106        200
+   108        180
+   124        130
+   129        270
+   132        230
+   133        130
+   134        130
+   147        140
+   150        110
+   160        160
+   161        180
+   178        579
+   206        420
+   207         69
+   218         72
+   219         29
+   222         48
+   234         32
+   262         35
+   644        133
+   645         48
+   658         72
+   659         40
+   702         85
+   703         74
+   717         32
+   761        111

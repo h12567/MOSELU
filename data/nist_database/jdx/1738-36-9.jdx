@@ -1,0 +1,46 @@
+##TITLE=Library Entry 2082
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methoxyacetonitrile
+##MOLFORM=C3H5NO
+##CAS REGISTRY NO=1738-36-9
+##MP= -300
+##BP= -300
+##MW= 71
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    12         16
+    13         33
+    14         60
+    15        204
+    16          6
+    17          3
+    18          3
+    24          4
+    25         11
+    26         39
+    27         45
+    28        210
+    29        761
+    30         48
+    31         26
+    32          3
+    38         64
+    39         85
+    40        287
+    41        999
+    42        369
+    43         47
+    44         69
+    45         58
+    53          2
+    54         44
+    55          4
+    56         23
+    70        401
+    71        158
+    72          6

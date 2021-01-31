@@ -1,0 +1,62 @@
+##TITLE=Library Entry 4071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(5)1565(1978); H. FLOHR ET AL.
+##NAMES=HP
+##CAS NAME=Propanedioic acid, (bromomethyl)methyl-, bis[5,6-bis(hydroxyimino
+)heptyl] ester
+##MOLFORM=C19H31BrN4O8
+##CAS REGISTRY NO=60004-38-8
+##MP= -300
+##BP= -300
+##MW= 522
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        660
+    43        600
+    44        190
+    45         50
+    53        150
+    54        240
+    55        800
+    56        120
+    57        180
+    58        680
+    59         90
+    67        120
+    68        140
+    69        750
+    70        110
+    71        100
+   121         90
+   122         90
+   124         90
+   125         90
+   126        180
+   127         90
+   128         50
+   129        110
+   138         60
+   139        860
+   140        160
+   141        240
+   142        400
+   143         40
+   156         60
+   157        270
+   158        650
+   159         70
+   218         30
+   220         30
+   367         20
+   369         20
+   430         10
+   432         10
+   505         50
+   507         70
+   509         30
+   522         85
+   524         95

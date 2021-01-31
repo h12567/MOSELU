@@ -1,0 +1,59 @@
+##TITLE=Library Entry 77676
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N,N'-Bis(2-chloro-4-nitrophenyl)terephthalamide
+##MOLFORM=C20H12Cl2N4O6
+##CAS REGISTRY NO=148651-23-4
+##MP= -300
+##BP= -300
+##MW= 474
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    42         35
+    43        177
+    44         56
+    45        100
+    50        188
+    51        110
+    52         39
+    53         28
+    57         52
+    58        211
+    62         30
+    63        225
+    64         28
+    65        401
+    74         32
+    75        142
+    76        553
+    77         45
+    88        260
+    90         36
+    93         36
+   101         32
+   103         60
+   104        999
+   105         47
+   111         33
+   121        186
+   132         62
+   139         38
+   149        848
+   150         43
+   163         38
+   167         74
+   211         26
+   255         31
+   257         37
+   303        644
+   304         50
+   305        211
+   439         85
+   441         28
+   474         69
+   476         48

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 222
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Trimethylene oxide
+##MOLFORM=C3H6O
+##CAS REGISTRY NO=503-30-0
+##MP= -300
+##BP= -300
+##MW= 58
+##$RETENTION INDEX=542
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12          3
+    13         10
+    14         20
+    15         20
+    18          0
+    19          2
+    24          6
+    25         24
+    26        250
+    27        328
+    28        999
+    29        389
+    30         64
+    31         68
+    37         16
+    38         18
+    39         19
+    40          3
+    41          7
+    42          6
+    43          4
+    53          5
+    55          8
+    57        105
+    58        445
+    59         17

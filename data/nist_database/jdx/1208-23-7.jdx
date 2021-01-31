@@ -1,0 +1,83 @@
+##TITLE=Library Entry 99254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Glycine, N-(4-methylbenzoyl)-, methyl ester
+##MOLFORM=C11H13NO3
+##CAS REGISTRY NO=1208-23-7
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=1781
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    30          5
+    31          3
+    33          1
+    37          0
+    38          3
+    39         47
+    40          5
+    41         16
+    42          4
+    43          0
+    44          7
+    45          4
+    46          0
+    50         10
+    51         22
+    52          6
+    53          2
+    54          0
+    55          1
+    56          8
+    59         10
+    60          0
+    61          0
+    62          8
+    63         33
+    64         11
+    65        147
+    66          7
+    67          0
+    74          3
+    75          3
+    76          3
+    77          4
+    78          0
+    83          0
+    86          0
+    87          1
+    88          3
+    89         44
+    90         34
+    91        302
+    92         23
+    93          0
+   103          0
+   104          0
+   105          2
+   106          1
+   116          2
+   117          4
+   118         13
+   119        999
+   120         87
+   121          6
+   131          2
+   132          1
+   146          1
+   147          3
+   148        115
+   149         11
+   150          0
+   175         20
+   176         11
+   177          0
+   178          0
+   189          0
+   206          0
+   207         92
+   208         10

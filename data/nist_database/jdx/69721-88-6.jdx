@@ -1,0 +1,38 @@
+##TITLE=Library Entry 54540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2646(1978); P. DATWYLER ET AL
+##NAMES=HP
+##CAS NAME=4H-1,16-Etheno-5,15-(propaniminoethano)furo[3,4-l][1,5,10]triazac
+yclohexadecine-4,21-dione, 3,3a,6,7,8,9,10,11,12,13,14,15-dodecahydro-3-(4-h
+ydroxyphenyl)-10,14-dimethyl-
+##MOLFORM=C30H40N4O4
+##CAS REGISTRY NO=69721-88-6
+##MP= -300
+##BP= -300
+##MW= 520
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    70        556
+    84        999
+    98        465
+   107        272
+   111        511
+   223        238
+   224        170
+   236        227
+   237        159
+   238        125
+   252        147
+   264        193
+   265        159
+   266        159
+   434        136
+   448        113
+   463        625
+   477        113
+   505        113
+   520        261
+   521        113

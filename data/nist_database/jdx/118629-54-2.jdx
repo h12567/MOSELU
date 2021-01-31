@@ -1,0 +1,27 @@
+##TITLE=Library Entry 91510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,1-Dicarbethoxy-3-acetoxy-indane
+##MOLFORM=C17H20O6
+##CAS REGISTRY NO=118629-54-2
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    43        782
+   103        267
+   115        999
+   116        521
+   131        670
+   160        390
+   187        420
+   188        328
+   204        179
+   260        230
+   277         49
+   320         19

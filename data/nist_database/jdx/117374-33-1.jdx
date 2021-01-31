@@ -1,0 +1,49 @@
+##TITLE=Library Entry 3487
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Heptadecafluorononanoic acid, allyl ester
+##MOLFORM=C12H5F17O2
+##CAS REGISTRY NO=117374-33-1
+##MP= -300
+##BP= -300
+##MW= 504
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        212
+    40        153
+    41        999
+    42         37
+    44         21
+    45          4
+    51          1
+    55          8
+    56          2
+    57         72
+    69        537
+    70          3
+    93         20
+   100        149
+   107          6
+   109         24
+   112          9
+   119        239
+   131        426
+   132          7
+   135          5
+   143          4
+   150          5
+   162         19
+   169        244
+   181         40
+   193          3
+   219         47
+   231         18
+   281          7
+   331          9
+   476         38
+   504        105
+   505          5

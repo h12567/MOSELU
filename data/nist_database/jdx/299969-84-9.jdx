@@ -1,0 +1,44 @@
+##TITLE=Library Entry 89709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=1,2,5-Oxadiazole, 3-(acetylamino)-4-(diacetylamino)-
+##MOLFORM=C8H10N4O4
+##CAS REGISTRY NO=299969-84-9
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    52         10
+    53         75
+    54         11
+    56         19
+    57         13
+    58         25
+    68         31
+    69         19
+    70        388
+    71         19
+    83         11
+    84         44
+    85        513
+    86         25
+   100        150
+   112        999
+   113         75
+   114        106
+   127         75
+   142        575
+   143         38
+   154        278
+   155         25
+   156         11
+   169         31
+   170          2
+   184        100
+   185         38

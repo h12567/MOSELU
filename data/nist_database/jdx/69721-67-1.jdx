@@ -1,0 +1,53 @@
+##TITLE=Library Entry 83855
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2646(1978); P. DATWYLER ET AL
+##NAMES=HP
+##CAS NAME=1,6,10,22-Tetraazatricyclo[9.7.6.1(12,16)]pentacosa-12,14,16(25)-
+triene-18,23-dione, 6,10-diacetyl-15-(acetyloxy)-17-[[4-(acetyloxy)phenyl]me
+thyl]-
+##MOLFORM=C36H46N4O8
+##CAS REGISTRY NO=69721-67-1
+##MP= -300
+##BP= -300
+##MW= 662
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    70        230
+    84        290
+    98        140
+   100        310
+   107        999
+   113        170
+   129        120
+   143         60
+   149         70
+   153         60
+   155        100
+   157         70
+   159        100
+   169         80
+   171         40
+   187         70
+   198         40
+   210         40
+   214         50
+   228         30
+   238         40
+   239         40
+   240         40
+   242         60
+   256         50
+   265         40
+   268         40
+   269         50
+   327         30
+   472         20
+   523         40
+   535         30
+   565         50
+   577        120
+   619        310
+   662         10

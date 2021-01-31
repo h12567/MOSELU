@@ -1,0 +1,58 @@
+##TITLE=Library Entry 17687
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Methoxymethyl phenyl sulfide
+##MOLFORM=C8H10OS
+##CAS REGISTRY NO=13865-50-4
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15         22
+    27          5
+    29         55
+    38          9
+    39         55
+    44         11
+    45        999
+    46         27
+    47          6
+    50         23
+    51         50
+    52          3
+    57          5
+    58          6
+    62          5
+    63         14
+    65         83
+    66         15
+    69         52
+    70          2
+    71          5
+    74         14
+    75          8
+    76          6
+    77         61
+    78         39
+    79         14
+    81          8
+    82         16
+    83          7
+    84          5
+    91         33
+   108         19
+   109        100
+   110         16
+   111          4
+   121          6
+   123         36
+   124         45
+   125          3
+   154        300
+   155         27
+   156         13

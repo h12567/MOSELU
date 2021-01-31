@@ -1,0 +1,50 @@
+##TITLE=Library Entry 85297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Pyridinol, 2-methoxy-6-methyl-
+##MOLFORM=C7H9NO2
+##CAS REGISTRY NO=53603-12-6
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        256
+    28        252
+    29        132
+    30         32
+    38         56
+    39        272
+    40         64
+    41        192
+    42        140
+    43         52
+    51         44
+    52         52
+    53        176
+    54         60
+    55        168
+    56         56
+    67        160
+    68        216
+    69        332
+    70        184
+    80        248
+    81        152
+    82        204
+    94         68
+    95         40
+    96         76
+    97         68
+    98         60
+   107        104
+   108        999
+   109        699
+   110         84
+   138        999
+   139        751
+   140        132

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 15942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=[4(3H)-Quinazolinone-2-ylthio]acetamide
+##MOLFORM=C10H9N3O2S
+##CAS REGISTRY NO=16431-31-5
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    38         75
+    39        124
+    42        315
+    44        999
+    45        250
+    46        244
+    47         49
+    50         82
+    51         37
+    52         33
+    59         71
+    62         45
+    63        207
+    64        123
+    74         34
+    75         48
+    76         46
+    77         55
+    90        706
+    91         95
+    92        111
+   104         30
+   116         47
+   117        118
+   118        115
+   119        426
+   120         72
+   131         31
+   132        147
+   144         47
+   145        385
+   146        255
+   147         79
+   150        132
+   162        210
+   163        489
+   164         39
+   177         37
+   178        112
+   190        280
+   191        356
+   192        385
+   193         33
+   218        511
+   219         49
+   235        343
+   236         37

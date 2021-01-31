@@ -1,0 +1,62 @@
+##TITLE=Library Entry 57437
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Butene, 1-(methylthio)-, (Z)-
+##MOLFORM=C5H10S
+##CAS REGISTRY NO=17414-15-2
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         27
+    27        149
+    28         12
+    29         58
+    30          1
+    31          0
+    33          0
+    34          5
+    35          6
+    37          8
+    38         18
+    39        193
+    41         97
+    44          1
+    45        555
+    46         64
+    47        180
+    48         28
+    49         23
+    50         33
+    51         42
+    52          6
+    53        253
+    54        352
+    55        406
+    56         25
+    57         19
+    58         57
+    59        103
+    60         13
+    61         58
+    67          8
+    69         18
+    71         48
+    72         44
+    73          5
+    74         11
+    84          3
+    85         96
+    86         30
+    87        999
+    88         54
+    89         43
+   101         28
+   102        881
+   103         61
+   104         41

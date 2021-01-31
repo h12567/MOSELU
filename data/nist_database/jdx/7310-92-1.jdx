@@ -1,0 +1,72 @@
+##TITLE=Library Entry 17204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Propargyl ethyl sulfide
+##MOLFORM=C5H8S
+##CAS REGISTRY NO=7310-92-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=782
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    12          7
+    13         10
+    14         18
+    15         16
+    18          9
+    24          5
+    25         20
+    26        121
+    27        443
+    28         70
+    29        133
+    32         22
+    33         16
+    34         15
+    35        126
+    36         12
+    37        131
+    38        221
+    39        603
+    40         32
+    41         64
+    45        999
+    46        106
+    47         85
+    50          9
+    51         13
+    53         11
+    54          7
+    55         12
+    56         11
+    57         43
+    58        128
+    59        210
+    60        283
+    61        153
+    62         26
+    63          9
+    64          7
+    65         30
+    66         16
+    67         49
+    68         32
+    69        171
+    70        101
+    71        837
+    72        647
+    73         70
+    74         16
+    75          6
+    85        362
+    86         20
+    87         19
+    97          7
+    99         71
+   100        600
+   101         43
+   102         30

@@ -1,0 +1,27 @@
+##TITLE=Library Entry 77731
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.HIGASHINO COLLEGE OF PHARM., OSHIKA, SHIZUOKA-SHI, JA
+PAN
+##NAMES=HP
+##CAS NAME=Pyrido[2,3-d]pyrimidine, 4-chloro-
+##MOLFORM=C7H4ClN3
+##CAS REGISTRY NO=28732-79-8
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    76        130
+    77        380
+    78         80
+   104        999
+   105        110
+   130        630
+   131         80
+   165        780
+   166         90
+   167        260
+   168         40

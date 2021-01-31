@@ -1,0 +1,86 @@
+##TITLE=Library Entry 55244
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Methyl-1-dimethyl(ethenyl)silyloxypropane
+##MOLFORM=C8H18OSi
+##CAS REGISTRY NO=137307-77-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    26         37
+    27        175
+    28          5
+    29         89
+    30         13
+    31         51
+    36          4
+    37          6
+    38         16
+    39        125
+    40         16
+    41        188
+    42         53
+    43        308
+    44         67
+    45        235
+    46         15
+    47         81
+    48          7
+    49          7
+    50         29
+    51         47
+    52         43
+    53         55
+    54         11
+    55         95
+    56         31
+    57         45
+    58         95
+    59        428
+    60         68
+    61        279
+    62         19
+    63         19
+    67         15
+    69         21
+    70         48
+    71         52
+    72          8
+    73         25
+    74         27
+    75        448
+    76         39
+    77         25
+    78          8
+    79         59
+    83         17
+    84         11
+    85        999
+    86         95
+    87        965
+    88         97
+    89         45
+    99         38
+   100         17
+   101         21
+   114          8
+   115        602
+   116         74
+   117         27
+   119          4
+   130         49
+   131         39
+   132          5
+   142         13
+   143        768
+   144         95
+   145         38
+   158         25
+   159          5
+   160          3

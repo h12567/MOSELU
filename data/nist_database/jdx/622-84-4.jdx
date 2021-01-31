@@ -1,0 +1,62 @@
+##TITLE=Library Entry 47140
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Formic acid, 2-phenylhydrazide
+##MOLFORM=C7H8N2O
+##CAS REGISTRY NO=622-84-4
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12         11
+    14         12
+    16         38
+    18          5
+    26         10
+    27         37
+    28         86
+    29        367
+    30         24
+    37         64
+    38        129
+    39        293
+    40         40
+    41         18
+    43         20
+    44         22
+    49         29
+    50        235
+    51        549
+    52        131
+    53         61
+    54         13
+    61         36
+    62         47
+    63        121
+    64        119
+    65        332
+    66         55
+    73         16
+    74         31
+    75         34
+    76         16
+    77        999
+    78        180
+    79         52
+    80        115
+    81         14
+    90         24
+    91        148
+    92        183
+    93         82
+   105        129
+   107        777
+   108        159
+   136        540
+   137         45
+   138          1

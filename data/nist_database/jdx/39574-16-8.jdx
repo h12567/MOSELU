@@ -1,0 +1,69 @@
+##TITLE=Library Entry 55646
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethyl 2-isothiocyanatopropionate
+##MOLFORM=C6H9NO2S
+##CAS REGISTRY NO=39574-16-8
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=1142
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+     4          0
+    13          1
+    14          8
+    15         32
+    16          1
+    18          1
+    19          1
+    26         58
+    27        261
+    28        137
+    29        386
+    30         17
+    31          6
+    32         17
+    33          2
+    38          2
+    39          5
+    40         10
+    41          8
+    42         18
+    43         22
+    44         28
+    45         52
+    46          5
+    47          1
+    51          3
+    52          6
+    53          3
+    54         19
+    55         29
+    56         34
+    57         21
+    58         37
+    59         91
+    60        147
+    61          9
+    62          7
+    68          1
+    70         17
+    71         16
+    72          5
+    73          8
+    74          2
+    82          2
+    84         20
+    86        999
+    87         83
+    88         48
+    89          3
+   115          1
+   131          4
+   159        243
+   160         20
+   161         11

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 38428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Butanoic acid, 1-methylpropyl ester
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=819-97-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=915
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         20
+    27        134
+    29        149
+    30          2
+    31          6
+    35          1
+    36          2
+    37          3
+    38          9
+    39         82
+    40         13
+    41        264
+    42         76
+    43        392
+    44         22
+    45         25
+    53          9
+    55         32
+    56        221
+    57        281
+    58         12
+    59          4
+    60         75
+    61          2
+    69          2
+    70          3
+    71        999
+    72         47
+    73         94
+    74          3
+    75          2
+    76          2
+    85          2
+    87          3
+    88         88
+    89        224
+    90         10
+   100          1
+   101          2
+   115         61
+   116          8
+   129         12

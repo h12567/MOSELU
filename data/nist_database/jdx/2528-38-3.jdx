@@ -1,0 +1,63 @@
+##TITLE=Library Entry 72625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., Institute of Petrochemical Synthesis RAS
+##NAMES=HP
+##CAS NAME=tri-n-Amylphosphate
+##MOLFORM=C15H33O4P
+##CAS REGISTRY NO=2528-38-3
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=1895
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          9
+    28          5
+    29         14
+    36          3
+    38          3
+    39         17
+    40          4
+    41         50
+    42         37
+    43         75
+    44          6
+    53          7
+    54          5
+    55         54
+    56          4
+    57          5
+    67          8
+    68          6
+    69         25
+    70         29
+    71         35
+    81          6
+    82          6
+    83          9
+    91          5
+    99        999
+   101          8
+   111         12
+   112         10
+   113         19
+   123          4
+   125         42
+   126          3
+   127         29
+   139         14
+   151         17
+   153         10
+   155          6
+   167          9
+   169        197
+   170         11
+   173          4
+   181          7
+   183          4
+   197         17
+   239        127
+   240         14

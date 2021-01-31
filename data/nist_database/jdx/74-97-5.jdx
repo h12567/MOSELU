@@ -1,0 +1,51 @@
+##TITLE=Library Entry 18046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 917
+##NAMES=HP
+##CAS NAME=Methane, bromochloro-
+##MOLFORM=CH2BrCl
+##CAS REGISTRY NO=74-97-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=577
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          7
+    14         11
+    35         20
+    36          6
+    37          6
+    38          2
+    47         71
+    48         51
+    49        999
+    50         23
+    51        309
+    52          3
+    63          7
+    64          8
+    65          2
+    79         68
+    80         13
+    81         69
+    82         13
+    84          3
+    86          2
+    91         48
+    92         13
+    93        196
+    94         13
+    95        150
+    96          2
+   126          2
+   127          6
+   128        474
+   129         12
+   130        609
+   131          9
+   132        146
+   133          1

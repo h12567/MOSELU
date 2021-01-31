@@ -1,0 +1,72 @@
+##TITLE=Library Entry 76893
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Phthalimide, N-(3-oxo-isoxazolidin-4-yl)-
+##MOLFORM=C11H8N2O4
+##CAS REGISTRY NO=107207-06-7
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41         33
+    42         30
+    43         52
+    44          8
+    49          7
+    50        415
+    51         96
+    52        104
+    53          8
+    55         15
+    63         16
+    66        150
+    73         32
+    74        136
+    75        169
+    76        760
+    77        192
+    78         27
+    86         38
+    89         28
+    90         69
+    91          7
+   102         70
+   103        140
+   104        999
+   105        181
+   116         19
+   117        107
+   118         42
+   129        142
+   130        176
+   131          8
+   132        446
+   133        105
+   145        193
+   146        119
+   147         27
+   148        220
+   149         15
+   159         27
+   160        240
+   161        118
+   163         28
+   172        160
+   173        553
+   174        115
+   175        111
+   186         27
+   187        440
+   188         52
+   189        242
+   190         31
+   200        142
+   201          8
+   232         63
+   233         19

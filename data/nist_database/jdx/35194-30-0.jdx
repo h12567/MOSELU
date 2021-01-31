@@ -1,0 +1,51 @@
+##TITLE=Library Entry 8113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=9-Decen-2-one
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=35194-30-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        220
+    42         20
+    43        999
+    44         10
+    53         30
+    54         80
+    55        240
+    56         10
+    57         10
+    58        710
+    59        100
+    67         60
+    68         40
+    69        120
+    71        280
+    72         30
+    79         30
+    81         70
+    82         10
+    84         20
+    85         20
+    86         20
+    93         10
+    94        120
+    95         20
+    96        130
+    97         70
+    98         10
+    99         10
+   107         10
+   111         50
+   112         10
+   125         20
+   136         10
+   154         20

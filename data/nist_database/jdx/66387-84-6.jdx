@@ -1,0 +1,37 @@
+##TITLE=Library Entry 18742
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(2)795(1978); L. HOESCH ET AL.
+##NAMES=HP
+##CAS NAME=N,N'-Bis[(5Z)-cyclooctenylidene]-hydrazine
+##MOLFORM=C16H24N2
+##CAS REGISTRY NO=66387-84-6
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    51         70
+    52         60
+    53        210
+    54        999
+    55        150
+    65        110
+    66        180
+    67        600
+    68        150
+    77        160
+    78         70
+    79        870
+    80        770
+    81        130
+    91        130
+    93        330
+    94        100
+    95        130
+   108        110
+   122        210
+   123        150
+   244        170

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 78382
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Acetanilide, 4'-hydroxy-, benzoate
+##MOLFORM=C15H13NO3
+##CAS REGISTRY NO=537-52-0
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    38          9
+    39         25
+    40         44
+    41          8
+    42         31
+    43        327
+    44         17
+    45          5
+    50         42
+    51        122
+    52         39
+    53         38
+    54          6
+    62         18
+    63         11
+    64          7
+    65          6
+    74          8
+    76         31
+    77        396
+    78         31
+    80         71
+    81         24
+    91          8
+   105        999
+   106         75
+   108         72
+   109         52
+   255        115
+   256         22

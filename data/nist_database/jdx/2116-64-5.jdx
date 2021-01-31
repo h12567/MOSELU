@@ -1,0 +1,81 @@
+##TITLE=Library Entry 63230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3093
+##NAMES=HP
+##CAS NAME=Pyridine, 4-(2-phenylethyl)-
+##MOLFORM=C13H13N
+##CAS REGISTRY NO=2116-64-5
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=1603
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          8
+    28          2
+    37          1
+    38          4
+    39         47
+    40          3
+    41          9
+    45          4
+    46          1
+    50         10
+    51         37
+    52         10
+    53          3
+    54          2
+    61          1
+    62          4
+    63         19
+    64          7
+    65        113
+    66          7
+    74          3
+    75          4
+    76          7
+    77         20
+    78         12
+    79          3
+    80          1
+    83          1
+    86          1
+    87          1
+    89         11
+    90          6
+    91        999
+    92         87
+    93          4
+   101          1
+   102          3
+   103          5
+   104          6
+   105          4
+   106          1
+   115          5
+   116          1
+   126          2
+   127          4
+   128          5
+   129          1
+   139          2
+   140          1
+   141          1
+   151          2
+   152          8
+   153          5
+   154          3
+   155          1
+   165          1
+   166          2
+   167          5
+   168          1
+   180         10
+   181          3
+   182          4
+   183        388
+   184         56
+   185          4

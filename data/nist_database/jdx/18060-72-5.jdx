@@ -1,0 +1,59 @@
+##TITLE=Library Entry 36380
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-Methylthio-1,2,4-triazin-5-ol
+##MOLFORM=C4H5N3OS
+##CAS REGISTRY NO=18060-72-5
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        180
+    42        243
+    43        319
+    45        255
+    46        113
+    48        459
+    50         28
+    52          2
+    54         31
+    55          9
+    56         22
+    57          8
+    58         48
+    59         29
+    60         13
+    61          9
+    69        999
+    70         44
+    72         42
+    74        274
+    75          9
+    76         10
+    78          1
+    83         28
+    84          1
+    86         32
+    88         50
+    89          3
+    90          0
+    94          3
+    96          6
+    97          3
+    98          5
+    99          1
+   116        289
+   117          7
+   118          7
+   128         10
+   142         14
+   143        486
+   144         87
+   145         15
+   146          3

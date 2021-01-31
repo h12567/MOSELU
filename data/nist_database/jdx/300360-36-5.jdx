@@ -1,0 +1,65 @@
+##TITLE=Library Entry 78744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=N-(2-Bromo-4-nitro-phenyl)-benzamide
+##MOLFORM=C13H9BrN2O3
+##CAS REGISTRY NO=300360-36-5
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    30         28
+    36          5
+    38          2
+    39         15
+    40          2
+    41         21
+    42          2
+    43         24
+    44          4
+    45         17
+    50         18
+    51         89
+    52          6
+    53          2
+    54          5
+    55         30
+    56          3
+    57         15
+    58          4
+    60          6
+    61          1
+    62          5
+    63         29
+    64          2
+    65          2
+    73          5
+    74          4
+    75          5
+    76         13
+    77        395
+    78         28
+    81          3
+    89          1
+    90          3
+    97          3
+    98          2
+   103          1
+   104          3
+   105        999
+   106         37
+   107          2
+   121          2
+   122          2
+   139          4
+   211          4
+   241         53
+   242          6
+   320          9
+   321          2
+   322         14

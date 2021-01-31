@@ -1,0 +1,72 @@
+##TITLE=Library Entry 25331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Octane, 2-bromo-
+##MOLFORM=C8H17Br
+##CAS REGISTRY NO=557-35-7
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=1093
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15         22
+    18          2
+    26         22
+    27        280
+    28         56
+    29        330
+    30          7
+    37          2
+    38         10
+    39        204
+    40         47
+    41        678
+    42        196
+    43        691
+    44         26
+    47          1
+    50          6
+    51         14
+    52          6
+    53         43
+    54         25
+    55        278
+    56        126
+    57        999
+    58         44
+    63          2
+    64          1
+    65          6
+    66          1
+    67         19
+    68          8
+    69         85
+    70         74
+    71        849
+    72         44
+    77          3
+    79          5
+    80          1
+    81          3
+    82          4
+    83         25
+    84         11
+    85          5
+    93          2
+    95          2
+    97          3
+   107         10
+   109          9
+   111          2
+   113        259
+   114         23
+   120          1
+   121          4
+   122          1
+   123          3
+   149          1
+   151          1

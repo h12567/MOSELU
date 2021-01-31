@@ -1,0 +1,67 @@
+##TITLE=Library Entry 40124
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Carbamic chloride, dimethyl-
+##MOLFORM=C3H6ClNO
+##CAS REGISTRY NO=79-44-7
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          5
+    15         48
+    16          1
+    26          3
+    27         23
+    28         72
+    29         11
+    30          2
+    35         15
+    36          6
+    37          6
+    38         10
+    39         14
+    40         41
+    41         49
+    42        247
+    43         71
+    44         23
+    45          2
+    47          4
+    48          2
+    49         43
+    50          1
+    51         14
+    52          1
+    54          4
+    55          5
+    56        129
+    57          6
+    58          2
+    61          1
+    62          1
+    63         93
+    64         16
+    65         30
+    66          6
+    72        999
+    73         36
+    74          3
+    75          1
+    76          3
+    78         50
+    79          1
+    80         16
+    92          3
+    94          1
+   106         12
+   107        323
+   108         16
+   109        106
+   110          4

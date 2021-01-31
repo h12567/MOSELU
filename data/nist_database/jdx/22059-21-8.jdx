@@ -1,0 +1,57 @@
+##TITLE=Library Entry 18888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid, 1-amino-
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=22059-21-8
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         46
+    27        117
+    28        613
+    29        106
+    30        112
+    31          2
+    37         10
+    38         19
+    39         66
+    40         26
+    41         44
+    42         45
+    43         27
+    44         28
+    45         74
+    46         12
+    50          1
+    51         12
+    52         42
+    53         15
+    54        516
+    55        999
+    56        507
+    57         24
+    65          2
+    67          2
+    68          2
+    69          2
+    70          2
+    71          2
+    72          4
+    73         12
+    74          4
+    81          5
+    82          2
+    83        351
+    84         18
+    85          2
+   100         31
+   101         29
+   102          6

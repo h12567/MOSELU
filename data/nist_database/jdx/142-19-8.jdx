@@ -1,0 +1,81 @@
+##TITLE=Library Entry 6361
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Allyl heptanoate
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=142-19-8
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1180
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         24
+    17          0
+    18          2
+    21          2
+    25          4
+    26         37
+    27        276
+    28        124
+    29        282
+    30          9
+    31         13
+    37          7
+    38         29
+    39        342
+    40         96
+    41        947
+    42        176
+    43        999
+    44         49
+    45         42
+    50          4
+    51          6
+    53         30
+    54        103
+    55        405
+    56        140
+    57        260
+    58         80
+    59         12
+    60         13
+    65          4
+    67         30
+    68         28
+    69        174
+    70         17
+    71         15
+    72          8
+    73         17
+    80          2
+    81         16
+    82         63
+    83        149
+    84         43
+    85        283
+    86         19
+    87         20
+    89          6
+    93          3
+    94          5
+    95         45
+    97          4
+    99         36
+   100        164
+   101         16
+   109          4
+   110          7
+   111         24
+   112          4
+   113        481
+   114         41
+   115          4
+   127         32
+   129          3
+   141         11
+   155          2

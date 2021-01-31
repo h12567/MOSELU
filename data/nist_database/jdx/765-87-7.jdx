@@ -1,0 +1,86 @@
+##TITLE=Library Entry 89341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3339
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanedione
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=765-87-7
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1668
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14         10
+    15         23
+    24          1
+    25          8
+    26         61
+    27        268
+    28         99
+    29         82
+    30          8
+    31         26
+    36          3
+    37         22
+    38         40
+    39        199
+    40         53
+    41        207
+    42        148
+    43        371
+    44         23
+    45          5
+    47          1
+    48          2
+    49         10
+    50         32
+    51         35
+    52         16
+    53         53
+    54         19
+    55        538
+    56        471
+    57        115
+    58         14
+    59          1
+    60          2
+    61          5
+    62          6
+    63          9
+    64          5
+    65         31
+    66         46
+    67         18
+    68         21
+    69        139
+    70        425
+    71        245
+    72          9
+    73          2
+    74          2
+    77          3
+    78          2
+    79          3
+    80          1
+    81         12
+    82         10
+    83        463
+    84        178
+    85         11
+    86          1
+    93          2
+    94         13
+    95          4
+    96          1
+    97         23
+    98          2
+   110          3
+   111         17
+   112        999
+   113         70
+   114          8

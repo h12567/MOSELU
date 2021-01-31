@@ -1,0 +1,77 @@
+##TITLE=Library Entry 31921
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=2-Propenal, 3-(2-furanyl)-
+##MOLFORM=C7H6O2
+##CAS REGISTRY NO=623-30-3
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=1111
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          1
+    25          6
+    26         34
+    27         48
+    28          1
+    29        132
+    30          2
+    31          8
+    32          4
+    36          8
+    37         88
+    38        184
+    39        721
+    40        194
+    41         18
+    42         23
+    43          4
+    44          1
+    46          3
+    47         49
+    48          3
+    49         26
+    50        103
+    51        102
+    52         24
+    53         62
+    54         21
+    55         39
+    56          1
+    60         13
+    61         77
+    62        149
+    63        310
+    64         87
+    65        999
+    66        871
+    67         51
+    68        253
+    69         12
+    73          9
+    74         25
+    75         10
+    76          5
+    77         12
+    78          5
+    79         12
+    80          1
+    81         30
+    82          4
+    91          1
+    92         29
+    93         91
+    94        850
+    95         61
+    96          4
+   105          2
+   119          1
+   121        261
+   122        933
+   123         74
+   124          7

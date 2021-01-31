@@ -1,0 +1,66 @@
+##TITLE=Library Entry 1589
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. OKUMURA,CENT. RES. LABS.,SANRAKU-OCEAN LTD.,FUJISAWA
+,JAPA2
+##NAMES=HP
+##CAS NAME=Griseoviridin
+##MOLFORM=C22H27N3O7S
+##CAS REGISTRY NO=53216-90-3
+##MP= -300
+##BP= -300
+##MW= 477
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    31        490
+    32        999
+    39        384
+    41        748
+    43        980
+    44        262
+    45        354
+    51        162
+    55        646
+    67        444
+    77        304
+    79        384
+    91        734
+    92        222
+   101        586
+   102        160
+   105        444
+   117        646
+   118        182
+   119        282
+   128        242
+   129        316
+   131        464
+   141        606
+   142        202
+   143        222
+   145        262
+   146        344
+   155        314
+   160        202
+   270        242
+   271        102
+   322        424
+   323        202
+   339        506
+   340        142
+   351        162
+   352        122
+   366        242
+   368        142
+   415        186
+   441        616
+   442        222
+   443        102
+   459        364
+   460        122
+   461         60
+   477        282
+   478         80
+   479         40

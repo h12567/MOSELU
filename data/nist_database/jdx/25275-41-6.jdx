@@ -1,0 +1,40 @@
+##TITLE=Library Entry 66988
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=Pyridinium, 1-amino-, hydroxide, inner salt
+##MOLFORM=C5H6N2
+##CAS REGISTRY NO=25275-41-6
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        200
+    42         30
+    43         30
+    44         80
+    47         70
+    49         30
+    50        140
+    51        300
+    52        690
+    53         70
+    61         20
+    62         20
+    63         40
+    64         20
+    65         20
+    66         60
+    67        170
+    68        110
+    69         20
+    78        240
+    79        590
+    80         40
+    93         30
+    94        999
+    95        100

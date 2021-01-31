@@ -1,0 +1,77 @@
+##TITLE=Library Entry 31800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=7-Amino-7H-S-triazolo[5,1-c]-S-triazole-3-thiol
+##MOLFORM=C3H4N6S
+##CAS REGISTRY NO=13728-28-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    41         73
+    42        258
+    43        323
+    44         60
+    45         12
+    46         13
+    47          5
+    49          4
+    52          7
+    53        151
+    54         84
+    55          7
+    56          8
+    57         38
+    58         59
+    59        207
+    60         45
+    61          8
+    64        999
+    66         94
+    67         21
+    68        275
+    69        194
+    70         38
+    71          9
+    73         20
+    74          5
+    76         21
+    82         11
+    83         12
+    84        104
+    85         36
+    86          4
+    91          4
+    96        371
+    98         92
+    99        106
+   100         55
+   101         42
+   102          8
+   109         11
+   110         12
+   111          4
+   116         44
+   117          4
+   124        683
+   125        108
+   126         20
+   128        439
+   130        103
+   131         52
+   132          9
+   133          5
+   140          8
+   141         45
+   142          4
+   154         10
+   155         42
+   156        167
+   157         22
+   158          9

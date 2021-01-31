@@ -1,0 +1,47 @@
+##TITLE=Library Entry 79148
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Asinex Ltd, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Thiophene, 2,5-di(benzoylthio)-
+##MOLFORM=C18H12O2S3
+##CAS REGISTRY NO=22511-32-6
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39          3
+    41          1
+    43          1
+    44          7
+    45          1
+    50         16
+    51         68
+    52          2
+    55          0
+    69         23
+    70         24
+    71          2
+    74          0
+    75          3
+    76         13
+    77        628
+    78         27
+    88          0
+   101          0
+   102          0
+   103          0
+   104         13
+   105        999
+   106        160
+   107          7
+   114         10
+   121          0
+   122          0
+   146          0
+   356         74
+   357         20
+   358          5

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 58650
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-Chloroisocoumarin
+##MOLFORM=C9H5ClO2
+##CAS REGISTRY NO=51050-54-5
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41          9
+    43         36
+    44         90
+    47          3
+    49         39
+    50        124
+    51         51
+    53         26
+    59         32
+    60         17
+    61         87
+    62        214
+    63        355
+    64         18
+    65         16
+    73         77
+    74         59
+    75         29
+    76         34
+    77         32
+    84         19
+    85         33
+    86         61
+    87         60
+    88         87
+    89        999
+    90         76
+    91         14
+    97         26
+    98         14
+    99          8
+   103         12
+   117        134
+   118         13
+   123         31
+   124        150
+   125         22
+   126         52
+   144         18
+   145        486
+   146         48
+   152        751
+   153         70
+   154        256
+   155         23
+   179         12
+   180        537
+   181         54
+   182        188
+   183         10

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 10360
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.N. Odinokov, Bashkir Inst. Chem., Acad. Sci. USSR, Uf
+a, USSR
+##NAMES=HP
+##CAS NAME=4,8-Dimethyl-4Z,8E-tetracosadienal
+##MOLFORM=C26H48O
+##CAS REGISTRY NO=116206-69-0
+##MP= -300
+##BP= -300
+##MW= 376
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        726
+    57        680
+    81        680
+    83        590
+    93        680
+    95        727
+    97        454
+   109        372
+   111        377
+   121        163
+   124        304
+   125        372
+   135        104
+   137        113
+   141         68
+   147        136
+   149        104
+   151         81
+   161         68
+   163         54
+   165         97
+   167         68
+   179         68
+   181         72
+   208         40
+   225         27
+   239         36
+   264        104
+   278         54
+   291        163
+   305         36
+   317         49
+   319         54
+   332         77
+   358         90
+   359         58
+   374         15
+   375         22
+   376         36

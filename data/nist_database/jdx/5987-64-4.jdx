@@ -1,0 +1,32 @@
+##TITLE=Library Entry 44829
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,4-di-O-methyl.beta.l-arabinopyranoside
+##MOLFORM=C8H16O5
+##CAS REGISTRY NO=5987-64-4
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    45        281
+    57         46
+    58        164
+    59        155
+    61         30
+    69         27
+    71         42
+    73         46
+    74        999
+    85         34
+    87        155
+    88         57
+   101        925
+   115         17
+   143          3
+   161         15
+   162          9

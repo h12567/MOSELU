@@ -1,0 +1,87 @@
+##TITLE=Library Entry 32762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=Cyclopentene, 3-(bromomethyl)-
+##MOLFORM=C6H9Br
+##CAS REGISTRY NO=17645-61-3
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          3
+    14          7
+    15         22
+    18          1
+    25          3
+    26         35
+    27        136
+    28         18
+    29         15
+    31          1
+    35          0
+    36          2
+    37         16
+    38         36
+    39        174
+    40         27
+    41        156
+    42          7
+    47          1
+    48          1
+    49          6
+    50         64
+    51         87
+    52         48
+    53        102
+    54         15
+    55         16
+    56          0
+    60          1
+    61          6
+    62          9
+    63         20
+    64          4
+    65         52
+    66         54
+    67        999
+    68         55
+    69          1
+    73          2
+    74          6
+    75          4
+    76          1
+    77         55
+    78         18
+    79        124
+    80         41
+    81        307
+    82         23
+    83          3
+    91          2
+    92          1
+    93         21
+    94          1
+    95         18
+   105          1
+   106          1
+   107          1
+   108          0
+   117          1
+   119          3
+   121          2
+   126          1
+   127          1
+   128          1
+   129          2
+   131          1
+   160         41
+   161          3
+   162         40
+   163          3

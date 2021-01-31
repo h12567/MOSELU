@@ -1,0 +1,66 @@
+##TITLE=Library Entry 79248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Benzene-1,4-dicarboxamide, N,N'-bis(benzoyloxy)-
+##MOLFORM=C22H16N2O6
+##CAS REGISTRY NO=28439-08-9
+##MP= -300
+##BP= -300
+##MW= 404
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    43          1
+    45         34
+    47          3
+    49          5
+    50         76
+    51        133
+    52         29
+    53         14
+    54         13
+    55          1
+    61          7
+    62         14
+    63         38
+    64         22
+    65         16
+    66         11
+    67          1
+    73         10
+    74         45
+    75         28
+    77        590
+    78         40
+    79          5
+    80          6
+    81          1
+    84          3
+    86          2
+    87          1
+    88          2
+    90         61
+    91          4
+    94         16
+   105        999
+   106         58
+   107          2
+   118         10
+   119          1
+   122        205
+   123         16
+   124          1
+   132         21
+   133          3
+   146         68
+   147          4
+   160         71
+   161          7
+   163          4
+   268          2
+   282          2
+   283          4

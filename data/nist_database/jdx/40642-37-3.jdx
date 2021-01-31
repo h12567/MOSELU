@@ -1,0 +1,43 @@
+##TITLE=Library Entry 33304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Horiike ET AL.Biomed.Mass Spectr.,13,117(1986)
+##NAMES=HP
+##CAS NAME=Z-4-Dodecenol
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=40642-37-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1457
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        153
+    29        363
+    31        166
+    39        192
+    41        974
+    42        192
+    43        611
+    44        156
+    53        182
+    54        402
+    55        875
+    56        494
+    57        345
+    67        931
+    68        999
+    69        419
+    70        125
+    71        125
+    81        941
+    82        519
+    83        233
+    95        322
+    96        279
+    97         97
+   109        107
+   110        107
+   138         54
+   166         28

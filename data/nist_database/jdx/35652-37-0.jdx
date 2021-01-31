@@ -1,0 +1,47 @@
+##TITLE=Library Entry 25630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. Garza-Sanchez et al., J. Phycol., 2009, 45, 395
+##NAMES=HP
+##CAS NAME=1,4,2,5 Cyclohexanetetrol
+##MOLFORM=C6H12O4
+##CAS REGISTRY NO=35652-37-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    43        907
+    44        164
+    45        387
+    47        175
+    53         54
+    54         24
+    55        612
+    56        416
+    57        999
+    58        381
+    59         36
+    60        939
+    61         34
+    65         22
+    66         44
+    67         38
+    68        100
+    69        134
+    70         24
+    71        100
+    73        941
+    74        372
+    75        410
+    76         25
+    83        196
+    84        287
+    85         34
+    86        362
+    87         54
+    91         25
+   112         62
+   130         48

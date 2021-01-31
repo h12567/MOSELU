@@ -1,0 +1,66 @@
+##TITLE=Library Entry 20970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3085
+##NAMES=HP
+##CAS NAME=2-Butene, 2-chloro-
+##MOLFORM=C4H7Cl
+##CAS REGISTRY NO=4461-41-0
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          8
+    25          5
+    26         42
+    27        205
+    28         36
+    29        211
+    30          5
+    35          3
+    36          6
+    37         14
+    38         21
+    39        243
+    40         10
+    41         25
+    42          1
+    43         26
+    44          3
+    45          2
+    47          3
+    48          3
+    49         25
+    50         53
+    51         53
+    52         19
+    53        226
+    54         89
+    55        999
+    56         45
+    57          1
+    60          5
+    61         16
+    62         39
+    63         17
+    64         12
+    65          4
+    71          1
+    72          2
+    73          6
+    74          1
+    75        103
+    76          4
+    77         32
+    78          1
+    87          1
+    88          3
+    89         19
+    90        386
+    91         22
+    92        119
+    93          5

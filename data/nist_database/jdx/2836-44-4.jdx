@@ -1,0 +1,72 @@
+##TITLE=Library Entry 5327
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0077
+##NAMES=HP
+##CAS NAME=4-Pyrimidinol, 2-methyl-6-(trifluoromethyl)-
+##MOLFORM=C6H5F3N2O
+##CAS REGISTRY NO=2836-44-4
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         40
+    26         20
+    27         30
+    29         10
+    31         40
+    33         10
+    37         10
+    38         30
+    39         50
+    40         70
+    41        120
+    42        999
+    43         50
+    44         30
+    46         10
+    50         20
+    51         20
+    52         30
+    53         30
+    54         20
+    55         20
+    56         10
+    58         20
+    65         20
+    66         60
+    67         60
+    68        200
+    69        130
+    70         20
+    75         50
+    81         30
+    89         20
+    90         20
+    91         30
+    93         20
+    94         10
+    96         20
+   100         10
+   103         10
+   108         50
+   109         10
+   118         20
+   121         20
+   130         40
+   131         20
+   137         20
+   138         30
+   149         80
+   150        210
+   151         20
+   159         90
+   160         20
+   161         20
+   163         40
+   178        770
+   179         60

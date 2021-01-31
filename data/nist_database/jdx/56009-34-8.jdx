@@ -1,0 +1,31 @@
+##TITLE=Library Entry 52788
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=Glycine, N-(3-methyl-1-oxo-2-butenyl)-, methyl ester
+##MOLFORM=C8H13NO3
+##CAS REGISTRY NO=56009-34-8
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=1386
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        110
+    42         50
+    43         50
+    44        100
+    53        130
+    54        180
+    55        470
+    56         80
+    71         50
+    82        810
+    83        999
+    84         80
+   101         80
+   112         50
+   171        210

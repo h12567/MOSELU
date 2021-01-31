@@ -1,0 +1,61 @@
+##TITLE=Library Entry 64620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Cohen, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Coumarin, 6-benzyloxy-5,7-difluoro-3,4-dihydro-4,4-dimethyl-
+##MOLFORM=C18H16F2O3
+##CAS REGISTRY NO=84945-11-9
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41         10
+    42          1
+    43         10
+    47          1
+    49         12
+    51         13
+    55          3
+    57          7
+    63         11
+    65         65
+    66          1
+    69          5
+    73          1
+    75          1
+    77          8
+    83         12
+    84          8
+    85          1
+    86          6
+    88          1
+    89         12
+    91        999
+    92         68
+    93          2
+    95          1
+    97          1
+   101          9
+   107          1
+   109         10
+   113          1
+   114          1
+   115          1
+   127         12
+   129          9
+   136          1
+   137          1
+   157          4
+   171          1
+   184          1
+   185         22
+   199         11
+   212          1
+   227          3
+   318        143
+   319         24
+   320          1

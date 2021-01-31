@@ -1,0 +1,41 @@
+##TITLE=Library Entry 15853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-amino-2-methyl-
+##MOLFORM=C5H11NO2
+##CAS REGISTRY NO=32723-74-3
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27          3
+    28         12
+    29          9
+    30          5
+    36          2
+    39          1
+    41         19
+    42         20
+    43          9
+    44        999
+    45         38
+    46         15
+    55         14
+    56         54
+    57         27
+    58          4
+    70          9
+    71          5
+    72          3
+    73          2
+    74          5
+    84         71
+    85          4
+    98          4
+   102         20
+   116          2

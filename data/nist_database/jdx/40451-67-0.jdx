@@ -1,0 +1,61 @@
+##TITLE=Library Entry 53507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=l-Pyrrolid-2-one, N-carbamoyl-
+##MOLFORM=C5H8N2O2
+##CAS REGISTRY NO=40451-67-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        400
+    42         50
+    43         37
+    44        209
+    45         31
+    46          2
+    50          0
+    51          6
+    52         18
+    53         12
+    54         51
+    55         64
+    56        288
+    57         17
+    58          1
+    59          1
+    63          0
+    64          0
+    66         18
+    67          2
+    68          2
+    69          5
+    70          1
+    71          3
+    72         14
+    73          8
+    77          1
+    78          1
+    81          1
+    82          4
+    84        999
+    85         61
+    86          4
+    91          0
+    95          0
+    97          1
+    99          1
+   100          4
+   101          0
+   109          0
+   111          2
+   112          0
+   127          0
+   128         62
+   129         28
+   130          2

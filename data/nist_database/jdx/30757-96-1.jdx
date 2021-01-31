@@ -1,0 +1,38 @@
+##TITLE=Library Entry 22127
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Dimethylaziridine
+##MOLFORM=C4H9N
+##CAS REGISTRY NO=30757-96-1
+##MP= -300
+##BP= -300
+##MW= 71
+##$RETENTION INDEX=536
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        149
+    28        370
+    29        220
+    30        155
+    31         11
+    39         77
+    40         14
+    41        172
+    42        833
+    43        199
+    44        117
+    45          9
+    54        101
+    55         54
+    56        999
+    57         89
+    58          9
+    68         22
+    70        296
+    71        705
+    72         65
+    73          4

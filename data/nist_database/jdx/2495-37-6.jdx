@@ -1,0 +1,88 @@
+##TITLE=Library Entry 60015
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5205
+##NAMES=HP
+##CAS NAME=Benzyl methacrylate
+##MOLFORM=C11H12O2
+##CAS REGISTRY NO=2495-37-6
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          5
+    27         16
+    28          5
+    29          6
+    37          5
+    38         17
+    39        176
+    40         25
+    41        341
+    42         26
+    43          3
+    44          1
+    45          2
+    49          1
+    50         25
+    51         73
+    52         21
+    53          7
+    55          5
+    61          2
+    62          9
+    63         39
+    64         12
+    65        150
+    66          8
+    68          1
+    69        595
+    70         97
+    71          5
+    74          5
+    75          4
+    76          4
+    77         97
+    78         23
+    79        148
+    80          9
+    86          1
+    89         59
+    90        167
+    91        999
+    92         95
+    93          3
+    97          1
+    98          3
+   103          1
+   105         38
+   106          6
+   107        166
+   108         21
+   115          9
+   116          5
+   117         13
+   118          2
+   120          9
+   128          1
+   129         14
+   130         12
+   131        496
+   132         57
+   133          4
+   140          1
+   142          1
+   148          1
+   157          6
+   158        139
+   159         17
+   160          1
+   161          2
+   175          1
+   176        225
+   177         27
+   178          2

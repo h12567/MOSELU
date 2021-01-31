@@ -1,0 +1,41 @@
+##TITLE=Library Entry 89647
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=Silacyclobutane, 1,1-dichloro-
+##MOLFORM=C3H6Cl2Si
+##CAS REGISTRY NO=2351-33-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         40
+    39        110
+    40         30
+    41        140
+    42        150
+    63        270
+    65         90
+    77         30
+    79         10
+    98         60
+    99         70
+   100         40
+   101         50
+   112        999
+   113         60
+   114        669
+   115         40
+   116        120
+   117         10
+   125        150
+   126         10
+   127        100
+   140        180
+   141         20
+   142        120
+   143         10

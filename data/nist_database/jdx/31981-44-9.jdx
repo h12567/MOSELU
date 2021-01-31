@@ -1,0 +1,81 @@
+##TITLE=Library Entry 14259
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=19-Norpregn-4-ene-3,20-dione, 17-(acetyloxy)-
+##MOLFORM=C22H30O4
+##CAS REGISTRY NO=31981-44-9
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    43        999
+    53         40
+    55         60
+    65         20
+    67         50
+    69         30
+    77         50
+    78         10
+    79         70
+    81         40
+    83         20
+    91        100
+    92         10
+    93         50
+    95         40
+    97         10
+   101         60
+   103         10
+   105         90
+   106         10
+   107        170
+   108         10
+   109         80
+   110         40
+   111         10
+   117         20
+   119         30
+   120         10
+   121         30
+   122         20
+   123         20
+   129         20
+   131         20
+   133         40
+   135         30
+   143         10
+   145         20
+   147         40
+   149         10
+   157         20
+   159         90
+   160         30
+   161         40
+   162         10
+   163         10
+   171         20
+   173         20
+   174         10
+   175         10
+   187         10
+   197         10
+   199         30
+   201         20
+   213         10
+   215         80
+   228         10
+   229         20
+   230        130
+   231         40
+   269        840
+   287        250
+   297         50
+   312         90
+   329        140
+   330         80

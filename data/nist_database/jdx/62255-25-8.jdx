@@ -1,0 +1,62 @@
+##TITLE=Library Entry 5522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.P. WIESLER, DEP. CHEM., INDIANA UNIV., BLOOMINGTON, U
+SA
+##NAMES=HP
+##CAS NAME=7-Exo-ethyl-5-methyl-6,8-dioxabicyclo[3.2.1]oct-3-ene
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=62255-25-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27        474
+    29        150
+    38         30
+    39         98
+    40         30
+    41        120
+    43        999
+    51         15
+    53        120
+    54         30
+    55        113
+    57        211
+    58         15
+    65         38
+    67         75
+    68         83
+    69         68
+    70         15
+    71         45
+    72         15
+    77         30
+    79         38
+    81        120
+    82         30
+    83        173
+    84         30
+    85         15
+    86         23
+    87         38
+    90         15
+    93         45
+    94         75
+    95        218
+    96        143
+    97         75
+    98         15
+   104         30
+   109         15
+   111        316
+   112         75
+   113         15
+   125        143
+   126         23
+   129         23
+   139         15
+   154         38

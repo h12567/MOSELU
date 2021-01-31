@@ -1,0 +1,37 @@
+##TITLE=Library Entry 22206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Octene, 7-methyl-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=13151-06-9
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=847
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        130
+    40         10
+    41        460
+    42        130
+    43        810
+    44         10
+    53         10
+    54         20
+    55        500
+    56        999
+    57        290
+    67         30
+    68         60
+    69        590
+    70        210
+    71         10
+    83         80
+    84         80
+    98         30
+   111         30
+   126         30

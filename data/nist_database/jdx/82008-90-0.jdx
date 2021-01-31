@@ -1,0 +1,60 @@
+##TITLE=Library Entry 71412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,2,3,6-Tetra-O-acetyl-4-O-formyl-D-glucopyranose
+##MOLFORM=C15H20O11
+##CAS REGISTRY NO=82008-90-0
+##MP= -300
+##BP= -300
+##MW= 376
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    69        119
+    70         90
+    71         64
+    73        289
+    80        109
+    81        209
+    85        139
+    86        129
+    98        999
+    99        139
+   101        359
+   102         99
+   103        629
+   109        139
+   113         72
+   114        189
+   115        359
+   116         55
+   126        299
+   127         97
+   131         94
+   139         80
+   140         90
+   141         51
+   143        529
+   144         81
+   145        299
+   155        109
+   157        129
+   158        429
+   168        569
+   169        159
+   186        119
+   197         27
+   200         52
+   201         98
+   211          9
+   215         51
+   228         94
+   229         16
+   257          3
+   274         11
+   279         33
+   303         19
+   317         11

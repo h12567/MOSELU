@@ -1,0 +1,40 @@
+##TITLE=Library Entry 57415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(7)947(1977); R. W. MILLER ET AL
+##NAMES=HP
+##CAS NAME=9,11-Octadecadiynoic acid, 8-hydroxy-, methyl ester
+##MOLFORM=C19H30O3
+##CAS REGISTRY NO=6084-80-6
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    87        999
+    91        590
+    92        210
+    93        370
+    94        200
+    95        390
+   101        440
+   105        410
+   107        430
+   108        220
+   117        340
+   119        210
+   121        330
+   129        220
+   131        240
+   135        250
+   144        390
+   163        230
+   171        330
+   221         80
+   236         70
+   247          2
+   275          3
+   291          2
+   306          3

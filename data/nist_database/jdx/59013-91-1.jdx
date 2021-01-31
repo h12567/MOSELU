@@ -1,0 +1,67 @@
+##TITLE=Library Entry 40082
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.J. WINKLER, LEHRSTUHL ALLG. CHEM. BIOCHEM., FREISING,
+ W. G
+##NAMES=HP
+##CAS NAME=1R,3-cis-Diethoxy-5-cis-methylcyclohexane
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=59013-91-1
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    39        160
+    41        550
+    43        500
+    44        450
+    45        230
+    47         30
+    53         50
+    55        200
+    57        150
+    58         50
+    59         90
+    67        130
+    68        100
+    69        150
+    70         50
+    71        300
+    72        999
+    73        170
+    75         50
+    77         20
+    79         30
+    81        180
+    82         10
+    83         30
+    84         10
+    85        100
+    86        110
+    87         30
+    94        100
+    95        320
+    96        570
+    97        110
+    98         60
+    99        370
+   100         30
+   101         50
+   103         30
+   111         50
+   112        120
+   113         60
+   125        160
+   126         10
+   129        310
+   130         20
+   139         25
+   140        230
+   141         30
+   142         67
+   143          5
+   157         13
+   186          5

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 85243
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA&
+##NAMES=HP
+##CAS NAME=Selenourea, N,N'-bis(4-methoxyphenyl)-
+##MOLFORM=C15H16N2O2Se
+##CAS REGISTRY NO=16519-47-4
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    50         40
+    51         60
+    52         70
+    53         80
+    63        120
+    64        140
+    65         70
+    76         50
+    77        180
+    78         90
+    79         40
+    80        160
+    90        110
+    92        160
+    95         90
+   103         60
+   107         60
+   108        999
+   109         80
+   122        660
+   123        840
+   124         70
+   127         50
+   133        150
+   134         90
+   148         70
+   149         60
+   168         40
+   170         60
+   186         30
+   188         60
+   194         30
+   195         50
+   196         70
+   198        150
+   200         30
+   209         50
+   210         40
+   211        120
+   213        240
+   214         30
+   215         40
+   224         50
+   239        480
+   240        120
+   254        440
+   255        690
+   256        290
+   257         40
+   332         50
+   333         50
+   334        140
+   335         30
+   336        270
+   337         50
+   338         60

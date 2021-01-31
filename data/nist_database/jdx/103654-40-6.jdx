@@ -1,0 +1,39 @@
+##TITLE=Library Entry 81032
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.SAATOV,INST. CHEM. PLANT SUB.,ACAD. SCI. UZBEK,TASHKE
+NT,USSR
+##NAMES=HP
+##CAS NAME=Ecdysterone 2,3-acetonide 22-O-benzoate
+##MOLFORM=C37H52O8
+##CAS REGISTRY NO=103654-40-6
+##MP= -300
+##BP= -300
+##MW= 624
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        520
+    59        220
+    77        230
+    81        220
+    99        370
+   105        999
+   122        520
+   126        530
+   139        370
+   163        280
+   267        220
+   290        220
+   327        210
+   385        210
+   403        460
+   451        210
+   466        220
+   487         40
+   502          9
+   573          9
+   591          9
+   609        150
+   624          0

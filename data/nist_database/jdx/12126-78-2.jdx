@@ -1,0 +1,43 @@
+##TITLE=Library Entry 21695
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Pentylcymantrene
+##MOLFORM=C13H15MnO3
+##CAS REGISTRY NO=12126-78-2
+##MP= -300
+##BP= -300
+##MW= 274
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    55        999
+    56        179
+    77         89
+    78         79
+    79        199
+    80         59
+    82         19
+    83          9
+    84         29
+    91         59
+    92         19
+    93         44
+    94          9
+    95         14
+   133         49
+   134        259
+   135         39
+   160          9
+   161         13
+   162         19
+   186         29
+   188        209
+   189         29
+   190        409
+   191         49
+   218         19
+   274         62
+   275          9

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 73717
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 62(3)811(1979); U. KRAMER ET AL.
+##NAMES=HP
+##CAS NAME=13,17,21,25,29-Pentaacetyl-13,17,21,25,29-pentaaza-32-dotriaconta
+nolactam
+##MOLFORM=C37H68N6O6
+##CAS REGISTRY NO=75422-13-8
+##MP= -300
+##BP= -300
+##MW= 692
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    70        540
+    84        350
+   100        999
+   114        290
+   126        250
+   140        200
+   143        160
+   155        250
+   157        150
+   169        460
+   183        250
+   194        150
+   198        250
+   280        130
+   297        200
+   298        160
+   396        200
+   422        120
+   451        130
+   465        120
+   495        180
+   550        110
+   564        180
+   594         60
+   606        100
+   607        100
+   649        620
+   692         60

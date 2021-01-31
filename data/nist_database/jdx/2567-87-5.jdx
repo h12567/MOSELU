@@ -1,0 +1,50 @@
+##TITLE=Library Entry 87313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. LANGHALS, INST. ORG. CHEM. UNIV. MUNICH, MUNICH, W.
+ GER.
+##NAMES=HP
+##CAS NAME=Cyclodecylamine
+##MOLFORM=C10H21N
+##CAS REGISTRY NO=2567-87-5
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    29        100
+    30        160
+    39        130
+    41        220
+    42         60
+    43        130
+    44         80
+    53         60
+    54         90
+    55        170
+    56        430
+    57        120
+    67        110
+    68        220
+    69        160
+    70        150
+    80         50
+    81         60
+    82        410
+    83         70
+    84        100
+    94         20
+    96        510
+    97        100
+    98         50
+   110        999
+   111        110
+   112        100
+   124        130
+   138         50
+   152         60
+   153         30
+   154         20
+   155         10

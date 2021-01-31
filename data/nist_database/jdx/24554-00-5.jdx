@@ -1,0 +1,40 @@
+##TITLE=Library Entry 87472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,5-Cyclohexadiene-1-carboxylic acid, 3,4-dihydroxy-
+##MOLFORM=C7H8O4
+##CAS REGISTRY NO=24554-00-5
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        751
+    50        155
+    51        237
+    52        110
+    53        717
+    54        231
+    55        303
+    63        151
+    64        110
+    65        493
+    66        324
+    81        910
+    82        844
+    83         86
+    84         86
+   109        296
+   110        999
+   111        103
+   112         82
+   113        124
+   121        441
+   122         62
+   138        958
+   139         89
+   156        655

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 8565
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1959
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2-hydroxy-4-methyl-, (S)-
+##MOLFORM=C6H12O3
+##CAS REGISTRY NO=13748-90-8
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15         35
+    17         12
+    18         57
+    19          6
+    26         15
+    27        255
+    28         49
+    29        274
+    30         11
+    31         48
+    32          2
+    37          4
+    38         14
+    39        153
+    40         22
+    41        588
+    42         85
+    43        999
+    44        169
+    45        502
+    46         10
+    47          9
+    50          9
+    51         10
+    53         37
+    54          2
+    55         64
+    56         12
+    57        308
+    58         62
+    59         24
+    60         13
+    67         13
+    68          9
+    69        989
+    70         61
+    71        106
+    72         54
+    73         30
+    74          2
+    75         19
+    76        256
+    77          9
+    81         12
+    83          1
+    85         44
+    86         10
+    87        599
+    88         34
+    89         11
+    95          2
+    96          3
+    99         58
+   111          3
+   113         12
+   114          7

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 62036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-N-tosyl-3-aminopropionic acid methyl ester
+##MOLFORM=C12H17NO5S
+##CAS REGISTRY NO=78191-02-3
+##MP= -300
+##BP= -300
+##MW= 287
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    30         21
+    31         23
+    32         29
+    33         21
+    39         43
+    41         32
+    42         40
+    43         51
+    44         12
+    51         21
+    55         39
+    56         21
+    57         32
+    58        102
+    59         22
+    60         20
+    63         34
+    64         21
+    65        173
+    66         21
+    70         12
+    71         32
+    72        274
+    73         49
+    79         32
+    90         54
+    91        999
+    92        123
+   100        523
+   101        201
+   102         21
+   132        912
+   133         42
+   155        632
+   156        102
+   157         41
+   214        125
+   215         23
+   256        103
+   257         20
+   287        134
+   288         25
+   289          5

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 12396
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R RYHAGE MS-LAB KAROLINSKA INSTITUTET STOCKHOLM SWEDEN
+##NAMES=HP
+##CAS NAME=L-Aspartic acid, N-acetyl-, dimethyl ester
+##MOLFORM=C8H13NO5
+##CAS REGISTRY NO=57289-64-2
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14         13
+    15        333
+    17         22
+    18         54
+    26         13
+    27         56
+    29         56
+    30         40
+    31         33
+    33         46
+    39         12
+    40         19
+    41         72
+    42        177
+    43        999
+    44         49
+    45         28
+    53          9
+    54          9
+    55         60
+    56         28
+    57         27
+    58         17
+    59        123
+    60        246
+    61          8
+    67         19
+    68         16
+    69        343
+    70         22
+    71          6
+    73         48
+    74          5
+    83         15
+    84         22
+    85         90
+    86         10
+    87        112
+    88          7
+   100         25
+   101         24
+   102        329
+   103         49
+   104          6
+   112         42
+   128         45
+   129          6
+   130         13
+   131          5
+   143         14
+   144        584
+   145         44
+   146          6
+   149          7
+   160         15
+   171         12
+   172         27
+   202          5
+   203          6

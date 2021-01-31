@@ -1,0 +1,42 @@
+##TITLE=Library Entry 65759
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,4-Triazolo[4,3-a]pyridin-3(2H)-one, 8-methyl-
+##MOLFORM=C7H7N3O
+##CAS REGISTRY NO=4926-20-9
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    38        160
+    39        740
+    40        120
+    41        140
+    42        100
+    43        100
+    44        320
+    50         40
+    51        220
+    52        300
+    53        100
+    60        200
+    63        120
+    64        160
+    65        560
+    66        300
+    78        140
+    79        160
+    92        600
+    93        999
+    94         60
+   105        160
+   106         40
+   107         40
+   148         20
+   149        740
+   150        100

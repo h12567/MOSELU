@@ -1,0 +1,54 @@
+##TITLE=Library Entry 20326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Hepten-3-one
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=2918-13-0
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=881
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    20          0
+    25          0
+    26         36
+    27        396
+    29        194
+    30          3
+    31          1
+    38          4
+    39         73
+    41        165
+    42         52
+    43         54
+    50          3
+    51          5
+    52          3
+    53         11
+    54          4
+    55        999
+    56         59
+    57        110
+    58          2
+    67          2
+    68          9
+    69         18
+    70        597
+    71         30
+    75          8
+    77          1
+    79          2
+    83         63
+    84          6
+    85         24
+    88          0
+    91          2
+    94          6
+    97         81
+    98          3
+   111          1
+   112          3

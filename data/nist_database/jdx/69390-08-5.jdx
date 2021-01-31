@@ -1,0 +1,27 @@
+##TITLE=Library Entry 97513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(8)3143(1978); H. J. M. DOU ET AL
+##NAMES=HP
+##CAS NAME=Thiazole, 2-(butylthio)-
+##MOLFORM=C7H11NS2
+##CAS REGISTRY NO=69390-08-5
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    41        160
+    57         40
+    58        130
+    72         40
+    86         40
+    90         70
+    98         30
+   117        999
+   126        270
+   131        110
+   144         90
+   173        130

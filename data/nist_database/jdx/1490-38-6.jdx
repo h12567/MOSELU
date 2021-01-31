@@ -1,0 +1,68 @@
+##TITLE=Library Entry 38597
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,9-Dodecanedione
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=1490-38-6
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41        320
+    42         70
+    43        950
+    44         40
+    45         30
+    53         30
+    55        190
+    56         30
+    57        130
+    58        140
+    60         30
+    67        100
+    68         10
+    69         90
+    70         20
+    71        999
+    72         70
+    73         20
+    81         20
+    83         30
+    84         40
+    85         20
+    86         80
+    87         20
+    95         50
+    97         30
+    98         20
+    99         70
+   100         20
+   109        420
+   110         30
+   111         50
+   112        280
+   113         70
+   121          8
+   123          8
+   125         10
+   127         40
+   128          4
+   137         50
+   138          4
+   141          4
+   151          4
+   153          4
+   155         40
+   156          4
+   165          4
+   166          2
+   170          6
+   180         10
+   197          6
+   198         70
+   199         10

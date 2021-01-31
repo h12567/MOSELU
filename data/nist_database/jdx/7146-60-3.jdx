@@ -1,0 +1,65 @@
+##TITLE=Library Entry 24497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4578
+##NAMES=HP
+##CAS NAME=Octane, 2,3-dimethyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=7146-60-3
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=953
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          4
+    27         70
+    28         14
+    29         98
+    30          3
+    33          1
+    37          1
+    38          2
+    39         51
+    40         10
+    41        204
+    42         64
+    43        500
+    44         19
+    50          2
+    51          3
+    52          2
+    53         13
+    54          9
+    55         97
+    56        127
+    57        999
+    58         45
+    59          1
+    65          2
+    66          1
+    67          6
+    68          7
+    69         70
+    70        108
+    71        184
+    72         10
+    77          1
+    79          1
+    81          1
+    82          1
+    83         13
+    84          4
+    85         31
+    86          2
+    95          1
+    97          2
+    98        237
+    99         69
+   100          5
+   112          1
+   113          3
+   127          2
+   142          4

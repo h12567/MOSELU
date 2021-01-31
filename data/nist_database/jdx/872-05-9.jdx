@@ -1,0 +1,71 @@
+##TITLE=Library Entry 22306
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 827
+##NAMES=HP
+##CAS NAME=1-Decene
+##MOLFORM=C10H20
+##CAS REGISTRY NO=872-05-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=989
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          7
+    26          9
+    27        234
+    28         42
+    29        374
+    30          8
+    37          1
+    38          7
+    39        249
+    40         39
+    41        834
+    42        349
+    43        814
+    44         26
+    50          5
+    51         15
+    52          9
+    53         71
+    54        117
+    55        876
+    56        999
+    57        692
+    58         29
+    63          3
+    65         10
+    66          7
+    67         82
+    68         97
+    69        572
+    70        806
+    71        124
+    72          5
+    77          6
+    78          2
+    79          7
+    80          1
+    81         18
+    82         69
+    83        336
+    84        248
+    85         56
+    86          3
+    91          1
+    95          3
+    96         26
+    97        216
+    98        151
+    99         13
+   110          9
+   111        100
+   112         71
+   113          8
+   125          2
+   140        118
+   141         13
+   142          3

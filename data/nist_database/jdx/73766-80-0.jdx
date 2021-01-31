@@ -1,0 +1,42 @@
+##TITLE=Library Entry 21430
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Cyclopentadienyl(methoxycarbonylvinylidene)dicarbonylmanganese
+##MOLFORM=C11H9MnO4
+##CAS REGISTRY NO=73766-80-0
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    55        999
+    56         49
+    65        159
+    66        219
+    80        279
+    89         49
+    91         19
+    93         69
+   120        869
+   121         69
+   144         29
+   145         39
+   148         29
+   161         19
+   172        129
+   173         14
+   174         20
+   176          5
+   184          9
+   204        459
+   205         49
+   212          9
+   228         39
+   229         19
+   232          9
+   260         69
+   261          9

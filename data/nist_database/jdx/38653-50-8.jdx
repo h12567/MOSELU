@@ -1,0 +1,81 @@
+##TITLE=Library Entry 16971
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(2,3-butadienyloxy)-
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=38653-50-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         18
+    14         54
+    15        143
+    16         11
+    17         25
+    18         75
+    19         91
+    24          2
+    25         11
+    26         95
+    27        691
+    28         76
+    29        310
+    30         29
+    31        436
+    32         24
+    33         43
+    36          4
+    37         35
+    38         66
+    39        221
+    40         48
+    41        100
+    42         67
+    43        136
+    44         80
+    45        999
+    46         24
+    47          2
+    48          2
+    49         13
+    50         86
+    51        130
+    52        154
+    53        810
+    54        191
+    55         60
+    56          9
+    57          6
+    58          4
+    60          3
+    61         18
+    62          5
+    63          2
+    65          4
+    66         11
+    67          6
+    68          8
+    69         78
+    70        199
+    71        328
+    72         15
+    73          7
+    75        257
+    76          9
+    77          2
+    81          5
+    82          1
+    83         24
+    84          1
+    87          2
+    89          2
+    95          3
+   115          2

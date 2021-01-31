@@ -1,0 +1,40 @@
+##TITLE=Library Entry 28854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Acetamide, N-[2-(4-chlorophenyl)-1,1-dimethylethyl]-
+##MOLFORM=C12H16ClNO
+##CAS REGISTRY NO=17743-62-3
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    46          2
+    58        999
+    59         37
+    63         35
+    75         13
+    77         12
+    89         94
+    90         28
+    91         41
+   100        808
+   101         64
+   105          8
+   115         51
+   116         28
+   125        181
+   126         22
+   127         60
+   131         75
+   151         42
+   153         12
+   166        175
+   167         28
+   168        107
+   170         16

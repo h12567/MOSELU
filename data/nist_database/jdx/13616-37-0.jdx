@@ -1,0 +1,77 @@
+##TITLE=Library Entry 542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1H-Tetrazole-5-acetic acid, ethyl ester
+##MOLFORM=C5H8N4O2
+##CAS REGISTRY NO=13616-37-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    29        999
+    30         33
+    31         74
+    32        114
+    35          1
+    36         14
+    38          9
+    39         13
+    40         40
+    41         97
+    42         87
+    43        200
+    44         84
+    45         88
+    46         16
+    47          2
+    51          1
+    52          2
+    53         28
+    54         36
+    55        487
+    56        101
+    57         19
+    58         14
+    59          4
+    60          9
+    67          6
+    68         50
+    69         32
+    70          8
+    71        160
+    72         15
+    73         22
+    74          1
+    77          3
+    81          4
+    82          9
+    83         27
+    84        135
+    85         30
+    86         50
+    87          4
+    91          3
+    95          3
+    96          2
+    97          6
+    98          1
+    99          2
+   100         85
+   101          4
+   105          4
+   109          2
+   111        299
+   112         13
+   113          4
+   114          2
+   119          1
+   122          1
+   123          4
+   128         45
+   129          6
+   141          6

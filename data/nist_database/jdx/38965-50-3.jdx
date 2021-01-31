@@ -1,0 +1,61 @@
+##TITLE=Library Entry 2125
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.MCLEAN UNIV. OF TORONTO, TORONTO, ONTARIO, CANADA
+##NAMES=HP
+##CAS NAME=1H,3H-Pyrano[3,4-c]pyran-5-carboxaldehyde, 4,4a,5,6-tetrahydro-6-
+methyl-1-oxo-, [4as-(4a.alpha.,5.alpha.,6.beta.)]-
+##MOLFORM=C10H12O4
+##CAS REGISTRY NO=38965-50-3
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    39        890
+    41        999
+    43        560
+    53        490
+    55        450
+    67        440
+    69        550
+    77        280
+    79        410
+    81        500
+    91        260
+    93        220
+    95        370
+    97        310
+    98        240
+   105        110
+   108        150
+   109        230
+   111        210
+   121        220
+   122        120
+   123        140
+   124        120
+   125        200
+   126        110
+   127        170
+   135        100
+   137        100
+   139        300
+   140        100
+   141        180
+   149        120
+   150        120
+   151        100
+   152        200
+   153        100
+   165        120
+   167        380
+   168         80
+   169         80
+   170        100
+   178        290
+   181        320
+   196        350
+   197         60

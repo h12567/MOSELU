@@ -1,0 +1,50 @@
+##TITLE=Library Entry 70426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Methylphosphonic acid, 1,2,2,-trimethylpropyl ester
+##MOLFORM=C7H17O3P
+##CAS REGISTRY NO=616-52-4
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    28        137
+    29        166
+    31         19
+    39        156
+    40         25
+    41        407
+    42         39
+    43        150
+    45        139
+    47         86
+    48         16
+    49         21
+    51         14
+    53         41
+    55         73
+    56         24
+    57        150
+    65         74
+    67         19
+    69        159
+    70         12
+    78         17
+    79        231
+    80        550
+    81         64
+    84         66
+    85         57
+    96         31
+    97        999
+    98         12
+   123        135
+   124        618
+   125         37
+   175         23
+   181         14

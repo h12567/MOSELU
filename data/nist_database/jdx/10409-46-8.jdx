@@ -1,0 +1,63 @@
+##TITLE=Library Entry 75926
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Cyclohexanone,2-chloro-2-methyl-
+##MOLFORM=C7H11ClO
+##CAS REGISTRY NO=10409-46-8
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    36         20
+    37         10
+    38         30
+    39        220
+    40         50
+    41        300
+    42        140
+    43         60
+    44         10
+    50         10
+    51         20
+    52         10
+    53         80
+    54         80
+    55        440
+    56         50
+    57         10
+    62         10
+    65         10
+    66         10
+    67        260
+    68        250
+    69         50
+    70         20
+    75         20
+    76        110
+    77         20
+    78         40
+    79         10
+    81         10
+    82         80
+    83        100
+    84         20
+    89         80
+    90         10
+    91         30
+    95         10
+   102        999
+   103         60
+   104        320
+   105         10
+   110         50
+   111         40
+   112         20
+   146        170
+   147         10
+   148         50

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 48939
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. TALMAN, CENT. LAB. TNO, SCHOEMAKERSTRAAT 97, DELFT,
+ N
+##NAMES=HP
+##CAS NAME=6,10-Dimethyl-3-(1-methylethylidene)-1-cyclodecene
+##MOLFORM=C15H26
+##CAS REGISTRY NO=69239-71-0
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        960
+    42        130
+    43        230
+    53        180
+    55        600
+    56        120
+    57        190
+    65        180
+    66        120
+    67        540
+    68        380
+    69        360
+    77        390
+    79        999
+    80        140
+    81        540
+    82        999
+    83        340
+    91        300
+    92         50
+    93        480
+    94        120
+    95        480
+    96        200
+   105         60
+   107        480
+   108        110
+   109        420
+   110         60
+   121        600
+   122        200
+   123        360
+   124         40
+   135        280
+   136         90
+   137         80
+   149        240
+   150        180
+   163        180
+   177         60
+   191        140
+   206        240

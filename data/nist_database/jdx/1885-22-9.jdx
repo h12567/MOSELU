@@ -1,0 +1,62 @@
+##TITLE=Library Entry 31933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Malononitrile, bromo-
+##MOLFORM=C3HBrN2
+##CAS REGISTRY NO=1885-22-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    29          2
+    32         13
+    36          7
+    38        256
+    39        103
+    40          9
+    41          2
+    42          1
+    43          5
+    44          1
+    47          1
+    48          0
+    50         13
+    51         12
+    52          2
+    53          3
+    56          1
+    57          2
+    65        999
+    66        191
+    67          4
+    70          1
+    71          2
+    73          2
+    76          3
+    79         99
+    81         96
+    82          4
+    83          3
+    85          3
+    91         17
+    92          3
+    93         16
+    94          2
+   100          1
+   102          0
+   103          0
+   105          1
+   106          1
+   107          1
+   117         18
+   119         22
+   128          4
+   144        352
+   145         11
+   146        343
+   147         11

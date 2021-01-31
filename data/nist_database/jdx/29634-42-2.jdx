@@ -1,0 +1,49 @@
+##TITLE=Library Entry 2010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pedersen ET AL.Tetrahedron,26,4449(1970)
+##NAMES=HP
+##CAS NAME=Isopropyl 2-hydroxyphenyl sulfoxide
+##MOLFORM=C9H12O2S
+##CAS REGISTRY NO=29634-42-2
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        282
+    40        999
+    41        490
+    42        115
+    43        289
+    45         74
+    50        118
+    51         11
+    52         11
+    53         52
+    62          7
+    63         52
+    64         44
+    65        122
+    66         11
+    69         40
+    70         63
+    84         14
+    92         14
+    94         33
+    95         33
+    96        710
+    97         78
+    98         22
+   113         55
+   124        319
+   125         33
+   126         44
+   127          7
+   141         11
+   142        412
+   143         18
+   144         14
+   184        144

@@ -1,0 +1,73 @@
+##TITLE=Library Entry 59700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Benzeneacetic acid, phenylmethyl ester
+##MOLFORM=C15H14O2
+##CAS REGISTRY NO=102-16-9
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1818
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          3
+    29          1
+    37          1
+    38          5
+    39         43
+    40          3
+    41         13
+    42          1
+    44          1
+    45          1
+    50         13
+    51         38
+    52         11
+    53          3
+    61          2
+    62          9
+    63         35
+    64         11
+    65        155
+    66          9
+    74          3
+    75          3
+    76          3
+    77         36
+    78          8
+    79         10
+    80          1
+    86          1
+    87          1
+    89         42
+    90         29
+    91        999
+    92        108
+    93          4
+   104          4
+   105          7
+   106          1
+   107          6
+   108         30
+   109          2
+   113          1
+   118          4
+   119          1
+   152          1
+   165          3
+   166          1
+   167          5
+   168          1
+   178          1
+   179          2
+   180         11
+   181          3
+   182          1
+   208          1
+   226         44
+   227          7
+   228          1

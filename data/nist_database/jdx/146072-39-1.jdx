@@ -1,0 +1,60 @@
+##TITLE=Library Entry 3414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-Cyano-3-methylbut-2-enamine
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=146072-39-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         15
+    27        144
+    28         59
+    29         62
+    30          8
+    37          9
+    38         24
+    39        214
+    40         48
+    41        999
+    42         70
+    43        176
+    44          6
+    50         23
+    51         40
+    52         17
+    53        145
+    54         29
+    55         90
+    56         28
+    57          5
+    62          4
+    63          7
+    64          4
+    65         22
+    66         18
+    67        123
+    68        315
+    69        919
+    70         80
+    71          4
+    73          4
+    78        178
+    79         12
+    80          7
+    81         12
+    82         13
+    83         14
+    92         20
+    93          6
+    95        179
+    96         12
+   109         13
+   110         19
+   111          4

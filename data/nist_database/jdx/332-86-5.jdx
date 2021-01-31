@@ -1,0 +1,43 @@
+##TITLE=Library Entry 109324
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Heptanone, 1,1,1,7,7,7-hexafluoro-
+##MOLFORM=C7H8F6O
+##CAS REGISTRY NO=332-86-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         20
+    42         40
+    44         20
+    45         20
+    47         50
+    51         80
+    55         40
+    59         20
+    64         20
+    69        100
+    75         20
+    76        240
+    77         20
+    91         20
+    95         20
+    97        410
+    98         20
+   115         30
+   121         20
+   125        999
+   126         40
+   132         20
+   134         20
+   143         20
+   153         20
+   155         20
+   203         40
+   222         10

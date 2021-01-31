@@ -1,0 +1,28 @@
+##TITLE=Library Entry 32933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.GOMBLER, UNIV. SARLANDES, SAARBRUCKEN, GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=Methanesulfinyl fluoride
+##MOLFORM=CH3FOS
+##CAS REGISTRY NO=56755-41-0
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    32        420
+    45        160
+    46         70
+    47         30
+    48        430
+    51         40
+    60         50
+    63        110
+    64        100
+    65         80
+    67        999
+    82        950

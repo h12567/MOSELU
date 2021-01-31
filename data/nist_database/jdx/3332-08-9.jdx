@@ -1,0 +1,62 @@
+##TITLE=Library Entry 4934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2-Propanamine, N-(1-methylethylidene)-
+##MOLFORM=C6H13N
+##CAS REGISTRY NO=3332-08-9
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27         50
+    28         86
+    29         12
+    30          8
+    31          1
+    38          0
+    39         39
+    40         12
+    41        169
+    42        999
+    43        181
+    44         40
+    45          1
+    50          0
+    51          0
+    52          1
+    53          1
+    54          7
+    55          6
+    56         20
+    57         21
+    58         37
+    59          1
+    65          1
+    66          1
+    67          4
+    68         20
+    69         19
+    70          8
+    71          7
+    72          0
+    77          0
+    79          1
+    80          0
+    81          1
+    82          6
+    83         10
+    84        846
+    85         49
+    86          3
+    96          0
+    97          1
+    98         53
+    99        146
+   100         13
+   101          1

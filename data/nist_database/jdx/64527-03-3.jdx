@@ -1,0 +1,39 @@
+##TITLE=Library Entry 66327
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS,16( )1579(1977); H.A. PRIESTAP
+##NAMES=HP
+##CAS NAME=Dodecanamide, 5-hydroxy-N-phenyl-, (S)-
+##MOLFORM=C18H29NO2
+##CAS REGISTRY NO=64527-03-3
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    29         54
+    41        140
+    42         75
+    43        120
+    55        120
+    56         83
+    57         90
+    65         74
+    66        140
+    69         86
+    70         92
+    71        120
+    77         49
+    83         43
+    92        110
+    93        999
+    94        120
+    99        360
+   114         50
+   120         25
+   135        180
+   192         53
+   273         49
+   291         38

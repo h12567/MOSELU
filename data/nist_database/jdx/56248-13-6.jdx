@@ -1,0 +1,54 @@
+##TITLE=Library Entry 50246
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-methanol, 3-(benzoyloxy)-6-ethoxy-3,6-dihydro-, methan
+esulfonate
+##MOLFORM=C16H20O7S
+##CAS REGISTRY NO=56248-13-6
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    40         62
+    41        104
+    42         41
+    43         97
+    44         27
+    45        104
+    46         27
+    76         41
+    77        965
+    78         69
+    79        138
+    81        999
+    82        159
+    83        173
+    84         27
+    85        208
+    86         10
+    94         24
+    95         90
+    96         34
+    98        145
+    99         17
+   100         27
+   125        243
+   126         17
+   127         27
+   138         10
+   139         24
+   161         20
+   189        562
+   190         48
+   191         20
+   201         41
+   218        458
+   219         76
+   311        163
+   312         24
+   313         10

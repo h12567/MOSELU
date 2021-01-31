@@ -1,0 +1,31 @@
+##TITLE=Library Entry 9711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1273(1977);22; A. VASELLA, EIDGENOSSISCHEN
+ TECHNISCHEN HOCHSCHULE, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=5-Isoxazolecarboxylic acid, 4,5-dihydro-5-methyl-, methyl ester,
+ (R)-
+##MOLFORM=C6H9NO3
+##CAS REGISTRY NO=64018-42-4
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        130
+    42        330
+    43        999
+    44         40
+    45         20
+    53         40
+    55         30
+    59         80
+    68         30
+    69         40
+    83        130
+    84        640
+    85         40
+   143         10

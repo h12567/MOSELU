@@ -1,0 +1,40 @@
+##TITLE=Library Entry 41225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. White V, SmithKline Corp.
+##NAMES=HP
+##CAS NAME=Acetic acid, lithium salt
+##MOLFORM=C2H3LiO2
+##CAS REGISTRY NO=546-89-4
+##MP= -300
+##BP= -300
+##MW= 66
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    28         26
+    29         11
+    30         12
+    41          6
+    42         29
+    43        169
+    44         74
+    45         64
+    51         59
+    58         41
+    60         51
+    71          7
+    72        197
+    73        999
+    74         28
+    75          5
+    88          6
+    89         60
+   105          1
+   106          5
+   117          2
+   138          4
+   139         18
+   204          2
+   205          6

@@ -1,0 +1,69 @@
+##TITLE=Library Entry 20680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Chloro-3-ethylhexane
+##MOLFORM=C8H17Cl
+##CAS REGISTRY NO=116530-76-8
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    15         14
+    16          0
+    26         21
+    27        240
+    28         60
+    29        167
+    32         13
+    35         15
+    36         44
+    38         29
+    39        205
+    40         43
+    41        481
+    42         65
+    43        199
+    44         11
+    50         14
+    51         39
+    52         18
+    53        100
+    54         11
+    55        999
+    56         89
+    57        127
+    63         30
+    65         33
+    66         13
+    67         73
+    68         13
+    69        325
+    70         74
+    71        122
+    72          9
+    76          7
+    77         45
+    79         25
+    81         15
+    83        594
+    84        130
+    85          8
+    89          9
+    90         22
+    92          9
+    97          9
+   104         63
+   105         47
+   106         23
+   107         13
+   112        183
+   113         37
+   118         85
+   119         67
+   120         34
+   121         20

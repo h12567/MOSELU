@@ -1,0 +1,55 @@
+##TITLE=Library Entry 23913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methyl-3-carbmethoxy-3-methylcarbamidoyldiaziridine
+##MOLFORM=C6H11N3O3
+##CAS REGISTRY NO=54972-14-4
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        116
+    42        673
+    43        345
+    44        472
+    45        248
+    46          7
+    55        171
+    56        501
+    57        999
+    58        567
+    59        243
+    60         69
+    61          5
+    69        118
+    70        123
+    71         54
+    72          5
+    83         51
+    84        123
+    85         51
+    86          6
+    87          8
+    88         44
+    89          5
+   100         99
+   101         51
+   102          6
+   115         46
+   116         50
+   117          5
+   125         49
+   126         75
+   127          6
+   141         51
+   142         27
+   158        276
+   159         29
+   160          4
+   173         33
+   174          3

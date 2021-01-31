@@ -1,0 +1,29 @@
+##TITLE=Library Entry 18048
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Chloromethane
+##MOLFORM=CH3Cl
+##CAS REGISTRY NO=74-87-3
+##MP= -300
+##BP= -300
+##MW= 50
+##$RETENTION INDEX=327
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    12         33
+    13         54
+    14         84
+    15        723
+    16         10
+    35         62
+    36         16
+    37         19
+    47         71
+    48         34
+    49        114
+    50        999
+    51         38
+    52        310

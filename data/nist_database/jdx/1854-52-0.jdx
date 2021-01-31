@@ -1,0 +1,87 @@
+##TITLE=Library Entry 12540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=6-Acetyl-2,4-diamino-6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine
+##MOLFORM=C8H11N5O
+##CAS REGISTRY NO=1854-52-0
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    41         65
+    42         32
+    43        999
+    44         23
+    45          5
+    47          0
+    49          4
+    50          2
+    52        160
+    53        132
+    54        109
+    55         22
+    56         16
+    57          1
+    59          2
+    60          2
+    63          2
+    64         14
+    65         12
+    66         42
+    67         73
+    68         27
+    69         12
+    70          4
+    77         11
+    78          5
+    79         33
+    80         36
+    81         72
+    82         17
+    83          9
+    84          3
+    86          1
+    92         25
+    93         11
+    94         10
+    95         11
+    96          7
+    97         12
+   104          0
+   105          1
+   106         46
+   107         40
+   108        220
+   109         16
+   110          4
+   118          1
+   120          0
+   121         13
+   122         10
+   123          4
+   124         76
+   125          4
+   132         14
+   133         64
+   134         15
+   135          7
+   136         12
+   137          2
+   150        497
+   151         37
+   152          4
+   161          6
+   165          3
+   176          8
+   178        141
+   179          7
+   192         23
+   193        328
+   194         88
+   195          7

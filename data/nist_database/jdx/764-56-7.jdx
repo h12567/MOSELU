@@ -1,0 +1,49 @@
+##TITLE=Library Entry 59272
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=1,5-Heptadiyne
+##MOLFORM=C7H8
+##CAS REGISTRY NO=764-56-7
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        220
+    37         20
+    38         54
+    39        202
+    41         25
+    50        107
+    51        186
+    52        113
+    53        399
+    54         14
+    55          1
+    61         18
+    62         43
+    63        102
+    64         25
+    65        211
+    66         30
+    67          1
+    73          1
+    74          9
+    75          5
+    76          4
+    77         27
+    78          8
+    79         14
+    85          3
+    86          7
+    87          3
+    89         23
+    90          7
+    91        999
+    92         82
+    93          6

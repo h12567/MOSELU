@@ -1,0 +1,66 @@
+##TITLE=Library Entry 27958
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8248
+##NAMES=HP
+##CAS NAME=Dimethyl palmitamine
+##MOLFORM=C18H39N
+##CAS REGISTRY NO=112-69-6
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=1894
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          7
+    27          4
+    28          4
+    29         13
+    30          5
+    39          3
+    41         26
+    42         13
+    43         42
+    44         12
+    45         13
+    46          9
+    47          1
+    49          2
+    50         28
+    51          1
+    52          9
+    53          1
+    54          1
+    55         25
+    56          8
+    57         31
+    58        999
+    59         40
+    60          1
+    67          2
+    68          1
+    69         12
+    70          6
+    71         13
+    72          3
+    73          1
+    81          1
+    82          1
+    83          6
+    84         10
+    85          6
+    91          6
+    93          2
+    97          3
+    98          2
+    99          1
+   100          2
+   105          2
+   111          1
+   114          2
+   128          1
+   254          1
+   268         10
+   269         15
+   270          3

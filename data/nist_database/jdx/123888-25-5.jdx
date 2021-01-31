@@ -1,0 +1,33 @@
+##TITLE=Library Entry 82241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. RAJESHWAR RAO, DEP. CHEM., REG. ENG. COLL., WARANGAL
+, INDIA
+##NAMES=HP
+##CAS NAME=2-(Phenylcarbonylmethyl)thio-4,8-dimethylpyrano[3,2-f]benzoxazol-
+6(H)-one
+##MOLFORM=C20H15NO4S
+##CAS REGISTRY NO=123888-25-5
+##MP= -300
+##BP= -300
+##MW= 365
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    75         45
+    77        200
+    87         49
+    88         49
+    89        142
+    91         52
+   103         52
+   105        999
+   106         78
+   218         50
+   219         51
+   246         26
+   247         52
+   365        305
+   366         78
+   367         21

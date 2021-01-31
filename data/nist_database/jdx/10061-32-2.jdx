@@ -1,0 +1,65 @@
+##TITLE=Library Entry 1570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.Ardrey ET AL.Pharmaceutical Mass Spectra,L.,1985
+##NAMES=HP
+##CAS NAME=Levophenacylmorphan
+##MOLFORM=C24H27NO2
+##CAS REGISTRY NO=10061-32-2
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        210
+    29        250
+    30         40
+    31        999
+    36         20
+    39         30
+    41         30
+    42         90
+    43        140
+    44        140
+    45        420
+    46        100
+    50         20
+    51         30
+    52         30
+    55         20
+    56         30
+    57         40
+    58        200
+    59        120
+    67         10
+    69         10
+    74         30
+    77         50
+    78         90
+    79         10
+    91         20
+   105         40
+   107         10
+   115         10
+   127         10
+   128         20
+   129         10
+   131         10
+   133         10
+   144         10
+   145         20
+   157         70
+   158         10
+   170         10
+   171         10
+   198         20
+   199         40
+   200         10
+   254         30
+   255         20
+   256        560
+   257         90
+   258         10

@@ -1,0 +1,24 @@
+##TITLE=Library Entry 82423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-Phenylamino-ethyl)-pentadecafluoro-octanamide
+##MOLFORM=C16H11F15N2O
+##CAS REGISTRY NO=10107-44-5
+##MP= -300
+##BP= -300
+##MW= 532
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    69         49
+    77        100
+    79         39
+   104         40
+   106        999
+   107         90
+   118         30
+   120         70
+   532         80

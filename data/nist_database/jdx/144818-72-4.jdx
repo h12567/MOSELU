@@ -1,0 +1,39 @@
+##TITLE=Library Entry 84182
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=1-(4-Ethoxyphenyl)acetone
+##MOLFORM=C11H14O2
+##CAS REGISTRY NO=144818-72-4
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        239
+    51         62
+    52         39
+    53         36
+    63         25
+    77        162
+    78         62
+    79         24
+    89         30
+    90         21
+    91         12
+   105          8
+   107        999
+   108         81
+   118          1
+   121          2
+   135        645
+   136         63
+   137          3
+   162          0
+   163          0
+   178        222
+   179         26

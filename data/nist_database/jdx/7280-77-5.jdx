@@ -1,0 +1,65 @@
+##TITLE=Library Entry 62255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Cyclo-(l-leucyl-l-phenylalanyl)
+##MOLFORM=C15H20N2O2
+##CAS REGISTRY NO=7280-77-5
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    30        281
+    31         38
+    43        354
+    44        396
+    58        169
+    65        187
+    66         30
+    77        150
+    85        360
+    86        644
+    91        999
+    92        327
+   103        147
+   104         99
+   113        693
+   120        317
+   128         90
+   130         29
+   131        160
+   132         48
+   141        773
+   142         69
+   147         78
+   148         29
+   149         19
+   150         49
+   169        617
+   170         70
+   173         20
+   174         59
+   175         79
+   176         39
+   189         29
+   200         49
+   201         19
+   202         29
+   203         49
+   204        656
+   205        169
+   206         30
+   216         20
+   217         70
+   218         29
+   243         40
+   245         30
+   256         20
+   258         19
+   260        248
+   261         49
+   262         19

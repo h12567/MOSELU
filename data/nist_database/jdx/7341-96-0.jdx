@@ -1,0 +1,45 @@
+##TITLE=Library Entry 18479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propiolamide
+##MOLFORM=C3H3NO
+##CAS REGISTRY NO=7341-96-0
+##MP= -300
+##BP= -300
+##MW= 69
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    25         98
+    26         64
+    27         22
+    28         58
+    29         13
+    30          2
+    34          8
+    36          5
+    37          8
+    38         27
+    39         25
+    40         63
+    41        445
+    42        123
+    43         57
+    44        190
+    45          3
+    50         15
+    51         50
+    52         62
+    53        999
+    54         31
+    55          6
+    56          3
+    57          9
+    67          4
+    68         70
+    69        731
+    70         35
+    71          5

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 99734
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzene, 1,1'-(4,4-dimethyl-1-butene-1,4-diyl)bis-
+##MOLFORM=C18H20
+##CAS REGISTRY NO=93393-51-2
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         87
+    28        115
+    39        174
+    40         59
+    41        299
+    51        151
+    65         64
+    77        159
+    79         86
+    91        527
+   103        137
+   105        117
+   115        137
+   119        999
+   120         99
+   128        126
+   129         59
+   131         60
+   143        280
+   178         40
+   179         33
+   191         42
+   192         33
+   193         36
+   206         25
+   207         25
+   221        418
+   222         77
+   236        245
+   237         49

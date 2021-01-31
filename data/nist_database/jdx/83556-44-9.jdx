@@ -1,0 +1,43 @@
+##TITLE=Library Entry 44877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=But-2-yl N-trifluoroacetyl-2-methyl-3-aminobutanoate
+##MOLFORM=C11H18F3NO3
+##CAS REGISTRY NO=83556-44-9
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        229
+    42         70
+    43         48
+    44         20
+    45         48
+    55        250
+    56        259
+    57        402
+    69        110
+    70         49
+    73         50
+    74        999
+    75         29
+    83        400
+    84         29
+    98         20
+   100         29
+   114         60
+   130        280
+   131         19
+   140        479
+   141         39
+   144         30
+   167         60
+   196        298
+   197         10
+   198         10
+   214          9

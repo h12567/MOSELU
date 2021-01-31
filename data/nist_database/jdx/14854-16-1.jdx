@@ -1,0 +1,24 @@
+##TITLE=Library Entry 69452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Hydroxy-12-azadispiro(4,1,4,2)tridec-8-ene-6,13-dione
+##MOLFORM=C12H15NO3
+##CAS REGISTRY NO=14854-16-1
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    96        999
+    98        925
+   108        220
+   148         42
+   176         10
+   193        253
+   204          2
+   221         20
+   222          8

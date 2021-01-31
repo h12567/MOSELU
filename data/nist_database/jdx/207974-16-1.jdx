@@ -1,0 +1,79 @@
+##TITLE=Library Entry 51898
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Ethyl-5-methyl-1-heptyn-3-ol
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=207974-16-1
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         16
+    18          4
+    26         24
+    27        237
+    28         31
+    29        436
+    30         13
+    37          3
+    38         11
+    39        212
+    40         42
+    41        311
+    42         46
+    43        334
+    44          6
+    45          6
+    50         18
+    51         53
+    52         18
+    53        157
+    54         22
+    55        286
+    56         43
+    57        312
+    58         13
+    62          4
+    63         13
+    64          4
+    65         32
+    66         10
+    67         29
+    68         33
+    69        382
+    70         27
+    71         28
+    72          9
+    73          8
+    77         43
+    78          9
+    79         76
+    80         19
+    81         72
+    82         66
+    83        999
+    84         63
+    85          7
+    91         50
+    92          6
+    93         15
+    94          5
+    95         21
+    96          7
+    97         12
+    98         55
+    99          9
+   105         20
+   107         34
+   108          4
+   109          4
+   121          9
+   125        294
+   126         27
+   127          3

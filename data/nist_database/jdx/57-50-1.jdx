@@ -1,0 +1,61 @@
+##TITLE=Library Entry 23040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Sucrose
+##MOLFORM=C12H22O11
+##CAS REGISTRY NO=57-50-1
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27        289
+    28        909
+    29        819
+    30        239
+    31        629
+    41        279
+    42        259
+    43        909
+    44        569
+    45        369
+    55        399
+    56        309
+    57        999
+    58        309
+    60        309
+    61        279
+    69        329
+    71        429
+    72        139
+    73        869
+    74        399
+    81        129
+    85        469
+    86        269
+    97        529
+    98        139
+    99        139
+   103        139
+   109        129
+   110        139
+   113        169
+   115        119
+   126         89
+   127        279
+   128        109
+   131        119
+   133         40
+   143         60
+   145        459
+   146        209
+   155         79
+   163         70
+   203         89
+   221        319
+   222         30
+   293         89

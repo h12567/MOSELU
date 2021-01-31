@@ -1,0 +1,82 @@
+##TITLE=Library Entry 46916
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.Klyuev, Institute of Ecology & Evolution, RAS, Moscow
+##NAMES=HP
+##CAS NAME=1H-Benzimidazole, 2-[[(hydroxyimino)phenylmethyl]azo]-
+##MOLFORM=C14H11N5O
+##CAS REGISTRY NO=76128-53-5
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    40         22
+    41         61
+    42         13
+    43         77
+    50        157
+    51        294
+    52        135
+    53         53
+    54         13
+    57         89
+    63        158
+    64        131
+    65         75
+    66         13
+    74         28
+    75         72
+    76        305
+    77        999
+    78        157
+    80          1
+    81          2
+    82          1
+    88         11
+    89         21
+    90        332
+    91        181
+    92         63
+    93         23
+   102         42
+   103        560
+   104        491
+   105        265
+   106         59
+   107          1
+   108          2
+   111          1
+   116         14
+   117        210
+   118        528
+   119        121
+   120        134
+   121         17
+   131        373
+   132        365
+   133         85
+   134          7
+   135         11
+   144         20
+   145         40
+   147         12
+   148         65
+   149         15
+   205          2
+   206          3
+   207          5
+   208          2
+   219          2
+   220         14
+   221          3
+   233         37
+   234        354
+   235        146
+   236         30
+   237         31
+   248         26
+   265          9
+   266          3

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 4738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=3-Ethyl-1,3-dimethyldiaziridine (cis)
+##MOLFORM=C5H12N2
+##CAS REGISTRY NO=54753-24-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    30        138
+    32        888
+    33         37
+    39         75
+    40        217
+    41        427
+    42        999
+    43        236
+    44        371
+    45        532
+    46        138
+    47          9
+    53         45
+    54         67
+    55        469
+    56        999
+    57        257
+    58        133
+    59         11
+    68        462
+    69        132
+    70        913
+    71         33
+    72         29
+    82         47
+    83         46
+    84        562
+    85        238
+    86         27
+    99        196
+   100        278
+   101         55
+   102          7

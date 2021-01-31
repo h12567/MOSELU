@@ -1,0 +1,77 @@
+##TITLE=Library Entry 94499
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2523
+##NAMES=HP
+##CAS NAME=2-(Methylsulfonyloxy)naphthalene
+##MOLFORM=C11H10O3S
+##CAS REGISTRY NO=10290-91-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15         20
+    27          1
+    28          8
+    29          1
+    32          1
+    38          3
+    39         21
+    40          1
+    41          3
+    44          2
+    45          1
+    48          2
+    50          9
+    51         11
+    52          2
+    57          9
+    58          1
+    61          3
+    62         20
+    63         54
+    64          9
+    65         33
+    66          2
+    74          9
+    75         12
+    76          5
+    77          5
+    79          9
+    85          2
+    86          7
+    87         12
+    88         20
+    89         57
+    90          4
+    98          1
+    99          1
+   101          3
+   102          3
+   103          1
+   113         21
+   114         39
+   115        999
+   116        104
+   117          5
+   126          7
+   127         15
+   128          4
+   129          2
+   130          3
+   131          3
+   142          6
+   143        773
+   144        392
+   145         39
+   146          3
+   158          2
+   159          2
+   221          3
+   222        579
+   223         74
+   224         34
+   225          3

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 62890
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methyl 1-(isopropyl-benzyl-phosphinomethyl)-pyrrolidine-2-carboxy
+late
+##MOLFORM=C17H26NO2P
+##CAS REGISTRY NO=66912-14-9
+##MP= -300
+##BP= -300
+##MW= 307
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    39        143
+    40         41
+    41         61
+    43         56
+    59         31
+    65         77
+    67         46
+    68         67
+    69         51
+    70         77
+    75         61
+    77         31
+    78         67
+    79         31
+    80         56
+    81         92
+    82        241
+    83         46
+    91        999
+    92        195
+    93          4
+   108         46
+   109         26
+   121         46
+   122         51
+   123         61
+   124         56
+   125          9
+   126         46
+   127          5
+   140        143
+   141        251
+   142         46
+   143          7
+   144          2
+   165         31
+   166        415
+   167        123
+   168         26
+   182         36
+   183          6

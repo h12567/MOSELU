@@ -1,0 +1,66 @@
+##TITLE=Library Entry 8501
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Naphthalenol, 6-bromodecahydro-1-(5-hydroxy-3-methyl-3-pentenyl
+)-2,5,5,8a-tetramethyl-, [1S-(1.alpha.,2.alpha.,4a.beta.,6.alpha.,8a.alpha.)
+]-
+##MOLFORM=C22H37BrO3
+##CAS REGISTRY NO=56009-17-7
+##MP= -300
+##BP= -300
+##MW= 428
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41        529
+    43        999
+    55        390
+    57        170
+    67        200
+    68        120
+    69        679
+    71        370
+    79        140
+    81        499
+    82        120
+    83        120
+    84        150
+    93        230
+    94        100
+    95        410
+    97        100
+    98        150
+    99        130
+   105        110
+   107        230
+   109        260
+   118        170
+   119        150
+   121        200
+   123        190
+   133        100
+   134        160
+   135        230
+   137        110
+   147        100
+   149        180
+   152        150
+   175        100
+   191        370
+   255         40
+   257         40
+   270        100
+   271        100
+   272        100
+   289        160
+   310         50
+   312         50
+   350         70
+   352         70
+   368        130
+   370        130
+   428          4
+   430          4

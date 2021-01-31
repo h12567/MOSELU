@@ -1,0 +1,35 @@
+##TITLE=Library Entry 16947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1856
+##NAMES=HP
+##CAS NAME=Oxalic acid
+##MOLFORM=C2H2O4
+##CAS REGISTRY NO=144-62-7
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=748
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    12          6
+    16         11
+    17         37
+    18        106
+    19          2
+    28        140
+    29        200
+    30          3
+    32          1
+    36          1
+    39          1
+    40          3
+    44        161
+    45        999
+    46        583
+    47         10
+    48          2
+    56         30
+    90          8
+    91          1

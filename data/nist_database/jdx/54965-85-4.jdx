@@ -1,0 +1,44 @@
+##TITLE=Library Entry 50061
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexene, 3-(2,2-dimethylpropoxy)-
+##MOLFORM=C11H20O
+##CAS REGISTRY NO=54965-85-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        380
+    42         20
+    43        370
+    51         30
+    52         20
+    53        130
+    54         10
+    55        100
+    56         20
+    57        600
+    58         20
+    65         20
+    66         10
+    67         40
+    68         10
+    69         10
+    70        250
+    71        210
+    77         60
+    79        130
+    80        110
+    81        999
+    82        110
+    83         60
+    97         50
+    98        600
+    99         40

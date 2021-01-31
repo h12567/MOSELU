@@ -1,0 +1,35 @@
+##TITLE=Library Entry 26362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenylmethanediol dipropanoate
+##MOLFORM=C13H16O4
+##CAS REGISTRY NO=55696-47-4
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         20
+    44         20
+    50         29
+    51         59
+    52         19
+    56         20
+    57        999
+    58         30
+    74         19
+    77        180
+    78         40
+    79         29
+   105        460
+   106        118
+   107         60
+   120         19
+   162          9
+   163         49
+   179         60
+   180         19

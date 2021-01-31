@@ -1,0 +1,53 @@
+##TITLE=Library Entry 26131
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AC73-347-3B
+##NAMES=HP
+##CAS NAME=Cycloheptanol, 3-(3,3-dimethylbutyl)-
+##MOLFORM=C13H26O
+##CAS REGISTRY NO=40564-99-6
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    41        227
+    42         15
+    43        119
+    44         34
+    45         18
+    53         31
+    54         39
+    55        206
+    56        140
+    57        999
+    58         52
+    77         21
+    79         34
+    80         21
+    81        248
+    82        185
+    83        127
+    84         31
+    85         31
+    91         18
+    93         31
+    94         34
+    95        465
+    96        608
+    97        100
+    98         21
+   121         15
+   122         37
+   123        164
+   124        216
+   125         55
+   137         26
+   138         18
+   141         95
+   142         23
+   163         13
+   165         23
+   180         26

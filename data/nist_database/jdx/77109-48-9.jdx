@@ -1,0 +1,30 @@
+##TITLE=Library Entry 12395
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.P.E. VERMEULEN, DEP. PHARM., LEIDEN UNIV., NETH.
+##NAMES=HP
+##CAS NAME=N-Acetyl-S-2-hydroxyethyl-l-cysteine methyl ester
+##MOLFORM=C8H15NO4S
+##CAS REGISTRY NO=77109-48-9
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    45        280
+    61        370
+    74        130
+    85        120
+    88        320
+    91        160
+   103        110
+   117        120
+   120         50
+   132         90
+   144        720
+   162        120
+   171         40
+   203        190

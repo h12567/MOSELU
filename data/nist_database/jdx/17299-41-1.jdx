@@ -1,0 +1,56 @@
+##TITLE=Library Entry 69403
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-one, 3,4,4-trimethyl-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=17299-41-1
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1198
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        380
+    42         40
+    43        180
+    50         10
+    51         70
+    52         30
+    53        160
+    54         50
+    55        210
+    56         20
+    57         10
+    63         20
+    65         50
+    66         20
+    67        470
+    68         40
+    69         30
+    70         10
+    77         80
+    78         10
+    79         80
+    80         20
+    81        260
+    82        190
+    83         20
+    91         30
+    93         30
+    95        860
+    96        999
+    97         60
+   107         10
+   108         10
+   109        130
+   110        650
+   111         30
+   122         10
+   123         80
+   124         20
+   138        420
+   139         30

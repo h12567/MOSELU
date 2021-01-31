@@ -1,0 +1,44 @@
+##TITLE=Library Entry 22687
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.E. HILL, VICTORIA COLLEGE, JERSEY
+##NAMES=HP
+##CAS NAME=Iron, bromotricarbonyl(.eta.3-2-propenyl)-
+##MOLFORM=C6H5BrFeO3
+##CAS REGISTRY NO=12192-46-0
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    56        999
+    68         60
+    69         60
+    70         80
+    71        150
+    81         70
+    82         60
+    84        270
+    93         70
+    94         80
+    95        280
+    96        600
+    97        550
+   112         50
+   125        370
+   134         10
+   135        490
+   138         20
+   153        110
+   162          3
+   163        120
+   166         10
+   176        240
+   181         40
+   191         20
+   194          3
+   204        200
+   232         80
+   260         10

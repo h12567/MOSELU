@@ -1,0 +1,77 @@
+##TITLE=Library Entry 83115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-5315
+##NAMES=HP
+##CAS NAME=Propionanilide, N-((dimethylcarbamoyl)methyl)-
+##MOLFORM=C13H18N2O2
+##CAS REGISTRY NO=92033-06-2
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          5
+    27          8
+    28          7
+    29         60
+    30          6
+    39          3
+    41          1
+    42          8
+    43          5
+    44         11
+    45          4
+    46          4
+    50          3
+    51         14
+    52          2
+    55          4
+    56          3
+    57         90
+    58          9
+    63          1
+    64          1
+    65          3
+    72         73
+    73          3
+    74          1
+    76          2
+    77         57
+    78          9
+    79         12
+    80          1
+    85          1
+    86          4
+    87          1
+    91          4
+    93          4
+   103          1
+   104         32
+   105         30
+   106        999
+   107         83
+   108          3
+   118          1
+   119          1
+   120          1
+   132          4
+   133          2
+   134          1
+   160          1
+   162         20
+   163          2
+   177          5
+   178        222
+   179         27
+   180          2
+   189          5
+   190         79
+   191          9
+   192          1
+   205          2
+   234        105
+   235         17
+   236          2

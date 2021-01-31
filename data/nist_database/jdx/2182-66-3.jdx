@@ -1,0 +1,45 @@
+##TITLE=Library Entry 98981
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Silanediol, dimethyl-, diacetate
+##MOLFORM=C6H12O4Si
+##CAS REGISTRY NO=2182-66-3
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    29          2
+    42         20
+    43         60
+    44          7
+    45        138
+    46         10
+    47         39
+    58          8
+    59         52
+    60         13
+    61         50
+    62         16
+    63         39
+    74         54
+    75        428
+    76         98
+    77        726
+    78         47
+    79         29
+    91          8
+   103          7
+   116        136
+   117        333
+   118         42
+   119        999
+   120         84
+   121         41
+   134         17
+   161         90
+   162          8

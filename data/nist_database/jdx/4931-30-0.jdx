@@ -1,0 +1,52 @@
+##TITLE=Library Entry 1923
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=s-Triazolo[1,5-a]pyridine, 2,5,7-trimethyl-
+##MOLFORM=C9H11N3
+##CAS REGISTRY NO=4931-30-0
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    38        260
+    39        999
+    40        370
+    41        650
+    42        190
+    50        300
+    51        530
+    52        700
+    53        260
+    63        180
+    64        210
+    65        320
+    66        300
+    67        120
+    76         40
+    77        210
+    78        180
+    79        260
+    80        140
+    92        180
+    93        630
+    94        210
+   104         50
+   105        160
+   106        180
+   107        210
+   119        370
+   120        120
+   121        200
+   132         50
+   133        110
+   134         50
+   146        180
+   147        120
+   160        390
+   161        840
+   162        120

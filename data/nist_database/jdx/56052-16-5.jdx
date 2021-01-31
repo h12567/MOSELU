@@ -1,0 +1,33 @@
+##TITLE=Library Entry 107744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 3-methoxyphenyl ester
+##MOLFORM=C14H20O3
+##CAS REGISTRY NO=56052-16-5
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         59
+    43        227
+    55         39
+    57         29
+    77         19
+    81         19
+    85         29
+    92         19
+    93         19
+    94         49
+    95         39
+   113         39
+   124        999
+   125        118
+   126         29
+   236         79
+   237         39

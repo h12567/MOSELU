@@ -1,0 +1,36 @@
+##TITLE=Library Entry 76796
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4H-1-Benzothiopyran-4-one, 2,3-dihydro-, 1,1-dioxide
+##MOLFORM=C9H8O3S
+##CAS REGISTRY NO=19446-96-9
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    50        300
+    51         80
+    63         50
+    74         70
+    75         70
+    76        290
+    77         60
+    96         10
+    97         40
+   102         20
+   103         20
+   104        999
+   105         70
+   120         20
+   131         10
+   132         10
+   152         20
+   168        300
+   169         40
+   196         90
+   197         10

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 77757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Isothiazolol, 3-phenyl-
+##MOLFORM=C9H7NOS
+##CAS REGISTRY NO=19389-31-2
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         37
+    45        246
+    46         70
+    50        137
+    51        170
+    52         31
+    63         19
+    74         81
+    75         37
+    76         81
+    77        277
+    79         29
+   103         37
+   104        999
+   105        139
+   135          3
+   149         12
+   177        360
+   178         39
+   179         20

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 2301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. SHAW, NATIONAL INST. OF HEALTH, BETHESDA, MD, USA
+##NAMES=HP
+##CAS NAME=2-Hexene, 1-chloro-
+##MOLFORM=C6H11Cl
+##CAS REGISTRY NO=35911-16-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=827
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    38         50
+    39        390
+    40         60
+    41        999
+    42        710
+    43        250
+    49         40
+    50         50
+    51         90
+    52         30
+    53        410
+    54        260
+    55        710
+    56        370
+    57         30
+    61         10
+    62         20
+    63         30
+    64         10
+    65         30
+    66         10
+    67        370
+    68         20
+    69        370
+    70         20
+    75         50
+    76         90
+    77         60
+    78         30
+    79         20
+    81         30
+    82        180
+    83        280
+    84         20
+    88         10
+    89         90
+    90         60
+    91        130
+    92         20
+    93         30
+   118        180
+   119         10
+   120         60

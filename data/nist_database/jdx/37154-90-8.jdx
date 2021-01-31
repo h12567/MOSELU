@@ -1,0 +1,48 @@
+##TITLE=Library Entry 77807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=2,3-Morpholinedione, 4-cyclohexyl-6-phenyl-
+##MOLFORM=C16H19NO3
+##CAS REGISTRY NO=37154-90-8
+##MP= -300
+##BP= -300
+##MW= 273
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41        120
+    55        170
+    77        120
+    78        100
+    79         50
+    81         50
+    82         80
+    83        100
+    91        100
+   102         50
+   103        100
+   104        999
+   105        190
+   106         50
+   107         50
+   110         50
+   118         50
+   119         20
+   120         50
+   128         50
+   146         80
+   156         10
+   158         20
+   174         50
+   182         70
+   192        250
+   193         50
+   199         10
+   200         20
+   201         10
+   229         20
+   230         20
+   273         50

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 51182
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexaneethanol, .beta.-methyl-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=5442-00-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        125
+    28         47
+    29        137
+    30         13
+    31        170
+    32          3
+    39        250
+    40         59
+    41        617
+    42        134
+    43        113
+    44         12
+    45         13
+    50         13
+    51         40
+    52         24
+    53        141
+    54        186
+    55        986
+    56         79
+    57        147
+    58         58
+    59         17
+    65         43
+    66         83
+    67        716
+    68        185
+    69        936
+    70         59
+    71         32
+    77         48
+    78         11
+    79         88
+    80        109
+    81        486
+    82        999
+    83        295
+    84         19
+    91         20
+    93          9
+    95        153
+    96         74
+    99         19
+   109        171
+   110         33
+   111        183
+   112         16
+   124        207
+   125         19

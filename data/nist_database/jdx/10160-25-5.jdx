@@ -1,0 +1,41 @@
+##TITLE=Library Entry 54867
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Bromo-7-(tetrahydro-2-pyranyloxy)heptane
+##MOLFORM=C12H23BrO2
+##CAS REGISTRY NO=10160-25-5
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        202
+    42         40
+    43         80
+    53         20
+    54         30
+    55        313
+    56        252
+    57        111
+    67         60
+    68         20
+    69         60
+    70         20
+    83         20
+    84         60
+    85        999
+    86         60
+    96        141
+   101         60
+   115         10
+   148         10
+   150         10
+   177         20
+   179         20
+   267         20
+   269         20

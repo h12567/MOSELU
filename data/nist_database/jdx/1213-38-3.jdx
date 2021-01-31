@@ -1,0 +1,75 @@
+##TITLE=Library Entry 1817
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Chloro-N-(1,2-dihydro-2-pyridylidene)benzenesulfonamide
+##MOLFORM=C11H9ClN2O2S
+##CAS REGISTRY NO=1213-38-3
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    35         17
+    36         16
+    37         94
+    38        277
+    39        999
+    40        334
+    41         66
+    42         15
+    43         18
+    45         12
+    48         41
+    49         21
+    50        314
+    51        192
+    52         69
+    53         22
+    61         40
+    62         24
+    63         71
+    64         91
+    65        140
+    66        424
+    67        136
+    68          9
+    69         24
+    71          3
+    72          5
+    73         48
+    74        163
+    75        640
+    76        121
+    77         22
+    78         41
+    79          7
+    84         17
+    85         69
+    87         24
+    89          6
+    92         48
+    93        204
+    94         43
+    95         17
+    99         20
+   108          9
+   111        485
+   112         43
+   113        154
+   114          8
+   127          6
+   131          6
+   159         11
+   168         18
+   169          7
+   175         29
+   177         10
+   203        546
+   204         34
+   205        111
+   206         18
+   268          4

@@ -1,0 +1,73 @@
+##TITLE=Library Entry 99241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Methylbenzoyl isothiocyanate
+##MOLFORM=C9H7NOS
+##CAS REGISTRY NO=28115-85-7
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+     4          4
+    14          2
+    15          4
+    18          1
+    26         11
+    27         24
+    28         12
+    29          3
+    32         30
+    34          2
+    37         19
+    38         51
+    39        226
+    40         18
+    41         41
+    43          8
+    44         12
+    45         11
+    49         10
+    50         74
+    51         91
+    52         22
+    53         11
+    54          3
+    58         84
+    59         21
+    60          7
+    61         28
+    62         75
+    63        183
+    64         56
+    65        403
+    66         22
+    69          2
+    70          4
+    73          5
+    74         22
+    75         20
+    76         13
+    77         10
+    78          2
+    84          2
+    85          8
+    86         21
+    87         10
+    88          2
+    89        122
+    90          2
+    91        856
+    92         65
+    93          3
+   104          1
+   116          4
+   117          6
+   119        999
+   120         89
+   121          8
+   177         10

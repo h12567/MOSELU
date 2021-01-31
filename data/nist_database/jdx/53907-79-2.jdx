@@ -1,0 +1,38 @@
+##TITLE=Library Entry 68041
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=8-Thiabicyclo[5.1.0]octane
+##MOLFORM=C7H12S
+##CAS REGISTRY NO=53907-79-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        360
+    40        130
+    41        350
+    45        180
+    53        190
+    54        450
+    55        320
+    56         20
+    66        230
+    67        660
+    68        320
+    69         20
+    73        130
+    77        110
+    79        360
+    80        100
+    81        340
+    82         20
+    95        999
+    96        300
+   128        520
+   129         40
+   130         20

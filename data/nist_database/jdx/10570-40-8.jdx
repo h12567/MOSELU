@@ -1,0 +1,32 @@
+##TITLE=Library Entry 51888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4H-1,2,4-Triazole, 4-methyl-
+##MOLFORM=C3H5N3
+##CAS REGISTRY NO=10570-40-8
+##MP= -300
+##BP= -300
+##MW= 83
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    26         75
+    27        639
+    28        260
+    29         30
+    30         15
+    38         10
+    39         20
+    40         55
+    41         55
+    42        270
+    43         10
+    53         30
+    54         15
+    55        150
+    56         70
+    83        999
+    84         45

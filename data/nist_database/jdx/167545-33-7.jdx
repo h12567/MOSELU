@@ -1,0 +1,66 @@
+##TITLE=Library Entry 25875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3,5-Heptanedione, 4-ethyl-2,2,6,6-tetramethyl-
+##MOLFORM=C13H24O2
+##CAS REGISTRY NO=167545-33-7
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    25          0
+    26          1
+    27         42
+    29        203
+    30          2
+    31          0
+    37          0
+    38          0
+    39         34
+    41        234
+    42         25
+    43        117
+    50          0
+    51          0
+    52          0
+    53          5
+    55          5
+    56          9
+    57        999
+    58         64
+    59          1
+    65          0
+    70         47
+    71        140
+    72         58
+    85        739
+    86         37
+    87          0
+    99         10
+   100          0
+   111          3
+   113         25
+   114          2
+   116          2
+   126          0
+   127          9
+   128        108
+   129          8
+   130          0
+   154          0
+   155         20
+   156         21
+   157          2
+   158          0
+   184          8
+   185          0
+   197          3
+   198          0
+   212         51
+   213         11
+   214          1

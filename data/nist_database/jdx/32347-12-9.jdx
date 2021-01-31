@@ -1,0 +1,32 @@
+##TITLE=Library Entry 22001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.PIHLAJA DEPT. OF CHEM., UNIV OF TURKU, TURKU, FINLAND
+##NAMES=HP
+##CAS NAME=Oxetane, 2,3,4-trimethyl-, (2.alpha.,3.alpha.,4.beta.)-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=32347-12-9
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    15         60
+    27        160
+    28        150
+    29        170
+    39        130
+    40         40
+    41        680
+    42         90
+    43        210
+    44         40
+    45         70
+    55        110
+    56        999
+    57         80
+    59         70
+    71         30
+   100          5

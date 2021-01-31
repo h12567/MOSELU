@@ -1,0 +1,55 @@
+##TITLE=Library Entry 50028
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl trans-4-octylcyclohexanecarboxylate
+##MOLFORM=C16H30O2
+##CAS REGISTRY NO=80361-87-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         58
+    40        219
+    41        297
+    42         49
+    43        356
+    53         61
+    54        100
+    55        462
+    56         69
+    57        188
+    59        128
+    67        328
+    68         70
+    69        218
+    70        160
+    71         98
+    75        119
+    79        100
+    80         69
+    81        999
+    82        218
+    83        208
+    87        427
+    95        221
+    96        119
+    97        138
+   100         40
+   101        108
+   109        270
+   110         70
+   111         79
+   123         59
+   124        149
+   139         40
+   141         69
+   156        109
+   169         40
+   222         39
+   254        259
+   255         49

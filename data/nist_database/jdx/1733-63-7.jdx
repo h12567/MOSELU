@@ -1,0 +1,61 @@
+##TITLE=Library Entry 81454
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-5435
+##NAMES=HP
+##CAS NAME=Ethanone, 1,2,2-triphenyl-
+##MOLFORM=C20H16O
+##CAS REGISTRY NO=1733-63-7
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27          1
+    28          1
+    39          5
+    50          3
+    51         14
+    52          1
+    62          1
+    63          5
+    65          3
+    74          1
+    75          1
+    76          3
+    77        109
+    78          9
+    87          1
+    89          4
+    91          1
+   102          1
+   105        999
+   106         81
+   107          5
+   113          2
+   115          9
+   116          1
+   126          2
+   127          1
+   128          7
+   129          1
+   139          7
+   140          1
+   141          3
+   150          1
+   151          6
+   152         64
+   153          9
+   163          7
+   164          9
+   165        132
+   166         47
+   167        304
+   168         42
+   169          2
+   178          1
+   239          1
+   272         22
+   273          4

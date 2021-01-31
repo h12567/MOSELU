@@ -1,0 +1,45 @@
+##TITLE=Library Entry 27379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2,6-Bis(1,1-dimethylethyl)-4-(2-iodoethyl)phenol
+##MOLFORM=C16H25IO
+##CAS REGISTRY NO=16554-65-7
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        214
+    55         85
+    57        999
+    65         60
+    77        115
+    91        126
+   105         80
+   115        102
+   128         77
+   129         75
+   131         64
+   175        110
+   177        153
+   187         58
+   189         63
+   203        100
+   217        146
+   219         95
+   232         45
+   233        798
+   234        155
+   253         37
+   285         30
+   317         51
+   329         22
+   345        395
+   346         70
+   360        405
+   361         71
+   362          6

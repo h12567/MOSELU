@@ -1,0 +1,64 @@
+##TITLE=Library Entry 15464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N-Dimethylbutyramide
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=760-79-2
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=978
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          6
+    14         34
+    15        376
+    16          9
+    17          3
+    18        169
+    26         56
+    27        359
+    28        221
+    29         81
+    30         81
+    32          3
+    37         13
+    38         33
+    39        222
+    40         57
+    41        370
+    42        536
+    43        916
+    44        999
+    45        932
+    46        177
+    47          4
+    50          4
+    51          5
+    52          6
+    53          8
+    54          4
+    55        132
+    56         87
+    57          4
+    58        163
+    59          2
+    68          9
+    69         25
+    71        159
+    72        770
+    73         66
+    74          2
+    84          5
+    87        576
+    88         28
+    98          9
+   100        166
+   101         11
+   115        296
+   116         22
+   117          2

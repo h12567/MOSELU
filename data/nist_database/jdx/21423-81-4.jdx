@@ -1,0 +1,79 @@
+##TITLE=Library Entry 96741
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 661
+##NAMES=HP
+##CAS NAME=3-Chloro-4-methylbenzonitrile
+##MOLFORM=C8H6ClN
+##CAS REGISTRY NO=21423-81-4
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          4
+    28          4
+    36          3
+    37          7
+    38          9
+    39         27
+    40          2
+    41          1
+    43          6
+    44          6
+    47          1
+    49          5
+    50         15
+    51         14
+    52          4
+    55          1
+    56          5
+    57         38
+    58          5
+    60          2
+    61         12
+    62         27
+    63         42
+    64         16
+    65          8
+    66          1
+    72          2
+    73         11
+    74          6
+    75         11
+    76          7
+    77          1
+    84          2
+    85          4
+    86          6
+    87         14
+    88         42
+    89        104
+    90         17
+    91          1
+    97          4
+    98          3
+    99          6
+   100          5
+   101          1
+   110          1
+   111          1
+   112          1
+   114         55
+   115        104
+   116        999
+   117         91
+   118          3
+   123         31
+   124         12
+   125         11
+   126          4
+   149          1
+   150         61
+   151        456
+   152         61
+   153        145
+   154         12

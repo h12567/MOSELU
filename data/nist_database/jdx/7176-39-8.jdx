@@ -1,0 +1,52 @@
+##TITLE=Library Entry 15967
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=4-Benzyloxyamphetamine
+##MOLFORM=C16H19NO
+##CAS REGISTRY NO=7176-39-8
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         25
+    42         20
+    44        999
+    45         27
+    51         13
+    63         10
+    65         67
+    77         12
+    78         10
+    79          3
+    89         12
+    91        328
+    92         22
+   105          1
+   106          4
+   107         15
+   115          1
+   120          1
+   134          2
+   148          1
+   149          1
+   150          0
+   165          0
+   166          0
+   167          0
+   178          0
+   179          0
+   181          0
+   198        102
+   199         14
+   200          1
+   224          0
+   226          1
+   227          0
+   239          0
+   240          1

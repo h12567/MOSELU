@@ -1,0 +1,44 @@
+##TITLE=Library Entry 16415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Acetamide, N-(p-hydroxy-.alpha.-methylphenethyl)-, acetate (ester
+)
+##MOLFORM=C13H17NO3
+##CAS REGISTRY NO=25333-55-5
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=1900
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41         56
+    43        227
+    44        999
+    57          7
+    77         59
+    78         17
+    86        163
+    90         14
+    91         19
+   105         10
+   107        282
+   108         61
+   115          5
+   117          4
+   119          4
+   133         76
+   134        241
+   135         22
+   147          3
+   149         44
+   150         19
+   176        830
+   177         92
+   178          6
+   192          2
+   235         32
+   236          5

@@ -1,0 +1,24 @@
+##TITLE=Library Entry 44559
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl-methoxy-hydroxymethyl-amine
+##MOLFORM=C3H9NO2
+##CAS REGISTRY NO=6919-52-4
+##MP= -300
+##BP= -300
+##MW= 91
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    30        236
+    43        361
+    44         29
+    45         21
+    60         65
+    61        110
+    74        999
+    75        244
+    91         36

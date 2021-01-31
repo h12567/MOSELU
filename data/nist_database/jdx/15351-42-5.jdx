@@ -1,0 +1,24 @@
+##TITLE=Library Entry 100843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.D. HOSANGADI, DEP. CHEM., UNIV. BOMBAY, INDIA
+##NAMES=HP
+##CAS NAME=Dianthranilide
+##MOLFORM=C14H10N2O2
+##CAS REGISTRY NO=15351-42-5
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    39        120
+    50         40
+    64        140
+    76        180
+    91        200
+   119        999
+   194        210
+   210        120
+   238        640

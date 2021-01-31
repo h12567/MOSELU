@@ -1,0 +1,68 @@
+##TITLE=Library Entry 41495
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=2-Furanacetic acid, trimethylsilyl ester
+##MOLFORM=C9H14O3Si
+##CAS REGISTRY NO=55493-94-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    50         11
+    51         26
+    52         39
+    53        100
+    54          5
+    55          9
+    57          8
+    58         26
+    59         26
+    60          8
+    61         29
+    69          5
+    71          4
+    72         17
+    73        999
+    74         88
+    75        255
+    76         17
+    77         20
+    79          7
+    80         12
+    81        138
+    82          9
+    83          3
+    85          5
+    91          7
+    95          3
+    97          3
+    98          6
+    99          4
+   108          9
+   109          5
+   111         14
+   113          3
+   117         17
+   121         14
+   123          3
+   125          2
+   137         24
+   138          5
+   139         28
+   140          3
+   154        135
+   155         82
+   156         13
+   157          1
+   183        225
+   184         30
+   185         10
+   198        103
+   199         15
+   200          4

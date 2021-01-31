@@ -1,0 +1,51 @@
+##TITLE=Library Entry 55329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Chlorodifluoromethyl trifluoromethyl disulfide
+##MOLFORM=C2ClF5S2
+##CAS REGISTRY NO=20614-28-2
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    63        497
+    64        308
+    66        339
+    67        344
+    68         99
+    69        515
+    79         28
+    82        377
+    83         35
+    84         36
+    85        999
+    87        319
+    95         50
+    98         17
+   101        643
+   103        361
+   105         57
+   114         39
+   117        127
+   118          3
+   119         45
+   130          9
+   132          4
+   133         33
+   134          2
+   135          8
+   149         10
+   151          4
+   183        162
+   184          5
+   185         13
+   199         12
+   201          5
+   202          1
+   218         24
+   220          9

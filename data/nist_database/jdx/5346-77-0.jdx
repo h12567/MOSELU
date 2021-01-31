@@ -1,0 +1,59 @@
+##TITLE=Library Entry 11407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Galactitol, hexaacetate
+##MOLFORM=C18H26O12
+##CAS REGISTRY NO=5346-77-0
+##MP= -300
+##BP= -300
+##MW= 434
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    42         20
+    43        999
+    44         36
+    45         20
+    55          8
+    60         12
+    61         12
+    68         12
+    69         16
+    73         24
+    81          8
+    85         52
+    86         24
+    97         44
+    98         16
+   103         72
+   110         24
+   111         16
+   115        180
+   116         36
+   127         80
+   128         64
+   139        100
+   140         12
+   145         80
+   152         20
+   153         28
+   157         80
+   158         24
+   170         56
+   171          8
+   175         24
+   187        132
+   188         12
+   199          8
+   212         12
+   217         76
+   218          8
+   259         68
+   260          8
+   289         56
+   290          8
+   361         16

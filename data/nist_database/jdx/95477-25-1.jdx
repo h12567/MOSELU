@@ -1,0 +1,50 @@
+##TITLE=Library Entry 30554
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2-Methyl-5-(1-adamantyl)pentan-2-ol
+##MOLFORM=C16H28O
+##CAS REGISTRY NO=95477-25-1
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    40         43
+    41        216
+    42         48
+    43        169
+    44         19
+    53         50
+    54         21
+    55         86
+    56         33
+    57         54
+    58        183
+    59        999
+    60         49
+    65         28
+    67         88
+    69         34
+    77         65
+    78         34
+    79        159
+    80         30
+    81         56
+    91         69
+    92         40
+    93        115
+   105         26
+   107         35
+   134         27
+   135        276
+   136         36
+   161         19
+   162         44
+   178          9
+   203          4
+   218         10

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 85781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane, 2-chloro-7,7-dimethyl-, exo-
+##MOLFORM=C9H15Cl
+##CAS REGISTRY NO=22768-98-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    39        280
+    40         50
+    41        470
+    42         30
+    43        100
+    50         20
+    51         70
+    52         30
+    53        150
+    54         50
+    55        300
+    56        120
+    57        100
+    65        100
+    66        150
+    67        680
+    68        130
+    69        330
+    70         70
+    75         40
+    77        100
+    78        200
+    79        410
+    80        200
+    81        370
+    82        100
+    83        120
+    88         30
+    89         20
+    90         50
+    91         80
+    92         20
+    93        100
+    94         30
+    95        100
+    96         50
+   100        100
+   101         30
+   102        120
+   103         20
+   104         20
+   105         10
+   107        180
+   108         20
+   109        999
+   110         70
+   113         20
+   114         70
+   115         30
+   116         30
+   121        270
+   122        250
+   123         30
+   143         60
+   145         30
+   158        500
+   159         50
+   160        150
+   161         20

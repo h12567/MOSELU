@@ -1,0 +1,39 @@
+##TITLE=Library Entry 7965
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3,6-Heptanedione
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=1703-51-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1041
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    28         69
+    29        517
+    30         12
+    31          8
+    39         31
+    41         41
+    42         63
+    43        999
+    44         25
+    45          7
+    53         15
+    55         41
+    56         31
+    57        650
+    58         27
+    67          7
+    70          6
+    71        151
+    72          9
+    81         15
+    85         23
+    95          7
+    99        573
+   100         31

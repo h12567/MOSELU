@@ -1,0 +1,46 @@
+##TITLE=Library Entry 33407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclobutane, 1-cyclopropyl-2-ethenyl-, cis-
+##MOLFORM=C9H14
+##CAS REGISTRY NO=61141-61-5
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        291
+    28        158
+    29         52
+    32         18
+    38         25
+    39        466
+    40        159
+    41        260
+    42         83
+    50         19
+    51         60
+    52         30
+    53        371
+    54        289
+    55         69
+    63         12
+    65         50
+    66        168
+    67        894
+    68        999
+    69         43
+    77         79
+    78         28
+    79        317
+    80        168
+    81        102
+    91         25
+    93         93
+    94         89
+   107         27

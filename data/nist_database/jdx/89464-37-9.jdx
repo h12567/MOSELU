@@ -1,0 +1,65 @@
+##TITLE=Library Entry 44709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Amino-3-methyl-4-pentynoic acid
+##MOLFORM=C6H9NO2
+##CAS REGISTRY NO=89464-37-9
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41         76
+    42        141
+    43         38
+    45         98
+    46        145
+    47          4
+    49         23
+    50        106
+    51        112
+    52         26
+    53        184
+    54         73
+    55         98
+    56         32
+    57         24
+    58          5
+    60          6
+    61          6
+    62         10
+    63         13
+    65         60
+    67        125
+    68         60
+    69          8
+    70          5
+    71          4
+    73          4
+    74        999
+    75         28
+    76          7
+    77          4
+    78          9
+    80         65
+    82        555
+    83         30
+    84          3
+    85          1
+    93          1
+    97          1
+    98          2
+    99          3
+   109          1
+   110         38
+   111          5
+   112          3
+   125          2
+   126          1
+   127         40
+   128          3

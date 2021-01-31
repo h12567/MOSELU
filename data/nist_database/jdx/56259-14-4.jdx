@@ -1,0 +1,41 @@
+##TITLE=Library Entry 69678
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Hepten-3-one, 2,6-dimethyl-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=56259-14-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1754
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        396
+    42         29
+    43        178
+    44          9
+    51         19
+    52          9
+    53         39
+    54         19
+    55         79
+    67         29
+    69        108
+    70          9
+    71         49
+    79         19
+    81          9
+    82          9
+    83          9
+    95          9
+    96          9
+    97        999
+    98         89
+    99          9
+   125         19
+   140        148
+   141         29

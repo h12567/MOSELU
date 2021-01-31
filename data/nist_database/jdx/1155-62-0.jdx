@@ -1,0 +1,85 @@
+##TITLE=Library Entry 61298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=L-Glutamic acid, N-[(phenylmethoxy)carbonyl]-
+##MOLFORM=C13H15NO6
+##CAS REGISTRY NO=1155-62-0
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          2
+    19          1
+    25          2
+    26         24
+    27         59
+    28         16
+    29         43
+    30         21
+    31         21
+    35          1
+    36          8
+    37         13
+    38         27
+    39        109
+    40          7
+    41         61
+    42         26
+    44        182
+    45         72
+    46         11
+    47          2
+    49          6
+    50         56
+    51        124
+    52         43
+    53         27
+    54         26
+    56         83
+    62         18
+    63         55
+    64         17
+    65        212
+    66         14
+    72          4
+    74         21
+    75          8
+    76          9
+    77        179
+    78         41
+    79        298
+    80         24
+    84        269
+    85         11
+    86          9
+    89         57
+    90         61
+    91        999
+    92         86
+   100         26
+   102         47
+   103          4
+   105         15
+   107        241
+   108        470
+   109         24
+   118          1
+   128         25
+   129          2
+   130         26
+   132          3
+   146         30
+   155          3
+   156          1
+   174          6
+   192         18
+   193          1
+   236          1
+   238          2
+   263          3
+   281          6

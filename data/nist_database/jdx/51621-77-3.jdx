@@ -1,0 +1,48 @@
+##TITLE=Library Entry 42691
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O A MAMER, MCGILL UNIVERSITY, MONTRE
+##NAMES=HP
+##CAS NAME=Glyoxylic oxime acid, bis(trimethylsilyl)-
+##MOLFORM=C8H19NO3Si2
+##CAS REGISTRY NO=51621-77-3
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=1135
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    15         47
+    27         33
+    28        108
+    29         29
+    40         33
+    41         69
+    43        119
+    44         50
+    45        231
+    47         56
+    51         28
+    52         62
+    58         54
+    59         98
+    61         27
+    66         38
+    73        999
+    74        122
+    75        280
+    79         65
+    84         32
+   101         26
+   116         65
+   133         34
+   147        513
+   148         83
+   149         50
+   190         62
+   218        320
+   219         64
+   220         33
+   233        142
+   234         31

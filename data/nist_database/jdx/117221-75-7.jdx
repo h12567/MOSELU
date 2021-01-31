@@ -1,0 +1,45 @@
+##TITLE=Library Entry 86055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. Ganter, Lab. Org. Chem., Swiss Tech. Univ., Zurich,
+ Switzerland
+##NAMES=HP
+##CAS NAME=1H-1,3a-Ethanopentalen-4-ol, hexahydro-, cis-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=117221-75-7
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        200
+    43        120
+    55        300
+    67        580
+    68        200
+    70        150
+    79        500
+    80        480
+    81        460
+    82        270
+    83        500
+    91        300
+    92        190
+    93        520
+    95        640
+    96        930
+    97        400
+   105        220
+   106        380
+   108        240
+   109        999
+   110        245
+   119        220
+   123        340
+   124        420
+   134        350
+   137         80
+   152        420
+   153         50

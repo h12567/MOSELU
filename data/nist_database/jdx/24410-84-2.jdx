@@ -1,0 +1,46 @@
+##TITLE=Library Entry 52394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. JUTTNER, INST. CHEM., UNIV. TUBINGEN, TUBINGEN, W. G
+ERMAN
+##NAMES=HP
+##CAS NAME=Ethyl trans-2-pentenoate
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=24410-84-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        100
+    29        230
+    30         10
+    38         10
+    39        120
+    41         40
+    42         20
+    43         30
+    45         40
+    50         20
+    51         20
+    53         60
+    54         60
+    55        430
+    56         50
+    57         40
+    58         30
+    70         10
+    71         10
+    82         40
+    83        999
+    84         60
+    85         30
+    99        410
+   100        160
+   101         40
+   113         20
+   128         10
+   129         10

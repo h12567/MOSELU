@@ -1,0 +1,58 @@
+##TITLE=Library Entry 99266
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, Scientific Instruments & Applicatio
+ns
+##NAMES=HP
+##CAS NAME=2,5-Pyrrolidinedione, 1-[(2-methylbenzoyl)oxy]-
+##MOLFORM=C12H11NO4
+##CAS REGISTRY NO=110920-14-4
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    40         12
+    41         46
+    42         35
+    43          2
+    45          3
+    50         23
+    51         45
+    52         10
+    53          5
+    55         16
+    56         40
+    57          5
+    60          2
+    61          4
+    62         17
+    63         62
+    64         19
+    65        244
+    66         13
+    69          6
+    70         23
+    71          2
+    73          2
+    74          3
+    75          3
+    76          2
+    77         13
+    78          3
+    79          3
+    81          3
+    84          6
+    87          2
+    89         55
+    90         36
+    91        462
+    92         36
+   105          3
+   119        999
+   120         72
+   121          5
+   135          2
+   233          3

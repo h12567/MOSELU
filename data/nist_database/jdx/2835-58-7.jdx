@@ -1,0 +1,76 @@
+##TITLE=Library Entry 65064
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzenamine, 2-(phenylazo)-
+##MOLFORM=C12H11N3
+##CAS REGISTRY NO=2835-58-7
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         29
+    29         13
+    30          3
+    34          5
+    36          1
+    37          2
+    38         18
+    39        128
+    40          3
+    41         30
+    42          8
+    43          1
+    44         16
+    50         18
+    51        127
+    52         53
+    53         15
+    54          6
+    55          0
+    61          1
+    62          3
+    63         24
+    64         40
+    65        397
+    66         50
+    67          1
+    73         12
+    74          4
+    75          7
+    76          3
+    77        245
+    78         20
+    79         11
+    80          1
+    88          2
+    89          1
+    91         20
+    92        999
+    93         79
+    96          1
+    99          5
+   102          1
+   105         15
+   115          9
+   116          3
+   120        284
+   121         17
+   133          0
+   141          7
+   143          1
+   147          2
+   151          2
+   152          1
+   167         15
+   168          3
+   169          1
+   177          1
+   196          1
+   197        329
+   198         39

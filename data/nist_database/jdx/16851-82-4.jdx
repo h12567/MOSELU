@@ -1,0 +1,80 @@
+##TITLE=Library Entry 46674
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Benzenesulfonyl-1H-pyrrole
+##MOLFORM=C10H9NO2S
+##CAS REGISTRY NO=16851-82-4
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    18          3
+    26          6
+    27         24
+    37         27
+    38         75
+    39        224
+    40         49
+    41         18
+    45          9
+    48          7
+    50         93
+    51        293
+    52         17
+    53          8
+    54          1
+    55          1
+    57          1
+    58          2
+    59          2
+    61          1
+    62          5
+    63         13
+    64         13
+    65         15
+    66         52
+    67         37
+    68          2
+    69          7
+    70          2
+    71          1
+    74         25
+    75         18
+    77        999
+    78         63
+    79          1
+    81          3
+    82          3
+    86          1
+    89         11
+    90          6
+    91          1
+    95          3
+    97         18
+    98          1
+    99          1
+   102          1
+   103          1
+   104          6
+   108          1
+   109          1
+   113          1
+   115         63
+   116         11
+   117          5
+   125         20
+   126          2
+   127          1
+   141        237
+   142         21
+   143         45
+   144          4
+   207        241
+   208         29
+   209         12
+   210          1

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 73422
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AIR PRODUCTS & CHEMICALS, INC BOX 538, ALLENTOWN, PA 18
+105, D M PAREES
+##NAMES=HP
+##CAS NAME=1-Butanamine, N-ethyl-N-propyl-
+##MOLFORM=C9H21N
+##CAS REGISTRY NO=85979-87-9
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        145
+    29        202
+    30        193
+    39         55
+    41        204
+    42        191
+    43        138
+    44        121
+    54         17
+    55         34
+    56         84
+    57        100
+    58        533
+    59         34
+    70         31
+    71         19
+    72        516
+    73         29
+    84         44
+    86        103
+    98         38
+   100        999
+   101        123
+   109         29
+   112         15
+   114        684
+   115         67
+   128         58
+   142         27
+   143        222
+   144         26

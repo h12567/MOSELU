@@ -1,0 +1,32 @@
+##TITLE=Library Entry 67038
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0755
+##NAMES=HP
+##CAS NAME=Pyrimidine, 5-methyl-
+##MOLFORM=C5H6N2
+##CAS REGISTRY NO=2036-41-1
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=864
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         20
+    50         20
+    51         60
+    52         30
+    63         20
+    64         30
+    65         40
+    66        100
+    67         80
+    68         10
+    77         80
+    78         20
+    79         30
+    93         40
+    94        999
+    95         60

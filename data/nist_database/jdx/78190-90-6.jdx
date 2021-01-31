@@ -1,0 +1,40 @@
+##TITLE=Library Entry 31055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-N-acetyl-2-carbomethoxyethylamine
+##MOLFORM=C7H13NO4
+##CAS REGISTRY NO=78190-90-6
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         38
+    42        181
+    43        761
+    44         28
+    59        161
+    60        999
+    61         42
+    70        238
+    71         21
+    72         61
+    73        162
+    74        483
+    75         21
+   101         23
+   102        861
+   103         53
+   104         22
+   133        953
+   134         81
+   135          8
+   143         21
+   144        152
+   145         21
+   175         23
+   176          2

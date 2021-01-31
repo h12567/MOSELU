@@ -1,0 +1,47 @@
+##TITLE=Library Entry 82251
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER UNIVERSITY OF COPENHAGEN, COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=[1,2]Dithiolo[1,5-b][1,2]oxathiole-7-SIV, 2,3,4-triphenyl-
+##MOLFORM=C23H16OS2
+##CAS REGISTRY NO=74810-15-4
+##MP= -300
+##BP= -300
+##MW= 372
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    51         78
+    56         30
+    77        620
+    78         46
+    84         23
+    89         20
+   105        999
+   106         80
+   121         42
+   186         30
+   189         25
+   194         22
+   202         32
+   221         40
+   234        113
+   235         25
+   266         34
+   267        115
+   268         30
+   295        125
+   296         30
+   307         48
+   308         25
+   339         66
+   340         25
+   355        120
+   356         36
+   371         40
+   372        940
+   373        280
+   374        140
+   375         26

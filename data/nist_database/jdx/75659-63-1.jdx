@@ -1,0 +1,33 @@
+##TITLE=Library Entry 16037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JANCA2, 60(3)642(1977); K. BAILEY ET AL
+##NAMES=HP
+##CAS NAME=3,5-Dimethylamphetamine
+##MOLFORM=C11H17N
+##CAS REGISTRY NO=75659-63-1
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41        160
+    42        190
+    44        999
+    45        120
+    51        110
+    65        110
+    77        270
+    78        130
+    79        110
+    91        340
+   103        140
+   104        140
+   105        430
+   115        130
+   117        110
+   119        250
+   120        180
+   163         10

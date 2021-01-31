@@ -1,0 +1,56 @@
+##TITLE=Library Entry 5640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6570
+##NAMES=HP
+##CAS NAME=1,3-Diaminoguanidine
+##MOLFORM=CH7N5
+##CAS REGISTRY NO=4364-78-7
+##MP= -300
+##BP= -300
+##MW= 89
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14          7
+    15          8
+    16         96
+    17        211
+    18        474
+    19          2
+    26          9
+    27         57
+    28        391
+    29        184
+    30         91
+    31        538
+    32        698
+    33         66
+    34          1
+    41         36
+    42        251
+    43        999
+    44         80
+    45          2
+    53          1
+    54          2
+    55          3
+    56          8
+    57         46
+    58        642
+    59         46
+    60          2
+    68          2
+    69          4
+    70          3
+    71          1
+    72         64
+    73         55
+    74         18
+    75          1
+    87          4
+    88          1
+    89        607
+    90         19
+    91          1

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 21339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Hesse, Org. Chem. Inst., Univ. Zurich, Zurich, Switz
+erland
+##NAMES=HP
+##CAS NAME=Nonanedioic acid, 4-oxo-, 9-methyl ester
+##MOLFORM=C10H16O5
+##CAS REGISTRY NO=109300-55-2
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        250
+    42        110
+    43        190
+    45        210
+    55        999
+    56        160
+    57         70
+    59        410
+    69         50
+    73        540
+    74         90
+    83        300
+    84        100
+    87        390
+    93         50
+    97         80
+    98        340
+   101        500
+   111        810
+   112         60
+   115        160
+   116        430
+   121         60
+   124         60
+   125         80
+   139        170
+   143        240
+   167        220
+   198         30

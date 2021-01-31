@@ -1,0 +1,48 @@
+##TITLE=Library Entry 41617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 1-trimethylsilyl-2-butyl-cyclopropene-3-carboxylate
+##MOLFORM=C12H22O2Si
+##CAS REGISTRY NO=65672-44-8
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    43         81
+    45        180
+    51         61
+    52         39
+    55         39
+    59        280
+    66         99
+    73        999
+    74        101
+    75         92
+    79        759
+    80         91
+    81         80
+    83         81
+    85         51
+    89        261
+    90         24
+    91         40
+    93         80
+    94        259
+    95         39
+   107        201
+   109         40
+   121        159
+   122        421
+   123         60
+   167        201
+   168         40
+   169         39
+   183        461
+   184         80
+   211         27
+   226        100

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 107549
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzamide, N-(5-chloro-2-methoxyphenyl)-2-fluoro-
+##MOLFORM=C14H11ClFNO2
+##CAS REGISTRY NO=330469-06-2
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    50          3
+    51          6
+    52          2
+    63          4
+    69          2
+    74          2
+    75         25
+    76          5
+    78          7
+    79          2
+    90          3
+    93          4
+    94          7
+    95        126
+    96          9
+    99          6
+   101          2
+   122          3
+   123        999
+   124         61
+   125          4
+   126          3
+   127          3
+   129          2
+   142         12
+   144          3
+   156          8
+   158          8
+   248         38
+   249          6
+   250         13
+   279        353
+   280         50
+   281        123
+   282         16

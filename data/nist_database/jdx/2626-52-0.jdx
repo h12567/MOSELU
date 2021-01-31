@@ -1,0 +1,86 @@
+##TITLE=Library Entry 56250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-(Diethylamino)propyl isothiocyanate
+##MOLFORM=C8H16N2S
+##CAS REGISTRY NO=2626-52-0
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15         17
+    18          9
+    26         14
+    27        124
+    28        119
+    29        132
+    30        187
+    31          3
+    33          1
+    38          3
+    39         38
+    40         14
+    41        109
+    42        160
+    43         35
+    44         65
+    45         20
+    46          2
+    47          1
+    51          1
+    52          4
+    53          2
+    54         21
+    55         12
+    56         97
+    57         41
+    58        199
+    59         28
+    60         15
+    61          1
+    62          1
+    64          1
+    66          1
+    67          2
+    68         11
+    70         29
+    72        561
+    73         25
+    74          7
+    79          3
+    80          2
+    82          2
+    83          6
+    84         32
+    86        999
+    87         58
+    88          1
+    96          1
+    97          6
+    98         36
+    99          5
+   100         15
+   101         17
+   102          2
+   111          3
+   112         10
+   113          3
+   114          1
+   125          3
+   128          1
+   129          1
+   139          3
+   141          1
+   143          3
+   155          1
+   157         58
+   158          5
+   159          2
+   172         56
+   173          5
+   174          3

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 79747
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.FOLK, RES. DIV., GOODYEAR TIRE & RUBBER CO., AKRON, O
+H., U
+##NAMES=HP
+##CAS NAME=Phenol, 2-[[2-(benzoyloxy)-5-methylphenyl]methyl]-4-methyl-
+##MOLFORM=C22H20O3
+##CAS REGISTRY NO=71840-30-7
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    51         30
+    77        250
+    78         20
+    91         20
+   105        999
+   106         80
+   165         20
+   166         20
+   195         20
+   209         20
+   227        230
+   228         40
+   314        120
+   315         30
+   332        100
+   333         20

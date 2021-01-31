@@ -1,0 +1,84 @@
+##TITLE=Library Entry 46620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.DEMEUNYNCK,LAB. CHIM. ORG. BIOL.,ERA CNRS,UNIV. DE LI
+LLE,FR.
+##NAMES=HP
+##CAS NAME=7-Chloro-4-(phenylazo)quinoline
+##MOLFORM=C15H10ClN3
+##CAS REGISTRY NO=90929-82-1
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    49         14
+    50        199
+    51        450
+    52         54
+    53          2
+    57          2
+    61         26
+    62         35
+    63         63
+    64         40
+    65          5
+    66          3
+    73         15
+    74        113
+    75         90
+    76         39
+    77        999
+    78         72
+    79          2
+    85         15
+    86         12
+    87         24
+    88          9
+    89          4
+    90          5
+    93         10
+    97          7
+    98         45
+    99        248
+   100         96
+   101         15
+   102          5
+   105        279
+   106         17
+   108          2
+   109         15
+   110          3
+   111          8
+   112          2
+   114         14
+   115          3
+   126         32
+   127         45
+   128         10
+   135        126
+   136         13
+   137         37
+   138          2
+   150          2
+   161          4
+   162        111
+   163         18
+   164         40
+   165          4
+   176          9
+   177          3
+   178          7
+   180          3
+   202          2
+   203          5
+   204         13
+   232          6
+   233          2
+   238          6
+   267        151
+   268         26
+   269         39
+   270          6

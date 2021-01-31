@@ -1,0 +1,52 @@
+##TITLE=Library Entry 81000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.H. HUANG, CHIN. ACAD. SCI., SHANGHAI, CHINA
+##NAMES=HP
+##CAS NAME=Gniditrin
+##MOLFORM=C37H42O10
+##CAS REGISTRY NO=55306-10-0
+##MP= -300
+##BP= -300
+##MW= 646
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+   105        999
+   122        910
+   140        510
+   149        880
+   166        330
+   203        290
+   215        310
+   225        330
+   241        450
+   253        340
+   269        490
+   271        350
+   281        400
+   282        380
+   293        260
+   294        260
+   300        150
+   311        140
+   317         90
+   322        200
+   323        160
+   327        130
+   329        130
+   340         90
+   341        180
+   358        150
+   359        110
+   449         40
+   463         80
+   481        540
+   482        300
+   498         60
+   525         30
+   597         40
+   615         70
+   628        100
+   646        170

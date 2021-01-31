@@ -1,0 +1,88 @@
+##TITLE=Library Entry 16398
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-Fluoroorotic amide
+##MOLFORM=C5H4FN3O3
+##CAS REGISTRY NO=132214-30-3
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    42         50
+    43        224
+    44        999
+    45         71
+    46         36
+    47         45
+    48          9
+    52          3
+    53         66
+    54         57
+    55         18
+    57         93
+    58        239
+    59        186
+    60         46
+    61          0
+    63          0
+    64          6
+    65          3
+    67        199
+    68         18
+    69         15
+    70         57
+    71         55
+    72          4
+    73         28
+    74         48
+    75          8
+    76          0
+    77          1
+    78          1
+    80          0
+    81          1
+    82          3
+    83          6
+    84         40
+    85         99
+    86        305
+    87         98
+    88         17
+    89          1
+    91          0
+    93          0
+    94          1
+    97          3
+    98          0
+    99          3
+   100          1
+   101          8
+   102         95
+   103          6
+   108          0
+   110          0
+   111          1
+   112          0
+   113          1
+   114          3
+   125          5
+   126          1
+   128         11
+   129         10
+   130         68
+   131          4
+   139          0
+   145          1
+   155          4
+   156          4
+   157          5
+   171          1
+   173        609
+   174         41
+   175          1

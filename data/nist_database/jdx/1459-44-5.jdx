@@ -1,0 +1,36 @@
+##TITLE=Library Entry 19569
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyanic acid, 2,2-dimethylpropyl ester
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=1459-44-5
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         29
+    27        183
+    28         42
+    29        264
+    39        299
+    40         42
+    41        341
+    42        388
+    43        363
+    53        102
+    54         25
+    55        999
+    56        119
+    57        123
+    67         29
+    69         38
+    70        384
+    71         85
+    84        252
+    85         12
+    98         34

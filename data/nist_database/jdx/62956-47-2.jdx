@@ -1,0 +1,49 @@
+##TITLE=Library Entry 19762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. IKEYA, TSUMURA LAB., FAC. PHARM. SCI., TOKYO UNIV.,
+ JAPAN
+##NAMES=HP
+##CAS NAME=Gomisin F
+##MOLFORM=C28H34O9
+##CAS REGISTRY NO=62956-47-2
+##MP= -300
+##BP= -300
+##MW= 514
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    43        990
+    55        999
+    56        130
+    69        250
+    71        220
+    83        920
+    95        100
+    97        120
+    99        240
+   109        270
+   123        180
+   125        100
+   285        170
+   299        120
+   300        660
+   301        470
+   312        310
+   313        270
+   316        270
+   328        180
+   329        170
+   330        130
+   331        300
+   340        120
+   342        810
+   343        960
+   344        230
+   371        310
+   413        100
+   414        480
+   415        150
+   514        620
+   515        210

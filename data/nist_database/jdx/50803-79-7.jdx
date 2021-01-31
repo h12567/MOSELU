@@ -1,0 +1,38 @@
+##TITLE=Library Entry 20856
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanehexanoic acid, .epsilon.-oxo-, methyl ester
+##MOLFORM=C13H22O3
+##CAS REGISTRY NO=50803-79-7
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        529
+    55        999
+    59        390
+    67        450
+    73        499
+    81        480
+    83        999
+    87        509
+    97        310
+   101        120
+   111        899
+   115        549
+   139        130
+   143        499
+   149        360
+   153         60
+   158         90
+   166         70
+   170        130
+   177        170
+   185         40
+   195         60
+   226        180

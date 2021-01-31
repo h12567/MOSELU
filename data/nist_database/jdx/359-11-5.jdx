@@ -1,0 +1,37 @@
+##TITLE=Library Entry 31600
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethene, trifluoro-
+##MOLFORM=C2HF3
+##CAS REGISTRY NO=359-11-5
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=254
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    12         87
+    13         50
+    19         19
+    20          3
+    24         31
+    25         21
+    31        655
+    32        249
+    33          4
+    41          6
+    43         37
+    44         62
+    45          3
+    50         65
+    51        495
+    52          6
+    62         36
+    63        999
+    64         25
+    81          8
+    82        818
+    83         18

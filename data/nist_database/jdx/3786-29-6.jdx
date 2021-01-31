@@ -1,0 +1,38 @@
+##TITLE=Library Entry 1843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanediamide, 2-methylene-
+##MOLFORM=C5H8N2O2
+##CAS REGISTRY NO=3786-29-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    38        208
+    39        999
+    40        605
+    41        212
+    42        204
+    43        302
+    44        703
+    45        300
+    54        390
+    55        250
+    56        132
+    67        140
+    68        316
+    69        503
+    70        200
+    83        300
+    84        136
+    85        803
+    86        236
+   100        140
+   111        300
+   112         10
+   128         12

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 53185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyrazolo[5,1-c][1,2,4]triazine-3-carboxylic acid, 4-amino-, ethyl
+ ester
+##MOLFORM=C8H9N5O2
+##CAS REGISTRY NO=6841-01-6
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    52        860
+    53        860
+    54        280
+    55        150
+    56         80
+    67        310
+    68        380
+    69         30
+    79        100
+    80        130
+    81        110
+    82         10
+    83        999
+    84         50
+    94        190
+    95        700
+    96         40
+   108        480
+   109         40
+   135        999
+   136        190
+   162         90
+   163        999
+   164         90
+   207        999
+   208         90

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 28879
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1966
+##NAMES=HP
+##CAS NAME=2-Acetamido-N-methylbutyramide
+##MOLFORM=C7H14N2O2
+##CAS REGISTRY NO=35023-27-9
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         30
+    26          1
+    27          9
+    28         42
+    29         10
+    30         49
+    31          3
+    32          1
+    39          8
+    40          2
+    41         48
+    42         26
+    43        166
+    44        105
+    45          4
+    52          1
+    54          4
+    55          8
+    56         38
+    57         24
+    58        999
+    59         47
+    60          9
+    68          2
+    69         18
+    70          4
+    71          2
+    72         33
+    73          9
+    83          1
+    84          9
+    85          1
+    86         75
+    87         94
+    88          6
+    98          1
+    99         10
+   100        360
+   101        415
+   102         24
+   103          1
+   112          2
+   114          3
+   115          4
+   128          3
+   129          4
+   130          7
+   143          2
+   158          5

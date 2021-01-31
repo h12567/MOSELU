@@ -1,0 +1,57 @@
+##TITLE=Library Entry 52953
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.Maurer, J.Chromatogr.,530,307(1990)
+##NAMES=HP
+##CAS NAME=3,3-Diethyl-5-methyl-piperidine-2,4,6-trione
+##MOLFORM=C10H15NO3
+##CAS REGISTRY NO=13056-28-5
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=1870
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    51         15
+    52         22
+    53        108
+    54         56
+    55        496
+    56         37
+    57         22
+    65          7
+    66          7
+    67         41
+    68         37
+    69        160
+    70        104
+    71         45
+    72          7
+    77          7
+    79          7
+    80          7
+    81         22
+    82        198
+    83        999
+    84         45
+    85          7
+    93         11
+    95         22
+    96         15
+    97         49
+    98        530
+    99         22
+   100        134
+   107          7
+   123         22
+   136         15
+   150         63
+   151        157
+   152         11
+   167          7
+   168        265
+   169        123
+   170          7
+   182         67
+   197         15

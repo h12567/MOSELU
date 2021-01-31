@@ -1,0 +1,87 @@
+##TITLE=Library Entry 8067
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.R. Aldrich, Agricultural Research Center, USDA, Belts
+ville, MD 20
+##NAMES=HP
+##CAS NAME=8-Hydroxy-2-octanone
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=25368-54-1
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=2181
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    41        227
+    42         91
+    43        999
+    44         35
+    45         28
+    47         10
+    48          4
+    52          3
+    53         26
+    54         16
+    55        221
+    56         43
+    57         43
+    58        524
+    59        119
+    60          8
+    61          8
+    63          1
+    65          4
+    66          2
+    67         44
+    68        145
+    69        113
+    70         17
+    71        120
+    72         11
+    73          5
+    77          6
+    78          1
+    79          6
+    80          2
+    81         11
+    82          9
+    83         43
+    84         31
+    85         17
+    86         14
+    87         10
+    88          7
+    89         37
+    90          1
+    91          3
+    93         12
+    94          1
+    95          4
+    96          2
+    97         15
+    98          6
+    99          4
+   100          0
+   101          2
+   102          4
+   105          6
+   107          1
+   108          4
+   109         11
+   110          2
+   111         12
+   112          2
+   113          3
+   114         12
+   115          3
+   116          1
+   123          1
+   125          1
+   126         15
+   127          8
+   128          2
+   129          4
+   144          4
+   145          1

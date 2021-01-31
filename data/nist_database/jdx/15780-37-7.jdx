@@ -1,0 +1,60 @@
+##TITLE=Library Entry 39165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane-2-carboxaldehyde, 3-methyl-, (2-exo,3-endo)
+-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=15780-37-7
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        448
+    42         39
+    43        115
+    50         15
+    51         54
+    52         24
+    53        151
+    54         42
+    55        242
+    56         21
+    57         45
+    65         69
+    66        206
+    67        751
+    68        151
+    69         90
+    70         84
+    71        999
+    72         48
+    77         78
+    78         54
+    79        260
+    80         48
+    81        212
+    82         30
+    83         39
+    84         30
+    91         60
+    92         69
+    93        163
+    94        818
+    95        166
+    96         21
+    97         97
+   105        175
+   106         18
+   107         54
+   109        203
+   110         45
+   119         12
+   120        181
+   121         18
+   123         30
+   138         24

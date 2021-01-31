@@ -1,0 +1,63 @@
+##TITLE=Library Entry 4492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=2H-Pyran-3(4H)-one, dihydro-
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=23462-75-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=892
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          8
+    13         18
+    14         75
+    15         82
+    16         13
+    19          2
+    24          1
+    25          9
+    26         74
+    27        202
+    28         98
+    29        180
+    30         17
+    31         46
+    36          2
+    37         18
+    38         32
+    39        157
+    40         86
+    41        324
+    42        999
+    43         96
+    44         37
+    45         71
+    46          3
+    49          2
+    50          6
+    51          4
+    52          2
+    53          7
+    54          3
+    55         66
+    56         21
+    57          8
+    58          2
+    60          2
+    68          2
+    69          3
+    70         67
+    71        117
+    72         21
+    73          2
+    85          7
+    86          2
+    87          2
+   100        207
+   101         12

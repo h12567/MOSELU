@@ -1,0 +1,29 @@
+##TITLE=Library Entry 10522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. PFORDT, PHARM. INST., UNIV. HEIDELBERG, HEIDELBERG,
+ W. GE
+##NAMES=HP
+##CAS NAME=Methyl 4-oxodecanoate
+##MOLFORM=C11H20O3
+##CAS REGISTRY NO=7011-82-7
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41        340
+    43        999
+    55        460
+    57        360
+    59        180
+    71        100
+    85        220
+    87        240
+    98        590
+   113        250
+   115        450
+   130        340
+   169        110

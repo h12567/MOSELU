@@ -1,0 +1,42 @@
+##TITLE=Library Entry 109526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Plaziak ET AL. Org.Mass Spectrom.,26,849 (1991)
+##NAMES=HP
+##CAS NAME=1-Methyl-4-cyclohexylaminocytosine
+##MOLFORM=C11H17N3O
+##CAS REGISTRY NO=136308-29-7
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    55        114
+    56         90
+    67         35
+    68         11
+    70         15
+    80         31
+    81         78
+    82        141
+    83        161
+    96         51
+    98         47
+   109         27
+   110         11
+   124         19
+   125        999
+   126        515
+   127         19
+   136         23
+   150        192
+   151          7
+   152         47
+   164        122
+   165         19
+   178         43
+   206         55
+   207        358
+   208         47

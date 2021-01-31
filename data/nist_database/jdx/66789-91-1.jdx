@@ -1,0 +1,64 @@
+##TITLE=Library Entry 35608
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JAFCAU, 26(4)898(1978); R. O. MUMMA ET AL
+##NAMES=HP
+##CAS NAME=L-Leucine, N-[(2,4,5-trichlorophenoxy)acetyl]-, methyl ester
+##MOLFORM=C15H18Cl3NO4
+##CAS REGISTRY NO=66789-91-1
+##MP= -300
+##BP= -300
+##MW= 381
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    55        180
+    56        180
+    57        360
+    58        110
+    59        260
+    68        100
+    69        999
+    70        370
+    73        120
+    84        280
+    86        410
+    88        710
+    96        140
+    97        270
+    98        350
+    99        100
+   101        180
+   109        110
+   112        100
+   128        410
+   129        130
+   130        330
+   144        180
+   145        190
+   146        170
+   147        120
+   179        200
+   181        230
+   183        100
+   186        150
+   196        440
+   198        420
+   200        140
+   209        290
+   211        270
+   218        340
+   220        230
+   253        150
+   254        150
+   255        160
+   256        100
+   322        550
+   324        530
+   325        120
+   326        180
+   346        530
+   347        100
+   348        340
+   381         30

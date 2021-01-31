@@ -1,0 +1,53 @@
+##TITLE=Library Entry 89700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Methyl-5-methoxycarbonyl-1-oxaspiro(5,5)undec-3-en-2-one
+##MOLFORM=C13H18O4
+##CAS REGISTRY NO=115754-74-0
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    41        205
+    42        102
+    43         43
+    51         30
+    52         42
+    53        218
+    54         26
+    55        175
+    59         44
+    65         30
+    66         17
+    67         52
+    68         21
+    69         70
+    70         22
+    77         30
+    78          7
+    79         44
+    80         16
+    81         35
+    82         13
+    83         22
+    91         30
+    93         16
+    95         26
+    97        206
+   108         35
+   109        136
+   112        999
+   113         70
+   140        761
+   141        222
+   178         26
+   179         39
+   182         43
+   206        192
+   207         35
+   238         29

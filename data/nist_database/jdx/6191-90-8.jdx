@@ -1,0 +1,60 @@
+##TITLE=Library Entry 32444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.N.R.S. LABORATOIRE DES GAZ, FRANCE.
+##NAMES=HP
+##CAS NAME=Spiropentane, butyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=6191-90-8
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         16
+    27         25
+    28         67
+    29        176
+    30          4
+    37          5
+    38         20
+    39        375
+    40        123
+    41        816
+    42        119
+    43        128
+    50         20
+    51         49
+    52         37
+    53        321
+    54        570
+    55        431
+    56         85
+    57         23
+    63         12
+    65         71
+    66         59
+    67        999
+    68        514
+    69        281
+    70         41
+    77          6
+    78         31
+    79        180
+    80         42
+    81        704
+    82        232
+    83         32
+    91         18
+    93         41
+    94          8
+    95        531
+    96        119
+    97         22
+   109        100
+   110          8
+   123          2
+   124          0

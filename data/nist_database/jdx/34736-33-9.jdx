@@ -1,0 +1,28 @@
+##TITLE=Library Entry 18796
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Difluoro-1-silacyclo-3-pentene
+##MOLFORM=C4H6F2Si
+##CAS REGISTRY NO=34736-33-9
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        170
+    40         10
+    52         30
+    53         90
+    54        999
+    55         60
+    80         20
+    93         60
+    94         20
+   101         40
+   120        819
+   121         70
+   122         30

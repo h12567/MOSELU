@@ -1,0 +1,78 @@
+##TITLE=Library Entry 3180
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=cis-7-Tetradecen-1-ol
+##MOLFORM=C14H28O
+##CAS REGISTRY NO=40642-43-1
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=1660
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    27        103
+    28         27
+    29        286
+    30          8
+    31        168
+    39        168
+    40         34
+    41        999
+    42        149
+    43        435
+    44         40
+    45         23
+    51          7
+    52          7
+    53         93
+    54        339
+    55        589
+    56        123
+    57        143
+    58          8
+    65         27
+    66         61
+    67        717
+    68        378
+    69        371
+    70         88
+    71         69
+    72          7
+    77         26
+    78          2
+    79        105
+    80         60
+    81        589
+    82        546
+    83        175
+    84         33
+    85         26
+    91         10
+    93         19
+    94         50
+    95        376
+    96        311
+    97         92
+    98         16
+    99          7
+   107          2
+   108         26
+   109        207
+   110        155
+   111         29
+   112         13
+   122         10
+   123         63
+   124         58
+   125         10
+   137         35
+   138         49
+   139          4
+   151         10
+   152         14
+   166         29
+   194         61
+   195          9

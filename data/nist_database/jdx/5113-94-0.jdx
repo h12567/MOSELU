@@ -1,0 +1,67 @@
+##TITLE=Library Entry 20294
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexaneethanol, .beta.,4-dimethyl-, trans-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=5113-94-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=1787
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26          6
+    27        101
+    29        143
+    30          8
+    31         98
+    39        120
+    40         22
+    41        415
+    42         92
+    43        116
+    45         10
+    51         13
+    52          7
+    53         74
+    54         73
+    55        999
+    56         66
+    57        136
+    58        124
+    59         17
+    65         17
+    66         13
+    67        165
+    68        155
+    69        684
+    70         56
+    71         29
+    77         21
+    78          5
+    79         32
+    80         19
+    81        457
+    82        125
+    83        288
+    84         18
+    91         11
+    93         11
+    94         32
+    95        341
+    96        480
+    97        299
+    98         20
+   109         75
+   110         32
+   113         11
+   123         92
+   124         20
+   125        102
+   126         10
+   137          7
+   138        192
+   139         19

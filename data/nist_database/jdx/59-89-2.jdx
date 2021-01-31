@@ -1,0 +1,54 @@
+##TITLE=Library Entry 22658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Morpholine, 4-nitroso-
+##MOLFORM=C4H8N2O2
+##CAS REGISTRY NO=59-89-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=1811
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          4
+    15         24
+    16          1
+    25          2
+    26         42
+    27        124
+    28        319
+    29        237
+    30        186
+    31         21
+    33          1
+    38          2
+    39          6
+    40         24
+    41        108
+    42        172
+    43         51
+    44         22
+    45         10
+    51          3
+    52         14
+    53          3
+    54        104
+    55        109
+    56        999
+    57         59
+    58          5
+    59          3
+    68          1
+    70          1
+    84          1
+    85         14
+    86        420
+    87         22
+    88          1
+   116        401
+   117         23
+   118          1

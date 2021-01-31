@@ -1,0 +1,78 @@
+##TITLE=Library Entry 1384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Benzene, 1,2-dinitro-
+##MOLFORM=C6H4N2O4
+##CAS REGISTRY NO=528-29-0
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1458
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    13          2
+    15          0
+    16          8
+    17          1
+    18          3
+    26         18
+    27         36
+    28        115
+    29          0
+    30        999
+    32         14
+    37         53
+    38        112
+    39        214
+    40         24
+    41          3
+    42          5
+    43          2
+    44          7
+    45          2
+    46         47
+    48          4
+    50        540
+    51        180
+    52        100
+    53        102
+    54          9
+    55          2
+    60          5
+    61         25
+    62         57
+    63        453
+    64        308
+    65         20
+    66         22
+    67         12
+    68         14
+    69          1
+    73         40
+    74        202
+    75        147
+    76        235
+    77         41
+    78         81
+    79         11
+    80         77
+    81          4
+    87          5
+    88          4
+    90          8
+    92         89
+    93         12
+    94         50
+    95          2
+   104          2
+   120          4
+   122         15
+   123          1
+   138          3
+   152         11
+   168        618
+   169         42
+   170          7

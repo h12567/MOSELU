@@ -1,0 +1,39 @@
+##TITLE=Library Entry 79581
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzamide, N,N-dibutyl-
+##MOLFORM=C15H23NO
+##CAS REGISTRY NO=25033-65-2
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=1798
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         20
+    42         10
+    50         10
+    51         30
+    57         10
+    76         10
+    77        210
+    78         10
+    84         10
+    91         10
+   105        999
+   106         80
+   134         20
+   135         20
+   148         40
+   149         20
+   176         20
+   190        130
+   191         30
+   204         10
+   232         60
+   233        110
+   234         20

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 38156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-1,5-hexadiene-3-ol
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=17123-60-3
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         14
+    27        102
+    28         19
+    29         45
+    31         25
+    38         41
+    39        307
+    40         62
+    41        449
+    42         95
+    43         64
+    44         34
+    45         22
+    50         32
+    51         47
+    52         20
+    53         85
+    54         14
+    55         65
+    65         19
+    67         20
+    68         16
+    69         53
+    71        999
+    72         49
+    77         80
+    78         18
+    79         89
+    83         23
+    93         12
+    94         35
+    97         36

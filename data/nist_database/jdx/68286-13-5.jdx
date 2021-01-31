@@ -1,0 +1,66 @@
+##TITLE=Library Entry 2356
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-7-methyl-5,6(4H)-dihydroimidazo(1,5-b)(1,2,4)triazepine-
+5-thione
+##MOLFORM=C13H12N4S
+##CAS REGISTRY NO=68286-13-5
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        497
+    40        549
+    41        999
+    43        682
+    45        318
+    53        179
+    54        110
+    55        322
+    56        230
+    57        319
+    58        141
+    59        198
+    60        179
+    61         91
+    62        198
+    63         70
+    67        230
+    69        230
+    71        139
+    73        140
+    76        431
+    77        299
+    80         90
+    81        109
+    82         90
+    83        138
+    96         69
+    97         89
+    98         90
+   103        390
+   104        411
+   105        140
+   115         49
+   116         89
+   121         50
+   122         69
+   129         69
+   149         60
+   158         70
+   159         90
+   171         69
+   182         29
+   183         30
+   184         59
+   185         60
+   198         49
+   214         29
+   215         69
+   241         50
+   256        200

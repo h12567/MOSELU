@@ -1,0 +1,26 @@
+##TITLE=Library Entry 97690
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-(3-Chloropropyl)styrene
+##MOLFORM=C11H13Cl
+##CAS REGISTRY NO=97344-49-5
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39         20
+    51         20
+    65         20
+    91         68
+   102         20
+   115        121
+   116         40
+   117        999
+   118        128
+   180        330
+   182        108

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 87439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 12828-7
+##NAMES=HP
+##CAS NAME=1H-Pyrrole-2,5-dione, 1-ethyl-
+##MOLFORM=C6H7NO2
+##CAS REGISTRY NO=128-53-0
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    13          0
+    14          8
+    15         45
+    25         21
+    26        234
+    27         93
+    28        105
+    29         45
+    30          9
+    31         26
+    36          0
+    37          0
+    38         11
+    39         21
+    40         30
+    41         51
+    42        104
+    43         23
+    44         66
+    45         13
+    46          1
+    52         21
+    53         89
+    54        330
+    55         84
+    56        114
+    57          0
+    66          1
+    68         10
+    69         30
+    70         36
+    71         19
+    78          2
+    80         56
+    81          2
+    82        193
+    83         15
+    96         47
+    97         11
+    98         20
+   109          1
+   110        999
+   111         70
+   112          6
+   124         26
+   125        560
+   126         44
+   127          0

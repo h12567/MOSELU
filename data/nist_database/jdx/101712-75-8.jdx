@@ -1,0 +1,42 @@
+##TITLE=Library Entry 28536
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-[[7-Chloro-1-oxo-4-quinolinyl]amino]-3-[[diethylamino]methyl]-2
+',5'-dimethoxyphenylphenol
+##MOLFORM=C28H30ClN3O4
+##CAS REGISTRY NO=101712-75-8
+##MP= -300
+##BP= -300
+##MW= 507
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    42        160
+    43         53
+    44        188
+    49         32
+    54          8
+    55          8
+    56         73
+    57         22
+    58        999
+    59         39
+    72        148
+    73        320
+    74         21
+    78          8
+    84         21
+    86         31
+   135          9
+   418         69
+   419         20
+   420         35
+   434        105
+   435         22
+   436         48
+   491         26
+   493          8

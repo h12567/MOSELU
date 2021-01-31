@@ -1,0 +1,36 @@
+##TITLE=Library Entry 7004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=3-Hepten-1-ol, acetate
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=34942-91-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        110
+    29         90
+    39        100
+    41        160
+    42         40
+    43        999
+    51         10
+    53         30
+    54        450
+    55        140
+    67        170
+    68         40
+    73         20
+    79         20
+    81        200
+    82         20
+    95         20
+    96        160
+    97         10

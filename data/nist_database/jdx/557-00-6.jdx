@@ -1,0 +1,46 @@
+##TITLE=Library Entry 55358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-methyl-, propyl ester
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=557-00-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=946
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        119
+    29        118
+    31         24
+    39        110
+    40         11
+    41        431
+    42        189
+    43        502
+    44         20
+    45         41
+    53         12
+    55         44
+    56         68
+    57        677
+    58         42
+    59        121
+    60        339
+    61        489
+    62         13
+    69         33
+    74         41
+    85        999
+    86         59
+    87        276
+   102        190
+   103        862
+   104         43
+   115         62
+   116         24
+   129         10
+   143         16

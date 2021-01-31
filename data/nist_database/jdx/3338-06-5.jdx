@@ -1,0 +1,33 @@
+##TITLE=Library Entry 88429
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=7-Butyl-3,4,5,6(2H)-tetrahydroazepine
+##MOLFORM=C10H19N
+##CAS REGISTRY NO=3338-06-5
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41         87
+    42         49
+    54         69
+    55         90
+    68         40
+    69         50
+    82        120
+    83        209
+    84         59
+    96        211
+   110        290
+   111        999
+   112         70
+   124        228
+   125         30
+   138         40
+   152         19
+   153         19

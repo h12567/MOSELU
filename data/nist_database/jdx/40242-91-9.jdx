@@ -1,0 +1,68 @@
+##TITLE=Library Entry 14161
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.L.BORGNA ECOLE NAT. SUP., MONTPELLIER, FRANCE
+##NAMES=HP
+##CAS NAME=Androstane-17,19-diol, 5,6-epoxy-3-fluoro-, diacetate, (3.beta.,5
+.alpha.,6.alpha.,17.beta.)-
+##MOLFORM=C23H33FO5
+##CAS REGISTRY NO=40242-91-9
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    41        108
+    43        999
+    53         48
+    55         92
+    65         57
+    67         95
+    77         89
+    79        133
+    81        133
+    91        156
+    92         50
+    93        146
+    94         50
+    95         57
+   105        121
+   107         92
+   117         57
+   119         89
+   129         70
+   131         83
+   133        121
+   134        127
+   135         54
+   141        140
+   142         79
+   143         67
+   145        116
+   146         50
+   147         87
+   148         65
+   160         53
+   161         65
+   162        152
+   163        132
+   167         52
+   177         81
+   179         52
+   181         50
+   187         65
+   255         52
+   257        271
+   258         61
+   270         65
+   275         65
+   288         71
+   304         68
+   312         79
+   330         61
+   335         39
+   348        239
+   349         94
+   408         19

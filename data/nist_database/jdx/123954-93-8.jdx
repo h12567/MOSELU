@@ -1,0 +1,58 @@
+##TITLE=Library Entry 57230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=cis-Raphasatin
+##MOLFORM=C6H9NS2
+##CAS REGISTRY NO=123954-93-8
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=1419
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         25
+    35          4
+    39         71
+    40          7
+    41         65
+    44         11
+    45        343
+    46         24
+    47         74
+    48          6
+    49          9
+    50         15
+    51         27
+    52          9
+    53        132
+    54         12
+    55         30
+    57         10
+    58         43
+    59         74
+    60         17
+    61         49
+    67         13
+    69         32
+    70         11
+    71         64
+    72        190
+    73         15
+    74         11
+    78          6
+    84         17
+    85        118
+    86         21
+    87        999
+    88         57
+    89         44
+   112         13
+   127          6
+   159        268
+   160         21
+   161         30
+   162          2

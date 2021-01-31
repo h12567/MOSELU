@@ -1,0 +1,37 @@
+##TITLE=Library Entry 36385
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2-Fluoro-3,3-bis(trifluoromethyl)-1,2-azirine
+##MOLFORM=C4F7N
+##CAS REGISTRY NO=58506-70-0
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    28         93
+    31        355
+    32          3
+    50         73
+    69        999
+    70         11
+    76        345
+    77         11
+   100        375
+   101          4
+   126         38
+   131         88
+   132          8
+   145        445
+   146         11
+   150         38
+   157         68
+   158          9
+   176        263
+   177          9
+   195        148
+   196          7

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 4585
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=2-Pentanone, methyl(2-propynyl)hydrazone
+##MOLFORM=C9H16N2
+##CAS REGISTRY NO=110213-12-2
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    29        170
+    30        290
+    38         60
+    39        660
+    40        100
+    41        790
+    42        999
+    43        980
+    44        170
+    45         50
+    53         80
+    54         70
+    55        340
+    56        200
+    57        110
+    58        160
+    66        110
+    67        350
+    68        620
+    69        220
+    70        110
+    71        600
+    72        320
+    80         50
+    81        100
+    82        310
+    83        120
+    84         80
+    85        130
+    94         60
+    95         90
+    96         90
+   108         50
+   109        860
+   110        280
+   113        880
+   114         70
+   123        170
+   124         60
+   137        240
+   151         50
+   152        690
+   153        120

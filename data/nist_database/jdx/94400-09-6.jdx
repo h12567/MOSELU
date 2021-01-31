@@ -1,0 +1,71 @@
+##TITLE=Library Entry 48670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Tetracyclo[5.4.0(4,10).0(5,9)]undec-2-ene
+##MOLFORM=C11H14
+##CAS REGISTRY NO=94400-09-6
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         80
+    29         10
+    38         11
+    39        160
+    40         25
+    41        100
+    42          8
+    43          8
+    44         15
+    50         23
+    51         73
+    52         30
+    53         49
+    54          5
+    55          9
+    62          9
+    63         35
+    64         24
+    65        100
+    66        130
+    67        990
+    68         59
+    71         14
+    74          5
+    75          5
+    76          5
+    77        250
+    78        270
+    79        999
+    80        540
+    81         63
+    89         13
+    91        310
+    92        510
+    93         39
+   102          8
+   103         33
+   104        200
+   105        220
+   106         19
+   115         56
+   116         24
+   117        220
+   118        110
+   119         11
+   127          9
+   128         26
+   129         24
+   130          8
+   131         80
+   132          8
+   145         16
+   146        290
+   147         33

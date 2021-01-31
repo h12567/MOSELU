@@ -1,0 +1,66 @@
+##TITLE=Library Entry 22519
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Methylcyclohexylamine
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=7003-32-9
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         24
+    17          3
+    18         24
+    26         11
+    27         97
+    28        178
+    29         58
+    30        173
+    37          2
+    39        104
+    40         17
+    41        118
+    42         89
+    43        275
+    44         41
+    45          2
+    47          2
+    50          6
+    51         11
+    52          8
+    53         24
+    54         31
+    56        999
+    57        103
+    58          5
+    62          1
+    63          2
+    65          7
+    66          4
+    67         31
+    68         18
+    70        407
+    71         20
+    77          6
+    78          1
+    79          4
+    80          5
+    81         17
+    82          8
+    83          4
+    84         37
+    85          2
+    91          2
+    93          3
+    94          1
+    95          8
+    96          7
+    97          1
+    98          4
+   113        133
+   114         11

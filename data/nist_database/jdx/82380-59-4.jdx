@@ -1,0 +1,39 @@
+##TITLE=Library Entry 4669
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=N-Benzenesulfonylazetidin-3-one
+##MOLFORM=C9H9NO3S
+##CAS REGISTRY NO=82380-59-4
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        819
+    42        999
+    43        345
+    44        419
+    51        837
+    52         59
+    53         21
+    55         20
+    57         29
+    63         21
+    64         18
+    65         47
+    69         32
+    74         45
+    75         32
+    76         43
+    77        703
+    78         87
+    91        139
+    92         15
+    97         23
+   125         10
+   141         33
+   183         62

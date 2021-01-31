@@ -1,0 +1,39 @@
+##TITLE=Library Entry 53365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 1,1'-[1,2-phenylenebis(1-oxo-2,1-ethanediyl)]bis[1,2,3,
+4-tetrahydro-
+##MOLFORM=C20H24N2O2
+##CAS REGISTRY NO=52881-80-8
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         80
+    54         70
+    55         80
+    67         50
+    68         90
+    77         70
+    78         50
+    82        549
+    83        999
+    84        180
+   103        480
+   104        150
+   105        170
+   110        110
+   131        180
+   186        110
+   213         80
+   214        969
+   215        160
+   241        190
+   242        909
+   243        150
+   324        130

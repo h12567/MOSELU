@@ -1,0 +1,66 @@
+##TITLE=Library Entry 66737
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2920
+##NAMES=HP
+##CAS NAME=Methanimidamide, N,N'-diphenyl-
+##MOLFORM=C13H12N2
+##CAS REGISTRY NO=622-15-1
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1933
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          8
+    28          9
+    37          2
+    38          6
+    39         26
+    40          5
+    41          4
+    42          1
+    50         16
+    51         83
+    52         11
+    53          2
+    54          3
+    62          2
+    63          8
+    64          7
+    65         39
+    66         62
+    67          6
+    74          4
+    75          4
+    76          8
+    77        214
+    78         19
+    83          2
+    84          2
+    90          1
+    91          5
+    92         33
+    93        999
+    94         67
+    95          2
+    98          9
+   103          2
+   104         94
+   105          8
+   115          1
+   118          2
+   119          4
+   121          2
+   166          1
+   167          5
+   168          2
+   169          2
+   193          1
+   194          4
+   195        109
+   196        389
+   197         56
+   198          4

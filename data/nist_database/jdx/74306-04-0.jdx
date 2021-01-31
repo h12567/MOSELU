@@ -1,0 +1,84 @@
+##TITLE=Library Entry 37400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=3-Chloropropionic acid, heptyl ester
+##MOLFORM=C10H19ClO2
+##CAS REGISTRY NO=74306-04-0
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=1393
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    27        154
+    28         82
+    29        262
+    30          5
+    31          8
+    32          3
+    36          6
+    38          3
+    39        104
+    40         14
+    41        350
+    42        260
+    43        264
+    44         46
+    45         15
+    49         10
+    50         11
+    51          9
+    53         17
+    54         70
+    55        553
+    56        971
+    57        409
+    58         16
+    61          6
+    62         11
+    63        392
+    64         12
+    65        146
+    66          7
+    67         32
+    68        124
+    69        491
+    70        999
+    71         67
+    72          4
+    73         56
+    74          4
+    76          2
+    77          3
+    81         12
+    82          5
+    83         79
+    84         14
+    85         10
+    89          4
+    91        500
+    92         12
+    93        143
+    94          7
+    95          3
+    96         10
+    97         39
+    98        288
+    99         27
+   106          3
+   108          7
+   109        239
+   110          7
+   111         75
+   112          3
+   113         10
+   115          5
+   121         10
+   123          4
+   135         10
+   137          3
+   149          9
+   151          3

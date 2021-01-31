@@ -1,0 +1,43 @@
+##TITLE=Library Entry 20041
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Horiike ET AL.Biomed.Mass Spectr.,13,117(1986)
+##NAMES=HP
+##CAS NAME=3-Dodecen-1-ol, (Z)-
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=32451-95-9
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1457
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        170
+    29        409
+    31        202
+    39        232
+    41        741
+    42        229
+    43        586
+    44         62
+    53        120
+    54        404
+    55        999
+    57        409
+    58        431
+    67        544
+    68        783
+    69        476
+    70        200
+    71        105
+    81        426
+    82        441
+    83        234
+    95        214
+    96        222
+    97        135
+   109         57
+   110         60
+   138         52
+   166         40

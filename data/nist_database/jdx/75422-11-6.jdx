@@ -1,0 +1,59 @@
+##TITLE=Library Entry 93154
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 62(3)811(1979); U. KRAMER ET AL.
+##NAMES=HP
+##CAS NAME=Acetamide, N-[3-[acetyl[3-(acetylamino)propyl]amino]propyl]-N-[3-
+[acetyl[3-[acetyl[3-(2-oxoazacyclotridec-1-yl)propyl]amino]propyl]amino]prop
+yl]-
+##MOLFORM=C37H68N6O6
+##CAS REGISTRY NO=75422-11-6
+##MP= -300
+##BP= -300
+##MW= 692
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    86        990
+    87        800
+    99        530
+   100        500
+   101        280
+   115        999
+   125        100
+   126        120
+   129         90
+   140        110
+   143        120
+   155        200
+   158        310
+   169        210
+   199        250
+   224        100
+   238        270
+   242         70
+   254        120
+   281         80
+   284         50
+   293        130
+   298         70
+   323         70
+   341         70
+   353         60
+   380         70
+   383         60
+   392         60
+   422         80
+   440         50
+   452         40
+   479         40
+   482         30
+   491         30
+   521         20
+   578         30
+   590         20
+   620         20
+   650         20
+   692         10
+   693          4

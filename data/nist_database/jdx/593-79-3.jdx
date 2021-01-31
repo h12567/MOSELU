@@ -1,0 +1,33 @@
+##TITLE=Library Entry 67578
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Dimethyl selenide
+##MOLFORM=C2H6Se
+##CAS REGISTRY NO=593-79-3
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=548
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    14        215
+    15        860
+    78        154
+    80        308
+    82         51
+    90        137
+    91        426
+    92        357
+    93        831
+    94        359
+    95        999
+    96         70
+    97        189
+   106        113
+   107        159
+   108        284
+   110        637
+   112        108

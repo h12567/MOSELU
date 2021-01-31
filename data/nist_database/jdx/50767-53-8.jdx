@@ -1,0 +1,31 @@
+##TITLE=Library Entry 24596
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=1,6:3,4-Dianhydro-2-deoxy-.beta.-d-lyxo-hexopyranose
+##MOLFORM=C6H8O3
+##CAS REGISTRY NO=50767-53-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        519
+    42        239
+    43        749
+    44        839
+    45        479
+    54        239
+    55        679
+    57        999
+    69        239
+    71        239
+    72        279
+    81        189
+    82        249
+    83        839
+    85        359

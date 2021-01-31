@@ -1,0 +1,63 @@
+##TITLE=Library Entry 47828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Diazene, (4-bromophenyl)phenyl-
+##MOLFORM=C12H9BrN2
+##CAS REGISTRY NO=4418-84-2
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27         72
+    29         84
+    38         55
+    39        106
+    41        211
+    43        138
+    50        269
+    51        408
+    55        126
+    57         72
+    60         50
+    63        121
+    64         84
+    69        153
+    74        108
+    75        354
+    76        413
+    77        999
+    78         99
+    83         35
+    90         48
+    91         29
+    95         29
+   105        324
+   106         30
+   113         45
+   126         22
+   127         44
+   128         30
+   129         35
+   131         20
+   151         75
+   152        267
+   153         62
+   155        604
+   156         52
+   157        601
+   183        239
+   184         21
+   185        237
+   186         22
+   232         10
+   234         10
+   260        744
+   261        125
+   262        719
+   263        115
+   264         13

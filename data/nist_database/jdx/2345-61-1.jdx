@@ -1,0 +1,61 @@
+##TITLE=Library Entry 58269
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=trans-.beta.-Chloroacrylic acid
+##MOLFORM=C3H3ClO2
+##CAS REGISTRY NO=2345-61-1
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15         11
+    24         65
+    25        244
+    26        719
+    27        226
+    28         58
+    29        110
+    35         75
+    36         42
+    37         43
+    38         18
+    40         14
+    41         45
+    42        140
+    43         56
+    44         49
+    45        477
+    46         10
+    47         49
+    48         30
+    49         28
+    50         14
+    51         15
+    52         29
+    53        164
+    54         43
+    59         14
+    60        156
+    61        667
+    62         88
+    63        221
+    64         11
+    71        673
+    72         26
+    78        253
+    79         10
+    80         98
+    87         18
+    89        999
+    90         37
+    91        343
+    92         11
+   106        637
+   107         28
+   108        213
+   109          8

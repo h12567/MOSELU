@@ -1,0 +1,64 @@
+##TITLE=Library Entry 237
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.R.TAILBY MONASH UNIVERSITY, CLAYTON, VICTORIA, AUSTRA
+LIA.
+##NAMES=HP
+##CAS NAME=Cobalt, decacarbonyl(ethynylbenzene)tetra-
+##MOLFORM=C18H6Co4O10
+##CAS REGISTRY NO=12568-53-5
+##MP= -300
+##BP= -300
+##MW= 618
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    28        999
+    59        430
+    63        370
+    64        260
+    65        350
+    76        260
+    77        860
+    78        530
+    91        700
+    92        450
+   102        170
+   103        130
+   104        150
+   115        560
+   118        310
+   128        250
+   139        240
+   141        370
+   149        240
+   161        270
+   165        170
+   168        270
+   179        170
+   184        140
+   193        150
+   203         80
+   215         50
+   220        190
+   231         70
+   233         90
+   248        330
+   260         80
+   276        120
+   304         50
+   332         50
+   338        130
+   360         80
+   366         70
+   388         30
+   394         60
+   422         70
+   450         90
+   478        100
+   506         70
+   534         50
+   562         30
+   590         60
+   618         40

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 57780
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methoxy-(1,1-dimethyl-3-hydroxy-propyl)-amine
+##MOLFORM=C6H15NO2
+##CAS REGISTRY NO=75258-34-3
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         69
+    42         62
+    43         75
+    44         14
+    45         45
+    46         47
+    47        184
+    48         67
+    55        113
+    56         84
+    57         77
+    58         63
+    68         38
+    69        232
+    70         69
+    71         77
+    73         75
+    87         76
+    88        999
+    89         76
+   100         68
+   101         69
+   102         76
+   114         53
+   115         38
+   116         37
+   118        230
+   119        191
+   133         54

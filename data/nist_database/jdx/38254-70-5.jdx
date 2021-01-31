@@ -1,0 +1,49 @@
+##TITLE=Library Entry 75860
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-Methyl-4-carboxytetrahydrothiazole
+##MOLFORM=C5H9NO2S
+##CAS REGISTRY NO=38254-70-5
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         69
+    28        106
+    29         28
+    30         33
+    31         27
+    41         66
+    42        491
+    43         66
+    44         87
+    45         93
+    46         32
+    55         36
+    56         95
+    57        130
+    58        189
+    59         98
+    61         74
+    69         10
+    70         20
+    73         46
+    75         53
+    86         33
+    87         46
+    88         11
+    93         11
+   100         79
+   101         68
+   102        999
+   103         60
+   104         52
+   146         16
+   147         53
+   148         12
+   149          4

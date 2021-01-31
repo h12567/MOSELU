@@ -1,0 +1,32 @@
+##TITLE=Library Entry 89922
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.Roinestad ET AL.J.Agric.Food Chem.,42,2025(1994)
+##NAMES=HP
+##CAS NAME=5-Hydroxy-4,5-dimethyl-2,5-dihydrofuran-2-one
+##MOLFORM=C6H8O3
+##CAS REGISTRY NO=14300-89-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    37         21
+    38         47
+    39        321
+    40        135
+    41        244
+    43        876
+    44         57
+    45         57
+    68        228
+    69        254
+    70         21
+    82         10
+    84         73
+    85        482
+   110        114
+   113        999
+   114         73

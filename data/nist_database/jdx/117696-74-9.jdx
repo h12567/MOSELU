@@ -1,0 +1,55 @@
+##TITLE=Library Entry 27250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. Serratosa, Dep. Org. Chem., Univ. Barcelona, Barcelo
+na, Spain
+##NAMES=HP
+##CAS NAME=(Tetra-t-butoxycyclopentadienone)tricarbonyliron(0)
+##MOLFORM=C24H36FeO8
+##CAS REGISTRY NO=117696-74-9
+##MP= -300
+##BP= -300
+##MW= 508
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    55         64
+    56        109
+    57        999
+    58         52
+    70         70
+    73         33
+    84        112
+    85         39
+    96         39
+    97         45
+    98         33
+   112         66
+   114        124
+   115         30
+   125         70
+   142         45
+   144        100
+   153         15
+   154        270
+   169         85
+   170         45
+   181         76
+   182         76
+   198        515
+   199        543
+   200        151
+   228        151
+   238         54
+   254        151
+   255        182
+   256        485
+   284        151
+   312        124
+   340         60
+   368         36
+   424          9
+   452          7
+   480          8
+   508          3

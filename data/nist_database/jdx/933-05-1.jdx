@@ -1,0 +1,70 @@
+##TITLE=Library Entry 8425
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Cyclopentanol, acetate
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=933-05-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         19
+    26          8
+    27         46
+    28         26
+    29         45
+    30          3
+    31          5
+    37          2
+    38          9
+    39        100
+    40         22
+    41        165
+    42         46
+    43        999
+    44         50
+    45          9
+    50          4
+    51          8
+    52          3
+    53         27
+    54          5
+    55         27
+    56          8
+    57        130
+    58        238
+    59         51
+    60          5
+    61         69
+    62          3
+    63          4
+    64          1
+    65         16
+    66         11
+    67        205
+    68        562
+    69        148
+    70         85
+    71        101
+    72         14
+    81          1
+    82          2
+    83          5
+    84         46
+    85        203
+    86         87
+    87          6
+    95         12
+    97          2
+    99          5
+   100         17
+   101          1
+   110          2
+   113         18
+   127          1

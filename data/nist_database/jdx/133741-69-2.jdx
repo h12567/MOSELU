@@ -1,0 +1,61 @@
+##TITLE=Library Entry 35919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Cojocaru, Dep. Chem., Bar-Ilan Univ., Israel
+##NAMES=HP
+##CAS NAME=Butane, 2-(3-butenylthio)-3-methyl-1-nitro-
+##MOLFORM=C9H17NO2S
+##CAS REGISTRY NO=133741-69-2
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    67         94
+    69        999
+    70         30
+    73         60
+    80          8
+    81         25
+    83         17
+    84         38
+    85        244
+    86        107
+    87        163
+    88         98
+    89         85
+    95          8
+    98          8
+    99         55
+   101        991
+   102         47
+   103        437
+   104         30
+   105         47
+   109         21
+   113         38
+   114         17
+   115         34
+   116         12
+   123         12
+   127         85
+   128         34
+   131         17
+   132         98
+   133        218
+   134         12
+   137         12
+   141         12
+   143         42
+   144          8
+   149          8
+   157         81
+   159          8
+   162        158
+   172         17
+   173        708
+   174         34
+   175         17
+   202          8

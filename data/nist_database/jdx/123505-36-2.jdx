@@ -1,0 +1,63 @@
+##TITLE=Library Entry 85877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. GREENHALGH, AGRIC. CAN., PLANT RES. CENT., OTTAWA, C
+AN.
+##NAMES=HP
+##CAS NAME=9,10-Dihydrodeoxynivalenol
+##MOLFORM=C15H22O6
+##CAS REGISTRY NO=123505-36-2
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    53        250
+    55        555
+    67        337
+    69        392
+    79        516
+    81        746
+    91        392
+    95        671
+   107        361
+   108        464
+   109        999
+   111        322
+   121        359
+   123        234
+   125        591
+   135        250
+   137        317
+   138        269
+   147        151
+   149        199
+   151        193
+   161        237
+   163        163
+   164        117
+   177        121
+   179        189
+   181        120
+   189        179
+   191        118
+   194        127
+   206         98
+   207        283
+   208         79
+   217         87
+   219        101
+   221         92
+   233         73
+   235         98
+   237        103
+   249         55
+   250        147
+   251         62
+   262         23
+   265         25
+   268         42
+   280         52
+   298         24

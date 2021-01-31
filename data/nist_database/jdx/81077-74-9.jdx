@@ -1,0 +1,37 @@
+##TITLE=Library Entry 98695
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Traldi, CNR, Area Res., Corso Stati Unit 4, Padova,
+ Italy
+##NAMES=HP
+##CAS NAME=Benzofuran, 2,3-dihydro-2-[(methylthio)methyl]-5-nitro-
+##MOLFORM=C10H11NO3S
+##CAS REGISTRY NO=81077-74-9
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    61        730
+    89        200
+    91        120
+   103        210
+   105         50
+   117        110
+   118        999
+   130        120
+   131        400
+   132        370
+   147        190
+   150         20
+   163        100
+   164        290
+   176        370
+   177        520
+   178        220
+   195         40
+   225        790
+   226         90
+   227         40

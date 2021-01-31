@@ -1,0 +1,51 @@
+##TITLE=Library Entry 4423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Lloyd ET AL.Aust.J.Chem., 30,569(1977)
+##NAMES=HP
+##CAS NAME=1,4-Butanediol, cyclic sulphate
+##MOLFORM=C4H8O4S
+##CAS REGISTRY NO=5732-44-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14         21
+    15         87
+    26        260
+    27        615
+    28        253
+    29        588
+    30        168
+    31        117
+    37         19
+    38         57
+    39        472
+    40        193
+    41        861
+    42        999
+    43        154
+    44         22
+    48        103
+    50          7
+    51          8
+    53         19
+    54        507
+    55         59
+    57         17
+    59         50
+    64         63
+    65         50
+    71        298
+    72          5
+    80         50
+    81         35
+   123        202
+   144          3
+   151          1
+   152          1
+   153         10
+   154          1

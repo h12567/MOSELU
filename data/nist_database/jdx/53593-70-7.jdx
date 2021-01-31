@@ -1,0 +1,41 @@
+##TITLE=Library Entry 161
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.SCHNEIDER HAMBURG UNIV., HAMBURG, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Vanadium, pentacarbonyl(.eta.3-2-propenyl)-
+##MOLFORM=C8H5O5V
+##CAS REGISTRY NO=53593-70-7
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28        999
+    29         26
+    30          5
+    37         14
+    38         22
+    39        121
+    40         41
+    41        216
+    42        155
+    43          9
+    51         17
+    54          5
+    56          5
+    57          7
+    67         14
+    78          5
+    79          9
+    90         20
+    91          5
+    92         55
+   107          5
+   120         22
+   148          9
+   176         17
+   204          5
+   232          7

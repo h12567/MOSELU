@@ -1,0 +1,29 @@
+##TITLE=Library Entry 72734
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-[(4-(2-(4-Methoxyphenyl)ethyl)piperidinylcarbonyl)methyl]-quina
+zolin-2,4(1H,3H)-dione
+##MOLFORM=C23H26N4O4
+##CAS REGISTRY NO=119784-81-5
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    43        127
+    91         49
+    99        999
+   105         19
+   119         50
+   135         70
+   146        378
+   151         70
+   168        437
+   175        320
+   203         70
+   301        705
+   422         10

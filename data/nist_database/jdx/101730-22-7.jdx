@@ -1,0 +1,55 @@
+##TITLE=Library Entry 79136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Benzoic acid 2-[benzoyl-(2-hydroxy-ethyl)-amino]-ethyl ester
+##MOLFORM=C18H19NO4
+##CAS REGISTRY NO=101730-22-7
+##MP= -300
+##BP= -300
+##MW= 313
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    50          4
+    51         44
+    55         17
+    56         24
+    64          2
+    69         35
+    72          7
+    74          3
+    76          8
+    77        283
+    78         20
+    91          3
+   104          6
+   105        999
+   106         79
+   107          1
+   134          8
+   145          1
+   147          2
+   148         47
+   149         38
+   160         13
+   161         10
+   163          9
+   166         13
+   167          1
+   173          3
+   175          2
+   178         57
+   179          4
+   190          1
+   191         71
+   192          7
+   208          1
+   252          6
+   270         31
+   271          4
+   282         46
+   283          8
+   295          5

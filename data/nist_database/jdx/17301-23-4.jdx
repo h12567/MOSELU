@@ -1,0 +1,54 @@
+##TITLE=Library Entry 25412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Undecane, 2,6-dimethyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=17301-23-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1210
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         71
+    28         70
+    29        111
+    32         16
+    39         85
+    41        380
+    42        107
+    43        426
+    44         16
+    51          4
+    53         34
+    55        193
+    56        209
+    57        999
+    58         42
+    65          6
+    67         18
+    68         15
+    69         89
+    70        121
+    71        481
+    72         26
+    79          5
+    83         25
+    84         53
+    85         81
+    86          6
+    97         27
+    98        170
+    99         55
+   112         72
+   113         75
+   114          7
+   127          5
+   140          7
+   141         11
+   155          6
+   169          9
+   184         10

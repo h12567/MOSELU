@@ -1,0 +1,58 @@
+##TITLE=Library Entry 3052
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=1-Hexene, 1-butoxy-2-ethyl-
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=67041-70-7
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    26         72
+    27        595
+    28         10
+    29        603
+    31        385
+    38         30
+    39        343
+    40         58
+    41        999
+    42        202
+    43        567
+    45         32
+    51         27
+    52         10
+    53         72
+    54         42
+    55        245
+    56        715
+    57        859
+    58         54
+    59          7
+    67         39
+    68         28
+    69         43
+    70         20
+    71        140
+    72        711
+    73         39
+    81         29
+    82         28
+    83         20
+    84          9
+    85        627
+    86         49
+    99         52
+   100         12
+   127         20
+   128          9
+   141        106
+   142         11
+   184        133
+   185         18

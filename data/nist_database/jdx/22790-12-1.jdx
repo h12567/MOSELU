@@ -1,0 +1,71 @@
+##TITLE=Library Entry 57122
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2007
+##NAMES=HP
+##CAS NAME=Tetraethylene glycol, diacetate
+##MOLFORM=C12H22O7
+##CAS REGISTRY NO=22790-12-1
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=1825
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    16          1
+    19          2
+    26          2
+    27         12
+    28         31
+    29         23
+    30          5
+    31         12
+    41          5
+    42         20
+    43        459
+    44         24
+    45         50
+    46          1
+    57         10
+    58         14
+    59         10
+    60          1
+    61          5
+    69          1
+    70         20
+    71         10
+    72          3
+    73         25
+    74          3
+    75          2
+    85          1
+    86         28
+    87        999
+    88         52
+    89         11
+    99          9
+   100          2
+   101         15
+   102          2
+   103          5
+   104          1
+   105          1
+   114          4
+   115          4
+   117         12
+   118          1
+   119          1
+   130          3
+   131         13
+   132          2
+   133          1
+   147          1
+   161          1
+   163          1
+   174          1
+   175          2
+   176          1
+   205          1

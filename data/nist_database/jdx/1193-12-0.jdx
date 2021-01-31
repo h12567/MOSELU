@@ -1,0 +1,68 @@
+##TITLE=Library Entry 15587
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=3,3-Dimethylpiperidine
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=1193-12-0
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=870
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15          9
+    18          2
+    26          5
+    27         67
+    28        103
+    29        106
+    30        208
+    31          3
+    32          0
+    38          4
+    39         84
+    40         17
+    41        152
+    42         78
+    43         88
+    44        999
+    45         27
+    47          3
+    48          1
+    50          3
+    51          6
+    52          3
+    53         18
+    54         11
+    55         60
+    56        179
+    57        243
+    58         11
+    65          4
+    66          0
+    67         20
+    68         15
+    69         19
+    70        102
+    71         18
+    72          2
+    77          2
+    79          4
+    80          8
+    81          8
+    82         17
+    83         10
+    84         30
+    85          7
+    94          3
+    95          3
+    96         11
+    97          3
+    98         88
+    99          5
+   112         55
+   113        237
+   114         20

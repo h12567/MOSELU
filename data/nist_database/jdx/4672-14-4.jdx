@@ -1,0 +1,74 @@
+##TITLE=Library Entry 70908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Butyramide, 4-piperidino-
+##MOLFORM=C9H18N2O
+##CAS REGISTRY NO=4672-14-4
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    37          3
+    38          7
+    39         83
+    40         33
+    41        275
+    42        236
+    43         99
+    44        649
+    45         19
+    46          4
+    50          1
+    51          6
+    52          7
+    53         27
+    54         67
+    55        214
+    56        114
+    57         45
+    59        207
+    60          6
+    65          4
+    66          2
+    67         20
+    68         47
+    69        104
+    70        119
+    71         10
+    72         30
+    73         66
+    74          2
+    79          3
+    80          9
+    81          5
+    82         30
+    83         25
+    84        171
+    85         20
+    86         54
+    87          6
+    94          5
+    96         85
+    98        999
+    99        109
+   100          3
+   101          4
+   110         19
+   111         57
+   112         16
+   125         22
+   126          2
+   127          1
+   141          1
+   146          1
+   154         69
+   155          5
+   169          2
+   170        245
+   171         34
+   172          5

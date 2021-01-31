@@ -1,0 +1,52 @@
+##TITLE=Library Entry 16368
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Szymanowski ET AL.J.Chromatogr., 351,183(1986)
+##NAMES=HP
+##CAS NAME=2-{2-[2-(Decylamino)ethoxy]ethoxy}ethanol, TMS derivative
+##MOLFORM=C19H43NO3Si
+##CAS REGISTRY NO=102145-76-6
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29        180
+    30        186
+    39         37
+    41        241
+    42        107
+    43        421
+    44        999
+    45        134
+    54        136
+    56        196
+    57        181
+    58        113
+    59         81
+    66         39
+    69         39
+    70         81
+    71         34
+    72         65
+    73        416
+    74         42
+    75        126
+    77         16
+    83         34
+    85         24
+    86         24
+    87         10
+    88         24
+    98         29
+   101         26
+   103        207
+   117         52
+   170        479
+   184         89
+   228         34
+   234         71
+   346         16
+   361         26

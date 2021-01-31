@@ -1,0 +1,58 @@
+##TITLE=Library Entry 68426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Eur.Mass.Spectrom.,1(2)213(1995);V.Grossi ET AL
+##NAMES=HP
+##CAS NAME=3-Methyl-2-(3,7,11-trimethyldodecyl) furan
+##MOLFORM=C20H36O
+##CAS REGISTRY NO=166773-55-3
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    51          8
+    52          8
+    53         27
+    55         96
+    56         27
+    57        108
+    65         38
+    66          8
+    67         58
+    68          8
+    69         38
+    70          8
+    71         38
+    77         29
+    79         38
+    80          8
+    81         57
+    82         59
+    83         78
+    84          8
+    85          8
+    91          8
+    93          8
+    95        999
+    96        242
+    97         57
+    98         38
+    99         57
+   105          8
+   108         98
+   109        787
+   110         59
+   111         38
+   112          8
+   121          8
+   123          8
+   125          8
+   135         19
+   151          4
+   179          8
+   235          8
+   292         99
+   293         19

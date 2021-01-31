@@ -1,0 +1,24 @@
+##TITLE=Library Entry 4050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2542(1978); H. SCHMID ET AL
+##NAMES=HP
+##CAS NAME=Pyridine, 3-(2-propenyloxy)-
+##MOLFORM=C8H9NO
+##CAS REGISTRY NO=18343-04-9
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    39        490
+    41        999
+    51        100
+    66         90
+    78         60
+    95        240
+   106        200
+   134        570
+   135        310

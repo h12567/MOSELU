@@ -1,0 +1,54 @@
+##TITLE=Library Entry 3462
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. VANDEWALLE
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one, 3,4-dihydroxy-5-(3-methyl-2-butenyl)-2-(3-me
+thyl-1-oxobutyl)-4-(4-methyl-1-oxo-2-pentenyl)-
+##MOLFORM=C21H30O5
+##CAS REGISTRY NO=57195-47-8
+##MP= -300
+##BP= -300
+##MW= 362
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    39        190
+    41        999
+    42         60
+    53        120
+    54         60
+    55        140
+    57        280
+    67        100
+    69        690
+    70         60
+    77         60
+    79         60
+    81         60
+    83         50
+    85        150
+    91         50
+    95         50
+    97        670
+    98         50
+   104        110
+   149         40
+   181         60
+   188         60
+   192         50
+   197        250
+   198         50
+   209         80
+   210         40
+   223         40
+   233         50
+   235         40
+   249         80
+   265         20
+   266         50
+   277         90
+   293         90
+   294         60
+   362         10

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 65136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, hexadecyl-
+##MOLFORM=C22H38
+##CAS REGISTRY NO=1459-09-2
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=2299
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         18
+    28          6
+    29         49
+    39         23
+    41        150
+    42         34
+    43        190
+    51         10
+    53         11
+    54         13
+    55        101
+    56         29
+    57        117
+    65         44
+    67         14
+    68          7
+    69         39
+    70         17
+    71         49
+    77         23
+    78         37
+    79         32
+    80          7
+    83         16
+    85         27
+    89         12
+    91        840
+    92        999
+    93         79
+    94         13
+    97         10
+   103         21
+   104         91
+   105        100
+   106         20
+   115         12
+   117         30
+   118         11
+   119         26
+   133         65
+   134         21
+   147         12
+   302        175
+   303         43
+   304          6

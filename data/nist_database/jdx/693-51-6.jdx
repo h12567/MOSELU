@@ -1,0 +1,60 @@
+##TITLE=Library Entry 51956
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-(Butylamino)propionitrile
+##MOLFORM=C7H14N2
+##CAS REGISTRY NO=693-51-6
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15         27
+    18          0
+    26         17
+    27        123
+    28         71
+    29        140
+    30        235
+    31          5
+    32          0
+    37          1
+    38          8
+    39         64
+    40         21
+    41        147
+    42        535
+    43         73
+    44        208
+    45          8
+    50          2
+    51          7
+    52         16
+    53          1
+    54        221
+    55         33
+    56         84
+    57         57
+    58          4
+    66          1
+    67          4
+    68         12
+    69         11
+    70         11
+    71          2
+    72          1
+    80          1
+    81          6
+    83        999
+    84         69
+    86        150
+    87          7
+    96          1
+    97          2
+   125          3
+   126         37
+   127          3

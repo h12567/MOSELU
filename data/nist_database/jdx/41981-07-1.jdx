@@ -1,0 +1,39 @@
+##TITLE=Library Entry 6743
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 13(9)504(1978); H. DEMIAN ET AL
+##NAMES=HP
+##CAS NAME=Ethanone, 1-[2-(4-bromophenyl)-4-(chloromethyl)-5-thiazolyl]-
+##MOLFORM=C12H9BrClNOS
+##CAS REGISTRY NO=41981-07-1
+##MP= -300
+##BP= -300
+##MW= 329
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        999
+    44        260
+    45        110
+    69        100
+    70        220
+    71         80
+    75         50
+   102         50
+   105        140
+   106         30
+   107         50
+   148         10
+   182         30
+   184         30
+   280         50
+   282         50
+   286         20
+   288         20
+   294         30
+   296         30
+   314         60
+   316         90
+   329         90
+   331        130

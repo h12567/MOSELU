@@ -1,0 +1,50 @@
+##TITLE=Library Entry 69812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=cis-1-Ethyl-3-methyl-cyclohexane
+##MOLFORM=C9H18
+##CAS REGISTRY NO=19489-10-2
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=894
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27         88
+    28         37
+    29         94
+    39        160
+    40         34
+    41        293
+    42         54
+    43         62
+    50          7
+    51         23
+    52         11
+    53         71
+    54          7
+    55        829
+    56        103
+    57         22
+    65         20
+    66          8
+    67         76
+    68         32
+    69        243
+    70         32
+    77         18
+    79         22
+    81         98
+    82         13
+    83         24
+    84          6
+    91          6
+    96        201
+    97        999
+    98         79
+   111         28
+   126        228
+   127         22

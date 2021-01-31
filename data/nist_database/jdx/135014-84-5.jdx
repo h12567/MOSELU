@@ -1,0 +1,39 @@
+##TITLE=Library Entry 16206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=2-Ethoxyamphetamine
+##MOLFORM=C11H17NO
+##CAS REGISTRY NO=135014-84-5
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    42         23
+    44        999
+    45         22
+    51         12
+    52          7
+    65         10
+    77         41
+    78         17
+    79         17
+    89          7
+    90          6
+    91         30
+   105          4
+   107         32
+   108         39
+   115          3
+   118          3
+   119          3
+   135         10
+   136         85
+   137          8
+   179          3
+   180          1

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 98675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=6-Phenyl-3-thioxo-5-oxo-2,3,4,5-tetrahydro-1,2,4-triazine
+##MOLFORM=C9H7N3OS
+##CAS REGISTRY NO=447-00-7
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41         60
+    42         72
+    50        180
+    51        209
+    59        122
+    60        111
+    62         98
+    63        303
+    69        121
+    75        100
+    76        222
+    77        353
+    89        312
+    90        151
+    91        362
+   103        280
+   104        300
+   118        999
+   119        180
+   205        881

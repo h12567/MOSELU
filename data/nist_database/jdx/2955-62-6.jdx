@@ -1,0 +1,40 @@
+##TITLE=Library Entry 26457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 4-oxo-, methyl ester
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=2955-62-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1082
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    15         43
+    16         13
+    17         13
+    18         17
+    19         39
+    26         13
+    27         50
+    28         99
+    29         73
+    31         28
+    41          8
+    42         10
+    43         11
+    44         10
+    45          8
+    55        565
+    56        130
+    57        999
+    58         35
+    59        348
+    87         87
+   113        261
+   115        783
+   117         43
+   144        109

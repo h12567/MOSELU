@@ -1,0 +1,55 @@
+##TITLE=Library Entry 16092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Tris(2-aminoethyl)amine
+##MOLFORM=C6H18N4
+##CAS REGISTRY NO=4097-89-6
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    11          4
+    15         33
+    17          8
+    18        138
+    19          5
+    26         14
+    27         55
+    30        290
+    39          7
+    40          3
+    41         55
+    42        182
+    43        114
+    44        999
+    45         26
+    51          6
+    52          5
+    54         15
+    55         15
+    56        195
+    57         24
+    58         66
+    59          7
+    68         16
+    69         17
+    70        114
+    71         37
+    73        177
+    74          8
+    82          8
+    83         12
+    84         26
+    85         60
+    87         84
+    97         17
+    99        253
+   100         19
+   112         15
+   116        351
+   117         23

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 10166
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.GRIESBAUM,DEP.PETROCHEM.ORG.TECHNOL.,UNIV.KARLSRUHE,W
+.GER.
+##NAMES=HP
+##CAS NAME=3-Methoxycarbonyl-3-methyl-1,2,4-trioxolane
+##MOLFORM=C5H8O5
+##CAS REGISTRY NO=105949-86-8
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    42         90
+    43        999
+    44         90
+    45        190
+    59        240
+    60         60
+    73         60
+    89        310
+   102         90
+   148          1

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 88304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(4-Fluorophenyl)-N'-phenyl-urea
+##MOLFORM=C13H11FN2O
+##CAS REGISTRY NO=330-98-3
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    64        500
+    65        722
+    66        720
+    77        179
+    82        220
+    83        257
+    84        312
+    91        351
+    92        118
+    93        847
+    94         79
+   109        289
+   110         80
+   111        999
+   112         78
+   119        448
+   120         49
+   137        398
+   138         50
+   149         80
+   230        149

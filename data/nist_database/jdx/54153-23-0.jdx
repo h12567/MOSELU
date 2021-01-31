@@ -1,0 +1,57 @@
+##TITLE=Library Entry 56551
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=9-Oximinoo-2,7-bis[2-diethylamino)ethoxy]-fluorene
+##MOLFORM=C25H35N3O3
+##CAS REGISTRY NO=54153-23-0
+##MP= -300
+##BP= -300
+##MW= 425
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    56         60
+    57         38
+    58        108
+    59         35
+    70         25
+    71         30
+    72         65
+    73         21
+    84         50
+    85         21
+    86        999
+    87        133
+    88         57
+    98         18
+    99         16
+   100        550
+   101         45
+   126          3
+   127          3
+   164          5
+   165          2
+   177          2
+   183          2
+   194          3
+   211          7
+   212          2
+   221          2
+   237          3
+   238          2
+   311          3
+   312          2
+   392          2
+   394          2
+   395          2
+   407          5
+   408          6
+   409         34
+   410         15
+   411          3
+   424          6
+   425         34
+   426         11

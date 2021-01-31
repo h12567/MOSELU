@@ -1,0 +1,52 @@
+##TITLE=Library Entry 6525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Acetic acid, (amino(nitroamino)methylene)hydrazide
+##MOLFORM=C3H7N5O3
+##CAS REGISTRY NO=42216-29-5
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         83
+    42        305
+    43        999
+    44        125
+    45         26
+    46         86
+    49          7
+    53         15
+    54          4
+    55          6
+    56         31
+    57         17
+    58         11
+    59         16
+    60          9
+    67         13
+    68          4
+    69          3
+    72          9
+    73         41
+    74          3
+    83          4
+    84         16
+    85        105
+    86          3
+    97         35
+    98         10
+    99         35
+   100         13
+   115         16
+   116         10
+   119          2
+   126          2
+   143          3
+   144          2
+   161          8

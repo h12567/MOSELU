@@ -1,0 +1,60 @@
+##TITLE=Library Entry 9731
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.STEFANI TECH. CHEM. LABORATORY, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=1-Octene, 3,4-dimethyl-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=56728-11-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          5
+    27        110
+    28         20
+    29        150
+    30          2
+    38          2
+    39         80
+    40         12
+    41        250
+    42         80
+    43        999
+    44         40
+    50          1
+    51          6
+    52          2
+    53         35
+    54         30
+    55        270
+    56        300
+    57        180
+    58          7
+    65          5
+    66          1
+    67         20
+    68          6
+    69        120
+    70        100
+    71         15
+    77          4
+    79          5
+    81          6
+    82          6
+    83         45
+    84        320
+    85        210
+    86         12
+    95          1
+    97          5
+    98         20
+    99          1
+   111          7
+   112        100
+   113          9
+   140          3

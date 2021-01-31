@@ -1,0 +1,54 @@
+##TITLE=Library Entry 40204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Hexenamide, N,N,2-trimethyl-, (E)-(.+-.)-
+##MOLFORM=C9H17NO
+##CAS REGISTRY NO=72178-96-2
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         18
+    28          7
+    29         13
+    39         28
+    40          4
+    41         55
+    42         24
+    43         13
+    44         27
+    45         10
+    51          3
+    53         14
+    54          3
+    55        117
+    56         11
+    57          3
+    58          3
+    65          3
+    67         23
+    68          6
+    72        999
+    73         39
+    74          4
+    79          3
+    81          5
+    82         11
+    83         38
+    84         10
+    87          4
+    95         16
+    98          4
+   101          5
+   112          4
+   126         20
+   127          3
+   140        224
+   141         22
+   155         55
+   156          5

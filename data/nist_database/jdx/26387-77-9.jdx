@@ -1,0 +1,43 @@
+##TITLE=Library Entry 15448
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenal, 3-(dimethylamino)-3-ethoxy-
+##MOLFORM=C7H13NO2
+##CAS REGISTRY NO=26387-77-9
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        138
+    42        831
+    43        603
+    44        999
+    45        990
+    46        465
+    54         99
+    55        277
+    56        336
+    57         99
+    58        178
+    68         99
+    69        297
+    70        465
+    71        782
+    72        504
+    82        198
+    84        465
+    86        188
+    87        386
+    88        128
+    98        306
+    99        118
+   100         49
+   114        128
+   115        188
+   126        277
+   143        633

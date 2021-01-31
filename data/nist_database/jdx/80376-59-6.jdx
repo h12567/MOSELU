@@ -1,0 +1,73 @@
+##TITLE=Library Entry 48987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=(7S)-trans-bicyclo[4.3.0]-3-nonen-7-ol
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=80376-59-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27        150
+    29        110
+    31         40
+    39        230
+    41        190
+    42         40
+    43         70
+    50         40
+    51         90
+    52         40
+    53        130
+    54        100
+    55        150
+    56         40
+    57        120
+    58         20
+    63         30
+    64         20
+    65         90
+    66        170
+    67        170
+    68         40
+    69         40
+    70         40
+    71         30
+    77        270
+    78        230
+    79        999
+    80        190
+    81        270
+    82         70
+    83        440
+    84         60
+    91        640
+    92        600
+    93        150
+    94        300
+    95        130
+    96        360
+    97        100
+   105        150
+   106         20
+   107         30
+   108         10
+   109        190
+   110         60
+   115         10
+   116         30
+   117         30
+   119         50
+   120        330
+   121         50
+   123         20
+   136         50
+   137         60
+   138        460
+   139         50

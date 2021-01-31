@@ -1,0 +1,35 @@
+##TITLE=Library Entry 109291
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FDA, Los Angeles District Laboratory
+##NAMES=HP
+##CAS NAME=Arsonic acid, methyl-
+##MOLFORM=CH5AsO3
+##CAS REGISTRY NO=124-58-3
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    75         90
+    76         25
+    77         45
+    79         45
+    88         35
+    89        105
+    90         95
+    91        974
+    92        120
+    93        315
+    95         75
+   105         30
+   106        125
+   107        584
+   123        110
+   124         95
+   125        999
+   138         40
+   139        285
+   140        160

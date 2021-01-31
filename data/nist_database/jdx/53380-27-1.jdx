@@ -1,0 +1,35 @@
+##TITLE=Library Entry 83497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Sanz-Asensio ET AL.J.Chrom.,840,235(1999)
+##NAMES=HP
+##CAS NAME=Ethyl 2-hydroxybenzyl sulfone
+##MOLFORM=C9H12O3S
+##CAS REGISTRY NO=53380-27-1
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    50         16
+    51         52
+    52         34
+    53         29
+    57          5
+    63         16
+    64          9
+    65         11
+    66          5
+    77        268
+    78        141
+    79         95
+    81          9
+    92         16
+   105          9
+   107        999
+   108         79
+   120         20
+   136         14
+   200         34

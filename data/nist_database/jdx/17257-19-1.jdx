@@ -1,0 +1,55 @@
+##TITLE=Library Entry 50652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.G.GRANT UNIV. QUEENSLAND, ST. LUCIA, QUEENSLAND, AUST
+RALIA
+##NAMES=HP
+##CAS NAME=(2S,2'R,3'S)-Methyl-2(2'-carbomethoxy-3'-methylcyclopentyl)-propa
+noate
+##MOLFORM=C12H20O4
+##CAS REGISTRY NO=17257-19-1
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    41        430
+    43        120
+    53        240
+    55        240
+    56         70
+    57        110
+    59        180
+    65         70
+    67        360
+    68         50
+    69        170
+    77        110
+    79        160
+    80         60
+    81        999
+    82         90
+    83         50
+    88        290
+    91         60
+    93         80
+    95         40
+   101         90
+   107         60
+   108        140
+   109        570
+   113         80
+   125         50
+   139         80
+   140         50
+   141        380
+   142        110
+   153         60
+   167         80
+   168        480
+   169         80
+   196        290
+   197        140
+   228         20

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 25365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5,5-Dibutylnonane
+##MOLFORM=C17H36
+##CAS REGISTRY NO=6008-17-9
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        118
+    28        155
+    29        325
+    32         26
+    39         57
+    41        441
+    42         52
+    43        534
+    44         22
+    53         29
+    55        292
+    56        174
+    57        999
+    58         46
+    65          8
+    67         36
+    68         14
+    69        123
+    70        110
+    71        827
+    72         46
+    77          9
+    79         11
+    81         14
+    82         12
+    83         46
+    84          9
+    85        514
+    86         36
+    97         19
+    98         34
+    99        260
+   100         21
+   113        197
+   114         19
+   127        124
+   128         12
+   140         49
+   141         46
+   182         71
+   183        322
+   184         48

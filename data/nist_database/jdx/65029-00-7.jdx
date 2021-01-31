@@ -1,0 +1,78 @@
+##TITLE=Library Entry 2117
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Oxazole, 2-(dichloromethyl)-4,5-dihydro-4,4-dimethyl-
+##MOLFORM=C6H9Cl2NO
+##CAS REGISTRY NO=65029-00-7
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    36        240
+    37         60
+    38        210
+    39        780
+    40        280
+    41        999
+    42        650
+    43        250
+    44        250
+    47         40
+    48        100
+    49         90
+    51         40
+    52         70
+    53        150
+    54         40
+    55         50
+    56        180
+    57        600
+    58         50
+    59         40
+    60         20
+    63         40
+    66         70
+    68         30
+    69         40
+    70         70
+    71         30
+    74         60
+    75         50
+    76         60
+    77         50
+    82         40
+    83         80
+    85         40
+    89         40
+    97         10
+    98         40
+   100         10
+   110         90
+   112         80
+   116        530
+   117         50
+   118        160
+   134         40
+   136         70
+   138         70
+   140         30
+   146         40
+   151        170
+   152         30
+   153         80
+   155         20
+   166        300
+   167         30
+   168        180
+   169         30
+   170         30
+   181         80
+   182          7
+   183         60
+   184          4

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 13919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(4-Nitrophenyl)-4-acetyl-thiazole
+##MOLFORM=C11H8N2O3S
+##CAS REGISTRY NO=21160-66-7
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    43        999
+    45        150
+    50        118
+    51         68
+    57        315
+    58        269
+    62         59
+    63         48
+    69         97
+    71         58
+    74         38
+    75         90
+    76        141
+    85         69
+    87         30
+    88         39
+    89         39
+    94         30
+   100        139
+   102         78
+   103         49
+   115         40
+   116         48
+   121         88
+   132         40
+   133         50
+   134         29
+   159        128
+   160         79
+   166         60
+   173         29
+   174         49
+   187        210
+   188         39
+   202         29
+   205         59
+   206         69
+   220         50
+   232        894
+   233        118
+   234         59
+   248        546
+   249         80
+   250         40

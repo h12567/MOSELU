@@ -1,0 +1,75 @@
+##TITLE=Library Entry 67197
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-.omega.-Acetylhistamine
+##MOLFORM=C7H11N3O
+##CAS REGISTRY NO=673-49-4
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         25
+    18          2
+    26         12
+    27         27
+    28        125
+    29         14
+    30        217
+    31          6
+    37          2
+    38          9
+    39         38
+    40         26
+    41         47
+    42         39
+    43        225
+    44         12
+    45          2
+    50          1
+    51          5
+    52         29
+    53         20
+    54        119
+    55         56
+    56         19
+    57          1
+    58          1
+    60         31
+    64          1
+    65          2
+    66         11
+    67         18
+    68         38
+    69          6
+    72         10
+    73          1
+    77          1
+    78          1
+    79          1
+    80          2
+    81        344
+    82        548
+    83         52
+    84          2
+    92          1
+    93        113
+    94        999
+    95        151
+    96          7
+   107          1
+   108          1
+   109          7
+   110         33
+   111          2
+   134          1
+   135          1
+   138         12
+   139          1
+   153         48
+   154          5

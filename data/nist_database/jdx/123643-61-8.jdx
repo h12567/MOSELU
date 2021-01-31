@@ -1,0 +1,55 @@
+##TITLE=Library Entry 3109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Brossi, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=O,N-Dibutoxycarbonyl-3-demethyl-N-deacetylthiocolchicine
+##MOLFORM=C29H37NO8S
+##CAS REGISTRY NO=123643-61-8
+##MP= -300
+##BP= -300
+##MW= 559
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        999
+    42         42
+    43         58
+    45         43
+    55        139
+    56         38
+    57        984
+   152         43
+   208         30
+   227         44
+   237         30
+   251         55
+   252        100
+   253         33
+   254         34
+   256         31
+   267        147
+   268         82
+   269         81
+   281        119
+   283        111
+   284         78
+   299        120
+   300         63
+   302        137
+   313         31
+   314        318
+   315         75
+   330         76
+   342         31
+   398         40
+   414         36
+   416         37
+   431        285
+   432         45
+   526         36
+   531         33
+   559        420
+   560        134
+   561         34

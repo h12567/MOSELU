@@ -1,0 +1,31 @@
+##TITLE=Library Entry 48521
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=3-Penten-1-ol, 2-methylene-, (E)-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=116203-78-2
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        380
+    41        700
+    42        110
+    43        240
+    53        160
+    55        450
+    65        310
+    67        320
+    69        260
+    77        150
+    79        999
+    80        500
+    83        320
+    98        530
+    99         35

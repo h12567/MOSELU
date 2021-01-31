@@ -1,0 +1,37 @@
+##TITLE=Library Entry 1457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Hydroxyacetic acid, hydrazide
+##MOLFORM=C2H6N2O2
+##CAS REGISTRY NO=3530-14-1
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27         22
+    28        200
+    29        331
+    30        126
+    31        999
+    32        955
+    41         24
+    42         46
+    43         61
+    44         66
+    45         45
+    55         17
+    57         14
+    59         16
+    60         14
+    62         65
+    69         15
+    72         14
+    73         12
+    90         65
+    91          6
+    92          2

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 31888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyridine, 2-methyl-4-nitro-
+##MOLFORM=C6H6N2O2
+##CAS REGISTRY NO=13508-96-8
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    29          8
+    30        128
+    31          4
+    36         11
+    37        124
+    38        241
+    39        407
+    40        138
+    41         59
+    42        519
+    43         19
+    44         45
+    46        125
+    49         41
+    50        310
+    51        528
+    52         72
+    53         23
+    58          8
+    60          9
+    61         52
+    62        103
+    63        202
+    64        114
+    65        999
+    66         46
+    75          6
+    80          4
+    92        749
+    93         51
+   108         20
+   109          1
+   138        364
+   139         27
+   140          2

@@ -1,0 +1,27 @@
+##TITLE=Library Entry 54069
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Azetidinecarboxaldehyde, 2,2,4,4-tetramethyl-
+##MOLFORM=C8H15NO
+##CAS REGISTRY NO=50455-46-4
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    55        280
+    56        350
+    57        370
+    58        340
+    81        140
+    83        200
+    84        999
+    86        729
+    98        330
+   108        160
+   126        719
+   141        420

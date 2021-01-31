@@ -1,0 +1,84 @@
+##TITLE=Library Entry 89283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Acetoxy-3-fluorobenzene
+##MOLFORM=C8H7FO2
+##CAS REGISTRY NO=701-83-7
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          6
+    14         27
+    15         98
+    16          2
+    18          2
+    25          2
+    26          8
+    27          5
+    28         17
+    29          9
+    31         34
+    32          3
+    33          6
+    36          1
+    37         16
+    38         32
+    39         36
+    40          2
+    41         10
+    43        712
+    44         21
+    45          7
+    48          1
+    49          5
+    50         24
+    51         14
+    52          2
+    53          6
+    55          3
+    56         19
+    57        173
+    58         11
+    60          1
+    61         14
+    62         21
+    63         50
+    64         46
+    65          5
+    66          4
+    68          9
+    69         12
+    70          3
+    71          2
+    72          1
+    73         14
+    74         12
+    75         37
+    76          3
+    77          1
+    79          1
+    81         28
+    83        143
+    84        141
+    85          8
+    86          2
+    92          6
+    93          2
+    94          6
+    95         26
+    96          6
+    97          2
+   112        999
+   113         64
+   114          4
+   125          1
+   154        146
+   155         12
+   156          1

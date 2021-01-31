@@ -1,0 +1,64 @@
+##TITLE=Library Entry 71669
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.HERRMANN INSTITUT FUR STABILE ISOTOPE, LEIPZIG, GERMA
+NY
+##NAMES=HP
+##CAS NAME=Piperidine, 1-[2-(dimethoxymethyl)-2-propenyl]-
+##MOLFORM=C11H21NO2
+##CAS REGISTRY NO=54889-58-6
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27        100
+    28        240
+    29         90
+    30         80
+    31         60
+    39        130
+    40         30
+    41        390
+    42        300
+    43         50
+    44        100
+    45        110
+    47         50
+    53         40
+    54         50
+    55        420
+    56        100
+    57         40
+    58         20
+    59         40
+    68         30
+    69         90
+    70         50
+    75        160
+    82         50
+    83        100
+    84        330
+    85        350
+    96        110
+    97         50
+    98        999
+    99        120
+   113         60
+   114         50
+   115         30
+   124         40
+   128         20
+   136        210
+   137         20
+   152        160
+   153         20
+   154        170
+   168        110
+   169        130
+   184        700
+   185         70
+   198         30
+   199         10

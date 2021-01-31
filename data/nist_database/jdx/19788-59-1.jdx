@@ -1,0 +1,38 @@
+##TITLE=Library Entry 78397
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Glycolic acid, cyano-, ethyl ester, benzoate (ester)
+##MOLFORM=C12H11NO4
+##CAS REGISTRY NO=19788-59-1
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43          6
+    44        200
+    45         13
+    50         53
+    51        140
+    52          6
+    74          6
+    75          6
+    76         13
+    77        386
+    78         33
+   105        999
+   106         73
+   116         20
+   118         20
+   119         20
+   122         53
+   131         20
+   134         20
+   161        100
+   162         13
+   179         40
+   188         33

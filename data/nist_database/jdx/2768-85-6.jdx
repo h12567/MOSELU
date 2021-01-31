@@ -1,0 +1,50 @@
+##TITLE=Library Entry 82189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. OKADA INST. ORG. CHEM., ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=4(3H)-Pteridinone, 2-amino-5,6-dihydro-5-methyl-6,7-diphenyl-
+##MOLFORM=C19H17N5O
+##CAS REGISTRY NO=2768-85-6
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        130
+    28        190
+    29        160
+    31        170
+    36        130
+    39        130
+    41        290
+    42        160
+    43        480
+    44        160
+    45        110
+    51        160
+    55        270
+    57        290
+    60        220
+    69        190
+    71        140
+    73        270
+    77        440
+    83        140
+    91        210
+    97        110
+   105        999
+   118        270
+   165        210
+   178        110
+   196         80
+   227        110
+   254        400
+   256        130
+   261        100
+   262        140
+   271         80
+   316        520
+   331        700

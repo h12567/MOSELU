@@ -1,0 +1,29 @@
+##TITLE=Library Entry 88495
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Oxaspiro[4.5]dec-3-ene, 6,6-dimethyl-10-methylene-
+##MOLFORM=C12H18O
+##CAS REGISTRY NO=54345-69-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        599
+    43        150
+    53        170
+    55        250
+    69        499
+    79        370
+    81        170
+    91        150
+    93        220
+    95        170
+   107        200
+   109        250
+   111        999
+   122        999

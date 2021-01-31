@@ -1,0 +1,80 @@
+##TITLE=Library Entry 8392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Hexen-1-ol, acetate, (Z)-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=56922-75-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    26          7
+    27         81
+    28         20
+    29         63
+    30          2
+    31          6
+    37          2
+    38          8
+    39        139
+    40         21
+    41        206
+    42         49
+    43        999
+    44         35
+    45          9
+    50          9
+    51         18
+    52         11
+    53         65
+    54        102
+    55        168
+    56         64
+    57        151
+    58         25
+    59          4
+    60          1
+    61         29
+    62          2
+    63          4
+    64          1
+    65         24
+    66         10
+    67        514
+    68         31
+    69         15
+    70          9
+    71         94
+    72         38
+    73          7
+    74          1
+    77          8
+    78          2
+    79         21
+    80          4
+    81         66
+    82        376
+    83         55
+    84          4
+    85         13
+    86          8
+    87          8
+    95          1
+    97          2
+    98         10
+    99         85
+   100        238
+   101         18
+   102          1
+   109          1
+   113         20
+   114          4
+   127          3
+   142          4

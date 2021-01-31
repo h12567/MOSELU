@@ -1,0 +1,41 @@
+##TITLE=Library Entry 46901
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Diazene, (4-fluorophenyl)phenyl-
+##MOLFORM=C12H9FN2
+##CAS REGISTRY NO=1545-83-1
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    38         80
+    39        110
+    50        220
+    51        580
+    52         60
+    57         70
+    62         60
+    63        110
+    64         60
+    68         40
+    69        100
+    74         90
+    75        520
+    76         80
+    77        999
+    78         50
+    94         50
+    95        930
+    96        110
+   105        220
+   123        380
+   124         30
+   151         30
+   152         40
+   200        540
+   201        140

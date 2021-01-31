@@ -1,0 +1,60 @@
+##TITLE=Library Entry 47836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyridazin-3(2H)-one, 4-chloro-5-ethylthio-2-phenyl-
+##MOLFORM=C12H11ClN2OS
+##CAS REGISTRY NO=25381-21-9
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    38          5
+    39         21
+    40          1
+    43          2
+    44          3
+    45         48
+    46          0
+    50          7
+    51        151
+    52         26
+    57          0
+    63         16
+    64         44
+    65         17
+    69         31
+    70         11
+    77        999
+    78        267
+    79         66
+    80          1
+    81          0
+    85          0
+    91         40
+    92         10
+    93          1
+   103          2
+   104          6
+   105        301
+   106         86
+   107         18
+   119         24
+   120          1
+   133         48
+   135         15
+   147          6
+   149          9
+   237        233
+   238         67
+   239         74
+   240         10
+   265        123
+   266        638
+   267        344
+   268        166
+   269         63

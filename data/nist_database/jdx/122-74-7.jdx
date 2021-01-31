@@ -1,0 +1,43 @@
+##TITLE=Library Entry 98169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Benzenepropanol, propanoate
+##MOLFORM=C12H16O2
+##CAS REGISTRY NO=122-74-7
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=1445
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         28
+    28         19
+    29        593
+    30          7
+    31         19
+    39          7
+    41         59
+    43          7
+    57        759
+    58         19
+    65         59
+    70          7
+    77          7
+    78         71
+    79          7
+    90         19
+    91        632
+    92         99
+   103         48
+   104         19
+   105         39
+   113         19
+   115         48
+   116        419
+   117        899
+   118        999
+   119        199
+   139          7

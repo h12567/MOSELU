@@ -1,0 +1,65 @@
+##TITLE=Library Entry 59843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.M. ZOLOTAREV, INST. ORG. CHEM. N.D. ZELINSKI, MOSCOW,
+ USSR
+##NAMES=HP
+##CAS NAME=(2-Selenyl-3-benzo[b]thienylidene)-4-methylaniline
+##MOLFORM=C16H13NSSe
+##CAS REGISTRY NO=92886-20-9
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        280
+    41        180
+    51        210
+    63        160
+    65        840
+    77        180
+    78        110
+    89        400
+    90        150
+    91        999
+    92        110
+    93         50
+   101        120
+   102         70
+   118        120
+   132         90
+   133         70
+   134        230
+   135         50
+   145        290
+   146         50
+   159        840
+   160        200
+   161         70
+   221        100
+   222         50
+   223        140
+   225        230
+   227         50
+   235        120
+   236        190
+   237         90
+   238        230
+   239         70
+   240        320
+   241         50
+   242         90
+   248         70
+   249        110
+   250        650
+   251        180
+   252         60
+   327        110
+   328        110
+   329        280
+   330        140
+   331        610
+   332        110
+   333        120

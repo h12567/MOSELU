@@ -1,0 +1,40 @@
+##TITLE=Library Entry 100848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-(4-Methylbenzoyl)benzoic acid
+##MOLFORM=C15H12O3
+##CAS REGISTRY NO=35776-96-6
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39         35
+    41         30
+    43         27
+    44          1
+    65        163
+    66          4
+    83         32
+    84          3
+    91        379
+    92         28
+    93         26
+   119        999
+   120        119
+   121         58
+   149        137
+   150         15
+   165         43
+   166          6
+   167         54
+   168          7
+   195         81
+   196          9
+   240        402
+   241         66
+   242          6

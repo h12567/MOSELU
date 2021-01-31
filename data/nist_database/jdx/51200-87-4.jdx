@@ -1,0 +1,67 @@
+##TITLE=Library Entry 38844
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Oxazolidine, 4,4-dimethyl-
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=51200-87-4
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         23
+    16          2
+    25          1
+    26         14
+    27         79
+    28        144
+    29        118
+    30        284
+    31         23
+    32          1
+    33          1
+    37          9
+    38         22
+    39        183
+    40         37
+    41        179
+    42        235
+    43         78
+    44         47
+    45         29
+    46         71
+    47          1
+    49          1
+    50          5
+    51          8
+    52         13
+    53         18
+    54         50
+    55        169
+    56        436
+    57         62
+    58        584
+    59         23
+    60          1
+    67          1
+    68          4
+    69          5
+    70        356
+    71        999
+    72         76
+    73         30
+    74          1
+    83          1
+    84         14
+    85          3
+    86        422
+    87         20
+    88          1
+   100         44
+   101         28
+   102          3

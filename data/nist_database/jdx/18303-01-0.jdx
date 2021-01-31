@@ -1,0 +1,32 @@
+##TITLE=Library Entry 62507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W H. DALY
+##NAMES=HP
+##CAS NAME=Carbamic acid, (p-tolylsulfonyl)-, propyl ester
+##MOLFORM=C11H15NO4S
+##CAS REGISTRY NO=18303-01-0
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        189
+    43        540
+    44        169
+    55        223
+    56        108
+    57        284
+    65        230
+    83        108
+    91        999
+    92        121
+    97        108
+   107         95
+   108        440
+   155        764
+   193        284
+   197        298
+   242        108

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 79603
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Am Soc Mass Spectrom 2008, 19, 1114-1118
+##NAMES=HP
+##CAS NAME=Benzamide, N-(2'-iodophenyl)-
+##MOLFORM=C13H10INO
+##CAS REGISTRY NO=15310-02-8
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         35
+    38         63
+    39         91
+    40         15
+    41         25
+    49         15
+    50        144
+    51        342
+    52         73
+    53         15
+    61         15
+    62         45
+    63        134
+    64        134
+    65         63
+    73         15
+    74         45
+    75         35
+    76         73
+    77        829
+    78         63
+    88         15
+    89         15
+    90         35
+    91        164
+    92         25
+    93         15
+   103         15
+   104         15
+   105        999
+   106         83
+   107         15
+   115         15
+   127         25
+   128         15
+   139         15
+   140         15
+   166         15
+   167         35
+   168         15
+   191         15
+   195         25
+   196        829
+   197        134
+   198         15
+   218         35
+   323         55
+   324         15

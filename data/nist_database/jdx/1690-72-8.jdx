@@ -1,0 +1,77 @@
+##TITLE=Library Entry 12339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Nipecotic acid, 1-methyl-, methyl ester
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=1690-72-8
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=1149
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          6
+    27         57
+    28         46
+    29         49
+    30         27
+    38          7
+    39        105
+    40         24
+    41        150
+    42        636
+    43        999
+    44        217
+    45         38
+    47          9
+    52         12
+    53         80
+    54         69
+    55        251
+    56         96
+    57        120
+    58        281
+    59         61
+    65         17
+    66         13
+    67         45
+    68        110
+    69         35
+    70        832
+    71        422
+    72         25
+    80         38
+    81         63
+    82        149
+    83         50
+    84        100
+    85         14
+    87         69
+    88          8
+    94         64
+    96        288
+    97        210
+    98        607
+    99         51
+   100          7
+   110         22
+   113         37
+   114        103
+   115         12
+   124        113
+   125          8
+   126        321
+   127         31
+   128        107
+   129         65
+   140          5
+   142        960
+   143         82
+   144          7
+   156        470
+   157        531
+   158         48
+   159          3

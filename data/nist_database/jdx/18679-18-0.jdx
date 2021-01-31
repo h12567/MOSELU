@@ -1,0 +1,41 @@
+##TITLE=Library Entry 54553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, V. 6, B. H. KENNETT
+ ET AL, DIV. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=2(3H)-Furanone, dihydro-5-(2-octenyl)-, (Z)-
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=18679-18-0
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1661
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27         62
+    29        266
+    39         47
+    41         99
+    42          7
+    43          6
+    53         21
+    54         48
+    55         59
+    56          4
+    57         39
+    67         33
+    68         13
+    69         29
+    79         17
+    80         22
+    81         31
+    82         13
+    85        999
+    86         31
+    93         13
+    95         12
+    96         69
+   136         19
+   196         24

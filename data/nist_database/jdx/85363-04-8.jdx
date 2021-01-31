@@ -1,0 +1,48 @@
+##TITLE=Library Entry 25008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Carbamic acid, (cyanomethyl)-, 1,1-dimethylethyl ester
+##MOLFORM=C7H12N2O2
+##CAS REGISTRY NO=85363-04-8
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         70
+    28         73
+    29        199
+    30         20
+    31         44
+    37          2
+    38          7
+    39         92
+    40         69
+    41        415
+    42         17
+    43         95
+    44         29
+    45          6
+    50          4
+    51          5
+    53         15
+    54          6
+    55         40
+    56        277
+    57        999
+    58         35
+    59        925
+    60         24
+    73          4
+    74          8
+    82          2
+    83         13
+    97         15
+   101         24
+   112         11
+   141         12

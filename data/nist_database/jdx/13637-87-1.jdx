@@ -1,0 +1,29 @@
+##TITLE=Library Entry 18309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Chlorodifluoroamine
+##MOLFORM=ClF2N
+##CAS REGISTRY NO=13637-87-1
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    14        108
+    19         70
+    33        488
+    34          3
+    35        126
+    37         36
+    49        371
+    51        118
+    52        999
+    53          5
+    68        370
+    70        121
+    87        506
+    89        161

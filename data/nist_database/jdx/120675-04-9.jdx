@@ -1,0 +1,36 @@
+##TITLE=Library Entry 50245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-(Phenylsulfonyamino)-5-methyl-4,5,6,7(1H)-tetrahydrobenzo(d)tri
+azole
+##MOLFORM=C13H16N4O2S
+##CAS REGISTRY NO=120675-04-9
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    77        439
+    81        999
+    93         98
+    94         70
+    95        228
+    96         40
+   106          1
+   109          8
+   122          9
+   123        437
+   125         60
+   126        100
+   137         15
+   141         20
+   151          8
+   157         10
+   199          3
+   284          3
+   292          4
+   293          0

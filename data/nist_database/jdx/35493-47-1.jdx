@@ -1,0 +1,30 @@
+##TITLE=Library Entry 71476
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(8)2823(1978); T. YATSUNAMI AND S. IWASAKI
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 2-tetradecyl-
+##MOLFORM=C18H34O
+##CAS REGISTRY NO=35493-47-1
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    55        350
+    69        200
+    84        300
+    98        999
+   112        360
+   124         50
+   138         10
+   152         10
+   166         10
+   180         10
+   194         20
+   222         30
+   238         50
+   248         30
+   266         40

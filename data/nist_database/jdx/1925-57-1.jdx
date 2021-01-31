@@ -1,0 +1,51 @@
+##TITLE=Library Entry 52467
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Kaiser ET AL.J.Mass.Spectrom.,32,336(1997)
+##NAMES=HP
+##CAS NAME=Endo-3-chlorocamphor
+##MOLFORM=C10H15ClO
+##CAS REGISTRY NO=1925-57-1
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    51         14
+    53         73
+    54         14
+    55        501
+    56         10
+    57         10
+    65         31
+    67        171
+    68         73
+    69        301
+    77         70
+    79         59
+    81        122
+    82         43
+    83        999
+    84         63
+    91         56
+    93         59
+    95         91
+   103         17
+   107         52
+   108         24
+   109         17
+   110         14
+   122        413
+   123        294
+   124         35
+   130          7
+   132         10
+   143        115
+   145         45
+   151        154
+   152         10
+   186        178
+   187         10
+   188         52

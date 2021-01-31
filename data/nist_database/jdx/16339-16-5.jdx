@@ -1,0 +1,69 @@
+##TITLE=Library Entry 4877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Ethanamine, 2-chloro-N-methyl-N-nitroso-
+##MOLFORM=C3H7ClN2O
+##CAS REGISTRY NO=16339-16-5
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    30        198
+    31          5
+    32         22
+    35         17
+    36         56
+    37          5
+    38         22
+    39         17
+    40         39
+    41         96
+    42        999
+    43        721
+    44         79
+    45          5
+    47          5
+    48         11
+    49        113
+    50          5
+    51         39
+    52         17
+    53          5
+    54         28
+    55         39
+    56        113
+    57        136
+    58         11
+    59         22
+    60         11
+    61         17
+    62         17
+    63         85
+    64         11
+    65         22
+    71          5
+    72          5
+    73        766
+    74         28
+    75          5
+    76          5
+    77          5
+    79          5
+    86          5
+    87        272
+    88         17
+    90         17
+    91         11
+    92         11
+    93          5
+   116          5
+   122        289
+   123         17
+   124         96
+   125          5

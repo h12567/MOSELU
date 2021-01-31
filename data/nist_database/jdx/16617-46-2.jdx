@@ -1,0 +1,62 @@
+##TITLE=Library Entry 84696
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Amino-4-pyrazolecarbonitrile
+##MOLFORM=C4H4N4
+##CAS REGISTRY NO=16617-46-2
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          2
+    16          3
+    17          6
+    18          1
+    24          3
+    25          7
+    26         13
+    27         35
+    28        199
+    29         61
+    30          9
+    31          3
+    36          3
+    37          8
+    38         66
+    39         60
+    40         21
+    41          9
+    42         28
+    43        126
+    44          3
+    50         14
+    51         87
+    52        233
+    53        241
+    54        119
+    55          5
+    56          4
+    57         15
+    63          3
+    64         23
+    65         21
+    66         37
+    67         17
+    68          2
+    76          5
+    77         43
+    78         16
+    79         80
+    80         11
+    81         26
+    91          4
+    92          2
+   107          6
+   108        999
+   109         59

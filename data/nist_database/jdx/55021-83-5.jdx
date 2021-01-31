@@ -1,0 +1,29 @@
+##TITLE=Library Entry 29178
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(9)861(1974); BUDZIKIEWICZ
+##NAMES=HP
+##CAS NAME=Ethanamine, N,N-dimethyl-2-(methylseleno)-
+##MOLFORM=C5H13NSe
+##CAS REGISTRY NO=55021-83-5
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    30         30
+    41         30
+    42        100
+    43         20
+    44         50
+    58        999
+    70         20
+    71         30
+    72         50
+    92         10
+    94         30
+   108         10
+   123         20
+   167        240

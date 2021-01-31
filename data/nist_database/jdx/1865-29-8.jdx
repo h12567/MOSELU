@@ -1,0 +1,22 @@
+##TITLE=Library Entry 76662
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2-phenyl-prop-2-enoate
+##MOLFORM=C10H10O2
+##CAS REGISTRY NO=1865-29-8
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    50         61
+    51        160
+    77        300
+   103        999
+   131        200
+   132         50
+   162        557

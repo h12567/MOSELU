@@ -1,0 +1,52 @@
+##TITLE=Library Entry 32930
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 120, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-hexenyl ester, (E)-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=53398-84-8
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1185
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        290
+    29        130
+    31         20
+    37         10
+    38         10
+    39        250
+    40         40
+    41        480
+    42         90
+    43        800
+    45         10
+    50         10
+    51         20
+    52         10
+    53         70
+    54        100
+    55        200
+    56         10
+    60         10
+    65         30
+    66         20
+    67        999
+    68         70
+    69         30
+    70         20
+    71        750
+    72         50
+    77         10
+    79         20
+    80         10
+    81         70
+    82        910
+    83         80
+    89         10
+   101         10

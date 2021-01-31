@@ -1,0 +1,30 @@
+##TITLE=Library Entry 22070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 3,3-dimethyl-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=1192-33-2
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        172
+    40         63
+    41        661
+    42         86
+    43        201
+    44         29
+    55        224
+    56        999
+    57         80
+    70        253
+    71         29
+    83         52
+    84         14
+    98         72
+    99         23

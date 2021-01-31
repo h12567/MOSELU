@@ -1,0 +1,44 @@
+##TITLE=Library Entry 5090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(12)1111(1975); H. ACHENBACH
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane, 4-ethyl-
+##MOLFORM=C9H17N
+##CAS REGISTRY NO=45732-65-8
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39        156
+    41        382
+    42        999
+    43        222
+    44         69
+    45         80
+    51         28
+    53        110
+    54         73
+    55        205
+    56        110
+    57        132
+    58         35
+    67        104
+    68         73
+    69        246
+    70         87
+    79         35
+    81         49
+    82        125
+    83         40
+    96        225
+    97         40
+   110        999
+   111        243
+   124        142
+   138         38
+   139        208
+   140         20

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 555
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=(R*,S*)-5-Hydroxy-4-methyl-3-heptanone
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=71699-35-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26        119
+    27        516
+    29        999
+    30         38
+    31         52
+    36          6
+    37         13
+    38         21
+    39         50
+    40         10
+    41         76
+    42         51
+    43         50
+    44         14
+    45         31
+    50          8
+    51         13
+    52          8
+    53         32
+    54          9
+    55         52
+    56         39
+    57        945
+    58        180
+    59         49
+    67          6
+    68          3
+    69         28
+    70         46
+    71         12
+    75          6
+    85         11
+    86        180
+    87         11
+    96          2
+    97         25
+    98          2
+   115         15
+   126         21
+   127          3
+   129          3

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 4435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclobutane, methyl-
+##MOLFORM=C5H10
+##CAS REGISTRY NO=598-61-8
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=537
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    15         25
+    25          4
+    26         50
+    27        178
+    28          4
+    29         53
+    30          2
+    31          3
+    37         19
+    38         46
+    39        270
+    40         99
+    41        422
+    42        999
+    43         44
+    49          4
+    50         16
+    51         21
+    52          6
+    53         28
+    54          4
+    55        267
+    56         14
+    61          4
+    62          5
+    63          4
+    65          3
+    67          7
+    68          2
+    70        131
+    71          9

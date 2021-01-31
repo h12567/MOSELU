@@ -1,0 +1,49 @@
+##TITLE=Library Entry 81789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzo[a]cyclopropa[cd]pentalene-2a(2H)-carboxylic acid, 1,2b,6b,6
+c-tetrahydro-1,2-dihydroxy-1,6c-diphenyl-, methyl ester, (1.alpha.,2.alpha.,
+2a.alpha.,2b.alpha.,6b.alpha.,6c.alpha.)-
+##MOLFORM=C26H22O4
+##CAS REGISTRY NO=40897-28-7
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+   105        999
+   127         40
+   136        360
+   165         40
+   178         40
+   189         60
+   191         90
+   192         50
+   201         30
+   202        180
+   203        140
+   204         60
+   214         40
+   215        619
+   231        539
+   232        110
+   233         80
+   243         30
+   261         60
+   262         60
+   263        240
+   264         50
+   275         40
+   277         40
+   289         30
+   296         40
+   321         40
+   348         30
+   364         70
+   380         80
+   381         30
+   398          6

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 93742
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1,4,4-Tetrachloro-1,4-disilacyclo-2,5-hexadiene
+##MOLFORM=C4H4Cl4Si2
+##CAS REGISTRY NO=33432-30-3
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    52         40
+    63        200
+    64         20
+    65         70
+    66         10
+    89         50
+    90         10
+    91         20
+    98         50
+   100         30
+   115        999
+   116        100
+   117        350
+   118         30
+   123         90
+   125         60
+   127         10
+   133         10
+   135         10
+   150        120
+   151         20
+   152         80
+   153         10
+   154         20
+   161         10
+   163         10
+   187         30
+   189         30
+   191         10
+   196         30
+   198         40
+   200         20
+   213         30
+   215         30
+   217         10
+   222         50
+   223         10
+   224         80
+   225         10
+   226         30
+   248        130
+   249         20
+   250        170
+   251         30
+   252         90
+   253         10
+   254         30

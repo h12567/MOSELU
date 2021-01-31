@@ -1,0 +1,57 @@
+##TITLE=Library Entry 56913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=2,5-Dimethoxy-4-bromoamphetamine, N-acetyl
+##MOLFORM=C13H18BrNO3
+##CAS REGISTRY NO=42203-75-8
+##MP= -300
+##BP= -300
+##MW= 315
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    51         90
+    53        106
+    63         65
+    65         67
+    77        239
+    78         56
+    79         61
+    86        999
+    91        135
+    92         67
+   105        136
+   119         36
+   120         38
+   122         35
+   135         29
+   145         35
+   147         54
+   150         32
+   161         27
+   162        265
+   163         47
+   171         29
+   177         19
+   178         18
+   188         18
+   199         67
+   201         71
+   215         35
+   217         38
+   229         74
+   230         62
+   231         67
+   232         58
+   241         40
+   242         15
+   243         36
+   256        805
+   258        805
+   259        121
+   283          1
+   315         63
+   317         55

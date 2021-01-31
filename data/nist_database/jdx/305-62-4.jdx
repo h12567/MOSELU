@@ -1,0 +1,76 @@
+##TITLE=Library Entry 970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3953
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2,4-diamino-
+##MOLFORM=C4H10N2O2
+##CAS REGISTRY NO=305-62-4
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          3
+    14         19
+    15         76
+    16         23
+    17         91
+    18        213
+    25          5
+    26         38
+    27        116
+    28        548
+    29        238
+    30        999
+    31         19
+    32          1
+    39         34
+    40         38
+    41        178
+    42        318
+    43        718
+    44        579
+    45        118
+    46         24
+    50          1
+    51         10
+    52         21
+    53         13
+    54         63
+    55        118
+    56        636
+    57        213
+    58         11
+    59          1
+    66          3
+    67         11
+    68          6
+    69         11
+    70         19
+    71        398
+    72        301
+    73         56
+    74         21
+    75         18
+    79          1
+    80          3
+    81          5
+    82         21
+    83        119
+    84         23
+    85         13
+    88          3
+    89         11
+    94          3
+    95          3
+    96          3
+    97          5
+    98         10
+    99         16
+   100        551
+   101        118
+   102          6

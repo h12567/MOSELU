@@ -1,0 +1,50 @@
+##TITLE=Library Entry 58753
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2-[ethoxy(methoxy)amino]-2-methylpropanoate  #
+##MOLFORM=C8H17NO4
+##CAS REGISTRY NO=79055-32-6
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    29        105
+    30        238
+    31         48
+    41         32
+    42         23
+    43         23
+    44         24
+    45         56
+    56        929
+    57         55
+    58         40
+    59        283
+    62        315
+    69        169
+    70         96
+    71         41
+    73        355
+    74         81
+    87        106
+    88        130
+    90        999
+    91         24
+   101        260
+   102        542
+   103         33
+   104         33
+   116          8
+   130        202
+   132        493
+   133         15
+   145         16
+   160         41
+   162        120
+   176          8
+   191         40

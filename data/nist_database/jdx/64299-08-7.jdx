@@ -1,0 +1,31 @@
+##TITLE=Library Entry 29429
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (10) 1204(1977); R. H. THOMSON ET AL
+##NAMES=HP
+##CAS NAME=1H-Indole-3-methanamine, 5,7-dibromo-N,N-diethyl-
+##MOLFORM=C13H16Br2N2
+##CAS REGISTRY NO=64299-08-7
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    58        999
+    72        500
+   127         90
+   128        130
+   207         60
+   208         40
+   209         60
+   286        350
+   288        700
+   290        350
+   343         10
+   345         20
+   347         10
+   358         40
+   360         80
+   362         40

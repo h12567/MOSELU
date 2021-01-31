@@ -1,0 +1,89 @@
+##TITLE=Library Entry 25416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Isooctyl mercaptoacetate
+##MOLFORM=C10H20O2S
+##CAS REGISTRY NO=25103-09-7
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         11
+    27        131
+    28         37
+    29        211
+    30          5
+    31         16
+    32          1
+    33          6
+    39        117
+    41        570
+    42        167
+    43        624
+    44         32
+    45         65
+    46         64
+    47        336
+    48         10
+    49         14
+    51          8
+    52          4
+    53         36
+    54          4
+    55        433
+    56        235
+    57        999
+    58         44
+    59          5
+    60          5
+    61          6
+    63          3
+    65          5
+    67         34
+    68         40
+    69        429
+    70        167
+    71        778
+    72         41
+    73          8
+    74         37
+    75        111
+    76          5
+    77         12
+    79          4
+    81          9
+    83        113
+    84        258
+    85         60
+    86          3
+    87         23
+    88          3
+    89         20
+    92         54
+    93         70
+    94          6
+    95         10
+    96          3
+    97         46
+    98          3
+   101          6
+   105          9
+   110          2
+   112        175
+   113        107
+   114          8
+   115          8
+   119          5
+   127          6
+   133          3
+   145         14
+   147         12
+   157          9
+   161          3
+   204          2

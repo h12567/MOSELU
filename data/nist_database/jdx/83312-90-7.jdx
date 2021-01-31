@@ -1,0 +1,77 @@
+##TITLE=Library Entry 18725
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=1-Heptene, 7-chloro-6-methylene-
+##MOLFORM=C8H13Cl
+##CAS REGISTRY NO=83312-90-7
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    36          7
+    37          4
+    38         21
+    39        440
+    40         95
+    41        398
+    42         27
+    43         14
+    49         22
+    50         16
+    51         61
+    52         30
+    53        232
+    54        999
+    55        443
+    56         30
+    57          4
+    61          4
+    62          7
+    63         21
+    64          5
+    65         85
+    66         36
+    67        616
+    68         79
+    69         12
+    73          3
+    74          3
+    75         39
+    76          4
+    77         88
+    78         23
+    79        158
+    80         59
+    81         94
+    82         24
+    88         23
+    89         12
+    90         16
+    91         58
+    92          9
+    93        146
+    94         13
+    95        489
+    96         37
+    97          1
+   101          3
+   102        120
+   103         15
+   104         37
+   105          7
+   107          9
+   108         42
+   109         77
+   110          7
+   115          9
+   116         43
+   117          5
+   118         13
+   129          5
+   131          1
+   144          1

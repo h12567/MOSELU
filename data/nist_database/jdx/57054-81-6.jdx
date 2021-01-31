@@ -1,0 +1,44 @@
+##TITLE=Library Entry 16496
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PJCHDG, 52( )283(1978); L. STREKOWSKI
+##NAMES=HP
+##CAS NAME=4-Pyrimidinamine, 5-bromo-2-methoxy-N,N-dimethyl-
+##MOLFORM=C7H10BrN3O
+##CAS REGISTRY NO=57054-81-6
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28        130
+    41         50
+    42        410
+    43        120
+    44        999
+    52         70
+    53         50
+    66         60
+    67         80
+    80         50
+    81         90
+    94         50
+    95         70
+   109         50
+   122         70
+   173        140
+   175        140
+   187         90
+   188         50
+   189        120
+   202        690
+   203         70
+   204        670
+   205         50
+   216        220
+   218        200
+   231        400
+   232         60
+   233        390

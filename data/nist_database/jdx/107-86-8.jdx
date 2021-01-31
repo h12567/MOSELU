@@ -1,0 +1,42 @@
+##TITLE=Library Entry 53751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Butenal, 3-methyl-
+##MOLFORM=C5H8O
+##CAS REGISTRY NO=107-86-8
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=782
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        325
+    28        153
+    29        380
+    37         44
+    38         84
+    39        500
+    40         86
+    41        573
+    42         39
+    43         68
+    44         56
+    49         30
+    50         79
+    51         81
+    52         25
+    53        143
+    54         36
+    55        765
+    56         86
+    57         30
+    59         27
+    65         25
+    69         75
+    83        532
+    84        999
+    85         66

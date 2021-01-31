@@ -1,0 +1,45 @@
+##TITLE=Library Entry 12319
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=4(1H)-Pyrimidinone, 2-amino-6-hydroxy-5-methyl-
+##MOLFORM=C5H7N3O2
+##CAS REGISTRY NO=6627-65-2
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         79
+    42        276
+    43        999
+    44        204
+    45         28
+    51         38
+    52         83
+    53        170
+    54        100
+    55        282
+    56         93
+    58         18
+    64          4
+    68         25
+    69        186
+    70         90
+    71        214
+    72         75
+    80         48
+    82         31
+    83        118
+    84         77
+    86        303
+    98        122
+   112        261
+   113        397
+   114         18
+   140        143
+   141        933
+   142         75

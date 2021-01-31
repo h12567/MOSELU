@@ -1,0 +1,68 @@
+##TITLE=Library Entry 2655
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Octyn-1-ol
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=20739-58-6
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         32
+    18         14
+    26         71
+    27        525
+    28        174
+    29        700
+    30         28
+    31        120
+    32         12
+    37         25
+    38         99
+    39        764
+    40        215
+    41        999
+    42        335
+    43        266
+    44         38
+    50         87
+    51        174
+    52        236
+    53        268
+    54        121
+    55        875
+    56        165
+    57        168
+    58         19
+    59         17
+    62         22
+    63         44
+    65        104
+    66         89
+    67        558
+    68        150
+    69        335
+    70        487
+    71         59
+    77        141
+    78         32
+    79        273
+    80         68
+    81        126
+    82         99
+    83        337
+    84         57
+    91         91
+    93        330
+    94         44
+    95        335
+    96         32
+    97         80
+   107         16
+   111         54

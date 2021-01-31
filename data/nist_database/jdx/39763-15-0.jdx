@@ -1,0 +1,32 @@
+##TITLE=Library Entry 39800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexene, 4,4,5-trifluoro-
+##MOLFORM=C6H7F3
+##CAS REGISTRY NO=39763-15-0
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    50         36
+    51         70
+    53         43
+    54        470
+    57         54
+    59         90
+    64         69
+    72        999
+    73         48
+    77        105
+    90        420
+    95         66
+    96         39
+    97         46
+   115          7
+   116         70
+   136        360

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 74435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 2-O-acetyl-3,4,6,7-tetra-O-methyl-.beta.-glycero-D-glucohe
+ptopyranoside
+##MOLFORM=C14H26O8
+##CAS REGISTRY NO=84564-18-1
+##MP= -300
+##BP= -300
+##MW= 322
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    43        390
+    45        278
+    57         55
+    59        120
+    69         44
+    71         78
+    73         92
+    74        260
+    75        818
+    76         37
+    81         22
+    83         26
+    85         83
+    87        120
+    88        464
+    89        185
+    95         14
+    97         29
+    99         46
+   101        999
+   102         68
+   103         26
+   111         40
+   113         33
+   114         29
+   115        111
+   116         78
+   117        100
+   119         29
+   125         20
+   127         40
+   129         78
+   131         20
+   133         20
+   139         26
+   141         27
+   142         16
+   143         40
+   145         42
+   146          5
+   147          5
+   153         20
+   157         37
+   159         39
+   161         26
+   167          5
+   169          9
+   171         37
+   173         18
+   175         13
+   185         18
+   193         27
+   199         13
+   201          7
+   203         13
+   204         27
+   213         14
+   221          9
+   233         37
+   245          4
+   249          1
+   259          2
+   277          4
+   287          1
+   291          0

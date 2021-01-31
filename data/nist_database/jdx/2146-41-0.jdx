@@ -1,0 +1,44 @@
+##TITLE=Library Entry 67987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane, 2-ethyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=2146-41-0
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=918
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         24
+    29         12
+    39         74
+    40          3
+    41        150
+    42          5
+    53         38
+    54         63
+    55        137
+    56          3
+    65         15
+    66         48
+    67        428
+    68        176
+    69         35
+    70         26
+    77         14
+    78          3
+    79         24
+    81        111
+    82        140
+    83         26
+    93          3
+    94          0
+    95        999
+    96        170
+   109         20
+   124         51

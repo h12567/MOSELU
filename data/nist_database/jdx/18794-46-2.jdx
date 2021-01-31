@@ -1,0 +1,30 @@
+##TITLE=Library Entry 109226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.BAUER UNIV. OF ILLINOIS, CHICAGO, ILLINOIS, USA
+##NAMES=HP
+##CAS NAME=3-Picoline, 6-(tert-butylthio)-
+##MOLFORM=C10H15NS
+##CAS REGISTRY NO=18794-46-2
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29         60
+    39         90
+    41         90
+    53         60
+    57        110
+    65         60
+    80         70
+    81        300
+    92         50
+    97         50
+   125        999
+   126        110
+   127         50
+   181         80
+   182         10

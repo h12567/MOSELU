@@ -1,0 +1,73 @@
+##TITLE=Library Entry 31452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FDA, Los Angeles District Laboratory
+##NAMES=HP
+##CAS NAME=2-Chloroethyl caprate
+##MOLFORM=C12H23ClO2
+##CAS REGISTRY NO=15175-04-9
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=1596
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41        559
+    42        200
+    43        789
+    44         50
+    45         35
+    53         30
+    54         45
+    55        509
+    56        130
+    57        355
+    58         25
+    60        130
+    61         70
+    62        999
+    63        659
+    64        350
+    65        205
+    67         55
+    68         45
+    69        240
+    70         65
+    71        230
+    73        165
+    81         50
+    82         25
+    83        105
+    84        120
+    85         90
+    86        280
+    87        190
+    95         45
+    97         80
+    98         75
+    99         20
+   101         25
+   107         20
+   110         25
+   111         30
+   112         25
+   121         20
+   122        694
+   123         95
+   124        205
+   125         40
+   135        614
+   136         40
+   137        195
+   149         60
+   151         25
+   153         30
+   155        420
+   156         65
+   177         50
+   191        175
+   192         20
+   193         55
+   205         30
+   234         30

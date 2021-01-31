@@ -1,0 +1,63 @@
+##TITLE=Library Entry 97340
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans-1-Phenyl-1-pentene
+##MOLFORM=C11H14
+##CAS REGISTRY NO=16002-93-0
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1205
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         55
+    28         36
+    29         27
+    32          7
+    38         11
+    39         94
+    40         11
+    41         26
+    50         37
+    51         89
+    52         18
+    53         13
+    58          7
+    62         20
+    63         65
+    64         21
+    65         81
+    66          6
+    67         10
+    68         25
+    74         16
+    75         21
+    76         26
+    77         79
+    78         62
+    79          8
+    86          6
+    87          8
+    89         52
+    91        303
+    92         27
+   102         35
+   103         53
+   104        333
+   105         37
+   113          5
+   115        510
+   116        140
+   117        999
+   118        101
+   127         18
+   128         44
+   129         34
+   130         10
+   131         28
+   146        331
+   147         44

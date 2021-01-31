@@ -1,0 +1,58 @@
+##TITLE=Library Entry 12177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MALMBERG, DEP. CHEM., UNIV. AGRIC. SCI., UPPSALA, SW
+EDEN
+##NAMES=HP
+##CAS NAME=2-(1',2'-Dihydroxy-1'-methylethyl)-6,10-dimethylspiro[4,5]dec-6-e
+n-8-one
+##MOLFORM=C15H24O3
+##CAS REGISTRY NO=94444-27-6
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    30        260
+    31        150
+    39        180
+    41        390
+    43        999
+    45        120
+    53        100
+    55        160
+    57        240
+    67        140
+    69        180
+    71        110
+    75        430
+    77        160
+    79        200
+    81        150
+    91        220
+    93        210
+    95        100
+   105        150
+   107        270
+   108        100
+   109        110
+   119        140
+   121        140
+   133        170
+   135        140
+   137        690
+   159        140
+   161        280
+   175        140
+   192        100
+   203        260
+   221        320
+   222         50
+   234         80
+   235         20
+   237         40
+   238         10
+   252         40
+   253         20

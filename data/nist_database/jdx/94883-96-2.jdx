@@ -1,0 +1,23 @@
+##TITLE=Library Entry 54876
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(1-Methoxy-pentyl)-cyclopropane
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=94883-96-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    41         58
+    45         39
+    53         39
+    55        129
+    69         40
+    71         59
+    85        999
+    86        120

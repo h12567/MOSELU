@@ -1,0 +1,77 @@
+##TITLE=Library Entry 1808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,2,5-Oxadiazol-3-amine, N-methyl-4-nitro-, 2-oxide
+##MOLFORM=C3H4N4O4
+##CAS REGISTRY NO=337311-85-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    33         21
+    34          6
+    37        105
+    38        230
+    39        999
+    40        231
+    41         62
+    42         30
+    43         92
+    44         56
+    46         87
+    48          4
+    50         16
+    51         80
+    52         82
+    53         18
+    54          4
+    55         20
+    56          8
+    57         36
+    58          4
+    60         19
+    64         11
+    67         18
+    69        862
+    70         37
+    71         19
+    76          8
+    77         16
+    79          3
+    83         11
+    84          4
+    85          8
+    91          6
+    93          2
+    95          5
+    96          2
+    97         16
+    99        366
+   101          4
+   103          1
+   104          3
+   105         14
+   106          1
+   109          3
+   111          3
+   113          5
+   115        303
+   116         14
+   123          4
+   125          2
+   126          2
+   127          2
+   129          2
+   132          5
+   135          1
+   137          1
+   140          2
+   143          3
+   145        345
+   146         12
+   149          6

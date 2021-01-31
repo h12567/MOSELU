@@ -1,0 +1,60 @@
+##TITLE=Library Entry 76141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hydrazinecarbothioamide, 2-butylidene-
+##MOLFORM=C5H11N3S
+##CAS REGISTRY NO=20812-04-8
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    37         10
+    38         10
+    39         90
+    40         10
+    41        240
+    42        100
+    43        700
+    44         50
+    47         10
+    48         30
+    52         10
+    53         10
+    54         30
+    55         30
+    56         30
+    57        160
+    58        150
+    59         30
+    60        360
+    61         10
+    62         10
+    68         20
+    69         10
+    70         80
+    71        110
+    74         10
+    75         50
+    76         70
+    77         10
+    83         10
+    85         10
+    86         10
+    88         10
+    96         10
+   102        999
+   103         60
+   104         50
+   111         10
+   112         10
+   113         10
+   144         10
+   145        890
+   146         70
+   147         30

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 73236
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-(2-Morpholinoethyl)benzamide
+##MOLFORM=C13H18N2O2
+##CAS REGISTRY NO=4476-13-5
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         11
+    38         27
+    39         58
+    41        304
+    42        606
+    43        121
+    44         75
+    45         24
+    50        222
+    51        370
+    52         36
+    53         15
+    54         82
+    55         92
+    56        318
+    57         46
+    58         13
+    62          7
+    63         10
+    64          5
+    65          5
+    68         25
+    69         28
+    70        117
+    71         22
+    72         37
+    74         64
+    75         36
+    77        807
+    78         58
+    79         18
+    82          9
+    83         12
+    84          8
+    85          8
+    86          7
+    88         12
+    90          3
+    91          9
+    98         39
+   100        999
+   101         48
+   102          5
+   105        449
+   106         22
+   113        146
+   114          9
+   148          7

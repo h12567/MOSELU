@@ -1,0 +1,50 @@
+##TITLE=Library Entry 60741
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.Koruna ET AL.Biomed.Mass Spectr.,11,121(1984)
+##NAMES=HP
+##CAS NAME=Benzofenac methyl ester
+##MOLFORM=C16H15ClO3
+##CAS REGISTRY NO=63007-66-9
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    91        999
+    93         85
+   105          3
+   111          1
+   112          6
+   114          2
+   115          1
+   124          1
+   126          1
+   139          1
+   140          4
+   141          3
+   142          1
+   143          1
+   152          1
+   153          1
+   155          3
+   157          2
+   165          2
+   166          1
+   167          2
+   182          2
+   195          1
+   196          3
+   197          1
+   200          1
+   201          1
+   202          1
+   231         11
+   232          1
+   233          3
+   290         47
+   291          9
+   292         17
+   293          3

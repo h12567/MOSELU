@@ -1,0 +1,38 @@
+##TITLE=Library Entry 96756
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Quinoline, 3-methoxy-
+##MOLFORM=C10H9NO
+##CAS REGISTRY NO=6931-17-5
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    50         72
+    51         64
+    61         20
+    62        104
+    63        204
+    64         40
+    74         40
+    75         52
+    76         24
+    77         12
+    86         16
+    87         40
+    88         48
+    89        340
+    90         40
+   101         32
+   115         32
+   116        999
+   117        100
+   128         28
+   129          8
+   159        867
+   160         88

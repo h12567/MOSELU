@@ -1,0 +1,60 @@
+##TITLE=Library Entry 8154
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-4-bromoethynyl-tetrahydropyran-4-ole
+##MOLFORM=C9H13BrO2
+##CAS REGISTRY NO=42414-47-1
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         40
+    28         64
+    29         60
+    31         31
+    39        253
+    41        316
+    43        999
+    50         67
+    51        109
+    52         37
+    53        121
+    55        148
+    56        253
+    57        109
+    58        153
+    59        666
+    65         65
+    66         35
+    67        185
+    71         31
+    73         45
+    77         77
+    78        102
+    81         31
+    89         28
+    94         33
+    95         75
+   120         21
+   131        143
+   133        128
+   145         18
+   146         47
+   147         23
+   148         43
+   157         79
+   159        189
+   161        111
+   172         43
+   174         60
+   176         16
+   217        114
+   219        111
+   232          5
+   234          5

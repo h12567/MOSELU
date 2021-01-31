@@ -1,0 +1,78 @@
+##TITLE=Library Entry 7969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=CH3C(O)OCH(CH2CH3)C(CH3)3
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=39511-81-4
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=970
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          7
+    17          1
+    26          2
+    27         28
+    28          7
+    29         59
+    30          2
+    31          9
+    38          2
+    39         51
+    40          7
+    41        162
+    42         25
+    43        999
+    44         24
+    45         28
+    50          1
+    51          4
+    52          1
+    53         14
+    54          3
+    55         93
+    56         42
+    57        445
+    58         27
+    59         52
+    60          4
+    61         43
+    62          2
+    63          1
+    65          4
+    66          1
+    67          8
+    68          2
+    69         44
+    70         16
+    71          6
+    72          3
+    73          9
+    74          1
+    77          1
+    79          2
+    81          2
+    83        125
+    84         10
+    85          9
+    86          1
+    87        102
+    88          7
+    97          1
+    98         35
+    99          6
+   100         89
+   101        316
+   102         31
+   103         85
+   104          5
+   115         11
+   116          1
+   129         19
+   130          2
+   143          2

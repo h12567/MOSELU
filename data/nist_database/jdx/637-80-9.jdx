@@ -1,0 +1,43 @@
+##TITLE=Library Entry 16724
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 12827-9
+##NAMES=HP
+##CAS NAME=Acetic acid, hydrazino-, ethyl ester
+##MOLFORM=C4H10N2O2
+##CAS REGISTRY NO=637-80-9
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         28
+    16          6
+    17         26
+    18        166
+    19          8
+    26         12
+    27         67
+    28        147
+    29        161
+    30         29
+    31         43
+    32         31
+    35         41
+    36        379
+    37         16
+    38        122
+    42         41
+    43         65
+    44         85
+    45        999
+    46         34
+    60         23
+    61          3
+    71         11
+    75          7
+   118        149
+   119         11

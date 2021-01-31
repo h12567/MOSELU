@@ -1,0 +1,53 @@
+##TITLE=Library Entry 20812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Nonanol
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=5932-79-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1088
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15         14
+    26         16
+    27        201
+    28         17
+    29        201
+    30         10
+    31         84
+    39        139
+    40         33
+    41        346
+    42         88
+    43        300
+    44        108
+    45         43
+    51         10
+    53         41
+    55        999
+    56        118
+    57        108
+    58         24
+    59         14
+    67         34
+    69         65
+    70         62
+    71         45
+    72         65
+    73        474
+    74         21
+    81          7
+    83        482
+    84         53
+    97         28
+    98          9
+    99         12
+   100         22
+   101        177
+   102         10
+   126         64

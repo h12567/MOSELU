@@ -1,0 +1,48 @@
+##TITLE=Library Entry 88617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-[(4-chlorophenyl)azo]-
+##MOLFORM=C13H9ClN2O2
+##CAS REGISTRY NO=13304-24-0
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    39        120
+    50        220
+    51        200
+    63        120
+    64         90
+    65        420
+    66         50
+    74         90
+    75        500
+    76        220
+    77        140
+    93        250
+   111        999
+   112        100
+   113        370
+   114         50
+   121        370
+   122         40
+   139        600
+   140         60
+   141        240
+   149        130
+   151         30
+   152        210
+   153         40
+   181         90
+   215         80
+   216         50
+   232         20
+   234         20
+   260        420
+   261         70
+   262        160

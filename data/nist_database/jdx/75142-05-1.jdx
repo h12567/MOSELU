@@ -1,0 +1,37 @@
+##TITLE=Library Entry 48456
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. BRINK, HEYMANNSTRASSE, LEVERKUSEN, W. GER.
+##NAMES=HP
+##CAS NAME=Tris(methylsulfonyl)hydroxylamine
+##MOLFORM=C3H9NO7S3
+##CAS REGISTRY NO=75142-05-1
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    29         40
+    30        660
+    36         30
+    44         40
+    45         30
+    48        120
+    63        430
+    64        150
+    65         50
+    79        999
+    80         70
+    81        100
+    92        170
+    94         70
+    95         20
+    97         70
+   111        150
+   126        170
+   141         80
+   143        110
+   158         50
+   188         80

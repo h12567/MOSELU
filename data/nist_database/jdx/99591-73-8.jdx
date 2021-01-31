@@ -1,0 +1,67 @@
+##TITLE=Library Entry 15826
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=OGDEN BioServices Corp., NCI, Rockville, MD 20852
+##NAMES=HP
+##CAS NAME=1,5,2,4-Dioxadithiepane-2,2,4,4-tetraoxide
+##MOLFORM=C3H6O6S2
+##CAS REGISTRY NO=99591-73-8
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    42         58
+    43        215
+    44        999
+    45        130
+    46         32
+    48        357
+    49         59
+    50         53
+    51          7
+    52          2
+    55          2
+    56          1
+    57          4
+    58         17
+    60          3
+    62         30
+    63         24
+    64         54
+    65        105
+    66          4
+    67          5
+    69          1
+    71          1
+    73          5
+    76          0
+    78        371
+    79         41
+    80         23
+    81         10
+    82          0
+    83          1
+    84          6
+    86          5
+    88          0
+    92          0
+    95          4
+    96          6
+    97          0
+   108        359
+   109         29
+   111          0
+   122          7
+   137          1
+   138          1
+   141          2
+   143          3
+   172         57
+   173          3
+   174          5
+   186          3
+   202          8
+   203          0

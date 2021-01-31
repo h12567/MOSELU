@@ -1,0 +1,54 @@
+##TITLE=Library Entry 30751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Galactitol, 1,2:4,5-di-O-isopropylidene-
+##MOLFORM=C12H22O6
+##CAS REGISTRY NO=20581-94-6
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    48        435
+    55         74
+    56         12
+    57         90
+    58         30
+    59        999
+    60         38
+    61         51
+    69        120
+    71        113
+    72         39
+    73        138
+    81         35
+    83         90
+    84         12
+    85        225
+    86         37
+    87         27
+    99         32
+   100         27
+   101        219
+   102         27
+   103         25
+   111        122
+   112         11
+   113         37
+   114         20
+   115        111
+   129        101
+   131        305
+   132         37
+   143          5
+   144          7
+   145         16
+   161         18
+   171         25
+   173        332
+   189         61
+   247        666

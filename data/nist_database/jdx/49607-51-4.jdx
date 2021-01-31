@@ -1,0 +1,25 @@
+##TITLE=Library Entry 70692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.ELGUERO UNIV. OF LANGUEDOC, MONTPELLIER CEDEX, FRANCE
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazol-3-amine, 1-methyl-
+##MOLFORM=C3H6N4
+##CAS REGISTRY NO=49607-51-4
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    27        200
+    28        820
+    41         60
+    42        500
+    43        360
+    53         80
+    70         50
+    71        220
+    98        999
+    99        100

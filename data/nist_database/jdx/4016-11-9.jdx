@@ -1,0 +1,60 @@
+##TITLE=Library Entry 439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=Oxirane, (ethoxymethyl)-
+##MOLFORM=C5H10O2
+##CAS REGISTRY NO=4016-11-9
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=770
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         20
+    14         92
+    15        271
+    16         11
+    17          5
+    18         14
+    19         33
+    24          1
+    25          8
+    26         95
+    27        494
+    28        110
+    29        999
+    30         87
+    31        936
+    32         11
+    33          2
+    37          3
+    38          7
+    39         28
+    40         16
+    41         43
+    42         53
+    43        284
+    44        305
+    45        257
+    46          6
+    47          5
+    53          1
+    54          1
+    55         17
+    56         20
+    57        250
+    58        298
+    59        233
+    60          8
+    61          2
+    71         14
+    72          8
+    73          7
+    74          2
+    87          3
+   101          1

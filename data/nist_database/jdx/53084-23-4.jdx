@@ -1,0 +1,39 @@
+##TITLE=Library Entry 72946
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Ethoxy-2-carbomethoxyazetidine
+##MOLFORM=C7H13NO3
+##CAS REGISTRY NO=53084-23-4
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        100
+    40          4
+    41         60
+    42         40
+    44         80
+    45        120
+    46          6
+    54        141
+    55        423
+    56        382
+    57         17
+    59        181
+    60          7
+    72        383
+    73         61
+    74          5
+   100        999
+   101        142
+   102         11
+   128        140
+   129          9
+   159        322
+   160         27
+   161          3

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 8171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.T.CHEUNG UNIVERSITY OF HONG KONG
+##NAMES=HP
+##CAS NAME=Urs-12-en-28-oic acid, 2-hydroxy-3,23-[(1-methylethylidene)bis(ox
+y)]-11-oxo-, methyl ester, (2.alpha.,3.beta.,4.alpha.)-
+##MOLFORM=C34H52O6
+##CAS REGISTRY NO=20089-73-0
+##MP= -300
+##BP= -300
+##MW= 556
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41        280
+    43        999
+    55        420
+    57        150
+    59        710
+    67        170
+    69        280
+    81        210
+    83        200
+    91        120
+    93        150
+    95        260
+   105        210
+   107        230
+   109        110
+   119        310
+   121        180
+   133        150
+   135        180
+   145        120
+   147        120
+   161        170
+   173        120
+   175        110
+   189        270
+   217        110
+   257        150
+   276        160
+   317        260
+   481        310
+   482        100
+   541         60
+   556         30

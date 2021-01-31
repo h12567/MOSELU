@@ -1,0 +1,55 @@
+##TITLE=Library Entry 19187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. HESSE, INST. ORG. CHEM., UNIV. ZURICH, ZURICH, SWITZ
+.
+##NAMES=HP
+##CAS NAME=2-(3-Hydroxybutyl)cyclooctanone
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=110288-21-6
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        950
+    42        210
+    43        380
+    45        590
+    53        150
+    54        280
+    55        999
+    56        160
+    57        190
+    58        200
+    67        640
+    68        360
+    69        410
+    70        150
+    71        290
+    73        130
+    79        170
+    81        520
+    82        280
+    83        340
+    84        290
+    93        100
+    95        360
+    96        220
+    97        290
+    98        550
+   109        350
+   110        160
+   111        130
+   112        110
+   123        220
+   125        120
+   126        120
+   127        180
+   137        140
+   151        200
+   180        180
+   183         20
+   198         20

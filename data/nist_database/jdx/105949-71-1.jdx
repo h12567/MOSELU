@@ -1,0 +1,69 @@
+##TITLE=Library Entry 68636
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.GRIESBAUM,DEP.PETROCHEM.ORG.TECHNOL.,UNIV.KARLSRUHE,W
+.GER.
+##NAMES=HP
+##CAS NAME=(E)-4-Chloro-3-methyl-1,3-hexadiene
+##MOLFORM=C7H11Cl
+##CAS REGISTRY NO=105949-71-1
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    37         25
+    38         43
+    39        328
+    40         56
+    41        189
+    42         19
+    43         22
+    45         19
+    49         31
+    50         90
+    51        183
+    52         56
+    53        238
+    54         40
+    55        300
+    56         25
+    61         37
+    62         40
+    63         93
+    64         22
+    65        201
+    66         53
+    67        650
+    68         46
+    73         37
+    74         22
+    75         80
+    76         15
+    77        607
+    78         87
+    79        610
+    80         96
+    81         65
+    86         15
+    87         19
+    88         28
+    89         22
+    90         25
+    91        133
+    92         22
+    93        173
+    94         37
+    95        999
+    96         87
+   101         22
+   102         15
+   115        384
+   116         25
+   117        118
+   130        752
+   131         59
+   132        251
+   133         25

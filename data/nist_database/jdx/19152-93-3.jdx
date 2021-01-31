@@ -1,0 +1,49 @@
+##TITLE=Library Entry 76782
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=7-Hydroxy-2,4-diamino-6-phenylpteridine
+##MOLFORM=C12H10N6O
+##CAS REGISTRY NO=19152-93-3
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    43        458
+    68        165
+    69         92
+    77        246
+    89        136
+    95         71
+   103        208
+   104        999
+   105        149
+   113        190
+   114         62
+   115        110
+   123        146
+   127        243
+   129         60
+   141         78
+   151        184
+   157         52
+   167        159
+   168         50
+   183         19
+   184        195
+   185         70
+   198          8
+   209        123
+   210         25
+   211          4
+   226        112
+   227         13
+   236          2
+   237          2
+   253         23
+   254        403
+   255         61

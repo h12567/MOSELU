@@ -1,0 +1,35 @@
+##TITLE=Library Entry 61773
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.A. SUMMERS, DEP. CHEM., UNIV. NEWCASTLE, N.S.W., AUST
+.
+##NAMES=HP
+##CAS NAME=3-Methyl-4-(N,3-dimethylphenylhydrazono)isoxazol-5-one
+##MOLFORM=C12H13N3O2
+##CAS REGISTRY NO=98664-22-3
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    63        110
+    65        360
+    77        270
+    78        190
+    89         70
+    91        999
+    92        190
+   104        140
+   105        410
+   106        120
+   118        270
+   119        670
+   120        850
+   121        410
+   131         50
+   145         70
+   146        140
+   173         50
+   231        280

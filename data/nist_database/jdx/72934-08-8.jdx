@@ -1,0 +1,60 @@
+##TITLE=Library Entry 35686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-3,7-Dimethylocta-2,6-dien-1-yl dodecanoate
+##MOLFORM=C22H40O2
+##CAS REGISTRY NO=72934-08-8
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=2325
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         17
+    29         51
+    39         35
+    40         26
+    41        482
+    42         27
+    43        190
+    49          2
+    52          4
+    53         67
+    54         11
+    57        110
+    61          5
+    62          2
+    65          8
+    66          7
+    67        142
+    68        617
+    69        999
+    70         59
+    71         69
+    77         16
+    78          6
+    80        595
+    81        231
+    91         43
+    92        256
+    93        958
+    94        153
+    95         54
+   107        114
+   108         24
+   113          6
+   117         13
+   121        509
+   122         51
+   123         51
+   131          6
+   132          5
+   135         12
+   136        238
+   137         66
+   154         38
+   183         48
+   184         10

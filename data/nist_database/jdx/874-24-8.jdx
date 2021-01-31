@@ -1,0 +1,88 @@
+##TITLE=Library Entry 68257
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Hydroxypicolinic acid
+##MOLFORM=C6H5NO3
+##CAS REGISTRY NO=874-24-8
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    17          1
+    25          2
+    26         11
+    27         14
+    29         21
+    32          7
+    36          7
+    37         70
+    38        190
+    39        422
+    40         91
+    41         99
+    42         36
+    43         16
+    44         27
+    45         69
+    46          8
+    47          4
+    48          4
+    49         18
+    50         43
+    51         39
+    52         36
+    53         37
+    54         61
+    55         45
+    56          9
+    57          5
+    59          9
+    60          8
+    62          8
+    63         23
+    64        113
+    65        343
+    66        161
+    67        389
+    68         52
+    69         18
+    70          1
+    71          1
+    72          6
+    73          3
+    74          3
+    75         14
+    76         25
+    77         20
+    78          7
+    79          6
+    80          2
+    82          4
+    83         10
+    87          2
+    91          1
+    92          3
+    93        714
+    94        148
+    95        999
+    96         61
+    97          4
+    98          1
+   100          1
+   101          6
+   111          6
+   114          8
+   120          5
+   121        201
+   122         24
+   123          2
+   127          2
+   128          6
+   139        260
+   140         20
+   141          4

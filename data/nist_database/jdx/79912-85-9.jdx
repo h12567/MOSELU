@@ -1,0 +1,62 @@
+##TITLE=Library Entry 70155
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Cyclohexanecarboxylic acid, 4-heptyl-, 4-fluorophenyl ester
+##MOLFORM=C20H29FO2
+##CAS REGISTRY NO=79912-85-9
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27        131
+    28         24
+    29        276
+    39        118
+    41        629
+    42         58
+    43        403
+    44         18
+    53         86
+    54        138
+    55        763
+    56         59
+    57        526
+    58         19
+    65         28
+    67        374
+    68         76
+    69        590
+    70         39
+    71        165
+    75         16
+    77         28
+    79         90
+    81        388
+    82        105
+    83        864
+    84         82
+    85        170
+    93         22
+    95        173
+    97        999
+    98         82
+    99         96
+   109         80
+   111        801
+   112        344
+   113         31
+   123         26
+   125        424
+   126         44
+   139         62
+   181        266
+   182         43
+   209        300
+   210         44
+   320          3

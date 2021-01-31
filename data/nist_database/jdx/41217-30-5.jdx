@@ -1,0 +1,49 @@
+##TITLE=Library Entry 100567
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, Scientific Instruments & Applicatio
+ns
+##NAMES=HP
+##CAS NAME=[2-(Aminocarbonyl)phenyl]carbamic acid, ethyl ester
+##MOLFORM=C10H12N2O3
+##CAS REGISTRY NO=41217-30-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    44         25
+    52         21
+    53          9
+    63         55
+    64         56
+    65        105
+    77         35
+    80         34
+    90        160
+    91         83
+    92        191
+    93         37
+   105         21
+   106         10
+   107         42
+   117         13
+   118         92
+   119        999
+   120        127
+   121         14
+   132        149
+   135         13
+   136         87
+   146        501
+   147         58
+   162        630
+   163        201
+   164         22
+   191         34
+   192         16
+   193         14
+   208        548
+   209         67

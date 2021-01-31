@@ -1,0 +1,57 @@
+##TITLE=Library Entry 50454
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methyl ethyl cyclopentene
+##MOLFORM=C8H14
+##CAS REGISTRY NO=19780-56-4
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         17
+    26         10
+    27         82
+    28         36
+    29         37
+    32          5
+    39        189
+    40         37
+    41        164
+    42         13
+    43         13
+    44          6
+    50         34
+    51         80
+    52         36
+    53        141
+    54         31
+    55        129
+    56         11
+    62         11
+    63         29
+    65         76
+    67        429
+    68         83
+    69         37
+    74          6
+    77        123
+    78         33
+    79        235
+    80          6
+    81        999
+    82        107
+    83          5
+    91         64
+    92          9
+    93         68
+    94          5
+    95        516
+    96         38
+   109         44
+   110        311
+   111         25

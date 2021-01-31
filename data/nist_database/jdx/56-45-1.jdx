@@ -1,0 +1,64 @@
+##TITLE=Library Entry 30980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2507
+##NAMES=HP
+##CAS NAME=Serine
+##MOLFORM=C3H7NO3
+##CAS REGISTRY NO=56-45-1
+##MP= -300
+##BP= -300
+##MW= 105
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14          9
+    15        143
+    16          5
+    17          4
+    18         41
+    19          1
+    25          2
+    26          8
+    27         27
+    28        571
+    29        245
+    30        187
+    31        120
+    32          6
+    33          2
+    38          3
+    39          5
+    40         15
+    41         50
+    42        435
+    43         85
+    44         40
+    45         43
+    46         98
+    47          6
+    53          1
+    54          2
+    55          4
+    56         14
+    57        264
+    58         28
+    59         21
+    60        999
+    61         25
+    62          2
+    68          1
+    69         10
+    70          9
+    71          5
+    74        610
+    75        357
+    76         11
+    77          1
+    82          1
+    87         12
+    88          1
+   104          2

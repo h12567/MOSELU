@@ -1,0 +1,49 @@
+##TITLE=Library Entry 7194
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DM6-171-F29
+##NAMES=HP
+##CAS NAME=Decane, 3-chloro-
+##MOLFORM=C10H21Cl
+##CAS REGISTRY NO=1002-11-5
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=1215
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        828
+    42        419
+    43        999
+    44         31
+    53         62
+    54         82
+    55        958
+    56        862
+    57        505
+    58         20
+    69        611
+    70        652
+    71        181
+    72         13
+    76         13
+    77         31
+    79         13
+    82         98
+    83        323
+    84        401
+    85        121
+    86         13
+    96         49
+    97        383
+    98        225
+    99         13
+   105         46
+   107         20
+   111        274
+   112        142
+   113         10
+   119         10
+   140         51
+   141         62

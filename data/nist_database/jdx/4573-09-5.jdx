@@ -1,0 +1,57 @@
+##TITLE=Library Entry 22088
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentanone, 2,2,5-trimethyl-
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=4573-09-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15          7
+    26          9
+    27         61
+    28         20
+    29         34
+    38         15
+    39        143
+    40         48
+    41        278
+    42         53
+    43         30
+    50          9
+    51         18
+    52          8
+    53         39
+    54         19
+    55        172
+    56        999
+    57        109
+    58         17
+    63          4
+    65          9
+    67         20
+    68         18
+    69        142
+    70         77
+    71         29
+    72          7
+    77          9
+    79          8
+    81          7
+    82         20
+    83         36
+    84         17
+    93         41
+    95          3
+    97         14
+    98          6
+   108         10
+   111         61
+   126        177
+   127         15

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 9937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SELVA, C.N.R., IST. CHIM. POLITEC., MILAN, IT
+##NAMES=HP
+##CAS NAME=1-Phenylthio-1-acetoxy-3-isopropyl-2-propanone
+##MOLFORM=C14H18O3S
+##CAS REGISTRY NO=69798-59-0
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    27         30
+    28         20
+    29         50
+    39         50
+    40          5
+    41         80
+    42         10
+    43        999
+    44         30
+    45         40
+    50         10
+    51         30
+    55         10
+    57        140
+    65         60
+    66         30
+    69         30
+    77         40
+    78         10
+    84         10
+    85        160
+    86         10
+   108         10
+   109         80
+   110        160
+   111         20
+   112         10
+   123         25
+   129         20
+   139        110
+   140         10
+   141          5
+   150         10
+   152         15
+   153         25
+   154         10
+   155         10
+   157         30
+   181         80
+   182         10
+   183          5
+   218         25
+   219          5
+   223         10
+   224          3
+   266         25
+   267          5

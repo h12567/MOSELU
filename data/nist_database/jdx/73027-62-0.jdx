@@ -1,0 +1,64 @@
+##TITLE=Library Entry 46858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1-Phenyl-5-(methylamino)-1H-tetrazole
+##MOLFORM=C8H9N5
+##CAS REGISTRY NO=73027-62-0
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27         71
+    29         29
+    37         29
+    38        104
+    39        221
+    40         35
+    41         96
+    42         57
+    44         30
+    50        139
+    51        404
+    52         79
+    53         12
+    55         30
+    57         30
+    62         25
+    63        150
+    64        410
+    65        230
+    66         21
+    74         29
+    75         24
+    76         60
+    77        999
+    78        109
+    79         14
+    90         39
+    91        914
+    92         75
+    93         14
+   103          9
+   104        250
+   105         92
+   106          9
+   107          5
+   117         32
+   118        507
+   119        304
+   120         30
+   130          8
+   131         17
+   132         50
+   133         27
+   146        446
+   147         54
+   148          4
+   175        193
+   176         25

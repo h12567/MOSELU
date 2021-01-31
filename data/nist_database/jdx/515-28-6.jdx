@@ -1,0 +1,40 @@
+##TITLE=Library Entry 3071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.R.DIMMEL DEPT. CHEM., HARQUETTE UNIV., MILWAUKEE, WIS
+C. US
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptan-2-ol, 3,3-dimethyl-, exo-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=515-28-6
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26        385
+    28        330
+    38        530
+    41        999
+    43        580
+    53        215
+    55        500
+    57        950
+    67        465
+    69        790
+    70        370
+    71        165
+    72        160
+    78        350
+    81        210
+    83        310
+    84        460
+    93        160
+    96        310
+    97        410
+   107        430
+   109        410
+   122        355
+   140        235

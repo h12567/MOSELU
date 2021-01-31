@@ -1,0 +1,64 @@
+##TITLE=Library Entry 39808
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.Bouchilloux ET AL.JAFC., 46,3095(1998)
+##NAMES=HP
+##CAS NAME=3-Mercapto-2-methylpropanol
+##MOLFORM=C4H10OS
+##CAS REGISTRY NO=56160-79-3
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=921
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    37         28
+    38         63
+    39        490
+    40         59
+    41        364
+    42        106
+    43        314
+    44         47
+    45        406
+    46        127
+    47        348
+    48         23
+    53         54
+    54        200
+    55        685
+    56         50
+    57        653
+    58         84
+    59        148
+    60        127
+    61         78
+    62         19
+    63         23
+    65          3
+    67         17
+    68          3
+    69         33
+    70         24
+    71        148
+    72        999
+    73        204
+    74         56
+    75        141
+    76         31
+    77         12
+    79          9
+    81          9
+    87         52
+    88         38
+    89        301
+    90         17
+    91         31
+    93         12
+   103          7
+   104          9
+   105         54
+   106        150
+   107         30
+   108          3

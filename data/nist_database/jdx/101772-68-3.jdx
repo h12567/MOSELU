@@ -1,0 +1,30 @@
+##TITLE=Library Entry 73207
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.K. CARTLEDGE, DEP. CHEM., LA. STATE UNIV., BATON ROUG
+E, USA
+##NAMES=HP
+##CAS NAME=trans-1,2-Dimethylsilacyclohexane
+##MOLFORM=C7H16Si
+##CAS REGISTRY NO=101772-68-3
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    58        140
+    59        150
+    71        230
+    72        830
+    73        280
+    85        580
+    86        210
+    97        100
+    99        210
+   100        999
+   101        120
+   113        310
+   127         20
+   128        440

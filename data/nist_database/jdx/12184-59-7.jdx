@@ -1,0 +1,48 @@
+##TITLE=Library Entry 21807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Cinnamoylcymantrene
+##MOLFORM=C17H11MnO4
+##CAS REGISTRY NO=12184-59-7
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    51        119
+    55        999
+    56        239
+    63         79
+    65        119
+    77        119
+    80         99
+    81         49
+    92         39
+    93        129
+   102         39
+   103        169
+   104         19
+   132        229
+   133          9
+   152         39
+   153         39
+   158        659
+   159         59
+   165        109
+   166         19
+   167         29
+   177         19
+   178         19
+   194         19
+   195         19
+   250        999
+   251        119
+   252         24
+   277         31
+   278          4
+   334          9
+   335          2

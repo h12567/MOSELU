@@ -1,0 +1,46 @@
+##TITLE=Library Entry 76137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.E. Johnson, Dep. Chem., N. Dakota State Univ., Fargo,
+ N. Dakota, USA
+##NAMES=HP
+##CAS NAME=Carbamic acid, bis(1-methylethyl)-, methyl ester
+##MOLFORM=C8H17NO2
+##CAS REGISTRY NO=31603-49-3
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    40         32
+    41        231
+    42        209
+    43        298
+    44        112
+    45         11
+    54         14
+    55         10
+    56         95
+    57         33
+    58        401
+    59        191
+    68         12
+    70        137
+    71         10
+    72         69
+    73         33
+    84         70
+    86         82
+   101         15
+   102        999
+   103         54
+   116         47
+   128         37
+   129         12
+   143         11
+   144        572
+   145         48
+   159        132
+   160         18

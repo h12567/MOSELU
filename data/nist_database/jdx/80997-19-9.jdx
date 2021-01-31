@@ -1,0 +1,51 @@
+##TITLE=Library Entry 17942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=S-Chloro-S-fluoro-N-pentafluorosulfanylsulfilimine
+##MOLFORM=ClF6NS2
+##CAS REGISTRY NO=80997-19-9
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    32         38
+    35         50
+    36         53
+    37         16
+    38         19
+    46        999
+    48         74
+    51         83
+    53          4
+    64         48
+    65        172
+    67         38
+    70        172
+    72          9
+    81         11
+    84          8
+    85         18
+    86         33
+    89        519
+    91         28
+   100         34
+   102         13
+   105        158
+   107         64
+   108         39
+   124         12
+   127        835
+   129         43
+   135          3
+   143         18
+   145          3
+   173          4
+   192        293
+   194         30
+   208         14
+   210          6

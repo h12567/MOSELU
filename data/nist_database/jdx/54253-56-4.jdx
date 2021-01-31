@@ -1,0 +1,39 @@
+##TITLE=Library Entry 72083
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Formaldehyde, dipropylhydrazone
+##MOLFORM=C7H16N2
+##CAS REGISTRY NO=54253-56-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    28        107
+    29         69
+    30         25
+    31         69
+    39         40
+    40          6
+    41        134
+    42         99
+    43        280
+    44         15
+    54          7
+    55          8
+    56         33
+    57        800
+    58         36
+    70         39
+    71         37
+    85         12
+    86         24
+    99        999
+   100         65
+   128        253
+   129         28

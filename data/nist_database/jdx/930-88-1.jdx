@@ -1,0 +1,64 @@
+##TITLE=Library Entry 88013
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N-Methylmaleimide
+##MOLFORM=C5H5NO2
+##CAS REGISTRY NO=930-88-1
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=925
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         10
+    14         16
+    15         36
+    16          2
+    17          1
+    18          1
+    24         15
+    25         83
+    26        502
+    27        104
+    28        274
+    29         72
+    30          9
+    36          7
+    37         25
+    38         19
+    39         20
+    40         25
+    41         32
+    42         73
+    43          5
+    44          3
+    50          4
+    51         19
+    52         43
+    53        211
+    54        891
+    55        142
+    56        163
+    57         56
+    58         15
+    62          1
+    63          2
+    64          3
+    66         66
+    67         78
+    68          7
+    69          3
+    70         16
+    80          2
+    82        382
+    83        406
+    84         19
+    96          4
+   110        165
+   111        999
+   112         60
+   113          1

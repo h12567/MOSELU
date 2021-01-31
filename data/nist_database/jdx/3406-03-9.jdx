@@ -1,0 +1,83 @@
+##TITLE=Library Entry 79605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4132
+##NAMES=HP
+##CAS NAME=Ethanone, 1-phenyl-2-(phenylsulfonyl)-
+##MOLFORM=C14H12O3S
+##CAS REGISTRY NO=3406-03-9
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    15          1
+    18          1
+    26          1
+    27         11
+    28          6
+    29          1
+    37          1
+    38          4
+    39         28
+    40          2
+    41          7
+    42          5
+    43          5
+    44          1
+    45          3
+    50         28
+    51        132
+    52          9
+    53          3
+    62          2
+    63          9
+    64          3
+    65         54
+    66          5
+    69          1
+    74          5
+    75          5
+    76          9
+    77        457
+    78         40
+    79          4
+    89          6
+    90          4
+    91         99
+    92          8
+    94        121
+    95          8
+    97          8
+    98          1
+   102          9
+   103         43
+   104          4
+   105        999
+   106         71
+   107          5
+   109          1
+   110          2
+   115          1
+   118          3
+   119          4
+   120          2
+   125          9
+   126          1
+   141         19
+   142          1
+   143          1
+   151          1
+   152          3
+   153          3
+   154          2
+   165          2
+   167          2
+   194          1
+   195          7
+   196        274
+   197         40
+   198          3
+   260          3

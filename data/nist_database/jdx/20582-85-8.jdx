@@ -1,0 +1,80 @@
+##TITLE=Library Entry 31183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-(Methylthio)-1-butanol
+##MOLFORM=C5H12OS
+##CAS REGISTRY NO=20582-85-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=1812
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          8
+    15         43
+    18          2
+    19         11
+    26         13
+    27        188
+    28         13
+    29         96
+    30          2
+    31        217
+    33          4
+    34          4
+    35         88
+    37          8
+    38         14
+    39        132
+    40         17
+    41        228
+    42         63
+    43        152
+    44        307
+    45        183
+    46        107
+    47        151
+    48        200
+    49        112
+    50         16
+    51         12
+    52          8
+    53         34
+    54        111
+    55        151
+    56         11
+    57         40
+    58         22
+    59         11
+    60         11
+    61        999
+    62         43
+    63         48
+    64          2
+    67          2
+    68          4
+    69          7
+    70          2
+    71         29
+    72          8
+    73         15
+    74         81
+    75         28
+    76         17
+    77          3
+    85          9
+    86          4
+    87         89
+    88          6
+    89          8
+    90          2
+   102         90
+   103          6
+   104          4
+   120        281
+   121         18
+   122         15

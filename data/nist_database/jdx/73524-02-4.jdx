@@ -1,0 +1,50 @@
+##TITLE=Library Entry 80851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Perillyl benzoate
+##MOLFORM=C17H20O2
+##CAS REGISTRY NO=73524-02-4
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=2068
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39         23
+    40         15
+    41         63
+    42         14
+    45          8
+    50         19
+    51         38
+    53         35
+    55         34
+    61          6
+    66         12
+    67         54
+    68         83
+    69         29
+    76         17
+    77        240
+    78         35
+    79        117
+    80         23
+    91        217
+    92        135
+    93         67
+    94         22
+   105        999
+   106        192
+   107         32
+   119        244
+   120         30
+   121         18
+   123         26
+   134        230
+   135         26
+   150          9
+   151         12
+   256         10

@@ -1,0 +1,86 @@
+##TITLE=Library Entry 23037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Butoxyethyl bromide
+##MOLFORM=C6H13BrO
+##CAS REGISTRY NO=6550-99-8
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14         28
+    15        115
+    16          5
+    17          0
+    18          3
+    19          9
+    26        123
+    27        826
+    28        288
+    29        608
+    30         41
+    31         95
+    32          0
+    37          6
+    38         21
+    39        197
+    40          0
+    41        594
+    42         81
+    43        132
+    44         53
+    45         59
+    46          1
+    49          1
+    50          6
+    51          7
+    52          3
+    53         15
+    54          1
+    55         59
+    56        415
+    57        999
+    58         55
+    59          0
+    69          4
+    70          1
+    71          6
+    72          0
+    79          8
+    80          7
+    81          9
+    82          6
+    83          1
+    85          1
+    87        629
+    88         35
+    89          2
+    91          2
+    93         35
+    94         10
+    95         31
+    96          5
+   101          3
+   104          0
+   105          5
+   107        510
+   109        491
+   110         10
+   122          2
+   123          4
+   124          1
+   125          4
+   137        111
+   139        108
+   140          4
+   151          3
+   153          3
+   180          1
+   182          1

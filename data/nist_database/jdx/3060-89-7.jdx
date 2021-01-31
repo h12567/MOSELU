@@ -1,0 +1,61 @@
+##TITLE=Library Entry 31200
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Tech. Univ. Eindhov
+en, Netherlands
+##NAMES=HP
+##CAS NAME=Metobromuron
+##MOLFORM=C9H11BrN2O2
+##CAS REGISTRY NO=3060-89-7
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=1837
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    28          9
+    29          9
+    30         14
+    32        131
+    33         31
+    38         25
+    39         45
+    40         10
+    45         69
+    46        215
+    50         33
+    51         12
+    52          9
+    59         11
+    60         79
+    61        999
+    62         42
+    63         92
+    64         64
+    65         16
+    75         24
+    76         40
+    90         72
+    91        135
+    92         19
+   117         11
+   119         13
+   143         30
+   145         33
+   148         12
+   155         15
+   157         26
+   169         15
+   170         97
+   171         31
+   172         99
+   197         30
+   198         19
+   199         29
+   200         20
+   212         10
+   258        141
+   259         14
+   260        129
+   261         16

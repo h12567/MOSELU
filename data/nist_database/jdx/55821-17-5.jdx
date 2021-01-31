@@ -1,0 +1,57 @@
+##TITLE=Library Entry 21769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Indene-4-propanoic acid, octahydro-7a-methyl-1,5-dioxo-, 4-(2-
+carboxyethyl)octahydro-7a-methyl-5-oxo-1H-inden-1-yl ester, [1.alpha.(3aR*,4
+R*,7aR*),3a.beta.,4.beta.,7a.alpha.]-
+##MOLFORM=C26H36O7
+##CAS REGISTRY NO=55821-17-5
+##MP= -300
+##BP= -300
+##MW= 460
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        292
+    43        191
+    53        121
+    55        999
+    66        247
+    68        151
+    78        131
+    79        287
+    81        439
+    91        181
+    92        287
+    94        191
+    96        333
+   106        146
+   107        282
+   108        116
+   109        156
+   119        141
+   121        161
+   122        121
+   133        141
+   135        146
+   145        121
+   147        131
+   148        101
+   149        197
+   161        146
+   162        126
+   163        116
+   193        585
+   194        126
+   204        373
+   205        424
+   220        282
+   221        929
+   222        338
+   223        116
+   238         96
+   460         45
+   461         15

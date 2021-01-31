@@ -1,0 +1,53 @@
+##TITLE=Library Entry 9025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentanedioic acid, 3-hydroxy-, dimethyl ester
+##MOLFORM=C7H12O5
+##CAS REGISTRY NO=7250-55-7
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    28         31
+    29         73
+    30         31
+    31         79
+    40         37
+    41         58
+    42        192
+    43        999
+    44         79
+    45         31
+    55         25
+    56         62
+    57         37
+    58         20
+    59        198
+    61        240
+    70         41
+    71        585
+    72         25
+    74        564
+    75         37
+    85         62
+    86         37
+    89         31
+    90         25
+    96         66
+    98         25
+    99         62
+   100         20
+   101         66
+   102         25
+   103        585
+   104         37
+   128         46
+   129        512
+   130         41
+   142         37
+   145         62

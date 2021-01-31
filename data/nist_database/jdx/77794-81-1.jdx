@@ -1,0 +1,31 @@
+##TITLE=Library Entry 67887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20(11) 2557(1981); MADAN M GUPTA ET AL
+##NAMES=HP
+##CAS NAME=5.alpha.-Stigmast-9(11)-en-3.beta.-ol
+##MOLFORM=C29H50O
+##CAS REGISTRY NO=77794-81-1
+##MP= -300
+##BP= -300
+##MW= 414
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55        410
+    57        260
+    95        999
+   159        140
+   201         70
+   213         40
+   231         50
+   273         90
+   283        140
+   288        240
+   301        150
+   342         30
+   381        340
+   396        390
+   399        270
+   414        160

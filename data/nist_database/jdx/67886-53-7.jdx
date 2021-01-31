@@ -1,0 +1,65 @@
+##TITLE=Library Entry 32601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Cyclohexyl-1-pentyne
+##MOLFORM=C11H18
+##CAS REGISTRY NO=67886-53-7
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        153
+    28         62
+    29         96
+    32          5
+    38         29
+    39        360
+    40         67
+    41        561
+    42         49
+    43         59
+    50         27
+    51         73
+    52         41
+    53        175
+    54        150
+    55        954
+    56         55
+    57          9
+    62          7
+    63         16
+    65         85
+    66         89
+    67        999
+    68        164
+    69        130
+    70          8
+    77        121
+    78         58
+    79        510
+    80        129
+    81        424
+    82        146
+    83        219
+    84         16
+    91        100
+    92         25
+    93        217
+    94        196
+    95        145
+    96         50
+   105         20
+   107        235
+   108        139
+   109        350
+   110         38
+   121         88
+   122         30
+   135         94
+   136         12

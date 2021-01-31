@@ -1,0 +1,70 @@
+##TITLE=Library Entry 33156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-Amino-7-methylaminofurazano[3,4-d]pyrimidine
+##MOLFORM=C5H6N6O
+##CAS REGISTRY NO=30720-39-9
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         48
+    42        268
+    43        300
+    44          5
+    46          1
+    50          0
+    51          5
+    52         10
+    53        323
+    54         40
+    55         55
+    57        280
+    58          7
+    64          4
+    65          5
+    67        999
+    68         96
+    69         31
+    70         13
+    73          2
+    77          2
+    78          5
+    79         12
+    80         13
+    81          1
+    82         26
+    83         22
+    84          5
+    92          2
+    93          2
+    94         15
+    95          4
+    96          1
+   100          0
+   107          5
+   108          5
+   109         16
+   111          2
+   121          1
+   122         69
+   125         16
+   134         10
+   136        688
+   137         20
+   138          0
+   149          2
+   150          1
+   151         39
+   152         25
+   153          3
+   166        402
+   167         31
+   168         14
+   169          1

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 15983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Jacobson, LBC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Imidazole, 5-[2-(aminocarbonyl)vinyl]-
+##MOLFORM=C6H7N3O
+##CAS REGISTRY NO=135200-64-5
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        344
+    42         53
+    43        424
+    44        999
+    45        293
+    55        292
+    56        188
+    57        177
+    65         55
+    66        226
+    69        181
+    81        113
+    84        477
+    93        692
+    94        323
+   109        116
+   120        288
+   121        383
+   136        493
+   137        603
+   138        191

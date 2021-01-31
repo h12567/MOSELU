@@ -1,0 +1,75 @@
+##TITLE=Library Entry 11312
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Nonan-4-yl acetate
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=5990-73-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1173
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26          1
+    27         18
+    28          4
+    29         30
+    30          1
+    31          3
+    38          1
+    39         28
+    40          5
+    41        110
+    42         40
+    43        999
+    44         36
+    45          9
+    50          1
+    51          3
+    52          2
+    53         13
+    55        157
+    56         77
+    57         50
+    58         48
+    59         30
+    61         22
+    65          5
+    66          2
+    67         19
+    69         64
+    70         79
+    71         54
+    73          7
+    77          8
+    78          2
+    79          9
+    83        127
+    84         35
+    86          8
+    87         19
+    88          1
+    91          9
+    93          7
+    95         10
+    97         49
+    98         22
+   101          8
+   102          2
+   103          1
+   105          2
+   115        188
+   116         13
+   118          1
+   121          5
+   123          1
+   126         83
+   127         11
+   128          1
+   130          8
+   133          1
+   143         46
+   144          4

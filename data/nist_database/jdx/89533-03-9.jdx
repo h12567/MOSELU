@@ -1,0 +1,66 @@
+##TITLE=Library Entry 55640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2554
+##NAMES=HP
+##CAS NAME=3,3'-Bi(2-oxo-1,3-oxazolidine)
+##MOLFORM=C6H8N2O4
+##CAS REGISTRY NO=89533-03-9
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         25
+    15        150
+    16          5
+    17          1
+    25          2
+    26         73
+    27        144
+    28        781
+    29        117
+    30         61
+    31         45
+    36         10
+    38          1
+    39          5
+    40         18
+    41         62
+    42        649
+    43        545
+    44         46
+    45         11
+    53          1
+    54          5
+    55         34
+    56        150
+    57        109
+    58         20
+    59         13
+    60          1
+    68          1
+    69        165
+    70         15
+    71          7
+    72          1
+    83          9
+    84          2
+    85          8
+    86        999
+    87        647
+    88         75
+    89          4
+    97          1
+   100          1
+   101         13
+   114          2
+   116          1
+   127          3
+   128         20
+   129          2
+   172         78
+   173          8

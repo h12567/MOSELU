@@ -1,0 +1,48 @@
+##TITLE=Library Entry 17077
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(methoxyethylthio)-
+##MOLFORM=C5H12O2S
+##CAS REGISTRY NO=25756-33-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    26         21
+    27        135
+    29        180
+    31        218
+    35         20
+    41         44
+    42         25
+    43        127
+    45        999
+    46        137
+    47        160
+    48         19
+    58        919
+    59        296
+    60        177
+    61        322
+    62         24
+    63         28
+    72        134
+    73         43
+    74         50
+    75        323
+    76         43
+    77         23
+    88         21
+    91        186
+   103         19
+   105        113
+   106         38
+   118        370
+   119         38
+   120         19
+   136         76

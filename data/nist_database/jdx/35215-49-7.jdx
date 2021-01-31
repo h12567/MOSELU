@@ -1,0 +1,53 @@
+##TITLE=Library Entry 9581
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Octen-2-one, 6-methyl-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=35215-49-7
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1429
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        160
+    42         20
+    43        999
+    44         20
+    45         10
+    51         10
+    53         50
+    54         40
+    55        340
+    56         40
+    57         10
+    58        310
+    59         30
+    65         10
+    67        290
+    68         30
+    69         40
+    70        130
+    71        190
+    72         20
+    77         10
+    79         20
+    81         60
+    82        540
+    83         70
+    84         10
+    85        120
+    86         10
+    93         30
+    97         40
+    98         10
+   107         30
+   111         60
+   112         10
+   122         50
+   125         20
+   140         10

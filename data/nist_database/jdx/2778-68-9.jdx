@@ -1,0 +1,65 @@
+##TITLE=Library Entry 68176
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.VON BUNAU MAX-PLANCK-INST., MULHEIM-RHUR, GERMANY, FR
+G
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptane, 3,7,7-trimethyl-, [1S-(1.alpha.,3.beta.,6.
+alpha.)]-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=2778-68-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15         27
+    27        182
+    28         34
+    29        137
+    39        234
+    40         44
+    41        463
+    42         44
+    43        113
+    50         12
+    51         44
+    52         24
+    53        145
+    54         64
+    55        335
+    56         44
+    57         54
+    63         14
+    65         56
+    66         34
+    67        492
+    68        142
+    69        194
+    70         34
+    77        103
+    78         24
+    79        133
+    80         71
+    81        709
+    82        293
+    83         64
+    91         73
+    92         29
+    93        162
+    94         93
+    95        999
+    96        182
+    97         24
+   105         22
+   107         24
+   109         83
+   110         24
+   121         44
+   123        270
+   124         34
+   136         44
+   138        391
+   139         41

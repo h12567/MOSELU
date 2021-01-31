@@ -1,0 +1,29 @@
+##TITLE=Library Entry 1664
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropene
+##MOLFORM=C3H4
+##CAS REGISTRY NO=2781-85-3
+##MP= -300
+##BP= -300
+##MW= 40
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    24         21
+    25         29
+    26         67
+    27         54
+    29         51
+    30          7
+    36         49
+    37        276
+    38        466
+    39        999
+    40        686
+    41        103
+    42         65
+    43          5

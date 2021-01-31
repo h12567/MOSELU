@@ -1,0 +1,65 @@
+##TITLE=Library Entry 23290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=Trichloroacetic acid butyl ester
+##MOLFORM=C6H9Cl3O2
+##CAS REGISTRY NO=3657-07-6
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=1151
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        211
+    28         63
+    29        709
+    30         21
+    31          8
+    35         25
+    36         29
+    37         13
+    38         25
+    39        157
+    40         25
+    41        731
+    42         49
+    43         62
+    44         59
+    47         82
+    48          9
+    49         29
+    50          9
+    51         18
+    53         15
+    55        115
+    56        202
+    57        999
+    58         49
+    59          6
+    62          6
+    63         12
+    65          6
+    67          6
+    73          9
+    76          6
+    78          5
+    79          5
+    82         66
+    83         16
+    84         55
+    85         13
+    86          6
+   110         39
+   111          4
+   112         38
+   113          4
+   114         11
+   117         82
+   118          9
+   119         71
+   120          8
+   121         19

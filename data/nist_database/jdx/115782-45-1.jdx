@@ -1,0 +1,37 @@
+##TITLE=Library Entry 41649
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G. Voronkov, Irkutsk Inst. Org. Chem., Siberian Acad.
+ Sci., USSR
+##NAMES=HP
+##CAS NAME=1,1,4,4,7,7,10,10,13,13,16,16-Dodecamethyl-1,4,7,10,13,16-hexasil
+acyclooctadeca-2,5,11,14-tetrayne
+##MOLFORM=C24H44Si6
+##CAS REGISTRY NO=115782-45-1
+##MP= -300
+##BP= -300
+##MW= 500
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    73        999
+    83         80
+    85         90
+    97         80
+    99         90
+   125         80
+   140         40
+   141         40
+   155         70
+   183         30
+   207         40
+   399         60
+   427         30
+   457         60
+   472         30
+   485         60
+   500         80
+   501         45
+   502         28
+   503         10

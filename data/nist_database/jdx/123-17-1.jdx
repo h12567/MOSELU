@@ -1,0 +1,61 @@
+##TITLE=Library Entry 34699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Nonanol, 2,6,8-trimethyl-
+##MOLFORM=C12H26O
+##CAS REGISTRY NO=123-17-1
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14         13
+    27         79
+    29         78
+    31         11
+    39        103
+    41        396
+    42         69
+    43        494
+    44         76
+    45        128
+    51         10
+    53         49
+    55        288
+    56        163
+    57        272
+    58         37
+    59         11
+    65         15
+    66          7
+    67         69
+    68          7
+    69        999
+    70        143
+    71         71
+    77         12
+    79         12
+    81         18
+    82         35
+    83        284
+    84        157
+    85        150
+    86         34
+    87        172
+    88         10
+    95         14
+    97         45
+    98         32
+    99         13
+   109         12
+   110         27
+   111        189
+   112         53
+   125         10
+   129        107
+   130         10
+   168         30

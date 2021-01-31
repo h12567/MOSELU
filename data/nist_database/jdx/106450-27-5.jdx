@@ -1,0 +1,40 @@
+##TITLE=Library Entry 42537
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. Herrmann, Res. Inst. Synth. Resins Lacquers, Pardubi
+ce, Czechoslovakia
+##NAMES=HP
+##CAS NAME=4-Cyclohexene-1,2-dicarboxylic acid, 2TMS derivative
+##MOLFORM=C14H26O4Si2
+##CAS REGISTRY NO=106450-27-5
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    59         40
+    73        999
+    74         90
+    75        170
+    77         50
+    78        160
+    79         80
+   103         20
+   107         20
+   117         60
+   118         20
+   133         20
+   147        280
+   148         40
+   149         30
+   152        110
+   153         20
+   181         10
+   196         70
+   224         80
+   225         20
+   299         80
+   300         20
+   314          5

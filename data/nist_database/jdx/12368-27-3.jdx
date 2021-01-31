@@ -1,0 +1,79 @@
+##TITLE=Library Entry 31863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Zirconium tetratropolonate
+##MOLFORM=C28H20O8Zr
+##CAS REGISTRY NO=12368-27-3
+##MP= -300
+##BP= -300
+##MW= 574
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    50        169
+    51        206
+    52         68
+    53        117
+    54         35
+    55        171
+    56         54
+    57         52
+    58         14
+    59          5
+    60         24
+    61         51
+    62         78
+    63         35
+    64        129
+    65        999
+    66        503
+    67         50
+    68         42
+    77        226
+    78         40
+    79         36
+    93        134
+    94        503
+    95         47
+   105         41
+   106         10
+   121         36
+   122        338
+   123         68
+   165         60
+   166        108
+   167         53
+   168         33
+   177         43
+   181         14
+   182          1
+   183          3
+   184          1
+   185         13
+   187         10
+   199         13
+   213         22
+   214          9
+   227        151
+   228         38
+   229         46
+   230          0
+   231         42
+   245          6
+   298         17
+   303         11
+   349         31
+   350          8
+   351         14
+   352          1
+   353         10
+   453        292
+   454         96
+   455         94
+   456          7
+   457         83
+   458          1

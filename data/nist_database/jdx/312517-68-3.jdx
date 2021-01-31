@@ -1,0 +1,63 @@
+##TITLE=Library Entry 47226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Methyl 3-(N,N'-diphenylamidinothio)-3-phenylpyruvate
+##MOLFORM=C23H20N2O3S
+##CAS REGISTRY NO=312517-68-3
+##MP= -300
+##BP= -300
+##MW= 404
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         23
+    38         67
+    39        157
+    41         17
+    45        212
+    50        154
+    51        365
+    52         55
+    59        306
+    60         26
+    61         17
+    62         31
+    63        132
+    64        110
+    65        118
+    66         23
+    74         32
+    75         42
+    77        999
+    78        101
+    79         42
+    89        148
+    90        165
+    91        226
+    92         47
+    93         22
+   103         32
+   104         45
+   105         34
+   117         25
+   118         95
+   119         46
+   121        397
+   122        119
+   123         51
+   132         35
+   135        143
+   149         19
+   167         35
+   180         31
+   182         17
+   193         17
+   194         66
+   195         23
+   210        102
+   225         23
+   227         17
+   404         19

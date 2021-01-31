@@ -1,0 +1,48 @@
+##TITLE=Library Entry 17319
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-Methyl-5-methoxymethyl-1,2-oxazole
+##MOLFORM=C6H9NO2
+##CAS REGISTRY NO=13999-31-0
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    27        334
+    28        328
+    29        236
+    39        176
+    41        207
+    42        246
+    43        221
+    44        114
+    45        999
+    54        364
+    55        267
+    56         67
+    57        423
+    58        135
+    66         66
+    68        253
+    69        133
+    70         33
+    71         99
+    81         20
+    82        567
+    83         44
+    84         69
+    85        299
+    86        152
+    96        400
+    97        230
+    98         33
+   112         35
+   126         67
+   127        416
+   128         43
+   129          9

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 30264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Dimethylethyl(n-octyl)silane
+##MOLFORM=C12H28Si
+##CAS REGISTRY NO=136935-69-8
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    40         98
+    41         95
+    42         20
+    43        101
+    44         50
+    45         95
+    55         61
+    56         18
+    57         42
+    58         73
+    59        999
+    60         73
+    61        150
+    62         10
+    71         48
+    72         15
+    73        200
+    74         30
+    75         15
+    83         21
+    85         97
+    86         24
+    87        537
+    88         43
+    89         18
+    99        183
+   100         50
+   101         67
+   111         27
+   113         18
+   115         18
+   127         18
+   129         12
+   133         12
+   171        525
+   172         80
+   173         40
+   185         27
+   186          6
+   200          1

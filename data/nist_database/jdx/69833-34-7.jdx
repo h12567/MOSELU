@@ -1,0 +1,44 @@
+##TITLE=Library Entry 30947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(4)259(1975); H. A. AKERS
+##NAMES=HP
+##CAS NAME=2,5-Piperazinediacetamide, N,N'-dihydroxy-3,6-dioxo-N,N'-dipropyl
+-
+##MOLFORM=C14H24N4O6
+##CAS REGISTRY NO=69833-34-7
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    60        999
+    67        700
+    68        470
+    69        910
+    70        640
+    71        560
+    85        260
+    86        360
+    91        600
+    95        560
+    97        580
+   111        300
+   112        140
+   113        120
+   125        490
+   139        310
+   153        230
+   167        500
+   183        330
+   195        440
+   212        270
+   220        370
+   225        260
+   226        230
+   269        230
+   312        200
+   328         70
+   344         40

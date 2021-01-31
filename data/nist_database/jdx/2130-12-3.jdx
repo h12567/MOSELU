@@ -1,0 +1,32 @@
+##TITLE=Library Entry 86675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.S.JOSHI CIBA RESEARCH CENTRE, BOMBAY, INDIA
+##NAMES=HP
+##CAS NAME=D:A-Friedooleanan-24-ol
+##MOLFORM=C30H52O
+##CAS REGISTRY NO=2130-12-3
+##MP= -300
+##BP= -300
+##MW= 428
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    95        450
+   109        999
+   123        800
+   135        350
+   137        360
+   149        450
+   163        220
+   177        270
+   203        220
+   205        950
+   217        180
+   219        150
+   231        500
+   233        250
+   245        350
+   397        650
+   428         10

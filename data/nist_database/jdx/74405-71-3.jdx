@@ -1,0 +1,50 @@
+##TITLE=Library Entry 58030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,3-di-O-methyl-4-O-(2,3,4-tri-O-methyl.alpha.d-xylopyrano
+syl).beta.d-xylopyranoside
+##MOLFORM=C16H30O9
+##CAS REGISTRY NO=74405-71-3
+##MP= -300
+##BP= -300
+##MW= 366
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    45         86
+    58         26
+    59         57
+    71        199
+    75        377
+    83         48
+    84         37
+    85         55
+    87         77
+    88        999
+    99        177
+   101        666
+   111         62
+   114         67
+   115        222
+   129         11
+   131         22
+   143        622
+   145        111
+   157          5
+   159          9
+   161          3
+   174          4
+   175        422
+   197          5
+   205          2
+   229         99
+   235        144
+   249          3
+   261         77
+   274          2
+   275          1
+   303          1
+   336          0

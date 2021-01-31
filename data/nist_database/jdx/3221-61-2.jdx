@@ -1,0 +1,45 @@
+##TITLE=Library Entry 7641
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Octane, 2-methyl-
+##MOLFORM=C9H20
+##CAS REGISTRY NO=3221-61-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=865
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        210
+    28         40
+    29        230
+    30         10
+    39        100
+    40         20
+    41        350
+    42        280
+    43        999
+    44         30
+    51         10
+    53         20
+    54         10
+    55         90
+    56        150
+    57        510
+    58         20
+    69         40
+    70         20
+    71        280
+    72         10
+    84        130
+    85        170
+    86         10
+    99         10
+   112         20
+   113         70
+   114         10
+   128         20

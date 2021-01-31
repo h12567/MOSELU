@@ -1,0 +1,43 @@
+##TITLE=Library Entry 10278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.KOSSANYI UNIV. OF PARIS, PARIS, FRANCE
+##NAMES=HP
+##CAS NAME=Tricyclo[2.2.1.0(2,6)]heptan-3-ol, acetate
+##MOLFORM=C9H12O2
+##CAS REGISTRY NO=6555-48-2
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        110
+    43        999
+    44         30
+    51         50
+    53         70
+    54         40
+    55         90
+    65         60
+    66        390
+    67        110
+    68         40
+    77        120
+    78         60
+    79        200
+    80         30
+    81        150
+    82         40
+    90         30
+    91        320
+    92        460
+    93         80
+    95         80
+   109         70
+   110        160
+   126         20
+   136         10
+   152        120

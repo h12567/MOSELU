@@ -1,0 +1,59 @@
+##TITLE=Library Entry 22049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-n-1-tridecene
+##MOLFORM=C14H28
+##CAS REGISTRY NO=18094-01-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1386
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        139
+    28         89
+    29        270
+    32         10
+    39        145
+    40         46
+    41        567
+    42         95
+    43        296
+    44         13
+    51          7
+    52          6
+    53         60
+    54         52
+    55        415
+    56        999
+    57        468
+    58         18
+    65          9
+    66          7
+    67         71
+    68         60
+    69        368
+    70        167
+    71         49
+    79         11
+    81         25
+    82         39
+    83        122
+    84         75
+    85         29
+    95          9
+    96         23
+    97         95
+    98         30
+   110         12
+   111         59
+   112         25
+   125         16
+   126          7
+   140         29
+   168         20
+   181         10
+   196         37

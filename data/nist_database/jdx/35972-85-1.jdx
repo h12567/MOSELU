@@ -1,0 +1,30 @@
+##TITLE=Library Entry 88768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.H.LEON UNILEVER RES., LONDON RD., ISLEWORTH, MIDDX.,
+ UK
+##NAMES=HP
+##CAS NAME=2-Furancarbodithioic acid, methyl ester
+##MOLFORM=C6H6OS2
+##CAS REGISTRY NO=35972-85-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39         35
+    44         49
+    45         54
+    69         31
+    71         22
+    76         33
+    82         37
+    83         64
+   111        999
+   112         63
+   113         47
+   158        645
+   159         52
+   160         59

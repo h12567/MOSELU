@@ -1,0 +1,26 @@
+##TITLE=Library Entry 76992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphoryl fluoride
+##MOLFORM=F3OP
+##CAS REGISTRY NO=13478-20-1
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    16          3
+    31         26
+    32          4
+    36          3
+    47         22
+    50         41
+    66          7
+    69        169
+    85        853
+    88         23
+   104        999

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 32768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4602
+##NAMES=HP
+##CAS NAME=3-Heptyne
+##MOLFORM=C7H12
+##CAS REGISTRY NO=2586-89-2
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=718
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         16
+    25          1
+    26         27
+    27        232
+    28          9
+    29        138
+    30          3
+    36          1
+    37         17
+    38         43
+    39        430
+    40        114
+    41        835
+    42        104
+    43         30
+    44          5
+    45          2
+    48          1
+    49          8
+    50         62
+    51        116
+    52         72
+    53        487
+    54        245
+    55        264
+    56         49
+    57          5
+    58          1
+    60          2
+    61         11
+    62         25
+    63         51
+    64         10
+    65        212
+    66        110
+    67        999
+    68        291
+    69         23
+    70          2
+    71          2
+    73          3
+    74          9
+    75          4
+    76          2
+    77         91
+    78         17
+    79        323
+    80         34
+    81        925
+    82         63
+    83          8
+    84          1
+    85          2
+    86          2
+    87          1
+    89          1
+    91         16
+    92          3
+    93         11
+    94          4
+    95         68
+    96        695
+    97         55
+    98          2

@@ -1,0 +1,88 @@
+##TITLE=Library Entry 3928
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2(1H)-Naphthalenone, octahydro-4a,5-dimethyl-3-(1-methylethyl)-,
+ (3.alpha.,4a.beta.,5.beta.,8a.alpha.)-
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=55332-04-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        130
+    43        350
+    44         10
+    51         30
+    52         20
+    53        200
+    54         60
+    55        620
+    56         50
+    57         50
+    65         60
+    66         30
+    67        290
+    68        140
+    69        430
+    70         70
+    71         60
+    77         70
+    78         20
+    79        120
+    80         30
+    81        330
+    82        100
+    83        240
+    84         30
+    85         10
+    91         70
+    92         10
+    93         60
+    94         20
+    95        280
+    96         60
+    97        100
+    98         70
+    99         20
+   105         20
+   107         50
+   108         50
+   109        460
+   110        640
+   111         90
+   112         10
+   119         20
+   121         20
+   122         50
+   123        110
+   124         50
+   125         30
+   126         10
+   133         10
+   135         20
+   137         30
+   138         10
+   139         10
+   147         10
+   149         10
+   151         60
+   152         10
+   153        250
+   154         20
+   161         10
+   162         10
+   165         10
+   179         60
+   180        280
+   181         20
+   207        270
+   208         30
+   222        180
+   223         20

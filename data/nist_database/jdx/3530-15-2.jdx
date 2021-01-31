@@ -1,0 +1,47 @@
+##TITLE=Library Entry 5113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Amino-3,5-dimethyl-1,2,4-triazole
+##MOLFORM=C4H8N4
+##CAS REGISTRY NO=3530-15-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          7
+    14         12
+    15        113
+    16         12
+    17          7
+    25         15
+    26         72
+    27         85
+    28         57
+    29         88
+    30        183
+    31          8
+    37          8
+    38         23
+    39         44
+    40        107
+    41         86
+    42        999
+    43         46
+    51          7
+    52         11
+    53         17
+    54          7
+    55          9
+    56         19
+    57         19
+    64          7
+    66         14
+    97          4
+   112        313
+   113         20

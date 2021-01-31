@@ -1,0 +1,83 @@
+##TITLE=Library Entry 86873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=p-Octadecyloxyaniline
+##MOLFORM=C24H43NO
+##CAS REGISTRY NO=4105-89-9
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    17          1
+    18          3
+    27         16
+    28         11
+    29         52
+    30          0
+    32          1
+    39         16
+    41        128
+    42         23
+    43        166
+    44          5
+    51          1
+    52          5
+    53         19
+    54          9
+    55         80
+    56         13
+    57         60
+    58          2
+    63          1
+    64          2
+    65         14
+    66          3
+    67          6
+    68          3
+    69         30
+    70          4
+    71         13
+    72          0
+    77          4
+    78          1
+    80         49
+    81         13
+    82          3
+    83         13
+    84          1
+    85          5
+    91          2
+    92         14
+    93          7
+    94         19
+    95          2
+    97          6
+   106          2
+   108         88
+   109        999
+   110         94
+   111          7
+   120          2
+   122         19
+   123          2
+   134          0
+   135          2
+   136          1
+   163          1
+   177          1
+   191          1
+   205          1
+   219          1
+   233          1
+   247          1
+   261          1
+   275          0
+   361        238
+   362         64
+   363          9
+   364          1

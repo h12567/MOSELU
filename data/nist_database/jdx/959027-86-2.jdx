@@ -1,0 +1,51 @@
+##TITLE=Library Entry 70211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Methylphosphonic acid, mono-(2,2-dimethylcyclohexyl) ester
+##MOLFORM=C9H19O3P
+##CAS REGISTRY NO=959027-86-2
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         80
+    29         78
+    31         16
+    39         99
+    40         21
+    41        226
+    42         26
+    43         70
+    45         22
+    47         46
+    53         57
+    54         36
+    55        117
+    56         31
+    57         36
+    65         33
+    66         42
+    67        254
+    68        106
+    69        105
+    77         21
+    78         35
+    79        142
+    80         34
+    81        172
+    82        274
+    83         21
+    93         15
+    95        302
+    96         62
+    97        999
+   109         17
+   110        163
+   111         27
+   123         35
+   175         19

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 20925
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2H-Pyran, 2-(3-heptadecynyloxy)tetrahydro-
+##MOLFORM=C22H40O2
+##CAS REGISTRY NO=56666-94-5
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        744
+    43        577
+    55        999
+    57        458
+    67        429
+    69        427
+    81        524
+    83        411
+    84        485
+    85        780
+    95        469
+    96        292
+    97        468
+   101        392
+   109        261
+   115        268
+   139         84
+   153        240
+   167         48
+   180         26
+   205         21
+   208         32
+   209         46
+   218         24
+   219         54
+   223         18
+   252         59
+   263         35
+   264         14
+   265         83
+   266         14
+   278         19
+   280         49
+   281         40
+   306         32
+   307         12
+   308         21
+   335         12
+   336         62
+   337         12

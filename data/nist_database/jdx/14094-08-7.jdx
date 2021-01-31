@@ -1,0 +1,67 @@
+##TITLE=Library Entry 3140
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Propane, 1-(methylsulfinyl)-
+##MOLFORM=C4H10OS
+##CAS REGISTRY NO=14094-08-7
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=818
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14         14
+    15        120
+    16         14
+    26         39
+    27        734
+    28        198
+    29        101
+    31         29
+    32         57
+    33         11
+    34         16
+    35         33
+    37         17
+    38         38
+    39        278
+    40         36
+    41        999
+    42         92
+    43        645
+    44         24
+    45        118
+    46         71
+    47        188
+    48         81
+    49         42
+    50         11
+    51         18
+    55         30
+    56         14
+    57         39
+    58         10
+    59         13
+    61        198
+    62         12
+    63        150
+    64        840
+    65         31
+    66         40
+    69         14
+    71         11
+    75         24
+    76         12
+    77         20
+    78         12
+    81         15
+    89         35
+    90         87
+    91         19
+   106        211
+   107         14
+   108         12

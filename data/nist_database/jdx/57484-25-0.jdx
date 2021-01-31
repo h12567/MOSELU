@@ -1,0 +1,44 @@
+##TITLE=Library Entry 15206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Biphenyl-4-carboxylic acid, 4'-(1,1-dimethylethyl)-
+##MOLFORM=C17H18O2
+##CAS REGISTRY NO=57484-25-0
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        809
+    43        146
+    44        999
+    45        100
+    55        118
+    57        311
+    59         34
+    77        261
+    91        191
+   115        153
+   129         67
+   152        179
+   153        111
+   154        138
+   155        254
+   165        145
+   167        208
+   178        104
+   179         65
+   181        146
+   182         35
+   195        680
+   210        181
+   224         28
+   225         49
+   239        176
+   243         35
+   254         50
+   255         10

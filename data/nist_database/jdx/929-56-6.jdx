@@ -1,0 +1,73 @@
+##TITLE=Library Entry 17019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Octane, 1-methoxy-
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=929-56-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1026
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15         10
+    26          4
+    27         70
+    28         22
+    29        122
+    30          3
+    31         10
+    33         12
+    37          1
+    38          3
+    39         84
+    40         17
+    41        292
+    42        158
+    43        180
+    45        999
+    46         23
+    47         10
+    50          2
+    51          6
+    52          3
+    53         26
+    54         28
+    55        276
+    56        449
+    57        114
+    58         21
+    59          8
+    60          3
+    63          1
+    65          4
+    66          2
+    67         24
+    68         99
+    69        259
+    70        233
+    71         48
+    72          3
+    73          1
+    77          2
+    79          3
+    81          4
+    82         75
+    83        214
+    84        305
+    85         21
+    86          1
+    87         11
+    88          1
+    95          1
+    97         22
+    98          3
+   101          6
+   110          1
+   112        168
+   113         15
+   114          1
+   143          1

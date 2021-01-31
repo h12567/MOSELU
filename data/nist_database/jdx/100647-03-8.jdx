@@ -1,0 +1,29 @@
+##TITLE=Library Entry 30192
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.GATTOW, INST. ANORG. CHEM. ANAL. CHEM., UNIV. MAINZ,
+ W. GER.
+##NAMES=HP
+##CAS NAME=N-Formyldithiocarbamic acid
+##MOLFORM=C2H3NOS2
+##CAS REGISTRY NO=100647-03-8
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    45        447
+    58        213
+    59        999
+    60        691
+    61        107
+    62         65
+    64         42
+    76        984
+    77        109
+    78        131
+    88         85
+    93         64
+   121        447

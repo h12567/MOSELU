@@ -1,0 +1,32 @@
+##TITLE=Library Entry 21992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyanic acid, propyl ester
+##MOLFORM=C4H7NO
+##CAS REGISTRY NO=1768-36-1
+##MP= -300
+##BP= -300
+##MW= 85
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    26        102
+    27        714
+    28        337
+    29        400
+    30        285
+    31        114
+    38         45
+    39        234
+    40         62
+    41        759
+    42        457
+    43        719
+    56        999
+    57        240
+    70         74
+    84        325
+    85        137

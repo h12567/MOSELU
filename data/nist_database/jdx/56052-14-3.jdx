@@ -1,0 +1,53 @@
+##TITLE=Library Entry 10346
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Heptanoic acid, phenyl ester
+##MOLFORM=C13H18O2
+##CAS REGISTRY NO=56052-14-3
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    40         10
+    41        180
+    42         30
+    43        999
+    44         30
+    51         40
+    55        110
+    56         20
+    57        130
+    59         10
+    60         10
+    65         80
+    66         30
+    67         60
+    68         40
+    71         20
+    73         30
+    77         70
+    83         10
+    84         20
+    85        200
+    86         10
+    91         10
+    92         20
+    93        280
+    94        840
+    95         90
+    99         30
+   106         20
+   113        620
+   114         50
+   121         10
+   134         10
+   136         10
+   163         70
+   206        110
+   207         10

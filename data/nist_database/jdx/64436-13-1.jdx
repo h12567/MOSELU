@@ -1,0 +1,33 @@
+##TITLE=Library Entry 60423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.R.CANNON,DEP. ORG. CHEM., WEST. AUST. UNIV., NEDLANDS
+, AUST.
+##NAMES=HP
+##CAS NAME=Arsenobetaine
+##MOLFORM=C5H11AsO2
+##CAS REGISTRY NO=64436-13-1
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    75         70
+    76         30
+    77         30
+    88         80
+    89        550
+    90        180
+    91        999
+   101        200
+   102         80
+   103        500
+   104         50
+   105        280
+   117        180
+   119         80
+   120        200
+   134        370
+   135         70

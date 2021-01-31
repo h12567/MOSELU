@@ -1,0 +1,62 @@
+##TITLE=Library Entry 76546
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Benzene, (1-bromoethenyl)-
+##MOLFORM=C8H7Br
+##CAS REGISTRY NO=98-81-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    18          0
+    26          5
+    27         12
+    28          1
+    32          0
+    36          1
+    37          5
+    38         13
+    39         21
+    43          2
+    49          8
+    50         76
+    51        156
+    52         27
+    53          3
+    61          9
+    62         23
+    63         46
+    64          3
+    65          1
+    73          8
+    74         53
+    75         47
+    76         62
+    77        321
+    78         22
+    79          1
+    80          1
+    81          2
+    82          1
+    85          1
+    86          2
+    87          6
+    90          1
+    91         13
+    92         10
+    97          1
+    98          8
+    99          1
+   101         10
+   102        104
+   103        999
+   104         77
+   182        161
+   183         11
+   184        155
+   185         11

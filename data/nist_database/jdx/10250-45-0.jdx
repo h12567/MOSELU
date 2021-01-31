@@ -1,0 +1,46 @@
+##TITLE=Library Entry 8534
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=4-Heptanol, 2,6-dimethyl-, acetate
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=10250-45-0
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1092
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    37         45
+    39          7
+    41         58
+    42         27
+    43        999
+    44         78
+    45         28
+    55        229
+    56        435
+    57        281
+    58        157
+    59         57
+    61         45
+    68         36
+    69        588
+    70        325
+    71        105
+    83         99
+    84         67
+    85         98
+    86         67
+    87         28
+    98         88
+   100          6
+   101         78
+   111         99
+   126        157
+   127         45
+   129        292
+   130         38
+   144          7

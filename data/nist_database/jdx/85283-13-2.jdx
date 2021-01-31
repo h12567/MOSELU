@@ -1,0 +1,31 @@
+##TITLE=Library Entry 50055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.O. HOUSE, SCH. CHEM., GA. INST. TECHNOL., ATLANTA, GA
+., USA
+##NAMES=HP
+##CAS NAME=cis-syn-6-tert-Butylperhydroazulen-4(1H)-one
+##MOLFORM=C14H24O
+##CAS REGISTRY NO=85283-13-2
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        200
+    41        730
+    55        410
+    57        750
+    67        680
+    69        210
+    81        999
+    95        270
+   110        230
+   111        570
+   123        430
+   151        610
+   152        610
+   167        250
+   208        130

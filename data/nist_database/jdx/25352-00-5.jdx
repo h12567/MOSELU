@@ -1,0 +1,57 @@
+##TITLE=Library Entry 20048
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Bicyclo[3.2.1]octane-2,3,4-trione
+##MOLFORM=C8H8O3
+##CAS REGISTRY NO=25352-00-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         32
+    27        209
+    29          3
+    31          5
+    33          4
+    34          4
+    36          0
+    37         17
+    38         39
+    39        192
+    40         26
+    41         72
+    42         26
+    47          0
+    48          1
+    49          4
+    50         14
+    51         14
+    52          8
+    53         75
+    54          5
+    55        999
+    56         31
+    61          4
+    62          6
+    63          8
+    64          1
+    65         20
+    66         17
+    67        275
+    68        278
+    69         12
+    74          0
+    76          0
+    78          6
+    96        235
+    97          8
+   124        108
+   125          4
+   152         42
+   153          2

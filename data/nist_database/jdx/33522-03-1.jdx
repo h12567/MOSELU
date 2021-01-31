@@ -1,0 +1,78 @@
+##TITLE=Library Entry 3485
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Cyclopentyl isothiocyanate
+##MOLFORM=C6H9NS
+##CAS REGISTRY NO=33522-03-1
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         19
+    25          3
+    26         39
+    27        184
+    28         64
+    29         24
+    32         26
+    33          3
+    37         18
+    38         48
+    39        380
+    40         82
+    41        999
+    42         58
+    43         11
+    44         25
+    45         32
+    46          5
+    49          3
+    50         12
+    51         24
+    52         15
+    53         62
+    54         17
+    55          9
+    56          3
+    57         14
+    58        103
+    59         66
+    60         26
+    61          7
+    62          9
+    63          8
+    64          5
+    65         32
+    66          3
+    67        317
+    68        506
+    69        710
+    70         61
+    71         33
+    72         82
+    73          5
+    74          4
+    78          3
+    80          3
+    82          3
+    83          4
+    84         13
+    85         52
+    86          8
+    87          3
+    94          8
+    96          2
+    98         50
+    99         18
+   100          4
+   112          4
+   127        517
+   128         40
+   129         26
+   130          2

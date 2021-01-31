@@ -1,0 +1,85 @@
+##TITLE=Library Entry 6591
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1178
+##NAMES=HP
+##CAS NAME=6-Amino-1,3,5-triazine-2,4(1H,3H)-dione
+##MOLFORM=C3H4N4O2
+##CAS REGISTRY NO=645-93-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    12         22
+    13         45
+    14         21
+    15         56
+    16         23
+    17         34
+    18         10
+    25          1
+    26         42
+    27        109
+    28        177
+    29        174
+    30         14
+    31          4
+    32          2
+    35          1
+    36          6
+    38          7
+    39          8
+    40         16
+    41        119
+    42        765
+    43        999
+    44        149
+    45          3
+    50          2
+    51          1
+    52          5
+    53         22
+    54         46
+    55          8
+    56         13
+    57          6
+    58          1
+    59          3
+    60          4
+    64          1
+    65          1
+    66         12
+    67          5
+    68         23
+    69        185
+    70         26
+    71          3
+    73          1
+    79          1
+    81          4
+    82          6
+    83          7
+    84         12
+    85        453
+    86         19
+    87          8
+    91          1
+    95          1
+    96          1
+    97          2
+    98          2
+    99          2
+   100          7
+   109         36
+   110          3
+   111         11
+   112         11
+   113          1
+   126         13
+   127         20
+   128        351
+   129         18
+   130          2

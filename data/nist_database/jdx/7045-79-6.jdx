@@ -1,0 +1,62 @@
+##TITLE=Library Entry 2426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.Dagaut ET AL.Chromatographia,40,147,(1995)
+##NAMES=HP
+##CAS NAME=Oxetane, 2-methyl-4-propyl-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=7045-79-6
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    36         11
+    37         51
+    38         76
+    39        612
+    40         98
+    41        999
+    42        565
+    43        654
+    44         54
+    45        156
+    46         12
+    50         38
+    51         41
+    52         21
+    53         78
+    54         64
+    55        633
+    56        464
+    57        188
+    58         45
+    59        113
+    61          5
+    62          5
+    65         22
+    66         14
+    67        141
+    68         17
+    69         52
+    70        226
+    71        180
+    72         58
+    73        179
+    74          9
+    77         10
+    79         32
+    81        121
+    82         22
+    83         14
+    84         33
+    85        108
+    86         11
+    96         16
+    97         18
+    98          9
+    99        105
+   100         12
+   113          5

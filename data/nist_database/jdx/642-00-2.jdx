@@ -1,0 +1,60 @@
+##TITLE=Library Entry 11408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=D-Mannitol, hexaacetate
+##MOLFORM=C18H26O12
+##CAS REGISTRY NO=642-00-2
+##MP= -300
+##BP= -300
+##MW= 434
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41          8
+    42         20
+    43        999
+    44         44
+    45         20
+    55          8
+    60         12
+    61          8
+    68         16
+    69         16
+    73         28
+    85         44
+    86         28
+    97         44
+    98         16
+    99          8
+   103         84
+   110         28
+   111         20
+   115        164
+   116         32
+   127         64
+   128         80
+   129          8
+   139        120
+   140         12
+   145        112
+   146          8
+   152         20
+   153         28
+   157         80
+   158         20
+   170         76
+   171          8
+   175         20
+   187        124
+   188         12
+   199          8
+   212         12
+   217         60
+   259         68
+   260         12
+   289         44
+   361         20

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 73880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Glucopyranoside, 2,3,4,6-tetra-O-methyl-.alpha.-D-gluco
+pyranosyl 2,3,4,6-tetra-O-methyl-
+##MOLFORM=C20H38O11
+##CAS REGISTRY NO=25018-29-5
+##MP= -300
+##BP= -300
+##MW= 454
+##$RETENTION INDEX=2281
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    45        509
+    59         40
+    71        130
+    75        130
+    88         65
+    99         45
+   101        999
+   111        192
+   115         56
+   127         53
+   129         24
+   131         27
+   143         44
+   145         49
+   155         78
+   159         15
+   187        320
+   219         23
+   235         10
+   249         15
+   275         41
+   279          4
+   293          1
+   305          4
+   307         34
+   409          1

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 5370
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyrimido[5,4-e]-1,2,4-triazin-7-amine, 3-methyl-5-(trifluoromethy
+l)-
+##MOLFORM=C7H5F3N6
+##CAS REGISTRY NO=32709-28-7
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    40         42
+    41         57
+    42        999
+    43         51
+    52         27
+    53         80
+    64         38
+    65         38
+    66        148
+    68         51
+    69        112
+    70         31
+    71         42
+    91        170
+    92        229
+   100        110
+   101         34
+   120        229
+   141         38
+   161        536
+   162         38
+   202        716
+   203         68
+   230         27

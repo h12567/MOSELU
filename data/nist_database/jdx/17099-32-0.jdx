@@ -1,0 +1,44 @@
+##TITLE=Library Entry 14444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. STEFANOVIC
+##NAMES=HP
+##CAS NAME=Niobium, dichlorodimethoxy(2,4-pentanedionato-O,O')-
+##MOLFORM=C7H13Cl2NbO4
+##CAS REGISTRY NO=17099-32-0
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         80
+    43        999
+   137         63
+   144         55
+   161         79
+   175        147
+   177         49
+   179         47
+   181         16
+   225        400
+   227        267
+   229         47
+   243        129
+   245         43
+   258         51
+   259         33
+   260         17
+   261         11
+   289        999
+   291        333
+   293        121
+   294         33
+   295         87
+   296         23
+   297         13
+   298          3
+   324         75
+   326         55
+   328         17

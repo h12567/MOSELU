@@ -1,0 +1,38 @@
+##TITLE=Library Entry 50695
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. M. PECHINE
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1-bromo-2-chloro-, cis-
+##MOLFORM=C6H10BrCl
+##CAS REGISTRY NO=51422-75-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    27         51
+    29         11
+    39         77
+    40         14
+    41         93
+    51         19
+    53         55
+    54         17
+    55         25
+    65         12
+    67         10
+    75         42
+    77         34
+    79        158
+    80         16
+    81        999
+    82         68
+   117        160
+   118         10
+   119         54
+   196         47
+   198         61
+   200         14

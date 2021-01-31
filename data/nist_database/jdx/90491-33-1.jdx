@@ -1,0 +1,36 @@
+##TITLE=Library Entry 3073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.A. TSIPIS, DEP. INORG. CHEM., THESSALONIKI UNIV., GRE
+ECE
+##NAMES=HP
+##CAS NAME=Bis(N-tert-butyldithiocarbamato)platinum(ii)
+##MOLFORM=C10H20N2PtS4
+##CAS REGISTRY NO=90491-33-1
+##MP= -300
+##BP= -300
+##MW= 491
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    15         69
+    27        593
+    32        261
+    33        168
+    34        411
+    41        999
+    57        834
+    72        118
+    76        667
+    77        241
+    83         75
+   115        448
+   149         28
+   259          5
+   303          6
+   311          5
+   343          7
+   375         12
+   418          8
+   491          6

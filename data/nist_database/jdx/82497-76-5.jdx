@@ -1,0 +1,54 @@
+##TITLE=Library Entry 11290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H. BANOUB, DEP. FISH. OCEANS, N.A.F.C., NEWFOUNDLAND,
+ CAN.
+##NAMES=HP
+##CAS NAME=1,5-Di-O-acetyl-3,6-dideoxy-2,4-di-O-methyl-3-(N-methylacetamido)
+-l-glucitol
+##MOLFORM=C15H27NO7
+##CAS REGISTRY NO=82497-76-5
+##MP= -300
+##BP= -300
+##MW= 333
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        190
+    42        190
+    43        999
+    44         70
+    45        300
+    55        130
+    56        110
+    57        210
+    58        180
+    59         70
+    69        150
+    70         60
+    71        150
+    72         90
+    81         60
+    85        100
+    87        160
+    88         80
+    89         90
+    91         70
+    98         70
+    99         80
+   100        510
+   101        190
+   114        530
+   115         70
+   117        100
+   130        240
+   131        110
+   135         70
+   142        270
+   143         70
+   156        380
+   157         60
+   160        210
+   202        430
+   216        310

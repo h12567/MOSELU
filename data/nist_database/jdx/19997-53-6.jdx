@@ -1,0 +1,87 @@
+##TITLE=Library Entry 99330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Bromomethyl-2,3-dihydrobenzofuran
+##MOLFORM=C9H9BrO
+##CAS REGISTRY NO=19997-53-6
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+     4          3
+    14          4
+    15         14
+    18          1
+    26         40
+    27        155
+    28         18
+    29         18
+    37         24
+    38         84
+    39        240
+    40         21
+    41         23
+    42          7
+    43         15
+    44          5
+    49         17
+    50        145
+    51        362
+    52        129
+    53         53
+    54          9
+    55         84
+    56          3
+    57         13
+    61         21
+    62         65
+    63        152
+    64         42
+    65        134
+    66         90
+    73          7
+    74         43
+    75         39
+    76         41
+    77        320
+    78        181
+    79        176
+    80         15
+    81         10
+    82          4
+    86          6
+    87         13
+    88          7
+    89         89
+    90         61
+    91        557
+    92         47
+    93         15
+    94          5
+    95         12
+   101          8
+   102         27
+   103        133
+   104         45
+   105        369
+   106         38
+   107         19
+   108          3
+   115         60
+   116          7
+   119        999
+   120         90
+   121          6
+   131        120
+   132         34
+   133        305
+   134         33
+   212        269
+   213         30
+   214        258
+   215         31

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 24990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4H,5aH,9H-furo[2,3-b]furo[3',2':2,3]cyclopenta[1,2-c]furan-2,4,7(
+3H,8H)-trione, 9-(1,1-dimethylethyl)-10,10a-dihydro-8,9-dihydroxy-, [5as-(3a
+r*,5a.alpha.,8.beta.,8ar*,9.alpha.,10a.alpha.)]-
+##MOLFORM=C15H18O8
+##CAS REGISTRY NO=33570-04-6
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    40         18
+    41        301
+    42        128
+    43        186
+    57        999
+    58        425
+    59        128
+    60         28
+   127         74
+   128         16
+   129        351
+   130         46
+   131         22
+   151          8
+   152         46
+   153         10
+   154        136
+   166         14
+   167         36
+   168        114
+   178        140
+   179         38
+   180          8
+   196        200
+   197         24
+   198         12
+   224         66
+   242         48
+   252         40
+   269         42
+   270        172
+   271         44
+   272         16
+   325         20
+   326         70

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 45604
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin,TIPS,Russian Acad.Sci.Moscow
+##NAMES=HP
+##CAS NAME=2-Dichloromethyl(dimethyl)silyloxypropane
+##MOLFORM=C6H14Cl2OSi
+##CAS REGISTRY NO=18209-57-9
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26         19
+    27        129
+    28         24
+    29         65
+    30          6
+    31         15
+    35          6
+    36         35
+    38          8
+    39         49
+    40          6
+    41         74
+    42         35
+    43        129
+    44         29
+    45        119
+    46          6
+    47         59
+    48         15
+    49          6
+    50          8
+    51         15
+    52          8
+    53          8
+    55         15
+    57         17
+    58         39
+    59        109
+    60         16
+    61         22
+    63         69
+    65         39
+    69          7
+    75        999
+    76         75
+    77         47
+    78         29
+    79         49
+    80         19
+    81         19
+    83         19
+    85         11
+    88         29
+    93         27
+    95         78
+    97         29
+    98         18
+    99         29
+   100          7
+   101         17
+   105          9
+   106          7
+   108          8
+   113        119
+   114          7
+   115        129
+   116         12
+   117        845
+   118         79
+   119         39

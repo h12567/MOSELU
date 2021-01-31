@@ -1,0 +1,77 @@
+##TITLE=Library Entry 64943
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethyl 3-pyridylacetate
+##MOLFORM=C9H11NO2
+##CAS REGISTRY NO=39931-77-6
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          9
+    16          1
+    18          1
+    25          2
+    26         19
+    27         78
+    28         30
+    29        347
+    30         17
+    36          1
+    37         17
+    38         70
+    39        330
+    40         23
+    41          2
+    42          5
+    43          2
+    46          8
+    47          3
+    49          2
+    50         18
+    51         21
+    52         16
+    53         17
+    54          4
+    55          3
+    56          1
+    61          8
+    62         28
+    63         97
+    64         63
+    65        320
+    66         44
+    67         14
+    68          1
+    75          1
+    76          2
+    77          2
+    78          6
+    79          5
+    80          8
+    81          1
+    88          2
+    89          1
+    92        999
+    93        316
+    94         19
+   106         20
+   107          1
+   108          5
+   118          1
+   119          9
+   120         67
+   121         78
+   122          9
+   137         20
+   138          2
+   150          1
+   165        310
+   166         30
+   167          2

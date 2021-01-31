@@ -1,0 +1,40 @@
+##TITLE=Library Entry 61172
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, 1,1'-[1,4-butanediylbis(oxymethylene)]bis-
+##MOLFORM=C18H22O2
+##CAS REGISTRY NO=6282-65-1
+##MP= -300
+##BP= -300
+##MW= 270
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41         39
+    42         19
+    43         39
+    50          9
+    51         29
+    55        108
+    56          9
+    57         29
+    63         19
+    65         69
+    71         99
+    73        198
+    77         59
+    78         19
+    79         49
+    91        999
+    92        168
+    93          9
+   105         59
+   106         39
+   107        336
+   108         39
+   131          9
+   179         39

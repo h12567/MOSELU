@@ -1,0 +1,47 @@
+##TITLE=Library Entry 69363
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2-methylcyclohexyl ester, trans-
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=15287-81-7
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        320
+    42         50
+    43         70
+    45         20
+    53         60
+    54        100
+    55        550
+    56         70
+    57        570
+    58         40
+    67        250
+    68        220
+    69         50
+    72         20
+    73         50
+    77         20
+    79         30
+    81        630
+    82         40
+    83         10
+    84         20
+    85        870
+    86         40
+    95         70
+    96        999
+    97        380
+    98         30
+   102         20
+   103         80
+   113         20
+   114         60

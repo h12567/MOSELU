@@ -1,0 +1,79 @@
+##TITLE=Library Entry 34451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Octene, 2-methyl-6-methylene-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=10054-09-8
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    24          9
+    25          0
+    26          6
+    27        149
+    29         88
+    30          2
+    34          0
+    35          0
+    37          3
+    38          8
+    39        185
+    40         34
+    41        785
+    42         36
+    43         39
+    49          0
+    50          9
+    51         26
+    52         11
+    53         98
+    54         20
+    55         59
+    56          6
+    57          3
+    61          0
+    62          2
+    63          8
+    64          1
+    65         20
+    66         11
+    67        119
+    68         58
+    69        999
+    70         68
+    71          2
+    74          0
+    75          1
+    76          0
+    77         21
+    78          4
+    79         21
+    80          4
+    81         33
+    82         22
+    83          2
+    89          0
+    91         15
+    92          1
+    93          9
+    94         44
+    95        244
+    96         23
+    97          0
+   103          0
+   105          2
+   107          3
+   108          1
+   109        105
+   110          9
+   111          0
+   121          0
+   123         13
+   124          1
+   138          3

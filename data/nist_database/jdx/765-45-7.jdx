@@ -1,0 +1,28 @@
+##TITLE=Library Entry 28696
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-Methyl-1-ethyl-1-silacyclobutane
+##MOLFORM=C6H14Si
+##CAS REGISTRY NO=765-45-7
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    58        999
+    59        130
+    60         30
+    70        120
+    71         20
+    72        110
+    85        100
+    86        770
+    87         80
+    88         20
+   114        180
+   115         21
+   116          7

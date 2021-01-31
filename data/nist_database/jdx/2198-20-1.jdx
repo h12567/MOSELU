@@ -1,0 +1,55 @@
+##TITLE=Library Entry 18635
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.THIES OREGON STATE UNIV., CORVALLIS, OREGON, USA
+##NAMES=HP
+##CAS NAME=Cyclodecene, (E)-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=2198-20-1
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1122
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         20
+    39        460
+    40         80
+    41        960
+    42        120
+    43        140
+    50         10
+    51         40
+    52         40
+    53        190
+    54        999
+    55        850
+    56        110
+    57         20
+    63         20
+    65         50
+    66         80
+    67        850
+    68        460
+    69        180
+    70         20
+    77         40
+    78         20
+    79         70
+    80         30
+    81        610
+    82        380
+    83         60
+    84         10
+    91         20
+    93         20
+    94         20
+    95        320
+    96        150
+    97         40
+   109         80
+   110         90
+   111         10
+   138        100
+   139         20

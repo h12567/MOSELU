@@ -1,0 +1,53 @@
+##TITLE=Library Entry 17248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.G.GILLIS DEPT. OF SUPPLY, ASCOT VALE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=1-Propene, 1-(methylthio)-, (Z)-
+##MOLFORM=C4H8S
+##CAS REGISTRY NO=52195-40-1
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=728
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15         27
+    26         15
+    27         75
+    28        120
+    29         25
+    32         16
+    35         13
+    37         18
+    38         50
+    39        437
+    40         25
+    41        325
+    42         16
+    44        103
+    45        999
+    46        198
+    47        275
+    48         89
+    49         17
+    53         80
+    54         14
+    55         40
+    57         12
+    58         49
+    59         64
+    60         28
+    61         88
+    69         50
+    71        115
+    72        118
+    73        999
+    74         51
+    75         50
+    85         17
+    87         75
+    88        980
+    89         63
+    90         50

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 47980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(8)606(1975); A. SEL
+##NAMES=HP
+##CAS NAME=3,5-Pyrazolidinedione, 4,4'-(phenylmethylene)bis[1,2-diphenyl-
+##MOLFORM=C37H28N4O4
+##CAS REGISTRY NO=2652-72-4
+##MP= -300
+##BP= -300
+##MW= 592
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    51        160
+    64         80
+    77        999
+    84         90
+    91        100
+   102        210
+   105        330
+   130        290
+   183        240
+   184         80
+   252        180
+   271        160
+   272         50
+   340        600
+   592          5

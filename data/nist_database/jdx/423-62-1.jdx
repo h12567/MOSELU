@@ -1,0 +1,81 @@
+##TITLE=Library Entry 36183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 44
+##NAMES=HP
+##CAS NAME=Perfluorodecyl iodide
+##MOLFORM=C10F21I
+##CAS REGISTRY NO=423-62-1
+##MP= -300
+##BP= -300
+##MW= 646
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    31         24
+    50          5
+    51         10
+    69        999
+    70         13
+    74          1
+    81          6
+    93         22
+   100        116
+   101          5
+   112          9
+   113          1
+   119        424
+   120          9
+   124          2
+   127        234
+   128          9
+   131        357
+   132         10
+   143          9
+   150          7
+   151          1
+   155          1
+   158          4
+   162         12
+   169        374
+   170         11
+   177        201
+   178          2
+   181        134
+   182          6
+   189          1
+   193          6
+   208         12
+   212          1
+   219        283
+   220         10
+   227         45
+   228          1
+   231         70
+   232          3
+   239         23
+   243          3
+   258          1
+   269        159
+   270          8
+   277          9
+   281         47
+   282          3
+   289          2
+   319         28
+   320          1
+   327          1
+   331         28
+   332          2
+   369          2
+   381          5
+   431         33
+   432          3
+   481         19
+   482          2
+   519        107
+   520         10
+   627          7
+   646         15
+   647          1

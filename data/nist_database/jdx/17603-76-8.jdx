@@ -1,0 +1,76 @@
+##TITLE=Library Entry 48763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Methyl-1-octen-3-yne
+##MOLFORM=C9H14
+##CAS REGISTRY NO=17603-76-8
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=981
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    12          2
+    14         18
+    15         30
+    16          8
+    18          4
+    26         35
+    27        278
+    28        114
+    29        109
+    32         28
+    37         14
+    38         49
+    39        329
+    40         63
+    41        259
+    42         15
+    43         84
+    44          3
+    45          2
+    50         92
+    51        239
+    52         99
+    53        175
+    54         19
+    55         27
+    56         14
+    57          4
+    61         14
+    62         42
+    63        130
+    64         45
+    65        157
+    66        105
+    67         63
+    68         10
+    69          4
+    73          3
+    74         26
+    75         20
+    77        712
+    78        130
+    79        999
+    80        194
+    81         64
+    82          4
+    86          3
+    87          3
+    89          9
+    91        513
+    92         69
+    93        317
+    94         43
+    95          4
+   103         12
+   105         77
+   107        277
+   108         25
+   115          2
+   119          3
+   122        398
+   123         40

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 47917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.W.ROESKY INORG CHEM INST, UNIV., GOTTINGEN, GERMANY,
+ F.R.
+##NAMES=HP
+##CAS NAME=Phosphoramidothioic difluoride, [difluoro[[(trimethylsilyl)imidoc
+arbonyl]amino]phosphoranylidene]-
+##MOLFORM=C4H9F4N3P2SSi
+##CAS REGISTRY NO=27351-98-0
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    45        154
+    47        252
+    63        154
+    69        165
+    73        343
+    77        999
+   101         22
+   107         55
+   114         33
+   115         22
+   147        198
+   159        154
+   250        583
+   278         55
+   282        770
+   297        902

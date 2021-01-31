@@ -1,0 +1,73 @@
+##TITLE=Library Entry 73982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Silane, ethenylmethoxydimethyl-
+##MOLFORM=C5H12OSi
+##CAS REGISTRY NO=16546-47-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    25         15
+    26         79
+    27        165
+    28          6
+    29        249
+    30         69
+    31        195
+    36          9
+    37         33
+    38         35
+    39        159
+    40         45
+    41         45
+    42         35
+    43        126
+    44         31
+    45        118
+    46          8
+    47          8
+    51         11
+    52          4
+    53         41
+    54          8
+    55         61
+    56         18
+    57        418
+    58        161
+    59        361
+    60         27
+    61         32
+    65          8
+    66          8
+    67          6
+    69         18
+    70          7
+    71        195
+    72         11
+    73          6
+    74         22
+    75        273
+    76         27
+    77         11
+    83          4
+    85         25
+    86          6
+    87          4
+    89        147
+    90          6
+    91          9
+    93          4
+    95          4
+    97          4
+    99         28
+   100          6
+   101        999
+   102         93
+   103         38
+   116         29

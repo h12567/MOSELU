@@ -1,0 +1,64 @@
+##TITLE=Library Entry 62684
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=n-Heptane-1,7-di-aminocarboxylic acid, dibenzyl(ester)
+##MOLFORM=C23H30N2O4
+##CAS REGISTRY NO=150333-73-6
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41         24
+    42          5
+    43         12
+    44         11
+    45          2
+    50          4
+    51         17
+    52          4
+    55         33
+    56         19
+    63         14
+    65         82
+    69          9
+    70          4
+    74         27
+    77         42
+    78          4
+    79         64
+    80          4
+    84          2
+    86          4
+    89         32
+    91        999
+    92         88
+   100          9
+   104          2
+   105         10
+   106          2
+   107        126
+   108        106
+   109          6
+   112         12
+   120         13
+   140         10
+   144          2
+   155          6
+   157        302
+   158         28
+   180         11
+   183          6
+   201        157
+   202         22
+   247          4
+   263         88
+   264         15
+   290          2
+   291          2
+   398         14
+   399          2

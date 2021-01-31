@@ -1,0 +1,82 @@
+##TITLE=Library Entry 60803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.Klyuev, Institute of Ecology & Evolution, RAS, Moscow
+##NAMES=HP
+##CAS NAME=(1-Benzyl-1H-benzimiazol-2-yl)diazophenylketoxime
+##MOLFORM=C21H17N5O
+##CAS REGISTRY NO=76128-56-8
+##MP= -300
+##BP= -300
+##MW= 355
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    40         40
+    41        128
+    42         38
+    43        158
+    50        104
+    51        125
+    52         44
+    53         19
+    54         13
+    63         50
+    64         31
+    65        182
+    66         21
+    75         57
+    76        176
+    77        202
+    78         41
+    89         31
+    90         38
+    91        999
+    92        110
+    93         21
+   101         12
+   102         41
+   103        341
+   104         88
+   105         70
+   117         13
+   118         22
+   119         72
+   120         76
+   121         22
+   130         81
+   131         21
+   132         14
+   133         14
+   134         12
+   158         74
+   179         25
+   180         14
+   194         30
+   195         15
+   196         30
+   205         35
+   206         42
+   207         99
+   208         77
+   209         14
+   219         10
+   220         68
+   221         22
+   222         41
+   223         34
+   231        107
+   232         18
+   235         78
+   250         10
+   308          1
+   310          2
+   311          1
+   323         40
+   324        125
+   325         81
+   326         30
+   338         17
+   339         44
+   355          5

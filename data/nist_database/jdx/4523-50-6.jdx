@@ -1,0 +1,62 @@
+##TITLE=Library Entry 55800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=1-p-Nitrophenylbiguanide
+##MOLFORM=C8H10N6O2
+##CAS REGISTRY NO=4523-50-6
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         57
+    43        357
+    44         29
+    46         20
+    49          5
+    50         44
+    51         43
+    52         58
+    53         25
+    54          6
+    58          5
+    59         53
+    60         13
+    61         20
+    62         57
+    63        165
+    64        115
+    65         94
+    66         10
+    69        237
+    70          6
+    74         12
+    75         12
+    76         10
+    77          5
+    78         21
+    79          7
+    80         29
+    86        999
+    87         32
+    88          8
+    89          7
+    90        123
+    91         31
+    92         49
+   106         26
+   108         73
+   118          6
+   122         18
+   134         37
+   138         29
+   139          4
+   164         18
+   222         14
+   223          2

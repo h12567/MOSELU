@@ -1,0 +1,72 @@
+##TITLE=Library Entry 80184
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7813
+##NAMES=HP
+##CAS NAME=Alpha,alpha'-bis(benzoyloxy)-trans-stilbene
+##MOLFORM=C28H20O4
+##CAS REGISTRY NO=1924-29-4
+##MP= -300
+##BP= -300
+##MW= 420
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27          1
+    28         10
+    39          2
+    44          4
+    50          4
+    51         18
+    52          2
+    57          1
+    63          2
+    69          1
+    74          1
+    75          1
+    76          5
+    77        157
+    78         18
+    79          1
+    81          1
+    82          4
+    83          2
+    89          1
+    97          1
+   104          1
+   105        999
+   106         79
+   107          5
+   115          1
+   122          3
+   126          1
+   133          1
+   139          3
+   151          1
+   152          2
+   153          1
+   154          1
+   163          3
+   164          3
+   165         33
+   166         17
+   167          2
+   176          1
+   178          5
+   179          1
+   180          1
+   181          1
+   182          2
+   194         21
+   195          3
+   210          1
+   211          1
+   298          1
+   299         13
+   300          3
+   315          4
+   316          1
+   420         98
+   421         30
+   422          5

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 44757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2-O-methyl.alpha.d-glucopyranoside
+##MOLFORM=C8H16O6
+##CAS REGISTRY NO=15064-82-1
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    45        159
+    55         27
+    56         31
+    57         87
+    58         23
+    59        103
+    60         31
+    61        103
+    69         23
+    71         91
+    73         91
+    74        999
+    75         63
+    85         75
+    87        406
+    88        119
+    89         34
+    97         12
+    98          9
+    99         27
+   101         19
+   102         10
+   103         13
+   111          8
+   112         15
+   113          8
+   115          7
+   117          6
+   127          6
+   129          3
+   130         23
+   144          5
+   145         24
+   147          1
+   148          1
+   158         10
+   159         15
+   177          7

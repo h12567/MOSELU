@@ -1,0 +1,30 @@
+##TITLE=Library Entry 33891
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.Klyuev, Institute of Ecology & Evolution, RAS, Moscow
+##NAMES=HP
+##CAS NAME=3-Azido-6-nitro-1,2,3-triazin-5-amine
+##MOLFORM=C3H2N8O2
+##CAS REGISTRY NO=91459-48-2
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    52         74
+    53        275
+    54         74
+    66         49
+    67         42
+    68        999
+    69         80
+    86         33
+    99         30
+   128         42
+   136         40
+   154        179
+   155          6
+   182        768
+   183         27

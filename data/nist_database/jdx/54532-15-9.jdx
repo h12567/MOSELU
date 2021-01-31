@@ -1,0 +1,38 @@
+##TITLE=Library Entry 29961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Little, Eastman Chem. Comp.,Kingsport
+##NAMES=HP
+##CAS NAME=Heptane, 1-(1-methoxyethoxy)-
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=54532-15-9
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    15          8
+    27         37
+    29        100
+    31         30
+    32         25
+    39         17
+    41        106
+    42         35
+    43        132
+    45         26
+    55         43
+    57        373
+    58         32
+    59        999
+    60         30
+    61        106
+    70         10
+    75         10
+    89         26
+    99         37
+   143         52
+   159         59
+   160          5

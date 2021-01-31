@@ -1,0 +1,75 @@
+##TITLE=Library Entry 258
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl cyclopropylcarbamate
+##MOLFORM=C5H9NO2
+##CAS REGISTRY NO=73330-91-3
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          4
+    14         24
+    15        358
+    16          5
+    17          2
+    18         23
+    25          6
+    26         80
+    27        162
+    28        999
+    29        183
+    30        196
+    31         44
+    32          7
+    33         15
+    36          1
+    37         11
+    38         31
+    39        188
+    40         35
+    41        338
+    42        217
+    43         91
+    44        168
+    45         40
+    46          1
+    51          7
+    52         21
+    53          9
+    54        117
+    55         85
+    56        577
+    57         52
+    59        459
+    60         14
+    61          2
+    67          1
+    68         10
+    70        276
+    71         27
+    72         22
+    73          1
+    74          9
+    82         54
+    83        186
+    84         96
+    85          4
+    86          1
+    87          5
+    88         30
+    89          1
+    98          2
+   100        857
+   101         41
+   102          5
+   114         41
+   115        501
+   116         20
+   117          2

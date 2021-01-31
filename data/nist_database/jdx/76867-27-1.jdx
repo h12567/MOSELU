@@ -1,0 +1,29 @@
+##TITLE=Library Entry 75384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. TOMORI, INST. DRUG RES., BUDAPEST, HUNG.
+##NAMES=HP
+##CAS NAME=1,2-Mono-O-isopropylidene-3,4,5,6-tetra-O-acetyl-D-mannitol
+##MOLFORM=C17H26O10
+##CAS REGISTRY NO=76867-27-1
+##MP= -300
+##BP= -300
+##MW= 390
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    72        140
+    85        140
+   101        999
+   111        220
+   115        180
+   127         20
+   129        150
+   153        640
+   170        150
+   171        170
+   187         20
+   213         40
+   273         80
+   375        180

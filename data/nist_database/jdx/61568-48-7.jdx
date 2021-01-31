@@ -1,0 +1,62 @@
+##TITLE=Library Entry 73898
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-Ethylthiane
+##MOLFORM=C7H14S
+##CAS REGISTRY NO=61568-48-7
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=1047
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        540
+    42         80
+    43         70
+    44        150
+    45        250
+    46        130
+    47        210
+    53        130
+    54        140
+    55        570
+    56         90
+    57         20
+    58         30
+    59        165
+    60        225
+    61        180
+    65         40
+    66         30
+    67        405
+    68         90
+    69         70
+    70        122
+    71        110
+    72         10
+    73         90
+    74         50
+    75         30
+    81        200
+    82         60
+    83        170
+    84         20
+    85         30
+    86         10
+    87        490
+    88         50
+    89         40
+    95         10
+    96         40
+   101        999
+   102         80
+   103         50
+   115         90
+   116         10
+   130        430
+   131         36
+   132         20
+   133          1

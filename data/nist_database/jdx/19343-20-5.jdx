@@ -1,0 +1,39 @@
+##TITLE=Library Entry 40223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION. ALDERLEY PARK C
+HESHIRE
+##NAMES=HP
+##CAS NAME=2-Butanol, 1-(isopropylamino)-3-methyl-3-(1-naphthyloxy)-
+##MOLFORM=C18H25NO2
+##CAS REGISTRY NO=19343-20-5
+##MP= -300
+##BP= -300
+##MW= 287
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         77
+    42         33
+    43         77
+    44         33
+    55         22
+    56         33
+    57         44
+    60         44
+    72        999
+    73         67
+    84         22
+    89         11
+   102        100
+   115        133
+   116         44
+   126         11
+   127         56
+   128         22
+   144        266
+   145         33
+   185         44
+   215         33
+   287          3

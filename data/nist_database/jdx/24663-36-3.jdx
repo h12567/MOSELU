@@ -1,0 +1,57 @@
+##TITLE=Library Entry 36762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y.NATORI, CENT. RES. LAB., NISSHIN MILLING CO., SAITAMA
+, JAPAN
+##NAMES=HP
+##CAS NAME=Coenzyme Q12 (ubiquinone 60)
+##MOLFORM=C69H106O4
+##CAS REGISTRY NO=24663-36-3
+##MP= -300
+##BP= -300
+##MW= 998
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        192
+    55        164
+    69        999
+    79        100
+    81        908
+    82         88
+    93        321
+    95        375
+    97        113
+   107        283
+   109        247
+   119        101
+   121        270
+   123        169
+   131         77
+   133        124
+   135        336
+   136         94
+   137        264
+   147        137
+   149        137
+   159         81
+   161        135
+   173         73
+   175         69
+   189        124
+   196        163
+   197        935
+   198        113
+   201         81
+   203         91
+   217         54
+   235        987
+   236        154
+   237         96
+   249         69
+   250         98
+   998        118
+   999         91
+  1000        109
+  1001         69

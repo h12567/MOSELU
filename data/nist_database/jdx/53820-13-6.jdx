@@ -1,0 +1,80 @@
+##TITLE=Library Entry 25941
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Chrysantenyl 2-methuylbutanoate
+##MOLFORM=C15H24O2
+##CAS REGISTRY NO=53820-13-6
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=1489
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    27         28
+    29         48
+    39         43
+    40         17
+    41        161
+    42         21
+    43        131
+    45          6
+    51         19
+    52          9
+    53         48
+    55         52
+    56         18
+    57        999
+    58         52
+    59         69
+    63          9
+    65         33
+    66         12
+    67         70
+    69         69
+    72         11
+    77         74
+    78         16
+    79         84
+    80         35
+    81         94
+    82         33
+    83         23
+    85        980
+    86         56
+    87          6
+    91        137
+    92         46
+    93         89
+    94        110
+    95         50
+    96         26
+    97         14
+   103          9
+   105        124
+   107         82
+   108         44
+   109        131
+   110         21
+   115         14
+   118          8
+   119        538
+   120         63
+   121        100
+   123         24
+   124         10
+   126          5
+   131          8
+   133         34
+   134        284
+   135         54
+   136         11
+   137         40
+   138          7
+   151         14
+   152          9
+   179          2
+   208          2
+   236          3

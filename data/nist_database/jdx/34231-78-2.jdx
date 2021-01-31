@@ -1,0 +1,73 @@
+##TITLE=Library Entry 11660
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Acetoxybenzaldehyde
+##MOLFORM=C9H8O3
+##CAS REGISTRY NO=34231-78-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    11          1
+    12          1
+    13          5
+    14         21
+    15         99
+    18          2
+    25          2
+    26          9
+    27         11
+    29         44
+    31          2
+    36          1
+    37         24
+    38         82
+    39        193
+    40         21
+    41          9
+    43        999
+    44         25
+    45          1
+    49          7
+    50         50
+    51         53
+    52          5
+    53         17
+    54          1
+    55          6
+    60          2
+    61         18
+    62         44
+    63        124
+    64         72
+    65        174
+    66         44
+    67          3
+    73          5
+    74         19
+    75         12
+    76         18
+    77         21
+    78          3
+    79          2
+    91          3
+    92         26
+    93        149
+    94         46
+    95          3
+   105          8
+   106          1
+   107          2
+   119          2
+   121        672
+   122        745
+   123         61
+   124          5
+   164        187
+   165         20
+   166          1

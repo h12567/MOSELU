@@ -1,0 +1,56 @@
+##TITLE=Library Entry 60671
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Dibenzylamine, N-nitro-
+##MOLFORM=C14H14N2O2
+##CAS REGISTRY NO=95835-70-4
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         19
+    42          4
+    46          2
+    47          9
+    49         48
+    51         72
+    52         10
+    53          0
+    63         30
+    65        123
+    66          5
+    70          0
+    74          1
+    75          3
+    77         39
+    78         12
+    79          2
+    84         28
+    86         22
+    88          2
+    89         37
+    91        999
+    92        193
+    93         12
+    97          0
+   104         41
+   105          8
+   117         70
+   118         21
+   152          4
+   165          5
+   166          6
+   167          4
+   178          0
+   180          0
+   181          2
+   194        188
+   195        188
+   196         16
+   226          0
+   242          0

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 15875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Diisopropylamine
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=108-18-9
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=644
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         14
+    16          1
+    18          9
+    26          4
+    27         49
+    28         35
+    29          6
+    30         20
+    34          2
+    37          2
+    38          5
+    39         59
+    40         12
+    41        131
+    42        143
+    43        115
+    44        999
+    45         31
+    51          1
+    52          3
+    53          2
+    54          7
+    55          2
+    56         29
+    57          8
+    58        120
+    59          4
+    67          2
+    68          7
+    69          2
+    70         35
+    71         13
+    72          1
+    80          1
+    82          2
+    84         11
+    86        576
+    87         37
+    88          1
+    98          1
+    99          1
+   100         18
+   101         62
+   102          6

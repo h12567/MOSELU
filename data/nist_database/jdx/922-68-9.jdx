@@ -1,0 +1,29 @@
+##TITLE=Library Entry 436
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.E.EARL LABATT BREWERIES, LONDON, ONTARIO, CANADA
+##NAMES=HP
+##CAS NAME=Acetic acid, oxo-, methyl ester
+##MOLFORM=C3H4O3
+##CAS REGISTRY NO=922-68-9
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    15        440
+    28        230
+    29        999
+    30         95
+    31        670
+    32        200
+    41         12
+    43        155
+    44        120
+    45         70
+    55         17
+    60        200
+    78         10
+    88         20

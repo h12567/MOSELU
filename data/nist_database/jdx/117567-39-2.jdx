@@ -1,0 +1,30 @@
+##TITLE=Library Entry 81570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Alvarez, Dep. Org. Chem. Pharm., Univ. Barcelona, Ba
+rcelona, Spain
+##NAMES=HP
+##CAS NAME=Hexanenitrile, 6-[(triphenylmethyl)amino]-
+##MOLFORM=C25H26N2
+##CAS REGISTRY NO=117567-39-2
+##MP= -300
+##BP= -300
+##MW= 354
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        130
+    77        530
+    91         40
+   105        999
+   154        260
+   155        180
+   165        110
+   182        520
+   183        590
+   215         20
+   243         40
+   260        140
+   277         20
+   354         10

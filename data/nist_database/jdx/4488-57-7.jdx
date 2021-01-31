@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32095
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3a,4,5,6,7,7a-Hexahydro-4,7-methanoindene
+##MOLFORM=C10H14
+##CAS REGISTRY NO=4488-57-7
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=1051
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15          8
+    26         11
+    27         82
+    28         36
+    29         14
+    37          5
+    38         23
+    39        213
+    40         53
+    41        117
+    42          8
+    50         29
+    51         77
+    52         34
+    53         48
+    54          7
+    55          8
+    58          4
+    62         11
+    63         34
+    64         15
+    65        153
+    66        999
+    67        391
+    68         32
+    69          7
+    74          6
+    75          5
+    77        162
+    78         76
+    79        127
+    80         54
+    89          8
+    91        243
+    92        172
+    93        133
+    94          9
+   103         19
+   104         10
+   105         53
+   106         33
+   115         12
+   117          7
+   119         45
+   120          5
+   134        165
+   135         18

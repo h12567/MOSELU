@@ -1,0 +1,60 @@
+##TITLE=Library Entry 48508
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=trans,trans-nona-2,4-dienol
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=64576-90-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        368
+    28         36
+    29        215
+    31         57
+    39        409
+    40         66
+    41        634
+    42         71
+    43        131
+    51        120
+    52         73
+    53        167
+    54        144
+    55        355
+    56         88
+    57        126
+    63         37
+    65        154
+    66        148
+    67        267
+    68         90
+    69        130
+    70        126
+    77        564
+    78        210
+    79        999
+    80        522
+    81        189
+    82         39
+    83        315
+    84        167
+    85         99
+    91        317
+    92         48
+    93        374
+    94         46
+    95         32
+    96         57
+    97         47
+    98         33
+   107         36
+   122        335
+   123         42
+   140         68

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 53115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sulfuryl chloride fluoride
+##MOLFORM=ClFO2S
+##CAS REGISTRY NO=13637-84-8
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    16         26
+    19          5
+    32        113
+    33          2
+    34          7
+    35         60
+    36          1
+    37         18
+    48        122
+    49          2
+    50          7
+    51         25
+    52          1
+    53          2
+    64        106
+    65          2
+    66          7
+    67        227
+    68          2
+    69         14
+    83        999
+    84          9
+    85         53
+    86          2
+    88          1
+    99         75
+   100          2
+   101         28
+   102          1
+   103          2
+   118        634
+   119          7
+   120        233
+   121          2
+   122         11

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 33717
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 3,5-dimethyl-
+##MOLFORM=C4H7N3
+##CAS REGISTRY NO=7343-34-2
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    37         13
+    38         15
+    39        218
+    40         58
+    41        230
+    42         76
+    43         43
+    44         42
+    53         35
+    54         43
+    55         39
+    56        196
+    57         14
+    67         86
+    68        999
+    69        172
+    70         20
+    81         11
+    82        145
+    83          9
+    96         51
+    97        233
+    98         17

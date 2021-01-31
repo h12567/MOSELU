@@ -1,0 +1,62 @@
+##TITLE=Library Entry 84648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2-chlorododecanoate
+##MOLFORM=C13H25ClO2
+##CAS REGISTRY NO=33422-27-4
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=1607
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39         90
+    41        454
+    42        110
+    43        546
+    53         55
+    54         35
+    55        364
+    56         99
+    57        215
+    59        171
+    67         80
+    68         45
+    69        146
+    70         36
+    71         98
+    74        219
+    75         35
+    81         97
+    82         27
+    83         89
+    84         36
+    85         54
+    87        363
+    88         27
+    95         90
+    96         44
+    97         53
+    98         27
+   101         71
+   108        999
+   109         62
+   110        334
+   113         44
+   115         90
+   121        217
+   123         79
+   127         26
+   129         99
+   143         44
+   163        161
+   165         53
+   171        126
+   177        117
+   179         35
+   185         54
+   213         44
+   219         27

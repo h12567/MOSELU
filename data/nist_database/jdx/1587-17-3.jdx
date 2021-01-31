@@ -1,0 +1,25 @@
+##TITLE=Library Entry 58583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Malic acid, dipropyl ester
+##MOLFORM=C10H18O5
+##CAS REGISTRY NO=1587-17-3
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41        120
+    43        442
+    71        310
+    89        999
+    91        129
+   117         98
+   131        571
+   132        109
+   159        198
+   218         10

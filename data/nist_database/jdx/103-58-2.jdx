@@ -1,0 +1,83 @@
+##TITLE=Library Entry 98315
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5437
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-, 3-phenylpropyl ester
+##MOLFORM=C13H18O2
+##CAS REGISTRY NO=103-58-2
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=1408
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          1
+    26          2
+    27         49
+    28          5
+    29          4
+    31          4
+    37          1
+    38          4
+    39         49
+    40          6
+    41         83
+    42         11
+    43        263
+    44          9
+    45          1
+    50          8
+    51         29
+    52          8
+    53          4
+    55          5
+    56          1
+    57          3
+    58          1
+    62          3
+    63         12
+    64          4
+    65         52
+    66          3
+    69          1
+    70          5
+    71         66
+    72          3
+    73          2
+    74          2
+    75          3
+    76          3
+    77         36
+    78         29
+    79         17
+    80          1
+    87          1
+    88          1
+    89         12
+    90          7
+    91        284
+    92         35
+    93          2
+   101          1
+   102          3
+   103         28
+   104         13
+   105         34
+   106          4
+   107          2
+   114          1
+   115         20
+   116         15
+   117        593
+   118        999
+   119        108
+   120          5
+   131          1
+   132          1
+   133          2
+   134          1
+   135          1
+   145          1

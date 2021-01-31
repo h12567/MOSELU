@@ -1,0 +1,70 @@
+##TITLE=Library Entry 80026
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Benzophenone, 4,4'-methylenebis-
+##MOLFORM=C27H20O2
+##CAS REGISTRY NO=31948-16-0
+##MP= -300
+##BP= -300
+##MW= 376
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    50         12
+    51         72
+    55         13
+    56          6
+    57         14
+    63         13
+    65          7
+    69          6
+    71          8
+    75          6
+    76         21
+    77        692
+    78         51
+    82         24
+    83         13
+    84         10
+    89         28
+    90         21
+    91         40
+    96          6
+   104          7
+   105        999
+   106         77
+   107          6
+   111          6
+   115         27
+   139          9
+   149          9
+   152         25
+   153          6
+   163         11
+   164         17
+   165        126
+   166         36
+   167         34
+   181         53
+   182          7
+   193          6
+   194         22
+   195          6
+   196         36
+   202          8
+   215          6
+   228         18
+   239          7
+   241          8
+   243          6
+   271         17
+   299        372
+   300         89
+   301         10
+   376        189
+   377         54
+   378          7

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 42085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(E)-1-Allyl-3-(prop-1-en-1-yl)trisulfane
+##MOLFORM=C6H10S3
+##CAS REGISTRY NO=382161-78-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1346
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    27         40
+    29         17
+    37         20
+    38         35
+    39        457
+    40         27
+    41        633
+    42         22
+    45        687
+    46         47
+    47        132
+    55         81
+    57         17
+    58         59
+    59         88
+    61         95
+    64        104
+    65         22
+    68         31
+    69         53
+    71        236
+    72        164
+    73        999
+    74         80
+    75         82
+    79         47
+    80         42
+    81        171
+    82         14
+    83         11
+    85         43
+    99        189
+   100         14
+   101         14
+   103         83
+   104        128
+   105        109
+   106         45
+   113         83
+   114        962
+   115        130
+   116         50
+   117         13
+   137         21
+   178        129
+   179         10
+   180         18

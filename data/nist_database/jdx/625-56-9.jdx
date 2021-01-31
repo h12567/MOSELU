@@ -1,0 +1,22 @@
+##TITLE=Library Entry 6955
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methanol, chloro-, acetate
+##MOLFORM=C3H5ClO2
+##CAS REGISTRY NO=625-56-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=680
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    42        138
+    43        999
+    44        165
+    49        279
+    51        100
+    65         33
+    73        113

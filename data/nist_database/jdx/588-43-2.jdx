@@ -1,0 +1,38 @@
+##TITLE=Library Entry 23571
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Butane, 1,1',1''-[methylidynetris(oxy)]tris-
+##MOLFORM=C13H28O3
+##CAS REGISTRY NO=588-43-2
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    40         10
+    41        280
+    42         40
+    43         60
+    44         10
+    45         10
+    47         30
+    53         10
+    55         50
+    56        110
+    57        999
+    58         50
+    63         10
+    73         10
+    74         10
+   103        110
+   104         10
+   119          2
+   159        100
+   160          4
+   175          2
+   231          4

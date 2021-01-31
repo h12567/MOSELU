@@ -1,0 +1,56 @@
+##TITLE=Library Entry 39815
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Betaxolol
+##MOLFORM=C18H29NO3
+##CAS REGISTRY NO=63659-18-7
+##MP= -300
+##BP= -300
+##MW= 307
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         25
+    43         41
+    55        138
+    56         51
+    57         41
+    70         18
+    72        999
+    73         51
+    77         16
+    86         10
+    91         29
+   100         24
+   102         34
+   107         53
+   116         48
+   120         10
+   121         13
+   133          4
+   147          3
+   149          9
+   159          5
+   161          2
+   162          2
+   171         16
+   172          0
+   177          1
+   189          1
+   192          7
+   206          0
+   207          2
+   231          2
+   263         62
+   264          9
+   274          0
+   276          0
+   283          2
+   292         15
+   293          2
+   301          1
+   306          2
+   307          3

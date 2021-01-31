@@ -1,0 +1,32 @@
+##TITLE=Library Entry 10444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. WESTERLUND,DEP. CHEM. MOL. BIOL.,SWED. UNIV. AGRIC.,
+UPPSA
+##NAMES=HP
+##CAS NAME=1,2,3,4,5,6,8-Hepta-O-acetyl-.alpha.-d-gluco-l-glycero-3-octulopy
+ranose
+##MOLFORM=C22H30O15
+##CAS REGISTRY NO=78174-71-7
+##MP= -300
+##BP= -300
+##MW= 534
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    46         80
+    60         40
+    97        130
+    98         70
+   103         50
+   113         30
+   115         50
+   131         60
+   139         30
+   140         30
+   157         70
+   173         70
+   287         30
+   347         10

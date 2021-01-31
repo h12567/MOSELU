@@ -1,0 +1,83 @@
+##TITLE=Library Entry 18452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazan-3-carbohydrazide, 4-amino-N2-[1-(4-methylfurazan-3-yl)eth
+ylideno]-
+##MOLFORM=C8H9N7O3
+##CAS REGISTRY NO=339338-86-2
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    36          3
+    37         78
+    38        184
+    39        312
+    40        197
+    41        201
+    42        648
+    43        132
+    44         69
+    45          3
+    49          5
+    50         51
+    51        182
+    52        391
+    53        999
+    54        670
+    55        119
+    56         70
+    57        164
+    58        404
+    59          7
+    61          1
+    62         11
+    63         43
+    64         69
+    65         26
+    66         81
+    67         91
+    68        110
+    69         77
+    70        316
+    71          5
+    75          5
+    76         15
+    77         14
+    78         21
+    79         26
+    80        115
+    82         70
+    83        171
+    84        127
+    85         10
+    91          3
+    96          2
+    98          2
+   103          1
+   108          2
+   109         39
+   110         46
+   112        514
+   113         21
+   115         12
+   124         23
+   126         14
+   137         16
+   139         13
+   153         14
+   164          2
+   167        144
+   168          4
+   180          2
+   194         54
+   195          8
+   221        109
+   222         11
+   251        155
+   252         19

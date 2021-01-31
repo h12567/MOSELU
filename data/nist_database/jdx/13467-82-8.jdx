@@ -1,0 +1,29 @@
+##TITLE=Library Entry 27314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Octaneperoxoic acid, 1,1-dimethylethyl ester
+##MOLFORM=C12H24O3
+##CAS REGISTRY NO=13467-82-8
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        179
+    57        999
+    58         29
+    71         30
+    73        169
+    83          9
+    84          9
+    99         49
+   109          9
+   127        328
+   128          9
+   144         10
+   155         10
+   216        566

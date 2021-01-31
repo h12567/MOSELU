@@ -1,0 +1,80 @@
+##TITLE=Library Entry 31244
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Mercaptoethyl ether
+##MOLFORM=C4H10OS2
+##CAS REGISTRY NO=2150-02-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         11
+    15         29
+    16          0
+    19          2
+    26         42
+    27        251
+    28         37
+    29         47
+    30          5
+    31         27
+    32          9
+    33         33
+    34         29
+    35        183
+    36          3
+    37          7
+    42          7
+    44         24
+    45        181
+    46         59
+    47        149
+    48         19
+    49          8
+    50          1
+    58         49
+    59        103
+    60        297
+    61        999
+    62         44
+    63         50
+    64         10
+    65          2
+    66          1
+    67          0
+    74          1
+    75          2
+    76         13
+    77          3
+    78          0
+    79        111
+    80          6
+    81          5
+    82          1
+    86         11
+    87          6
+    88          0
+    89          4
+    90          8
+    91         16
+    92         46
+    93          4
+    94         21
+    95          1
+    96          2
+   104         33
+   105         20
+   106          2
+   107          1
+   110          9
+   120         12
+   122          1
+   136          1
+   138          2

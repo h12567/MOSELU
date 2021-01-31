@@ -1,0 +1,29 @@
+##TITLE=Library Entry 2922
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-cyclohexan-1,3-dione dioxime
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=39760-81-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        999
+    55        643
+    80        218
+    81        298
+   122        159
+   123        546
+   126         19
+   136         88
+   137         69
+   138         79
+   152         89
+   153        199
+   154         49
+   170         99

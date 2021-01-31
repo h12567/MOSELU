@@ -1,0 +1,30 @@
+##TITLE=Library Entry 85823
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 4-methoxy-
+##MOLFORM=C6H7NO
+##CAS REGISTRY NO=620-08-6
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    50         90
+    51        110
+    52        310
+    53         50
+    66         90
+    67         50
+    68         60
+    78        120
+    79        330
+    80         60
+    93         20
+    94         40
+   108         30
+   109        999
+   110         80

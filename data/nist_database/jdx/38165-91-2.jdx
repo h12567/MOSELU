@@ -1,0 +1,82 @@
+##TITLE=Library Entry 42207
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.R. PETTIT, QUEEN CHARLOTTE'S MAT. HOSP., LONDON, U.K.
+##NAMES=HP
+##CAS NAME=(R*,S*)-2,3-Dihydroxybutanoic acid, tris(trimethylsilyl) deriv.
+##MOLFORM=C13H32O4Si3
+##CAS REGISTRY NO=38165-91-2
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    43         21
+    44         18
+    45         80
+    47         11
+    55          8
+    57         16
+    58         11
+    59         45
+    60          6
+    61          8
+    70          5
+    71          5
+    72         18
+    73        999
+    74         82
+    75        143
+    76          8
+    77         13
+    85          8
+    87          6
+    99          6
+   101         21
+   102        134
+   103         24
+   104          7
+   105          5
+   113          5
+   115         23
+   116         11
+   117        695
+   118         73
+   119         30
+   129         64
+   130         68
+   131         65
+   132         13
+   133         73
+   134         11
+   135          8
+   143          8
+   147        358
+   148         58
+   149         51
+   150          7
+   163          5
+   177          5
+   189         31
+   190          5
+   191          5
+   203         99
+   204         26
+   205         18
+   207         11
+   219         29
+   220        140
+   221         58
+   222         17
+   223          5
+   231         12
+   277          9
+   292        356
+   293        118
+   294         55
+   295         11
+   321         42
+   322         12
+   323          5

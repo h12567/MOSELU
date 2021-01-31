@@ -1,0 +1,47 @@
+##TITLE=Library Entry 833
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(8)3062(1978); B. SCHOLL ET AL
+##NAMES=HP
+##CAS NAME=4H-Imidazole-2-acetic acid, 5-(dimethylamino)-.alpha.,.alpha.-die
+thyl-4,4-dimethyl-, ethyl ester
+##MOLFORM=C15H27N3O2
+##CAS REGISTRY NO=69315-94-2
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    29        999
+    30         70
+    39        100
+    41        340
+    42        360
+    43         80
+    44         90
+    53         70
+    55        130
+    56        150
+    58         70
+    67         60
+    68        130
+    69        100
+    70        100
+    71         60
+    72         90
+    82        110
+    83         70
+    86        110
+    98         60
+    99         80
+   113        150
+   138        150
+   177         60
+   192         90
+   208        150
+   237        560
+   253        340
+   266         40
+   281         10

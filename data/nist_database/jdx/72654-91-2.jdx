@@ -1,0 +1,30 @@
+##TITLE=Library Entry 21845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=BMSYAL, 6(4)162(1979); B. R. PETIT AND G. S. KING
+##NAMES=HP
+##CAS NAME=Androstane-3,11,17-triol, 3,17-diformate, (3.alpha.,5.alpha.,11.b
+eta.,17.beta.)-
+##MOLFORM=C21H32O5
+##CAS REGISTRY NO=72654-91-2
+##MP= -300
+##BP= -300
+##MW= 364
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    55        999
+   213        220
+   228         40
+   239        110
+   254        130
+   257         30
+   259         60
+   272         30
+   274         40
+   285        150
+   300        380
+   331         30
+   346         40
+   364          1

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 17765
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,4-Bis-methoxymethoxy-benzene
+##MOLFORM=C10H14O4
+##CAS REGISTRY NO=87905-74-6
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26          3
+    28          7
+    29         25
+    33          2
+    39          3
+    40          4
+    45        999
+    46         21
+    47          2
+    50          5
+    51          3
+    54          4
+    63         10
+    64         13
+    65          4
+    66          3
+    76          4
+    77          4
+    79          2
+    82          2
+    92          3
+    94          3
+    95          3
+   107          9
+   109          2
+   122          3
+   123         16
+   124          2
+   138        140
+   139         10
+   167         18
+   168         48
+   169          4
+   198        155
+   199         13

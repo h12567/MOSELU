@@ -1,0 +1,69 @@
+##TITLE=Library Entry 65468
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, University of Ottawa, Ontario, Cana
+da
+##NAMES=HP
+##CAS NAME=4-Amino-4'-ethoxycarbonylazobenzene
+##MOLFORM=C15H15N3O2
+##CAS REGISTRY NO=92852-37-4
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27         24
+    29         46
+    31          8
+    32          1
+    38          5
+    39         62
+    41         18
+    42          8
+    43         11
+    45          9
+    50         27
+    51         16
+    52         18
+    53         11
+    54          7
+    55          8
+    57         11
+    63         18
+    64         22
+    65        300
+    66         34
+    69          3
+    71          6
+    73          2
+    75         22
+    76         49
+    77         21
+    78          3
+    79         14
+    80          3
+    90          3
+    91         24
+    92        999
+    93         78
+   103         43
+   104         29
+   105         13
+   106         30
+   107          3
+   108         10
+   112          7
+   120        379
+   121         46
+   129          7
+   134          4
+   149         34
+   165          4
+   167         12
+   168          8
+   224         37
+   269        252
+   270         45
+   271          7

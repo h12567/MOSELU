@@ -1,0 +1,64 @@
+##TITLE=Library Entry 38297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,6-Heptadien-4-ol, 4-propyl-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=52939-61-4
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          4
+    27         67
+    28          5
+    29         39
+    31          9
+    32          0
+    39        154
+    40         34
+    41        309
+    42         52
+    43        575
+    44         22
+    50          7
+    51         19
+    52          9
+    53         39
+    54          8
+    55         79
+    56          8
+    57         20
+    58          8
+    63         10
+    65         29
+    66         12
+    67         53
+    68          8
+    69        170
+    70          8
+    71        999
+    72         42
+    77         53
+    78         13
+    79         76
+    80         22
+    81          9
+    83         16
+    91         55
+    92         10
+    93         51
+    94         11
+    95         19
+   105         11
+   107         37
+   108          5
+   111         15
+   113        115
+   114          9
+   121          8
+   136         15

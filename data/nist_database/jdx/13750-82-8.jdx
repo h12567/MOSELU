@@ -1,0 +1,28 @@
+##TITLE=Library Entry 88621
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 2-(diethoxymethyl)-1-methyl-
+##MOLFORM=C9H16N2O2
+##CAS REGISTRY NO=13750-82-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41         60
+    42        160
+    47         60
+    56         60
+    81        120
+    82        150
+    83         70
+   110        290
+   111        999
+   112         60
+   139        390
+   140        190
+   184         30

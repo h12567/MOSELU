@@ -1,0 +1,50 @@
+##TITLE=Library Entry 44700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, (ethylthio)-, methyl ester
+##MOLFORM=C5H10O2S
+##CAS REGISTRY NO=20600-64-0
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        160
+    28        220
+    29        210
+    30         10
+    41         80
+    42         80
+    43        250
+    44         50
+    45        270
+    46        120
+    47        470
+    48         30
+    49         30
+    57         30
+    58         40
+    59        170
+    60         90
+    61        400
+    62         30
+    63         30
+    73         50
+    74        999
+    75        870
+    76         70
+    77         80
+    91         50
+   102         30
+   103         40
+   105         20
+   106         40
+   119         10
+   134        610
+   135         50
+   136         40

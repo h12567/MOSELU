@@ -1,0 +1,84 @@
+##TITLE=Library Entry 735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Bis(ethoxythiocarbonyl)sulfide
+##MOLFORM=C6H10O2S3
+##CAS REGISTRY NO=2905-52-4
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          8
+    19          1
+    25          1
+    26         28
+    27        243
+    28          3
+    29        999
+    30         25
+    31         19
+    32         31
+    33          9
+    34         24
+    35         16
+    36          1
+    38          1
+    41          5
+    42          5
+    43         32
+    44         20
+    45         93
+    46         27
+    47         55
+    48          3
+    49          2
+    57          4
+    58          4
+    59         14
+    60         52
+    61        148
+    62        105
+    63         10
+    64         34
+    65         32
+    66          5
+    67          2
+    72          1
+    73          3
+    74          1
+    75         51
+    76        141
+    77         49
+    78         59
+    79          9
+    80          4
+    88          1
+    89        153
+    90          9
+    91          8
+    93        136
+    94         42
+    95         14
+    96          4
+   105          1
+   106         57
+   107          7
+   108          6
+   117          1
+   121          9
+   122        247
+   123         13
+   124         22
+   125         10
+   127          1
+   134         15
+   150          2
+   153          2
+   210         39
+   211          3
+   212          5

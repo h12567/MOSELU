@@ -1,0 +1,28 @@
+##TITLE=Library Entry 23634
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,111( )72(1978); C. RUCHARDT
+##NAMES=HP
+##CAS NAME=Hexane, 3,4-bis(1,1-dimethylethyl)-2,2,5,5-tetramethyl-
+##MOLFORM=C18H38
+##CAS REGISTRY NO=62850-21-9
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41         70
+    43         30
+    56         30
+    57        999
+    58         40
+    69         20
+    70         10
+    71         60
+    85         20
+    97         20
+   112         10
+   127         10
+   141         10

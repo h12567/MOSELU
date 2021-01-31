@@ -1,0 +1,39 @@
+##TITLE=Library Entry 1983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-1,5-(4H)-dihydropyrido-(2,3-b)1,4-diazepine-4-one
+##MOLFORM=C9H9N3O
+##CAS REGISTRY NO=17260-05-8
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    40        999
+    41        249
+    42        129
+    43        120
+    52        150
+    53        130
+    54         80
+    55        109
+    66         70
+    67         60
+    78         59
+    79         70
+    91         59
+    92         60
+    93        129
+   119         49
+   120        100
+   132        169
+   133        179
+   134        248
+   146        130
+   147        179
+   160         69
+   175        200

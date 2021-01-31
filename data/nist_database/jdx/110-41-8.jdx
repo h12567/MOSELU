@@ -1,0 +1,60 @@
+##TITLE=Library Entry 28194
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Undecanal, 2-methyl-
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=110-41-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1306
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         59
+    28         11
+    29        109
+    30          4
+    39         61
+    41        255
+    42         55
+    43        268
+    44         10
+    45          6
+    53         24
+    54         24
+    55        158
+    56         58
+    57        276
+    58        999
+    59         38
+    60          3
+    65          5
+    66          6
+    67         44
+    68         33
+    69         55
+    70         31
+    71        156
+    72         13
+    79          6
+    81         52
+    82         47
+    83         26
+    84         17
+    85         38
+    86          6
+    95         34
+    96         21
+    97         27
+    98          8
+    99          6
+   109         13
+   110          7
+   123          5
+   124          9
+   126         53
+   127          6
+   142         23

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.R.TAILBY MONASH UNIVERSITY, CLAYTON, VICTORIA, AUSTRA
+LIA.
+##NAMES=HP
+##CAS NAME=Cobalt, decacarbonyl(propyne)tetra-
+##MOLFORM=C13H4Co4O10
+##CAS REGISTRY NO=12563-77-8
+##MP= -300
+##BP= -300
+##MW= 556
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    28        999
+    59        350
+   118        999
+   143        190
+   158        390
+   177        110
+   186        600
+   214        320
+   236        110
+   242        170
+   248        100
+   264         50
+   270         80
+   274        100
+   276        170
+   298        230
+   304         80
+   326         50
+   332        130
+   360        110
+   388        130
+   416        210
+   444        150
+   472         40
+   500         60
+   528         80
+   556        110

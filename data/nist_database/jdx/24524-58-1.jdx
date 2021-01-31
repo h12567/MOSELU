@@ -1,0 +1,48 @@
+##TITLE=Library Entry 49162
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=THE OHIO STATE UNIVERSITY, DEPT OF CHEM., COLUMBUS, OHI
+O, USA
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.0]hexane, 6-isopropylidene-
+##MOLFORM=C9H14
+##CAS REGISTRY NO=24524-58-1
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    38         33
+    39        266
+    40        100
+    41        325
+    42         33
+    43         66
+    50         50
+    51        100
+    52         66
+    53        191
+    54         33
+    55         91
+    65        116
+    66        150
+    67        216
+    68         66
+    77        225
+    78        183
+    79        999
+    80        150
+    81        100
+    91        475
+    92        100
+    93        233
+    94         58
+   105        183
+   106         41
+   107        825
+   108         83
+   121         50
+   122        400
+   123         50

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 36485
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. WINFIELD, DEP. CHEM., UNIV. GLASGOW, GLASGOW, SCOT
+L
+##NAMES=HP
+##CAS NAME=Tetrafluoro(trifluoromethyl)iodine
+##MOLFORM=CF7I
+##CAS REGISTRY NO=38091-67-7
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    31        100
+    50        130
+    69        999
+   127        470
+   139         10
+   142         10
+   146        210
+   158         10
+   165        700
+   177        110
+   184        130
+   196        340
+   203        160
+   215         10
+   253         90

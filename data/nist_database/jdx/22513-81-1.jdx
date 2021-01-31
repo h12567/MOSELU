@@ -1,0 +1,65 @@
+##TITLE=Library Entry 20103
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MUS351 A. Mujsce, AT&T Bell Labs., Murray Hill, N.J., U
+SA
+##NAMES=HP
+##CAS NAME=1,22-Docosanediol
+##MOLFORM=C22H46O2
+##CAS REGISTRY NO=22513-81-1
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    29        122
+    31        403
+    39         91
+    41        740
+    42        409
+    43        493
+    53         84
+    54        141
+    55        999
+    56        309
+    57        339
+    66         38
+    67        255
+    68        190
+    69        858
+    70        202
+    71        159
+    81        313
+    82        374
+    83        462
+    84         93
+    85         74
+    94         50
+    95        242
+    96        320
+    97        296
+    98         65
+   109        193
+   110        138
+   111        175
+   123        134
+   124        130
+   125         83
+   137        103
+   138        109
+   152         47
+   153          5
+   166         47
+   167          6
+   181         44
+   182          5
+   194         44
+   195          6
+   222         47
+   223          7
+   278         54
+   279         11
+   306         81
+   307         19

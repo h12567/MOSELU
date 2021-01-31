@@ -1,0 +1,43 @@
+##TITLE=Library Entry 104
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=(3-Chloropropionamido)sulfur pentafluoride
+##MOLFORM=C3H5ClF5NOS
+##CAS REGISTRY NO=80409-44-5
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    26        156
+    27        999
+    36         63
+    42        104
+    43         83
+    44        130
+    47        135
+    49         68
+    55        182
+    63        656
+    65        219
+    70         52
+    85        125
+    87         42
+    89        172
+    91        750
+    93        250
+   101         57
+   102         47
+   103         31
+   104         16
+   127        195
+   129         19
+   150         33
+   170         33
+   198         47
+   233         17
+   235          6

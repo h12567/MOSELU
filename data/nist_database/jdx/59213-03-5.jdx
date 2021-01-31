@@ -1,0 +1,49 @@
+##TITLE=Library Entry 81557
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. NAKANO, INST. VENEZUELA OF INVEST. SCI., CARACAS, VE
+NEZUE
+##NAMES=HP
+##CAS NAME=4-Acetyl-7,7-diphenyl-6-oxa-2,4-diazabicyclo[3.2.0]hept-2-ene
+##MOLFORM=C18H16N2O2
+##CAS REGISTRY NO=59213-03-5
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    40         13
+    41         35
+    42         20
+    43        280
+    50         23
+    51         68
+    67         13
+    68        337
+    69         60
+    76         23
+    77        279
+    78         29
+    82         64
+   105        999
+   106         81
+   110        105
+   111         11
+   145         35
+   152         26
+   153         13
+   165         51
+   166         11
+   178         23
+   181        105
+   182        601
+   183        378
+   184         51
+   193         19
+   194         45
+   195         30
+   206         28
+   250         12
+   292         14

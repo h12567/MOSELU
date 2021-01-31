@@ -1,0 +1,32 @@
+##TITLE=Library Entry 35638
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Alvarez, Dep. Org. Chem. Pharm., Univ. Barcelona, Ba
+rcelona, Spain
+##NAMES=HP
+##CAS NAME=2-Heptanone, 7-bromo-1-phenyl-
+##MOLFORM=C13H17BrO
+##CAS REGISTRY NO=108296-20-4
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        240
+    55        150
+    69        999
+    91        760
+    97        160
+   105        100
+   129        140
+   149        100
+   151         90
+   177        690
+   179        680
+   189         70
+   220         10
+   242         10
+   268         10
+   270         10

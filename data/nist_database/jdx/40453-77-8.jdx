@@ -1,0 +1,43 @@
+##TITLE=Library Entry 17068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,3-Dimethoxypropan-1-ol
+##MOLFORM=C5H12O3
+##CAS REGISTRY NO=40453-77-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=904
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          8
+    27         54
+    28         51
+    29        279
+    30         25
+    31        299
+    33         79
+    39         21
+    41         29
+    43        550
+    45        999
+    46         25
+    47         44
+    55         18
+    56         19
+    57         65
+    58        894
+    59        559
+    60         33
+    61         21
+    74        193
+    75        674
+    76         26
+    87         11
+    88        103
+    89        463
+    90         84

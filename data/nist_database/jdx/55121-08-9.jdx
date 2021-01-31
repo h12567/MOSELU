@@ -1,0 +1,52 @@
+##TITLE=Library Entry 109667
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Chloro-4-(2-isocyanatoethyl)benzene
+##MOLFORM=C9H8ClNO
+##CAS REGISTRY NO=55121-08-9
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=1381
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    38          6
+    39         21
+    50         22
+    51         36
+    52          8
+    56         11
+    62         20
+    63         47
+    64         16
+    65         24
+    73          8
+    74         10
+    75         13
+    76         11
+    77         42
+    78         23
+    89         97
+    90         40
+    91         26
+    99         23
+   101         14
+   102         12
+   103         39
+   104         48
+   116         11
+   117         13
+   125        999
+   126         71
+   127        310
+   128         68
+   129          7
+   145          8
+   146         15
+   181        123
+   182         12
+   183         44
+   184          3

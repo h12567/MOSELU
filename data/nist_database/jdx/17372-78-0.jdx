@@ -1,0 +1,41 @@
+##TITLE=Library Entry 94516
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cinnoline, 3-methyl-
+##MOLFORM=C9H8N2
+##CAS REGISTRY NO=17372-78-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39         68
+    40         59
+    44          8
+    50         59
+    51         68
+    57         34
+    58         34
+    63         85
+    64         34
+    65         42
+    74         34
+    75         42
+    76         25
+    88         17
+    89        102
+    90         17
+   102          8
+   113          8
+   114         25
+   115        999
+   116        119
+   117          8
+   130         17
+   144        847
+   145         85
+   146          8

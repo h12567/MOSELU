@@ -1,0 +1,43 @@
+##TITLE=Library Entry 31040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. SCHULLER
+##NAMES=HP
+##CAS NAME=Pyridine, 3-(1-methyl-2-pyrrolidinyl)-, N-oxide, (2S)-
+##MOLFORM=C10H14N2O
+##CAS REGISTRY NO=491-26-9
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    60        999
+    63         51
+    65         90
+    77         74
+    78         93
+    79         51
+    82         32
+    84        109
+    91         58
+    92         86
+    93         39
+   104         86
+   105         69
+   106         44
+   117        146
+   118        788
+   119        942
+   120        100
+   130         69
+   131         21
+   132         63
+   133         51
+   159         37
+   160         37
+   161         35
+   162         25
+   178        250
+   179         74

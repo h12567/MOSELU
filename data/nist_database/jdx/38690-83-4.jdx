@@ -1,0 +1,47 @@
+##TITLE=Library Entry 55799
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Acetoxy-thiacyclohexane-1,1-dioxide
+##MOLFORM=C7H12O4S
+##CAS REGISTRY NO=38690-83-4
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        260
+    42         50
+    43        867
+    44         38
+    53         30
+    55          9
+    56         79
+    57        159
+    61        100
+    63         30
+    65         19
+    67        251
+    68        261
+    69         60
+    70         30
+    83         49
+    84         90
+    85        158
+    86        999
+    87         60
+    91        109
+    99         40
+   100        247
+   101         19
+   102         29
+   103         29
+   128        219
+   129         19
+   132        110
+   133         70
+   149         39
+   150         39

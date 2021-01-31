@@ -1,0 +1,54 @@
+##TITLE=Library Entry 23456
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=tert-C4H9C(O)OCH(CH3)2
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=5129-36-2
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=812
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        131
+    28          3
+    29        157
+    31          6
+    36          3
+    37         15
+    38         21
+    39        172
+    40         38
+    41        397
+    42         65
+    43        338
+    44         29
+    45         19
+    49          8
+    50         38
+    51         49
+    52         75
+    53         19
+    54          3
+    55         25
+    56         59
+    57        999
+    58         52
+    59         81
+    69          6
+    70         12
+    71          8
+    75          3
+    85         71
+    87         29
+   101          8
+   103         25
+   128          6
+   129         99
+   130         13
+   144         45
+   145          8

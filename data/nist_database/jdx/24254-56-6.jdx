@@ -1,0 +1,64 @@
+##TITLE=Library Entry 7115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Polzer ET AL.J.Chromatogr.,653,283(1993)
+##NAMES=HP
+##CAS NAME=Hydroperoxide, 1-ethylbutyl
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=24254-56-6
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=965
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    19         12
+    25          5
+    26         59
+    27        375
+    28         94
+    29        383
+    30         24
+    31        210
+    37         17
+    38         37
+    39        281
+    40         40
+    41        553
+    42        220
+    43        999
+    44        170
+    45         61
+    50         22
+    51         29
+    52         12
+    53         57
+    54         10
+    55        709
+    56        123
+    57        353
+    58        108
+    59        467
+    60         17
+    61          5
+    63          5
+    65          7
+    67         17
+    69         67
+    70          7
+    71         91
+    72         61
+    73        192
+    74         10
+    75         40
+    77          3
+    79          3
+    83         17
+    84         97
+    85        153
+    86         10
+    89         18
+    98          7
+   100         54
+   101          7

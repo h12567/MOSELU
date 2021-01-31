@@ -1,0 +1,65 @@
+##TITLE=Library Entry 4707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=3-Thiophenamine, tetrahydro-N-methyl-N-nitroso-, 1,1-dioxide
+##MOLFORM=C5H10N2O3S
+##CAS REGISTRY NO=13256-21-8
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    42        999
+    43         63
+    44         85
+    45         11
+    46          1
+    47          0
+    48        163
+    49          4
+    50         18
+    51         20
+    52         18
+    53         72
+    54        103
+    55        349
+    56        293
+    57        161
+    58          9
+    59         10
+    60          0
+    61          0
+    64        331
+    65          5
+    66         16
+    67          2
+    68         66
+    69         13
+    70         29
+    71          3
+    72          0
+    77          1
+    78          5
+    79          7
+    80         76
+    81        108
+    82         68
+    83          9
+    84          7
+    86        335
+    87          8
+    89          2
+    94          0
+    97          3
+   108          0
+   114         54
+   115          0
+   119         62
+   120          2
+   133          0
+   148         15
+   178         11

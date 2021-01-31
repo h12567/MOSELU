@@ -1,0 +1,87 @@
+##TITLE=Library Entry 22262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5684
+##NAMES=HP
+##CAS NAME=1-Piperazinecarboxaldehyde
+##MOLFORM=C5H10N2O
+##CAS REGISTRY NO=7755-92-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          6
+    15         59
+    16          1
+    18          2
+    25          2
+    26         31
+    27        103
+    28        367
+    29        322
+    30        262
+    31          7
+    32          1
+    37          1
+    38          3
+    39          8
+    40         20
+    41         76
+    42        341
+    43        125
+    44        682
+    45         19
+    46          2
+    51          5
+    52         10
+    53          9
+    54         65
+    55        233
+    56        999
+    57        348
+    58         92
+    59         22
+    60         31
+    61          1
+    65          1
+    66          1
+    67          4
+    68         17
+    69        590
+    70         35
+    71         23
+    72        323
+    73         19
+    74          4
+    77          1
+    78          1
+    79          1
+    80          9
+    81          8
+    82          6
+    83         30
+    84         22
+    85        320
+    86         64
+    87         33
+    88          2
+    91          2
+    92          1
+    94          2
+    95          3
+    96          1
+    97         30
+    98          3
+    99          5
+   100          1
+   110          1
+   111          1
+   112         15
+   113         15
+   114        289
+   115         20
+   116          1

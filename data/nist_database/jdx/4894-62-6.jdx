@@ -1,0 +1,53 @@
+##TITLE=Library Entry 21016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,5-Heptadiene, 3-methyl-
+##MOLFORM=C8H14
+##CAS REGISTRY NO=4894-62-6
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15          6
+    26         19
+    27        139
+    28         53
+    29        144
+    30          4
+    32          5
+    37          4
+    39        228
+    40         28
+    41        109
+    42          9
+    43          4
+    44          4
+    50         25
+    51         45
+    52         21
+    53        117
+    54        123
+    55        999
+    56         94
+    62          4
+    63         10
+    65         22
+    67        104
+    68         73
+    69         12
+    77         29
+    78          7
+    79         33
+    80         15
+    81        148
+    82         37
+    91         12
+    93          8
+    95        265
+    96         20
+   110          6

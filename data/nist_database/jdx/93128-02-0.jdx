@@ -1,0 +1,40 @@
+##TITLE=Library Entry 39735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=1,2-Dihydroxy-4-(2-isopropylamino-2-hydroxy)ethylbenzene
+##MOLFORM=C11H17NO3
+##CAS REGISTRY NO=93128-02-0
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        190
+    42        228
+    43        602
+    44        815
+    51         78
+    58        165
+    70        174
+    72        999
+    77         87
+    78         51
+    89         28
+   106         30
+   107         20
+   123        480
+   124        488
+   125         38
+   134         19
+   135         18
+   137         38
+   139         41
+   151         19
+   176         50
+   178         68
+   191         40
+   193        139

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 33962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.HAYASHI,RES. LABS.,SHIONOGI CO. LTD.,FUKUSHIMA-KU,OSA
+KA,JPN.
+##NAMES=HP
+##CAS NAME=4-Geranyloxy-3-hydroxy-5-methoxyphthalaldehyde
+##MOLFORM=C19H24O5
+##CAS REGISTRY NO=76878-70-1
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29        140
+    31        520
+    33        140
+    67        140
+    69        999
+    82        370
+    93        280
+    95        130
+   136        140
+   137        110
+   167         70
+   168        140
+   196        170
+   332         10

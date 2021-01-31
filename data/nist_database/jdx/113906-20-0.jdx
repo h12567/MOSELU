@@ -1,0 +1,75 @@
+##TITLE=Library Entry 99298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Methoxybenzamide, N-(2-(5-methylfuryl)methylideneamino)-
+##MOLFORM=C14H14N2O2
+##CAS REGISTRY NO=113906-20-0
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    37         28
+    38         81
+    39        142
+    40         39
+    41         62
+    43        172
+    44         10
+    45          5
+    50        155
+    51        146
+    52         57
+    53         59
+    54          9
+    55         17
+    56          1
+    61          9
+    62         43
+    63         83
+    64        146
+    65        173
+    66         20
+    67         15
+    68         25
+    69          9
+    74          5
+    75         15
+    76         11
+    79        213
+    80          7
+    81          4
+    86          6
+    87          3
+    89         91
+    91        508
+    92         31
+    94         44
+    95         62
+    96          3
+   104          5
+   105          5
+   107         28
+   108          7
+   109          2
+   111          1
+   115          1
+   116          5
+   119        999
+   121          6
+   122          1
+   123         10
+   131          3
+   132          1
+   133          1
+   135        109
+   136         47
+   137          6
+   161          2
+   185          6
+   242         70
+   243          9

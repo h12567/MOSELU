@@ -1,0 +1,76 @@
+##TITLE=Library Entry 107851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, [(2,2-dimethylpropyl)thio]-
+##MOLFORM=C11H16S
+##CAS REGISTRY NO=7210-80-2
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    40         29
+    41        544
+    42         49
+    43        534
+    44         29
+    45        445
+    46         29
+    47         39
+    50         69
+    51        227
+    52         29
+    53         59
+    54         19
+    55        227
+    56         29
+    57        811
+    58         49
+    59         29
+    62         19
+    63         39
+    65        207
+    66         79
+    67         19
+    69         99
+    70         49
+    71        188
+    72         19
+    73         19
+    74         29
+    75         29
+    76         19
+    77        168
+    78         99
+    79         49
+    81         19
+    82         29
+    83         19
+    84         29
+    87         29
+    89         19
+    91        108
+    92         19
+    94         29
+    95         19
+   108         39
+   109        207
+   110        633
+   111         69
+   112         39
+   121         19
+   123        613
+   124        999
+   125        118
+   126         49
+   135         19
+   137         19
+   165         59
+   180        613
+   181         79
+   182         29

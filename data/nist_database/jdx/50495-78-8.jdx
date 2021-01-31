@@ -1,0 +1,46 @@
+##TITLE=Library Entry 81860
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.GOLDBERG NATIONAL HOSPITAL, QUEEN SQUARE, LONDON, UK
+##NAMES=HP
+##CAS NAME=2-Naphthalenecarboxylic acid, 1-(benzoyl-1-naphthalenylamino)-, m
+ethyl ester
+##MOLFORM=C29H21NO3
+##CAS REGISTRY NO=50495-78-8
+##MP= -300
+##BP= -300
+##MW= 431
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    51         30
+    77        300
+    78         30
+    83         20
+    91         20
+   105        999
+   106        120
+   115         20
+   126         20
+   127         30
+   151         20
+   188         20
+   230        530
+   231        110
+   239         20
+   264         50
+   265         50
+   266        110
+   267        120
+   268         30
+   288        370
+   289         90
+   290         20
+   295         80
+   296         30
+   302         30
+   372         50
+   373         20
+   431        120
+   432         40

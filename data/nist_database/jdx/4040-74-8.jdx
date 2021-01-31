@@ -1,0 +1,73 @@
+##TITLE=Library Entry 90223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Silacyclohexane, 1,1-dimethyl-
+##MOLFORM=C7H16Si
+##CAS REGISTRY NO=4040-74-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15         10
+    26          7
+    27         42
+    28         19
+    29         48
+    30          2
+    31         21
+    38          1
+    39         48
+    40          9
+    41         46
+    42         45
+    43        182
+    44         41
+    45         71
+    46          4
+    53         27
+    54          8
+    55         49
+    56          7
+    57         26
+    58         71
+    59        330
+    60         29
+    61         13
+    65          3
+    66          7
+    67         23
+    68          5
+    69         17
+    70         13
+    71         61
+    72        133
+    73        213
+    74         22
+    75          2
+    81          5
+    83         24
+    84         23
+    85        826
+    86         95
+    87         37
+    95          5
+    97         19
+    99         37
+   100         42
+   101         20
+   109          3
+   111         25
+   112          7
+   113        999
+   114        121
+   115         45
+   116          1
+   127          2
+   128        196
+   129         61
+   130         12

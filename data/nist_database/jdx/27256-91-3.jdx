@@ -1,0 +1,43 @@
+##TITLE=Library Entry 85680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4-Hydrazinylpyridine
+##MOLFORM=C5H7N3
+##CAS REGISTRY NO=27256-91-3
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    37          8
+    38          4
+    39        127
+    40         78
+    41         37
+    42         29
+    43          7
+    44         24
+    49         12
+    50         99
+    51        203
+    52        149
+    53         46
+    54         21
+    55         12
+    64         10
+    65         45
+    66         44
+    67         12
+    78         66
+    79        175
+    80         29
+    81         13
+    92         16
+    93         27
+   108         53
+   109        999
+   110         55

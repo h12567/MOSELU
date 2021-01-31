@@ -1,0 +1,67 @@
+##TITLE=Library Entry 70835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. AGOZZINO, IST. CHIM. FARM., UNIV. PALERMO, PALERMO,
+ ITALY
+##NAMES=HP
+##CAS NAME=5-Benzoyl-4-amino-3-(2-N-piperidinylethylthio)thieno[3,2-d]isothi
+azole
+##MOLFORM=C19H21N3OS3
+##CAS REGISTRY NO=97090-80-7
+##MP= -300
+##BP= -300
+##MW= 403
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        730
+    42        760
+    43        130
+    44        140
+    45        110
+    46         50
+    47         70
+    51        270
+    52         50
+    53         50
+    54        150
+    55        500
+    56        200
+    64        180
+    65        160
+    71         40
+    72        700
+    73         70
+    82         70
+    83         80
+    84        100
+    96        110
+    98        999
+    99        130
+   105        380
+   106         40
+   110         50
+   111        270
+   112         90
+   121         50
+   142         30
+   227         80
+   228         10
+   229         30
+   230         10
+   231         20
+   257         10
+   258         20
+   259         30
+   260         20
+   261         10
+   291         20
+   292         10
+   293         10
+   305        540
+   306        120
+   307        100
+   318         10
+   319         10
+   403        150

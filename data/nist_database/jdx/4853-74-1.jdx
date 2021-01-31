@@ -1,0 +1,60 @@
+##TITLE=Library Entry 6255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-8099
+##NAMES=HP
+##CAS NAME=2-(Methylsulphonyl)propane
+##MOLFORM=C4H10O2S
+##CAS REGISTRY NO=4853-74-1
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15         44
+    26          8
+    27        278
+    28         15
+    29          7
+    31         11
+    32          2
+    33          1
+    34          2
+    37          5
+    38         12
+    39        129
+    40         19
+    41        772
+    42         88
+    43        999
+    44         53
+    45         11
+    46          6
+    47          9
+    48         11
+    49          3
+    50          6
+    57          5
+    58          1
+    59          5
+    63        104
+    64         18
+    65        104
+    66          2
+    67          5
+    75          2
+    76          1
+    79         27
+    80        193
+    81        522
+    82         19
+    83         25
+    90          2
+   107         18
+   121          4
+   122          1
+   123         86
+   124          4
+   125          3

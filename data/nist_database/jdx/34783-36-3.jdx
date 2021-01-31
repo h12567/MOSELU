@@ -1,0 +1,52 @@
+##TITLE=Library Entry 60374
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. FOLKERS
+##NAMES=HP
+##CAS NAME=L-Prolinamide, 5-oxo-L-prolyl-L-phenylalanyl-4-hydroxy-
+##MOLFORM=C19H24N4O5
+##CAS REGISTRY NO=34783-36-3
+##MP= -300
+##BP= -300
+##MW= 388
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        290
+    42         50
+    54         50
+    55         90
+    56        120
+    65         90
+    66         50
+    68        200
+    69         50
+    77         60
+    84        850
+    85        100
+    86        740
+    91        999
+    92        150
+    94         50
+   103         50
+   104         50
+   119         50
+   120         60
+   131        110
+   132         50
+   141         60
+   142         50
+   146         60
+   147         50
+   168         50
+   169        390
+   231         60
+   258         90
+   259         50
+   260         60
+   287         10
+   304         10
+   353         10
+   388         50
+   389          5

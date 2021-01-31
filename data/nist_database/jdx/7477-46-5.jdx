@@ -1,0 +1,27 @@
+##TITLE=Library Entry 114349
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Quinaldanilide
+##MOLFORM=C16H12N2O
+##CAS REGISTRY NO=7477-46-5
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+   101        136
+   102        108
+   103         40
+   128        537
+   129        999
+   130        130
+   156         38
+   218         20
+   219         60
+   220         26
+   248        547
+   249        102

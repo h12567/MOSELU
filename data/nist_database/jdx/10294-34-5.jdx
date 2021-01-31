@@ -1,0 +1,62 @@
+##TITLE=Library Entry 50388
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CCC 0021
+##NAMES=HP
+##CAS NAME=Boron trichloride
+##MOLFORM=BCl3
+##CAS REGISTRY NO=10294-34-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    10         32
+    11        124
+    35        287
+    37         90
+    46        118
+    47         11
+    48         38
+    49          1
+    55          7
+    56          6
+    57          6
+    58          1
+    59          1
+    60          1
+    61          1
+    62          1
+    63          3
+    64          2
+    65          9
+    66          1
+    67          3
+    68          1
+    69          2
+    70         13
+    71          2
+    72          6
+    73          1
+    74          2
+    75          1
+    76          1
+    77          1
+    78          1
+    79          1
+    80        243
+    81        999
+    82        159
+    83        647
+    84         26
+    85        104
+   115         54
+   116        215
+   117         52
+   118        207
+   119         17
+   120         66
+   121          2
+   122          7

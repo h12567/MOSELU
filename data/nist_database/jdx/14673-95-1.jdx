@@ -1,0 +1,43 @@
+##TITLE=Library Entry 36541
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Trifluoromethyl n-propyl disulfide
+##MOLFORM=C4H7F3S2
+##CAS REGISTRY NO=14673-95-1
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    45        718
+    46        340
+    47        402
+    48         31
+    57         33
+    58        127
+    59        134
+    63         68
+    64        316
+    65         65
+    69        999
+    73        208
+    74         50
+    75        345
+    78        226
+    79         36
+    82         68
+   101         37
+   106         10
+   114         93
+   115         21
+   133         94
+   134         53
+   147         91
+   157         10
+   176        903
+   177         85
+   178         81

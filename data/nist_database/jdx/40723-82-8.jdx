@@ -1,0 +1,70 @@
+##TITLE=Library Entry 48793
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTEDISON S.P.A., RESEARCH CENTRE, MILAN, IT
+ALY
+##NAMES=HP
+##CAS NAME=Decane, 3,3,4,4,7,7,8,8-octafluoro-1-iodo-
+##MOLFORM=C10H13F8I
+##CAS REGISTRY NO=40723-82-8
+##MP= -300
+##BP= -300
+##MW= 412
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    27        208
+    29        103
+    31         11
+    33         29
+    39         41
+    41         50
+    44         41
+    47        328
+    51        289
+    57         32
+    59        277
+    64         86
+    65        379
+    69         50
+    73         31
+    75         20
+    77        756
+    78         55
+    79        999
+    80         33
+    89         32
+    91         41
+    95        133
+    97        260
+   103         39
+   109         87
+   113         20
+   115         41
+   121         40
+   123         71
+   127        270
+   141        218
+   147        461
+   155         86
+   159         35
+   165         18
+   167         47
+   173         20
+   177         19
+   185        111
+   187         34
+   205        138
+   207         10
+   225         59
+   245         70
+   265         60
+   285         38
+   313         13
+   333          3
+   353          2
+   373         20
+   393          2
+   412        280
+   413         31

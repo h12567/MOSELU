@@ -1,0 +1,50 @@
+##TITLE=Library Entry 49847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.J. JAMES, DEP. CHEM., GLAMORGAN POLY., PONTYPRIDD, WA
+LES, UK
+##NAMES=HP
+##CAS NAME=Methylenecyclooctane
+##MOLFORM=C9H16
+##CAS REGISTRY NO=3618-18-6
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        480
+    40        110
+    41        600
+    42        140
+    43        840
+    44         60
+    51         90
+    52         50
+    53        220
+    54        320
+    55        440
+    56        220
+    57         70
+    58        250
+    65        100
+    66        110
+    67        640
+    68        400
+    69        270
+    70         60
+    77        130
+    78         50
+    79        360
+    80        280
+    81        999
+    82        240
+    83         60
+    91        110
+    93        160
+    94        240
+    95        210
+    96        480
+   109         70
+   124         40

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 66126
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]heptane, 6,6-dimethyl-3-methylene-
+##MOLFORM=C10H16
+##CAS REGISTRY NO=16022-04-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15         11
+    26         14
+    27        191
+    28         33
+    29        120
+    31         10
+    32          6
+    38         16
+    39        328
+    40         61
+    41        525
+    42         33
+    43        117
+    45          6
+    50         23
+    51         91
+    52         44
+    53        193
+    54         27
+    55        231
+    56         15
+    57         40
+    58         11
+    59          8
+    62          7
+    63         31
+    64         11
+    65        104
+    66         66
+    67        345
+    68         71
+    69        153
+    70         12
+    74          6
+    75         12
+    77        364
+    78         86
+    79        727
+    80        400
+    81        226
+    82         73
+    83          6
+    89         18
+    90          7
+    91        325
+    92        145
+    93        999
+    94        273
+    95        510
+    96         44
+   103         16
+   104          6
+   105         98
+   106         33
+   107        233
+   108        196
+   109         22
+   115          7
+   119         18
+   121        727
+   122         75
+   135          7
+   136        104
+   137         12

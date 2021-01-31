@@ -1,0 +1,59 @@
+##TITLE=Library Entry 67761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Cyclohexyl-2,2-dimethyl-1-propanol
+##MOLFORM=C11H22O
+##CAS REGISTRY NO=62039-14-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         71
+    28         53
+    29        139
+    31         26
+    32          8
+    39         98
+    41        299
+    42         28
+    43         91
+    44         14
+    45         55
+    51          8
+    53         39
+    54         25
+    55        186
+    56         46
+    57        214
+    58         11
+    59          9
+    65         10
+    67        149
+    68         23
+    69        136
+    70         49
+    71         22
+    73         14
+    77         15
+    79         24
+    80          8
+    81         47
+    82         14
+    83         64
+    84          7
+    87        131
+    88          8
+    93         27
+    95        999
+    96         83
+    97         14
+   111         16
+   112        102
+   113        246
+   114         18
+   137         10

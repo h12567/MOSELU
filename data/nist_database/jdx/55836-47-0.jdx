@@ -1,0 +1,80 @@
+##TITLE=Library Entry 46197
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Androst-4-en-3-one, 17,19-bis[(trimethylsilyl)oxy]-, O-methyloxim
+e, (17.beta.)-
+##MOLFORM=C26H47NO3Si2
+##CAS REGISTRY NO=55836-47-0
+##MP= -300
+##BP= -300
+##MW= 477
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    75        999
+    77        110
+    79        155
+    81        141
+   103        543
+   104         79
+   105        158
+   107        119
+   109         70
+   115         79
+   117        104
+   119        113
+   121         76
+   129        237
+   130         85
+   131         99
+   132         65
+   133         96
+   155         48
+   156         62
+   157         79
+   158         70
+   159         70
+   195         42
+   196         51
+   197         42
+   198         48
+   199         45
+   237         28
+   238         34
+   258         59
+   282         14
+   283         19
+   284        107
+   285         28
+   297         22
+   315        175
+   316         56
+   341         34
+   342         48
+   343         79
+   344         45
+   355         19
+   356         68
+   357         56
+   358         22
+   372         28
+   373        198
+   374         65
+   387        124
+   388         45
+   415          8
+   416         14
+   417        175
+   418         22
+   419         11
+   446         73
+   447        130
+   448         51
+   462         42
+   463         17
+   477        594
+   478        237
+   479         99

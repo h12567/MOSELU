@@ -1,0 +1,36 @@
+##TITLE=Library Entry 423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.ROPER HAMBURG UNIVERSITY, HAMBURG, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Carbamic acid, methylnitroso-, ethyl ester
+##MOLFORM=C4H8N2O3
+##CAS REGISTRY NO=615-53-2
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        380
+    29        999
+    30        999
+    31        192
+    41         10
+    42         48
+    43        380
+    44        166
+    45         96
+    46         27
+    55         24
+    56        128
+    57        380
+    58         82
+    59         27
+    60        138
+    71         17
+    73         20
+    75         17
+    86         40
+   132         41

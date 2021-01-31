@@ -1,0 +1,41 @@
+##TITLE=Library Entry 65469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1H-1,2,3-Triazolo[4,5-b]pyridine
+##MOLFORM=C5H4N4
+##CAS REGISTRY NO=273-34-7
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28         93
+    37         96
+    38        243
+    39         94
+    40         52
+    41        160
+    43         64
+    52        131
+    54        283
+    55         53
+    63         55
+    64        190
+    65        396
+    66        130
+    68        355
+    69         54
+    81         24
+    83         22
+    85         14
+    91         26
+    92        999
+    93         71
+    95         15
+    97         16
+   120        613
+   121         65

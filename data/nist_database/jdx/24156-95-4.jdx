@@ -1,0 +1,38 @@
+##TITLE=Library Entry 86305
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S.KING QUEEN CHARLOTTE'S & CHELSEA HOSPITALS, LONDON,
+ UK
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one, 3,5,5-trimethyl-
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=24156-95-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1610
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    38         22
+    39        208
+    40         67
+    41        167
+    44         26
+    50         21
+    51         29
+    53         97
+    54         29
+    55         55
+    56         48
+    65         20
+    67         41
+    68         20
+    77         33
+    79         73
+    81        254
+    82         66
+   109        999
+   110         68
+   124        289
+   125         22

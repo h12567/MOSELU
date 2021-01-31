@@ -1,0 +1,49 @@
+##TITLE=Library Entry 88249
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Diallylvinylmethylsilane
+##MOLFORM=C9H16Si
+##CAS REGISTRY NO=119901-87-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39         37
+    41         49
+    43        436
+    44         80
+    45        373
+    46         16
+    55        191
+    56         19
+    57         87
+    58         46
+    59        262
+    60         20
+    69        118
+    70         46
+    71        445
+    72         53
+    73         36
+    81         48
+    82         21
+    83        449
+    84         56
+    85        328
+    86         35
+    87         21
+    95        170
+    96         32
+    97         38
+   109        189
+   110         61
+   111        999
+   112        147
+   113         49
+   125         42
+   137         18

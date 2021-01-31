@@ -1,0 +1,70 @@
+##TITLE=Library Entry 63482
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 800
+##NAMES=HP
+##CAS NAME=2-Pyridinamine, 3-(phenylmethoxy)-
+##MOLFORM=C12H12N2O
+##CAS REGISTRY NO=24016-03-3
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          1
+    28          8
+    38          2
+    39         26
+    40          1
+    41          4
+    43          2
+    50          1
+    51          5
+    52          3
+    53          5
+    54          7
+    55          3
+    62          1
+    63          5
+    64          2
+    65         55
+    66          7
+    67          1
+    77          2
+    79          1
+    80          1
+    81         28
+    82          9
+    83          1
+    89          8
+    90          4
+    91        999
+    92         79
+    93          7
+    94          2
+    95          1
+    96          2
+    99          1
+   106         23
+   107          2
+   109         48
+   110          5
+   121          1
+   123          4
+   127          1
+   128          1
+   154          1
+   155          1
+   181          1
+   182          3
+   183         55
+   184         12
+   185          1
+   198          1
+   199         64
+   200        501
+   201         72
+   202          6

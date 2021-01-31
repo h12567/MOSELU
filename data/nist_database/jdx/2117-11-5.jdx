@@ -1,0 +1,60 @@
+##TITLE=Library Entry 16730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4197
+##NAMES=HP
+##CAS NAME=4-Pentyn-2-ol
+##MOLFORM=C5H8O
+##CAS REGISTRY NO=2117-11-5
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          6
+    15         29
+    17          1
+    18          8
+    19          4
+    25          2
+    26          8
+    27        108
+    28          9
+    29         62
+    30          2
+    31          8
+    32          2
+    34          1
+    36          2
+    37         21
+    38         41
+    39        172
+    40        128
+    41        125
+    42         14
+    43        156
+    44         12
+    45        999
+    46         21
+    47          2
+    49          3
+    50          9
+    51         10
+    52          2
+    53          3
+    55          2
+    56          9
+    57          1
+    61          4
+    62          5
+    63          6
+    65         11
+    66          5
+    67          5
+    68          1
+    69         45
+    70          2
+    83          2

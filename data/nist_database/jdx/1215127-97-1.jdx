@@ -1,0 +1,85 @@
+##TITLE=Library Entry 9732
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methylpentyl 8-methylnonanoate
+##MOLFORM=C16H32O2
+##CAS REGISTRY NO=1215127-97-1
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=1710
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    27         48
+    29         78
+    30          9
+    39         49
+    40         17
+    41        411
+    42        125
+    43        999
+    44         35
+    53         22
+    54         14
+    55        265
+    56        757
+    57        285
+    58         15
+    59         15
+    60         49
+    61         26
+    67         37
+    68         44
+    69        360
+    70         33
+    71        114
+    72          8
+    73         92
+    74          8
+    81         64
+    82         17
+    83         78
+    84        829
+    85        449
+    86         26
+    87         30
+    95         31
+    97         28
+    98         13
+    99          8
+   100          8
+   101         28
+   102         11
+   111         27
+   112          5
+   113          9
+   114          7
+   115         14
+   116         49
+   117          6
+   121          6
+   129         87
+   130          6
+   131          7
+   137         34
+   139         19
+   144          7
+   145          6
+   153         20
+   155         82
+   156          7
+   157         19
+   158          3
+   170         12
+   171         17
+   172         14
+   173        301
+   174         31
+   175          3
+   213         45
+   214          8
+   241          2
+   256          5

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 63441
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=2-Phenyl-4-(cyanomethyl)-5-methyl-2H-1,2,3-triazole
+##MOLFORM=C11H10N4
+##CAS REGISTRY NO=13322-20-8
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         29
+    28          9
+    29         12
+    37          8
+    38         35
+    39         58
+    40         56
+    41         41
+    42         20
+    44         12
+    50         27
+    51        121
+    52         33
+    62          9
+    63         68
+    64        191
+    65         43
+    66         19
+    67          8
+    75          6
+    76          7
+    77        151
+    78         14
+    90         18
+    91        999
+    92         71
+    93         39
+    99         24
+   103         15
+   105         20
+   132         26
+   171         26
+   172         38
+   173          6
+   197         11
+   198        767
+   199        103
+   200          5

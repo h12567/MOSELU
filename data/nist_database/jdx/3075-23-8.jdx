@@ -1,0 +1,36 @@
+##TITLE=Library Entry 9952
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanethioic acid, 3-oxo-, S-ethyl ester
+##MOLFORM=C6H10O2S
+##CAS REGISTRY NO=3075-23-8
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        100
+    28        160
+    29        100
+    42         21
+    43        999
+    44         45
+    45         26
+    46         21
+    47         43
+    61         26
+    62         50
+    69         43
+    84         41
+    85        934
+    86         54
+    87         17
+   118         82
+   119         15
+   146        497
+   147         43
+   148         28

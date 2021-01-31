@@ -1,0 +1,65 @@
+##TITLE=Library Entry 52034
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. CLERC
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 1-[5-(3-furanyl)tetrahydro-2-methyl-2-furanyl]-4-
+methyl-
+##MOLFORM=C15H20O3
+##CAS REGISTRY NO=36238-02-5
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    29        108
+    31          8
+    39        103
+    40         16
+    41         76
+    43        516
+    44         13
+    50         10
+    51         16
+    52         11
+    53         58
+    54         25
+    55        200
+    56         16
+    57         18
+    65         18
+    66         10
+    77         40
+    79         71
+    81         41
+    82         50
+    83        999
+    84         75
+    85         33
+    91         10
+    93          6
+    94         33
+    95         41
+    97         13
+    98         16
+   108        100
+   109         50
+   110         16
+   121          8
+   123         16
+   133         16
+   135          8
+   137          8
+   138          8
+   139         10
+   148         20
+   150         65
+   151        499
+   152         53
+   154         75
+   190         16
+   215          8
+   233         25
+   248        101

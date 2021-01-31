@@ -1,0 +1,58 @@
+##TITLE=Library Entry 32647
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Dichloro-1-silacyclo-3-hexene
+##MOLFORM=C5H8Cl2Si
+##CAS REGISTRY NO=2999-83-9
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        280
+    40        120
+    41        260
+    42         40
+    43         20
+    53         80
+    54         30
+    55         50
+    63        200
+    64         10
+    65        100
+    66        539
+    67        999
+    68        320
+    69         70
+    98         40
+    99         60
+   100         30
+   101         40
+   112        180
+   113         10
+   114        120
+   115         10
+   116         20
+   125        200
+   126         20
+   127        140
+   128         10
+   129         50
+   130        200
+   131         50
+   132         70
+   133         20
+   138        440
+   139         60
+   140        310
+   141         40
+   142         70
+   166        200
+   167         20
+   168        140
+   169         10
+   170         20

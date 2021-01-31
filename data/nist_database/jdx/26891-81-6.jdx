@@ -1,0 +1,77 @@
+##TITLE=Library Entry 16624
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Spiro[benzofuran-2(3H),1'-[2,5]cyclohexadiene]-2'-carboxylic acid
+, 5,7-dichloro-4-hydroxy-6'-methoxy-6-methyl-3,4'-dioxo-
+##MOLFORM=C16H10Cl2O7
+##CAS REGISTRY NO=26891-81-6
+##MP= -300
+##BP= -300
+##MW= 384
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    39         70
+    44        999
+    45         40
+    47        230
+    48         70
+    49         50
+    50         50
+    51         70
+    53         70
+    62         40
+    63         70
+    65         40
+    69        190
+    70         10
+    75         60
+    83        480
+    84         40
+    85        330
+    86         30
+    87         60
+    92         50
+   111         30
+   115         30
+   123         30
+   149         30
+   150         40
+   151         30
+   157         40
+   170         40
+   171         30
+   192         50
+   194         40
+   235         30
+   263         30
+   269         90
+   271         60
+   272         40
+   276         30
+   290         40
+   296         30
+   297         80
+   298         30
+   299         60
+   306        140
+   307         30
+   308         60
+   310         60
+   312         40
+   325         90
+   326         10
+   327        100
+   328         10
+   340        790
+   341        140
+   342        530
+   343         90
+   344        110
+   345         10
+   384         10
+   386         10
+   388         10

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 67867
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2(1H)-Naphthalenone, octahydro-8a-methyl-, trans-
+##MOLFORM=C11H18O
+##CAS REGISTRY NO=1197-95-1
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=1368
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    51         90
+    52         60
+    53        350
+    54         60
+    55        850
+    56        140
+    57         80
+    59         20
+    61         30
+    63         20
+    65        100
+    66         70
+    67        750
+    68        360
+    69        580
+    70        120
+    71        100
+    73         20
+    77        120
+    78         40
+    79        220
+    80         80
+    81        700
+    82        580
+    83        140
+    84         70
+    85         20
+    91        100
+    92         30
+    93        250
+    94         70
+    95        999
+    96        380
+    97         90
+    98         40
+   105         40
+   106         40
+   107         70
+   108        420
+   109        450
+   110        190
+   111        140
+   112         30
+   119         20
+   120         20
+   121         10
+   122        140
+   123        170
+   124        400
+   125         40
+   133        120
+   134         20
+   137         60
+   138         70
+   139         10
+   142         10
+   147         10
+   148         90
+   149         20
+   151        160
+   152         20
+   165         10
+   166        630
+   167         90
+   168         10

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 34485
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Holscher ET AL.J.Agr.Food Chem.,40,655(1992)
+##NAMES=HP
+##CAS NAME=3-Mercapto-3-methylbutyl formate (ester)
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=50746-10-6
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=1024
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         59
+    29        102
+    31        111
+    33         66
+    39         75
+    40         11
+    41        579
+    42         23
+    43         50
+    45         38
+    47         45
+    53         63
+    55         54
+    56         27
+    57         11
+    59         54
+    61         16
+    67         41
+    68         43
+    69        999
+    70         56
+    72         56
+    74         20
+    75        142
+    87         54
+   102        321
+   103         22
+   115         13
+   148         22

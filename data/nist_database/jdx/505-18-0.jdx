@@ -1,0 +1,37 @@
+##TITLE=Library Entry 19571
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Pyridine, 2,3,4,5-tetrahydro-
+##MOLFORM=C5H9N
+##CAS REGISTRY NO=505-18-0
+##MP= -300
+##BP= -300
+##MW= 83
+##$RETENTION INDEX=796
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27        178
+    28        148
+    29         44
+    39        200
+    40         95
+    41        300
+    42        622
+    43         47
+    52         40
+    53         39
+    54        151
+    55        999
+    56         54
+    65          7
+    66         29
+    67         31
+    68         17
+    69         11
+    82         27
+    83        457
+    84         31
+    85          8

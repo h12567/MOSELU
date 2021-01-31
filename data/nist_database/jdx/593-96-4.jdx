@@ -1,0 +1,67 @@
+##TITLE=Library Entry 31498
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Bromo-1-chloroethane
+##MOLFORM=C2H4BrCl
+##CAS REGISTRY NO=593-96-4
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    12          6
+    13          8
+    14          9
+    15         14
+    18          1
+    19          4
+    24         10
+    25         51
+    26        233
+    27        747
+    28         36
+    32          1
+    35         41
+    36         14
+    37         15
+    38          5
+    40          1
+    47         13
+    48         16
+    49          7
+    50          4
+    59          3
+    60         20
+    61         48
+    63        999
+    64         33
+    65        300
+    66          8
+    79         89
+    80         22
+    81         87
+    82         19
+    91          4
+    92          3
+    93          5
+    94          3
+   104          5
+   105         12
+   106         10
+   107         31
+   108          7
+   109         21
+   114          2
+   116          3
+   127         26
+   128          4
+   129         31
+   131          9
+   142         30
+   144         41
+   145          2
+   146         10

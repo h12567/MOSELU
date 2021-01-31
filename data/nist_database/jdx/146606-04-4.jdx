@@ -1,0 +1,43 @@
+##TITLE=Library Entry 52438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=Cyclohexanecarboxylic acid, 4-formylphenyl ester
+##MOLFORM=C14H16O3
+##CAS REGISTRY NO=146606-04-4
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    50         11
+    51         27
+    53         33
+    54         42
+    55        545
+    56         18
+    63         18
+    64         13
+    65         73
+    66         10
+    67         73
+    68         10
+    77         24
+    79         14
+    81         33
+    82         14
+    83        999
+    84         56
+    93         20
+    95         11
+   111        418
+   112         29
+   121         75
+   122         40
+   123         42
+   232         13
+   233          2

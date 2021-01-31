@@ -1,0 +1,68 @@
+##TITLE=Library Entry 7936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2-methyl-, 1-methylethyl ester
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=66576-71-4
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=960
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         10
+    19          1
+    26         10
+    27        123
+    28         44
+    29        144
+    30          4
+    31          8
+    39        105
+    40         18
+    41        412
+    42         75
+    43        999
+    44         35
+    45         53
+    47          2
+    53         12
+    54          5
+    55         57
+    56        162
+    57        906
+    58         46
+    59        105
+    60          5
+    61          4
+    67          1
+    68          1
+    69         12
+    70          3
+    71          8
+    73         25
+    74        185
+    75          6
+    83          3
+    85        693
+    86         41
+    87        111
+    88          5
+    89          1
+   100          1
+   101          4
+   102        111
+   103        365
+   104         19
+   105          2
+   116        254
+   117         17
+   118          1
+   129         62
+   130          5
+   144          5
+   145          1

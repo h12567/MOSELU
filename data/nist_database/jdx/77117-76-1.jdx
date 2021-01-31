@@ -1,0 +1,67 @@
+##TITLE=Library Entry 73612
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.Maurer ET AL. J.Chromatogr.,382,147(1986)
+##NAMES=HP
+##CAS NAME=2-Acetyl-1,2,3,4,9,13b-hexahydro-2,4a-diaza-tribenzo[a,c,E]cycloh
+eptene
+##MOLFORM=C19H20N2O
+##CAS REGISTRY NO=77117-76-1
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=2595
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    57        104
+    59         18
+    61         85
+    63        223
+    64         18
+    73         44
+    74         14
+    75         11
+    76         18
+    84         22
+    88         59
+    89         26
+    90         22
+    93         11
+    99         22
+   100        999
+   139         37
+   150        133
+   151         85
+   156         14
+   165        156
+   166        100
+   167         70
+   170         14
+   178        241
+   179        104
+   192        193
+   193        479
+   194         89
+   206         59
+   207        416
+   208        100
+   220         89
+   221         18
+   224         29
+   227        141
+   233         63
+   234         18
+   235         40
+   237         74
+   238         18
+   242         14
+   247         48
+   248        182
+   249        104
+   250         70
+   276          7
+   291         48
+   292        282
+   293         55
+   294         11

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 53837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Nitrophenyl-piperidin-1-yl-methanone oxime
+##MOLFORM=C12H15N3O3
+##CAS REGISTRY NO=65623-48-5
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         60
+    30        130
+    39         61
+    41        141
+    42        137
+    50         49
+    51         40
+    55        150
+    56        258
+    57         50
+    75         59
+    76        119
+    84        999
+    85         99
+    90         30
+    91         30
+   102        109
+   103        159
+   104         29
+   119         40
+   149        169
+   150         59
+   186         50
+   203         39
+   232        160
+   233        119
+   234         19
+   249        209
+   250         29

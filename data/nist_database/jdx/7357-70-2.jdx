@@ -1,0 +1,56 @@
+##TITLE=Library Entry 31019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Cyanothioacetamide
+##MOLFORM=C3H4N2S
+##CAS REGISTRY NO=7357-70-2
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         16
+    29          4
+    30         24
+    32         53
+    33         29
+    34         23
+    38         69
+    39         84
+    40        136
+    41        165
+    42         34
+    44         24
+    45         74
+    46         26
+    47          9
+    51         13
+    52         10
+    53          7
+    55         24
+    56         11
+    57         51
+    58         34
+    59         88
+    60        999
+    61         27
+    62         48
+    64          9
+    65         14
+    66        147
+    67        111
+    68          7
+    70         22
+    72          9
+    73          7
+    82         14
+    83         41
+    84         32
+   100        976
+   101         46
+   102         40

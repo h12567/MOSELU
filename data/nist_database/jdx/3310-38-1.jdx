@@ -1,0 +1,47 @@
+##TITLE=Library Entry 3948
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 2,4-dihydro-2,4-dimethyl-
+##MOLFORM=C5H8N2O
+##CAS REGISTRY NO=3310-38-1
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    37         15
+    38         28
+    39        241
+    40         50
+    41        999
+    42         85
+    43        201
+    44         21
+    50          2
+    51         13
+    52         28
+    53         21
+    54        116
+    55         83
+    56         76
+    57         19
+    58         41
+    66         15
+    67         15
+    68         15
+    69        504
+    70         26
+    81          4
+    82         15
+    83         21
+    84         26
+    85          6
+   109          2
+   110         13
+   111        219
+   112        642
+   113         39

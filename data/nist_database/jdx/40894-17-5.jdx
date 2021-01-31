@@ -1,0 +1,82 @@
+##TITLE=Library Entry 3193
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=cis-2-(2-Hydroxyethyl)cyclohexanol
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=40894-17-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        440
+    29        440
+    30         20
+    31        360
+    39        440
+    40         80
+    41        999
+    42        330
+    43        290
+    44        210
+    45         80
+    50         20
+    51         60
+    52         20
+    53        190
+    54        430
+    55        910
+    56        160
+    57        720
+    58        120
+    59         10
+    63         10
+    64         20
+    65         70
+    66         80
+    67        960
+    68        290
+    69        290
+    70        470
+    71        270
+    72         30
+    77        100
+    78         50
+    79        380
+    80        290
+    81        360
+    82        530
+    83        650
+    84        210
+    91         70
+    92         10
+    93        340
+    94         40
+    95        180
+    96        210
+    97        250
+    98        750
+    99         60
+   101        310
+   102         10
+   105         10
+   107         20
+   108        150
+   109         40
+   111         60
+   112         20
+   113         20
+   114         10
+   115         10
+   125         26
+   126        120
+   127         13
+   143          9
+   144        110
+   145         13

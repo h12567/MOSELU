@@ -1,0 +1,53 @@
+##TITLE=Library Entry 48871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-Vinyl-1-cyclobutene
+##MOLFORM=C6H8
+##CAS REGISTRY NO=6555-52-8
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    30         10
+    31          2
+    32         20
+    36         10
+    37         30
+    38         40
+    39        260
+    40         60
+    41        110
+    42         20
+    43         30
+    44         20
+    49         20
+    50        150
+    51        190
+    52        200
+    53        150
+    54         40
+    55         10
+    61         10
+    62         20
+    63         30
+    64          6
+    65         90
+    66         10
+    67         40
+    68         30
+    69          6
+    73         10
+    74         20
+    75         30
+    76         10
+    77        350
+    78        100
+    79        999
+    80        460
+    81         28
+    82          1

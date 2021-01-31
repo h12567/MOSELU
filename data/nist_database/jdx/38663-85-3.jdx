@@ -1,0 +1,73 @@
+##TITLE=Library Entry 16707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethane, 1-isothiocyanato-2-methoxy-
+##MOLFORM=C4H7NOS
+##CAS REGISTRY NO=38663-85-3
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         15
+    15        106
+    16          2
+    25          2
+    26         31
+    27         90
+    28         83
+    29        195
+    30         17
+    31         28
+    32         26
+    33          6
+    34          2
+    38          4
+    39          6
+    40         14
+    41          6
+    42         15
+    43         48
+    44         88
+    45        999
+    46         28
+    47          6
+    48          0
+    51          4
+    52          5
+    54          2
+    56         32
+    57         12
+    58         73
+    59         49
+    60         48
+    61         23
+    62          7
+    63          1
+    70         16
+    71         13
+    72        148
+    73          9
+    74         10
+    75          1
+    84         30
+    85          6
+    86         37
+    87         15
+    88         29
+    89         85
+    90          4
+    91          4
+    99          4
+   100          2
+   101          1
+   116         15
+   117         72
+   118          5
+   119          3

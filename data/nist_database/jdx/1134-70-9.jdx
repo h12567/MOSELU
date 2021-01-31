@@ -1,0 +1,42 @@
+##TITLE=Library Entry 37626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Benzamido-pyrrolidine
+##MOLFORM=C11H14N2O
+##CAS REGISTRY NO=1134-70-9
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        126
+    42         46
+    43         45
+    44         37
+    50         48
+    51        134
+    52         15
+    55         65
+    56         31
+    68         27
+    69         19
+    70        999
+    71         49
+    75         18
+    76         11
+    77        269
+    78         27
+    85        883
+    86         65
+   103         18
+   104         18
+   105        306
+   106         19
+   122         26
+   146         15
+   190         37
+   191         12

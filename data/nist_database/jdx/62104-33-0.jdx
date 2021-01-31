@@ -1,0 +1,62 @@
+##TITLE=Library Entry 53887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=1-Aminocyclopentane hydroxamic acid
+##MOLFORM=C6H12N2O2
+##CAS REGISTRY NO=62104-33-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        100
+    42         93
+    43         41
+    44         18
+    45          4
+    50          1
+    51          3
+    52          5
+    53         12
+    54         79
+    55         38
+    56         41
+    57         21
+    58          5
+    59          1
+    60          3
+    65         17
+    66          5
+    67        190
+    68         18
+    69         20
+    70          4
+    71          2
+    79          4
+    80          6
+    81         10
+    82         39
+    83         19
+    84        999
+    85         66
+    86          2
+    95         13
+    96          2
+    97         10
+    98          3
+    99          6
+   100          2
+   110          4
+   112          2
+   113          7
+   115          2
+   127          3
+   128         10
+   129          1
+   144          4
+   145          1

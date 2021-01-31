@@ -1,0 +1,44 @@
+##TITLE=Library Entry 36217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=p-Benzoquinone, 2-methoxy-6-(2-methylbutyl)-
+##MOLFORM=C12H16O3
+##CAS REGISTRY NO=15116-12-8
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    51         50
+    53        280
+    55         50
+    57        110
+    65         60
+    66        150
+    67         70
+    68        170
+    69        999
+    81         60
+    94         90
+    95         50
+    96         80
+   109        180
+   111         50
+   122        350
+   123         90
+   124        450
+   125         60
+   137         70
+   139        110
+   152        430
+   153        150
+   154        180
+   191         80
+   208         60
+   209         10
+   210         40
+   211         10

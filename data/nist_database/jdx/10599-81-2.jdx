@@ -1,0 +1,45 @@
+##TITLE=Library Entry 38232
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Methylamine, N-(1-butylpentylidene)-
+##MOLFORM=C10H21N
+##CAS REGISTRY NO=10599-81-2
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    40        150
+    41         20
+    42        930
+    43        500
+    44         90
+    45         30
+    53         40
+    54         70
+    55        180
+    56        100
+    57        250
+    67         20
+    68        120
+    69         20
+    70         40
+    71        999
+    72         40
+    82         20
+    84        100
+    96         20
+    98        650
+    99         50
+   113         60
+   126        170
+   127         20
+   140         20
+   154         10
+   155         10
+   156         20

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 36269
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.ROESKY FRANKFURT UNIV., FRANKFURT, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Thioimidodiphosphoryl chloride fluoride (Cl2P(O)NHP(S)F2), methyl
+-
+##MOLFORM=CH3Cl2F2NOP2S
+##CAS REGISTRY NO=39564-20-0
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29         50
+    45         20
+    46         40
+    47        490
+    50         60
+    60        120
+    61         70
+    63        100
+    69        999
+    82         90
+    85        130
+    98         90
+   101        590
+   103         80
+   110        260
+   114        100
+   117        140
+   130        990
+   146         90
+   212         50
+   247        190
+   249        120
+   251         20

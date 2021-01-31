@@ -1,0 +1,66 @@
+##TITLE=Library Entry 49757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 119, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=3-Octen-2-ol, (Z)-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=69668-89-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        470
+    29        190
+    31         30
+    38         40
+    39        490
+    40        120
+    41        750
+    42         80
+    43        320
+    45        160
+    50         50
+    51        100
+    52         80
+    53        330
+    54        750
+    55        360
+    56         80
+    57        150
+    58        100
+    59         20
+    62         20
+    63         40
+    65        140
+    66        100
+    67        640
+    68        650
+    69        140
+    70         20
+    71        350
+    72         20
+    77        130
+    78         30
+    79        240
+    80         60
+    81        999
+    82        120
+    83         30
+    84         20
+    85         40
+    86         10
+    91         30
+    93         30
+    95        190
+    96         20
+    97         20
+   110        500
+   111         80
+   126         20
+   128         10

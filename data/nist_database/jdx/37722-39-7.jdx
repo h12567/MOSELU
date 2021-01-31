@@ -1,0 +1,37 @@
+##TITLE=Library Entry 33072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. M. PECHINE SOURCE NA4
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-bromo-2-chloro-, cis-
+##MOLFORM=C5H8BrCl
+##CAS REGISTRY NO=37722-39-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27         39
+    38         18
+    39        117
+    40         20
+    41        211
+    42         11
+    51         12
+    53         10
+    65         35
+    66        115
+    67        999
+    68         56
+    75         46
+    77         14
+   103        250
+   104         14
+   105         79
+   106         17
+   108         12
+   182         44
+   183         56
+   184         10

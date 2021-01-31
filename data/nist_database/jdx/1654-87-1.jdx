@@ -1,0 +1,63 @@
+##TITLE=Library Entry 88054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=4a(2H)-Naphthalenol, octahydro-, trans-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=1654-87-1
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        165
+    40         37
+    41        341
+    42         73
+    43        146
+    44         24
+    45         24
+    51         26
+    52         12
+    53         73
+    54         49
+    55        420
+    56         43
+    57         61
+    58         24
+    65         20
+    66         15
+    67        189
+    68         67
+    69        110
+    70        115
+    71         23
+    77         43
+    78         10
+    79         85
+    80         25
+    81        116
+    82         55
+    83        152
+    84         55
+    91         37
+    92         10
+    93         91
+    94         30
+    95         73
+    96         60
+    97        220
+    98        396
+    99         30
+   110         23
+   111        999
+   112         98
+   125         21
+   136         12
+   153          6
+   154        317
+   155         35
+   156          2

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 58984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=1,5-Octadiyne
+##MOLFORM=C8H10
+##CAS REGISTRY NO=764-74-9
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=801
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         12
+    27         64
+    37         12
+    38         41
+    39        250
+    41        450
+    42         15
+    50         73
+    51        155
+    52         72
+    53         40
+    54          8
+    55          1
+    61         11
+    62         35
+    63         99
+    64         21
+    65        406
+    66         70
+    67         76
+    73          2
+    74         20
+    75         12
+    76         12
+    77         88
+    78          8
+    79        113
+    80          0
+    91        999
+    92         64
+   105        208
+   106         26

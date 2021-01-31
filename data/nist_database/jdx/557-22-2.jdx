@@ -1,0 +1,58 @@
+##TITLE=Library Entry 3898
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,2-Dithiolane
+##MOLFORM=C3H6S2
+##CAS REGISTRY NO=557-22-2
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=982
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    33         13
+    34         12
+    35          6
+    37         22
+    38         41
+    39        232
+    40         34
+    41        999
+    42        101
+    43          4
+    44         11
+    45        409
+    46        133
+    47         57
+    48          5
+    53          5
+    57         21
+    58         65
+    59        105
+    60         66
+    61         28
+    62          3
+    64        369
+    65         13
+    66         40
+    68          5
+    69         20
+    71         30
+    72         53
+    73         97
+    74         13
+    75          4
+    76          4
+    77          6
+    78        210
+    79         10
+    80         22
+    82          7
+   103          8
+   105         12
+   106        745
+   107         38
+   108         67

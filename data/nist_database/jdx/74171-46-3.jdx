@@ -1,0 +1,35 @@
+##TITLE=Library Entry 65519
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=4-Aminophenyl chlorodifluoromethyl sulfone
+##MOLFORM=C7H6ClF2NO2S
+##CAS REGISTRY NO=74171-46-3
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        220
+    41         70
+    52         70
+    63        110
+    64         90
+    65        780
+    80         40
+    85         70
+    91         80
+    92        999
+    93         70
+   108        560
+   140         80
+   142         40
+   156        900
+   157         70
+   158         60
+   241        160
+   243         60

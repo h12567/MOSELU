@@ -1,0 +1,42 @@
+##TITLE=Library Entry 62617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Carbamic acid, methyl[(4-methylphenyl)sulfonyl]-, methyl ester
+##MOLFORM=C10H13NO4S
+##CAS REGISTRY NO=32258-50-7
+##MP= -300
+##BP= -300
+##MW= 243
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    15         36
+    18         27
+    28         58
+    39         81
+    41         31
+    51         31
+    59         18
+    63         54
+    64         22
+    65        239
+    66         18
+    71         31
+    89         67
+    90         27
+    91        999
+    92         99
+   107         13
+   118         13
+   139         22
+   155        800
+   156         81
+   157         45
+   184        800
+   185         86
+   186         40
+   243        131
+   244          4

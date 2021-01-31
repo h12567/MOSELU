@@ -1,0 +1,71 @@
+##TITLE=Library Entry 65837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(1R,3S,4S,5S)-1-Isopropyl-4-methylbicyclo[3.1.0]hexan-3-yl acetat
+e-rel-
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=370557-87-2
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1279
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    27         21
+    29         21
+    39         59
+    40          9
+    41        144
+    42         15
+    43        496
+    44         14
+    45          5
+    50          5
+    51         21
+    52         12
+    53         55
+    54         11
+    55        105
+    56          9
+    57         13
+    58          7
+    61          7
+    65         33
+    66         12
+    67         90
+    68         23
+    69         87
+    70          9
+    77        116
+    78         23
+    79        183
+    80         55
+    81         60
+    91        136
+    92        308
+    93        999
+    94        201
+    95        137
+    96         13
+    99         16
+   100          4
+   103         14
+   104          6
+   105         51
+   106         10
+   107        143
+   108         24
+   111         30
+   120          6
+   121        410
+   122         42
+   125          5
+   126          5
+   131         15
+   132          8
+   135          8
+   136        185
+   137         27

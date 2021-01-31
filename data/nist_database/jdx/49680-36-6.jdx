@@ -1,0 +1,35 @@
+##TITLE=Library Entry 91288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., U
+##NAMES=HP
+##CAS NAME=O-Methyl N-tert-butylformimidate
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=49680-36-6
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    15        107
+    27         95
+    28        142
+    29        214
+    30         47
+    39        119
+    41        476
+    42        178
+    43         47
+    56        130
+    57        357
+    60        142
+    68        178
+    72        119
+    84         35
+    86         47
+   100        119
+   101         59
+   115        999

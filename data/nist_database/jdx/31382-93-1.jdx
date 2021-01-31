@@ -1,0 +1,49 @@
+##TITLE=Library Entry 84466
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=Pyridinium, 1-anilino-3,5-dimethyl-, hydroxide, inner salt
+##MOLFORM=C13H14N2
+##CAS REGISTRY NO=31382-93-1
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        110
+    50         40
+    51        120
+    52        110
+    53        110
+    54         40
+    55         40
+    63        110
+    64        340
+    65        130
+    66        110
+    67         40
+    77        240
+    78         40
+    79        170
+    80         20
+    90         10
+    91        750
+    92        190
+    93        110
+    94         40
+    98         40
+    99         40
+   106        300
+   107        999
+   108        280
+   109         10
+   181         20
+   182         50
+   183         50
+   184         20
+   197        150
+   198        900
+   199        150

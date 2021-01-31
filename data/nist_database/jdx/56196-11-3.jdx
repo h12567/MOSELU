@@ -1,0 +1,64 @@
+##TITLE=Library Entry 41969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Ribose, 3-O-methyl-2,4,5-tris-O-(trimethylsilyl)-, O-methyloxim
+e
+##MOLFORM=C16H39NO5Si3
+##CAS REGISTRY NO=56196-11-3
+##MP= -300
+##BP= -300
+##MW= 409
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    29         42
+    31         28
+    32         47
+    41         23
+    43         19
+    44         23
+    45        133
+    47         14
+    59         85
+    71         28
+    72         19
+    73        999
+    74         66
+    75        100
+    89        133
+    99         19
+   101         19
+   103        523
+   104         47
+   105         28
+   116         33
+   117        104
+   119         14
+   129         42
+   131         85
+   133         76
+   146        190
+   147        242
+   148         38
+   149         19
+   159        104
+   160         71
+   161         19
+   172         38
+   173         28
+   189         95
+   190         14
+   201         76
+   204         28
+   205         90
+   206         19
+   217         28
+   219        109
+   220         19
+   233         19
+   249        228
+   250         42
+   330         19

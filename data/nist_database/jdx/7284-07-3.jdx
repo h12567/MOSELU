@@ -1,0 +1,44 @@
+##TITLE=Library Entry 29728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Xylo-Hex-5-enofuranose, 5,6-dideoxy-1,2-O-(1-methylethy
+lidene)-
+##MOLFORM=C9H14O4
+##CAS REGISTRY NO=7284-07-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    43        499
+    53         10
+    55        100
+    56         10
+    57        170
+    58         35
+    59        999
+    60         35
+    69        100
+    70         80
+    71        100
+    72         15
+    73         20
+    81         10
+    82         15
+    83         25
+    85         10
+    99         16
+   100         15
+   101         25
+   111         30
+   115        120
+   128         10
+   129         35
+   130         10
+   171         50
+   186          1
+   187          1

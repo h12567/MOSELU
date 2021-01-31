@@ -1,0 +1,53 @@
+##TITLE=Library Entry 1700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid
+##MOLFORM=C4H6O2
+##CAS REGISTRY NO=1759-53-1
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=900
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          5
+    25          3
+    26         56
+    27        132
+    28         33
+    29         75
+    30          4
+    31         20
+    36          4
+    37         88
+    38        160
+    39        999
+    40        263
+    41        860
+    42        537
+    43        170
+    44         78
+    45        347
+    46          2
+    47          4
+    50          3
+    53         30
+    54          3
+    55        136
+    56          5
+    57        144
+    58        449
+    59          4
+    60         36
+    67          2
+    68        338
+    69        181
+    70          2
+    71         78
+    85        660
+    86         44
+    87          3

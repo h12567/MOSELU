@@ -1,0 +1,37 @@
+##TITLE=Library Entry 5643
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(3)1073(1977);11; M. NEVENSCHWANDER, UNIVERSIT
+AT BERN, SWITZERLAND
+##NAMES=HP
+##CAS NAME=1,2-Ethanediol, 1,2-dichloro-, diacetate
+##MOLFORM=C6H8Cl2O4
+##CAS REGISTRY NO=59602-17-4
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    35         70
+    36        370
+    38        120
+    41         70
+    42        220
+    43        999
+    44        210
+    48         10
+    49         40
+    50         10
+    60         10
+    61         10
+    63         10
+   100         30
+   102         10
+   108        240
+   110         80
+   137        150
+   139         50
+   179         30
+   181         10

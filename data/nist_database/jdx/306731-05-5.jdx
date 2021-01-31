@@ -1,0 +1,49 @@
+##TITLE=Library Entry 10117
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=N-Hydroxycarbamic acid,2-(isopropoxycarbonylamino)ethyl ester
+##MOLFORM=C7H14N2O5
+##CAS REGISTRY NO=306731-05-5
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    30        142
+    32         38
+    39        104
+    40         28
+    41        298
+    42        260
+    43        999
+    44        473
+    45        175
+    46         44
+    56         22
+    57         19
+    58         15
+    59         69
+    60         97
+    62         12
+    70        173
+    71         11
+    74         22
+    75         13
+    78         33
+    86         13
+    87         42
+    88        620
+    89         26
+    91         10
+   116         45
+   129         46
+   147         14
+   149          2
+   159          3
+   164         28
+   165          1

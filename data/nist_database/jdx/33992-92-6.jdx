@@ -1,0 +1,34 @@
+##TITLE=Library Entry 56317
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Chloro-1,1,4,4-tetramethyl-4-vinyl-1,4-disilabutane
+##MOLFORM=C8H19ClSi2
+##CAS REGISTRY NO=33992-92-6
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    58        157
+    59        106
+    60         20
+    85        677
+    86        999
+    87        111
+    88         47
+    93         28
+    95          8
+   178         70
+   179        142
+   180         58
+   181         76
+   191        147
+   192         30
+   193         51
+   194          8
+   206         21
+   208          9

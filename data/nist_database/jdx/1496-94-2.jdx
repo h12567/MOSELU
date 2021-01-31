@@ -1,0 +1,51 @@
+##TITLE=Library Entry 82974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Keck, Inst. Inorg. Struct. Chem., Heinrich-Heine Uni
+v., Dusseldorf, Ger.
+##NAMES=HP
+##CAS NAME=tri-n-Propylphosphine oxide
+##MOLFORM=C9H21OP
+##CAS REGISTRY NO=1496-94-2
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        117
+    40         97
+    41        427
+    42         78
+    43        417
+    45         68
+    47        136
+    48         39
+    49        136
+    63        427
+    64        262
+    72         39
+    73        194
+    75         58
+    76         39
+    77         35
+    78        825
+    89         38
+    91        107
+    92        709
+    93         39
+   106        999
+   107         68
+   108         49
+   109         39
+   119        136
+   120        126
+   133        427
+   134        854
+   135         78
+   161        437
+   162         49
+   175         29
+   176        175
+   177         29

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 31640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Triallyl(chloromethyl)silane
+##MOLFORM=C10H17ClSi
+##CAS REGISTRY NO=115946-71-9
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        111
+    41        147
+    42          8
+    43        328
+    44        100
+    45         39
+    55        127
+    63        999
+    64         61
+    65        368
+    66         20
+    67         77
+    68         18
+    69        157
+    70         10
+    79        138
+    80         19
+    81        140
+    82         37
+    83        137
+    84          7
+    90         57
+    91        116
+    92         29
+    93         68
+    94          7
+    95        517
+    96         58
+    97         36
+   103         87
+   104          9
+   105        306
+   106         25
+   107         96
+   108         11
+   109         62
+   117        901
+   118         87
+   119        297
+   120         30
+   123         71
+   131        448
+   132         57
+   133        167
+   134         20
+   151          8
+   159        188
+   160         17
+   161         60

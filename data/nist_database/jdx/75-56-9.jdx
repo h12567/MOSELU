@@ -1,0 +1,49 @@
+##TITLE=Library Entry 221
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database - Spectrum MS-NW-785
+##NAMES=HP
+##CAS NAME=Propylene oxide
+##MOLFORM=C3H6O
+##CAS REGISTRY NO=75-56-9
+##MP= -300
+##BP= -300
+##MW= 58
+##$RETENTION INDEX=460
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          7
+    14         29
+    15        107
+    16          2
+    17          2
+    18          1
+    24          2
+    25         16
+    26        276
+    27        497
+    28        999
+    29        360
+    30         55
+    31        315
+    32          6
+    36          3
+    37         18
+    38         25
+    39         61
+    40         12
+    41         28
+    42         35
+    43        369
+    44          9
+    45          1
+    52          1
+    53          5
+    55         12
+    56          2
+    57         77
+    58        813
+    59         27
+    60          2

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 109942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,111(2)770(1978); H. BIERE ET AL
+##NAMES=HP
+##CAS NAME=2-Thiabicyclo[3.2.0]hepta-3,6-diene-4,6,7-tricarboxylic acid, 3-a
+mino-, 4-ethyl 6,7-dimethyl ester
+##MOLFORM=C13H15NO6S
+##CAS REGISTRY NO=66599-28-8
+##MP= -300
+##BP= -300
+##MW= 313
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    59        120
+    97        110
+   125        999
+   171        950
+   208        140
+   209        150
+   222         80
+   223         60
+   240         60
+   254        100
+   255         80
+   268         50
+   281        280
+   313        240

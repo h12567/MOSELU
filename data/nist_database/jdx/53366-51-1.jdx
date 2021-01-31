@@ -1,0 +1,64 @@
+##TITLE=Library Entry 67964
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclopentane, (3-methylbutylidene)-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=53366-51-1
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1003
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        190
+    40         70
+    41        430
+    42         40
+    43        120
+    44         61
+    50         20
+    51         25
+    52         35
+    53         90
+    54         50
+    55        210
+    56         80
+    57        200
+    58         30
+    64         10
+    65         60
+    66         60
+    67        660
+    68        110
+    69        110
+    70         70
+    71         40
+    77         80
+    78         40
+    79        180
+    80         70
+    81        160
+    82        280
+    83        100
+    84         10
+    85         10
+    91         80
+    92         30
+    93         50
+    94         90
+    95        999
+    96        100
+    97         20
+   105         10
+   107         30
+   109         50
+   110         10
+   111         10
+   136         10
+   138        180
+   139         30

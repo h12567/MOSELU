@@ -1,0 +1,50 @@
+##TITLE=Library Entry 15485
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=3-Pentanone, dimethylhydrazone
+##MOLFORM=C7H16N2
+##CAS REGISTRY NO=16795-73-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    29        143
+    30         54
+    39         45
+    40         13
+    41         94
+    42        285
+    43        178
+    44        999
+    45        940
+    46         83
+    52          7
+    53         14
+    54         92
+    55         81
+    56        323
+    57         98
+    58         87
+    59         24
+    67         12
+    68         42
+    69         14
+    70         23
+    71          7
+    72         19
+    82         56
+    83         26
+    84        178
+    85         58
+    97          7
+    99         64
+   113         27
+   127          9
+   128        428
+   129         61

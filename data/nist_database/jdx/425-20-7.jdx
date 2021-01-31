@@ -1,0 +1,54 @@
+##TITLE=Library Entry 22125
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=N-Heptafluorobutyrylmorpholine
+##MOLFORM=C8H8F7NO2
+##CAS REGISTRY NO=425-20-7
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    30         80
+    31         40
+    41        140
+    42        530
+    43        160
+    44         40
+    45         70
+    54         40
+    55        120
+    56        999
+    57        200
+    58         30
+    69        440
+    70        380
+    71         40
+    78        120
+    84        170
+    86        150
+   100         80
+   109         40
+   114        280
+   115        200
+   119         40
+   169        200
+   170         20
+   192         40
+   220         40
+   226        120
+   227         30
+   239        120
+   240         80
+   253         40
+   254         30
+   264         30
+   268        220
+   269         20
+   283        260
+   284         24
+   285          1

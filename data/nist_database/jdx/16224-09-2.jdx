@@ -1,0 +1,61 @@
+##TITLE=Library Entry 60593
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, [(cyclohexyloxy)methyl]-
+##MOLFORM=C13H18O
+##CAS REGISTRY NO=16224-09-2
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    41         50
+    42         10
+    43         20
+    50         10
+    51         20
+    52         10
+    53         10
+    54         20
+    55         60
+    56         10
+    57         20
+    63         20
+    65         60
+    67         20
+    77         20
+    78         10
+    79         30
+    80         10
+    81         30
+    82         10
+    83         10
+    89         20
+    90         20
+    91        999
+    92        370
+    93         40
+    94         20
+    98         20
+    99        150
+   100         20
+   104         50
+   105         30
+   106         10
+   107         30
+   108         30
+   117         20
+   129         10
+   130         10
+   131         10
+   133         10
+   143         20
+   144         20
+   148         20
+   161         20
+   190          4

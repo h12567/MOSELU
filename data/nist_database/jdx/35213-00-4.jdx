@@ -1,0 +1,77 @@
+##TITLE=Library Entry 1338
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,6-Dinitrobenzonitrile
+##MOLFORM=C7H3N3O4
+##CAS REGISTRY NO=35213-00-4
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          1
+    17         10
+    18          6
+    26         21
+    27         10
+    28         11
+    30        999
+    31          7
+    36          8
+    37         75
+    38         96
+    39         28
+    40         15
+    44          5
+    46        151
+    48          9
+    49         38
+    50        383
+    51         54
+    52         21
+    53         13
+    54         36
+    55          7
+    60          8
+    61         63
+    62        190
+    63        125
+    64         42
+    65          9
+    66         16
+    72         13
+    73         58
+    74        217
+    75        672
+    76         86
+    77        134
+    78         17
+    86         18
+    87         27
+    88         56
+    89        118
+    90         34
+    91         38
+    99        127
+   100        168
+   101        376
+   102         29
+   103         48
+   104          8
+   105         21
+   116          6
+   117         53
+   118          7
+   121         16
+   133        692
+   134         59
+   147         19
+   163        589
+   164         54
+   177         17
+   193         99
+   194         10

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 15218
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazan-3-carboxamide, oxime, 4-amino-N,N-dimethyl-
+##MOLFORM=C5H9N5O2
+##CAS REGISTRY NO=129206-45-7
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    33         60
+    34         20
+    38         21
+    40        393
+    42        467
+    44        999
+    45        107
+    46          9
+    51         16
+    53        178
+    54         72
+    55         74
+    56         77
+    57        111
+    58         28
+    59          6
+    65          4
+    67        160
+    69        273
+    70         94
+    71         56
+    72         47
+    80         14
+    81         24
+    83        210
+    84         62
+    85         10
+    86         26
+    87         28
+    95         18
+    96         66
+    97         44
+    98         36
+    99         26
+   108         33
+   109          7
+   111         48
+   112         14
+   114        278
+   115          9
+   120          7
+   124        296
+   125         33
+   143         26
+   154         40
+   156          6
+   171        310

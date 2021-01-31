@@ -1,0 +1,65 @@
+##TITLE=Library Entry 55631
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran, 2-[[(3.beta.)-cholest-5-en-3-yl]oxy]tetrahydro-
+##MOLFORM=C32H54O2
+##CAS REGISTRY NO=6252-45-5
+##MP= -300
+##BP= -300
+##MW= 470
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41         80
+    43         70
+    53         10
+    55         80
+    56         10
+    57         90
+    67         70
+    69         40
+    71         10
+    77         10
+    79         20
+    81         50
+    83         20
+    84         10
+    85        999
+    86         60
+    91         30
+    93         30
+    94         10
+    95         40
+    97         10
+   101         10
+   105         30
+   106         10
+   107         30
+   108         10
+   109         20
+   117         10
+   119         30
+   120         20
+   121         20
+   131         10
+   133         20
+   135         10
+   145         20
+   147         20
+   149         10
+   159         20
+   160         10
+   161         10
+   213         10
+   247         20
+   255         10
+   260         10
+   353         30
+   368        250
+   369         90
+   370         30
+   386         20

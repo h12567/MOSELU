@@ -1,0 +1,39 @@
+##TITLE=Library Entry 35606
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLER-SCHIERLEIN, ORG.-CHEM. LAB., ETH-Z, ZURICH, S
+WITZ.
+##NAMES=HP
+##CAS NAME=(2S,4S)-2,4-Dimethyloctanedioic acid dimethyl ester
+##MOLFORM=C12H22O4
+##CAS REGISTRY NO=85547-37-1
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    28        260
+    32        230
+    41        650
+    55        680
+    57        290
+    59        520
+    69        999
+    73        190
+    74        320
+    83        350
+    88        900
+    97        480
+   101        100
+   111        390
+   125        130
+   139        290
+   143        350
+   151        230
+   157        160
+   166        190
+   171        230
+   182        100
+   199         60

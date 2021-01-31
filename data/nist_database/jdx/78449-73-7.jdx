@@ -1,0 +1,66 @@
+##TITLE=Library Entry 86925
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Hexahydro-1H-pyrrolizin-7a-ylmethanamine
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=78449-73-7
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    30         62
+    36          2
+    37          3
+    38          2
+    39        122
+    40         40
+    41        210
+    42        113
+    43         38
+    44         39
+    45          4
+    50          5
+    51         17
+    52         19
+    53         60
+    54         76
+    55         77
+    56         37
+    57          8
+    58          1
+    59          1
+    60          1
+    63          2
+    64          2
+    65         17
+    66          8
+    67         48
+    68         89
+    69         27
+    70         12
+    71          1
+    77         19
+    78          8
+    79         19
+    80        106
+    81         34
+    82         87
+    83         24
+    84          4
+    93         11
+    94         16
+    95         10
+    96         10
+   108        138
+   109         25
+   110        999
+   111        100
+   112          3
+   123          5
+   124          3
+   140          4

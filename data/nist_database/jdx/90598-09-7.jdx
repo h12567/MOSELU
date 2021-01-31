@@ -1,0 +1,41 @@
+##TITLE=Library Entry 51899
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=(Piperidinoformamido)sulfur pentafluoride
+##MOLFORM=C6H11F5N2OS
+##CAS REGISTRY NO=90598-09-7
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27        125
+    28        175
+    29        800
+    30        350
+    39        650
+    41        140
+    42        200
+    55        450
+    56        175
+    67        400
+    68        700
+    69        300
+    70        250
+    81        750
+    82        265
+    83        999
+    89        550
+   111        250
+   125        650
+   127        265
+   129        550
+   130        300
+   165        125
+   170        115
+   210        250
+   211        400

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 9935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2,2-dimethyl-, methyl ester
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=813-68-3
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         26
+    27         26
+    28         44
+    29        177
+    30         17
+    31         20
+    38         17
+    39        166
+    40         36
+    41        337
+    42         66
+    43        999
+    44         42
+    45         23
+    51         34
+    53         55
+    55         20
+    56         25
+    57        142
+    59        250
+    67         20
+    69        137
+    70         55
+    73         88
+    74         17
+    83         30
+    84         87
+    85        738
+    86         62
+    87        101
+   101         47
+   102        447
+   103         38
+   113         27
+   115         62

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 79169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Benzeneacetonitrile, .alpha.-(benzoyloxy)-
+##MOLFORM=C15H11NO2
+##CAS REGISTRY NO=4242-46-0
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    38          4
+    39        169
+    50         86
+    51        463
+    52         22
+    63        171
+    64         23
+    65         71
+    77        906
+    78         69
+    88          6
+    89        475
+    90         97
+   105        999
+   106         94
+   114         37
+   115        123
+   116        491
+   117         25
+   237        107

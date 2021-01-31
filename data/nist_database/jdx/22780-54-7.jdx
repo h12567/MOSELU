@@ -1,0 +1,65 @@
+##TITLE=Library Entry 71121
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 63
+##NAMES=HP
+##CAS NAME=2-Piperidinimine
+##MOLFORM=C5H10N2
+##CAS REGISTRY NO=22780-54-7
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         14
+    26          9
+    27         43
+    28        100
+    29         27
+    30        262
+    31          5
+    32          2
+    39         49
+    40         16
+    41        183
+    42        344
+    43        502
+    44         83
+    45          6
+    47          3
+    48         11
+    50          4
+    51          8
+    52         10
+    53         17
+    54         77
+    55         79
+    56         75
+    57         22
+    58          4
+    64          1
+    65          1
+    66          3
+    67          7
+    68         14
+    69         16
+    70        687
+    71         31
+    72          1
+    78          5
+    79          1
+    80         11
+    81          4
+    82          8
+    83         14
+    84          2
+    94          2
+    95          7
+    96          4
+    97        145
+    98        999
+    99        101
+   100          4

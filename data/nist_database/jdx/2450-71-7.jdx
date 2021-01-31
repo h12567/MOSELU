@@ -1,0 +1,42 @@
+##TITLE=Library Entry 18597
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6797
+##NAMES=HP
+##CAS NAME=Propargylamine
+##MOLFORM=C3H5N
+##CAS REGISTRY NO=2450-71-7
+##MP= -300
+##BP= -300
+##MW= 55
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          2
+    14          2
+    15          2
+    16          6
+    17          6
+    18         12
+    24          6
+    25         20
+    26         45
+    27         75
+    28        357
+    29         98
+    30         40
+    36          8
+    37         36
+    38         70
+    39        168
+    40         15
+    41          6
+    50         13
+    51         52
+    52        114
+    53         28
+    54        999
+    55        173
+    56         11

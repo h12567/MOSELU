@@ -1,0 +1,32 @@
+##TITLE=Library Entry 7016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanone, 1-cyclobutyl-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=3019-25-8
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    15         71
+    26         30
+    27        224
+    28         40
+    29        163
+    39        112
+    41         20
+    42         20
+    43        999
+    44         10
+    53         51
+    55        795
+    56         40
+    59         40
+    83        183
+    98         81

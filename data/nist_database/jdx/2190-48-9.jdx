@@ -1,0 +1,59 @@
+##TITLE=Library Entry 34149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Methyl-3-chloro-1-butene
+##MOLFORM=C5H9Cl
+##CAS REGISTRY NO=2190-48-9
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=642
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         28
+    27        194
+    28          8
+    29         23
+    31          6
+    32          4
+    35          2
+    36         15
+    37         17
+    38         33
+    39        227
+    40         64
+    41        644
+    42         53
+    43         15
+    49         10
+    50         30
+    51         50
+    52         18
+    53        312
+    54         24
+    55         13
+    60          0
+    61         11
+    62          9
+    63         15
+    64          0
+    65         17
+    66         11
+    67        152
+    68        103
+    69        999
+    70         57
+    73          0
+    75          3
+    76          3
+    77          8
+    78          1
+    79          1
+    89         97
+    90          2
+    91         30
+   104         27
+   106          9

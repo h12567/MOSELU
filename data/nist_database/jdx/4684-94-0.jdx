@@ -1,0 +1,30 @@
+##TITLE=Library Entry 90187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Pyridinecarboxylic acid, 6-chloro-
+##MOLFORM=C6H4ClNO2
+##CAS REGISTRY NO=4684-94-0
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    44        156
+    49         47
+    50        156
+    51        249
+    52         86
+    75         39
+    76        117
+    77         39
+    78        921
+    79         47
+   112         70
+   113        999
+   114         78
+   115        288
+   157         23

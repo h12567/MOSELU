@@ -1,0 +1,53 @@
+##TITLE=Library Entry 42599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanediol, (E)-, 2TMS derivative
+##MOLFORM=C12H28O2Si2
+##CAS REGISTRY NO=39789-21-4
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    69         29
+    72         29
+    73        999
+    74         85
+    75        322
+    76         25
+    77         25
+    79         40
+    81        370
+    82         29
+    99         25
+   101         66
+   102          7
+   103         29
+   105         14
+   115         33
+   116         33
+   117         33
+   119         18
+   129        296
+   130         48
+   131         74
+   133        129
+   134         29
+   135         14
+   142        562
+   143         96
+   144         37
+   147        777
+   148        159
+   149        122
+   150         22
+   155        103
+   157         25
+   169         37
+   170         85
+   245        370
+   246         96

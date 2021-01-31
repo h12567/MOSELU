@@ -1,0 +1,53 @@
+##TITLE=Library Entry 85232
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 4-ethyl-, 1-oxide
+##MOLFORM=C7H9NO
+##CAS REGISTRY NO=14906-55-9
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         20
+    39        100
+    40         20
+    41         30
+    43         30
+    50         30
+    51         70
+    52         40
+    53         50
+    54         20
+    55         20
+    61         20
+    62         20
+    63         30
+    64         20
+    65         80
+    66         20
+    67         20
+    76         20
+    77         40
+    78         40
+    79         50
+    80         30
+    81         20
+    91        100
+    92        110
+    93         20
+   104         20
+   105         20
+   106        220
+   107        240
+   108        999
+   109         70
+   121         10
+   122         20
+   123        720
+   124         60

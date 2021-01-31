@@ -1,0 +1,27 @@
+##TITLE=Library Entry 6751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.HAAS, RUHR UNIVERSITY, BOCHUM, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Carbamo(dithioperoxoic) acid, trifluoromethyl ester
+##MOLFORM=C2H2F3NOS2
+##CAS REGISTRY NO=33278-65-8
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    31         77
+    42        218
+    43        999
+    44        883
+    50         53
+    63        182
+    64        400
+    69        618
+    76        288
+    82        765
+   101         24
+   133         88

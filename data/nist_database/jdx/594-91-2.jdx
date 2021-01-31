@@ -1,0 +1,41 @@
+##TITLE=Library Entry 36176
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 1,1,1,2,3,3,4,4,4-nonafluoro-2-(trifluoromethyl)-
+##MOLFORM=C5F12
+##CAS REGISTRY NO=594-91-2
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12          1
+    19          1
+    31         43
+    43          1
+    50         16
+    55          1
+    62          2
+    69        999
+    74          2
+    81          4
+    93         22
+   100         32
+   105          1
+   112          5
+   119        165
+   124          1
+   131         82
+   143          1
+   150         18
+   162          1
+   169          2
+   181         45
+   200         11
+   219          9
+   269         18
+   288          1

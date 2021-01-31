@@ -1,0 +1,31 @@
+##TITLE=Library Entry 1038
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DC-16-9
+##NAMES=HP
+##CAS NAME=Methane, nitroso-
+##MOLFORM=CH3NO
+##CAS REGISTRY NO=865-40-7
+##MP= -300
+##BP= -300
+##MW= 45
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    13         30
+    14         80
+    15        340
+    16         40
+    26         20
+    27        130
+    28        200
+    29         40
+    30        999
+    31         10
+    42         50
+    43        100
+    44         70
+    45        700
+    46         80
+    47         10

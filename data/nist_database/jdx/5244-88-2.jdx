@@ -1,0 +1,48 @@
+##TITLE=Library Entry 98326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Benzylcyclobutane
+##MOLFORM=C11H14
+##CAS REGISTRY NO=5244-88-2
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    51        150
+    62         20
+    63         80
+    64         32
+    65        210
+    74         10
+    75         20
+    76         10
+    77         80
+    78         90
+    79         30
+    89         50
+    90         22
+    91        740
+    92        150
+   102         20
+   103         80
+   104         52
+   105        100
+   115        150
+   116         60
+   117        840
+   118        999
+   119         70
+   128         20
+   129         30
+   130         20
+   131         60
+   132         30
+   145         10
+   146        240
+   147         29
+   148          1

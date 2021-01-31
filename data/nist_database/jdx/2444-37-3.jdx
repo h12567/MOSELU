@@ -1,0 +1,42 @@
+##TITLE=Library Entry 31331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Methylthioacetic acid
+##MOLFORM=C3H6O2S
+##CAS REGISTRY NO=2444-37-3
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    25         77
+    26          8
+    28         11
+    30         13
+    31          2
+    33          3
+    34        107
+    37          4
+    42         37
+    43          9
+    44         13
+    45        155
+    46         74
+    47        111
+    48         10
+    49          7
+    57          2
+    58          6
+    59         11
+    60        109
+    61        999
+    62         24
+    63         28
+    88          4
+   106        808
+   107         15
+   108         16

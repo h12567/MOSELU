@@ -1,0 +1,36 @@
+##TITLE=Library Entry 90854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AIR PRODUCTS & CHEMICALS, INC BOX 538, ALLENTOWN, PA 18
+105, D M PAREES
+##NAMES=HP
+##CAS NAME=N-Butyl-tert-butylamine
+##MOLFORM=C8H19N
+##CAS REGISTRY NO=16486-74-1
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=839
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         38
+    29         89
+    30        342
+    39         36
+    41        105
+    42         67
+    55         21
+    56         18
+    57        123
+    58        381
+    59         11
+    70         22
+    71         15
+    72         31
+    84          8
+    86        114
+   114        999
+   115         99
+   129         51
+   130          4

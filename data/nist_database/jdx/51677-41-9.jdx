@@ -1,0 +1,26 @@
+##TITLE=Library Entry 23576
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 2-azido-2,3,3-trimethyl-
+##MOLFORM=C7H15N3
+##CAS REGISTRY NO=51677-41-9
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=1568
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39        130
+    41        420
+    42        150
+    43        250
+    56        400
+    57        999
+    58         90
+    83         40
+    98         20
+    99        100
+   113         20

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 68263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=1,4-Cyclohexanedimethanol, trans-
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=3236-48-4
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          1
+    19          1
+    26          2
+    27         45
+    28         10
+    29         69
+    30          4
+    31        111
+    32          2
+    33          2
+    37          1
+    38          4
+    39         93
+    40         14
+    41        237
+    42         21
+    43         60
+    44          8
+    45         20
+    50          5
+    51         16
+    52          8
+    53         75
+    54         57
+    55        227
+    56         16
+    57         79
+    58          6
+    59          1
+    62          1
+    63          3
+    65         26
+    66         30
+    67        334
+    68         33
+    69         97
+    70         22
+    71         10
+    72          1
+    77         44
+    78         23
+    79        168
+    80         93
+    81         67
+    82         29
+    83         23
+    84          8
+    85          2
+    91         40
+    92          7
+    93        342
+    94         57
+    95        999
+    96         85
+    97         17
+    98         16
+    99          1
+   105          3
+   106          1
+   107         12
+   108        160
+   109         16
+   110          1
+   111          6
+   112          2
+   113         30
+   114          3
+   125          1
+   126         29
+   127          2

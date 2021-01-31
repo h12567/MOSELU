@@ -1,0 +1,79 @@
+##TITLE=Library Entry 43032
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O A MAMER, MCGILL UNIVERSITY, MONTRE
+##NAMES=HP
+##CAS NAME=4-Hydroxybenzyl alcohol, 2TMS derivative
+##MOLFORM=C13H24O2Si2
+##CAS REGISTRY NO=18401-58-6
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=1500
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    14         17
+    15         40
+    26         11
+    27         12
+    28         44
+    29         13
+    32         11
+    39         13
+    43         54
+    44         27
+    45        174
+    46         13
+    47         19
+    51         20
+    52         24
+    58         17
+    59         51
+    63         12
+    68         14
+    73        999
+    74         88
+    75         90
+    77         26
+    78         21
+    79         33
+    82         23
+    89         45
+    90         25
+    91         26
+   103         25
+   104         30
+   105         29
+   106         21
+   119         66
+   120         14
+   131         11
+   133         28
+   135         15
+   147        321
+   148         56
+   149         67
+   151         26
+   163         68
+   164         27
+   165         40
+   177         23
+   179        915
+   180        154
+   181         46
+   193         25
+   207         23
+   209         16
+   223         43
+   225         13
+   237         22
+   239         16
+   253        308
+   254         74
+   255         31
+   267        266
+   268        424
+   269        116
+   270         41
+   271          9

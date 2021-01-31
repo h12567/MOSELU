@@ -1,0 +1,85 @@
+##TITLE=Library Entry 59592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=N-carbobenzyloxy-cysteinylcysteine
+##MOLFORM=C14H18N2O5S2
+##CAS REGISTRY NO=189388-08-7
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    42        119
+    43         45
+    44         51
+    45        116
+    46         27
+    47         46
+    48         10
+    49         48
+    50         85
+    51        133
+    52         39
+    53         14
+    54          3
+    55         22
+    56          9
+    57         23
+    58         15
+    59         39
+    60         13
+    61         25
+    62         38
+    63         95
+    64         44
+    65        193
+    66         14
+    68         15
+    69         22
+    70         12
+    71         10
+    73          3
+    74         29
+    75         18
+    76         24
+    77        104
+    78         36
+    79         71
+    80          3
+    84          9
+    85         11
+    86         29
+    87          3
+    89         61
+    90         12
+    91        999
+    92         82
+    93          3
+    95          3
+    97          9
+   102          3
+   105         16
+   106          3
+   107         25
+   108         32
+   121         35
+   122         18
+   123         17
+   124         45
+   125          3
+   126          3
+   127          3
+   130          3
+   137         14
+   164          7
+   166          3
+   171          7
+   173          3
+   176          3
+   206          7
+   262          3
+   313          7

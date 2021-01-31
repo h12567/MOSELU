@@ -1,0 +1,56 @@
+##TITLE=Library Entry 7869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Decane, 2,3,6-trimethyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=62238-12-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    22          1
+    27         70
+    29        131
+    33          1
+    37          0
+    39         45
+    41        237
+    42         49
+    43        999
+    50          1
+    51          3
+    53         12
+    54          1
+    55        135
+    56        107
+    57        915
+    58         34
+    67          1
+    68          0
+    69         54
+    70        146
+    71        644
+    72         28
+    82         13
+    83         37
+    84        104
+    85        484
+    86         29
+    87          0
+    97          6
+    98         49
+    99         89
+   111          1
+   112          6
+   113          2
+   125          0
+   140         63
+   141        134
+   142          9
+   155          0

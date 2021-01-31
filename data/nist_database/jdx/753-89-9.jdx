@@ -1,0 +1,68 @@
+##TITLE=Library Entry 24704
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Propane, 1-chloro-2,2-dimethyl-
+##MOLFORM=C5H11Cl
+##CAS REGISTRY NO=753-89-9
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=654
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    12          2
+    14         30
+    15        111
+    16          3
+    26         54
+    27        288
+    28          2
+    29        397
+    30          9
+    31          1
+    35          4
+    36          8
+    37         25
+    38         64
+    39        323
+    40          1
+    41        525
+    42         35
+    43         44
+    44          1
+    46          0
+    47          5
+    49         64
+    50         38
+    51         58
+    52         14
+    53         61
+    54          0
+    55        544
+    56          0
+    57        999
+    58         52
+    59          1
+    60          2
+    61          6
+    62          0
+    63         70
+    64          4
+    65         24
+    66          1
+    67          2
+    69          5
+    70          1
+    71          2
+    72          0
+    73          4
+    75          8
+    76          1
+    77          2
+    91        145
+    92         14
+    93         46
+    94          2

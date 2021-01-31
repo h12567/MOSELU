@@ -1,0 +1,55 @@
+##TITLE=Library Entry 64922
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.POPPER SCHERING CORP., BLOOMFIELD, NEW JERSEY, U.S.A
+##NAMES=HP
+##CAS NAME=Ketone, 3.beta.-(difluoromethoxy)-16.alpha.,17.alpha.-epoxy-2a,2a
+,6a,6a-tetrafluoro-1,2.beta.,2a,3,6,6a,7.beta.,8.beta.,9.alpha.,10,11,12,13,
+14.alpha.,16,17-hexadecahydro-5.beta.,10.beta.,13.beta.,16-tetramethyl-15H-d
+icyclopropa[2,3:6,7]cyclopenta
+##MOLFORM=C26H30F6O3
+##CAS REGISTRY NO=18069-07-3
+##MP= -300
+##BP= -300
+##MW= 504
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    91        999
+    92         77
+    95        553
+    96         42
+   105        479
+   106         37
+   109        652
+   110         58
+   119        380
+   120         33
+   121        479
+   122        264
+   123        553
+   124         49
+   133        322
+   134         32
+   135        347
+   136         35
+   185        347
+   186         50
+   189        206
+   190         30
+   393        140
+   394         42
+   404         99
+   443        272
+   444        239
+   454        132
+   455         44
+   461        314
+   462        105
+   463         19
+   489        173
+   490         60
+   504        826
+   505        295
+   506         58

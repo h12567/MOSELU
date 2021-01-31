@@ -1,0 +1,42 @@
+##TITLE=Library Entry 98891
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. SCHULLER
+##NAMES=HP
+##CAS NAME=2H-1,2-Oxazine, tetrahydro-2-methyl-6-(3-pyridinyl)-, (-)-
+##MOLFORM=C10H14N2O
+##CAS REGISTRY NO=15769-88-7
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    60        883
+    63         27
+    65         50
+    70         36
+    77         41
+    78        104
+    79         36
+    84        126
+    91         41
+    92         54
+    93         27
+   104         45
+   105         41
+   106         45
+   117         90
+   118        576
+   119        999
+   120         99
+   130         36
+   132         36
+   133         41
+   146         18
+   158         18
+   159         14
+   161         18
+   178        135
+   179         28

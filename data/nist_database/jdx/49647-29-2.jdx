@@ -1,0 +1,73 @@
+##TITLE=Library Entry 10270
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Amino-4-hydroxy-6,7-dibenzylpteridine
+##MOLFORM=C20H17N5O
+##CAS REGISTRY NO=49647-29-2
+##MP= -300
+##BP= -300
+##MW= 343
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41        107
+    43        999
+    44         54
+    49         22
+    51        260
+    52         50
+    53         72
+    54         26
+    55         19
+    57         19
+    62         13
+    63         89
+    65        331
+    66         30
+    67         36
+    68         46
+    69         93
+    70         36
+    75         22
+    77        257
+    78        127
+    80         14
+    84         24
+    86         18
+    89        134
+    91        608
+    92         25
+    97         14
+   102         17
+   103         16
+   104         15
+   115         39
+   116         12
+   117         30
+   127         17
+   128         14
+   129         13
+   132         28
+   133         15
+   140         43
+   141         19
+   152         24
+   155         18
+   167         14
+   169         12
+   170         16
+   194         18
+   196         12
+   207         13
+   252         98
+   264         24
+   265         12
+   266         33
+   327         48
+   342        511
+   343        520
+   344        105

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 53335
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Benzene-1,4-diol, bis[.beta.-methyl-2-butenoate] ester
+##MOLFORM=C16H18O4
+##CAS REGISTRY NO=41167-82-2
+##MP= -300
+##BP= -300
+##MW= 274
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41          2
+    42          1
+    43          1
+    47          2
+    48          1
+    49          9
+    50          3
+    51          8
+    52          3
+    53         31
+    54         12
+    55        132
+    56          4
+    63          3
+    64          1
+    65          1
+    66          0
+    67          5
+    68          0
+    80          0
+    81          3
+    82         20
+    83        999
+    84         66
+    85          4
+    86          6
+    88          1
+    97          0
+   109          1
+   110         31
+   111          2
+   175          1
+   191          3
+   192        338
+   193         36
+   194          4
+   274        141
+   275         26
+   276          2

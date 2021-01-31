@@ -1,0 +1,25 @@
+##TITLE=Library Entry 30516
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 18(4)617(1979); F. X. WOOLARD ET AL.
+##NAMES=HP
+##CAS NAME=Acetic acid, bromochloro-, methyl ester
+##MOLFORM=C3H4BrClO2
+##CAS REGISTRY NO=20428-74-4
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=892
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    59        999
+   127        690
+   129        580
+   131        150
+   155         30
+   157         40
+   159         10
+   186         20
+   188         10
+   190          5

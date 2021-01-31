@@ -1,0 +1,55 @@
+##TITLE=Library Entry 97204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.SELF FOOD RESEARCH INSTITUTE, NORWICH, U.K.
+##NAMES=HP
+##CAS NAME=1H-Indole, 1-(acetyloxy)-
+##MOLFORM=C10H9NO2
+##CAS REGISTRY NO=54698-12-3
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    29        168
+    31        395
+    37         29
+    38         51
+    39        100
+    40         14
+    41         22
+    42         34
+    43        153
+    44         26
+    45        104
+    50         64
+    51         96
+    52         32
+    59        128
+    60         43
+    61         32
+    62         87
+    63        154
+    64         63
+    65         26
+    74         99
+    75         29
+    76         31
+    77         50
+    78         44
+    87         25
+    88         30
+    89        263
+    90        418
+    91         52
+   102         25
+   104         86
+   105         23
+   116        162
+   117        999
+   118         80
+   133        173
+   134         19
+   175         73

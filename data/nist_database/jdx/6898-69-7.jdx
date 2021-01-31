@@ -1,0 +1,29 @@
+##TITLE=Library Entry 4770
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Methanamine, N-butylidene-
+##MOLFORM=C5H11N
+##CAS REGISTRY NO=6898-69-7
+##MP= -300
+##BP= -300
+##MW= 85
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    40         70
+    41         80
+    42        999
+    43         50
+    44         20
+    54         30
+    55         30
+    56         50
+    57        460
+    58         20
+    68         20
+    70        140
+    84         40

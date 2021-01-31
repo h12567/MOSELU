@@ -1,0 +1,84 @@
+##TITLE=Library Entry 98154
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(3aR,4R,7R,8aS)-4,9,9-Trimethyl-1-methylene-4,5,6,7,8,8a-hexahydr
+o-1H-3a,7-methanoazulene
+##MOLFORM=C15H22
+##CAS REGISTRY NO=394217-21-1
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=1443
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    27         31
+    29         18
+    38          5
+    39         80
+    41        167
+    43         37
+    50         12
+    51         57
+    52         19
+    63         37
+    64         15
+    65         85
+    69        102
+    70          9
+    71         19
+    75          9
+    76         16
+    77        166
+    78        110
+    83         37
+    89         24
+    90          6
+    91        504
+    92         55
+    97          8
+   101          4
+   102         22
+   103        118
+   104        129
+   106        910
+   114          4
+   115        231
+   116         90
+   117        679
+   118        999
+   119        539
+   120        126
+   126          5
+   127         44
+   128        153
+   129        158
+   130         54
+   131        408
+   132        193
+   139          6
+   140          4
+   141         44
+   142         26
+   143         56
+   144         40
+   145        209
+   146         92
+   152          6
+   153          8
+   154          4
+   155          5
+   157         15
+   158         10
+   159        404
+   160         80
+   171          3
+   173         51
+   174         18
+   187        137
+   188         20
+   201          3
+   202        773
+   203        124

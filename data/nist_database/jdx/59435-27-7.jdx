@@ -1,0 +1,84 @@
+##TITLE=Library Entry 64330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=3,4-Diethyl-5-methyl-1H-pyrrol-2-carboxylic acid benzyl ester
+##MOLFORM=C17H21NO2
+##CAS REGISTRY NO=59435-27-7
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    51         10
+    52          4
+    53         14
+    54          2
+    55          8
+    56          1
+    57          8
+    64          1
+    65         76
+    66          9
+    67          8
+    69         21
+    71          2
+    77         31
+    78          5
+    79         23
+    80          4
+    81          2
+    89          9
+    90          5
+    91        999
+    92         81
+    93         11
+    94          5
+    95          2
+   104          3
+   105          4
+   106         19
+   107         22
+   108         16
+   117          1
+   118          4
+   119          6
+   120         33
+   121         16
+   122         19
+   123         30
+   124          1
+   134         25
+   135          3
+   136         22
+   137         54
+   138          4
+   146          6
+   147          1
+   148         71
+   149         11
+   150         31
+   151          3
+   161          1
+   162        126
+   163         25
+   164         57
+   165          6
+   166         24
+   167          1
+   180        188
+   181         23
+   182          3
+   212          6
+   226          3
+   242         41
+   243          5
+   256         73
+   257        108
+   258         16
+   271        223
+   272         41
+   273          2

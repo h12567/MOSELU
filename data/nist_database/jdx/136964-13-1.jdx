@@ -1,0 +1,67 @@
+##TITLE=Library Entry 72112
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=n-pentyl(1-propenyl)dimethylsilane
+##MOLFORM=C10H22Si
+##CAS REGISTRY NO=136964-13-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    40         62
+    41         60
+    42         20
+    43        258
+    44         94
+    45        139
+    51         15
+    53         30
+    54         18
+    55         54
+    56         15
+    57         42
+    58         47
+    59        715
+    60         60
+    61         24
+    65          6
+    67         18
+    68          6
+    69         42
+    70         18
+    71         24
+    72         33
+    73        685
+    74         67
+    75         39
+    81          9
+    83         45
+    84         18
+    85        418
+    86         45
+    87         30
+    95          9
+    97          6
+    98          6
+    99        999
+   100        533
+   101         91
+   102         18
+   111          9
+   112          6
+   113         24
+   114         18
+   115         12
+   127         15
+   128         27
+   129         24
+   155         54
+   156          7
+   157          4
+   170          6
+   171          1

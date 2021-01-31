@@ -1,0 +1,56 @@
+##TITLE=Library Entry 2615
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Cyclopropylacetonitrile
+##MOLFORM=C5H7N
+##CAS REGISTRY NO=6542-60-5
+##MP= -300
+##BP= -300
+##MW= 81
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          8
+    14         15
+    15         31
+    24          2
+    25         11
+    26        120
+    27        234
+    28        204
+    29         24
+    30          2
+    31          1
+    32          1
+    36          4
+    37         47
+    38         88
+    39        415
+    40         61
+    41        999
+    42         34
+    48          2
+    49          9
+    50         38
+    51         57
+    52         66
+    53        103
+    54        536
+    55         27
+    61          1
+    62          3
+    63          5
+    64         15
+    65          4
+    66         23
+    75          6
+    76          5
+    77          1
+    78          2
+    80         47
+    81         50
+    82          2

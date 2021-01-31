@@ -1,0 +1,79 @@
+##TITLE=Library Entry 97157
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Chlorobenzene-d5
+##MOLFORM=C6ClD5
+##CAS REGISTRY NO=3114-55-4
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          3
+    14          8
+    16          0
+    18         10
+    24          2
+    26         14
+    28         59
+    29          1
+    30         48
+    31          1
+    32          0
+    35         24
+    36         15
+    37         18
+    38         95
+    39         24
+    40        155
+    41          9
+    42         67
+    43          2
+    47         10
+    48          8
+    49         12
+    50         81
+    51          2
+    52        416
+    53          2
+    54        396
+    55         16
+    56         11
+    57          2
+    58         53
+    59         17
+    61         14
+    62         20
+    63         15
+    64         20
+    65          7
+    66         18
+    67          3
+    72          3
+    73          9
+    74         31
+    75         31
+    76         93
+    77         16
+    78         63
+    79          3
+    80         49
+    81          3
+    82        771
+    83         44
+    84          1
+    85          8
+    87         11
+    88          2
+    89         11
+    91          3
+    99         14
+   101          4
+   117        999
+   118         67
+   119        321
+   120         21

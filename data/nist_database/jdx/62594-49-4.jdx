@@ -1,0 +1,51 @@
+##TITLE=Library Entry 72066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. GIELSDORF, LAB GES PHARMAKOL UNTERS MBH, NEU-ULM, W.
+ GER.
+##NAMES=HP
+##CAS NAME=1-(2-Hydroxy-3-methoxy-3-phenylpropyl)piperazine
+##MOLFORM=C14H22N2O2
+##CAS REGISTRY NO=62594-49-4
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    34         10
+    40        150
+    41         40
+    42        130
+    43         90
+    44        170
+    45         20
+    51         30
+    56        350
+    57         40
+    58         80
+    65         10
+    70        160
+    77         80
+    78         20
+    84         40
+    91         70
+    97         30
+    99        999
+   100        200
+   105         30
+   112         10
+   114         10
+   121         90
+   129         60
+   146         10
+   156         10
+   168         10
+   184         10
+   194         10
+   208         10
+   219         10
+   232         10
+   250         10
+   251          5

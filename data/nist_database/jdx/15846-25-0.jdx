@@ -1,0 +1,60 @@
+##TITLE=Library Entry 52968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=3-Aminocrotonamide
+##MOLFORM=C4H8N2O
+##CAS REGISTRY NO=15846-25-0
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         17
+    16          5
+    17          8
+    18         38
+    25          2
+    26         15
+    27         62
+    28        244
+    29         64
+    30         98
+    31          7
+    36         30
+    37         15
+    38         32
+    39        103
+    40        139
+    41        257
+    42        757
+    43         85
+    44        240
+    45          8
+    50          4
+    51         18
+    52         59
+    53         19
+    54        138
+    55        161
+    56         22
+    58          4
+    59         37
+    65          3
+    66         15
+    67         50
+    68        212
+    69         11
+    72         10
+    82         22
+    83        999
+    84        675
+    85         43
+    86          3
+   100        758
+   101         44
+   102          1

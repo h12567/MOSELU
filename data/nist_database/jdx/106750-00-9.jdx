@@ -1,0 +1,57 @@
+##TITLE=Library Entry 88230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. Keller-Schierlein, Lab. Org. Chem., Swiss Tech. Univ
+., Zurich, Switzerland
+##NAMES=HP
+##CAS NAME=1(3H)-Isobenzofuranone, 4-(2,5-dihydro-2-oxo-3-furanyl)-3a,4,5,6-
+tetrahydro-, trans-.+/-.-
+##MOLFORM=C12H12O4
+##CAS REGISTRY NO=106750-00-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27        172
+    29         79
+    39        300
+    41        146
+    43         53
+    51        202
+    53        607
+    63         95
+    65        206
+    67        231
+    77        256
+    79        155
+    81        616
+    82        371
+    83        242
+    91        278
+   103         83
+   105        122
+   110        484
+   111        999
+   115        248
+   117        306
+   119        133
+   123        207
+   129        334
+   130        114
+   131         98
+   133         51
+   144         77
+   145         92
+   157         79
+   162         52
+   164        182
+   174        471
+   187        132
+   191         93
+   192         60
+   202        158
+   220        161
+   221         21

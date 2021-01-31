@@ -1,0 +1,43 @@
+##TITLE=Library Entry 63972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.M.KAISER UNIV. OF MISSOURI, COLUMBIA, USA
+##NAMES=HP
+##CAS NAME=Nicotinonitrile, 1,2-dihydro-6-methyl-2-oxo-4-phenethyl-
+##MOLFORM=C15H14N2O
+##CAS REGISTRY NO=20637-21-2
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         14
+    39         49
+    41         14
+    42         40
+    50         16
+    51         35
+    52         11
+    62          7
+    63         26
+    64         11
+    65         98
+    66          9
+    75          7
+    76         10
+    77         25
+    78         13
+    89         14
+    90          8
+    91        999
+    92         84
+   103          9
+   118          7
+   119         21
+   161         12
+   223          7
+   237         23
+   238        198
+   239         33

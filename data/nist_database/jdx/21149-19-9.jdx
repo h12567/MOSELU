@@ -1,0 +1,56 @@
+##TITLE=Library Entry 29768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Epstein ET AL.J.Chem.Eng.Data,21,500(1976)
+##NAMES=HP
+##CAS NAME=Santolina alcohol
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=21149-19-9
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1038
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        377
+    42         40
+    43        762
+    45         27
+    50         42
+    51        108
+    52         46
+    53        202
+    54         77
+    55        200
+    56         40
+    57         42
+    58        119
+    59        999
+    65        112
+    66         40
+    67        288
+    68         46
+    69        169
+    77        454
+    78         73
+    79        625
+    80         77
+    81        708
+    82         73
+    91        302
+    92         46
+    93        298
+    94        133
+    95        146
+    96        435
+    97         62
+    98          6
+   105        138
+   106         23
+   107         77
+   108         27
+   121        171
+   122         21
+   136         27
+   139         33

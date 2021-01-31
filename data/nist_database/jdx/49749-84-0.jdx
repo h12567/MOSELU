@@ -1,0 +1,30 @@
+##TITLE=Library Entry 18901
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane, 2-butenyltrichloro-, (Z)-
+##MOLFORM=C4H7Cl3Si
+##CAS REGISTRY NO=49749-84-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27         92
+    29        110
+    39         85
+    53         55
+    54         90
+    55        999
+    56         47
+    63         55
+    65         21
+   116         24
+   133         71
+   135         71
+   137         28
+   188         56
+   190         55

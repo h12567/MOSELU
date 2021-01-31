@@ -1,0 +1,51 @@
+##TITLE=Library Entry 50947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Thialbarbital
+##MOLFORM=C13H16N2O2S
+##CAS REGISTRY NO=467-36-7
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=2116
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        321
+    43        167
+    53        217
+    55        131
+    57        213
+    64         90
+    65         82
+    71        144
+    77        218
+    79        535
+    80        266
+    81        999
+    91        112
+    97         59
+    98         68
+   108         49
+   109         48
+   121         40
+   129         41
+   145         31
+   147         49
+   149         19
+   157        231
+   158         20
+   164         29
+   169         31
+   182         59
+   184         99
+   185        221
+   221         79
+   222        100
+   223        647
+   224         78
+   231         29
+   264         80
+   265          9

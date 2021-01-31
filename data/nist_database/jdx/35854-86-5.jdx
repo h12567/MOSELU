@@ -1,0 +1,76 @@
+##TITLE=Library Entry 3172
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=(6Z)-Nonen-1-ol
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=35854-86-5
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1171
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15         25
+    17          2
+    18          5
+    19         13
+    26         17
+    27        319
+    28         59
+    29        294
+    30         13
+    31        400
+    37          4
+    38         18
+    39        398
+    40         76
+    41        999
+    42        171
+    43        180
+    44         65
+    45          2
+    50         14
+    51         37
+    52         19
+    53        151
+    54        286
+    55        475
+    56         89
+    57        151
+    58         13
+    62          2
+    63          7
+    65         36
+    66         50
+    67        808
+    68        404
+    69        173
+    70         46
+    71         27
+    72          7
+    73          0
+    77         24
+    78          4
+    79         62
+    80         20
+    81        269
+    82        306
+    83         42
+    84          4
+    85          7
+    86          3
+    91          7
+    93         20
+    95        316
+    96        105
+    97          7
+    98          5
+    99          6
+   109         16
+   114          3
+   124         39
+   125          4
+   142          1

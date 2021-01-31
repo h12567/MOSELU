@@ -1,0 +1,79 @@
+##TITLE=Library Entry 20975
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Tetramethylene chloroiodide
+##MOLFORM=C4H8ClI
+##CAS REGISTRY NO=10297-05-9
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          5
+    15          9
+    26         69
+    27        313
+    28         92
+    29        272
+    30          5
+    32          2
+    35          4
+    36          5
+    37         10
+    38         25
+    39        188
+    40         23
+    41        144
+    42         33
+    43         57
+    44          2
+    49         60
+    50         24
+    51         44
+    52          7
+    53         74
+    54          2
+    55        999
+    56         57
+    57         64
+    58          3
+    60          2
+    61          7
+    62         23
+    63         82
+    64         10
+    65         24
+    69          4
+    70          9
+    71         33
+    72          1
+    73          1
+    75          6
+    77          3
+    84          6
+    85         21
+    89          3
+    91        593
+    92         27
+    93        184
+    94          7
+    98          5
+    99          5
+   112          2
+   113          3
+   127        120
+   128         27
+   129          2
+   139          2
+   141         21
+   155         23
+   156          6
+   218         14
+   219          0
+   220          4
+   221          0

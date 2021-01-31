@@ -1,0 +1,53 @@
+##TITLE=Library Entry 85340
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=6-(3-Pyridyl)-2,3,4,4a,6,6a,7,8,9,10b-decahydro-1H-benzo[c]chrome
+ne
+##MOLFORM=C18H23NO
+##CAS REGISTRY NO=312714-02-6
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39        216
+    40         62
+    41        263
+    44         60
+    51         55
+    52         20
+    53         67
+    55        102
+    65         73
+    67        221
+    77        208
+    78        239
+    79        473
+    80        266
+    81        215
+    91        414
+    92        166
+    93        203
+    94        201
+    95         49
+   105        141
+   106        237
+   108        999
+   109         26
+   117         23
+   119        228
+   120        104
+   121         24
+   133        388
+   134        129
+   147         50
+   162        643
+   163         71
+   188        267
+   240         28
+   269        311
+   270         18

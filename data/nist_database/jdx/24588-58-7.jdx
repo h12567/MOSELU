@@ -1,0 +1,51 @@
+##TITLE=Library Entry 50004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.ZAMOJSKI POLISH ACADEMY OF SCIENCE, WARSAW, POLAND
+##NAMES=HP
+##CAS NAME=2H-Pyran-2,2-dicarboxylic acid, 3,6-dihydro-, diethyl ester
+##MOLFORM=C11H16O5
+##CAS REGISTRY NO=24588-58-7
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39        550
+    41        340
+    42         80
+    43        180
+    44        230
+    45        130
+    50         60
+    51        120
+    52         90
+    53        510
+    54        680
+    55        820
+    56         50
+    57         70
+    65         20
+    67        190
+    68        100
+    69         50
+    78         50
+    80         70
+    81        999
+    82        150
+    83         60
+    85        160
+    97         50
+    99        120
+   108        230
+   109        320
+   110         50
+   125         60
+   127        150
+   137        120
+   153         20
+   154         70
+   155        370
+   183        120

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 97474
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=Trichloroacetyl chloride
+##MOLFORM=C2Cl4O
+##CAS REGISTRY NO=76-02-8
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=778
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    29          5
+    35        279
+    36        138
+    37         95
+    38         49
+    42         11
+    43          5
+    47        553
+    48          9
+    49        175
+    50          2
+    63        794
+    64         10
+    65        265
+    66          3
+    82        629
+    83         19
+    84        392
+    85         15
+    86         67
+    87          4
+   110        178
+   111          4
+   112        109
+   113          4
+   114         22
+   116          8
+   117        999
+   118         28
+   119        996
+   120         30
+   121        655
+   122          8
+   123         75
+   145         55
+   146          2
+   147         49
+   148          2
+   149         19

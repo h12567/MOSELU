@@ -1,0 +1,44 @@
+##TITLE=Library Entry 64924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3(3H)-Xanthenone, 6-benzyloxy-9-[2-(benzyloxycarbonyl)phenyl]-
+##MOLFORM=C34H24O5
+##CAS REGISTRY NO=97744-44-0
+##MP= -300
+##BP= -300
+##MW= 512
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         12
+    43         14
+    45          2
+    46          2
+    51          2
+    55          5
+    57          7
+    63          8
+    65         62
+    69          7
+    77          2
+    79          2
+    89         11
+    91        999
+    92         76
+   189          4
+   200         11
+   201          6
+   202         14
+   229          2
+   258          4
+   377         22
+   378          3
+   421          2
+   436         35
+   437          9
+   512         90
+   513         34
+   514          3

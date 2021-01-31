@@ -1,0 +1,43 @@
+##TITLE=Library Entry 37592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-(2-Hydroxyethyl)-1,2,4-triazole
+##MOLFORM=C4H7N3O
+##CAS REGISTRY NO=3273-14-1
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        163
+    29        340
+    30         58
+    31        353
+    40         92
+    41        101
+    42         97
+    43        186
+    44         96
+    45         60
+    54         45
+    55        532
+    56        295
+    57         21
+    58         17
+    59          6
+    68         14
+    69         12
+    70        999
+    71         38
+    82        391
+    83        604
+    84         34
+    95         20
+    96          6
+   112         23
+   113         23
+   114         31

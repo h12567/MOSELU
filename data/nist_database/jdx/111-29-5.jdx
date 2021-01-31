@@ -1,0 +1,72 @@
+##TITLE=Library Entry 1505
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1716
+##NAMES=HP
+##CAS NAME=1,5-Pentanediol
+##MOLFORM=C5H12O2
+##CAS REGISTRY NO=111-29-5
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=993
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         40
+    16          2
+    17         12
+    18         47
+    19          6
+    25          1
+    26         28
+    27        278
+    28        200
+    29        335
+    30         29
+    31        999
+    32         20
+    33         26
+    37          5
+    38         12
+    39        169
+    40         61
+    41        705
+    42        132
+    43        288
+    44        448
+    45        146
+    46          9
+    47          3
+    49          8
+    50          7
+    51          9
+    52          3
+    53         66
+    54         24
+    55        511
+    56        876
+    57        568
+    58         91
+    59          6
+    61         32
+    62          9
+    63          1
+    65          5
+    66          6
+    67        212
+    68        321
+    69         30
+    70          3
+    71         30
+    72          4
+    73         84
+    74        152
+    75          7
+    83          5
+    84          5
+    85         23
+    86         20
+    87          3
+   101          1

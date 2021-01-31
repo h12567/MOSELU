@@ -1,0 +1,85 @@
+##TITLE=Library Entry 25698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2222
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 4-methyl-, trans-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=7731-29-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=964
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         13
+    17          5
+    18         20
+    19          1
+    26         11
+    27        139
+    28         30
+    29        196
+    30         16
+    31         55
+    32          2
+    37          3
+    38          9
+    39        137
+    40         28
+    41        358
+    42         95
+    43         78
+    44        168
+    45         32
+    46          1
+    49          1
+    50          9
+    51         16
+    52          8
+    53         61
+    54         99
+    55        326
+    56        126
+    57        999
+    58        527
+    59         28
+    60          2
+    62          2
+    63          4
+    65          9
+    66         10
+    67        120
+    68        132
+    69         35
+    70        309
+    71        108
+    72          7
+    73         14
+    74          1
+    77         10
+    78          3
+    79         23
+    80          7
+    81        543
+    82         41
+    83         21
+    84          9
+    85         36
+    86         23
+    87          1
+    91          4
+    92          1
+    93          4
+    94          2
+    95         70
+    96        399
+    97         33
+    98          2
+    99          2
+   110          3
+   112          4
+   113         14
+   114          7

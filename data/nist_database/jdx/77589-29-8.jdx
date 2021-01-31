@@ -1,0 +1,47 @@
+##TITLE=Library Entry 27500
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. HARRIS,DEP. CHEM.,VIRGINIA POLYTECH. INST.,BLACKSBUR
+G,USA
+##NAMES=HP
+##CAS NAME=1-tert-Butyl-1-bromotetrachlorocyclotriphosphazene
+##MOLFORM=C4H9BrCl4N3P3
+##CAS REGISTRY NO=77589-29-8
+##MP= -300
+##BP= -300
+##MW= 411
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    57        999
+   146         95
+   148         49
+   150         10
+   240        142
+   242        139
+   244         40
+   246          4
+   275         26
+   276        514
+   277         41
+   278        674
+   279         26
+   280        332
+   281          8
+   282         64
+   332        284
+   333         16
+   334        351
+   335         20
+   336        184
+   337         11
+   338         34
+   339          2
+   340          2
+   384          2
+   411         10
+   413         20
+   415         16
+   417          5
+   419          1

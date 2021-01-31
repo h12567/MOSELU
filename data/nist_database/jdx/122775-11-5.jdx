@@ -1,0 +1,64 @@
+##TITLE=Library Entry 72229
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.Bowadt ET AL, Org. Mass Spectr.,24,959(1989)
+##NAMES=HP
+##CAS NAME=2-Ethyl-3-methoxycyclopropanecarboxylic acid, methyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=122775-11-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        272
+    40         50
+    41        562
+    42         70
+    43         90
+    45        292
+    47         50
+    51         23
+    53        111
+    54         30
+    55        235
+    56         26
+    57         26
+    58         20
+    59        215
+    65         47
+    66         20
+    67        508
+    68         40
+    69        188
+    70         16
+    71        225
+    75        740
+    76         20
+    81         20
+    82         16
+    83        107
+    84         26
+    85        225
+    86         16
+    87         23
+    95        107
+    96         10
+    97         47
+    98         47
+    99        999
+   100         60
+   101        356
+   102         16
+   111        232
+   112         13
+   126         43
+   127        144
+   128         10
+   129        595
+   130         63
+   143        107
+   158        208
+   159         13

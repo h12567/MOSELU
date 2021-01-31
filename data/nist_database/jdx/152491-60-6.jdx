@@ -1,0 +1,50 @@
+##TITLE=Library Entry 36536
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=1-Propene, 1-bromo-1-(trifluoro)methylthio-2-trifluoromethyl-3,3,
+3-trifluoro-
+##MOLFORM=C5BrF9S
+##CAS REGISTRY NO=152491-60-6
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    50         19
+    63        231
+    69        999
+    75         64
+    79         18
+    81         19
+    87        164
+    93         73
+    94         13
+   106        290
+   107         12
+   108         13
+   123         16
+   125        110
+   129         42
+   131         42
+   144         27
+   153         21
+   155         19
+   175        464
+   176         23
+   177         20
+   194        249
+   195         12
+   196         11
+   263        180
+   264         10
+   265          8
+   273         32
+   275         33
+   323        106
+   325        102
+   342         60
+   344         59

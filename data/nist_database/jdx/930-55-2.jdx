@@ -1,0 +1,63 @@
+##TITLE=Library Entry 72779
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7781
+##NAMES=HP
+##CAS NAME=Pyrrolidine, 1-nitroso-
+##MOLFORM=C4H8N2O
+##CAS REGISTRY NO=930-55-2
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=952
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14         12
+    15        119
+    16          1
+    18          2
+    25          3
+    26         43
+    27        251
+    28         51
+    29         21
+    30        109
+    31          2
+    37         11
+    38         23
+    39        162
+    40         51
+    41        689
+    42        449
+    43        288
+    44         38
+    45          1
+    49          2
+    50          4
+    51          6
+    52          6
+    53         43
+    54         16
+    55         20
+    56          5
+    57          1
+    58          1
+    63          1
+    64          2
+    66          2
+    67          9
+    68        131
+    69         80
+    70         49
+    71         10
+    72          1
+    82          1
+    83          1
+    84          1
+    99         17
+   100        999
+   101         57
+   102          3

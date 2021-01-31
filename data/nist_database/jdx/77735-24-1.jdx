@@ -1,0 +1,48 @@
+##TITLE=Library Entry 75323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=2,3,4-Tri-O-methyl.alpha.d-xylopyranosyl-2,3,4-tri-O-methyl.beta.
+d-xylopyranoside
+##MOLFORM=C16H30O9
+##CAS REGISTRY NO=77735-24-1
+##MP= -300
+##BP= -300
+##MW= 366
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    45         34
+    58         18
+    59         16
+    71         28
+    75        152
+    83         18
+    85         22
+    87         20
+    88         34
+    89         32
+    99        295
+   101        999
+   103        203
+   111         58
+   114        122
+   115        162
+   129          6
+   131         26
+   143        510
+   145         22
+   157         14
+   159         55
+   174         71
+   175        459
+   187         73
+   205         16
+   219         52
+   231         38
+   263         13
+   275          4
+   302          3
+   334          3

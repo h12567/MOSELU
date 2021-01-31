@@ -1,0 +1,37 @@
+##TITLE=Library Entry 47738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzonitrile, 4-(3-oxo-3-phenyl-1-propenyl)-
+##MOLFORM=C16H11NO
+##CAS REGISTRY NO=5724-55-0
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50        200
+    51        457
+    63         78
+    75        168
+    76        131
+    77        999
+    89        108
+   101        200
+   102        169
+   105        828
+   128        250
+   130         30
+   156        328
+   178         50
+   179         39
+   190         60
+   203         60
+   204        251
+   205        168
+   207         70
+   232        510
+   233        859

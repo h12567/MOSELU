@@ -1,0 +1,63 @@
+##TITLE=Library Entry 4291
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-3,5,7-trimethyl-6,7(8H)-dihydropyrazolo(3,4-b)(1,4)diaze
+pine
+##MOLFORM=C15H18N4
+##CAS REGISTRY NO=64899-23-6
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        327
+    43        782
+    45        315
+    51        261
+    55        663
+    56        304
+    57        732
+    67        300
+    68        265
+    69        582
+    70        264
+    71        381
+    77        582
+    81        334
+    82        201
+    83        150
+    84        352
+    85        269
+    91        284
+    95        200
+    96        182
+    97        298
+   103        151
+   104        149
+   105        152
+   109        151
+   111        181
+   118        161
+   119        160
+   129        151
+   145        169
+   149        149
+   169         50
+   171         50
+   186         60
+   198         81
+   211         80
+   212         89
+   213         79
+   224        110
+   225        101
+   226        101
+   239        805
+   240        161
+   253        273
+   254        915

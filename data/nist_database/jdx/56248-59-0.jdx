@@ -1,0 +1,42 @@
+##TITLE=Library Entry 57972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=L-Arabinose, O-2,3,4,6-tetra-O-methyl-.beta.-D-galactopyranosyl-(
+1.fwdarw.6)-O-2,3,4-tri-O-methyl-.beta.-D-galactopyranosyl-(1.fwdarw.3)-2,4,
+5-tri-O-methyl-
+##MOLFORM=C27H50O15
+##CAS REGISTRY NO=56248-59-0
+##MP= -300
+##BP= -300
+##MW= 614
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    45        300
+    71        250
+    75        240
+    88        999
+    89        100
+    99         60
+   101        539
+   111        190
+   115        240
+   127        100
+   143        120
+   145         30
+   155         60
+   159         20
+   175         60
+   187        170
+   219         40
+   235        160
+   305          4
+   315          4
+   347          2
+   349          2
+   379        150
+   423          1
+   439          1

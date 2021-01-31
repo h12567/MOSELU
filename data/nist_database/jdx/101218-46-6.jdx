@@ -1,0 +1,33 @@
+##TITLE=Library Entry 8701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S. Chizhov, N.D. Zelinskii Inst. Org. Chem., Acad. Sc
+i., Moscow, USSR
+##NAMES=HP
+##CAS NAME=1-Hexanamine, N-nitro-N-propyl-
+##MOLFORM=C9H20N2O2
+##CAS REGISTRY NO=101218-46-6
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    29        394
+    30        244
+    41        430
+    42        537
+    43        999
+    55        328
+    70        930
+    71        605
+    72        654
+    84        310
+    85        101
+    98         79
+   112        155
+   113         42
+   117        517
+   142        276
+   159         45

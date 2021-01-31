@@ -1,0 +1,41 @@
+##TITLE=Library Entry 26210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-3-octanone
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=5340-64-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    15         15
+    26         14
+    27        174
+    28        112
+    29        334
+    39        186
+    41        567
+    42        151
+    43        674
+    44         27
+    53         25
+    55        104
+    56        109
+    57        999
+    58         45
+    67         13
+    69         24
+    71        533
+    72         33
+    81         14
+    83         12
+    85         77
+    98        109
+    99        783
+   100         73
+   156         24

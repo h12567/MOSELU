@@ -1,0 +1,76 @@
+##TITLE=Library Entry 9880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4057
+##NAMES=HP
+##CAS NAME=1-Methylbutyl acetoacetate
+##MOLFORM=C9H16O3
+##CAS REGISTRY NO=6830-12-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          8
+    15         49
+    16          2
+    17          1
+    18          3
+    25          2
+    26         14
+    27        100
+    28         20
+    29        123
+    30          8
+    31        103
+    32          3
+    36          1
+    37          4
+    38          7
+    39         47
+    40          9
+    41        105
+    42         68
+    43        999
+    44         30
+    45         19
+    50          2
+    51          2
+    52          1
+    53          8
+    54          3
+    55        106
+    56          8
+    57         46
+    58         41
+    59        184
+    60         24
+    61          7
+    67          2
+    68          1
+    69         32
+    70        134
+    71         77
+    72          5
+    73          2
+    84         40
+    85        536
+    86         26
+    87         52
+    88          3
+    97          2
+   101         77
+   102         34
+   103        139
+   104          7
+   105          1
+   112          1
+   114          3
+   115          2
+   143         10
+   144          2
+   172          2

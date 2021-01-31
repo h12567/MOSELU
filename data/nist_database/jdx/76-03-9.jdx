@@ -1,0 +1,60 @@
+##TITLE=Library Entry 51540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Trichloroacetic Acid
+##MOLFORM=C2HCl3O2
+##CAS REGISTRY NO=76-03-9
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=1390
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    28         93
+    29        102
+    35        111
+    37         24
+    42          1
+    44         55
+    45        625
+    46          5
+    47        460
+    48         57
+    49        164
+    50         13
+    61          0
+    63         97
+    64          9
+    65         26
+    66          2
+    70          2
+    72          2
+    75          0
+    76          0
+    82        999
+    83        102
+    84        687
+    85         49
+    86         87
+    87          7
+    99         87
+   100          1
+   101         50
+   102          1
+   103          8
+   110          8
+   112          5
+   114          0
+   117         63
+   118          8
+   119         46
+   120         13
+   121         16
+   122          2
+   123          2
+   127        135
+   129         62
+   131          4

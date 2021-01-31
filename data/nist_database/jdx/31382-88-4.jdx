@@ -1,0 +1,46 @@
+##TITLE=Library Entry 60738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=3-Picolinium, 1-anilino-, hydroxide, inner salt
+##MOLFORM=C12H12N2
+##CAS REGISTRY NO=31382-88-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        130
+    50         30
+    51        110
+    52         80
+    53         30
+    54         30
+    63        160
+    64        480
+    65        290
+    66        220
+    67         50
+    77         90
+    78         60
+    79         30
+    80         30
+    90         30
+    91        999
+    92        250
+    93        950
+    94        410
+    95         20
+   156         10
+   157         10
+   158         10
+   168         10
+   169         10
+   181         10
+   182         10
+   183        130
+   184        910
+   185        130

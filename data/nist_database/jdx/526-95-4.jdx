@@ -1,0 +1,53 @@
+##TITLE=Library Entry 31259
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Gluconic acid
+##MOLFORM=C6H12O7
+##CAS REGISTRY NO=526-95-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        179
+    28        399
+    29        489
+    30        119
+    31        429
+    41        119
+    42        239
+    43        669
+    44        439
+    45        319
+    55        169
+    56        139
+    57        339
+    58        159
+    60        589
+    61        999
+    70        109
+    71        439
+    72        209
+    73        919
+    74        100
+    76        329
+    85        369
+    86        100
+    89         79
+    91         70
+    97         60
+   100        100
+   101         79
+   103        279
+   114         50
+   118         50
+   119         79
+   142         50
+   147         50
+   149         10
+   160        239
+   161         40

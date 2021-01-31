@@ -1,0 +1,40 @@
+##TITLE=Library Entry 86806
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.ZEEH TUBINGEN UNIVERSITY, TUBINGEN F.R.G.
+##NAMES=HP
+##CAS NAME=1-Cyclohexene-1-glyoxylamide, N-1-naphthyl-
+##MOLFORM=C18H17NO2
+##CAS REGISTRY NO=22914-94-9
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         80
+    53        100
+    77         50
+    79        110
+    81        400
+    82         30
+   109        999
+   110         80
+   115        130
+   116         20
+   127         70
+   128         30
+   140         30
+   142         40
+   143        200
+   144         30
+   169        110
+   170         50
+   201         50
+   250         20
+   251         50
+   253         10
+   279        650
+   280        140
+   281         30

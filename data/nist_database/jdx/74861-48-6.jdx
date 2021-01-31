@@ -1,0 +1,83 @@
+##TITLE=Library Entry 58093
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-Methyl-1-ethoxy-1-silacyclopentane
+##MOLFORM=C7H16OSi
+##CAS REGISTRY NO=74861-48-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    30         25
+    36         20
+    37          9
+    38         12
+    39         95
+    40         37
+    41         92
+    42         62
+    43        211
+    44         70
+    45        772
+    46         50
+    47         78
+    51         30
+    52         15
+    53         38
+    54         30
+    55        110
+    56         41
+    57         41
+    58         39
+    59        131
+    60        168
+    61        351
+    62         38
+    63         29
+    65         17
+    67         20
+    69         21
+    70         30
+    71        135
+    72         45
+    73        744
+    74        100
+    75        100
+    77         29
+    78         18
+    79         21
+    81         15
+    83        127
+    84         11
+    85        130
+    87         98
+    88        999
+    89        139
+    90         58
+    91        170
+    92         18
+    95         12
+    97         78
+    98         18
+    99        163
+   100         31
+   101        240
+   102         59
+   103         30
+   115        100
+   116        663
+   117         81
+   118         30
+   127         36
+   128         18
+   129        928
+   130        118
+   131         55
+   144        205
+   145         26
+   146          8

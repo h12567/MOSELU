@@ -1,0 +1,60 @@
+##TITLE=Library Entry 91180
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V. MIHALOV, INST. CHEM., SLOVAK ACAD. SCI., BRATISLAVA,
+ CZECH.
+##NAMES=HP
+##CAS NAME=Methyl 3-O-benzyl-.beta.-D-xylopyranoside
+##MOLFORM=C13H18O5
+##CAS REGISTRY NO=72521-39-2
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    45         25
+    57         23
+    58         37
+    61         30
+    68         56
+    69        224
+    70        129
+    73        241
+    74        206
+    82         32
+    85         85
+    86        241
+    87        127
+    98         20
+    99         23
+   100         65
+   103         65
+   104         32
+   105         23
+   106         58
+   114        999
+   115         99
+   116        241
+   121         65
+   122         50
+   129         20
+   130         27
+   131         49
+   132         18
+   133         42
+   134         15
+   135         10
+   145         34
+   146        137
+   150         66
+   151        327
+   158         41
+   163        499
+   176        116
+   186         16
+   204         11
+   222         81
+   223         54
+   254         48

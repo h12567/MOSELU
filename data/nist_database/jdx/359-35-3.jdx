@@ -1,0 +1,36 @@
+##TITLE=Library Entry 18183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.E. JONES, UNIV. OF STOCKHOLM, SWEDEN
+##NAMES=HP
+##CAS NAME=Ethane, 1,1,2,2-tetrafluoro-
+##MOLFORM=C2H2F4
+##CAS REGISTRY NO=359-35-3
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=284
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    13          6
+    14          4
+    25         11
+    26         12
+    31        129
+    32         77
+    33        468
+    34          4
+    44         16
+    45          5
+    50         15
+    51        999
+    52         10
+    64         58
+    65          7
+    82         48
+    83        645
+    84         45
+   100          5
+   101         87
+   102         29

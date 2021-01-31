@@ -1,0 +1,75 @@
+##TITLE=Library Entry 87205
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Phenol, 4-(pentyloxy)-
+##MOLFORM=C11H16O2
+##CAS REGISTRY NO=18979-53-8
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          3
+    15          1
+    16          2
+    26         10
+    27         74
+    29         96
+    30          3
+    37          1
+    38          9
+    39         98
+    40         10
+    41        101
+    42         21
+    43         62
+    44          2
+    50         12
+    51         23
+    52         23
+    53        101
+    54         43
+    55         53
+    56          3
+    61          2
+    62         10
+    63         25
+    64         12
+    65         53
+    66         10
+    67          9
+    68          2
+    69          6
+    71          4
+    74          2
+    75          2
+    77          6
+    78          1
+    79          7
+    80          5
+    81        185
+    82         82
+    83          4
+    91          2
+    92          2
+    93         26
+    94          4
+    95         13
+   107          7
+   108          2
+   109        106
+   110        999
+   111         68
+   112          5
+   121          1
+   123         22
+   124          1
+   136          2
+   137          2
+   150          1
+   180        117
+   181         15

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 22714
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-(2-Hydroxyethyl)-2-oxazolidinone
+##MOLFORM=C5H9NO3
+##CAS REGISTRY NO=3356-88-5
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        149
+    29        240
+    30        162
+    31        109
+    40         21
+    41         84
+    42        257
+    43         71
+    44         58
+    45         87
+    54         48
+    55         28
+    56        999
+    57         68
+    58         26
+    69         10
+    70         12
+    72          9
+    73         22
+    74         17
+    86         11
+    87          8
+    88        107
+   100        899
+   101        541
+   102         31
+   113         54
+   114          9
+   115         14
+   131         45
+   132          8
+   133          1

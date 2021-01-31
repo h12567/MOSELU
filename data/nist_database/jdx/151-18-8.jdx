@@ -1,0 +1,54 @@
+##TITLE=Library Entry 881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Aminopropionitrile
+##MOLFORM=C3H6N2
+##CAS REGISTRY NO=151-18-8
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=789
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          5
+    14          8
+    15         20
+    16          3
+    17         11
+    18          2
+    24          2
+    25          8
+    26         23
+    27         47
+    28        263
+    29          2
+    30        999
+    31         14
+    32          3
+    33          2
+    36          0
+    37          4
+    38         29
+    39         32
+    40         65
+    41         66
+    42        139
+    43         11
+    44          1
+    45          0
+    50          3
+    51         16
+    52         18
+    53          4
+    54          7
+    64          1
+    65          1
+    66          5
+    67          8
+    68          2
+    69          8
+    70          5

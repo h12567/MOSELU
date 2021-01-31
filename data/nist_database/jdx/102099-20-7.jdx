@@ -1,0 +1,42 @@
+##TITLE=Library Entry 70388
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. BALTAEV,INST. CHEM. PLANT. SUBST.,ACAD. SCI.,TASHKEN
+T,USSR
+##NAMES=HP
+##CAS NAME=1.beta.,2.beta.,3.beta.,14.alpha.,20R,22R,24Xi,25-octahydroxy-5.b
+eta.-cholest-7-en-6-one
+##MOLFORM=C27H44O9
+##CAS REGISTRY NO=102099-20-7
+##MP= -300
+##BP= -300
+##MW= 512
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    97        999
+   115        600
+   281        210
+   283        210
+   299        150
+   300        230
+   301        170
+   316        250
+   325        270
+   326        350
+   343        240
+   344        250
+   360        110
+   361        150
+   367         20
+   368         50
+   369         20
+   379         40
+   391         30
+   422         30
+   425         60
+   440         40
+   458        100
+   476         20
+   495         10

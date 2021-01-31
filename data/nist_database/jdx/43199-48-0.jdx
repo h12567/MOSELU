@@ -1,0 +1,77 @@
+##TITLE=Library Entry 41305
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Diagnosis of Organic Acidemias by GC/MS
+##NAMES=HP
+##CAS NAME=Suberic acid, 2TMS derivative
+##MOLFORM=C14H30O4Si2
+##CAS REGISTRY NO=43199-48-0
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=1708
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    41         80
+    43         83
+    44         22
+    45        175
+    47         82
+    55        364
+    56         26
+    58         26
+    59         36
+    61         80
+    67         60
+    69        129
+    72         40
+    73        999
+    74        111
+    75        980
+    76         68
+    77         58
+    79         16
+    83        165
+    86         14
+    93         85
+    95        101
+    97         78
+    99         12
+   109         42
+   110         24
+   111         40
+   116         48
+   117        169
+   118          8
+   121         40
+   129        262
+   130         38
+   131         28
+   132         26
+   133         40
+   138         89
+   139        155
+   143         12
+   145         18
+   147        189
+   148         30
+   149        151
+   150         14
+   157         16
+   169        213
+   170         28
+   171         42
+   185         62
+   186          4
+   187        209
+   188         28
+   200         20
+   204         46
+   213         16
+   217         83
+   218         16
+   259          8
+   303        147
+   304         34
+   305         12

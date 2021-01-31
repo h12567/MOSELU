@@ -1,0 +1,23 @@
+##TITLE=Library Entry 41021
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2-hydroxy-4-methyl-4-nitroso-pentanoate, TMS derivative
+##MOLFORM=C10H21NO4Si
+##CAS REGISTRY NO=80998-48-7
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    56         50
+    57         29
+    58        970
+    59         80
+    73        999
+    74        180
+   146         19
+   247         10

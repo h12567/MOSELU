@@ -1,0 +1,54 @@
+##TITLE=Library Entry 44719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Dodecanoic acid, 2-methyl-
+##MOLFORM=C13H26O2
+##CAS REGISTRY NO=2874-74-0
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         47
+    28          5
+    29         71
+    32          1
+    39         48
+    40         21
+    41        224
+    42         49
+    43        159
+    44         11
+    45         47
+    53         21
+    54         19
+    55        179
+    56         60
+    57        107
+    59         27
+    67         22
+    68         12
+    69         94
+    70         22
+    71         30
+    74        999
+    75         42
+    83         38
+    85         19
+    87        391
+    88         27
+    97         24
+    98         16
+   101         35
+   115         30
+   129         67
+   143         69
+   157         56
+   171         39
+   185         14
+   214         31
+   215          4

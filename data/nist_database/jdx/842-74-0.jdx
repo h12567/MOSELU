@@ -1,0 +1,58 @@
+##TITLE=Library Entry 81960
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7529
+##NAMES=HP
+##CAS NAME=Hippuric-benzaldehyde azalactone
+##MOLFORM=C16H11NO2
+##CAS REGISTRY NO=842-74-0
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27          3
+    28          2
+    38          2
+    39          9
+    50         14
+    51         61
+    52          5
+    57          1
+    62          4
+    63         11
+    64          2
+    65          2
+    71          1
+    74          5
+    75          7
+    76         19
+    77        313
+    78         19
+    87          1
+    88          2
+    89         14
+    90          4
+    91          1
+   102          8
+   103          2
+   104          4
+   105        999
+   106         76
+   107          4
+   111          1
+   116          6
+   117          1
+   124         18
+   125          3
+   139          5
+   141          1
+   155          1
+   165          1
+   204          1
+   248          1
+   249        356
+   250         63
+   251          7

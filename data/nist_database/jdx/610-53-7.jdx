@@ -1,0 +1,87 @@
+##TITLE=Library Entry 13282
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2',4'-Dinitroacetanilide
+##MOLFORM=C8H7N3O5
+##CAS REGISTRY NO=610-53-7
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         38
+    26          5
+    27          7
+    29          8
+    30         57
+    37         11
+    38         34
+    39         41
+    40         14
+    41         16
+    42          5
+    43        999
+    44         37
+    45          6
+    46          4
+    49          3
+    50         25
+    51         41
+    52         74
+    53          9
+    54          8
+    55          3
+    60          3
+    61         20
+    62         71
+    63         94
+    64         85
+    65         20
+    66         18
+    67          9
+    68          3
+    70          3
+    74         18
+    75         22
+    76         28
+    77         19
+    78         21
+    79         28
+    80         10
+    87          6
+    88         12
+    89         17
+    90         21
+    91         79
+    92         17
+    93          7
+    95         14
+   103         10
+   104          9
+   105          6
+   106         12
+   107         61
+   108          5
+   119          3
+   120          7
+   131          6
+   133          6
+   137         26
+   147          4
+   153        108
+   154          8
+   166         10
+   167         32
+   177         12
+   179         16
+   183        868
+   184         65
+   185          8
+   210          3
+   225        120
+   226         17

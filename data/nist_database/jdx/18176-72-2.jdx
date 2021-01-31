@@ -1,0 +1,60 @@
+##TITLE=Library Entry 96540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RB-2
+##NAMES=HP
+##CAS NAME=Hydrocinnamonitrile, p-cyano-
+##MOLFORM=C10H8N2
+##CAS REGISTRY NO=18176-72-2
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         13
+    27         35
+    37         17
+    38         28
+    39         89
+    50         57
+    51         63
+    52         28
+    61         14
+    62         32
+    63         80
+    64         43
+    65         19
+    74         19
+    75         45
+    76         43
+    77         26
+    78         11
+    87         13
+    88         23
+    89        160
+    90         44
+    91          7
+    99          4
+   100         10
+   101         20
+   102         23
+   103         16
+   104          2
+   114          8
+   115          5
+   116        999
+   117         92
+   118          4
+   127         11
+   128         17
+   129         14
+   130          1
+   141          1
+   153          2
+   154          2
+   155         10
+   156         18
+   157         21
+   158          1

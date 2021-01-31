@@ -1,0 +1,71 @@
+##TITLE=Library Entry 83219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Jacobson, LBC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Adenosine, N(6)-[4-aminobenzyl]-4'-[N-methylcarbamoyl]-4'-dehydro
+xymethyl-
+##MOLFORM=C18H21N7O4
+##CAS REGISTRY NO=152918-26-8
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        246
+    42        114
+    43        453
+    44        397
+    45        301
+    51         24
+    55        200
+    56        104
+    57        200
+    58        264
+    60        107
+    65         26
+    67         28
+    69        135
+    70         72
+    71        160
+    73        110
+    77        169
+    78        110
+    83         84
+    84         52
+    85        142
+    89         36
+    91        181
+    93         84
+    94         96
+    95        117
+   104         89
+   105        194
+   106        999
+   107        118
+   111         34
+   119         90
+   120        100
+   121        137
+   125         68
+   127         26
+   133        100
+   135        105
+   136        127
+   149        165
+   154        104
+   164         64
+   167         56
+   178         87
+   212         26
+   224        180
+   225         87
+   239        354
+   240        572
+   241         89
+   269         90
+   270         23
+   399        122
+   400         41

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 17149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Hexen-2-ol
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=626-94-8
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=732
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         28
+    19         22
+    26         47
+    27        248
+    28         77
+    29        209
+    30         11
+    31         87
+    37         18
+    38         57
+    39        387
+    40         82
+    41        546
+    42         83
+    43        398
+    44        114
+    45        999
+    46         22
+    49         10
+    50         63
+    51         74
+    52         33
+    53        104
+    54        133
+    55        216
+    56        267
+    57        160
+    58        195
+    59         34
+    63         10
+    65         53
+    67        934
+    68         60
+    71         91
+    74         11
+    77         15
+    79         29
+    81         73
+    82        304
+    83         28
+    85         45

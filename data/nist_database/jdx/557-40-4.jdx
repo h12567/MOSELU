@@ -1,0 +1,52 @@
+##TITLE=Library Entry 2115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Propene, 3,3'-oxybis-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=557-40-4
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=680
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         26
+    16          0
+    18          0
+    25          5
+    26         60
+    27        180
+    28         74
+    29        195
+    30         12
+    31         30
+    32          0
+    37         20
+    38         58
+    39        434
+    40         98
+    41        999
+    42        225
+    43         57
+    44         14
+    53         18
+    54        113
+    55        139
+    56        128
+    57         92
+    58         11
+    65          2
+    67          9
+    68         13
+    69        133
+    70         31
+    71          5
+    79          9
+    80          6
+    83         51
+    84          3
+    97          8

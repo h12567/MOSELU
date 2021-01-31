@@ -1,0 +1,57 @@
+##TITLE=Library Entry 5984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, V. 6, B. H. KENNETT
+ ET AL, DIV. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=2-Decenal, (E)-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=3913-81-3
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1263
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27        500
+    29        670
+    39        450
+    41        880
+    42        240
+    43        999
+    53        160
+    54        160
+    55        700
+    56        300
+    57        460
+    67        180
+    68        190
+    69        320
+    70        700
+    71        100
+    72         80
+    77         30
+    79         80
+    80         50
+    81        220
+    82        100
+    83        510
+    84        200
+    85         50
+    86        120
+    93         70
+    94         60
+    95         90
+    97        190
+    98        220
+   107         80
+   108         40
+   110        150
+   111         90
+   112         50
+   121         50
+   123         40
+   125         30
+   136         70
+   154         20

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 66655
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Pyridinium,2-methoxy-1-(methoxycarbonyl)-2-oxoethylide
+##MOLFORM=C10H11NO4
+##CAS REGISTRY NO=1291-37-8
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    50         58
+    51        162
+    52        169
+    53         99
+    54         19
+    57         25
+    59         82
+    62         13
+    63        227
+    64        228
+    65        305
+    66         54
+    67         32
+    69         38
+    71         11
+    74         58
+    77         17
+    78        205
+    79        369
+    80        209
+    90         30
+    91        180
+    92         69
+    93        999
+    94        310
+    95         30
+   106         22
+   113         13
+   118         19
+   119         31
+   120        251
+   121         13
+   122         19
+   135         27
+   146         11
+   148        489
+   149         52
+   150         42
+   151        754
+   152         59
+   162         26
+   178        741
+   179        100
+   209        631
+   210         71

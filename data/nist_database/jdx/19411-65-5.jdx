@@ -1,0 +1,49 @@
+##TITLE=Library Entry 8812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Moscow,Russia
+##NAMES=HP
+##CAS NAME=Hydroxylamine, O-(3-methylbutyl)-
+##MOLFORM=C5H13NO
+##CAS REGISTRY NO=19411-65-5
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    14         14
+    15        181
+    16         42
+    26         22
+    27        221
+    28         42
+    29        271
+    30         26
+    31         34
+    32         26
+    33        122
+    34         34
+    35         12
+    38         22
+    39        138
+    40         14
+    41        381
+    42         74
+    43        999
+    44         68
+    45         10
+    54         24
+    55        128
+    56         78
+    57        367
+    58         32
+    59         10
+    70         28
+    71        423
+    72         22
+    87         42
+    89         12
+   103         84
+   104         18

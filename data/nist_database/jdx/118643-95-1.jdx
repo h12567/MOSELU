@@ -1,0 +1,81 @@
+##TITLE=Library Entry 30048
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. Neidlein, Pharm.-Chem. Inst., Univ. Heidelberg, Heid
+elberg, W. Germany
+##NAMES=HP
+##CAS NAME=4a,8a-Methanophthalazine-1,4-dicarboxylic acid, 1,2-dihydro-1-[2-
+(methoxycarbonyl)hydrazino]-, dimethyl ester, (1.alpha.,4a.alpha.,8a.alpha.)
+-
+##MOLFORM=C15H18N4O6
+##CAS REGISTRY NO=118643-95-1
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    51         87
+    52         44
+    58        980
+    59        999
+    60         49
+    63         83
+    64         40
+    65         64
+    75         76
+    76         66
+    77        135
+    84         59
+    88         59
+    89        260
+    90        119
+    91         87
+   101         85
+   102        120
+   103        129
+   104         59
+   114         95
+   115        260
+   116        667
+   117        127
+   118         40
+   127         55
+   128        178
+   129        189
+   130        299
+   131         76
+   141        112
+   142        125
+   143        104
+   144         50
+   145         50
+   155         45
+   156        148
+   157        160
+   158         53
+   169         78
+   184         72
+   185         49
+   188         47
+   197         66
+   201         49
+   216        114
+   217         25
+   228         19
+   229         57
+   230         13
+   231         13
+   232         15
+   233         25
+   244         13
+   259         19
+   260        123
+   261        690
+   262        117
+   263         17
+   274         10
+   276         15
+   291         23
+   306         11

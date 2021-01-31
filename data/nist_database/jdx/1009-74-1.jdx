@@ -1,0 +1,56 @@
+##TITLE=Library Entry 22857
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,4,6-Triethyltriazine
+##MOLFORM=C9H15N3
+##CAS REGISTRY NO=1009-74-1
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    26         21
+    27         95
+    28        215
+    29        111
+    32          5
+    39         24
+    40         30
+    41         32
+    42         17
+    51          8
+    52         38
+    53         62
+    54        264
+    55        421
+    56        999
+    57         40
+    66         17
+    67         15
+    68          9
+    75         17
+    79         11
+    80          8
+    81         74
+    82         55
+    83          6
+    95         20
+   109         16
+   110          8
+   111          4
+   122         66
+   123          6
+   136          7
+   137         22
+   138          8
+   150        127
+   151         12
+   164        234
+   165        494
+   166         48

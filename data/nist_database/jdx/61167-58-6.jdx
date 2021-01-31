@@ -1,0 +1,81 @@
+##TITLE=Library Entry 21872
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(5)286(1979); T. L. FOLK ET AL.
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2-(1,1-dimethylethyl)-6-[[3-(1,1-dimethylethyl)
+-2-hydroxy-5-methylphenyl]methyl]-4-methylphenyl ester
+##MOLFORM=C26H34O3
+##CAS REGISTRY NO=61167-58-6
+##MP= -300
+##BP= -300
+##MW= 394
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    39         40
+    41         90
+    42         30
+    43         80
+    53         30
+    55        999
+    56         40
+    57        430
+    58         30
+    65         30
+    77         50
+    79         40
+    91        120
+    93         30
+   105        140
+   107         40
+   115         50
+   116         30
+   117         50
+   118         30
+   119         90
+   121        140
+   128         50
+   129         40
+   131         30
+   133        110
+   134         30
+   135         60
+   137         50
+   145         60
+   146         30
+   147         80
+   148         50
+   149        100
+   159         40
+   161        480
+   162         90
+   163         30
+   164         80
+   165         40
+   173         30
+   175        140
+   176         40
+   177        340
+   178         70
+   203         50
+   215         40
+   218         40
+   231         40
+   263        100
+   265        100
+   267         30
+   281         70
+   283         60
+   305         30
+   319         30
+   323         60
+   339        500
+   340        160
+   341         30
+   362         80
+   376        180
+   377         50
+   394        470
+   395        120

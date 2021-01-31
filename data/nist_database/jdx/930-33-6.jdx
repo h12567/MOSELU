@@ -1,0 +1,42 @@
+##TITLE=Library Entry 54652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3301
+##NAMES=HP
+##CAS NAME=3H-1,2,4-Triazol-3-one, 1,2-dihydro-
+##MOLFORM=C2H3N3O
+##CAS REGISTRY NO=930-33-6
+##MP= -300
+##BP= -300
+##MW= 85
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          8
+    14          7
+    15          3
+    16          3
+    26          6
+    27         48
+    28        181
+    29         55
+    30          5
+    31          1
+    38          2
+    39          1
+    40          2
+    41         42
+    42        744
+    43         42
+    44         29
+    54          3
+    55         11
+    56          1
+    57          1
+    58          1
+    69          1
+    85        999
+    86         35
+    87          2

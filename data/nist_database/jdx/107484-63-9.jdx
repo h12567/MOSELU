@@ -1,0 +1,53 @@
+##TITLE=Library Entry 49801
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. Higa, Dep. Mar. Sci., Univ. Ryukyus, Okinawa, Japan
+##NAMES=HP
+##CAS NAME=1,2-Dioxin-3-acetic acid, 6-(8,10-dodecadienyl)-3,6-dihydro-6-met
+hoxy-, methyl ester, [3.alpha.,6.alpha.,6(8E,10E)]-
+##MOLFORM=C20H32O5
+##CAS REGISTRY NO=107484-63-9
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39        250
+    41        670
+    43        250
+    53        290
+    55        430
+    59        170
+    67        440
+    68        430
+    77        180
+    79        640
+    81        999
+    83        480
+    91        170
+    93        260
+    94        260
+    95        300
+    96        340
+   107        220
+   113        160
+   121        125
+   123         95
+   124         95
+   125        120
+   133         80
+   135         80
+   147         60
+   153        100
+   156         50
+   166         45
+   179         40
+   183         25
+   187         30
+   193         25
+   201         25
+   270         30
+   304         40
+   320         40

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 21132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(1-methylcyclohexyl)-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=2890-62-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         45
+    29         48
+    39         70
+    40         11
+    41        132
+    42         14
+    43        175
+    44          7
+    50          4
+    51         10
+    52          5
+    53         37
+    54         17
+    55        999
+    56         50
+    57         24
+    59          4
+    65         10
+    66          4
+    67         42
+    68         19
+    69         96
+    70         11
+    71          7
+    72         15
+    77         12
+    79         14
+    81         75
+    82         13
+    83         10
+    84          7
+    85         39
+    91          4
+    93          4
+    95         11
+    96        213
+    97        866
+    98         78
+    99          4
+   107          4
+   122          3
+   125         13
+   140         73
+   141          9

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 7630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION, ALDERLEY PARK C
+HESHIRE
+##NAMES=HP
+##CAS NAME=Hydroxylamine, O-decyl-
+##MOLFORM=C10H23NO
+##CAS REGISTRY NO=29812-79-1
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=1100
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    38        114
+    39         86
+    41        405
+    42        157
+    43        999
+    44         76
+    45         24
+    46         33
+    53         24
+    54         38
+    55        286
+    56        195
+    57        714
+    58         38
+    68         71
+    69        152
+    70        181
+    71        381
+    72         24
+    81         24
+    82         57
+    83        100
+    84         71
+    85        286
+    86         24
+    95         17
+    96         19
+    97         50
+    98         24
+    99         33
+   110         15
+   111         19
+   112         48
+   128          5
+   140         19
+   141         12
+   173          5

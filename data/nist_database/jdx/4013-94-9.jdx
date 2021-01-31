@@ -1,0 +1,56 @@
+##TITLE=Library Entry 39602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N'-Diisopropylethylenediamine
+##MOLFORM=C8H20N2
+##CAS REGISTRY NO=4013-94-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          0
+    15         21
+    18         25
+    27         74
+    28         79
+    30        813
+    31         13
+    32          2
+    39         30
+    40          8
+    41        102
+    42         82
+    43        113
+    44        148
+    45          5
+    50          1
+    54          7
+    55          7
+    56         47
+    57         97
+    58        148
+    59         12
+    64          4
+    67          1
+    68          7
+    69          4
+    70         34
+    71          1
+    72        999
+    73         55
+    74          4
+    82          1
+    83          2
+    84          4
+    85          7
+    86         70
+    87         51
+    88          5
+   129          2
+   144          2

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 19158
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CORINA, DEP. BIOCHEM., UNIV. SOUTHAMPTON, SOUTHAMPTO
+N, U.
+##NAMES=HP
+##CAS NAME=Methanesulphonothioic acid 1,10-decanediyl ester
+##MOLFORM=C12H26O4S4
+##CAS REGISTRY NO=56-02-0
+##MP= -300
+##BP= -300
+##MW= 362
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        890
+    45        770
+    55        999
+    64        870
+    67        460
+    69        410
+    81        300
+    87        770
+   101        280
+   115        100
+   129         51
+   143         34
+   168         49
+   171        260
+   172         43
+   173         24
+   187         14
+   203        560
+   204        450
+   205        110
+   206         51
+   219         64
+   220         16
+   221          7
+   236         12
+   237          2
+   238          2
+   251         31
+   252          7
+   253         27
+   254          5
+   256          5
+   257         19
+   258          5
+   283         97
+   284         16
+   285         17

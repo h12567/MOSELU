@@ -1,0 +1,66 @@
+##TITLE=Library Entry 97802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M.MILLER BROCK UNIV., ST. CATHARINES, ONTARIO, CANADA
+##NAMES=HP
+##CAS NAME=Phosphine oxide, tris(pentafluorophenyl)-
+##MOLFORM=C18F15OP
+##CAS REGISTRY NO=2729-11-5
+##MP= -300
+##BP= -300
+##MW= 548
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    47        142
+    69        451
+    74         21
+    79         50
+    86         38
+    93        241
+    98        112
+    99         32
+   105         34
+   110         58
+   117        999
+   118         60
+   129        205
+   136         52
+   145         28
+   148        221
+   155        297
+   164        145
+   165         39
+   167        352
+   183        347
+   184         27
+   196         38
+   198         14
+   205         22
+   214         25
+   215         52
+   217        215
+   227        122
+   234         60
+   246         73
+   258         51
+   265        379
+   266         48
+   277         71
+   296        468
+   297         63
+   312         74
+   315         22
+   331         48
+   334         43
+   346         10
+   362         15
+   365        920
+   366        130
+   381         78
+   400         15
+   529         21
+   532          5
+   548        365
+   549         70

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 24918
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2946
+##NAMES=HP
+##CAS NAME=Hexane, 2,2,5-trimethyl-
+##MOLFORM=C9H20
+##CAS REGISTRY NO=3522-94-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=777
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          1
+    27         38
+    28         16
+    29         83
+    30          2
+    38          1
+    39         34
+    40          6
+    41        176
+    42         12
+    43        151
+    44          5
+    48          1
+    50          1
+    51          2
+    52          1
+    53          9
+    54          2
+    55         35
+    56        336
+    57        999
+    58         43
+    65          1
+    67          2
+    69         10
+    70         34
+    71        179
+    72          9
+    79          1
+    85          1
+   112          1
+   113         44
+   114          3

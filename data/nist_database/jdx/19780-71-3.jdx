@@ -1,0 +1,57 @@
+##TITLE=Library Entry 25141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Ethyl-3-nonanol
+##MOLFORM=C11H24O
+##CAS REGISTRY NO=19780-71-3
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        134
+    28        139
+    29        228
+    31        106
+    32         33
+    39        131
+    41        486
+    42         79
+    43        312
+    44         44
+    45         22
+    51         16
+    53         81
+    55        543
+    56        248
+    57        999
+    58        124
+    59        584
+    60         18
+    65         22
+    67         86
+    69        607
+    70        251
+    71         81
+    72         38
+    73         35
+    77         18
+    79         23
+    81         39
+    83        280
+    84         81
+    85         73
+    96         17
+    97        109
+    98        331
+    99         38
+   111         20
+   112         64
+   113         20
+   125         38
+   143        101
+   154         42

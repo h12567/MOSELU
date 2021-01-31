@@ -1,0 +1,74 @@
+##TITLE=Library Entry 45789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethane, 1,1-dimethoxy-2-[(2,2-dimethoxyethyl)thio]-]
+##MOLFORM=C8H18O4S
+##CAS REGISTRY NO=78102-16-6
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    27         16
+    29         43
+    30          4
+    31         94
+    33          3
+    35          4
+    39          2
+    41          5
+    42          8
+    43         65
+    44          8
+    45        159
+    46         13
+    47        235
+    48          5
+    55          2
+    57          9
+    58         69
+    59         60
+    60         26
+    61         46
+    62          3
+    63          3
+    69          2
+    71         11
+    73          8
+    74         17
+    75        999
+    76         56
+    77          9
+    85          4
+    87         12
+    88         14
+    89        310
+    90         27
+    91         21
+   101         15
+   103         30
+   104          4
+   105          6
+   114          2
+   115        141
+   116          9
+   117         19
+   119         23
+   120          4
+   121          2
+   131          2
+   144          2
+   146          7
+   147        346
+   148         24
+   149          5
+   178         43
+   179         10
+   180          2
+   210         64
+   211          6
+   212          3

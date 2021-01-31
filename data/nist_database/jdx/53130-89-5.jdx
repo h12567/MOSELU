@@ -1,0 +1,105 @@
+##TITLE=Library Entry 11802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4,6-Diamino-5-[di-O-acetoxy-propanoylamino]pyrimidine
+##MOLFORM=C11H15N5O5
+##CAS REGISTRY NO=53130-89-5
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 89
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         52
+    45          5
+    47          1
+    49          5
+    51          2
+    53         24
+    54         46
+    55         37
+    56          3
+    57          0
+    58          0
+    60          2
+    61          7
+    63          0
+    65          1
+    66          2
+    67          5
+    68          2
+    69          5
+    70         39
+    71         29
+    73          3
+    78          0
+    80          7
+    81          9
+    82          4
+    83          0
+    84          0
+    86          4
+    91          0
+    92          0
+    96          3
+    97         37
+    98         19
+    99          1
+   103         36
+   104          2
+   107          5
+   108          6
+   109          1
+   110          4
+   111          0
+   113          3
+   119          0
+   122          2
+   123          7
+   124         47
+   125        149
+   126         13
+   131         18
+   132          0
+   133          0
+   135          2
+   136         22
+   137          1
+   138          4
+   139          0
+   145          2
+   148          2
+   149          3
+   150          1
+   151         37
+   152        114
+   153          6
+   164          2
+   165          0
+   167          6
+   168          1
+   173          2
+   175          1
+   176          0
+   177         13
+   178          4
+   179          0
+   180          1
+   182          2
+   194          9
+   195          4
+   196          2
+   213          3
+   214          0
+   237          2
+   238          0
+   255          8
+   256          2
+   297         35
+   298          5
+   299          0

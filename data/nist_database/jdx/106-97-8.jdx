@@ -1,0 +1,47 @@
+##TITLE=Library Entry 5550
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane
+##MOLFORM=C4H10
+##CAS REGISTRY NO=106-97-8
+##MP= -300
+##BP= -300
+##MW= 58
+##$RETENTION INDEX=400
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          8
+    15         60
+    16          1
+    24          1
+    25          2
+    26         58
+    27        387
+    28        321
+    29        433
+    30         10
+    37          7
+    38         19
+    39        136
+    40         19
+    41        285
+    42        121
+    43        999
+    44         33
+    45          1
+    49          2
+    50         11
+    51         10
+    52          3
+    53          9
+    54          2
+    55         10
+    56          8
+    57         25
+    58        122
+    59          5

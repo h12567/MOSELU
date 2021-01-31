@@ -1,0 +1,39 @@
+##TITLE=Library Entry 90843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, 5,6-dihydro-5-hydroxy-4-methoxy-6-(2-phenylethyl)
+-, (5R-cis)-
+##MOLFORM=C14H16O4
+##CAS REGISTRY NO=52247-81-1
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39         75
+    43        106
+    55        131
+    56        567
+    57        187
+    69        118
+    77         75
+    86        262
+    91        546
+    92        137
+   104        237
+   105        112
+   113         56
+   114        999
+   115        100
+   117        280
+   127         88
+   134         37
+   139         91
+   143        275
+   157         37
+   230         55
+   248        130

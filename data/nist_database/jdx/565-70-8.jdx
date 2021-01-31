@@ -1,0 +1,36 @@
+##TITLE=Library Entry 29577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2-hydroxy-
+##MOLFORM=C4H8O3
+##CAS REGISTRY NO=565-70-8
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    25         88
+    26        247
+    27        254
+    28        371
+    29        106
+    31        961
+    39         28
+    41        657
+    42         45
+    43        130
+    44         95
+    45        176
+    46         28
+    47         24
+    57        120
+    58        169
+    59        999
+    60        123
+    75         95
+    76        148
+   104         42

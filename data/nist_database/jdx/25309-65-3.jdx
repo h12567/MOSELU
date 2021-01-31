@@ -1,0 +1,65 @@
+##TITLE=Library Entry 96686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. NELSON, RES. DEP., IMPERIAL TOBACCO LTD., BRISTOL&
+##NAMES=HP
+##CAS NAME=p-Ethylbenzonitrile
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=25309-65-3
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    28         63
+    29          9
+    32         20
+    37         14
+    38         21
+    39         70
+    40          9
+    41         11
+    49         10
+    50         54
+    51         75
+    52         28
+    53         11
+    61         13
+    62         25
+    63         61
+    64         32
+    65         21
+    66          8
+    73         10
+    74         19
+    75         43
+    76         48
+    77         61
+    78         18
+    79          8
+    86          8
+    87         11
+    88         19
+    89        129
+    90         38
+    91         13
+    99          9
+   100         10
+   101         20
+   102         28
+   103         86
+   104         35
+   105          8
+   114         11
+   115         11
+   116        999
+   117        108
+   118          9
+   127          9
+   128         15
+   129         13
+   130         63
+   131        307
+   132         38

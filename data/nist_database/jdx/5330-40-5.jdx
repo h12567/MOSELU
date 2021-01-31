@@ -1,0 +1,82 @@
+##TITLE=Library Entry 98108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6714
+##NAMES=HP
+##CAS NAME=Benzeneacetamide, N-(phenylacetyl)-
+##MOLFORM=C16H15NO2
+##CAS REGISTRY NO=5330-40-5
+##MP= -300
+##BP= -300
+##MW= 253
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          3
+    28          1
+    37          1
+    38          4
+    39         29
+    40          3
+    41          9
+    42          3
+    43         11
+    44          6
+    45          5
+    46          1
+    50          8
+    51         19
+    52          4
+    53          1
+    55          1
+    58          1
+    59          2
+    61          4
+    62          7
+    63         26
+    64          9
+    65         93
+    66          5
+    69          2
+    70          1
+    73          1
+    74          2
+    75          2
+    76          2
+    77          8
+    78          3
+    79          3
+    86          1
+    87          1
+    88          2
+    89         63
+    90        147
+    91        539
+    92         83
+    93          5
+   104          1
+   105          1
+   106          2
+   107          2
+   115          1
+   116         24
+   117         69
+   118        999
+   119         94
+   120          6
+   121          1
+   134          2
+   135         48
+   136         79
+   137          7
+   149          1
+   161          1
+   165          1
+   178          1
+   179          1
+   181          1
+   253        373
+   254         67
+   255          7

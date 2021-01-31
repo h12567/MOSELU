@@ -1,0 +1,35 @@
+##TITLE=Library Entry 7423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Formamide, N-(3-methyl-5-isoxazolyl)-
+##MOLFORM=C5H6N2O2
+##CAS REGISTRY NO=53907-67-8
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    42        240
+    43        999
+    44         40
+    52        180
+    53        120
+    54        160
+    55        640
+    56        100
+    57         10
+    66        270
+    67        220
+    68        110
+    69        110
+    70         10
+    83         90
+    97         70
+    98        500
+    99         40
+   126        220
+   127         20

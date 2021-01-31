@@ -1,0 +1,47 @@
+##TITLE=Library Entry 68437
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. VAN THUIJL
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(1H-pyrazol-4-yl)-
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=25016-16-4
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=1499
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         48
+    25          5
+    26         20
+    27         24
+    28        139
+    29         11
+    36          3
+    37         36
+    38         52
+    39        154
+    40         89
+    41         23
+    42         26
+    43        147
+    49          4
+    50         10
+    51         17
+    52         27
+    53         24
+    54         17
+    55          4
+    65          4
+    66          9
+    67         34
+    68        137
+    69          4
+    81          5
+    95        999
+    96         64
+    97          4
+   110        329
+   111         26

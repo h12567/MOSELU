@@ -1,0 +1,43 @@
+##TITLE=Library Entry 40543
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. KURODA, DEP. APPL. CHEM., WASEDA UNIV., TOKYO, JA
+##NAMES=HP
+##CAS NAME=3,5-Dibutoxy-1,1,1,7,7,7-hexamethyl-3,5-bis(trimethylsiloxy)tetra
+siloxane
+##MOLFORM=C20H54O7Si6
+##CAS REGISTRY NO=72439-85-1
+##MP= -300
+##BP= -300
+##MW= 574
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        310
+    42         16
+    45         36
+    55         37
+    57        309
+    58         18
+    59         34
+    73        999
+    74         87
+    75         38
+    87         12
+   147         25
+   325         17
+   327        165
+   328         51
+   329         34
+   341         45
+   342         16
+   343         11
+   415         69
+   416         30
+   417         19
+   501         44
+   502         22
+   503         17
+   559         24
+   560         12

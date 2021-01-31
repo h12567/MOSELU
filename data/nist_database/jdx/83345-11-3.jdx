@@ -1,0 +1,57 @@
+##TITLE=Library Entry 82353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=N-[4-(2-Hydroxyethyl)phenyl]acetamide
+##MOLFORM=C10H13NO2
+##CAS REGISTRY NO=83345-11-3
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    35          1
+    38         35
+    39        162
+    40         28
+    41         45
+    42        155
+    43        976
+    44         86
+    45          3
+    46          1
+    50         59
+    51        170
+    52        151
+    53         57
+    54         16
+    55          3
+    57          2
+    62         16
+    63         60
+    64         23
+    65         65
+    66         13
+    77        208
+    78        164
+    79         98
+    80         21
+    89         21
+    90         10
+    91         38
+    92          5
+    93         10
+   104         27
+   106        999
+   107         86
+   108          1
+   119          9
+   137         20
+   148        105
+   149         16
+   178          4
+   179         99
+   180          3

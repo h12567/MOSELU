@@ -1,0 +1,35 @@
+##TITLE=Library Entry 16693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.D. Bowen, Dept. Chem., Univ. Warwick, Coventry, UK
+##NAMES=HP
+##CAS NAME=1-Butene, 4-methoxy
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=4696-30-4
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         60
+    29        110
+    38         10
+    39         90
+    40         10
+    41         60
+    42         20
+    43         70
+    45        999
+    46         20
+    51         10
+    53         20
+    54         10
+    55         40
+    56         70
+    57         30
+    58         20
+    71         30
+    85         30
+    86         10

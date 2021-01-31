@@ -1,0 +1,47 @@
+##TITLE=Library Entry 410
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1286
+##NAMES=HP
+##CAS NAME=Diethyl azodicarboxylate
+##MOLFORM=C6H10N2O4
+##CAS REGISTRY NO=1972-28-7
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          7
+    15         21
+    16          2
+    18          1
+    26         10
+    27        149
+    28        203
+    29        999
+    30         21
+    31         21
+    32         43
+    40          2
+    42          4
+    43         15
+    44         10
+    45         19
+    46          2
+    51          1
+    56          1
+    57          1
+    59          2
+    63          1
+    73          5
+    74          1
+    77          2
+    78          5
+    91          2
+   102          2
+   103          1
+   104          1
+   112          2

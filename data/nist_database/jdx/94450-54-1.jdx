@@ -1,0 +1,30 @@
+##TITLE=Library Entry 81337
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.B. MAHATO, INDIAN INST. EXPERIMENTAL MED., CALCUTTA,
+ INDIA
+##NAMES=HP
+##CAS NAME=3.beta.,16.alpha.,22.beta.,30-Tetrahydroxy-13,28-epoxyoleanane
+##MOLFORM=C30H50O5
+##CAS REGISTRY NO=94450-54-1
+##MP= -300
+##BP= -300
+##MW= 490
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+   105        999
+   159        640
+   189        460
+   203        450
+   207        420
+   233        210
+   282         80
+   405         70
+   417        100
+   423         90
+   441         90
+   454         50
+   472         40
+   490         20

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 30051
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Allyl fluoride
+##MOLFORM=C3H5F
+##CAS REGISTRY NO=818-92-8
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=380
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    13          4
+    14          7
+    15         16
+    19          9
+    20          7
+    24          3
+    25         12
+    26         46
+    27        211
+    28         16
+    29         11
+    30          1
+    31         71
+    32         18
+    33        154
+    34          2
+    35          1
+    36         13
+    37         48
+    38         54
+    39        280
+    40         50
+    41         38
+    42          6
+    43          3
+    44         19
+    45         63
+    46          4
+    55          5
+    56         21
+    57        155
+    58         48
+    59        999
+    60        565
+    61         20

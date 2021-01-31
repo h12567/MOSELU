@@ -1,0 +1,74 @@
+##TITLE=Library Entry 40673
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MO-145
+##NAMES=HP
+##CAS NAME=Isobutyrylglycine, TMS derivative
+##MOLFORM=C9H19NO3Si
+##CAS REGISTRY NO=55836-41-4
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=1372
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    15         18
+    27         84
+    28         69
+    29         23
+    30        151
+    39         35
+    41        124
+    42         41
+    43        666
+    44         43
+    45        148
+    46         11
+    47         69
+    55         30
+    56         34
+    57         19
+    58         40
+    59         36
+    60         13
+    61         51
+    68         22
+    69         16
+    70         26
+    71        331
+    72         95
+    73        999
+    74         99
+    75        308
+    76         23
+    77         19
+    82         10
+    84         13
+    86         15
+    87         16
+    88         43
+   100         33
+   101         17
+   102         69
+   103         13
+   104         65
+   105         12
+   116         65
+   117         27
+   130         33
+   131         80
+   132         44
+   142         10
+   145         82
+   146         27
+   147         10
+   158        393
+   159         53
+   160         18
+   172         57
+   173        184
+   174         31
+   202        202
+   203         30
+   204         10

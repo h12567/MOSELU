@@ -1,0 +1,41 @@
+##TITLE=Library Entry 65
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Moscow,Russia
+##NAMES=HP
+##CAS NAME=o-Ethylhydroxylamine
+##MOLFORM=C2H7NO
+##CAS REGISTRY NO=624-86-2
+##MP= -300
+##BP= -300
+##MW= 61
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    14         12
+    15         86
+    16          8
+    26        116
+    27        999
+    28        722
+    29        927
+    30        102
+    31        267
+    32        150
+    33        939
+    34         76
+    35         22
+    39         14
+    40          8
+    41         30
+    42         84
+    43        209
+    44        122
+    45        124
+    46        164
+    47         16
+    59         22
+    60         24
+    61        629
+    62         30

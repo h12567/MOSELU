@@ -1,0 +1,34 @@
+##TITLE=Library Entry 6883
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Sci. & Tec. Lab., NIST, Gaithersburg, MD 20899
+##NAMES=HP
+##CAS NAME=7-Aminocephalosporanic acid
+##MOLFORM=C10H12N2O5S
+##CAS REGISTRY NO=957-68-6
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    41         72
+    42        149
+    43        999
+    44         81
+    45        405
+    47         32
+    60         73
+    61          7
+    74        315
+    75         37
+   112         35
+   138         45
+   139        191
+   156        221
+   157         27
+   185        114
+   186         13
+   216        117
+   217         12

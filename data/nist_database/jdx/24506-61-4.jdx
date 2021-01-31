@@ -1,0 +1,61 @@
+##TITLE=Library Entry 48982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Tetracyclo[3,3,1,0(2,4),0(6,8)]nonane
+##MOLFORM=C9H12
+##CAS REGISTRY NO=24506-61-4
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    37         25
+    38         83
+    39        491
+    40         81
+    41        160
+    42          4
+    49          6
+    50        100
+    51        194
+    52         79
+    53        104
+    54         25
+    55         26
+    57         10
+    58          7
+    61          1
+    62         18
+    63        101
+    65        198
+    66        384
+    67         37
+    68          4
+    73          1
+    74         14
+    77        542
+    78        347
+    79        999
+    80         59
+    81          2
+    86          2
+    87          2
+    89         20
+    91        571
+    92        234
+    93         43
+    94          1
+   103         73
+   104         21
+   105        320
+   106         24
+   107          2
+   115         19
+   116          2
+   117         20
+   119         27
+   120          3

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 88957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Phenyl-2-furancarbothioamide
+##MOLFORM=C11H9NOS
+##CAS REGISTRY NO=10243-03-5
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        443
+    45         49
+    51        198
+    55         29
+    63         60
+    65         89
+    66         29
+    69         49
+    71         50
+    72         30
+    74         59
+    76         29
+    77        309
+    82         28
+    83         70
+    93         29
+    94        157
+   100         30
+   102         59
+   103         29
+   109         60
+   110        345
+   111        999
+   149         39
+   151         29
+   170        326
+   202        598
+   203        845

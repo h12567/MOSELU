@@ -1,0 +1,65 @@
+##TITLE=Library Entry 45008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 3-methoxytetradecanoate
+##MOLFORM=C16H32O3
+##CAS REGISTRY NO=62673-11-4
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        371
+    43        342
+    45        167
+    55        267
+    56         49
+    57        139
+    58         78
+    59        141
+    67         59
+    68         29
+    69        160
+    70         20
+    71        120
+    72         29
+    73          9
+    74         59
+    75        999
+    76         39
+    81         49
+    82         20
+    83        109
+    84         30
+    85         70
+    86          9
+    87         59
+    95         30
+    96         20
+    97        100
+    98         19
+    99          9
+   101         29
+   109         10
+   110         10
+   111         39
+   117        298
+   118         19
+   143         20
+   157         10
+   166         10
+   183         49
+   184         10
+   199         39
+   208          9
+   209         10
+   240         10
+   241         10
+   242         20
+   243         10
+   257         80
+   258         20

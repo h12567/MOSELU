@@ -1,0 +1,45 @@
+##TITLE=Library Entry 100632
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphonic acid, [3-(aminocarbonyl)-2-(4-methylphenyl)-2-aziridin
+yl]-, dimethyl ester
+##MOLFORM=C12H17N2O4P
+##CAS REGISTRY NO=33866-50-1
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    44        210
+    51        100
+    57        100
+    58        100
+    63        140
+    65        160
+    77        210
+    78        100
+    79        140
+    91        210
+    93        300
+   103        200
+   109         80
+   117        110
+   118        509
+   119        999
+   120        150
+   130        190
+   131        160
+   132        110
+   146        150
+   147         70
+   174        549
+   175        599
+   176        100
+   239        390
+   240        210
+   267         70
+   284         30

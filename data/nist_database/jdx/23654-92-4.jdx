@@ -1,0 +1,73 @@
+##TITLE=Library Entry 30057
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, V. 5, B. H. KENNETT
+ ET AL, DIV. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=1,2,4-Trithiolane, 3,5-dimethyl-
+##MOLFORM=C4H8S3
+##CAS REGISTRY NO=23654-92-4
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1148
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    25         30
+    26        110
+    27        240
+    29        150
+    30         10
+    31         30
+    33         30
+    34         50
+    35         20
+    39         30
+    41         30
+    42         20
+    43         60
+    45        570
+    46         40
+    47         50
+    48         10
+    53         20
+    54         60
+    55        250
+    56         30
+    57        140
+    58        320
+    59        999
+    60        710
+    61        170
+    62         30
+    64        410
+    65         20
+    66         50
+    69         10
+    70         10
+    71         10
+    73         60
+    75         10
+    76         20
+    77         20
+    84         10
+    85         30
+    86         20
+    87        120
+    88        450
+    89         30
+    90         20
+    91         10
+    92        490
+    93         60
+    94         40
+    97         10
+   103         30
+   118         10
+   124         10
+   146         10
+   152        700
+   153         50
+   154        100
+   155         10

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 25870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Hexanone, 5-methyl-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=623-56-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=855
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    16          6
+    26         17
+    27        130
+    28         16
+    29        179
+    30          4
+    31          6
+    37          3
+    38         14
+    39        132
+    40         28
+    41        266
+    42         79
+    43        143
+    44         12
+    45          4
+    50          8
+    51         10
+    52          3
+    53         16
+    54          6
+    55         30
+    56         45
+    57        999
+    58         40
+    59          4
+    67          3
+    69         12
+    70          2
+    71         10
+    72         74
+    73          5
+    74          1
+    81          4
+    83          2
+    85        276
+    86         16
+    99         32
+   100          2
+   114        127
+   115         10

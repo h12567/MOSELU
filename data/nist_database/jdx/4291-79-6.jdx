@@ -1,0 +1,50 @@
+##TITLE=Library Entry 69834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1-methyl-2-propyl-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=4291-79-6
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=983
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        104
+    28         60
+    29        130
+    32          9
+    39        173
+    40         43
+    41        353
+    42        101
+    43         93
+    51         22
+    52         17
+    53        102
+    54        100
+    55        781
+    56        176
+    57         44
+    65         32
+    66         18
+    67        135
+    68         87
+    69        250
+    70        101
+    71         13
+    77         31
+    79         32
+    81         80
+    82         28
+    83         82
+    84         24
+    91         11
+    96        267
+    97        999
+    98         92
+   111         14
+   140         75

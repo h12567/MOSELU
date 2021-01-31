@@ -1,0 +1,37 @@
+##TITLE=Library Entry 83187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-Methylphenyl)-benzene-sulfenamide
+##MOLFORM=C13H13NS
+##CAS REGISTRY NO=103375-52-6
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    65         68
+    66         40
+    77        202
+    78         68
+    79        169
+   104         39
+   105         30
+   106        999
+   107        130
+   109         70
+   110         89
+   180         20
+   181          9
+   182         20
+   183          9
+   199         10
+   200         19
+   201         10
+   214         20
+   215        500
+   216         60
+   217         39

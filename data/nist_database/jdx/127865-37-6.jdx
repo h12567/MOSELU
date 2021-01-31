@@ -1,0 +1,63 @@
+##TITLE=Library Entry 92824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Cojocaru, Dep. Chem., Bar-Ilan Univ., Israel
+##NAMES=HP
+##CAS NAME=Propane, 1-nitro-2-(2-propenylthio)-
+##MOLFORM=C6H11NO2S
+##CAS REGISTRY NO=127865-37-6
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    46         17
+    47         39
+    55         47
+    57         22
+    58         12
+    59        207
+    60         11
+    61         69
+    67         43
+    69         93
+    71         82
+    72        161
+    73        761
+    74         70
+    75        155
+    77         11
+    79         44
+    80         17
+    81        548
+    82         35
+    85         54
+    87         67
+    88        106
+    89        190
+    90         13
+    91         12
+    99        165
+   100         27
+   101        223
+   102         17
+   103         17
+   104         16
+   105        107
+   107         12
+   113        122
+   114         92
+   115        999
+   116         92
+   117         67
+   118         14
+   119         65
+   128         19
+   131        354
+   132         31
+   133         73
+   160        136
+   161        147
+   162         12

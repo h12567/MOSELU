@@ -1,0 +1,41 @@
+##TITLE=Library Entry 89468
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.FOWDEN UNIVERSITY COLLEGE, LONDON, W.C.1 UK
+##NAMES=HP
+##CAS NAME=5-Hexynoic acid, 2-amino-4-(hydroxymethyl)-
+##MOLFORM=C7H11NO3
+##CAS REGISTRY NO=23840-13-3
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        330
+    42        330
+    43        360
+    44        250
+    46        130
+    51        130
+    53        250
+    54        120
+    57        130
+    65        170
+    67        390
+    68        120
+    74        540
+    75        300
+    77        140
+    80        340
+    81        180
+    82        340
+    87        130
+    88        170
+    93        220
+    94        390
+    95        540
+   112        999
+   127         80
+   139         12

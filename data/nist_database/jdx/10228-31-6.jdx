@@ -1,0 +1,64 @@
+##TITLE=Library Entry 10208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-[4-(N-Methyl)acetamido-2-nitrophenyl]-p-toluenesulfonamide
+##MOLFORM=C16H17N3O5S
+##CAS REGISTRY NO=10228-31-6
+##MP= -300
+##BP= -300
+##MW= 363
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    37         15
+    39        282
+    40         29
+    41        104
+    43        999
+    44         32
+    45         17
+    48         14
+    50         75
+    51        124
+    52        120
+    53         44
+    54         21
+    56        181
+    62         78
+    63        195
+    65        549
+    66        138
+    67         37
+    68         18
+    75         14
+    76         27
+    77         70
+    78         91
+    79         62
+    80         40
+    89        125
+    91        659
+    92        126
+    93         80
+   105         95
+   106         29
+   107         55
+   108        101
+   118         20
+   119         85
+   120        120
+   121         23
+   133         23
+   136         35
+   139         27
+   149         24
+   150         24
+   155         68
+   166        460
+   167         63
+   208         59
+   363         56
+   365          3

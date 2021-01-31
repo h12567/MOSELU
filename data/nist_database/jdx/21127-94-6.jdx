@@ -1,0 +1,49 @@
+##TITLE=Library Entry 67227
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.T.BEACHLEY STATE UNIV., OF N. Y., BUFFALO, NEW YORK,
+ USA
+##NAMES=HP
+##CAS NAME=Borazine, 1-methyl-
+##MOLFORM=CH8B3N3
+##CAS REGISTRY NO=21127-94-6
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    35         10
+    36         40
+    37        180
+    38        275
+    39         60
+    40        140
+    44         10
+    45         35
+    46         40
+    50         10
+    51         30
+    52         75
+    53         80
+    60         20
+    61         40
+    62         80
+    63        100
+    64         75
+    65        130
+    66        170
+    67        300
+    68         10
+    75         10
+    76         25
+    77         30
+    78         20
+    90         10
+    91         50
+    92        210
+    93        670
+    94        999
+    95        270
+    96         10

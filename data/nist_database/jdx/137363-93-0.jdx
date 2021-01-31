@@ -1,0 +1,69 @@
+##TITLE=Library Entry 41254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,2,3,5-Tetrathiane, 4,6-diethyl-, trans-
+##MOLFORM=C6H12S4
+##CAS REGISTRY NO=137363-93-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=1640
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    26          3
+    27          3
+    37          2
+    39         33
+    40          2
+    41        101
+    42         11
+    45         89
+    46         26
+    47         20
+    58         20
+    59         30
+    64         55
+    66          6
+    71         17
+    72         11
+    73        999
+    74        442
+    75         86
+    76         21
+    77          4
+    78          8
+    83          5
+    88          1
+    96          8
+    98          4
+   104          3
+   105          7
+   106         30
+   108         10
+   109         17
+   113          3
+   115        182
+   116         18
+   117          6
+   118          1
+   119          1
+   122          2
+   134          1
+   136          2
+   137          4
+   138        260
+   139         10
+   140         36
+   141          2
+   147         92
+   148         10
+   149          9
+   180          4
+   212        256
+   213         28
+   214         54
+   215          4
+   216          4

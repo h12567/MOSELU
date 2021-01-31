@@ -1,0 +1,43 @@
+##TITLE=Library Entry 85483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.G. PATTERSON, CENT. DISEASE CONTROL, ATLANTA, GA.,
+##NAMES=HP
+##CAS NAME=11-Oxo-5.alpha.,8.alpha.,9.beta.,14.beta.-cholestan-3.beta.-ol
+##MOLFORM=C27H46O2
+##CAS REGISTRY NO=115792-31-9
+##MP= -300
+##BP= -300
+##MW= 402
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    81        800
+    95        600
+   108        999
+   121        350
+   122        310
+   135        240
+   147        240
+   193        830
+   206        180
+   213        100
+   219        550
+   229         60
+   232        110
+   233        100
+   247        100
+   248        120
+   253        280
+   261        120
+   263        500
+   276        220
+   289        940
+   324         40
+   344        150
+   351         60
+   366         90
+   369         80
+   384        110
+   402        750

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 52821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetamide, N-(2-ethoxy-3,6-dihydro-6-methyl-2H-pyran-3-yl)-
+##MOLFORM=C10H17NO3
+##CAS REGISTRY NO=56248-08-9
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         44
+    42         23
+    43        248
+    44        244
+    45         61
+    46         13
+    65         10
+    66         13
+    67         74
+    68         27
+    69         30
+    70         34
+    80         13
+    81         17
+    82        544
+    83        999
+    84        122
+   108         78
+   124         17
+   125        496
+   126         44
+   153         27
+   154         20

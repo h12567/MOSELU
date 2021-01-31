@@ -1,0 +1,45 @@
+##TITLE=Library Entry 36926
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.HEICKLEN DAVEY LAB., PA. STATE UNIV., UNIV. PARK, PA.
+, USA
+##NAMES=HP
+##CAS NAME=5-Thiabicyclo[2.1.0]pent-2-ene, 1,2,3,4-tetrakis(trifluoromethyl)
+-
+##MOLFORM=C8F12S
+##CAS REGISTRY NO=39091-73-1
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    31         65
+    69        999
+    87         82
+    93        210
+   111         74
+   113        100
+   117        163
+   130        151
+   143         79
+   149        104
+   199        244
+   200        163
+   201        105
+   237        372
+   238          3
+   239          1
+   287        975
+   288         93
+   289         49
+   306        290
+   307          3
+   308          1
+   337        975
+   338        121
+   339         63
+   356        990
+   357        100
+   358         51

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 2238
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2960
+##NAMES=HP
+##CAS NAME=1-Propene, 1-bromo-
+##MOLFORM=C3H5Br
+##CAS REGISTRY NO=590-14-7
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15         15
+    25          5
+    26         24
+    27         13
+    28          1
+    29          1
+    36          5
+    37         34
+    38         56
+    39        416
+    40         45
+    41        999
+    42         32
+    43          1
+    79          7
+    80          4
+    81          7
+    82          4
+    91          1
+    92          2
+    93          7
+    94          2
+    95          5
+   104          1
+   105          4
+   106          2
+   107          4
+   117          1
+   119          6
+   120        152
+   121          9
+   122        147
+   123          5

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 90710
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Jacobson, LBC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=5,11-Dihydro-9-(dimethyl-t-butyl)siloxymethyl-11-[(4-methyl-
+##MOLFORM=C26H37N5O3Si
+##CAS REGISTRY NO=133727-58-9
+##MP= -300
+##BP= -300
+##MW= 495
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41         34
+    42         94
+    43         69
+    49         24
+    54          9
+    55          9
+    56         67
+    57         41
+    58         19
+    69          9
+    70        370
+    71         76
+    73         16
+    75         33
+    82          8
+    83         20
+    84         57
+    97         11
+    98         51
+    99         52
+   101          9
+   111         50
+   112         11
+   113        999
+   114         81
+   141         30
+   194         32
+   195         28
+   196         44
+   224          8
+   268         26
+   282         74
+   283         19
+   297          9
+   298        115
+   299         21
+   338        175
+   339         46
+   355         90
+   356         44
+   368         39
+   396         44
+   397         28
+   425         30
+   438        283
+   439        176
+   440         53
+   452         70
+   453         34
+   480         64
+   495        538
+   496        188
+   497         56

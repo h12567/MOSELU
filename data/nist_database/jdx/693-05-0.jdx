@@ -1,0 +1,45 @@
+##TITLE=Library Entry 15102
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-(methylamino)-
+##MOLFORM=C4H8N2
+##CAS REGISTRY NO=693-05-0
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         22
+    18         45
+    25          4
+    26         76
+    27         57
+    28        215
+    29         25
+    30         79
+    31         27
+    32         14
+    37          1
+    38         19
+    39         19
+    40         47
+    41         38
+    42        210
+    43         61
+    44        999
+    45         29
+    50         15
+    51         67
+    52        157
+    53        154
+    54         73
+    55         18
+    56         18
+    67         18
+    81          6
+    83         14
+    84         46

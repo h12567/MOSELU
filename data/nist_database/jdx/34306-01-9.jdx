@@ -1,0 +1,38 @@
+##TITLE=Library Entry 81412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=Diethyl(4-methylbenzyl)amine
+##MOLFORM=C12H19N
+##CAS REGISTRY NO=34306-01-9
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         12
+    42         14
+    51         13
+    56         19
+    58         15
+    65         15
+    72         25
+    73         12
+    77         77
+    79         56
+    81         15
+    86         83
+    88          9
+    91         19
+   103         40
+   104          6
+   105        999
+   106         74
+   162        407
+   163         40
+   176         22
+   177        151
+   178          9

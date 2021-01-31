@@ -1,0 +1,49 @@
+##TITLE=Library Entry 49225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Silane, fluoro-trimethoxy-
+##MOLFORM=C3H9FO3Si
+##CAS REGISTRY NO=39486-13-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    30         27
+    31         53
+    45         67
+    47        175
+    49        159
+    51         46
+    59         45
+    61         14
+    64         60
+    65        215
+    69         31
+    77         73
+    78        221
+    79        999
+    80         73
+    81         51
+    90         21
+    91         23
+    93         12
+    94         18
+    95        270
+    96         17
+   108         44
+   109        853
+   110         70
+   111         35
+   121         71
+   125        374
+   126         26
+   127         16
+   139        231
+   140        429
+   141         57
+   142         18

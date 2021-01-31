@@ -1,0 +1,36 @@
+##TITLE=Library Entry 204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Ethenamine, N-methylene-
+##MOLFORM=C3H5N
+##CAS REGISTRY NO=38239-27-9
+##MP= -300
+##BP= -300
+##MW= 55
+##$RETENTION INDEX=727
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    24          5
+    25         26
+    26        177
+    27        259
+    28        999
+    29         91
+    36          9
+    37         24
+    38         30
+    39         43
+    41         59
+    42         36
+    50         10
+    51         60
+    52         91
+    53         28
+    54        418
+    55        626
+    56         28
+    57          6

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 89410
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 5-methyl-2-(1-methylethyl)-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=10458-14-7
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1166
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    26          7
+    27        172
+    28         39
+    29        145
+    38          8
+    39        198
+    40         43
+    41        535
+    42        130
+    43        255
+    44         10
+    50          6
+    51         20
+    52         11
+    53         80
+    54         30
+    55        498
+    56        313
+    57         82
+    58         27
+    59          6
+    63          6
+    65         17
+    66          8
+    67         78
+    68         55
+    69        640
+    70        324
+    71         77
+    72         10
+    77         19
+    79         33
+    80         10
+    81         76
+    82         30
+    83        230
+    84        152
+    85         24
+    86          7
+    91         13
+    93         36
+    94         24
+    95        187
+    96         28
+    97        255
+    98        114
+    99         15
+   107         12
+   109         29
+   110         84
+   111        261
+   112        999
+   113         86
+   114          6
+   121         48
+   123         14
+   125         71
+   126          8
+   136          8
+   138          6
+   139        411
+   140         42
+   153          7
+   154        290
+   155         36

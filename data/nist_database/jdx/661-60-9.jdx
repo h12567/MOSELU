@@ -1,0 +1,43 @@
+##TITLE=Library Entry 50759
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl methylphosphoramidofluoridate
+##MOLFORM=C3H9FNOP
+##CAS REGISTRY NO=661-60-9
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    50        111
+    51         92
+    56         31
+    58        211
+    60         56
+    63         82
+    65        181
+    66         64
+    67        573
+    76         31
+    78         69
+    80         16
+    81        999
+    82        234
+    83        220
+    90         50
+    92         13
+    93         19
+    94        198
+   106         88
+   108         31
+   110        504
+   111         14
+   123         23
+   124        336
+   125        707
+   126        622
+   127         26

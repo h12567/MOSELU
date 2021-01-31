@@ -1,0 +1,33 @@
+##TITLE=Library Entry 96848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=CF3C.$.CC.$.CCF3
+##MOLFORM=C6F6
+##CAS REGISTRY NO=10524-09-1
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    31        851
+    36         29
+    48         69
+    50         80
+    55         60
+    60         19
+    67         68
+    69        459
+    74         78
+    79        345
+    86        101
+    93        130
+    98        399
+   117        999
+   136        240
+   148        129
+   167        776
+   186        628

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 1415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Diphenyl ether, 2,4,6,4'-tetranitro-
+##MOLFORM=C12H6N4O9
+##CAS REGISTRY NO=10242-31-6
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    30        999
+    46         40
+    50        220
+    51        100
+    52         80
+    53        110
+    62        200
+    63        260
+    64        290
+    66        180
+    69        100
+    74        170
+    75        300
+    76        200
+    80        360
+    86         60
+    87         90
+    88         90
+    92        180
+   120         40
+   122         80
+   126        120
+   137        200
+   138        350
+   139         90
+   165         80
+   166        130
+   167        140
+   174         40
+   212        650
+   213         80
+   225         10
+   241         10
+   297         30
+   304         10
+   317         10
+   333         10
+   334         10
+   350        430
+   351         60

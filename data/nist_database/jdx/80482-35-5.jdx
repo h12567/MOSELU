@@ -1,0 +1,53 @@
+##TITLE=Library Entry 21419
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 5-chloropentanoate
+##MOLFORM=C6H10Cl2O2
+##CAS REGISTRY NO=80482-35-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1226
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    36         70
+    38         29
+    39        137
+    41        148
+    42        127
+    43        109
+    49        238
+    51         79
+    53         79
+    54        120
+    55        999
+    56         99
+    57         91
+    62         19
+    63         59
+    64          9
+    65         20
+    69         20
+    71         19
+    72         79
+    77          9
+    82        118
+    83        289
+    84         19
+    90        138
+    91        297
+    92         49
+    93         99
+    99         19
+   107          9
+   108        110
+   110         39
+   118        387
+   119        789
+   120        130
+   121        268
+   148          9
+   149         39

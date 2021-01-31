@@ -1,0 +1,67 @@
+##TITLE=Library Entry 48791
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclohexa-1,4-dienecarboxylic acid
+##MOLFORM=C7H8O2
+##CAS REGISTRY NO=4315-35-9
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    33        113
+    34          7
+    37         27
+    38         64
+    39        193
+    40        160
+    41         38
+    42          9
+    43         14
+    44         28
+    45         72
+    47          3
+    49         14
+    50        132
+    51        261
+    52        108
+    53         95
+    54         20
+    55         20
+    57          4
+    61          2
+    62          9
+    63         22
+    64          3
+    65         21
+    66         15
+    67         31
+    68          4
+    69          4
+    70          2
+    73          8
+    74         27
+    75         17
+    77        828
+    78        238
+    79        999
+    80         80
+    81         35
+    82          2
+    94          3
+    95         25
+    96         14
+    97          2
+   105        163
+   106         14
+   107         11
+   108          8
+   122        127
+   123        468
+   124        352
+   125         24
+   126          5

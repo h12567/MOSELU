@@ -1,0 +1,44 @@
+##TITLE=Library Entry 80016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Isoxazole, 3,4,5-triphenyl-
+##MOLFORM=C21H15NO
+##CAS REGISTRY NO=22020-72-0
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    50         20
+    51        100
+    52         10
+    64         10
+    65         50
+    66         10
+    67         10
+    74         20
+    75         30
+    76         40
+    77        530
+    78         40
+    89        180
+    90         30
+   105        999
+   106         80
+   139         20
+   163         20
+   164         30
+   165        200
+   166         80
+   167         10
+   180        220
+   181         30
+   220         20
+   269         30
+   296         10
+   297        400
+   298         80

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 22132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 4-(dimethylamino)-4-(methylamino)-
+##MOLFORM=C7H14N2O
+##CAS REGISTRY NO=40347-20-4
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        140
+    40         90
+    41        280
+    42        629
+    43        509
+    44        470
+    45         90
+    46        190
+    54        130
+    55        190
+    56        999
+    57        100
+    58        130
+    68         90
+    69         60
+    70        220
+    71        100
+    72        140
+    82        599
+    84        220
+    98        549
+    99         90
+   125        210
+   127        220
+   142        420

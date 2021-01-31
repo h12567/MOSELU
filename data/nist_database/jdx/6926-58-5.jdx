@@ -1,0 +1,46 @@
+##TITLE=Library Entry 99027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Hydrazinecarbothioimidate, N,N-dimethyl-S-ethyl-
+##MOLFORM=C3H9N3S
+##CAS REGISTRY NO=6926-58-5
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         39
+    29         43
+    30         63
+    31         49
+    42        324
+    43        130
+    44        339
+    45         83
+    46         41
+    47         89
+    56        102
+    57         21
+    59         47
+    60         66
+    61         40
+    69         54
+    71         66
+    72         81
+    73        215
+    74        140
+    75         56
+    86         12
+    87         12
+    88        984
+    89         83
+    90         69
+   102         45
+   104          8
+   119        999
+   120        111
+   121         60

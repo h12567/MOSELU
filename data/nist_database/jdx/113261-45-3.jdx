@@ -1,0 +1,39 @@
+##TITLE=Library Entry 58842
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.A. Rodios, Lab. Org. Chem., Univ. Thessaloniki, Thess
+aloniki, Greece
+##NAMES=HP
+##CAS NAME=1H-1,2,3-Triazol-1-amine, 4-(4-chlorophenyl)-N-(phenylmethylene)-
+##MOLFORM=C15H11ClN4
+##CAS REGISTRY NO=113261-45-3
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    75        170
+    77        120
+    89        250
+    90        999
+   101        160
+   103         70
+   104         20
+   105         50
+   106         40
+   118         30
+   136        420
+   138        140
+   150         17
+   151          5
+   152          7
+   153          4
+   191         20
+   227         44
+   229         14
+   254          7
+   256          2
+   282         11
+   284          3

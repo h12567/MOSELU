@@ -1,0 +1,84 @@
+##TITLE=Library Entry 24862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Heptyl isobutyl carbonate
+##MOLFORM=C12H24O3
+##CAS REGISTRY NO=959068-08-7
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          2
+    27         35
+    28         13
+    29         80
+    30          4
+    31          7
+    39         42
+    40         11
+    41        228
+    42         61
+    43        141
+    44          8
+    45          4
+    50          1
+    51          2
+    52          1
+    53         11
+    54         15
+    55        162
+    56        279
+    57        999
+    58         49
+    59         11
+    63         94
+    64          1
+    65          2
+    66          1
+    67         10
+    68         33
+    69        109
+    70        172
+    71         18
+    72          2
+    73         30
+    74          2
+    76          7
+    77          6
+    79          1
+    81          7
+    82          3
+    83         31
+    84          3
+    85          1
+    86          1
+    87          1
+    89          5
+    90          2
+    95          1
+    96          3
+    97         40
+    98        110
+    99         85
+   100          6
+   101          1
+   103         32
+   104          2
+   111          1
+   115          2
+   116          1
+   117          8
+   118         31
+   119         50
+   120          3
+   127          1
+   131          1
+   143          2
+   159          1
+   161          5

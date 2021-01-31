@@ -1,0 +1,27 @@
+##TITLE=Library Entry 55255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. PYYSALO, FOOD RES. LAB., TECH. RES. CENT., ESPOO, FI
+N
+##NAMES=HP
+##CAS NAME=Phenylacetaldehyde N-methyl-N-formylhydrazone
+##MOLFORM=C10H12N2O
+##CAS REGISTRY NO=61748-17-2
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43        180
+    51        200
+    65        200
+    77        160
+    85        999
+    91        400
+   103        100
+   117         80
+   142         60
+   147         50
+   176         30

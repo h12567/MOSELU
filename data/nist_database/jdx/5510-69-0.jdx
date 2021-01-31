@@ -1,0 +1,80 @@
+##TITLE=Library Entry 30069
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2,3-Diazabicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid, dimethyl
+ ester
+##MOLFORM=C9H12N2O4
+##CAS REGISTRY NO=5510-69-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    38         16
+    39         61
+    40         28
+    41         27
+    42          8
+    43         21
+    44         10
+    45          4
+    50         18
+    51         32
+    52         62
+    53         48
+    54         16
+    55         19
+    56         22
+    59        999
+    60         17
+    61          5
+    62         18
+    63         27
+    64         58
+    65        386
+    66        381
+    67         42
+    68          9
+    69          2
+    70          8
+    74          2
+    77         38
+    78         50
+    79         68
+    80         43
+    81         39
+    82          3
+    83          2
+    85          2
+    89          3
+    91          2
+    92         44
+    93         60
+    94         44
+    95          3
+    96          4
+    98          4
+   106          2
+   107         11
+   109         12
+   116          6
+   120          4
+   121         41
+   122         27
+   125          2
+   136          8
+   137         13
+   138         25
+   148          9
+   152         13
+   153         12
+   156          2
+   179          3
+   181          5
+   185          3
+   210          6
+   212         97

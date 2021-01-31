@@ -1,0 +1,73 @@
+##TITLE=Library Entry 109053
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-(5-methyl-2-thienyl)-
+##MOLFORM=C8H10OS
+##CAS REGISTRY NO=59303-13-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1280
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    24          1
+    27         40
+    28         29
+    29         26
+    30          5
+    31         14
+    32          7
+    34          8
+    35          1
+    36          2
+    38          4
+    39         20
+    40          3
+    41          2
+    42          1
+    43          4
+    44          5
+    45         49
+    47          3
+    50          3
+    51          7
+    52          1
+    53        133
+    54          5
+    55          5
+    56          2
+    57         12
+    58          1
+    59         11
+    60          2
+    61          1
+    62          1
+    63          4
+    69         15
+    70          8
+    71          9
+    75          1
+    77          1
+    79          1
+    91          2
+    93          2
+    95          5
+    96         11
+    97         41
+    98          3
+    99          3
+   105          1
+   111          3
+   118          2
+   123          2
+   125        999
+   126         45
+   127         28
+   151          1
+   152          2
+   154        129
+   155         13
+   156         11

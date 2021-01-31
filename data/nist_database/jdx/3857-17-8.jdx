@@ -1,0 +1,54 @@
+##TITLE=Library Entry 54589
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Propyltetrahydropyran
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=3857-17-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=911
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         81
+    28         13
+    29         91
+    30          4
+    31         16
+    39        105
+    40         30
+    41        273
+    42         50
+    43        222
+    44         68
+    45         11
+    50          4
+    51          8
+    52          4
+    53         28
+    54         27
+    55        176
+    56         85
+    57        195
+    58          9
+    65          8
+    67        193
+    68         17
+    69         11
+    70         13
+    71         53
+    72         13
+    73          5
+    77          3
+    79          4
+    81          6
+    82          4
+    85        999
+    86         53
+    87          4
+   127          8
+   128         27

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 87455
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(8)2823(1978); T. YATSUNAMI AND S. IWASAKI
+##NAMES=HP
+##CAS NAME=Cyclobutanol, 1-(1H-imidazol-4-yl)-2-tetradecyl-
+##MOLFORM=C21H38N2O
+##CAS REGISTRY NO=69393-21-1
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    55        120
+    69         90
+    81        120
+    95        230
+   110        999
+   123        160
+   133        690
+   147        350
+   151         20
+   161        150
+   165         20
+   175         70
+   179         20
+   189         70
+   193         10
+   203         60
+   207         20
+   217         40
+   221         10
+   231         40
+   235         10
+   245         30
+   249         10
+   259         30
+   263         10
+   273         40
+   278         40
+   287         40
+   291          5
+   301         60
+   306         40
+   316        240
+   334         40

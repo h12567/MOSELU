@@ -1,0 +1,61 @@
+##TITLE=Library Entry 48604
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=cis-Bicyclo[4.3.0]-3-nonen-8-one
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=25886-63-9
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        340
+    29         50
+    38         50
+    39        550
+    40         90
+    41        330
+    42         40
+    43         40
+    50         80
+    51        190
+    52         90
+    53        220
+    54        850
+    55         90
+    57         20
+    58        350
+    59         10
+    63         60
+    65        140
+    66        210
+    67        340
+    68         70
+    69         20
+    77        310
+    78        130
+    79        999
+    80        190
+    81         70
+    82        280
+    83         20
+    91        230
+    92        120
+    93        400
+    94        230
+    95         50
+   107         30
+   108        420
+   109         40
+   117         20
+   118         30
+   119         10
+   121         20
+   136        610
+   137         60

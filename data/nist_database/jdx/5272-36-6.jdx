@@ -1,0 +1,65 @@
+##TITLE=Library Entry 55412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=2-Propyn-1-ol, 3-(trimethylsilyl)-
+##MOLFORM=C6H12OSi
+##CAS REGISTRY NO=5272-36-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15         10
+    27         13
+    28         21
+    29         27
+    31          7
+    38          2
+    39         46
+    41         34
+    42         22
+    43         64
+    44          2
+    45        162
+    46          8
+    47         36
+    50          8
+    51         10
+    52          7
+    53        115
+    54         11
+    55         43
+    57          2
+    58         17
+    60         29
+    61        309
+    62         14
+    65         36
+    66         57
+    67         35
+    68          9
+    69         57
+    75        199
+    76         13
+    77         20
+    79          3
+    82          4
+    83          2
+    84          3
+    85        999
+    86         73
+    87        196
+    88         16
+    89          8
+    93         19
+    95          4
+    96         17
+    98         68
+    99         16
+   113        582
+   114         51
+   115         11

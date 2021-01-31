@@ -1,0 +1,60 @@
+##TITLE=Library Entry 3054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 19
+##NAMES=HP
+##CAS NAME=Propane, 1-(ethenyloxy)-2-methyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=109-53-5
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=634
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14         11
+    15         55
+    18          2
+    26         34
+    27        245
+    28         47
+    29        570
+    30         12
+    31        113
+    32          7
+    37          8
+    38         20
+    39        230
+    40         32
+    41        999
+    42         59
+    43         91
+    44        184
+    45         47
+    50          9
+    51         10
+    52          3
+    53         21
+    54          6
+    55        121
+    56        697
+    57        996
+    58         48
+    59         44
+    60          6
+    63          1
+    65          4
+    66          3
+    67         12
+    69          4
+    71          6
+    72          6
+    73         11
+    74          3
+    81          7
+    82          4
+    83          5
+    85         12
+   100        208
+   101         16

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 66530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(6)485(1975); W. J. STEC
+##NAMES=HP
+##CAS NAME=Diphosphorous acid, tetraethyl ester
+##MOLFORM=C8H20O5P2
+##CAS REGISTRY NO=21646-99-1
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43         38
+    45         51
+    47         89
+    49         64
+    81         76
+    82         89
+    93        999
+   109         25
+   110         38
+   111        153
+   121        871
+   128         25
+   129         25
+   138         25
+   139         76
+   145         38
+   155         25
+   157         51
+   185        358
+   213         51
+   214        333
+   230         25
+   258         12

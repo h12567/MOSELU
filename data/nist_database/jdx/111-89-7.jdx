@@ -1,0 +1,56 @@
+##TITLE=Library Entry 17208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER UNIV. OF HAMBURG, W.GERMANY
+##NAMES=HP
+##CAS NAME=Pentane, 1,5-dimethoxy-
+##MOLFORM=C7H16O2
+##CAS REGISTRY NO=111-89-7
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    39         31
+    41        111
+    42         48
+    43         31
+    45        999
+    46         26
+    47          6
+    52          2
+    53         15
+    54         10
+    55         60
+    56         12
+    57         26
+    58        180
+    59         21
+    60          2
+    65          6
+    66          8
+    67         83
+    68        233
+    69         63
+    70         22
+    71        652
+    72         56
+    73          5
+    75          4
+    81          2
+    82          2
+    83          3
+    84          1
+    85         50
+    86          2
+    87         29
+    88          2
+    97          3
+    98          1
+    99         11
+   100        317
+   101         23
+   102          4
+   117          9

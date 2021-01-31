@@ -1,0 +1,55 @@
+##TITLE=Library Entry 87385
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclopentanecarbonitrile, 1-hydroxy-
+##MOLFORM=C6H9NO
+##CAS REGISTRY NO=5117-85-1
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        242
+    28         58
+    29         14
+    30         18
+    32          7
+    38         11
+    39         95
+    40         20
+    41        110
+    42        182
+    43         13
+    44         88
+    45          5
+    51         12
+    52         12
+    53         40
+    55         74
+    56         24
+    63          6
+    65         37
+    66         28
+    67         82
+    68        149
+    69         26
+    70         66
+    79          7
+    80         10
+    81         31
+    82         99
+    83          7
+    84          8
+    93         10
+    94         89
+    95         37
+    96         46
+   108         43
+   110        999
+   111        411
+   112         26

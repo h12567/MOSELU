@@ -1,0 +1,88 @@
+##TITLE=Library Entry 44692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Methyl 4-(methylthio)butyrate
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=53053-51-3
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=1098
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    14         11
+    15        185
+    16          5
+    18          4
+    20          1
+    26         16
+    27        149
+    28         40
+    29         82
+    30         11
+    31         29
+    32          2
+    33          5
+    35         47
+    37          8
+    38         10
+    39        103
+    40         17
+    41        243
+    42         76
+    43        145
+    44         13
+    45        144
+    46         70
+    47         99
+    48         29
+    49         27
+    50          4
+    51          4
+    53          8
+    54          3
+    55         96
+    56          9
+    57          9
+    58         24
+    59        485
+    60         31
+    61        461
+    62        171
+    63         30
+    64         11
+    68         13
+    69        171
+    70         15
+    71         28
+    72         16
+    73         74
+    74        999
+    75        567
+    76         52
+    77         29
+    78          3
+    85          9
+    87        243
+    88         41
+    89         94
+    90          8
+    91          9
+    99          8
+   100         10
+   101        270
+   102         19
+   103          7
+   116         82
+   117        280
+   118         21
+   119         14
+   133          5
+   145          3
+   148        475
+   149         36
+   150         25
+   151          4

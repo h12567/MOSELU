@@ -1,0 +1,50 @@
+##TITLE=Library Entry 60788
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. Dziwinski, Inst. Heavy Org. Synth. Blachownia, Kedzi
+erzyn-Kozle, Poland
+##NAMES=HP
+##CAS NAME=Butanedioic acid, nonyl phenylmethyl ester
+##MOLFORM=C20H30O4
+##CAS REGISTRY NO=119450-17-8
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=2448
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        120
+    41        500
+    42         90
+    43        560
+    51         90
+    55        420
+    56        500
+    57        590
+    63         40
+    69        250
+    70        130
+    71        340
+    77        130
+    79        130
+    83        130
+    85        210
+    89         40
+    90         90
+    91        999
+    92        130
+   101        630
+   102         40
+   107        380
+   108        130
+   119        120
+   127         90
+   162         50
+   190         20
+   191         10
+   200         10
+   227         30
+   228         10
+   306         10
+   334         10

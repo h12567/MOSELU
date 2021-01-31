@@ -1,0 +1,48 @@
+##TITLE=Library Entry 40017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=1-Octene, 2-methoxy-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=42367-31-7
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        130
+    40         30
+    41        271
+    42        360
+    43        180
+    44         10
+    45         34
+    53         40
+    54         20
+    55        210
+    56         30
+    57         40
+    58         10
+    59         40
+    65         10
+    67         40
+    68         15
+    69         30
+    70          3
+    71         50
+    72        999
+    73         70
+    74          5
+    81         18
+    85        630
+    86         50
+    95         15
+   109         30
+   110         10
+   113         10
+   127         10
+   142         40

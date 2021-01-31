@@ -1,0 +1,46 @@
+##TITLE=Library Entry 14682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.BRUNOW CHEM. INST., UNIVERSITY, HELSINGFORS, FINLAND
+##NAMES=HP
+##CAS NAME=Benzenepropanol, 4-(acetyloxy)-3-methoxy-.beta.-(2-methoxyphenoxy
+)-.gamma.-(2-methoxy-4-propylphenoxy)-, acetate
+##MOLFORM=C31H36O9
+##CAS REGISTRY NO=77508-84-0
+##MP= -300
+##BP= -300
+##MW= 552
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    43        999
+    77        115
+    84         82
+    91        107
+    95        124
+   109         82
+   119         99
+   121        190
+   123        570
+   124        140
+   131         82
+   137        570
+   151         74
+   161        297
+   162        107
+   165        181
+   166        272
+   179        322
+   203        297
+   204        140
+   221        107
+   222        165
+   253        181
+   284        140
+   285        512
+   301         74
+   327        826
+   344         49
+   387        652
+   552         28

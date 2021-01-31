@@ -1,0 +1,41 @@
+##TITLE=Library Entry 21094
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanemethanol, 4-methyl-, cis-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=3937-48-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    15         20
+    26         17
+    27        167
+    29        156
+    31         74
+    39        140
+    40         32
+    41        248
+    42         33
+    43         93
+    51         13
+    53         57
+    54         58
+    55        999
+    56         65
+    57         35
+    67        153
+    68        269
+    69         86
+    79         14
+    81        201
+    82        119
+    95        208
+    96         42
+    97        280
+   110         69

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 54864
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2-Hexene, 2-methoxy-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=61142-45-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        150
+    40         16
+    41        220
+    42         90
+    43        630
+    44         28
+    45         87
+    50         10
+    51         20
+    52         11
+    53         70
+    54         21
+    55        820
+    56         70
+    57         90
+    58         11
+    59         20
+    67         36
+    68          6
+    69         10
+    70         18
+    71         12
+    72        100
+    73          6
+    79         15
+    81         20
+    83         15
+    85        999
+    86         60
+    87          7
+    97          7
+    99         18
+   100         12
+   114        154
+   115         16

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 68620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Furancarboxylic acid, methyl ester
+##MOLFORM=C6H6O3
+##CAS REGISTRY NO=13129-23-2
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=934
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         13
+    25          2
+    26          4
+    27          7
+    28          5
+    29         45
+    30          4
+    31          5
+    36          5
+    37         49
+    38         98
+    39        248
+    40         14
+    41          7
+    42          4
+    43          1
+    44          1
+    45          2
+    49          4
+    50          6
+    51          4
+    52          3
+    53         22
+    54          4
+    55          5
+    59         15
+    65          4
+    66         21
+    67         75
+    68         13
+    69         16
+    70          4
+    80          2
+    81          5
+    82          2
+    83          1
+    93          1
+    95        999
+    96         69
+    97         19
+    98         35
+    99          2
+   108          6
+   109          1
+   110          1
+   126        315
+   127         21
+   128          3

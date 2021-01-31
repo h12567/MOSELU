@@ -1,0 +1,57 @@
+##TITLE=Library Entry 64976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methoxycarbonyl-diisopropylphosphine
+##MOLFORM=C8H17O2P
+##CAS REGISTRY NO=51049-60-6
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    40         99
+    41        532
+    42         90
+    43        874
+    44         90
+    45        121
+    46        167
+    47        158
+    49         40
+    50        128
+    57         30
+    58         29
+    59        549
+    60         28
+    61        139
+    62         29
+    63        109
+    64         40
+    69        127
+    70         30
+    71        229
+    73        239
+    74        445
+    75        592
+    76        127
+    77         70
+    78         20
+    79        299
+    80         30
+    92        999
+    93         58
+   102        246
+   103         69
+   117        537
+   118        494
+   119        108
+   134        692
+   135         98
+   145         49
+   161          9
+   176        874
+   177         98

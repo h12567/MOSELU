@@ -1,0 +1,66 @@
+##TITLE=Library Entry 24392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Tetracontane, 3,5,24-trimethyl-
+##MOLFORM=C43H88
+##CAS REGISTRY NO=55162-61-3
+##MP= -300
+##BP= -300
+##MW= 604
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        250
+    42         70
+    43        540
+    44         20
+    53         20
+    54         30
+    55        310
+    56        230
+    57        999
+    58         50
+    67         60
+    68         40
+    69        250
+    70        200
+    71        490
+    72         30
+    79         10
+    81         60
+    82         40
+    83        190
+    84         50
+    85        280
+    86         20
+    91         10
+    93         10
+    95         50
+    96         30
+    97        170
+    98        160
+    99        220
+   100         20
+   109         30
+   110         20
+   111         70
+   112         20
+   113         40
+   123         10
+   125         30
+   127         20
+   137         10
+   139         10
+   141         20
+   155         10
+   169         10
+   206         10
+   238         20
+   239         10
+   505         20
+   547         10
+   548         10

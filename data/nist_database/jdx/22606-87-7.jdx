@@ -1,0 +1,44 @@
+##TITLE=Library Entry 28330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Azetidine, 2,2,3,3-tetramethyl-
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=22606-87-7
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    30         30
+    31         50
+    32         40
+    33         60
+    39         80
+    41        160
+    42        160
+    43         10
+    53         50
+    55        100
+    56        230
+    57        120
+    58        999
+    59         50
+    67         50
+    69        740
+    70        180
+    71        190
+    72         20
+    80         40
+    81         30
+    82         40
+    83         40
+    84        430
+    85         40
+    98        500
+    99         70
+   112         50
+   113         80

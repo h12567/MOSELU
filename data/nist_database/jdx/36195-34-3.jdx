@@ -1,0 +1,24 @@
+##TITLE=Library Entry 35365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.P.NAVEAU UNIVERSITY OF LOUVAIN, HEVERLEE, BELGIUM
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2-methyl-, 4-formyl-2-methoxyphenyl ester
+##MOLFORM=C12H12O4
+##CAS REGISTRY NO=36195-34-3
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    69        999
+    79        140
+    95         80
+   109         30
+   119         20
+   121         20
+   151         70
+   220         70
+   221         10

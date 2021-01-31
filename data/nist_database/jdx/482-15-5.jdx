@@ -1,0 +1,86 @@
+##TITLE=Library Entry 40352
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AAFS Toxicology Section MS DB Committee, U. Alberta, Ca
+nada
+##NAMES=HP
+##CAS NAME=Isothipendyl
+##MOLFORM=C16H19N3S
+##CAS REGISTRY NO=482-15-5
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=2266
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    42         25
+    43         36
+    44         48
+    55         34
+    56         32
+    57         36
+    58         52
+    59         32
+    65         18
+    67         21
+    69         56
+    70         56
+    71         74
+    72        999
+    73         65
+    76         19
+    77         41
+    79         18
+    81         27
+    82         27
+    83         41
+    85         30
+    86         48
+    91         25
+    92         18
+    93         19
+    94         28
+    96         23
+    97         32
+    98         21
+    99         21
+   101         19
+   103         21
+   109         23
+   111         27
+   113         21
+   115         23
+   117         18
+   119         37
+   121         23
+   127         18
+   128         21
+   131         19
+   133         32
+   135         21
+   138         18
+   140         27
+   141         19
+   152         18
+   154         18
+   155         32
+   166         25
+   167         54
+   168         25
+   172         23
+   179         21
+   181         79
+   198         43
+   199        157
+   200        115
+   201         27
+   207         18
+   213         75
+   214        142
+   215         32
+   225         36
+   239         21
+   241         18
+   285        106
+   286         19

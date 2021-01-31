@@ -1,0 +1,61 @@
+##TITLE=Library Entry 2080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 120, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=3-Hexenoic acid, ethyl ester, (E)-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=26553-46-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        340
+    29        970
+    30         30
+    31         40
+    38         30
+    39        240
+    40         50
+    41        999
+    42        110
+    43         80
+    45         40
+    50         20
+    51         30
+    52         20
+    53        100
+    54         60
+    55        160
+    56         40
+    57         30
+    60         80
+    61         30
+    63         10
+    65         10
+    66         10
+    67         80
+    68        290
+    69        700
+    70         70
+    71        110
+    72         10
+    73         40
+    81         30
+    82         10
+    83         10
+    85         20
+    88        100
+    95         10
+    96         50
+    97         70
+    99         20
+   113         20
+   114         20
+   142         90
+   143         10

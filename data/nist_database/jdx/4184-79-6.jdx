@@ -1,0 +1,67 @@
+##TITLE=Library Entry 98586
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=5,6-Dimethyl-1H-benzotriazole
+##MOLFORM=C8H9N3
+##CAS REGISTRY NO=4184-79-6
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         12
+    26         16
+    27         52
+    28         31
+    29         24
+    32          5
+    37         31
+    38         58
+    39        181
+    40         31
+    41         47
+    49         15
+    50        114
+    51        180
+    52        126
+    53         35
+    54          6
+    58         34
+    61         23
+    62         52
+    63        109
+    64         59
+    65        231
+    66         37
+    67          7
+    73          8
+    74         29
+    75         38
+    76         58
+    77        149
+    78         49
+    79          8
+    86          8
+    87          8
+    89         71
+    91        631
+    92        116
+    93          7
+    99          5
+   102         24
+   104        251
+   105         21
+   116         77
+   118        999
+   119        261
+   120         22
+   132        255
+   133         21
+   145          6
+   147        762
+   148         71

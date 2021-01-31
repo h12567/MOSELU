@@ -1,0 +1,43 @@
+##TITLE=Library Entry 29600
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little, Eastman Chem. Company
+##NAMES=HP
+##CAS NAME=Ethane, 1,2-diethoxy-
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=629-14-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=750
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         25
+    19         13
+    26         15
+    27        131
+    28         42
+    29        336
+    30         11
+    31        822
+    32          8
+    41         95
+    42         12
+    43        134
+    44         87
+    45        498
+    46         14
+    47         36
+    51         16
+    57          7
+    58         11
+    59        999
+    60         38
+    61         32
+    72         56
+    73        101
+    74        687
+    75         41
+   118         21
+   119         13

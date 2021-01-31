@@ -1,0 +1,24 @@
+##TITLE=Library Entry 3023
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(3)984(1978); P. DUBS AND H-P. SCHENK
+##NAMES=HP
+##CAS NAME=Propane, 2-methyl-1-nitro-
+##MOLFORM=C4H9NO2
+##CAS REGISTRY NO=625-74-1
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=775
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    39        360
+    40         60
+    41        999
+    42        110
+    43        130
+    55        140
+    56        230
+    57        760
+   103         10

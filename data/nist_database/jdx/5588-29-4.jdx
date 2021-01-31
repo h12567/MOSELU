@@ -1,0 +1,37 @@
+##TITLE=Library Entry 54953
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=3-Morpholinone, 5-methyl-6-phenyl-
+##MOLFORM=C11H13NO2
+##CAS REGISTRY NO=5588-29-4
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    42         68
+    43         58
+    44        386
+    51         56
+    57        768
+    63         31
+    65         30
+    77         80
+    85        999
+    86         51
+    89         49
+    90         59
+    91        113
+   103          9
+   105         59
+   106          9
+   107          9
+   115         20
+   117         41
+   118         19
+   119         19
+   191         10

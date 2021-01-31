@@ -1,0 +1,51 @@
+##TITLE=Library Entry 74442
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=5,5-Dimethyl-1-oxa-5-silacyclononanone-9
+##MOLFORM=C9H18O2Si
+##CAS REGISTRY NO=38109-17-0
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    58         30
+    59         50
+    60         10
+    61         30
+    70        110
+    71         10
+    72        180
+    73         10
+    75        629
+    76         60
+    77         40
+    85         30
+    88         80
+    99        120
+   100         50
+   101        999
+   102         90
+   103         40
+   115         80
+   116        220
+   117        200
+   118         20
+   127         20
+   128         20
+   129        360
+   130        100
+   131         10
+   143        120
+   144         70
+   145        170
+   146         20
+   158        140
+   159         20
+   171        120
+   172         20
+   185         10

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 23767
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Org.Mass.Spectrom.,22(5) 295(1987);R.B.Bates ET AL
+##NAMES=HP
+##CAS NAME=2,2,7,7-Tetramethyl-4,5-dimethyleneoctane
+##MOLFORM=C14H26
+##CAS REGISTRY NO=90822-63-2
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    38          1
+    39         95
+    40         17
+    41        359
+    42         14
+    43         20
+    50          1
+    51         20
+    52         17
+    53         43
+    54          4
+    55         51
+    56         10
+    57        999
+    58         39
+    63          5
+    64          3
+    65         54
+    66          5
+    67         51
+    68          5
+    69         10
+    71          2
+    77         99
+    78         15
+    79        137
+    80         13
+    81         30
+    82        178
+    83         15
+    84          4
+    89          1
+    91        163
+    92         12
+    93         59
+    94         10
+    95         20
+    96         10
+    97          2
+   103          4
+   104          2
+   105         43
+   106          4
+   107         64
+   108          6
+   109         12
+   110          1
+   115          3
+   117          1
+   119          3
+   120          3
+   122          3
+   123        188
+   124         20
+   125          1
+   134          1
+   136          4
+   137         10
+   138         93
+   139         10
+   151          2
+   179          3
+   194         17
+   195          3
+   196          1

@@ -1,0 +1,84 @@
+##TITLE=Library Entry 55653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethyl 3-isothiocyanatobutyrate
+##MOLFORM=C7H11NO2S
+##CAS REGISTRY NO=206750-29-0
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+     4          4
+    14         18
+    15         65
+    26         55
+    27        366
+    28        147
+    29        926
+    30         38
+    31         36
+    32         34
+    34          4
+    37          7
+    38         29
+    39        268
+    40         82
+    41        483
+    42        331
+    43        461
+    44         40
+    45        343
+    46         10
+    47          5
+    51          7
+    52         15
+    53          9
+    54         15
+    55         30
+    56          9
+    57         30
+    58        110
+    59        338
+    60        214
+    61         23
+    62          9
+    67          4
+    68         18
+    69        114
+    70         25
+    71         17
+    72        111
+    73        247
+    74         18
+    83          6
+    84         31
+    86        999
+    87        164
+    88         60
+    89          3
+    96         16
+    98         99
+    99        708
+   100         82
+   101         76
+   102         26
+   103          3
+   112          5
+   113          5
+   115         13
+   116         12
+   126        103
+   128        227
+   129         75
+   130         18
+   131          4
+   144         17
+   145          7
+   173        534
+   174         49
+   175         31

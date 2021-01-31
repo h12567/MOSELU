@@ -1,0 +1,76 @@
+##TITLE=Library Entry 88446
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Rullkotter ET AL, J. High Resol. Chromatogr. & Chrom
+atogr. Commun., 11, 633 (1988)
+##NAMES=HP
+##CAS NAME=3-Methyl-2-(3,7,11-trimethyldodecyl)thiophene
+##MOLFORM=C20H36S
+##CAS REGISTRY NO=102037-88-7
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=2125
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    51         12
+    52          3
+    53         41
+    55        132
+    56         44
+    57        129
+    58         12
+    59         15
+    65         12
+    66          9
+    67         44
+    68          9
+    69         44
+    70         18
+    71         53
+    73          3
+    77         38
+    78         18
+    79         15
+    81         12
+    82          3
+    83         12
+    85         29
+    86          3
+    91         18
+    92          6
+    95          6
+    97         76
+    98         71
+    99         62
+   100          6
+   101          6
+   103          3
+   105          3
+   107          3
+   109         15
+   110         41
+   111        999
+   112        229
+   113         65
+   114         24
+   121          3
+   123         21
+   124         68
+   125        132
+   126         15
+   127         12
+   134          6
+   135          6
+   137         15
+   138          3
+   139          3
+   150         24
+   195          6
+   229          3
+   244          3
+   279          3
+   293          3
+   308         97
+   309         26

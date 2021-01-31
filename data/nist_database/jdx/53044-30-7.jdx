@@ -1,0 +1,75 @@
+##TITLE=Library Entry 29288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=1-Aminopropylphosphonic acid, 2TMS derivative
+##MOLFORM=C9H26NO3PSi2
+##CAS REGISTRY NO=53044-30-7
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    41         85
+    42         25
+    43         35
+    44         45
+    45        120
+    46         10
+    47         35
+    56         45
+    57         45
+    58        999
+    59         50
+    61         30
+    63         20
+    70         15
+    72         15
+    73        290
+    74         35
+    75        110
+    76         10
+    77         40
+    78         10
+    91         10
+   103         10
+   105         10
+   107         10
+   115         15
+   117         10
+   119         15
+   121         50
+   130         15
+   131         15
+   132         10
+   133         90
+   134         15
+   135        150
+   136         20
+   137         15
+   147         75
+   148         15
+   149         30
+   151         15
+   181         10
+   195        130
+   196         20
+   197         15
+   209         10
+   210         10
+   211        370
+   212         60
+   213         30
+   225         15
+   226         90
+   227         45
+   228         15
+   241         10
+   254         21
+   255          6
+   268         17
+   283         21

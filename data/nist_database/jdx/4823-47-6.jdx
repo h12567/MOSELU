@@ -1,0 +1,70 @@
+##TITLE=Library Entry 18880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2-bromoethyl ester
+##MOLFORM=C5H7BrO2
+##CAS REGISTRY NO=4823-47-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          5
+    24          1
+    25          6
+    26         54
+    27        218
+    28         29
+    29         21
+    30          5
+    31          8
+    37          1
+    38          1
+    39          3
+    40          1
+    41          4
+    42         10
+    43         19
+    44          6
+    45          6
+    52          1
+    53         15
+    54         12
+    55        999
+    56         34
+    57          4
+    69          1
+    70          3
+    71          8
+    72          1
+    73         18
+    74          1
+    79          7
+    80          2
+    81          9
+    82          3
+    85         51
+    86          2
+    91          2
+    92          2
+    93         19
+    94          7
+    95         17
+    96          5
+    97          1
+    98          1
+    99        160
+   100          9
+   101          1
+   104          1
+   105          3
+   106        184
+   107         50
+   108        178
+   109         46
+   110          1

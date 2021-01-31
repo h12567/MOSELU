@@ -1,0 +1,35 @@
+##TITLE=Library Entry 48784
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,5-Cyclohexadiene-1,2-diol, 3-chloro-6-methyl-
+##MOLFORM=C7H9ClO2
+##CAS REGISTRY NO=19337-58-7
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    77        888
+    78        377
+    79        999
+    80        133
+    81        244
+    89        111
+    95        355
+    96        177
+    97        155
+   107        577
+   108        133
+   114        577
+   116        177
+   125        200
+   141        111
+   142        422
+   143        155
+   144        155
+   160        311
+   162        111

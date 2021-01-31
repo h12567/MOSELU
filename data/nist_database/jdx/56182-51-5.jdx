@@ -1,0 +1,33 @@
+##TITLE=Library Entry 82560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Propyl-1,3-benzodioxane
+##MOLFORM=C11H14O2
+##CAS REGISTRY NO=56182-51-5
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    50         39
+    51         89
+    52         91
+    53         29
+    55        121
+    71         99
+    72         49
+    77        138
+    78        745
+    79          9
+    98         50
+   106        999
+   107        389
+   121         20
+   126         49
+   135         79
+   178        330
+   179         49

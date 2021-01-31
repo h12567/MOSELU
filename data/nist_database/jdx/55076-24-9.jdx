@@ -1,0 +1,50 @@
+##TITLE=Library Entry 100104
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(10)1017(1974); SELVA
+##NAMES=HP
+##CAS NAME=1,4,2-Dioxazole, 5-(4-chlorophenyl)-3-phenyl-
+##MOLFORM=C14H10ClNO2
+##CAS REGISTRY NO=55076-24-9
+##MP= -300
+##BP= -300
+##MW= 259
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    38         20
+    39         50
+    41         20
+    50         70
+    51        110
+    52         20
+    62         20
+    63         70
+    64        120
+    65         30
+    74         30
+    75         80
+    76         60
+    77        170
+    78         10
+    89         50
+    90         10
+    91        220
+   103         50
+   104         10
+   105        340
+   106         20
+   111        100
+   112         20
+   113         30
+   119        999
+   120        120
+   139        180
+   140         50
+   141         60
+   142         10
+   259        230
+   260         30
+   261         80
+   262         10

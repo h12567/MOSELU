@@ -1,0 +1,40 @@
+##TITLE=Library Entry 9304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Trifluoroacetyl-diisopropylphosphine
+##MOLFORM=C8H14F3OP
+##CAS REGISTRY NO=38079-77-5
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39         29
+    41        317
+    42         49
+    43        999
+    44         80
+    45         50
+    47         70
+    48         59
+    55         19
+    57         30
+    59         29
+    61         40
+    69         88
+    71         29
+    73         69
+    74         49
+    75        339
+    76         29
+   117        300
+   118         20
+   130         30
+   145         29
+   152         20
+   186          9
+   214        298

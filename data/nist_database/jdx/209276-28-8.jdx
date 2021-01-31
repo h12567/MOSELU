@@ -1,0 +1,46 @@
+##TITLE=Library Entry 31050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-(2-Hydroxyethylthio)propionic acid
+##MOLFORM=C5H10O3S
+##CAS REGISTRY NO=209276-28-8
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26         45
+    27         92
+    29         49
+    31         29
+    32         87
+    41         66
+    44         58
+    45        289
+    46         68
+    47         45
+    55         61
+    56         92
+    58         89
+    59        364
+    60        999
+    61        158
+    73         31
+    74        160
+    75         31
+    76         16
+    77         11
+    85         17
+    87         41
+    88         26
+    89         26
+   104         14
+   105         14
+   132        515
+   133         41
+   134         30
+   150         11

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 7584
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SELVA, C.N.R., IST. CHIM. POLITEC., MILAN, IT
+##NAMES=HP
+##CAS NAME=2-Acetoxy-3-tert-butyl-S-phenylpropanethioate
+##MOLFORM=C15H20O3S
+##CAS REGISTRY NO=65302-92-3
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         44
+    17         11
+    18         46
+    27         36
+    28         20
+    29         77
+    38          2
+    39         34
+    40          4
+    41         62
+    42          5
+    43        999
+    44         14
+    45          8
+    50          4
+    51         10
+    53          4
+    55         13
+    56          4
+    57        100
+    58          4
+    59          4
+    61          6
+    63          5
+    64          8
+    65         20
+    77          7
+    81          3
+    82          3
+    83          4
+    84          3
+    85          3
+    87         33
+    95          5
+   108          2
+   109         29
+   110         49
+   111          6
+   112          2
+   143         43
+   144          5
+   171         29
+   172          3
+   177         13
+   178          2
+   179          1
+   205          0
+   265          0
+   280          0

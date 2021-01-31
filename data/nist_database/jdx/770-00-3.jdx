@@ -1,0 +1,53 @@
+##TITLE=Library Entry 69170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Carbomethoxypyrazine 4-N-oxide
+##MOLFORM=C6H6N2O3
+##CAS REGISTRY NO=770-00-3
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41         60
+    42         63
+    43         10
+    44          9
+    45          3
+    51         13
+    52        675
+    53         64
+    54         16
+    55          6
+    59        119
+    60          3
+    62          2
+    63          2
+    64         13
+    65          3
+    66          1
+    67         23
+    68          9
+    69         26
+    70          4
+    71          1
+    77          5
+    79         53
+    80         29
+    95        257
+    96        999
+    97         53
+    98          3
+   107          3
+   108          8
+   123         96
+   124        286
+   125         15
+   154        190
+   155         21
+   156          2

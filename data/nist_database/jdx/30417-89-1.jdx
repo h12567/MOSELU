@@ -1,0 +1,72 @@
+##TITLE=Library Entry 4850
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4-Piperidinone, 1,2,5-trimethyl-, o-(4-nitrophenyl)oxime
+##MOLFORM=C14H19N3O3
+##CAS REGISTRY NO=30417-89-1
+##MP= -300
+##BP= -300
+##MW= 277
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    34         11
+    36         62
+    38         75
+    39        190
+    40        584
+    41        403
+    42        999
+    43        484
+    44        386
+    50         24
+    51         63
+    52         42
+    53         68
+    54        147
+    55        136
+    56        411
+    57        772
+    58        336
+    63        111
+    64         94
+    65         64
+    66         10
+    67         19
+    68         87
+    70        843
+    71        119
+    72        232
+    77         60
+    80         43
+    81         67
+    82        201
+    83         66
+    84        296
+    85         58
+    95         29
+    96        255
+    98        374
+    99        153
+   105        177
+   106          5
+   107          8
+   108         19
+   109         73
+   110        104
+   111        101
+   112         25
+   122         19
+   123         95
+   124        417
+   125        141
+   126          5
+   137         11
+   139        453
+   140         49
+   262        114
+   277        193
+   278         13

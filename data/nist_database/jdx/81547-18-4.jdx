@@ -1,0 +1,63 @@
+##TITLE=Library Entry 64441
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Benzylamino-as-triazino(6,5-c)quinoline
+##MOLFORM=C17H13N5
+##CAS REGISTRY NO=81547-18-4
+##MP= -300
+##BP= -300
+##MW= 287
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41         13
+    45         33
+    50         17
+    51         34
+    63         17
+    65        101
+    75          9
+    76         16
+    77         16
+    89         24
+    91        999
+    92         68
+   100          7
+   101          9
+   102          9
+   103          8
+   104         10
+   106         10
+   114         37
+   115         10
+   127          6
+   128          6
+   129         10
+   130         16
+   131          6
+   141         27
+   142          6
+   143         31
+   155          9
+   182         17
+   183          9
+   216         10
+   217         10
+   218         10
+   219         10
+   231         38
+   232         30
+   233         10
+   242          9
+   243         10
+   257         16
+   258        273
+   259        137
+   260         17
+   286          9
+   287        552
+   288        102
+   289          9

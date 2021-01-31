@@ -1,0 +1,82 @@
+##TITLE=Library Entry 114859
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phthalazine-1,4(2H,3H)-dione, 2-(tetrazolo[5,1-a]phthalazin-6-yl)
+-
+##MOLFORM=C16H9N7O2
+##CAS REGISTRY NO=309745-04-8
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    37          9
+    39         70
+    40         28
+    41         13
+    43         52
+    44         18
+    45          2
+    50         96
+    51         79
+    52         11
+    55          5
+    56          5
+    57          4
+    58          3
+    61         14
+    62         43
+    63         51
+    64         22
+    65          1
+    73          7
+    74         39
+    75        119
+    76        162
+    77         29
+    86         10
+    87         23
+    88         49
+    89         18
+    90         86
+    91          9
+    99          4
+   101         59
+   102        405
+   103         76
+   104        101
+   105         22
+   114         37
+   115          2
+   117         14
+   128        154
+   130        999
+   131         87
+   132         13
+   133          1
+   143          3
+   144          4
+   145         14
+   146          4
+   147          7
+   149         14
+   151          3
+   162         33
+   163          3
+   173          8
+   180          1
+   189          1
+   190         11
+   191          1
+   202          2
+   205          1
+   219          5
+   246          8
+   247         10
+   274          7
+   275          2
+   331          6

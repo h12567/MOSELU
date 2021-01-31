@@ -1,0 +1,37 @@
+##TITLE=Library Entry 89270
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Phosphonothioamidodifluoridate, N,N-dimethyl-
+##MOLFORM=C2H6F2NPS
+##CAS REGISTRY NO=812-13-5
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    15         60
+    41          9
+    42        826
+    43        207
+    44         20
+    45          9
+    69        128
+    94         10
+    96          9
+   101         49
+   102          9
+   110          9
+   111          9
+   112        999
+   113         20
+   126         19
+   128          9
+   130          9
+   144         39
+   145        600
+   146          9
+   147          9

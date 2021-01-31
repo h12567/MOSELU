@@ -1,0 +1,29 @@
+##TITLE=Library Entry 97401
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20(5), 1127(1981); S.B. HORSLEY ET AL
+##NAMES=HP
+##CAS NAME=Benzeneacetonitrile, .alpha.-(.beta.-D-glucopyranosyloxy)-, (R)-
+##MOLFORM=C14H17NO6
+##CAS REGISTRY NO=99-18-3
+##MP= -300
+##BP= -300
+##MW= 295
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        120
+    44        190
+    57        150
+    60        130
+    61        110
+    69        230
+    73        210
+    89        110
+    90         70
+    91         50
+   116        560
+   117        999
+   118         90
+   133         80

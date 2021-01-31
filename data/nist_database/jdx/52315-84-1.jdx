@@ -1,0 +1,31 @@
+##TITLE=Library Entry 76140
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.MICHEL FACULTY OF SCIENCE, UNIV. OF LYON, LYON, FRANC
+E
+##NAMES=HP
+##CAS NAME=Tetradecanoic acid, 3-(acetylamino)-12-methyl-, methyl ester
+##MOLFORM=C18H35NO3
+##CAS REGISTRY NO=52315-84-1
+##MP= -300
+##BP= -300
+##MW= 313
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    87        370
+   102        999
+   113        220
+   137        210
+   144        720
+   145        220
+   198        220
+   215        120
+   240        110
+   256         60
+   270        510
+   271        100
+   282         60
+   298         40
+   313         70

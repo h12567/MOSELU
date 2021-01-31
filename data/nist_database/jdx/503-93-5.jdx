@@ -1,0 +1,65 @@
+##TITLE=Library Entry 83751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4-Cycloheptadien-1-one, 2,6,6-trimethyl-
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=503-93-5
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1243
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15         42
+    27        233
+    28        142
+    29        117
+    38         42
+    39        383
+    40         83
+    41        292
+    42         42
+    43        150
+    50         50
+    51        133
+    52         67
+    53        183
+    54         42
+    55         75
+    62         17
+    63         67
+    64         17
+    65        150
+    66         58
+    67         92
+    69         25
+    77        192
+    78         67
+    79        267
+    80         70
+    81         67
+    82         92
+    83         33
+    91        483
+    92         75
+    93        133
+    94         42
+    95         50
+   103         33
+   105        142
+   106         42
+   107        999
+   108        450
+   109        100
+   117         33
+   119         17
+   121         92
+   122        158
+   123         33
+   135        192
+   136         33
+   150        358
+   151         42

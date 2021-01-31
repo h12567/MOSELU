@@ -1,0 +1,33 @@
+##TITLE=Library Entry 50231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. LOVETT - D. LIPKIN
+##NAMES=HP
+##CAS NAME=O6,5'-Cyclothymidine, TMS derivative
+##MOLFORM=C13H20N2O5Si
+##CAS REGISTRY NO=41547-76-6
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    69         70
+    73        769
+    75        210
+    81        999
+    96        320
+   101         70
+   117         70
+   129        180
+   145        110
+   155         20
+   168         70
+   169         40
+   170         20
+   171         30
+   225         20
+   240         80
+   297         90
+   312        260

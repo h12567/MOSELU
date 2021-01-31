@@ -1,0 +1,30 @@
+##TITLE=Library Entry 30788
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V. PRIKRYLOVA, INST. MICROBIOL., ACAD. SCI., PRAGUE, CZ
+E
+##NAMES=HP
+##CAS NAME=Ekatetrone
+##MOLFORM=C19H13NO7
+##CAS REGISTRY NO=12794-19-3
+##MP= -300
+##BP= -300
+##MW= 367
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    44        220
+    59        999
+   139        210
+   252         70
+   253         50
+   263         50
+   265         50
+   281        350
+   291        540
+   309        850
+   322         90
+   349         60
+   350        120
+   367        160

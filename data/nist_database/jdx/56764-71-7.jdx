@@ -1,0 +1,64 @@
+##TITLE=Library Entry 72058
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-[2-(Methylsulfanyl)ethyl]piperazine
+##MOLFORM=C7H16N2S
+##CAS REGISTRY NO=56764-71-7
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    35          3
+    36          2
+    37          9
+    38         31
+    39         33
+    40         19
+    41        186
+    42        337
+    43        160
+    44        169
+    45        293
+    46         70
+    47        106
+    48         20
+    49         32
+    52          2
+    54         78
+    55         97
+    56        652
+    57        136
+    58         95
+    59         52
+    60         17
+    61        119
+    62          4
+    63         27
+    64         10
+    68         14
+    70        442
+    71         42
+    72         15
+    73          2
+    75        164
+    76          3
+    77          5
+    81          3
+    82         13
+    83         20
+    84         74
+    85         34
+    86          3
+    97         23
+    99        999
+   100         57
+   112        102
+   113         36
+   160         98
+   161         11
+   162          5

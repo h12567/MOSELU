@@ -1,0 +1,61 @@
+##TITLE=Library Entry 51415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methyl-1-pyrazolecarboxamide
+##MOLFORM=C5H7N3O
+##CAS REGISTRY NO=873-50-7
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          5
+    15         24
+    16          8
+    22          1
+    25          6
+    26         49
+    27        160
+    28         97
+    29         68
+    30         11
+    36          1
+    37         12
+    38         27
+    39         56
+    40         74
+    41         67
+    42        139
+    43        209
+    44        139
+    45          2
+    48          1
+    49         11
+    50         73
+    51        102
+    52         79
+    53        123
+    54        264
+    55        125
+    56         13
+    63          1
+    64          1
+    65          2
+    66         12
+    67         16
+    68          1
+    77          1
+    79          1
+    80          9
+    81        858
+    82        999
+    83         51
+    96          1
+   125        185
+   126         11

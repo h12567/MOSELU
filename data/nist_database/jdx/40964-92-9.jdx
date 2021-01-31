@@ -1,0 +1,53 @@
+##TITLE=Library Entry 42129
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Butylmethylamine, TMS derivative
+##MOLFORM=C8H21NSi
+##CAS REGISTRY NO=40964-92-9
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    31         33
+    39         25
+    40         13
+    41         52
+    42         82
+    43         88
+    44        189
+    45        178
+    46         42
+    47         21
+    55         20
+    56         23
+    57         29
+    58         43
+    59        214
+    60         22
+    72         44
+    73        999
+    74         87
+    75         71
+    77         39
+    84         25
+    85         13
+    86         52
+    87         20
+    89         27
+   100         24
+   101         12
+   102         51
+   114         15
+   115         29
+   116        871
+   117        104
+   118         38
+   143         12
+   144        151
+   145         29
+   159         52

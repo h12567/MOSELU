@@ -1,0 +1,59 @@
+##TITLE=Library Entry 578
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Carbethoxymethyl-3,3-bis(trifluoromethyl)diaziridine
+##MOLFORM=C7H8F6N2O2
+##CAS REGISTRY NO=83391-94-0
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        320
+    28        470
+    29        999
+    30        230
+    31        210
+    32         11
+    42        340
+    43        180
+    44         50
+    45        300
+    46         30
+    47          5
+    51        230
+    52         17
+    59         70
+    60        910
+    61        480
+    62         50
+    69        220
+    70        140
+    88        900
+    89        150
+    90         11
+    96        350
+    97         27
+   116         60
+   123         50
+   124          5
+   146         90
+   147         30
+   159         90
+   160          8
+   166        100
+   167          9
+   172         20
+   173        160
+   174         12
+   193        420
+   194         40
+   195         20
+   219         40
+   220          4
+   251          3
+   266          2

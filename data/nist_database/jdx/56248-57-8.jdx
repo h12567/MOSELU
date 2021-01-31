@@ -1,0 +1,46 @@
+##TITLE=Library Entry 57882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Mannose, O-2,3,4,6-tetra-O-methyl-.alpha.-D-mannopyranosyl-(1.f
+wdarw.2)-O-3,4,6-tri-O-methyl-.alpha.-D-mannopyranosyl-(1.fwdarw.2)-3,4,5,6-
+tetra-O-methyl-
+##MOLFORM=C29H54O16
+##CAS REGISTRY NO=56248-57-8
+##MP= -300
+##BP= -300
+##MW= 658
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    45        539
+    71        509
+    75        729
+    88        999
+    89        240
+    99        110
+   101        729
+   111        320
+   115         90
+   127        160
+   143        150
+   145         80
+   155        140
+   159         70
+   175         20
+   187        699
+   201         50
+   219        450
+   279        130
+   303          2
+   305          8
+   315          2
+   331          8
+   347          2
+   349          2
+   359         84
+   391        160
+   432         44
+   483         69

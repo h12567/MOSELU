@@ -1,0 +1,55 @@
+##TITLE=Library Entry 54689
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Ethyl-4-methyl-1-hexene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=90674-67-2
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        124
+    28          9
+    29        126
+    39        216
+    40         44
+    41        421
+    42          9
+    43        861
+    44         29
+    50         12
+    51         30
+    52         14
+    53        101
+    54         12
+    55        630
+    56         54
+    57        258
+    58         12
+    63          6
+    65         26
+    66         12
+    67         85
+    68         24
+    69        232
+    70         16
+    77         21
+    78          5
+    79         29
+    80          5
+    81         55
+    82          9
+    83          5
+    84        179
+    85        999
+    86         63
+    96         21
+    97        134
+    98         12
+   111          9

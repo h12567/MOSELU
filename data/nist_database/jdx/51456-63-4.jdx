@@ -1,0 +1,48 @@
+##TITLE=Library Entry 59394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Dimethyl-3-phenyldiaziridine
+##MOLFORM=C9H12N2
+##CAS REGISTRY NO=51456-63-4
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    15         21
+    27         18
+    28         24
+    30         43
+    39         56
+    41         19
+    42        108
+    43         36
+    50         27
+    51         53
+    52         14
+    57        344
+    58          9
+    63         42
+    64         11
+    65        140
+    66          8
+    71         42
+    77         45
+    78         15
+    89         29
+    90         12
+    91        999
+    92         80
+   104         15
+   105        152
+   106         16
+   118         32
+   133         17
+   147         47
+   148        231
+   149         26
+   150          6

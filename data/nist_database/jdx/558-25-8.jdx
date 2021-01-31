@@ -1,0 +1,61 @@
+##TITLE=Library Entry 71093
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Methanesulfonyl fluoride
+##MOLFORM=CH3FO2S
+##CAS REGISTRY NO=558-25-8
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14         11
+    15        157
+    16          3
+    29         82
+    30          6
+    31         42
+    32         25
+    33         56
+    34          8
+    35          1
+    44         18
+    45         83
+    46         23
+    47         10
+    48        241
+    49         32
+    50         18
+    51         32
+    52          9
+    53          2
+    60          1
+    62          3
+    63         16
+    64         96
+    65         98
+    66         24
+    67        529
+    68        212
+    69        108
+    70         10
+    71          4
+    78         95
+    79         85
+    80          7
+    81          6
+    82          1
+    83         59
+    84          1
+    85          3
+    97        226
+    98        999
+    99         34
+   100         49
+   101          1

@@ -1,0 +1,25 @@
+##TITLE=Library Entry 56271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,112( )577(1979); H.-D. SCHARF ET AL
+##NAMES=HP
+##CAS NAME=Benzo[3,4]cyclobuta[1,2-b]-1,4-dioxin, 2,3,4a,4b,8a,8b-hexahydro-
+##MOLFORM=C10H12O2
+##CAS REGISTRY NO=69956-61-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    39         70
+    51         60
+    52         40
+    58        270
+    65         50
+    73        440
+    78         80
+    86        999
+    91        150
+   164         10

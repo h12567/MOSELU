@@ -1,0 +1,42 @@
+##TITLE=Library Entry 2990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=(Z)-3-Heptene
+##MOLFORM=C7H14
+##CAS REGISTRY NO=7642-10-6
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=691
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    14         25
+    15         44
+    26         36
+    27        280
+    28        171
+    29        171
+    32         41
+    39        374
+    40         88
+    41        999
+    42        166
+    43         98
+    50         39
+    51         53
+    52         25
+    53        120
+    54        100
+    55        560
+    56        714
+    57         75
+    65         31
+    67         95
+    69        567
+    70        171
+    83         37
+    98        384
+    99         32

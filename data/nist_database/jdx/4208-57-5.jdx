@@ -1,0 +1,68 @@
+##TITLE=Library Entry 68439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Butanone, 1-(2-furanyl)-
+##MOLFORM=C8H10O2
+##CAS REGISTRY NO=4208-57-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    24          1
+    25          1
+    26         11
+    27         76
+    28         91
+    29         17
+    32          1
+    34          2
+    35          3
+    37         14
+    38         41
+    39        187
+    40         13
+    41         45
+    42         22
+    43         31
+    50          7
+    51         11
+    52          2
+    53         19
+    54         12
+    55         22
+    60          2
+    63          2
+    64          1
+    65          5
+    66          5
+    67         16
+    68         20
+    69          3
+    70          2
+    71          4
+    73          1
+    77          5
+    79          1
+    81         11
+    82          1
+    83          2
+    84          2
+    91          1
+    93          1
+    95        999
+    96         32
+    97          4
+   101          3
+   110        556
+   111         17
+   119          2
+   123         36
+   130          2
+   131          1
+   138         64
+   139          5

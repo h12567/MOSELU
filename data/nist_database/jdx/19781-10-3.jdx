@@ -1,0 +1,47 @@
+##TITLE=Library Entry 57262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Octanol, 2,3-dimethyl-
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=19781-10-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         22
+    27        185
+    28         92
+    29        198
+    31         31
+    39        137
+    41        454
+    42         66
+    43        515
+    45        313
+    53         41
+    55        581
+    56         57
+    57        144
+    58        113
+    59        111
+    67         39
+    69        472
+    70         81
+    71        173
+    73         32
+    83        124
+    84         62
+    85         26
+    87        999
+    88         60
+    97        212
+    98         20
+   115        550
+   116         39
+   140         40
+   143         64

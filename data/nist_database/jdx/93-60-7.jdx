@@ -1,0 +1,79 @@
+##TITLE=Library Entry 82590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl nicotinate
+##MOLFORM=C7H7NO2
+##CAS REGISTRY NO=93-60-7
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=1139
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         22
+    25          3
+    26         13
+    27         15
+    28         21
+    29         20
+    30          6
+    31          5
+    36          1
+    37         10
+    38         20
+    39         30
+    40          6
+    41          2
+    42          2
+    43          1
+    44          2
+    45          3
+    48          3
+    49         32
+    50        203
+    51        397
+    52         64
+    53         40
+    54          3
+    55          1
+    59         20
+    60          1
+    61          2
+    62          3
+    63          3
+    64          3
+    65          7
+    66         12
+    67          4
+    68          1
+    74          2
+    75         19
+    76         32
+    77         67
+    78        788
+    79         59
+    80          5
+    81          4
+    82          1
+    91          2
+    92          6
+    93         30
+    94          5
+   104          2
+   105         73
+   106        999
+   107         77
+   108          7
+   109         40
+   110          3
+   119          3
+   120          2
+   122          1
+   136        302
+   137        601
+   138         49
+   139          4

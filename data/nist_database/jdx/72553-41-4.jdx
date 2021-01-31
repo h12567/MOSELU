@@ -1,0 +1,37 @@
+##TITLE=Library Entry 20725
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=Diazene, 1-cyclohexyl-2-methoxy-, 1-oxide
+##MOLFORM=C7H14N2O2
+##CAS REGISTRY NO=72553-41-4
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27         70
+    28         30
+    29         70
+    30         40
+    41        390
+    42         30
+    43         30
+    53         40
+    54         80
+    55        999
+    56         50
+    67        160
+    81        100
+    82        160
+    83        990
+    84         70
+   127        220
+   128         30
+   141        120
+   158        120
+   159         10

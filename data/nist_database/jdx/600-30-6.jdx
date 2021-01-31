@@ -1,0 +1,84 @@
+##TITLE=Library Entry 54649
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,3-Dibromobutyric acid
+##MOLFORM=C4H6Br2O2
+##CAS REGISTRY NO=600-30-6
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          9
+    15         34
+    16          6
+    25         13
+    26         63
+    27        111
+    28         33
+    29        234
+    30          8
+    31         29
+    32          4
+    36         16
+    37         92
+    38        201
+    39        955
+    40        165
+    41        994
+    42         90
+    43         50
+    44         41
+    45        347
+    46          7
+    50          5
+    53         22
+    55         20
+    57        214
+    58         15
+    66          7
+    68        171
+    69        102
+    70          6
+    71         47
+    79         58
+    80         73
+    81         62
+    82         66
+    85        999
+    86        169
+    87         11
+    91          6
+    92         11
+    93         33
+    94         10
+    95         32
+   105         26
+   106          9
+   107         44
+   108          6
+   109         36
+   111          5
+   118          5
+   119         67
+   120         66
+   121        147
+   122         60
+   123         84
+   137         17
+   138         21
+   139         12
+   140         26
+   147         35
+   148          8
+   149         30
+   165        959
+   167        910
+   168         44
+   181          8
+   201          4

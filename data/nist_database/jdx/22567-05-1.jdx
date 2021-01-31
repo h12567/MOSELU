@@ -1,0 +1,71 @@
+##TITLE=Library Entry 58019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,3,4-tri-O-methyl-6-O-(2,3,4-tri-O-methyl.beta.d-galactop
+yranosyl)-6-O-(methylester-2,3,4-tri-O-methyl.beta.d-glucopyranuronic acid).
+beta.d-galactopyranoside
+##MOLFORM=C29H52O17
+##CAS REGISTRY NO=22567-05-1
+##MP= -300
+##BP= -300
+##MW= 672
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    29         30
+    31         27
+    32         15
+    41         87
+    43         45
+    44         27
+    45        242
+    55         30
+    57         33
+    59         60
+    69         27
+    71        242
+    72         30
+    73         60
+    74         15
+    75        454
+    85         60
+    87         54
+    88        999
+    89         48
+   101        751
+   102         39
+   111         60
+   127         90
+   129         30
+   131         30
+   141         75
+   143         15
+   145         57
+   169         60
+   173         84
+   187         60
+   201        302
+   202         36
+   219        163
+   220         24
+   233        142
+   234         27
+   279         60
+   345         21
+   373          2
+   377          6
+   391          2
+   405          2
+   423         24
+   424          6
+   437         16
+   438          3
+   483          1
+   525          1
+   571          6
+   609          0
+   613          1
+   641          1

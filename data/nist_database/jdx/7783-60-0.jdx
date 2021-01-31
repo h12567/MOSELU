@@ -1,0 +1,26 @@
+##TITLE=Library Entry 58420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sulfur tetrafluoride
+##MOLFORM=F4S
+##CAS REGISTRY NO=7783-60-0
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    19         75
+    32         67
+    51         85
+    53          4
+    70        455
+    71          4
+    72         20
+    89        999
+    90          7
+    91         43
+   108          9

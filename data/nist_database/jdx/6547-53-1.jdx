@@ -1,0 +1,74 @@
+##TITLE=Library Entry 59909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Benzyloxyphenyl acetic acid
+##MOLFORM=C15H14O3
+##CAS REGISTRY NO=6547-53-1
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          0
+    18          1
+    26          2
+    27          8
+    28          4
+    29          2
+    37          1
+    38          6
+    39         44
+    40          5
+    41         13
+    42          1
+    43          3
+    44          0
+    45         16
+    50         16
+    51         43
+    52         23
+    53          9
+    55          3
+    61          1
+    62          6
+    63         27
+    64         11
+    65        116
+    66          8
+    69          0
+    74          2
+    75          2
+    77         40
+    78         32
+    79         11
+    80          1
+    81          2
+    89         27
+    91        999
+    92         75
+    93          2
+    97          1
+    99          1
+   105          2
+   106          5
+   107          5
+   109         12
+   110          1
+   115          1
+   151          1
+   152          3
+   153          1
+   165          2
+   167          1
+   181          1
+   182          1
+   195          1
+   196          0
+   197          2
+   242         98
+   243         16
+   244          1

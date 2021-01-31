@@ -1,0 +1,53 @@
+##TITLE=Library Entry 5605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1273(1977);24; A. VASELLA, EIDGENOSSISCHEN
+ TECHNISCHEN HOCHSCHULE, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=Acetamide, N-[4-(acetyloxy)-3-hydroxy-3-methylbutyl]-, (R)-
+##MOLFORM=C9H17NO4
+##CAS REGISTRY NO=64018-48-0
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    30        780
+    41         40
+    42         70
+    43        999
+    44        250
+    45         40
+    55         40
+    57         40
+    58         50
+    59         90
+    60        600
+    61         20
+    70         40
+    71        140
+    72        280
+    73         60
+    75         40
+    82         30
+    83        150
+    85         50
+    86        230
+    87        110
+    88        320
+   111         30
+   117         30
+   125        160
+   126         40
+   130        370
+   131         30
+   137         30
+   140         40
+   143         20
+   160         20
+   188         30
+   189         10
+   203         10
+   204          5

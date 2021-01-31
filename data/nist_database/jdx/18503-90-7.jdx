@@ -1,0 +1,82 @@
+##TITLE=Library Entry 44644
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=N,N-Dimethylformamide di-n-butylacetal
+##MOLFORM=C11H25NO2
+##CAS REGISTRY NO=18503-90-7
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=1216
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          5
+    18          5
+    19          1
+    26          4
+    27         43
+    28         30
+    29         88
+    30         21
+    31         45
+    32          1
+    33          3
+    37          1
+    38          4
+    39         37
+    40         11
+    41        182
+    42         89
+    43         69
+    44        134
+    45         23
+    46         46
+    47         14
+    50          2
+    51          2
+    52          1
+    53          6
+    54          3
+    55         41
+    56        122
+    57        793
+    58         72
+    59          3
+    60          4
+    61          1
+    69          1
+    70          2
+    71          3
+    72         47
+    73        150
+    74        999
+    75         38
+    76          3
+    84          1
+    85          3
+    86          2
+    87         10
+    88          1
+    89          1
+    90          8
+   100          5
+   101          7
+   102          3
+   103        141
+   104          8
+   105          1
+   114          1
+   116          1
+   128          1
+   130        599
+   131         48
+   132          3
+   146          1
+   159        194
+   160         19
+   161          2
+   203          3

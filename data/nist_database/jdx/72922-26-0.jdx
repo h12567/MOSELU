@@ -1,0 +1,84 @@
+##TITLE=Library Entry 57877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 2-O-acetyl-3,4-di-O-methyl-6-deoxy-.alpha.-D-mannopyranosi
+de
+##MOLFORM=C11H20O6
+##CAS REGISTRY NO=72922-26-0
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    40          5
+    41         59
+    42         31
+    43        429
+    44         18
+    45        139
+    46          4
+    47         12
+    53         17
+    54          5
+    55         44
+    56         10
+    57         44
+    58          6
+    59        133
+    60          5
+    61         11
+    67          5
+    68          7
+    69         15
+    70          5
+    71         74
+    72        379
+    73        159
+    74        459
+    75        669
+    76         23
+    81          7
+    82          4
+    83         30
+    84          9
+    85        129
+    86         10
+    87         82
+    88        999
+    89         51
+    97         13
+    98          8
+    99         26
+   100          4
+   101        159
+   102         12
+   103         33
+   111         26
+   113         12
+   114         19
+   115         27
+   116        219
+   117         29
+   119          9
+   125          5
+   128          6
+   129         68
+   130         10
+   131          7
+   143         15
+   144         11
+   145         10
+   156          6
+   157          3
+   175          3
+   176          3
+   185         41
+   186          4
+   204         37
+   205          2
+   217         11
+   218          1

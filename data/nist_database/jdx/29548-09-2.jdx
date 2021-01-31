@@ -1,0 +1,67 @@
+##TITLE=Library Entry 54609
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Norpinanol, 3,6,6-trimethyl-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=29548-09-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=2005
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         52
+    28         10
+    29         69
+    31         12
+    39         66
+    40         11
+    41        185
+    42         16
+    43         96
+    45          6
+    51         10
+    53         40
+    54         10
+    55        154
+    56         37
+    57         59
+    58         16
+    65         16
+    66          6
+    67         63
+    68         28
+    69         82
+    70         17
+    71         26
+    77         23
+    78          5
+    79         32
+    80         16
+    81         63
+    82         16
+    83         48
+    84         59
+    85        999
+    86         71
+    91         15
+    92         15
+    93         71
+    94         16
+    95         28
+    96         36
+    97         65
+    98         21
+   105          5
+   107         11
+   110          5
+   111         25
+   112         30
+   113          8
+   121         24
+   136         15
+   139         33
+   154          3

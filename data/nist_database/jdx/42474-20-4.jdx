@@ -1,0 +1,55 @@
+##TITLE=Library Entry 36402
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Pentane, 1,3-dibromo-
+##MOLFORM=C5H10Br2
+##CAS REGISTRY NO=42474-20-4
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    43        192
+    44          3
+    45          1
+    49          6
+    50         34
+    51         63
+    52         18
+    53        168
+    54         32
+    55        241
+    56         10
+    57          2
+    58          2
+    62          6
+    63          8
+    64          3
+    65         11
+    66          5
+    67         45
+    68          3
+    69        999
+    70        161
+    71          4
+    79         10
+    80         12
+    81         10
+    82         13
+    93          4
+    95          4
+   107         42
+   109         42
+   119          1
+   120         10
+   121         61
+   122          9
+   123         65
+   149        766
+   150         55
+   151        735
+   152         47

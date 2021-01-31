@@ -1,0 +1,65 @@
+##TITLE=Library Entry 109250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Methoxy-6,6-dimethyl-cyclohex-1-ene
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=73741-66-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        165
+    41        284
+    55        191
+    59         81
+    63          7
+    65         40
+    66         18
+    67        161
+    68         28
+    69         96
+    70          9
+    71         24
+    72         14
+    73         10
+    77        136
+    78         22
+    79         81
+    80         17
+    81         45
+    82         28
+    83         22
+    84        816
+    85        239
+    86         15
+    91        118
+    92         14
+    93        302
+    94         27
+    95         99
+    96         12
+    97         88
+    98         25
+    99        103
+   100          6
+   105          9
+   107         50
+   108         25
+   109         40
+   110         25
+   111         43
+   112        101
+   113          8
+   123         16
+   124          8
+   125        999
+   126         95
+   127          6
+   139         37
+   140        444
+   141         44

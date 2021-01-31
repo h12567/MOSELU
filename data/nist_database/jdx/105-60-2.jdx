@@ -1,0 +1,75 @@
+##TITLE=Library Entry 1075
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3760
+##NAMES=HP
+##CAS NAME=Caprolactam
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=105-60-2
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=1253
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         29
+    18          2
+    25          1
+    26         28
+    27        153
+    28        235
+    29         87
+    30        999
+    31         17
+    32          1
+    37          5
+    38         12
+    39        137
+    40         42
+    41        329
+    42        388
+    43        112
+    44         30
+    45          4
+    46          2
+    49          1
+    50          7
+    51          9
+    52          8
+    53         22
+    54         21
+    55        671
+    56        430
+    57         64
+    58          7
+    59          8
+    62          1
+    63          1
+    64          1
+    65          3
+    66          3
+    67         63
+    68         36
+    69         21
+    70         17
+    71          3
+    72          5
+    80          1
+    81          1
+    82          5
+    83         48
+    84        371
+    85        367
+    86         19
+    87          1
+    94          1
+    95          2
+    96          6
+    97          1
+    98          7
+   112         16
+   113        542
+   114         46
+   115          3

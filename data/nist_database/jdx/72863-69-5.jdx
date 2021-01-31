@@ -1,0 +1,31 @@
+##TITLE=Library Entry 71592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=(3-Dimethylaminopropyl)dipropylborane
+##MOLFORM=C11H26BN
+##CAS REGISTRY NO=72863-69-5
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        149
+    42         99
+    54         79
+    55        129
+    56        399
+    58        269
+    69         69
+    70        249
+    82         69
+    97        209
+    98        999
+    99         59
+   139         99
+   140        459
+   141         59

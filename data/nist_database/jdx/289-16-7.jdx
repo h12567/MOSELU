@@ -1,0 +1,59 @@
+##TITLE=Library Entry 17298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,2,4-Trithiolane
+##MOLFORM=C2H4S3
+##CAS REGISTRY NO=289-16-7
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1117
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         38
+    27         45
+    28         23
+    29          7
+    30         10
+    32         27
+    33         57
+    34        110
+    35          4
+    36          3
+    38          3
+    39          6
+    41          4
+    43          3
+    44        124
+    45        999
+    46        632
+    47        148
+    48         75
+    49          5
+    50          4
+    51          3
+    55          3
+    57          6
+    58         15
+    59        118
+    60        207
+    61         12
+    62         10
+    64         26
+    65          3
+    73          6
+    76         26
+    77         28
+    78        639
+    79         40
+    80         63
+    91         10
+    92         11
+    96          6
+   124        456
+   125         20
+   126         61
+   128          3

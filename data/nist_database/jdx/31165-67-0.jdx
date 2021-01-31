@@ -1,0 +1,86 @@
+##TITLE=Library Entry 59769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2'-Benzyloxyacetophenone
+##MOLFORM=C15H14O2
+##CAS REGISTRY NO=31165-67-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+     4          4
+    14          2
+    15         17
+    26          3
+    27         13
+    28          0
+    29          3
+    37          5
+    38         28
+    39        109
+    40          7
+    41         21
+    42          0
+    43         99
+    44          2
+    46          0
+    50         33
+    51         57
+    52         16
+    53         13
+    54          0
+    55          1
+    61          5
+    62         24
+    63         83
+    64         53
+    65        203
+    66         14
+    73          0
+    74          7
+    75          7
+    76         17
+    77         52
+    78         12
+    79         14
+    86          1
+    87          1
+    89         35
+    91        999
+    92        127
+    93          8
+    94          1
+   104          2
+   105         10
+   107         12
+   108          1
+   113          1
+   115          1
+   120         16
+   121         47
+   122          3
+   127          1
+   128          1
+   133          1
+   135          1
+   148          6
+   149          1
+   152          4
+   153          2
+   155          1
+   165          2
+   181          3
+   183         17
+   184          9
+   185          1
+   208         17
+   209          3
+   211         13
+   212          2
+   226         25
+   227          4

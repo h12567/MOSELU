@@ -1,0 +1,70 @@
+##TITLE=Library Entry 1479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6286
+##NAMES=HP
+##CAS NAME=Glyceraldehyde
+##MOLFORM=C3H6O3
+##CAS REGISTRY NO=56-82-6
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    12          5
+    13         13
+    14         63
+    15        525
+    16          9
+    17         12
+    18         39
+    19          2
+    24          2
+    25         10
+    26         40
+    27         75
+    28         92
+    29        515
+    30        139
+    31        999
+    32         82
+    33         52
+    36          2
+    37          5
+    38          4
+    39          6
+    40          4
+    41         19
+    42        346
+    43        888
+    44        331
+    45         41
+    46          4
+    47          7
+    52          1
+    53          6
+    54          3
+    55          9
+    56          9
+    57          5
+    58         17
+    59         12
+    60        821
+    61        880
+    62         38
+    63          4
+    69          2
+    70          1
+    71         13
+    72         48
+    73         12
+    74          4
+    75          1
+    87          1
+    88          1
+    89          2
+    90          2
+    91         12
+    92          1

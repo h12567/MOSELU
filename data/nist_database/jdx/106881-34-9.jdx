@@ -1,0 +1,44 @@
+##TITLE=Library Entry 11895
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,3:4,5-Bis-O-isopropylidene-.beta.-d-fructopyranose carbamate
+##MOLFORM=C13H21NO7
+##CAS REGISTRY NO=106881-34-9
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    43        999
+    59        398
+    68        110
+    69        370
+    71         69
+    73         61
+    74        218
+    81         78
+    83         70
+    84         89
+    85        242
+    97        130
+    99         90
+   101         71
+   102        369
+   109        160
+   113        118
+   127        620
+   131        130
+   143         20
+   169        139
+   170        110
+   171        259
+   185        149
+   219        131
+   229        100
+   230         50
+   245        141
+   288        601

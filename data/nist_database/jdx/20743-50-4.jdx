@@ -1,0 +1,39 @@
+##TITLE=Library Entry 12777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=YU. SHURUKHIN,LENSOVET LENINGRAD TECHNOL. INST.,LENINGR
+AD,USSR
+##NAMES=HP
+##CAS NAME=1-Methyl-5-phenyltetrazole
+##MOLFORM=C8H8N4
+##CAS REGISTRY NO=20743-50-4
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        172
+    43        999
+    50        188
+    51        395
+    62         45
+    63        379
+    64        116
+    65        142
+    76        148
+    77        658
+    78        178
+    89        227
+    90        493
+    91        177
+   103        297
+   104        256
+   105         45
+   118        526
+   119         54
+   131        296
+   132        121
+   160        913
+   161         99

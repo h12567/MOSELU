@@ -1,0 +1,30 @@
+##TITLE=Library Entry 69947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. J. TODD
+##NAMES=HP
+##CAS NAME=3-Pentenoic acid, 2,2,4-trimethyl-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=4177-03-1
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         74
+    41        140
+    43        121
+    53         40
+    55        512
+    57         93
+    67         25
+    69         91
+    79         15
+    81         68
+    83         33
+    97        999
+   109         40
+   127         59
+   142        279

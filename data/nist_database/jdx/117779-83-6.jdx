@@ -1,0 +1,40 @@
+##TITLE=Library Entry 58227
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. R. ALONSO, DEP. QUIM. ORG., UNIV. GRANADA, GRANADA,
+ SPAIN
+##NAMES=HP
+##CAS NAME=1,6-Dihydro-5-formyl-1-methyl-2-methylthio-4-(2,3,4-tri-O-acetyl-
+.beta.-D-xylopyranosylamino)-1H-pyrimidin-6-one
+##MOLFORM=C18H23N3O9S
+##CAS REGISTRY NO=117779-83-6
+##MP= -300
+##BP= -300
+##MW= 457
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    88        999
+   171        150
+   172        190
+   198        150
+   200        370
+   224         74
+   226         74
+   228        520
+   240         74
+   241         37
+   242         37
+   250        110
+   268        150
+   278        170
+   294        110
+   310         74
+   337         74
+   338        330
+   370        300
+   386         37
+   397         37
+   398         37
+   457         74

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 948
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2996
+##NAMES=HP
+##CAS NAME=2-Fluoro-.beta.-alanine
+##MOLFORM=C3H6FNO2
+##CAS REGISTRY NO=3821-81-6
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15         45
+    17         18
+    18         72
+    19          1
+    20         36
+    24          1
+    25          4
+    26         20
+    27         46
+    28        141
+    29         18
+    30        999
+    31         16
+    32          8
+    33         15
+    34          1
+    35          1
+    36         10
+    38          9
+    39         13
+    40         40
+    41        132
+    42        142
+    43         25
+    44         57
+    45         36
+    46         18
+    47          1
+    48          1
+    49          2
+    51          2
+    52          3
+    53          4
+    54          2
+    55          4
+    56          1
+    57          1
+    59          4
+    60         30
+    61         18
+    62         25
+    63          3
+    67          1
+    68          3
+    69         50
+    70         11
+    71          1
+    72          3
+    73          2
+    78          6
+    87         34
+    88          8
+    90          1

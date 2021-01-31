@@ -1,0 +1,65 @@
+##TITLE=Library Entry 33432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=N-(1,1-Dimethylpropynyl)isobutyramide
+##MOLFORM=C9H15NO
+##CAS REGISTRY NO=60901-57-7
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    40         55
+    41        486
+    42        181
+    43        781
+    44         58
+    50         19
+    51         67
+    52         56
+    53         22
+    54         29
+    55         41
+    56          8
+    57          5
+    58        112
+    62          7
+    63          7
+    65         52
+    66        113
+    67        850
+    68        999
+    69         99
+    70         64
+    71        243
+    72         92
+    73          7
+    79         12
+    80         12
+    81          5
+    82         58
+    83        113
+    84        110
+    85         32
+    88         14
+    95         52
+    98          5
+   100          6
+   110        108
+   111         42
+   112          5
+   115          5
+   127          6
+   128         13
+   135         11
+   138        130
+   141          6
+   149         13
+   150          7
+   152        304
+   153        440
+   154         38

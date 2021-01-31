@@ -1,0 +1,57 @@
+##TITLE=Library Entry 17348
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Methylthio)-acetonitrile
+##MOLFORM=C3H5NS
+##CAS REGISTRY NO=35120-10-6
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    12         32
+    13         61
+    14         72
+    15         76
+    17          1
+    24          5
+    25         10
+    28         34
+    32         51
+    33         23
+    34          9
+    35         21
+    36          2
+    38         78
+    39         88
+    40        187
+    41        746
+    42        158
+    44        102
+    45        999
+    46        383
+    47        862
+    48         40
+    49         40
+    51          5
+    52         12
+    54         22
+    56         11
+    57         26
+    58         33
+    60         26
+    61         34
+    62          2
+    70         99
+    71        164
+    72        434
+    73          7
+    82          2
+    86         86
+    87        919
+    88         49
+    89         44

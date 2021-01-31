@@ -1,0 +1,45 @@
+##TITLE=Library Entry 15654
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methyl-methoxy-(1,1-difluoro-2,2-bis-trifluoromethyl-ethyl)amine
+##MOLFORM=C6H7F8NO
+##CAS REGISTRY NO=55542-41-1
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    28        205
+    29         18
+    30         36
+    31         29
+    33        192
+    34         25
+    43         46
+    44        999
+    45         72
+    46         11
+    60        903
+    61         15
+    69        808
+    70          9
+    81        534
+    82         38
+   110        226
+   111         16
+   113        376
+   114         27
+   201        262
+   202         19
+   210         55
+   211         21
+   242         72
+   243         10
+   246         25
+   261        713
+   262         51
+   263         10

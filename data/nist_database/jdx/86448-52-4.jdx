@@ -1,0 +1,72 @@
+##TITLE=Library Entry 60426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.GIRAUDI, CENT. RECHERCHE, ROURE BERTRAND DUPONT, GRAS
+SE, FR.
+##NAMES=HP
+##CAS NAME=cis-3-Undecene-1,5-diyne
+##MOLFORM=C11H14
+##CAS REGISTRY NO=86448-52-4
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    37          0
+    38         36
+    39        427
+    40        150
+    41        417
+    42         41
+    43          6
+    44         46
+    50        116
+    51        177
+    52         45
+    53         70
+    55        132
+    57         39
+    62        118
+    63        504
+    64         74
+    65        116
+    66          3
+    67         31
+    68          6
+    69          1
+    74         41
+    75         24
+    76        208
+    77        218
+    78        181
+    79        150
+    80          2
+    81         16
+    86         20
+    87         33
+    88          1
+    89        660
+    90        237
+    91        999
+    92         76
+    93          1
+    94         16
+   102         54
+   103        260
+   104        128
+   105         82
+   115        538
+   116        195
+   117        597
+   118         77
+   127          4
+   128         44
+   129         85
+   130         20
+   131        309
+   132         19
+   145         19
+   146        218
+   147         11

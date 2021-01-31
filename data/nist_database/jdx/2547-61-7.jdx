@@ -1,0 +1,57 @@
+##TITLE=Library Entry 97477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Methanesulfonyl chloride, trichloro-
+##MOLFORM=CCl4O2S
+##CAS REGISTRY NO=2547-61-7
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=1012
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    12          3
+    16         13
+    18          2
+    35        250
+    36         33
+    37         78
+    38          7
+    44         29
+    47        331
+    48        291
+    49         18
+    50         13
+    59          2
+    63         20
+    64        350
+    65          2
+    66          8
+    67          4
+    79         22
+    81          6
+    82        416
+    83        129
+    84        161
+    85         58
+    94         15
+    96          4
+    99          6
+   117        999
+   119        963
+   121        335
+   123         27
+   127          4
+   129          2
+   154         14
+   164         15
+   166         21
+   168          8
+   198         25
+   199         30
+   201         62
+   203         27
+   205          3

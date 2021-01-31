@@ -1,0 +1,71 @@
+##TITLE=Library Entry 4602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-(4-Acetylaminobenzenesulfonyl)pyrrolidin-3-one
+##MOLFORM=C12H14N2O4S
+##CAS REGISTRY NO=80076-99-9
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    40         31
+    41        126
+    42        999
+    43        869
+    44         15
+    45         15
+    50         31
+    51         31
+    52         31
+    53         16
+    54         30
+    55         94
+    56        157
+    57         15
+    62         11
+    63         89
+    64         95
+    65        296
+    66         41
+    76         29
+    77         12
+    78         14
+    79         11
+    80         13
+    84         70
+    90         17
+    91         70
+    92        148
+    93         85
+   104         10
+   105         13
+   106         32
+   107         15
+   108        118
+   119         11
+   120         34
+   132         12
+   133         12
+   134        182
+   135         31
+   140         31
+   148        107
+   149         15
+   150         15
+   156         55
+   157         22
+   161         14
+   162         28
+   163         11
+   189         13
+   190         61
+   198        297
+   199         42
+   200         18
+   254         48
+   282         19

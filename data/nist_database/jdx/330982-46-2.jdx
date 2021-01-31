@@ -1,0 +1,72 @@
+##TITLE=Library Entry 32282
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=4,4-Dinitro-4,5,6,7,-tetrahydrobenzofuroxane
+##MOLFORM=C6H6N4O6
+##CAS REGISTRY NO=330982-46-2
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    40        135
+    41        133
+    42         23
+    43         43
+    44         16
+    46         63
+    49          7
+    50        215
+    51        410
+    52        612
+    53        232
+    54         53
+    55        126
+    56         69
+    57         25
+    62         26
+    63        119
+    64         53
+    65        156
+    66        999
+    67         58
+    68         90
+    69         24
+    70         16
+    74         53
+    75         19
+    76         31
+    77        211
+    78        247
+    79         43
+    80         75
+    81         13
+    82        562
+    83         32
+    90          5
+    91         57
+    92         32
+    93         14
+    94         12
+    95         13
+    96        265
+    97         11
+   107         15
+   108         10
+   109          6
+   121          6
+   122          7
+   124        188
+   125         11
+   126         11
+   137         10
+   138         17
+   149         18
+   184        700
+   185         64
+   230        225
+   231         21

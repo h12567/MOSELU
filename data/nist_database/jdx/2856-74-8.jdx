@@ -1,0 +1,42 @@
+##TITLE=Library Entry 54099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Modaline
+##MOLFORM=C10H15N3
+##CAS REGISTRY NO=2856-74-8
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=1487
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        422
+    42        688
+    52        172
+    54        176
+    56        159
+    67        247
+    81        147
+    82        266
+    84        999
+    93        434
+    94        866
+    95        239
+   107        100
+   108         88
+   109        371
+   120        137
+   121        273
+   122        397
+   134        428
+   135        101
+   136        100
+   148        682
+   149        101
+   162         80
+   176        175
+   177        803
+   178         97

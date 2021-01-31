@@ -1,0 +1,60 @@
+##TITLE=Library Entry 52092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Heptyn-3-ol
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=32398-69-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         82
+    28         14
+    29        123
+    31         17
+    37          9
+    38         25
+    39        157
+    40         25
+    41         70
+    42         12
+    43         84
+    44          4
+    49          6
+    50         43
+    51         63
+    52         24
+    53        121
+    54          4
+    55        402
+    56         32
+    57         50
+    58          9
+    59         11
+    62         13
+    63         20
+    64          5
+    65         43
+    66         16
+    67         20
+    68         14
+    69         10
+    74          6
+    78         13
+    79         49
+    80          5
+    81         27
+    82          5
+    83        999
+    84         57
+    93          5
+    94         14
+    97         11
+   111          7
+   112          0

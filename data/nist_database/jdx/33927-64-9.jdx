@@ -1,0 +1,43 @@
+##TITLE=Library Entry 89571
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Pyrrolidineacetic acid, 2-methyl-5-oxo-, ethyl ester
+##MOLFORM=C9H15NO3
+##CAS REGISTRY NO=33927-64-9
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        110
+    42         60
+    43         50
+    56        160
+    57         90
+    58         20
+    59         15
+    67         40
+    68         20
+    69         20
+    70         20
+    81         50
+    82        190
+    83        190
+    84         40
+    96         60
+    97         60
+    98        650
+    99         50
+   110         30
+   111         20
+   112        999
+   113         90
+   140         60
+   170         40
+   185        100
+   186         31

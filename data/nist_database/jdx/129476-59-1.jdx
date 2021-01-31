@@ -1,0 +1,46 @@
+##TITLE=Library Entry 16335
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=N-Acetyl p-ethoxyamphetamine
+##MOLFORM=C13H19NO2
+##CAS REGISTRY NO=129476-59-1
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    44        999
+    51         23
+    52         11
+    63         10
+    65         13
+    77         71
+    78         20
+    86        134
+    89         15
+    91         22
+   105         14
+   107        223
+   108         25
+   117          9
+   119          9
+   133        135
+   135         57
+   136         16
+   147          0
+   149          1
+   150          0
+   162        656
+   164         39
+   176          0
+   178          2
+   179          1
+   205          0
+   206          0
+   207          0
+   221         14
+   222          1

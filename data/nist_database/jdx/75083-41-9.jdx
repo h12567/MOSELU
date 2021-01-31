@@ -1,0 +1,61 @@
+##TITLE=Library Entry 27381
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=Naphtho[2,3-b]furan-4,9-dione, 2,3-dihydro-5,6,7,8-tetrahydroxy-
+##MOLFORM=C12H8O7
+##CAS REGISTRY NO=75083-41-9
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    50        232
+    51        250
+    53        535
+    55        660
+    56        285
+    57        999
+    58        232
+    60        107
+    61        160
+    62        214
+    63        321
+    64        196
+    65        410
+    66        339
+    67        196
+    68        125
+    69        785
+    70        232
+    71        678
+    73        107
+    74        196
+    75        321
+    76        392
+    77        178
+    81        285
+    83        285
+    85        196
+    93        196
+    95        196
+    97        160
+   104        285
+   111        142
+   121        178
+   127        196
+   132        321
+   149        595
+   150         67
+   160        464
+   167        160
+   177        232
+   178        107
+   205        178
+   234        999
+   235        107
+   264        946
+   265        107

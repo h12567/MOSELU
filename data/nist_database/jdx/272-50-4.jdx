@@ -1,0 +1,53 @@
+##TITLE=Library Entry 99897
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4134
+##NAMES=HP
+##CAS NAME=5H-Pyrrolo(3,2-d)pyrimidine
+##MOLFORM=C6H5N3
+##CAS REGISTRY NO=272-50-4
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26          3
+    27          4
+    28          6
+    36          2
+    37         21
+    38         40
+    39         18
+    40         32
+    41         26
+    42          1
+    43          3
+    45          2
+    46          4
+    50          2
+    51          7
+    52         28
+    53          6
+    54          1
+    59         47
+    60          3
+    62          3
+    63         11
+    64         76
+    65        104
+    66         26
+    67          8
+    68          2
+    77          2
+    79          2
+    90          2
+    91         44
+    92        247
+    93         15
+   117          1
+   118        231
+   119        999
+   120         87
+   121          3

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 78892
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzeneacetic acid, .alpha.-methyl-, (S)-
+##MOLFORM=C9H10O2
+##CAS REGISTRY NO=7782-24-3
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          6
+    18          4
+    26         11
+    27         77
+    28          6
+    37          7
+    38         21
+    39         86
+    40          9
+    41          6
+    43         10
+    45         83
+    49          6
+    50         84
+    51        180
+    52         35
+    53         26
+    55          6
+    61          8
+    62         27
+    63         63
+    64         11
+    65         28
+    66          5
+    73          6
+    74         24
+    75         23
+    76         25
+    77        296
+    78        101
+    79        245
+    80         17
+    86          4
+    87          4
+    89         25
+    90         11
+    91        117
+    92          9
+   101          3
+   102         23
+   103        159
+   104          3
+   105        999
+   106        106
+   107         14
+   121          8
+   132          2
+   150        242
+   151         26

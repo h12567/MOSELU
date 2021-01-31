@@ -1,0 +1,62 @@
+##TITLE=Library Entry 96691
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. NELSON, RES. DEP., IMPERIAL TOBACCO LTD., BRISTOL
+##NAMES=HP
+##CAS NAME=Benzonitrile, 3,4-dimethyl-
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=22884-95-3
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    28         80
+    32         26
+    37         20
+    38         30
+    39        105
+    40         16
+    41         20
+    49         12
+    50         64
+    51        114
+    52         48
+    53         24
+    61         19
+    62         35
+    63         77
+    66         11
+    73         12
+    74         24
+    75         43
+    76         51
+    77        121
+    78         41
+    79         13
+    86         10
+    87         16
+    88         21
+    89        103
+    90         30
+    91         37
+    99         10
+   100         11
+   101         26
+   102         46
+   103        127
+   104         69
+   105         15
+   114         13
+   115         12
+   116        999
+   117        104
+   118         10
+   127         11
+   128         26
+   129         27
+   130        212
+   131        654
+   132         76

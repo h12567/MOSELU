@@ -1,0 +1,27 @@
+##TITLE=Library Entry 97520
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5-Methano-2,3,4,5(1H)-tetrahydrobenzo(b)azepine
+##MOLFORM=C11H13N
+##CAS REGISTRY NO=94641-74-4
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    55        109
+    77        201
+    91        381
+   115        870
+   116        411
+   117        999
+   130        899
+   131        410
+   144        441
+   158        130
+   159        399
+   160         50

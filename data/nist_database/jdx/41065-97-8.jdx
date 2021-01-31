@@ -1,0 +1,50 @@
+##TITLE=Library Entry 37408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hexanal, 4-methyl-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=41065-97-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=889
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27        247
+    28         89
+    29        623
+    30         29
+    31          9
+    39        178
+    40         19
+    41        623
+    42        178
+    43        386
+    44         49
+    45         19
+    51          9
+    53         39
+    54          9
+    55        574
+    56         99
+    57        693
+    58        217
+    59          9
+    67        138
+    68         19
+    69         39
+    70        999
+    71        287
+    72          9
+    73          9
+    81         99
+    83         19
+    85         99
+    86         39
+    95         19
+    96         79
+    97         19

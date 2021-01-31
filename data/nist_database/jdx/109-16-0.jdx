@@ -1,0 +1,104 @@
+##TITLE=Library Entry 36084
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database - Spectrum MS-NW-1531
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2-methyl-, 1,2-ethanediylbis(oxy-2,1-ethanediyl
+) ester
+##MOLFORM=C14H22O6
+##CAS REGISTRY NO=109-16-0
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 88
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         15
+    17          2
+    18          9
+    19          2
+    26          6
+    27         29
+    28         40
+    29         23
+    30          6
+    31         23
+    32          5
+    37          3
+    38          7
+    39        135
+    40         52
+    41        611
+    42         34
+    43         50
+    44         29
+    45        136
+    46          3
+    53          5
+    54          2
+    55          8
+    56          3
+    57         13
+    58         26
+    59         11
+    60          1
+    67          3
+    68         25
+    69        999
+    70         74
+    71         10
+    72          3
+    73         19
+    74          1
+    75          2
+    80          1
+    81          1
+    82          5
+    83          4
+    84         28
+    85          6
+    86        127
+    87         22
+    88          8
+    89         21
+    90          1
+    91          3
+    92          2
+    94          4
+    95          2
+    96          5
+    97          2
+    98          1
+    99         16
+   100         32
+   101         10
+   102          1
+   108          3
+   109          1
+   110          2
+   111          6
+   112        148
+   113        893
+   114         66
+   115          8
+   119          1
+   125          1
+   126          1
+   127          1
+   128          3
+   129          1
+   130          2
+   131          3
+   136          2
+   138          3
+   139          1
+   143         28
+   144          2
+   156          5
+   157          2
+   172         12
+   173          1
+   200         16
+   201          2

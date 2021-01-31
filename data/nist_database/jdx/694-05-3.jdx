@@ -1,0 +1,63 @@
+##TITLE=Library Entry 51143
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=1,2,3,6-Tetrahydropyridine
+##MOLFORM=C5H9N
+##CAS REGISTRY NO=694-05-3
+##MP= -300
+##BP= -300
+##MW= 83
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    18          2
+    25          3
+    26         48
+    27        235
+    28        415
+    29        140
+    30        199
+    31          4
+    36          1
+    37         20
+    38         53
+    39        610
+    40         67
+    41        174
+    42        131
+    43         36
+    44          7
+    48          1
+    49         14
+    50         76
+    51        103
+    52         84
+    53        265
+    54        915
+    55        244
+    56         73
+    57          9
+    61          0
+    62          1
+    63          2
+    64          2
+    65         41
+    66          6
+    67        118
+    68        468
+    69         22
+    75          3
+    76          2
+    78         20
+    79          3
+    80        292
+    81         36
+    82        999
+    83        620
+    84         42
+    85          1

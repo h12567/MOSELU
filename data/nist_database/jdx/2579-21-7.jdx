@@ -1,0 +1,50 @@
+##TITLE=Library Entry 3156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Pent-2-ynal, 4,4-dimethyl-
+##MOLFORM=C7H10O
+##CAS REGISTRY NO=2579-21-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15        170
+    16          2
+    26         40
+    28         20
+    29        130
+    37         50
+    38        110
+    39        700
+    40        130
+    41        999
+    42         50
+    49         50
+    50        240
+    51        310
+    52         80
+    53        270
+    54         30
+    55         50
+    61         30
+    62         90
+    63        120
+    65        280
+    66        100
+    67        900
+    68         80
+    77         80
+    79        210
+    80         30
+    81        540
+    82         40
+    93         30
+    95        130
+    96         30
+   109         20
+   110          5

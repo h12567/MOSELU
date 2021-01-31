@@ -1,0 +1,55 @@
+##TITLE=Library Entry 37190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.CASSAN, 18 GRAVIER AVE., PARC COROMANDEL, NICE, FR
+##NAMES=HP
+##CAS NAME=Neomenthylamine
+##MOLFORM=C10H21N
+##CAS REGISTRY NO=7231-40-5
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         41
+    40         32
+    41         95
+    42         45
+    43        123
+    44         57
+    45         11
+    52          7
+    53         22
+    54         16
+    55         70
+    56         95
+    57         16
+    65         10
+    67         34
+    68         14
+    69         41
+    70        999
+    71         51
+    73         16
+    77         13
+    79         11
+    81         52
+    82         19
+    84         36
+    85         24
+    91          8
+    93          6
+    94          8
+    95         41
+    96         14
+    98         58
+    99          8
+   112         12
+   113          8
+   123         11
+   135         10
+   138         40
+   140         34
+   155         41

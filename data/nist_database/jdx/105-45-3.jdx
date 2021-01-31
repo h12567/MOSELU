@@ -1,0 +1,67 @@
+##TITLE=Library Entry 6488
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methyl acetoacetate
+##MOLFORM=C5H8O3
+##CAS REGISTRY NO=105-45-3
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=1396
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    12          1
+    13         11
+    14         34
+    15        165
+    16          1
+    17          3
+    18          7
+    19          2
+    24          2
+    25          8
+    26         41
+    27         84
+    28         17
+    29        160
+    30         20
+    31        101
+    32         48
+    33          5
+    36          3
+    37         12
+    38         16
+    39         28
+    40          8
+    41         49
+    42        200
+    43        999
+    45         17
+    52          2
+    53          6
+    54          2
+    55         13
+    56          9
+    57         27
+    58         15
+    59        122
+    60          2
+    69        130
+    70          4
+    71          2
+    74         81
+    75          6
+    84         75
+    85        113
+    86         19
+    87          2
+    88         52
+    89          3
+    99          3
+   101         59
+   102          3
+   116         94
+   117          5

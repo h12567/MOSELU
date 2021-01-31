@@ -1,0 +1,37 @@
+##TITLE=Library Entry 48072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Tetrazolo[1,5-b]pyridazine, 6-chloro-7-methyl-
+##MOLFORM=C5H4ClN5
+##CAS REGISTRY NO=28691-22-7
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    26        100
+    27        190
+    28        200
+    36         80
+    37        120
+    38        110
+    39        100
+    49        120
+    50        210
+    51        410
+    52        180
+    62         80
+    63         60
+    73         60
+    75         70
+    76         90
+    77        100
+    78        999
+    79         70
+    86         90
+   169         20
+   171          5

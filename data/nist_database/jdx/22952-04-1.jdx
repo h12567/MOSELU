@@ -1,0 +1,51 @@
+##TITLE=Library Entry 14894
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4-Acetamidophenyl-4'-[4-methylpiperazino]phenyl sulfone
+##MOLFORM=C19H23N3O3S
+##CAS REGISTRY NO=22952-04-1
+##MP= -300
+##BP= -300
+##MW= 373
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41         13
+    42        305
+    43        999
+    44        116
+    51         17
+    56         62
+    57         66
+    58         42
+    65         38
+    70        426
+    71        429
+    72         18
+    76         12
+    77         39
+    78         11
+    92         25
+    93         20
+   104         20
+   105         11
+   108         73
+   120         11
+   131          5
+   140         54
+   152         29
+   260         63
+   266          5
+   303         20
+   329         13
+   330         11
+   331         39
+   358         32
+   372         51
+   373        538
+   374        121
+   375         35

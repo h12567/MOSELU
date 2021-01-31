@@ -1,0 +1,54 @@
+##TITLE=Library Entry 51022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Methoxy-5-azabicyclo[2.2.0]hex-2-en-6-one
+##MOLFORM=C7H9NO2
+##CAS REGISTRY NO=37657-11-7
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        178
+    29         30
+    38         66
+    39        542
+    40         44
+    41        158
+    42        363
+    51         36
+    52         53
+    53         61
+    54         39
+    55        283
+    56         51
+    66         37
+    67         56
+    68         74
+    69         26
+    78         11
+    79          9
+    80         23
+    81         35
+    82        999
+    83         65
+    93         27
+    94         13
+    95          7
+    96        166
+    97         21
+   108         36
+   109         91
+   110        164
+   111         16
+   122         11
+   124         39
+   125         51
+   136         10
+   138        131
+   139         38
+   140          4

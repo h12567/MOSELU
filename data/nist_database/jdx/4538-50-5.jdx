@@ -1,0 +1,55 @@
+##TITLE=Library Entry 6814
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Oxirane-2-carboxylic acid, methyl ester
+##MOLFORM=C4H6O3
+##CAS REGISTRY NO=4538-50-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         42
+    27        102
+    28         69
+    29        794
+    30         49
+    31        479
+    33        305
+    34          2
+    39          3
+    40          6
+    41         94
+    42        413
+    43        999
+    44         71
+    45        982
+    46         19
+    47          4
+    53         10
+    54          9
+    55         48
+    56          7
+    57         11
+    58          4
+    59        630
+    60         16
+    61         18
+    69         89
+    70        284
+    71        741
+    72         55
+    73         23
+    74          4
+    75          3
+    85         15
+    86          2
+    87          6
+    91          2
+   101         84
+   102          3
+   103         10

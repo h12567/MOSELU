@@ -1,0 +1,55 @@
+##TITLE=Library Entry 73090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. NOMURA, DEP. CHEM., COLL. ARTS SCI., UNIV. TOKYO, JA
+PAN
+##NAMES=HP
+##CAS NAME=1-Morpholino-N-styryl-1-butanimine
+##MOLFORM=C16H22N2O
+##CAS REGISTRY NO=85572-32-3
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        120
+    41        350
+    42        430
+    43        400
+    44        110
+    45        100
+    51        150
+    54         90
+    55        130
+    56        470
+    57        480
+    69         90
+    70        180
+    71        160
+    72         70
+    77        340
+    84        110
+    86        160
+    87        130
+    91        140
+    99        180
+   100        999
+   101         80
+   102         70
+   103        300
+   104        110
+   105        190
+   115        100
+   117         70
+   118         70
+   119        200
+   128         70
+   131         90
+   139         70
+   167        120
+   172        100
+   189        200
+   258        220
+   259         40

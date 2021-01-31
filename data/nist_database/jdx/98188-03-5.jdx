@@ -1,0 +1,32 @@
+##TITLE=Library Entry 50493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. SPITELLER, LEHR. ORG. CHEM., UNIV. BAYREUTH, BAYREUT
+H, GER.
+##NAMES=HP
+##CAS NAME=Methyl 6-(2-furyl)hexanoate
+##MOLFORM=C11H16O3
+##CAS REGISTRY NO=98188-03-5
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    42        110
+    43         40
+    53        180
+    55        100
+    59         70
+    68         60
+    74         70
+    81        999
+    82        260
+    83         60
+    87         30
+    94         80
+    95        580
+   164         70
+   165        130
+   196        270

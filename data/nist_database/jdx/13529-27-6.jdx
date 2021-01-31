@@ -1,0 +1,66 @@
+##TITLE=Library Entry 70455
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2-Furaldehyde diethyl acetal
+##MOLFORM=C9H14O3
+##CAS REGISTRY NO=13529-27-6
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          6
+    26          5
+    27         34
+    28          5
+    29         80
+    30          4
+    31          5
+    37          3
+    38         11
+    39         74
+    40         10
+    41         87
+    42         11
+    43         13
+    44          2
+    45          6
+    47         24
+    50          5
+    51         12
+    52         14
+    53          5
+    55          5
+    57          5
+    66          2
+    67          9
+    68         34
+    69         58
+    70          5
+    75         14
+    79          3
+    80          7
+    81          8
+    82          5
+    84          0
+    85         11
+    88          1
+    95        132
+    96         57
+    97        999
+    98         52
+    99          5
+   103          3
+   112          2
+   113         33
+   114          2
+   125        632
+   126         45
+   127          4
+   141         12
+   170         57
+   171          5

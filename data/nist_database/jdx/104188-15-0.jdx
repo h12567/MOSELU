@@ -1,0 +1,59 @@
+##TITLE=Library Entry 32633
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Methyl-2,5-divinyltetrahydrofuran
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=104188-15-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=914
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        122
+    29         38
+    39        225
+    40         65
+    41        222
+    42         53
+    43        467
+    50         20
+    51         42
+    52         28
+    53        198
+    54        119
+    55        846
+    56         40
+    57         89
+    61          3
+    62          6
+    65         62
+    66         36
+    67        999
+    68        463
+    69         58
+    71        110
+    77         45
+    79        100
+    80         32
+    81        170
+    82        113
+    83         28
+    91         35
+    92         13
+    93         66
+    95        181
+    96        176
+    97         21
+   105         58
+   107         15
+   109         74
+   110         51
+   111         63
+   123        615
+   124         57
+   138          5

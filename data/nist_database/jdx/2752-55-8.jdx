@@ -1,0 +1,68 @@
+##TITLE=Library Entry 63253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RALPH O. MUMMA
+##NAMES=HP
+##CAS NAME=L-Phenylalanine, N-[(2,4-dichlorophenoxy)acetyl]-
+##MOLFORM=C17H15Cl2NO4
+##CAS REGISTRY NO=2752-55-8
+##MP= -300
+##BP= -300
+##MW= 367
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41         80
+    42        140
+    43         90
+    51        110
+    58         90
+    63        180
+    65        280
+    74        120
+    75        110
+    77        200
+    79        100
+    91        999
+    92        200
+    98         30
+    99         20
+   100         10
+   103        140
+   105        120
+   109        130
+   111        190
+   120        160
+   132        160
+   133         90
+   134         10
+   135         60
+   145        210
+   146         70
+   147        280
+   148        280
+   149         80
+   161        110
+   162        150
+   163         70
+   164         90
+   175        310
+   176         40
+   177        210
+   184        590
+   185         90
+   186        250
+   219        310
+   220         50
+   221        200
+   286         10
+   322         20
+   323         10
+   324         20
+   332         60
+   333         20
+   334         20
+   367         20
+   368         10
+   369         10

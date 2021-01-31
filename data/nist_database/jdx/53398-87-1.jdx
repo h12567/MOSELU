@@ -1,0 +1,39 @@
+##TITLE=Library Entry 51255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Hexenoic acid, 3-hexenyl ester, (E,Z)-
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=53398-87-1
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1403
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26         12
+    27         73
+    29         69
+    39         89
+    40         26
+    41        254
+    42         34
+    43         26
+    44         22
+    52         50
+    53         47
+    54        482
+    55         26
+    56         19
+    67        683
+    68         78
+    69         57
+    73         24
+    79         18
+    81         50
+    82        999
+    83         72
+    97        409
+   115         70

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 49297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. BRINK, HEYMANNSTRASSE, LEVERKUSEN, W. GER.
+##NAMES=HP
+##CAS NAME=Tetrakis(methylsulfonyl)hydrazine
+##MOLFORM=C4H12N2O8S4
+##CAS REGISTRY NO=86869-68-3
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29         20
+    45         30
+    48         50
+    63        170
+    64         40
+    65         40
+    79        999
+    80         40
+    81        120
+    94         50
+   111         20
+   143        180
+   158         60
+   175         10

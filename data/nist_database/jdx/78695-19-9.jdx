@@ -1,0 +1,58 @@
+##TITLE=Library Entry 107720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,7,11,15-Tetramethyl-hexadecyl nicotinate
+##MOLFORM=C26H45NO2
+##CAS REGISTRY NO=78695-19-9
+##MP= -300
+##BP= -300
+##MW= 403
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        178
+    42         49
+    43        290
+    51         48
+    55        244
+    56         99
+    57        258
+    69        181
+    70         62
+    71        120
+    78        123
+    79        121
+    80         38
+    81         24
+    83         88
+    85         20
+    97         39
+   106        194
+   107        243
+   124        999
+   125         72
+   137         20
+   151         20
+   178         19
+   179         28
+   192         39
+   206         19
+   220         48
+   248         28
+   249         19
+   262         33
+   276         24
+   290         59
+   291         19
+   318         48
+   319         20
+   332         38
+   346         19
+   360         39
+   388         49
+   389         20
+   402         10
+   403         14

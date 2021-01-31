@@ -1,0 +1,45 @@
+##TITLE=Library Entry 39707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Isopropylidene-hexadecano-hydrazide
+##MOLFORM=C19H38N2O
+##CAS REGISTRY NO=93612-49-8
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        181
+    42         53
+    43        289
+    44         24
+    55        170
+    56        142
+    57        209
+    58         29
+    59         36
+    60          9
+    67         23
+    68         11
+    69         59
+    70         24
+    71         94
+    72        999
+    73         99
+    74         17
+    97         28
+    98         29
+    99         33
+   114        260
+   115         24
+   127         52
+   128          9
+   141         17
+   239         28
+   295         76
+   296         18
+   310         45

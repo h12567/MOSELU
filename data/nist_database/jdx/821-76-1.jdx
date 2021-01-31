@@ -1,0 +1,65 @@
+##TITLE=Library Entry 20977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,7-Dichloroheptane
+##MOLFORM=C7H14Cl2
+##CAS REGISTRY NO=821-76-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         28
+    27        206
+    28         39
+    29        112
+    38         26
+    39        261
+    40         63
+    41        578
+    42        186
+    43        103
+    49        109
+    50         16
+    51         64
+    52         13
+    53         93
+    54        149
+    55        999
+    56        174
+    57         29
+    61         11
+    62         27
+    63         92
+    64         11
+    65         39
+    66         30
+    67        202
+    68        199
+    69        279
+    70        184
+    71         10
+    75         25
+    76         14
+    77         29
+    78          7
+    79         18
+    80          7
+    81        213
+    82         18
+    83         91
+    89         11
+    91        580
+    92         47
+    93        185
+    94          9
+    95         12
+    96         53
+    97         28
+   104        178
+   105         19
+   106         57

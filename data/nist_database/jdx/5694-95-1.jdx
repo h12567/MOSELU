@@ -1,0 +1,68 @@
+##TITLE=Library Entry 97271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,3-Dioxolane-2,2-diethanol
+##MOLFORM=C7H14O4
+##CAS REGISTRY NO=5694-95-1
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         76
+    28         27
+    29         51
+    30          7
+    31         89
+    33          6
+    39         42
+    40         19
+    41         68
+    42         82
+    43         88
+    44         41
+    45         92
+    46          8
+    51          5
+    53         38
+    54         22
+    55         88
+    56         22
+    57         27
+    58         14
+    59         11
+    60          4
+    61         14
+    67          6
+    69         15
+    70         18
+    71         48
+    72          7
+    73         91
+    74         14
+    75          4
+    81          7
+    82          6
+    83         18
+    84          8
+    85         17
+    86         35
+    87         94
+    88          7
+    89         20
+    97          9
+    99        353
+   100         31
+   101         14
+   113          8
+   115         12
+   117        999
+   118         97
+   119         14
+   127          4
+   162          0

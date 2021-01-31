@@ -1,0 +1,35 @@
+##TITLE=Library Entry 22335
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. DJERASSI
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1-butyl-2-(2-methylpropyl)-
+##MOLFORM=C11H22
+##CAS REGISTRY NO=41977-35-9
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        520
+    42        210
+    43        490
+    55        760
+    56        999
+    57        430
+    68         70
+    69        760
+    70        370
+    71         70
+    83        140
+    84        100
+    85         30
+    97         70
+    98         90
+   111         60
+   112         50
+   126         50
+   139         30
+   154         60

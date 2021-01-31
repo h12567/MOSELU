@@ -1,0 +1,31 @@
+##TITLE=Library Entry 107711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (4) 405(1977); G.D. MANNERS AND L. JURD
+##NAMES=HP
+##CAS NAME=1,4-Benzenediol, 2-[8-hydroxy-3-(hydroxymethyl)-7-methyl-2,6-octa
+dienyl]-
+##MOLFORM=C16H22O4
+##CAS REGISTRY NO=77828-64-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    28        760
+    43        810
+    55        510
+    67        300
+    79        300
+    91        270
+   107        270
+   119        320
+   124        999
+   137        330
+   147        230
+   161        720
+   174        280
+   260         95
+   278         50

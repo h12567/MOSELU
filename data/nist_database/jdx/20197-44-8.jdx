@@ -1,0 +1,63 @@
+##TITLE=Library Entry 10795
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Mannopyranoside, methyl 4-acetamido-4,6-dideoxy-, 2,3-diacetate,
+ .alpha.-D-
+##MOLFORM=C13H21NO7
+##CAS REGISTRY NO=20197-44-8
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39         28
+    41         17
+    42         17
+    43        999
+    44         78
+    45         57
+    56         78
+    57        178
+    58         42
+    59        171
+    60        107
+    70         35
+    71         35
+    72         78
+    73         28
+    74        357
+    82         78
+    83         78
+    84        100
+    86         42
+    87        267
+    88         89
+    97         42
+    98        267
+    99        214
+   100        107
+   101        649
+   102        196
+   103         35
+   114        414
+   115        125
+   116        142
+   129        321
+   130         71
+   141        100
+   142         67
+   143        125
+   144        196
+   155        232
+   157        321
+   158         35
+   184        428
+   199        203
+   212        100
+   243         71
+   272        114
+   303          7

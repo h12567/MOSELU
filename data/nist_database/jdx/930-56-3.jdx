@@ -1,0 +1,43 @@
+##TITLE=Library Entry 7018
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(2-methylcyclopropyl)-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=930-56-3
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    15        110
+    26         30
+    27        290
+    28         40
+    29        210
+    37         10
+    38         30
+    39        430
+    40         20
+    41        160
+    42         60
+    43        999
+    44         30
+    45         20
+    50         50
+    51         70
+    52         20
+    53        150
+    54         40
+    55        690
+    56         40
+    65         10
+    68         10
+    69         10
+    83        340
+    84         10
+    98         30

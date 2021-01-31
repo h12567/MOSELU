@@ -1,0 +1,38 @@
+##TITLE=Library Entry 46364
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.E.SAALFELD, NAVAL RESEARCH LAB., WASHINGTON, D.C., US
+A
+##NAMES=HP
+##CAS NAME=Molybdenum, pentacarbonyl(hexamethylphosphorous triamide-P)-, (OC
+-6-22)-
+##MOLFORM=C11H18MoN3O5P
+##CAS REGISTRY NO=14971-43-8
+##MP= -300
+##BP= -300
+##MW= 401
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    60        130
+    76        999
+    98         25
+   119        990
+   141         35
+   163        100
+   171         50
+   184         60
+   215        240
+   218         35
+   245         30
+   261        500
+   273         35
+   289         15
+   301         20
+   317         45
+   329         25
+   345         25
+   357         25
+   373         80
+   401        160

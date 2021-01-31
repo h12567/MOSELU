@@ -1,0 +1,62 @@
+##TITLE=Library Entry 48098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Pyridinesulfonylacetonitrile
+##MOLFORM=C7H6N2O2S
+##CAS REGISTRY NO=170449-34-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          8
+    25          3
+    26         30
+    27         69
+    28         33
+    32          1
+    37         12
+    38         37
+    39         60
+    40         97
+    41         12
+    44          2
+    45          1
+    48         32
+    49         18
+    50        119
+    51        441
+    52        132
+    53          6
+    57          6
+    58          1
+    62          2
+    63          5
+    64         18
+    65          6
+    66          2
+    67          2
+    68          1
+    69          4
+    70          3
+    75         23
+    76         35
+    78        999
+    79         64
+    80          2
+    81          2
+    82          3
+    83          1
+    91          3
+   118        189
+   119         14
+   126          1
+   142          9
+   182         30
+   183          3
+   184          2

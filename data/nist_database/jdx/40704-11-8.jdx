@@ -1,0 +1,49 @@
+##TITLE=Library Entry 51418
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 1194
+##NAMES=HP
+##CAS NAME=1H-Pyrazole-4-carboxylic acid, 3-methyl-
+##MOLFORM=C5H6N2O2
+##CAS REGISTRY NO=40704-11-8
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        230
+    42        340
+    43        100
+    44        170
+    45        110
+    46         10
+    49         90
+    50         50
+    51         80
+    52        310
+    53        460
+    54        630
+    55        230
+    56         50
+    57         30
+    65         30
+    66         50
+    67         90
+    68         50
+    69         30
+    77         40
+    80        130
+    81        790
+    82        999
+    83         60
+    91         20
+    95         20
+   105         20
+   107         30
+   108        180
+   109        490
+   110         40
+   126        310
+   127         20

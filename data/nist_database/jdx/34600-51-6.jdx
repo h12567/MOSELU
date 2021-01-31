@@ -1,0 +1,81 @@
+##TITLE=Library Entry 83661
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=1H-Pyrrole-2-carboxylic acid, 1-(2-hydroxy-2-phenylethyl)-
+##MOLFORM=C13H13NO3
+##CAS REGISTRY NO=34600-51-6
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    37         50
+    38         80
+    39        400
+    40         80
+    41        100
+    42         80
+    43         80
+    44        420
+    45         50
+    50        160
+    51        420
+    52        340
+    53        370
+    54        100
+    55         50
+    62         50
+    63         90
+    64         50
+    65        100
+    66         90
+    67         60
+    68         60
+    74         50
+    75         50
+    76         60
+    77        500
+    78        240
+    79        920
+    80        580
+    81        680
+    82         60
+    89         50
+    90         50
+    91        130
+    92         50
+    93         50
+    94        130
+    97         50
+   102         60
+   103         80
+   104         80
+   105        160
+   106        200
+   107        999
+   108        180
+   109         50
+   115         60
+   116         50
+   120         50
+   124        100
+   125        870
+   126         90
+   139         50
+   141         50
+   154         50
+   156         50
+   166         50
+   167         90
+   168        100
+   169         60
+   185         50
+   187        130
+   188         50
+   213        210
+   214         60
+   231         50

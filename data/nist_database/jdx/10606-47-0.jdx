@@ -1,0 +1,60 @@
+##TITLE=Library Entry 20497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Hepten-1-ol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=10606-47-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=941
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         24
+    27        177
+    28         49
+    29        148
+    30         24
+    31        183
+    32          0
+    38         29
+    39        278
+    40         60
+    41        540
+    42        132
+    43        121
+    44         37
+    45         14
+    50         27
+    51         49
+    52         24
+    53        133
+    54        256
+    55        999
+    56        163
+    57        120
+    58         14
+    63         12
+    65         37
+    66         29
+    67        271
+    68        171
+    69        110
+    70         43
+    71         30
+    72         14
+    77         20
+    79         55
+    81        592
+    82         49
+    83         66
+    84         24
+    85         15
+    86         29
+    95         28
+    96        209
+    97         17
+   114         22

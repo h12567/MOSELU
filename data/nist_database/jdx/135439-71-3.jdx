@@ -1,0 +1,49 @@
+##TITLE=Library Entry 13699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, Scientific Instruments & Applicatio
+ns
+##NAMES=HP
+##CAS NAME=4-(Acetyloxy)-.gamma.-[4-(acetyloxy)phenyl]-.gamma.-methylbenzene
+butanoic acid
+##MOLFORM=C21H22O6
+##CAS REGISTRY NO=135439-71-3
+##MP= -300
+##BP= -300
+##MW= 370
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         24
+    42         33
+    43        999
+    44         33
+    45         27
+    51         10
+    53         11
+    55         47
+    65         22
+    77         22
+    91         35
+    92         30
+   107         17
+   115         16
+   119         44
+   121         10
+   128         10
+   131         12
+   152         12
+   165         15
+   169         18
+   177         10
+   197         11
+   212         14
+   213        222
+   214         34
+   255        131
+   256         22
+   297         61
+   298         12
+   328         12
+   370         12

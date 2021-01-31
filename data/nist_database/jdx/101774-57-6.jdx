@@ -1,0 +1,80 @@
+##TITLE=Library Entry 32024
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Norbornanecarboxylic acid, 2-chloro-
+##MOLFORM=C8H11ClO2
+##CAS REGISTRY NO=101774-57-6
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    26         66
+    27        459
+    28        108
+    29        107
+    31         18
+    35         87
+    36        203
+    37         55
+    38        151
+    39        859
+    40        194
+    41        335
+    42         42
+    43         78
+    44         35
+    45        199
+    49         16
+    50         85
+    51        195
+    52         84
+    53        232
+    54         68
+    55        129
+    56         23
+    57         24
+    61         27
+    62         59
+    63        134
+    64         69
+    65        495
+    66        999
+    67        560
+    68         59
+    69         38
+    73         48
+    74         13
+    75         24
+    77        318
+    78         79
+    79        260
+    80         31
+    81         73
+    82        541
+    83         61
+    89         25
+    91        281
+    92        116
+    93        467
+    94         68
+    95         37
+    97         45
+    98         23
+   105         17
+   110        741
+   111        159
+   112         56
+   120         17
+   121         13
+   123         30
+   128         17
+   129         67
+   131         20
+   138        298
+   139         89
+   174          7

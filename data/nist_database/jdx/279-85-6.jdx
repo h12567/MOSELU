@@ -1,0 +1,43 @@
+##TITLE=Library Entry 33753
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=6-Azabicyclo[3.2.1]octane
+##MOLFORM=C7H13N
+##CAS REGISTRY NO=279-85-6
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        125
+    40         20
+    41        154
+    42         45
+    43         47
+    44        308
+    50         14
+    51         20
+    52         20
+    53         47
+    54         62
+    55         41
+    56         93
+    57         31
+    65         20
+    67         66
+    68        999
+    69        118
+    70         29
+    77         20
+    79         20
+    80         25
+    81         16
+    82        204
+    83         25
+    95         41
+   111        316
+   112         35

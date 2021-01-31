@@ -1,0 +1,45 @@
+##TITLE=Library Entry 84681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-methylphenyl ester
+##MOLFORM=C11H14O2
+##CAS REGISTRY NO=7476-80-4
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         22
+    28          8
+    39         22
+    41         32
+    42          3
+    43        164
+    44          5
+    50          3
+    51          9
+    52          6
+    53          8
+    55         13
+    63          5
+    65         15
+    70          5
+    71        116
+    72          4
+    77         43
+    78         13
+    79         31
+    80         16
+    89          4
+    90         15
+    91         31
+   107        114
+   108        999
+   109         82
+   110          5
+   178        135
+   179         16

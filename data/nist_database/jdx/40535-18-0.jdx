@@ -1,0 +1,64 @@
+##TITLE=Library Entry 64862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.PAULL MIDWEST RES. INST., KANSAS CITY, MISSOURI, USA
+##NAMES=HP
+##CAS NAME=3H-Naphtho[1,2-e][1,2]thiazin-2(4aH)-one, 5,6-dihydro-8,9-dimetho
+xy-3-(phenylmethyl)-, 4,4-dioxide
+##MOLFORM=C21H21NO5S
+##CAS REGISTRY NO=40535-18-0
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39         50
+    51         52
+    65        129
+    77         80
+    89         52
+    91        999
+    92         99
+   106         64
+   115        218
+   116         83
+   127         68
+   128        111
+   129         65
+   132        172
+   141         61
+   144         83
+   145         58
+   157         73
+   158         53
+   159         90
+   168         60
+   171        100
+   172         85
+   187        119
+   188        103
+   189         52
+   199         87
+   201        152
+   202        204
+   203        248
+   204         59
+   215         62
+   218         54
+   229         64
+   230        533
+   231        938
+   232        153
+   244        336
+   245         63
+   246         70
+   258         83
+   320         91
+   334         84
+   335        910
+   336        217
+   399        946
+   400        237
+   401         80

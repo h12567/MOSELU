@@ -1,0 +1,42 @@
+##TITLE=Library Entry 13653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Cyclohexanecarbonitrile, 4-[4'-(nonyloxy)[1,1'-biphenyl]-4-yl]-1-
+octyl-
+##MOLFORM=C36H53NO
+##CAS REGISTRY NO=124729-19-7
+##MP= -300
+##BP= -300
+##MW= 515
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27        179
+    29        300
+    41        467
+    43        999
+    45        301
+    55        372
+    57        266
+    69        208
+    71        161
+    96        200
+   133        338
+   135        171
+   166        158
+   181        209
+   183        385
+   191        277
+   194        131
+   196        542
+   209        804
+   210        157
+   389        487
+   390        140
+   515        716
+   516        272
+   517         53

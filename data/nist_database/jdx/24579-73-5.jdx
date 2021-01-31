@@ -1,0 +1,73 @@
+##TITLE=Library Entry 27807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Propamocarb
+##MOLFORM=C9H20N2O2
+##CAS REGISTRY NO=24579-73-5
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=1386
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    26          4
+    27         34
+    28         32
+    29         23
+    30         41
+    31         30
+    32          1
+    37          1
+    38          2
+    39         17
+    40          6
+    41         56
+    42        104
+    43         62
+    44         68
+    45         15
+    46          8
+    52          1
+    53          1
+    54          5
+    55          5
+    56         50
+    57          1
+    58        999
+    59         63
+    60          4
+    62          1
+    68          3
+    69          1
+    70         33
+    71         23
+    72         39
+    73          5
+    74          9
+    75          2
+    82          2
+    83          3
+    84         34
+    85          9
+    86          5
+    87          1
+    88          1
+    99          6
+   100          6
+   101          2
+   102          8
+   116          1
+   127          1
+   128          6
+   129         53
+   130          4
+   144          1
+   145          1
+   173          4
+   188         43
+   189          5

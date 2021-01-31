@@ -1,0 +1,35 @@
+##TITLE=Library Entry 49054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.GIRAUDI, CENT. RECHERCHE, ROURE BERTRAND DUPONT, GRAS
+SE, FR.
+##NAMES=HP
+##CAS NAME=(2Z,4Z,6E)-2,4,6-Undecatriene
+##MOLFORM=C11H18
+##CAS REGISTRY NO=85615-64-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1233
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        237
+    40         36
+    41        310
+    44          6
+    53         14
+    55         18
+    65         38
+    67         31
+    77        291
+    78          8
+    79        999
+    80         38
+    91        503
+    92         30
+    93        553
+    94         70
+   105          3
+   107        188
+   150        337

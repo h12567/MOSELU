@@ -1,0 +1,42 @@
+##TITLE=Library Entry 28363
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-(2-Dimethylaminoethyl)-3,3-dimethyldiaziridine
+##MOLFORM=C7H17N3
+##CAS REGISTRY NO=54731-08-7
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27         30
+    28         40
+    29         30
+    30         80
+    31          9
+    41         30
+    42        120
+    43         70
+    44         80
+    45         70
+    46          6
+    56         60
+    57         80
+    58        999
+    59        120
+    60          7
+    70         70
+    71        150
+    72         60
+    73         30
+    74          4
+    84         30
+    85         60
+    86         50
+    87          5
+   143         18
+   144          2

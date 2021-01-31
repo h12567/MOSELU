@@ -1,0 +1,80 @@
+##TITLE=Library Entry 73275
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1H-Phosphole, 2,5-dihydro-1-methyl-
+##MOLFORM=C5H9P
+##CAS REGISTRY NO=872-37-7
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         45
+    27        296
+    29         39
+    31          6
+    33          5
+    35          0
+    36          1
+    37         13
+    38         20
+    39        229
+    40          9
+    41        221
+    42          6
+    44         47
+    45        222
+    46         71
+    47         16
+    48         38
+    49         10
+    50         54
+    51         67
+    52         23
+    53        129
+    54         63
+    55         69
+    56         69
+    57        338
+    58         60
+    59         44
+    60          7
+    61         10
+    63          1
+    65         11
+    66         11
+    67         27
+    68         20
+    69         35
+    70          6
+    71         99
+    72         40
+    73         17
+    74         60
+    75          2
+    76          0
+    78          0
+    79          6
+    80         12
+    81         37
+    82         13
+    83        431
+    84         72
+    85        994
+    86         38
+    89          1
+    92          3
+    93          0
+    95          9
+    96          3
+    97         50
+    98         14
+    99        348
+   100        999
+   101         54
+   102          1

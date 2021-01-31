@@ -1,0 +1,56 @@
+##TITLE=Library Entry 1560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphoric acid, diethyl 1-propenyl ester
+##MOLFORM=C7H15O4P
+##CAS REGISTRY NO=34600-14-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    31        999
+    39         55
+    41         92
+    43        189
+    45        786
+    46        264
+    47        120
+    64         56
+    65        697
+    66        250
+    79         91
+    81        395
+    82        319
+    83        780
+    84         44
+    91         58
+    92         92
+    93        278
+    94        147
+    95         85
+    99        515
+   109        302
+   110        151
+   111        862
+   112         58
+   121         44
+   123         56
+   125         85
+   127        154
+   137        147
+   138        280
+   139         65
+   151         34
+   153         30
+   155        240
+   166         99
+   167         27
+   182         51
+   193         12
+   194        168
+   195         17

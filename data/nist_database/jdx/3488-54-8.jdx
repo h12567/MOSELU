@@ -1,0 +1,35 @@
+##TITLE=Library Entry 67100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenyl benzoate oxime
+##MOLFORM=C13H11NO2
+##CAS REGISTRY NO=3488-54-8
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39        197
+    40         20
+    51        400
+    52         30
+    65        160
+    66        250
+    67         29
+    77        858
+    78         60
+    94        999
+    95         81
+   103         98
+   104         20
+   105        289
+   106         39
+   195        119
+   196        389
+   197         50
+   213        200
+   214         19

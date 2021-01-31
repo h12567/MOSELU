@@ -1,0 +1,33 @@
+##TITLE=Library Entry 85932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Allyltrivinylsilane
+##MOLFORM=C9H14Si
+##CAS REGISTRY NO=115946-69-5
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    55        167
+    56         29
+    57        190
+    58          8
+    81         97
+    82         29
+    83        481
+    84         56
+    85         29
+    95         37
+    97         28
+   107         10
+   108          9
+   109        999
+   110        127
+   111        140
+   122         51
+   123         29

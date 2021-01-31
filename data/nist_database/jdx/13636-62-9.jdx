@@ -1,0 +1,29 @@
+##TITLE=Library Entry 80666
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(5)239(1979); R. K. M. R. KALLURY AND A. G. L
+OUDON
+##NAMES=HP
+##CAS NAME=Propanedioic acid, [(2-methylphenyl)hydrazono]-, diethyl ester
+##MOLFORM=C14H18N2O4
+##CAS REGISTRY NO=13636-62-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    43         50
+    44         60
+    79        600
+    91        400
+   105        999
+   106        680
+   107        120
+   132        240
+   204        480
+   205        120
+   232         40
+   233         80
+   278        370

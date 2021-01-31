@@ -1,0 +1,36 @@
+##TITLE=Library Entry 47144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,6-Nonadien-8-yn-3-ol, (E,E)-
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=43142-42-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    51         57
+    52         89
+    53        142
+    57        177
+    63         78
+    65        136
+    66         21
+    77        999
+    78        136
+    79        478
+    80         10
+    91         93
+    93         21
+   103         27
+   105         40
+   107        531
+   117         38
+   118         17
+   119         21
+   136        212
+   137          7

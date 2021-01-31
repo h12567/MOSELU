@@ -1,0 +1,67 @@
+##TITLE=Library Entry 18824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JAFCAU, 26(4)898(1978); R. O. MUMMA ET AL
+##NAMES=HP
+##CAS NAME=l-Serine, N-[(2,4,5-trichlorophenoxy)acetyl]-, methyl ester
+##MOLFORM=C12H12Cl3NO5
+##CAS REGISTRY NO=66789-87-5
+##MP= -300
+##BP= -300
+##MW= 355
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    54        999
+    55        200
+    56        147
+    58        104
+    59        243
+    61         86
+    62        130
+    68        269
+    73        208
+    74        156
+    82        617
+    83         86
+    86        269
+    96        304
+    97        295
+    99        121
+   100        243
+   101        156
+   109        191
+   110        173
+   111        121
+   114        852
+   128        173
+   132        130
+   133         86
+   134         86
+   143        208
+   144        121
+   145        243
+   146        200
+   147        139
+   148         95
+   167        104
+   169         86
+   179        278
+   181        295
+   183        121
+   196        426
+   198        417
+   200        147
+   207        130
+   209        243
+   211        121
+   242        104
+   302        869
+   303        147
+   304        582
+   305         95
+   306        165
+   337        278
+   339        278
+   341        104

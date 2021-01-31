@@ -1,0 +1,50 @@
+##TITLE=Library Entry 20913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin,TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 4-methylpentyl ester
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=5143-30-6
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=1036
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    36         47
+    38         10
+    39         47
+    40         15
+    41        130
+    42        108
+    43        275
+    44         42
+    45         11
+    51          3
+    52          2
+    53         19
+    54          3
+    55        999
+    56        170
+    57         30
+    58         25
+    59         18
+    68          6
+    69        190
+    70         50
+    71         53
+    72          5
+    73         65
+    82          3
+    83         11
+    84        453
+    85        110
+    86         27
+    87          9
+    95          3
+    96          4
+    97         10
+    98         12
+   127          4

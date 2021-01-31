@@ -1,0 +1,48 @@
+##TITLE=Library Entry 12985
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=D-Glucose, 6-O-(2,3,4,6-tetra-O-acetyl-.beta.-D-glucopyranosyl)-,
+ 2,3,4,5-tetraacetate
+##MOLFORM=C28H38O19
+##CAS REGISTRY NO=53270-74-9
+##MP= -300
+##BP= -300
+##MW= 678
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         27
+    69         32
+    70         20
+    73         31
+    81        117
+    85         31
+    97         42
+    98         75
+    99         20
+   102         28
+   103         48
+   109        162
+   110         20
+   112        107
+   115         85
+   127         48
+   139         42
+   140         64
+   141         48
+   145         79
+   155         85
+   157         93
+   169        194
+   200         33
+   211         28
+   215         39
+   242         31
+   243         46
+   317         43
+   331        114
+   332         21

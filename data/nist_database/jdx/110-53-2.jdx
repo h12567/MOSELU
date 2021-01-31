@@ -1,0 +1,62 @@
+##TITLE=Library Entry 8811
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2069
+##NAMES=HP
+##CAS NAME=Pentane, 1-bromo-
+##MOLFORM=C5H11Br
+##CAS REGISTRY NO=110-53-2
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=836
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    26         19
+    27        186
+    28         18
+    29        221
+    30          5
+    37          4
+    38          9
+    39        100
+    40         18
+    41        330
+    42        301
+    43        999
+    44         33
+    50          3
+    51          5
+    52          2
+    53         11
+    54          5
+    55        270
+    56         13
+    57         14
+    63          1
+    67          2
+    69         15
+    70         50
+    71        839
+    72         45
+    79          1
+    80          2
+    81          2
+    82          2
+    93          6
+    95          5
+   106          2
+   107         15
+   108          2
+   109         16
+   121          2
+   123          1
+   135          2
+   137          2
+   150         34
+   151          2
+   152         33
+   153          1

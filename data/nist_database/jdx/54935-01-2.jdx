@@ -1,0 +1,52 @@
+##TITLE=Library Entry 4496
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.ZEEH TUBINGEN UNIVERSITY, TUBINGEN F.R.G.
+##NAMES=HP
+##CAS NAME=1H-Azepine, 1-(2,3-dichloro-1-propenyl)hexahydro-
+##MOLFORM=C9H15Cl2N
+##CAS REGISTRY NO=54935-01-2
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        595
+    42        999
+    43        166
+    44        134
+    55        221
+    69        145
+    84        273
+    98        164
+   102        116
+   109        197
+   111        129
+   112        547
+   113         63
+   116        135
+   118         47
+   130        169
+   132         51
+   136         31
+   138         81
+   140         46
+   142         20
+   144         42
+   152         81
+   154         50
+   168         38
+   169         27
+   172        381
+   174        145
+   178        135
+   180         88
+   192         17
+   206         97
+   207        184
+   208         78
+   209        111
+   210         21
+   211         20

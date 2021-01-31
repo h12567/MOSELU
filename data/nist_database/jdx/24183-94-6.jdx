@@ -1,0 +1,95 @@
+##TITLE=Library Entry 32160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=endo-N-Hydroxy-5-norbornene-2,3-dicarboximide
+##MOLFORM=C9H9NO3
+##CAS REGISTRY NO=24183-94-6
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 80
+##XYDATA=(XY..XY) 1 
+    15          1
+    17          4
+    18         16
+    26         22
+    27         27
+    29          3
+    30          1
+    31          1
+    37          7
+    38         23
+    39        113
+    40         46
+    41         12
+    42          4
+    43          8
+    44          9
+    45         22
+    46         10
+    49          1
+    50         22
+    51         42
+    52         17
+    53         16
+    54         16
+    55         22
+    56          3
+    59          2
+    60          5
+    61          4
+    62         13
+    63         37
+    64         11
+    65        112
+    66        999
+    67         66
+    68          4
+    69          1
+    70          8
+    74          2
+    75          2
+    76          2
+    77         18
+    78          8
+    79          7
+    80         12
+    81          2
+    82          3
+    85          6
+    86          2
+    89         13
+    90         11
+    91        171
+    92         42
+    93          4
+    94          1
+    96          3
+    97          2
+    98         75
+    99          3
+   104          1
+   105          4
+   106          5
+   107          2
+   113          6
+   114         31
+   115          2
+   116          3
+   117          1
+   118          8
+   119         12
+   120          5
+   122          1
+   134         13
+   135          3
+   136          2
+   151          4
+   162          1
+   163         21
+   164          2
+   179         12

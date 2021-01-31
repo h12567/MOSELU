@@ -1,0 +1,45 @@
+##TITLE=Library Entry 55884
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=L-Leucine, methyl ester
+##MOLFORM=C7H15NO2
+##CAS REGISTRY NO=2666-93-5
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=1262
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         27
+    28         49
+    29         22
+    30        212
+    31         13
+    33         41
+    39         19
+    41         60
+    42         41
+    43        105
+    44        323
+    45         11
+    53          8
+    54          8
+    55         19
+    56         19
+    57         19
+    59         19
+    60          8
+    68          8
+    69         22
+    70         44
+    71          8
+    72          8
+    74         33
+    84         11
+    86        999
+    87         69
+    88        270
+    89         19

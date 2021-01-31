@@ -1,0 +1,55 @@
+##TITLE=Library Entry 32840
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Propylidencyclohexane
+##MOLFORM=C9H16
+##CAS REGISTRY NO=2129-93-3
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         24
+    39        294
+    40        228
+    41        564
+    42         42
+    43         90
+    44        102
+    50         21
+    51         48
+    52         24
+    53        174
+    54        306
+    55        450
+    56         81
+    57         42
+    63         12
+    65         39
+    66         90
+    67        999
+    68        510
+    69        228
+    70         36
+    77         54
+    78         12
+    79        108
+    80         96
+    81        984
+    82        850
+    83        114
+    93         18
+    94         12
+    95        324
+    96        132
+    97         12
+   107          6
+   109        246
+   110         24
+   124        330
+   125         33
+   126          1

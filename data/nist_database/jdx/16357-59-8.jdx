@@ -1,0 +1,91 @@
+##TITLE=Library Entry 114510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH; ALDRICH 14983-
+7
+##NAMES=HP
+##CAS NAME=1(2H)-Quinolinecarboxylic acid, 2-ethoxy-, ethyl ester
+##MOLFORM=C14H17NO3
+##CAS REGISTRY NO=16357-59-8
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14         18
+    15         44
+    16          6
+    18          2
+    19         11
+    25          9
+    26         42
+    27        206
+    28         81
+    29        652
+    30         36
+    31        154
+    32          0
+    37         13
+    38         24
+    39         50
+    41         10
+    42         11
+    43         36
+    44         69
+    45        106
+    46         25
+    49          6
+    50         65
+    51        100
+    52         40
+    53          4
+    55          4
+    61         10
+    62         23
+    63         58
+    64         47
+    65         21
+    73          1
+    74         36
+    75         61
+    76         74
+    77        102
+    78         34
+    79          9
+    87          4
+    88          4
+    89         43
+    90         36
+    91         51
+   100          7
+   101         60
+   102        163
+   103         96
+   104         12
+   115          5
+   116         16
+   117         40
+   118         26
+   127         12
+   128        182
+   129        552
+   130        999
+   131        118
+   132         10
+   143         46
+   144         10
+   145          6
+   146         41
+   156          2
+   158        293
+   159         40
+   174         24
+   202        544
+   203         82
+   204          7
+   247         33
+   248          1

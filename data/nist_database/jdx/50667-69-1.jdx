@@ -1,0 +1,66 @@
+##TITLE=Library Entry 15685
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-Hydroxymethyl fluoroacetamide
+##MOLFORM=C3H4F3NO2
+##CAS REGISTRY NO=50667-69-1
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    12         17
+    13         13
+    14         11
+    15         29
+    16         63
+    17          9
+    18          9
+    19          5
+    24          1
+    26          6
+    27         34
+    28        140
+    29        283
+    30         92
+    31        283
+    32         40
+    33          5
+    39          2
+    40          2
+    42         15
+    43         78
+    44        999
+    45         23
+    46         25
+    47         11
+    50         85
+    51        185
+    52          2
+    56         10
+    57          3
+    65          4
+    66         10
+    67          7
+    69        297
+    70          4
+    74         62
+    76          4
+    77         10
+    78         28
+    79          2
+    81          3
+    94         49
+    95         31
+    96         12
+    97          5
+   113         22
+   114         11
+   123         71
+   124          2
+   126          5
+   142          2

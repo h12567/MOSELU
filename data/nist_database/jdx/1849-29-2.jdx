@@ -1,0 +1,31 @@
+##TITLE=Library Entry 1610
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methan-d3-ol
+##MOLFORM=CHD3O
+##CAS REGISTRY NO=1849-29-2
+##MP= -300
+##BP= -300
+##MW= 35
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    12          5
+    14         11
+    15          4
+    16         33
+    17         18
+    18        261
+    28         41
+    29         67
+    30        396
+    31         43
+    32         50
+    33        999
+    34        106
+    35        716
+    36         28
+    37         14

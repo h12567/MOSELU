@@ -1,0 +1,55 @@
+##TITLE=Library Entry 85
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiazolo[3,2-c]pyrimidin-4-ium, 8-ethoxy-2,3-dihydro-5-methyl-, b
+romide
+##MOLFORM=C9H13BrN2OS
+##CAS REGISTRY NO=24611-16-3
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26        350
+    27        999
+    28        650
+    29        880
+    42        240
+    45        380
+    52        110
+    53        120
+    54        430
+    55        100
+    57        100
+    58        220
+    59        560
+    60        999
+    61         90
+    62         70
+    79        100
+    80        210
+    81        100
+    82        450
+    85        160
+    98         50
+    99         30
+   108        700
+   110        700
+   122         70
+   126        140
+   139         60
+   140         60
+   142         80
+   151         60
+   167        570
+   168        999
+   169        160
+   170        100
+   195        570
+   196        570
+   197        180
+   198         40

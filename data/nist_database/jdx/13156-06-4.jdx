@@ -1,0 +1,44 @@
+##TITLE=Library Entry 22236
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Azetidinol, 1-(1-methylethyl)-
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=13156-06-4
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    15         40
+    26         20
+    27        120
+    28         80
+    29         50
+    30        200
+    31         30
+    38         10
+    39         80
+    40         40
+    41        170
+    42        150
+    43        370
+    44        110
+    45         30
+    54         30
+    55         40
+    56        999
+    57         40
+    58         20
+    70         60
+    71        110
+    72         50
+    86         30
+   100        230
+   101         20
+   114         10
+   115         50
+   116         10

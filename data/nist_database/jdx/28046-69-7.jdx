@@ -1,0 +1,71 @@
+##TITLE=Library Entry 42078
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,4-dimethoxy-, trans-
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=28046-69-7
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    39        100
+    41        270
+    42         50
+    43        130
+    45        240
+    46         10
+    47         20
+    51         10
+    52         10
+    53         60
+    54         40
+    55         80
+    56         30
+    57         30
+    58        380
+    59         60
+    65         20
+    66         20
+    67         40
+    68         10
+    69         80
+    70         10
+    71        240
+    72         90
+    73        999
+    74         60
+    75         70
+    76         10
+    77         30
+    78         20
+    79         70
+    80         50
+    81        170
+    82         40
+    83         20
+    84        100
+    85         20
+    86         10
+    87         20
+    88         10
+    89         10
+    97         90
+    98         20
+    99         10
+   101         20
+   102         10
+   103         20
+   110         20
+   111        100
+   112        660
+   113         70
+   114         20
+   115         10
+   143         10
+   144         30
+   145         10

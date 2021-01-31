@@ -1,0 +1,49 @@
+##TITLE=Library Entry 107573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, R.S.Borisov, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-fluoro-, 4-biphenylyl ester
+##MOLFORM=C19H13FO2
+##CAS REGISTRY NO=300405-86-1
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=2593
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39          2
+    50          2
+    51          3
+    63          5
+    65          2
+    69          2
+    74          2
+    75         19
+    76          3
+    89          5
+    91          1
+    94          5
+    95        106
+    96          9
+   102          3
+   113          2
+   114          2
+   115         38
+   116          4
+   122          2
+   123        999
+   124         70
+   125          3
+   139         15
+   140          5
+   141         63
+   142          7
+   152          4
+   169         11
+   170         16
+   171          2
+   292        216
+   293         46
+   294          5

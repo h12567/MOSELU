@@ -1,0 +1,64 @@
+##TITLE=Library Entry 31447
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=8-Aminodinaphtho[1,2-b:2',3'-d]furan-7,12-quinone
+##MOLFORM=C20H11NO3
+##CAS REGISTRY NO=112535-18-9
+##MP= -300
+##BP= -300
+##MW= 313
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    38        583
+    41        281
+    42         25
+    44         31
+    45         36
+    50        241
+    51        229
+    52        195
+    53        105
+    54         67
+    62        999
+    64        295
+    65        133
+    69         24
+    74        216
+    75        158
+    76        117
+    77        124
+    86        217
+    87        156
+    88        117
+    89        109
+    91        292
+    98         86
+    99         68
+   100         73
+   101         77
+   110         90
+   111         59
+   112         29
+   113         47
+   114         50
+   118         45
+   122         31
+   126         26
+   137        141
+   138        140
+   139         63
+   150         30
+   156         27
+   163         36
+   174         28
+   200         40
+   201         42
+   202         29
+   227         44
+   228         46
+   313        137
+   314          9

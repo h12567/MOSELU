@@ -1,0 +1,49 @@
+##TITLE=Library Entry 73937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. P. Adams and V. Dev, Synthesis and GCMS analysis of
+ angelates and tiglates as an aid to identification of these components in e
+ssential oils, Flavour and Fragrance Journal, 25, 71, 2010
+##NAMES=HP
+##CAS NAME=Amyl tiglate
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=7785-65-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        218
+    42        185
+    43        289
+    44         47
+    45         37
+    50          9
+    51         25
+    52         14
+    53        105
+    54         84
+    55        888
+    56         68
+    57         63
+    60         14
+    69         42
+    70        150
+    71         21
+    73         21
+    82         72
+    83        695
+    84         47
+    85         80
+    97         47
+    98          9
+    99         21
+   100        185
+   101        999
+   102         51
+   113          9
+   114          9
+   155         25
+   170         14

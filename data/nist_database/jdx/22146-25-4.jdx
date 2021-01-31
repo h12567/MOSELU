@@ -1,0 +1,41 @@
+##TITLE=Library Entry 55046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Allyldimethyl(vinyl)silane
+##MOLFORM=C7H14Si
+##CAS REGISTRY NO=22146-25-4
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28        130
+    29         37
+    30         18
+    31         76
+    39         51
+    40          8
+    41         81
+    42         27
+    43        160
+    44         49
+    45         68
+    59        761
+    60         47
+    61         17
+    69          8
+    71         29
+    85        999
+    86         91
+    87         39
+    95         10
+    99         39
+   100         18
+   101         10
+   110          9
+   111         51
+   126         21

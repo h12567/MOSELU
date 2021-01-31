@@ -1,0 +1,67 @@
+##TITLE=Library Entry 19671
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Pentacos-1-ene
+##MOLFORM=C25H50
+##CAS REGISTRY NO=16980-85-1
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=2492
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         40
+    29        151
+    39         61
+    40         14
+    41        625
+    42        137
+    43        955
+    44         33
+    53         44
+    54        194
+    55        999
+    56        421
+    57        921
+    58         38
+    65         14
+    66         20
+    67        273
+    68        176
+    69        898
+    70        457
+    71        543
+    72         26
+    81        163
+    82        252
+    83        847
+    84        267
+    85        305
+    86         16
+    96        153
+    97        719
+    98        164
+    99         72
+   109         42
+   110         66
+   111        425
+   112        110
+   113         38
+   124         49
+   125        199
+   126         65
+   127         26
+   138         33
+   139         70
+   140         37
+   153         35
+   167         20
+   169          6
+   195          9
+   196          9
+   264          3
+   350         72
+   351         19

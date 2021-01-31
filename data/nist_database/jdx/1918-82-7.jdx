@@ -1,0 +1,82 @@
+##TITLE=Library Entry 87113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Thiophene, 2-ethenyl-
+##MOLFORM=C6H6S
+##CAS REGISTRY NO=1918-82-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=918
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    20         25
+    23          0
+    24          0
+    25         12
+    26         15
+    27         84
+    29         53
+    31         12
+    33         17
+    35          2
+    36          5
+    37         45
+    38         78
+    39        323
+    41          0
+    42          4
+    45        269
+    46          6
+    47         12
+    48          2
+    49         15
+    50        110
+    51        115
+    52         19
+    53         18
+    54         14
+    55         56
+    57         55
+    58        159
+    59         30
+    60         16
+    61         30
+    62         53
+    63         55
+    64         13
+    65        179
+    66        496
+    67         30
+    68          8
+    69        100
+    70         16
+    71         78
+    72         25
+    73          9
+    74         36
+    75         20
+    76         12
+    77         67
+    78         25
+    81         32
+    82         45
+    83         23
+    84        290
+    85          9
+    86         10
+    87          0
+    93          3
+    95         25
+    97          1
+   102          3
+   105          2
+   106          2
+   108         30
+   109        413
+   110        999
+   111        102
+   112         49

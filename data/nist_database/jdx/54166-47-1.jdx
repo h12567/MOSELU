@@ -1,0 +1,67 @@
+##TITLE=Library Entry 3625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=THE OHIO STATE UNIVERSITY, DEPT OF CHEM., COLUMBUS, OHI
+O, USA
+##NAMES=HP
+##CAS NAME=Bicyclo[5.1.0]octane, 8-(1-methylethylidene)-
+##MOLFORM=C11H18
+##CAS REGISTRY NO=54166-47-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1099
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         70
+    26         52
+    27        543
+    28        245
+    29        438
+    31        193
+    32         14
+    39        736
+    40        140
+    41        999
+    42        228
+    43        438
+    45        193
+    50         70
+    51        245
+    52        122
+    53        403
+    54        157
+    55        456
+    56         87
+    57        105
+    59        140
+    63        105
+    65        193
+    66        140
+    67        842
+    68        263
+    69        228
+    77        386
+    78        122
+    79        894
+    80        210
+    81        456
+    82        245
+    91        438
+    92         87
+    93        649
+    94        228
+    95        210
+    96         87
+   105        175
+   106         87
+   107        842
+   108        193
+   109        122
+   121        175
+   122        105
+   135        386
+   136         70
+   150        298
+   151         52

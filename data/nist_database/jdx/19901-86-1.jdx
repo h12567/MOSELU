@@ -1,0 +1,38 @@
+##TITLE=Library Entry 77588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R A. AUERBACH
+##NAMES=HP
+##CAS NAME=2-Oxazolidinone, 5-methyl-4-phenyl-, cis-
+##MOLFORM=C10H11NO2
+##CAS REGISTRY NO=19901-86-1
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39         64
+    43         43
+    44         53
+    45        128
+    50         74
+    51        191
+    52         64
+    63         53
+    65         42
+    77        308
+    78        213
+    79         53
+    90         42
+    91         85
+   104        999
+   106        106
+   117         21
+   132         74
+   133        851
+   134         85
+   149         21
+   177        138
+   178         21

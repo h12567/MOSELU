@@ -1,0 +1,53 @@
+##TITLE=Library Entry 10719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8411
+##NAMES=HP
+##CAS NAME=Propane-1,1-diol diacetate
+##MOLFORM=C7H12O4
+##CAS REGISTRY NO=33931-80-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          5
+    15         31
+    16          1
+    26          4
+    27         20
+    28         19
+    29         43
+    30          4
+    31         12
+    39          4
+    40          1
+    41          8
+    42         20
+    43        999
+    44         23
+    45         20
+    55          2
+    56          1
+    57         68
+    58         10
+    59         11
+    60          9
+    61          6
+    70          1
+    72          1
+    73          2
+    74          3
+    75          1
+    89          4
+   100          4
+   101        100
+   102          6
+   103         23
+   104          1
+   115          1
+   117          2
+   131          2

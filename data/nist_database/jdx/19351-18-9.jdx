@@ -1,0 +1,85 @@
+##TITLE=Library Entry 4852
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,2-Dimethylthiazolidine
+##MOLFORM=C5H11NS
+##CAS REGISTRY NO=19351-18-9
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=952
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    13          6
+    14         33
+    15        217
+    16          5
+    17          4
+    18         54
+    26         70
+    27        243
+    28        315
+    29         45
+    30        437
+    32         23
+    33         20
+    34         16
+    35         36
+    36          4
+    37         20
+    38         43
+    39        305
+    40         83
+    41        376
+    42        999
+    43         72
+    44        138
+    45        181
+    46        123
+    47         56
+    48         15
+    49          9
+    50          7
+    51         11
+    52         17
+    53          8
+    54         54
+    55         63
+    56        191
+    57         74
+    58        676
+    59        265
+    60         99
+    61        223
+    62         13
+    63         11
+    65          4
+    67         12
+    68         40
+    70        714
+    71        413
+    72         26
+    73         24
+    74         27
+    75          6
+    76          4
+    80          4
+    82         13
+    84         87
+    85         10
+    86          9
+    87          6
+    88         24
+    89          6
+    99         16
+   100         13
+   102        521
+   103         30
+   104         26
+   115         26
+   117        442
+   118         31
+   119         20

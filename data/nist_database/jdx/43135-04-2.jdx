@@ -1,0 +1,44 @@
+##TITLE=Library Entry 28314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Acetyl-1,1-dimethyl-2-carbomethoxyethylamine
+##MOLFORM=C8H15NO3
+##CAS REGISTRY NO=43135-04-2
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    43        241
+    44         61
+    45          5
+    58        999
+    59        123
+    60        621
+    61         32
+    62          3
+    73        181
+    74         41
+    82        151
+    83        421
+    84        247
+    85         19
+   100        283
+   101         41
+   114        261
+   115         53
+   116        613
+   117         53
+   118          8
+   141         19
+   142        101
+   143         21
+   158         61
+   159         12
+   173         93
+   174         19
+   175          1

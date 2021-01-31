@@ -1,0 +1,41 @@
+##TITLE=Library Entry 13440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=EP-1380
+##NAMES=HP
+##CAS NAME=1,2-Naphthalenediol, 4-chloro-, diacetate
+##MOLFORM=C14H11ClO4
+##CAS REGISTRY NO=57396-88-0
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        200
+    43        999
+    55        120
+    56        150
+    57        350
+    69         90
+    71        130
+    77        150
+    85        140
+    91        100
+   101        120
+   102        100
+   165          1
+   194        890
+   195        140
+   196        300
+   236        160
+   237         30
+   238         50
+   263        180
+   264         30
+   265         60
+   278         90
+   279         12
+   280         30
+   281          7

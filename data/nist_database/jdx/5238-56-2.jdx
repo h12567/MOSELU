@@ -1,0 +1,64 @@
+##TITLE=Library Entry 3299
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Scientific Instruments & Applications
+##NAMES=HP
+##CAS NAME=2-Propenamide, N-(2-hydroxyethyl)-2-methyl-
+##MOLFORM=C6H11NO2
+##CAS REGISTRY NO=5238-56-2
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39        383
+    40        165
+    41        999
+    42         90
+    43         36
+    44         46
+    45         15
+    46          3
+    50          1
+    51          2
+    52          1
+    53          7
+    54          4
+    55         17
+    56          4
+    57          2
+    58          1
+    59          3
+    67          1
+    69        994
+    70         57
+    71          5
+    72          4
+    73          6
+    79          1
+    80          2
+    81          7
+    82         32
+    83        158
+    84         11
+    85          1
+    86          3
+    87          2
+    91          1
+    94          1
+    95          1
+    96         16
+    98        110
+    99          8
+   100          1
+   109          2
+   111        127
+   112         23
+   113          2
+   124          2
+   126          1
+   128         51
+   129          4
+   147          1

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 31596
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Dimethyl Sulfoxide
+##MOLFORM=C2H6OS
+##CAS REGISTRY NO=67-68-5
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=824
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         13
+    14         35
+    15        117
+    16          6
+    17          0
+    18          5
+    26          8
+    27         45
+    28         18
+    29         88
+    30          7
+    31         61
+    32         21
+    33         32
+    34         39
+    35         61
+    36          4
+    44         30
+    45        324
+    46        117
+    47         99
+    48         90
+    49         13
+    50         12
+    57          6
+    58         11
+    59         10
+    60          6
+    61        169
+    62        107
+    63        999
+    64         29
+    65         47
+    78        761
+    79         24
+    80         25

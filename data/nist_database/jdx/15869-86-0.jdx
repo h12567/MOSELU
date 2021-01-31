@@ -1,0 +1,49 @@
+##TITLE=Library Entry 24035
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Octane, 4-ethyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=15869-86-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=952
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27        141
+    28         54
+    29        196
+    39        141
+    41        472
+    42        118
+    43        561
+    44         23
+    51         14
+    52          9
+    53         51
+    54         29
+    55        213
+    56        221
+    57        999
+    58         41
+    65         11
+    67         27
+    68         15
+    69        104
+    70        113
+    71        437
+    72         23
+    77         10
+    82         15
+    83         49
+    84        199
+    85        201
+    86         11
+    98        181
+    99         36
+   112        249
+   113         77
+   142         29

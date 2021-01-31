@@ -1,0 +1,56 @@
+##TITLE=Library Entry 73169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2008
+##NAMES=HP
+##CAS NAME=Silane, isocyanatotrimethyl-
+##MOLFORM=C4H9NOSi
+##CAS REGISTRY NO=1118-02-1
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=670
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          1
+    27          4
+    28          8
+    29         12
+    30          2
+    31          3
+    40          1
+    41          3
+    42         13
+    43         46
+    44          8
+    45          9
+    46          1
+    53          7
+    54          6
+    55          6
+    56         15
+    57          4
+    58          5
+    59          4
+    60          1
+    66          1
+    67          1
+    68          1
+    70        133
+    71         13
+    72        108
+    73          9
+    74          4
+    84          1
+    85          8
+    86         19
+    87          2
+    88          1
+   100        999
+   101         87
+   102         38
+   103          1
+   115         22
+   116          2

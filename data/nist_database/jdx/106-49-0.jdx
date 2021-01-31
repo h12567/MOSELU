@@ -1,0 +1,68 @@
+##TITLE=Library Entry 82853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8703
+##NAMES=HP
+##CAS NAME=p-Aminotoluene
+##MOLFORM=C7H9N
+##CAS REGISTRY NO=106-49-0
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=1072
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          4
+    27         19
+    28         23
+    29          4
+    30          9
+    37          3
+    38          9
+    39         35
+    40          7
+    41         12
+    42          8
+    43          1
+    44          1
+    49          2
+    50         19
+    51         40
+    52         41
+    53         50
+    54         24
+    55          2
+    56          1
+    61          3
+    62          7
+    63         18
+    64          9
+    65         19
+    66          9
+    67          5
+    68          1
+    73          1
+    74          4
+    75          5
+    76          6
+    77        129
+    78         41
+    79        105
+    80         28
+    81          4
+    86          1
+    87          1
+    89         14
+    90          9
+    91         17
+    92          4
+    93          1
+   102          1
+   104         24
+   105         10
+   106        999
+   107        831
+   108         62
+   109          2

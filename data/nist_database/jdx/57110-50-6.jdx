@@ -1,0 +1,66 @@
+##TITLE=Library Entry 68302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. NII, RES. LAB., NAGAOKA PERFUM. CO., OSAKA, JAPAN
+##NAMES=HP
+##CAS NAME=Methyl aciphyllate
+##MOLFORM=C16H24O2
+##CAS REGISTRY NO=57110-50-6
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41         70
+    43         50
+    55        150
+    59        120
+    67        100
+    77         70
+    79        400
+    80         50
+    81        220
+    91        150
+    92         50
+    93        400
+    94        520
+    95        999
+    96         80
+   105        150
+   107        200
+   108         50
+   109         50
+   117         70
+   119        100
+   120         30
+   121        250
+   122        200
+   123         70
+   131        180
+   132         50
+   133        230
+   134         50
+   135         70
+   136         50
+   145        100
+   146         50
+   147        100
+   152        100
+   155         50
+   159        100
+   160        120
+   161        130
+   162        100
+   173        130
+   188        370
+   189        350
+   190         50
+   191        100
+   192         50
+   193        100
+   216         50
+   233         50
+   248        200
+   249         30

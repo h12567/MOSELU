@@ -1,0 +1,46 @@
+##TITLE=Library Entry 7181
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hexanal, 5-methyl-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=1860-39-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=1150
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        250
+    28         40
+    29        250
+    39        210
+    40         30
+    41        520
+    42        240
+    43        999
+    44        580
+    45         60
+    53         40
+    54         40
+    55        700
+    56         80
+    57        260
+    58        110
+    59         20
+    67         20
+    68         30
+    69         70
+    70        430
+    71        530
+    72         80
+    81        290
+    82         20
+    86         80
+    95         20
+    96        290
+    97         20
+   114         10

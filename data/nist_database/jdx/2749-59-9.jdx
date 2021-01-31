@@ -1,0 +1,62 @@
+##TITLE=Library Entry 89231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1359
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 2,4-dihydro-2,5-dimethyl-
+##MOLFORM=C5H8N2O
+##CAS REGISTRY NO=2749-59-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          6
+    15         46
+    16          2
+    17          1
+    18          3
+    25          1
+    26          9
+    27         15
+    28          7
+    29          9
+    30          9
+    37          5
+    38         11
+    39         77
+    40         37
+    41        391
+    42        177
+    43        181
+    44         10
+    45          3
+    46          2
+    50          1
+    51          4
+    52          7
+    53          7
+    54         74
+    55         18
+    56          8
+    57          1
+    58          1
+    66          1
+    67         10
+    68          7
+    69        379
+    70        113
+    71         20
+    72          2
+    82          9
+    83         16
+    84         15
+    85          1
+    97         12
+   110          1
+   111         43
+   112        999
+   113         80
+   114          5

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 46390
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Rasala, Inst. Chem., Pedagogical Univ., Kielce, Pola
+nd
+##NAMES=HP
+##CAS NAME=Pyridine, 2-bromo-3-nitro-
+##MOLFORM=C5H3BrN2O2
+##CAS REGISTRY NO=19755-53-4
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    50        590
+    51        370
+    52        100
+    64         50
+    75        120
+    76        999
+    77        300
+    81         40
+   106         60
+   107         30
+   108         50
+   129        110
+   130         40
+   131        110
+   144         80
+   146         80
+   156        940
+   157         60
+   158        930
+   159         60
+   202        660
+   203         40
+   204        650
+   205         40

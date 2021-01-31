@@ -1,0 +1,46 @@
+##TITLE=Library Entry 4861
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=1-Propanamine, N-nitro-N-propyl-
+##MOLFORM=C6H14N2O2
+##CAS REGISTRY NO=4164-29-8
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    29        130
+    30        207
+    31         10
+    38         11
+    39         96
+    40         38
+    41        330
+    42        999
+    43        653
+    44         84
+    54         28
+    55         17
+    56         61
+    57         21
+    58        157
+    59         10
+    68         11
+    69         21
+    70        999
+    71        461
+    72        134
+    84         18
+    87         13
+    99         13
+   101         20
+   117        792
+   118         42
+   130         11
+   146        165
+   147         13

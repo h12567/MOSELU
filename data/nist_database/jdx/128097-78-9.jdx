@@ -1,0 +1,59 @@
+##TITLE=Library Entry 79000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V,G,Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=trans-3-Phenyl-4-(3-methylphenyl)-5-nitro-2-isoxazoline
+##MOLFORM=C16H14N2O3
+##CAS REGISTRY NO=128097-78-9
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    50        170
+    51        540
+    52        120
+    53         70
+    62         60
+    63        200
+    64         60
+    65        120
+    74         50
+    75         90
+    76        160
+    77        830
+    78        380
+    79        190
+    89        140
+    90         80
+    91        110
+   102        120
+   103        700
+   104        500
+   105        999
+   106        130
+   115         60
+   116         50
+   130        150
+   131         50
+   132         80
+   133        240
+   165        170
+   166         40
+   178         60
+   179         60
+   190         30
+   191         40
+   192         60
+   193        100
+   205         30
+   206        150
+   207        440
+   208        390
+   209         60
+   235        370
+   236        610
+   237        110

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 48385
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-[2-Pyridylthio]-5-nitrothiazole
+##MOLFORM=C8H5N3O2S2
+##CAS REGISTRY NO=40045-73-6
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    44         16
+    45         69
+    46         35
+    49          5
+    50         51
+    51        261
+    52         81
+    56          8
+    57        120
+    58         17
+    59          7
+    64         10
+    66          5
+    67          5
+    69         23
+    70         43
+    71         66
+    72          6
+    73          5
+    75          9
+    76         32
+    77          6
+    78        999
+    79         57
+    81         16
+    82         45
+    83         76
+    84         19
+    88         32
+    89         32
+    90          6
+    91          6
+    97          7
+   105         77
+   106          4
+   108          6
+   109          6
+   110         29
+   111         80
+   112          4
+   113         40
+   115        132
+   116          5
+   117         14
+   122         39
+   123          9
+   134          5
+   135        108
+   136         20
+   137         12
+   149        125
+   150          5
+   154          4
+   161         17
+   167         21
+   193        585
+   194         65
+   195         55
+   223         17
+   238         14
+   239        428
+   240         78
+   241         36
+   242          5

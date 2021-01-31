@@ -1,0 +1,43 @@
+##TITLE=Library Entry 73018
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-Oxazolidinone,4,4-dimethyl-
+##MOLFORM=C5H9NO2
+##CAS REGISTRY NO=26654-39-7
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        135
+    29        218
+    30         30
+    39        109
+    40         40
+    41        169
+    42        559
+    43         82
+    44         50
+    53          6
+    54         26
+    55         17
+    56        768
+    57        159
+    58         23
+    69          6
+    70          8
+    71          5
+    72         14
+    84         21
+    85          9
+    86         47
+    99          6
+   100        999
+   101         58
+   102          6
+   115         14
+   116         14

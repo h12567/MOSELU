@@ -1,0 +1,44 @@
+##TITLE=Library Entry 18873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooc
+tyl ester
+##MOLFORM=C11H5F15O2
+##CAS REGISTRY NO=307-98-2
+##MP= -300
+##BP= -300
+##MW= 454
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    25          3
+    26         41
+    27        252
+    28          3
+    29         29
+    30         13
+    31         32
+    33          3
+    42          2
+    44          2
+    51         10
+    53         20
+    55        999
+    56          5
+    57          9
+    64         12
+    75          1
+    85         54
+    86          1
+    91          1
+    93          3
+    95          6
+   100          7
+   119          4
+   135          4
+   435          5
+   454          1
+   455          2

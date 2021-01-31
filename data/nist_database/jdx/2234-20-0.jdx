@@ -1,0 +1,76 @@
+##TITLE=Library Entry 97539
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,4-Dimethylstyrene
+##MOLFORM=C10H12
+##CAS REGISTRY NO=2234-20-0
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1084
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15         72
+    17          2
+    18          8
+    26         29
+    27        167
+    28          6
+    29          8
+    38         43
+    39        271
+    40         35
+    41         40
+    50         85
+    51        147
+    52         61
+    53         71
+    54          5
+    58         32
+    61         16
+    62         61
+    63        174
+    64        116
+    65        160
+    66         17
+    67          3
+    73          4
+    74         40
+    75         37
+    76         31
+    77        159
+    78         69
+    79         52
+    80          3
+    87         14
+    89         64
+    91        347
+    92         38
+    93          4
+    98          7
+    99          2
+   101          7
+   102         44
+   103         59
+   104         32
+   105         71
+   106          8
+   113          4
+   115        501
+   116        192
+   117        999
+   118         99
+   119         61
+   120          7
+   126          7
+   127         37
+   128         75
+   129         76
+   130         22
+   131        236
+   132        657
+   133         74
+   134         19

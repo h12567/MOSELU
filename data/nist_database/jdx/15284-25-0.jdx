@@ -1,0 +1,51 @@
+##TITLE=Library Entry 52847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Tetrazole-1-ethanol
+##MOLFORM=C3H6N4O
+##CAS REGISTRY NO=15284-25-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    59        135
+    60         13
+    64         11
+    67         49
+    68         11
+    69        138
+    70         18
+    71        914
+    72        109
+    73         52
+    74         11
+    77         22
+    81         18
+    82          5
+    83        999
+    84        924
+    85        170
+    86         69
+    87         36
+    91         36
+    93          5
+    94         10
+    95         15
+    97         15
+    98          9
+    99          9
+   100          6
+   106          4
+   108          5
+   109          4
+   110         18
+   112         14
+   113         59
+   114        463
+   115         18
+   117         10

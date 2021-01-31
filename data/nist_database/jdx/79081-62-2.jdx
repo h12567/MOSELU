@@ -1,0 +1,30 @@
+##TITLE=Library Entry 68219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20 481(1981); M C GARCIA-ALVAREZ ET AL
+##NAMES=HP
+##CAS NAME=3,11-Diketo-lupan-20-ol
+##MOLFORM=C30H48O3
+##CAS REGISTRY NO=79081-62-2
+##MP= -300
+##BP= -300
+##MW= 456
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    81        770
+    95        999
+   189        630
+   205        230
+   207        380
+   233        770
+   273        210
+   286        140
+   299        340
+   370        120
+   398        280
+   410         90
+   423        100
+   438        620
+   456         60

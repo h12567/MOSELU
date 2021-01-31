@@ -1,0 +1,57 @@
+##TITLE=Library Entry 3488
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Geranyl nitrile
+##MOLFORM=C10H15N
+##CAS REGISTRY NO=101660-61-1
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    24         79
+    29          7
+    37          7
+    39         19
+    41        999
+    42        119
+    43         28
+    53         59
+    54         28
+    55         19
+    56         19
+    65          7
+    66         28
+    67        109
+    68         59
+    69        857
+    70        219
+    77          7
+    78          7
+    79         39
+    80         82
+    81        319
+    82         28
+    91         19
+    93         19
+    94         59
+   106          7
+   107         19
+   108        111
+   117         19
+   118          7
+   119          7
+   120          7
+   121         92
+   131          7
+   132         19
+   133          7
+   134        345
+   135         69
+   148        159
+   149        129
+   150         59

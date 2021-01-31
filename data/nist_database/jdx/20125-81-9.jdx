@@ -1,0 +1,64 @@
+##TITLE=Library Entry 38169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Octen-4-ol, (E)-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=20125-81-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         15
+    27        123
+    28         36
+    29         90
+    31         19
+    32          3
+    38         20
+    39        188
+    40         47
+    41        305
+    42         44
+    43        272
+    44         15
+    45         11
+    50         18
+    51         43
+    52         27
+    53        188
+    54        117
+    55         98
+    56         18
+    57         93
+    58         87
+    59          8
+    63         12
+    65         51
+    66         30
+    67        216
+    68        194
+    69         82
+    70          8
+    71        999
+    72         48
+    77         44
+    78         13
+    79        133
+    80         12
+    81        260
+    82         29
+    85         45
+    86        139
+    87         10
+    91          9
+    93          9
+    95         57
+    99         11
+   110        136
+   111         13
+   113         22

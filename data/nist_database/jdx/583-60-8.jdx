@@ -1,0 +1,49 @@
+##TITLE=Library Entry 33285
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2-methyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=583-60-8
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=953
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15         56
+    26         91
+    27        476
+    28        171
+    29        179
+    38         63
+    39        560
+    40        172
+    41        929
+    42        553
+    43        180
+    44         35
+    50         42
+    51         60
+    52         24
+    53        104
+    54         89
+    55        789
+    56        727
+    57         67
+    58         46
+    65         23
+    67        186
+    68        999
+    69        623
+    70        117
+    79         54
+    83        189
+    84        338
+    85         24
+    94         31
+    97        107
+   112        593
+   113         59

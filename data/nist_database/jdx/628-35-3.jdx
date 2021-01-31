@@ -1,0 +1,39 @@
+##TITLE=Library Entry 1524
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Ethanediol, monoformate
+##MOLFORM=C3H6O3
+##CAS REGISTRY NO=628-35-3
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=1624
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    14         16
+    15         99
+    17         22
+    18         95
+    19         27
+    27         68
+    28         28
+    29        180
+    30         22
+    31        999
+    32        121
+    33        207
+    41          6
+    42         29
+    43        124
+    44        157
+    45         67
+    46         17
+    47          9
+    60        422
+    61         31
+    62         30
+    72          7
+    73          6

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 2620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=cis-Dodec-5-enal
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=68820-33-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=1397
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        370
+    29        550
+    30         10
+    31         20
+    39        290
+    41        999
+    42        200
+    43        510
+    51         30
+    52         20
+    53        140
+    54        800
+    55        710
+    56        190
+    57        150
+    58         10
+    65         50
+    66         80
+    67        600
+    68        510
+    69        260
+    70        170
+    71         40
+    75         10
+    77         60
+    78         30
+    79        180
+    80        100
+    81        320
+    82        280
+    83        190
+    84        220
+    85         20
+    91         40
+    92         10
+    93         80
+    94         50
+    95        170
+    96        310
+    97        150
+    98        400
+   105         10
+   107         30
+   108         10
+   109        110
+   110        200
+   111         80
+   112         30
+   121         30
+   123         10
+   138        280
+   164        100
+   182          8

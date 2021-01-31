@@ -1,0 +1,53 @@
+##TITLE=Library Entry 36079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Bis(trifluoromethylthio)selenide
+##MOLFORM=C2F6S2Se
+##CAS REGISTRY NO=153204-89-8
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    31         88
+    32        196
+    50         40
+    51         18
+    63        104
+    64         26
+    69        999
+    70         10
+    76         20
+    77         18
+    78         50
+    80        102
+    82        106
+   101        106
+   108         70
+   109         57
+   110        162
+   112        341
+   114         78
+   131         20
+   144         15
+   177         52
+   178         43
+   179        134
+   181        298
+   182          6
+   183         61
+   211         15
+   213         32
+   215          8
+   261          4
+   263          5
+   278         25
+   279         20
+   280         65
+   282        138
+   284         39
+   286          2

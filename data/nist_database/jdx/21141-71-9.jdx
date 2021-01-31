@@ -1,0 +1,46 @@
+##TITLE=Library Entry 69701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Butene-1,2-diol, 1-(2-furanyl)-3-methyl-
+##MOLFORM=C9H12O3
+##CAS REGISTRY NO=21141-71-9
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    38         30
+    39        320
+    40         20
+    41        490
+    42         80
+    43        190
+    44         10
+    45         10
+    50         10
+    51         50
+    52         20
+    53         60
+    55         20
+    57        130
+    67         10
+    68         20
+    69        150
+    70         40
+    71         80
+    72        380
+    73         10
+    77         10
+    81         30
+    91         10
+    95         40
+    96         10
+    97        999
+    98        110
+   150         10
+   168         30

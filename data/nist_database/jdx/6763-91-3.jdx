@@ -1,0 +1,64 @@
+##TITLE=Library Entry 4591
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Insect Chem. Ecol. Lab., USDA, Beltsville, MD 20705
+##NAMES=HP
+##CAS NAME=N-Ethyl-hexahydro-1H-azepine
+##MOLFORM=C8H17N
+##CAS REGISTRY NO=6763-91-3
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=954
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41        856
+    42        999
+    43        906
+    44        546
+    45         71
+    46         38
+    50         16
+    51         56
+    52         18
+    53        113
+    54        117
+    55        335
+    56        606
+    57        423
+    58        257
+    59        100
+    60         62
+    65         32
+    67        158
+    68        148
+    69        180
+    70        581
+    71        412
+    72        226
+    73        192
+    77         54
+    79         60
+    80         14
+    81         77
+    82        114
+    83        142
+    84        451
+    85        158
+    86         53
+    95         15
+    96         62
+    97         61
+    98        516
+    99        279
+   100         33
+   107         17
+   109         53
+   110         96
+   111         47
+   112        815
+   113         62
+   126        156
+   127        891
+   128         88

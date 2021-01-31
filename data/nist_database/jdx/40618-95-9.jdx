@@ -1,0 +1,55 @@
+##TITLE=Library Entry 82347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=3-Methyl-3-trifluoromethyldiaziridine
+##MOLFORM=C3H5F3N2
+##CAS REGISTRY NO=40618-95-9
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    31        720
+    32         90
+    33         60
+    39         20
+    40        120
+    41        680
+    42        840
+    43        100
+    44         50
+    45         20
+    46        170
+    47         40
+    48         20
+    51        700
+    52         40
+    53          5
+    56        110
+    57        760
+    58        700
+    59         50
+    60        110
+    61          4
+    64         80
+    65         30
+    66        260
+    67         20
+    69        800
+    70         30
+    71          4
+    76        120
+    77        780
+    78         50
+    87        190
+    88         11
+   105        840
+   106        999
+   107         80
+   126        550
+   127         30
+   128          4

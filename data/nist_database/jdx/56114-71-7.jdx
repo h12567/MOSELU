@@ -1,0 +1,77 @@
+##TITLE=Library Entry 19983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=2-Hexenedioic acid, 2-methoxy-, dimethyl ester
+##MOLFORM=C9H14O5
+##CAS REGISTRY NO=56114-71-7
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    27        320
+    29        240
+    31        100
+    39        250
+    40         60
+    41        440
+    42        320
+    43        360
+    45        800
+    53        240
+    54        100
+    55        999
+    56        110
+    57         90
+    59        920
+    67        130
+    68         90
+    69        230
+    70         70
+    71        280
+    73         60
+    74         90
+    81        210
+    82        120
+    83        520
+    84         80
+    85        120
+    87        140
+    93         90
+    95         60
+    96         80
+    97        240
+    99         80
+   100         80
+   101        380
+   108        130
+   109        100
+   110        100
+   111        340
+   112        160
+   113        160
+   114        130
+   115        520
+   116         50
+   124        170
+   125        130
+   127        190
+   128        360
+   129        360
+   139        140
+   140         50
+   141        100
+   142        400
+   143        580
+   144         50
+   152        230
+   153        110
+   155        150
+   171         80
+   172         80
+   202         20

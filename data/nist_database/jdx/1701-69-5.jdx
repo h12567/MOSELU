@@ -1,0 +1,67 @@
+##TITLE=Library Entry 82502
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethyl 4-pyridyl ketone
+##MOLFORM=C8H9NO
+##CAS REGISTRY NO=1701-69-5
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          1
+    15         12
+    24          1
+    26         59
+    27        169
+    28         12
+    29        233
+    30          5
+    31          3
+    37         12
+    38         20
+    39         38
+    40          3
+    42          9
+    43          3
+    49         20
+    50        186
+    51        516
+    52         75
+    53         21
+    54          4
+    55         15
+    56          8
+    57         96
+    58          3
+    61          5
+    62          9
+    63         13
+    64          5
+    65          8
+    66          2
+    74          3
+    75          9
+    76         13
+    78        759
+    79        109
+    80         10
+    86          1
+    92          2
+    93          2
+   102          1
+   103          1
+   106        999
+   107         74
+   108          5
+   116          2
+   117          1
+   118          2
+   135        414
+   136         40
+   137          3

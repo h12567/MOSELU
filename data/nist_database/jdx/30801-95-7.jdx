@@ -1,0 +1,37 @@
+##TITLE=Library Entry 38157
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Trans-3-methylpent-3-ene-5-ol
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=30801-95-7
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    31         35
+    39        440
+    40         35
+    41        680
+    42         40
+    43        350
+    44         25
+    53        100
+    54         30
+    55        280
+    56        125
+    57        133
+    67        350
+    68         30
+    69        150
+    70         20
+    71        999
+    72         40
+    82        125
+    83         20
+   100        130
+   101          9

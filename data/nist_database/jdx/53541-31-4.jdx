@@ -1,0 +1,30 @@
+##TITLE=Library Entry 49379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2,4,6-Trinitrophenol, methylsulfonate
+##MOLFORM=C7H5N3O9S
+##CAS REGISTRY NO=53541-31-4
+##MP= -300
+##BP= -300
+##MW= 307
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    46         10
+    62         70
+    79        999
+    80         40
+    81         50
+   166         30
+   184         30
+   199         50
+   213         50
+   229        260
+   243         80
+   307        390
+   308         82
+   309         26
+   310          4

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 50001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Thiabicyclo[4.1.0]heptane, 1-methyl-
+##MOLFORM=C7H12S
+##CAS REGISTRY NO=7272-23-3
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    29        260
+    30         30
+    31        400
+    32         90
+    38         20
+    39        470
+    40        150
+    41        610
+    42        140
+    43        690
+    44        120
+    45        290
+    46         80
+    47         30
+    50         40
+    51         80
+    52         40
+    53        320
+    54        200
+    55        700
+    56         90
+    57         60
+    58        130
+    59        100
+    60         40
+    61         20
+    63         10
+    65         70
+    66         60
+    67        690
+    68        610
+    69        190
+    70         30
+    71        180
+    72         20
+    73         30
+    74         40
+    77        120
+    78         20
+    79        360
+    80        100
+    81        999
+    82         80
+    83         90
+    84         70
+    85         80
+    86         30
+    87        130
+    91         40
+    93         50
+    94        330
+    95        580
+    96        330
+    97        470
+    98         30
+    99         40
+   100         20
+   111         30
+   112         90
+   113         40
+   114         50
+   128        340
+   129         20
+   130         20

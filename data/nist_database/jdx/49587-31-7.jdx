@@ -1,0 +1,46 @@
+##TITLE=Library Entry 13015
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Sophorose peracetate
+##MOLFORM=C28H38O19
+##CAS REGISTRY NO=49587-31-7
+##MP= -300
+##BP= -300
+##MW= 678
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         31
+    69         27
+    73         27
+    81         85
+    85         31
+    97         65
+    98         74
+    99         31
+   102         25
+   103         53
+   109        280
+   110         36
+   112         65
+   115         96
+   126         20
+   127         85
+   139         63
+   140         42
+   141         28
+   145         76
+   157         55
+   169        542
+   170         46
+   200         38
+   211         28
+   242         32
+   243         31
+   317         42
+   331        302
+   332         64

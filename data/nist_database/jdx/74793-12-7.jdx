@@ -1,0 +1,29 @@
+##TITLE=Library Entry 49938
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-chloro-2-[(2-furanylmethyl)amino]-
+##MOLFORM=C12H10ClNO3
+##CAS REGISTRY NO=74793-12-7
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    44         32
+    51         19
+    52         18
+    53        153
+    63         13
+    64         56
+    69         30
+    81        999
+    82         80
+    96         95
+    97         10
+   232         18
+   250         16
+   251         28

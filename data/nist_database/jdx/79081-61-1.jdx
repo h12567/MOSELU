@@ -1,0 +1,29 @@
+##TITLE=Library Entry 107670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20 481(1981); M C GARCIA-ALVAREZ ET AL
+##NAMES=HP
+##CAS NAME=11.alpha.-Acetoxy-3-keto-lupan-20-ol
+##MOLFORM=C32H52O4
+##CAS REGISTRY NO=79081-61-1
+##MP= -300
+##BP= -300
+##MW= 500
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+   123        999
+   189        140
+   195        380
+   203        340
+   216        120
+   255        120
+   269        100
+   318        220
+   339        120
+   379        100
+   382         60
+   407        230
+   422        780
+   482         20

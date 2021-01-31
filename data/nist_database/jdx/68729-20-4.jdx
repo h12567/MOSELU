@@ -1,0 +1,40 @@
+##TITLE=Library Entry 17366
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methyl 2-(methyl-methoxymethyl-amino)acetate
+##MOLFORM=C6H13NO3
+##CAS REGISTRY NO=68729-20-4
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    31         82
+    32         56
+    41         46
+    42        220
+    43         56
+    44         72
+    45        999
+    46         41
+    55         15
+    56         46
+    57         61
+    58        266
+    59         36
+    72         26
+    74         77
+    75         36
+    86         46
+    88        589
+    89         46
+   100         56
+   115         46
+   116        297
+   117         41
+   147         56
+   148          7

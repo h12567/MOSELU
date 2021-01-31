@@ -1,0 +1,56 @@
+##TITLE=Library Entry 11218
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LDDRD, NCI, NIH-FCRDC, Frederick, MD 21702
+##NAMES=HP
+##CAS NAME=Azacitidine
+##MOLFORM=C8H12N4O5
+##CAS REGISTRY NO=320-67-2
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        200
+    42        560
+    43        999
+    44        586
+    45        202
+    46         77
+    53         76
+    55        215
+    56        146
+    57        265
+    60        178
+    61         82
+    68        136
+    69        305
+    70        482
+    71        328
+    72         86
+    73        210
+    74         84
+    83         77
+    84        103
+    85        154
+    86        207
+    97         92
+    99         83
+   110         37
+   111        207
+   112        751
+   113        602
+   114        105
+   141        300
+   142         72
+   152         98
+   153         37
+   171        120
+   172         39
+   212         43
+   213         39
+   214         22
+   226         36
+   227         20

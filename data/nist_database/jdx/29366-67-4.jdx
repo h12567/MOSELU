@@ -1,0 +1,37 @@
+##TITLE=Library Entry 47283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=s-Triazine-2-carboxylic acid, 4,6-diphenyl-, ethyl ester
+##MOLFORM=C18H15N3O2
+##CAS REGISTRY NO=29366-67-4
+##MP= -300
+##BP= -300
+##MW= 305
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50        130
+    51        300
+    52         50
+    55         50
+    57         50
+    76        330
+    77        999
+    78        110
+   102        100
+   103        620
+   104        530
+   105         80
+   129        620
+   130        970
+   131        130
+   132         10
+   232        130
+   233        620
+   234        380
+   235         60
+   305        280
+   306         50

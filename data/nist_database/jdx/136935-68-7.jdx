@@ -1,0 +1,56 @@
+##TITLE=Library Entry 30528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Allyl(n-pentyl)dimethylsilane
+##MOLFORM=C10H22Si
+##CAS REGISTRY NO=136935-68-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    40         12
+    41         48
+    42         18
+    43        133
+    44         36
+    45         67
+    46          6
+    53         12
+    54          6
+    55         30
+    56          6
+    57         25
+    58         49
+    59        999
+    60         73
+    61         36
+    67          9
+    68          6
+    69         27
+    70         12
+    71         36
+    72         30
+    73        188
+    74         21
+    75         12
+    83         12
+    85         61
+    86         12
+    87         67
+    88          9
+    97          6
+    99         61
+   100          6
+   101         18
+   127          9
+   128          9
+   129        273
+   130         36
+   131         18
+   155          5
+   170          1

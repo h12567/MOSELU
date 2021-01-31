@@ -1,0 +1,64 @@
+##TITLE=Library Entry 1498
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=1-Pentanol, 2,2,3,3,4,4,5,5-octafluoro-
+##MOLFORM=C5H4F8O
+##CAS REGISTRY NO=355-80-6
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=748
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    29        175
+    30         24
+    31        999
+    33         57
+    42         28
+    44         17
+    45          9
+    49        147
+    50         31
+    51        498
+    52          1
+    56          2
+    57         12
+    60         21
+    61        176
+    62         55
+    63         44
+    64         48
+    67         21
+    69        365
+    71          7
+    74          4
+    75         81
+    77         14
+    79         17
+    80         55
+    81         92
+    82        104
+    83         34
+    91         31
+    93         66
+    94          9
+    95        194
+   100        122
+   101         94
+   109          1
+   111         58
+   113        129
+   119         21
+   125          4
+   129          1
+   131        178
+   132         20
+   143         18
+   145         58
+   151          5
+   163         18
+   182         33
+   212          1

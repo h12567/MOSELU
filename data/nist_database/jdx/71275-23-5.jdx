@@ -1,0 +1,56 @@
+##TITLE=Library Entry 73288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY, INST. ORG. CHEM., UNIV. KARLSRUHE, WEST G
+ERMAN
+##NAMES=HP
+##CAS NAME=3-Acetamido-3-ethylhexane
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=71275-23-5
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         84
+    28        100
+    29         84
+    30        124
+    39         52
+    40         12
+    41        180
+    42         72
+    43        312
+    44         68
+    53         20
+    54         16
+    55        260
+    56         92
+    57         32
+    58         60
+    59         10
+    60        352
+    67         20
+    69         72
+    70         76
+    71         36
+    72         15
+    82         10
+    83        184
+    84        112
+    85         12
+    86        480
+    87         28
+    98         10
+   100        999
+   101         68
+   112         72
+   128        188
+   129         15
+   142        268
+   143         24
+   171          7
+   172          5

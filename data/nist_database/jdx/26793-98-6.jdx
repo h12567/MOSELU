@@ -1,0 +1,79 @@
+##TITLE=Library Entry 1472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1245
+##NAMES=HP
+##CAS NAME=dl-Glyceraldehyde dimer
+##MOLFORM=C6H12O6
+##CAS REGISTRY NO=26793-98-6
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         10
+    14         37
+    15        239
+    16          4
+    17         32
+    18        134
+    19          9
+    24          2
+    25          8
+    26         20
+    27         33
+    28        141
+    29        302
+    30         82
+    31        999
+    32         68
+    33        117
+    34          1
+    36          2
+    37          4
+    38          3
+    39          4
+    40          3
+    41         12
+    42        195
+    43        444
+    44         98
+    45         18
+    46          5
+    47          2
+    52          1
+    53          4
+    54          1
+    55          4
+    56          6
+    57          3
+    58         15
+    59         17
+    60        242
+    61        267
+    62         43
+    63          2
+    69          2
+    71          5
+    72         75
+    73          6
+    74          1
+    75          1
+    83          1
+    85          1
+    86          1
+    87          2
+    88         13
+    89          1
+    90          3
+    91          2
+    92          1
+   101          6
+   103          1
+   117          1
+   129          1
+   136          1
+   137          1

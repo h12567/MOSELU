@@ -1,0 +1,62 @@
+##TITLE=Library Entry 50251
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,3-Dimethyl-1,4-pentadiene
+##MOLFORM=C7H12
+##CAS REGISTRY NO=758-86-1
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=706
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         22
+    16          2
+    26         30
+    27        222
+    28         58
+    29         91
+    31          3
+    32          6
+    37         15
+    38         47
+    39        401
+    40         65
+    41        376
+    42         31
+    43         13
+    44          4
+    45          2
+    49          5
+    50         53
+    51         80
+    52         41
+    53        291
+    54         83
+    55        161
+    56         49
+    57          3
+    61          5
+    62         10
+    63         20
+    64          6
+    65         67
+    66         43
+    67        149
+    68         32
+    69         14
+    74          6
+    77         76
+    79        403
+    81        999
+    82         57
+    83          2
+    91          8
+    93          7
+    95         40
+    96        108
+    97          8

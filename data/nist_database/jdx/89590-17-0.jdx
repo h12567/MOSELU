@@ -1,0 +1,36 @@
+##TITLE=Library Entry 87374
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=[(Phenylthio)formamido]sulfur pentafluoride
+##MOLFORM=C7H6F5NOS2
+##CAS REGISTRY NO=89590-17-0
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        119
+    45         47
+    47        114
+    50         60
+    51         95
+    65        214
+    66        214
+    69         95
+    70         38
+    77         76
+    84        109
+    89         90
+   108         72
+   109        405
+   110        999
+   127        226
+   137         72
+   150         47
+   169         24
+   170         24
+   279         24

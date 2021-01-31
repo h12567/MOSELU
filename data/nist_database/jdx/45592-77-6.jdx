@@ -1,0 +1,57 @@
+##TITLE=Library Entry 70934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Thiazole, 5-(2-chloroethyl)-
+##MOLFORM=C5H6ClNS
+##CAS REGISTRY NO=45592-77-6
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        126
+    42         37
+    43        103
+    44         63
+    45        211
+    46         19
+    47         20
+    50         31
+    51         42
+    52         23
+    53         39
+    54         44
+    55         84
+    56         42
+    57         46
+    58         86
+    59         31
+    60         11
+    65         23
+    66         11
+    67         51
+    68         31
+    69         35
+    70         11
+    71        151
+    72         19
+    73         19
+    80         20
+    81        104
+    82         42
+    83         16
+    84         37
+    85         63
+    86         11
+    87         15
+    88         12
+    98        999
+    99         73
+   100         42
+   147        211
+   148         19
+   149         82

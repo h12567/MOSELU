@@ -1,0 +1,39 @@
+##TITLE=Library Entry 24814
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.C.KELLER UNIV. OF ARIZONA, TUCSON, ARIZONA, USA
+##NAMES=HP
+##CAS NAME=Diborane(6), .mu.-mercapto-
+##MOLFORM=B2H6S
+##CAS REGISTRY NO=22548-43-2
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    11         90
+    12         29
+    13        175
+    22          9
+    23          6
+    24         70
+    25         20
+    26         50
+    27        350
+    32        135
+    33        175
+    34        430
+    43         30
+    44        130
+    45        275
+    46        135
+    48          8
+    54         25
+    55        215
+    56        900
+    57        999
+    58        405
+    59        180
+    60          5

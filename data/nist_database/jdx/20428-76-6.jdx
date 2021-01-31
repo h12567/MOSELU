@@ -1,0 +1,55 @@
+##TITLE=Library Entry 30646
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. Xie ET AL, Org.Mass Spectrom.,27,807(1992)
+##NAMES=HP
+##CAS NAME=Methyl bromodichloroacetate
+##MOLFORM=C3H3BrCl2O2
+##CAS REGISTRY NO=20428-76-6
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    47        113
+    49         41
+    59        999
+    60         11
+    61         36
+    63        155
+    65         38
+    79         38
+    81         44
+    82        180
+    84        100
+    86          8
+    91         41
+    93         36
+    97         22
+    99         10
+   107          8
+   109          5
+   110         33
+   112         16
+   113        213
+   115        125
+   117         11
+   126        130
+   128        177
+   130         36
+   141        489
+   142          5
+   143        313
+   145         41
+   156         13
+   157          5
+   159         11
+   161        586
+   163        894
+   165        397
+   167         47
+   185          8
+   187         10
+   189          6

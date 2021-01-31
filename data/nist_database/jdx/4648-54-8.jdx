@@ -1,0 +1,66 @@
+##TITLE=Library Entry 72919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Azidotrimethylsilane
+##MOLFORM=C3H9N3Si
+##CAS REGISTRY NO=4648-54-8
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    26          2
+    27          7
+    28         19
+    29         39
+    30         11
+    31         23
+    32          1
+    33          1
+    39          1
+    40          1
+    41         12
+    42         72
+    43        271
+    44         49
+    45        277
+    46         18
+    47         10
+    50          1
+    52          2
+    53         25
+    54         16
+    55         28
+    56         71
+    57         23
+    58         27
+    59         40
+    60          4
+    61          1
+    65          1
+    66          2
+    67          2
+    68          2
+    69          1
+    70         94
+    71         11
+    72         11
+    73        173
+    74         15
+    75          6
+    85          6
+    86          5
+    87          1
+   100        999
+   101        106
+   102         45
+   103          1
+   115        211
+   116         21
+   117          8

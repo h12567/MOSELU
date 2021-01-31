@@ -1,0 +1,31 @@
+##TITLE=Library Entry 47702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.G.SMITH, DEP. CHEM., WATERLOO UNIV., ONTARIO, CANA
+##NAMES=HP
+##CAS NAME=4-Methyl-N-phenylbenzimidoyl cyanide
+##MOLFORM=C15H12N2
+##CAS REGISTRY NO=54615-67-7
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    77        999
+    78        260
+    83        700
+    85        490
+    89        160
+    91        220
+   103        130
+   116        130
+   117        100
+   136        160
+   143        130
+   194        400
+   205        310
+   219        400
+   220        860
+   221        170

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 1724
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Methyl-7-azabicyclo(2,2,1)hept-2-ene
+##MOLFORM=C7H11N
+##CAS REGISTRY NO=55590-26-6
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    37        149
+    38        250
+    39        999
+    40        219
+    41        199
+    42        927
+    43         70
+    50        199
+    51        220
+    52        160
+    53        667
+    54        320
+    55        418
+    66         20
+    78         50
+    80        420
+    81        408
+    82         70
+    83        100
+    94         30
+   109         19

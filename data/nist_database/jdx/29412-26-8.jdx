@@ -1,0 +1,54 @@
+##TITLE=Library Entry 44001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Muco-Inositol, 6TMS derivative
+##MOLFORM=C24H60O6Si6
+##CAS REGISTRY NO=29412-26-8
+##MP= -300
+##BP= -300
+##MW= 612
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    73        999
+    74         30
+   103         43
+   104          4
+   129         57
+   130          4
+   133         57
+   134          4
+   147        313
+   148         35
+   189         10
+   191        200
+   192         22
+   204         83
+   205          9
+   217        409
+   218         43
+   219          4
+   221         27
+   265        104
+   266         13
+   291         33
+   293         18
+   305        426
+   306         52
+   307          9
+   318        435
+   319         52
+   320          9
+   343          6
+   367         38
+   393         20
+   419          7
+   432          6
+   433         17
+   507         21
+   522          1
+   597          1
+   612          2

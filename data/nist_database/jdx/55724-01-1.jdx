@@ -1,0 +1,51 @@
+##TITLE=Library Entry 41885
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Silane, [[3-(4-chlorophenyl)-3-butenyl]oxy]trimethyl-
+##MOLFORM=C13H19ClOSi
+##CAS REGISTRY NO=55724-01-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    43         40
+    44         40
+    45        110
+    47         50
+    51         30
+    58         20
+    59         50
+    61         20
+    63         10
+    72         10
+    73        999
+    74         80
+    75        190
+    76         10
+    77         20
+    92         10
+   101        120
+   102         30
+   103        840
+   104         80
+   105         30
+   115         20
+   125         10
+   127         20
+   128         40
+   129         70
+   164         10
+   169         30
+   209         30
+   211         10
+   239         70
+   240         10
+   241         20
+   254         60
+   256         20

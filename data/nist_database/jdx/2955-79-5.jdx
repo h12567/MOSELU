@@ -1,0 +1,38 @@
+##TITLE=Library Entry 65055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Ethoxycarbonyl-1H-azepine
+##MOLFORM=C9H11NO2
+##CAS REGISTRY NO=2955-79-5
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    51         40
+    55         49
+    56         19
+    57         59
+    63         49
+    64         59
+    65        599
+    66        130
+    67         50
+    77         59
+    78         88
+    79         39
+    80         49
+    91         69
+    92        999
+    93        170
+    94         40
+   106         49
+   119        200
+   120         39
+   137         99
+   165        418
+   166         50

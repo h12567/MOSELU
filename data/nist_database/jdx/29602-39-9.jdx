@@ -1,0 +1,73 @@
+##TITLE=Library Entry 1369
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 11346-8
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N-(5-nitro-2-pyridinyl)-
+##MOLFORM=C7H10N4O2
+##CAS REGISTRY NO=29602-39-9
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15         22
+    26          5
+    27         42
+    28         97
+    29         30
+    30        999
+    31         27
+    36          3
+    37          3
+    38         35
+    39         39
+    40          8
+    41         25
+    42         47
+    43        349
+    44         43
+    46          2
+    50         47
+    51         76
+    52         57
+    53         22
+    54         10
+    55          1
+    58          1
+    64         13
+    65         15
+    66         43
+    67         13
+    76         16
+    77         31
+    78        201
+    79         64
+    80         50
+    92          3
+    93          9
+    94         28
+    95          2
+   105         20
+   106        558
+   107         66
+   108          1
+   109          0
+   118         21
+   123         44
+   124         51
+   125         62
+   135          9
+   136        262
+   137         48
+   139          1
+   140        115
+   141          2
+   152        206
+   153        766
+   154         67
+   164          2
+   165          1
+   182         19

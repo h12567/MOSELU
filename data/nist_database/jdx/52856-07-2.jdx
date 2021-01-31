@@ -1,0 +1,35 @@
+##TITLE=Library Entry 431
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., U
+##NAMES=HP
+##CAS NAME=Ethyl 3-methyl-3-nitrobutanoate
+##MOLFORM=C7H13NO4
+##CAS REGISTRY NO=52856-07-2
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    27        350
+    28        380
+    29        999
+    30        520
+    39        240
+    41        300
+    42        140
+    43        400
+    44        150
+    55        460
+    56        350
+    57        140
+    59        460
+    82         90
+    83        380
+    87        290
+   128        140
+   129        200
+   130         80

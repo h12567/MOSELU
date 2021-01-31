@@ -1,0 +1,48 @@
+##TITLE=Library Entry 91029
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-(2-Dipropylaminoethyl)-pyridine
+##MOLFORM=C13H22N2
+##CAS REGISTRY NO=67580-62-5
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41        209
+    42        392
+    43        698
+    44         99
+    50         50
+    51        149
+    52        109
+    53         69
+    56         91
+    57         59
+    58        591
+    65         70
+    70         90
+    72        350
+    76         50
+    77        131
+    78        190
+    79         99
+    80         59
+    84         70
+    86        742
+    87         60
+    93         70
+    94         60
+   104        148
+   105        299
+   106        417
+   114        999
+   115        208
+   119         49
+   135         59
+   177        427
+   178         79

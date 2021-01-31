@@ -1,0 +1,95 @@
+##TITLE=Library Entry 64393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=N-Benzylaniline, N-trifluoroacetyl-
+##MOLFORM=C15H12F3NO
+##CAS REGISTRY NO=14928-77-9
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 80
+##XYDATA=(XY..XY) 1 
+    27          2
+    28          1
+    37          1
+    38          4
+    39         26
+    40          2
+    41          8
+    50         11
+    51         42
+    52          8
+    53          1
+    61          1
+    62          4
+    63         23
+    64         16
+    65        106
+    66          6
+    69         25
+    74          3
+    75          3
+    76          6
+    77         76
+    78         12
+    79          3
+    82          1
+    83          2
+    86          1
+    87          1
+    88          1
+    89         21
+    91        999
+    92         80
+    93          4
+    96          1
+    97          1
+   101          1
+   102          1
+   103          1
+   104         22
+   105         10
+   106          1
+   107          1
+   109          1
+   115          2
+   119         13
+   120          2
+   126          1
+   127          4
+   128          2
+   132          2
+   139          1
+   140          1
+   141          1
+   150          1
+   151          2
+   152          6
+   153          3
+   154          4
+   155          1
+   164          1
+   165          4
+   166          1
+   167          2
+   168          1
+   172          2
+   178          1
+   179          1
+   180         12
+   181          3
+   182          4
+   183          1
+   192          1
+   202          1
+   208          1
+   209          1
+   210          4
+   211          1
+   279        131
+   280         22
+   281          2

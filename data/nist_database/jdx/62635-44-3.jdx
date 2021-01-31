@@ -1,0 +1,57 @@
+##TITLE=Library Entry 71798
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Phenoxymethyl-tetrahydropyran
+##MOLFORM=C12H16O2
+##CAS REGISTRY NO=62635-44-3
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        131
+    40         38
+    41        696
+    42         39
+    43         20
+    44         60
+    50          9
+    51         60
+    52          9
+    53         39
+    54         20
+    55        199
+    56          9
+    57        119
+    58         10
+    63          9
+    65         49
+    66         40
+    67         78
+    68         49
+    69        536
+    70         40
+    71         20
+    77        120
+    78         19
+    79         29
+    80         10
+    81        199
+    82         20
+    83         59
+    91          9
+    94        647
+    95         69
+    97         20
+    98          9
+    99        999
+   100         70
+   101         10
+   107         19
+   192        190
+   193         19

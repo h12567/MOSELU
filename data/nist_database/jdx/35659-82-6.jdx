@@ -1,0 +1,51 @@
+##TITLE=Library Entry 23263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Holm ET AL,Acta Chem. Scand.26,205(1972)
+##NAMES=HP
+##CAS NAME=S-(Isobuthoxythiocarbonyl)thiohydroxylamine
+##MOLFORM=C5H11NOS2
+##CAS REGISTRY NO=35659-82-6
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    29        696
+    30          8
+    31         10
+    32         36
+    33          6
+    34         26
+    38          4
+    39        148
+    40         16
+    41        767
+    42         46
+    43         93
+    44          8
+    45         20
+    46          6
+    47         20
+    48         81
+    49        419
+    50          6
+    51         14
+    53          6
+    54          2
+    55         69
+    56         93
+    57        999
+    58         40
+    60         81
+    76        140
+    77          8
+    78          4
+    90          6
+    91         10
+    92         40
+   109        128
+   111          6
+   165         10

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 32173
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]hept-2-ene, 5-methylene-
+##MOLFORM=C8H10
+##CAS REGISTRY NO=694-91-7
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=803
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14         38
+    15         19
+    16         20
+    26         45
+    27        141
+    28         19
+    37         32
+    38         89
+    39        390
+    40        107
+    41         48
+    49         17
+    50        125
+    51        207
+    52         81
+    53         52
+    61         18
+    62         46
+    63         94
+    64         23
+    65        265
+    66        999
+    67         68
+    74         26
+    76         22
+    77        250
+    78        553
+    79        183
+    89         22
+    91        952
+    92         69
+   102         15
+   103         54
+   105        175
+   106        328
+   107         25

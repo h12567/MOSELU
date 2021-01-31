@@ -1,0 +1,45 @@
+##TITLE=Library Entry 10047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Monomethyl malonate
+##MOLFORM=C4H6O4
+##CAS REGISTRY NO=16695-14-0
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    13         26
+    14        118
+    15        438
+    26         13
+    27         42
+    28        168
+    29        169
+    30         24
+    31        272
+    32         61
+    39         38
+    40         20
+    41         90
+    42        621
+    43        999
+    44        202
+    45        163
+    59        292
+    60        191
+    72         38
+    74        252
+    86         20
+    87        708
+    88         28
+    90        101
+   100         61
+   101         40
+   117         11
+   118         34

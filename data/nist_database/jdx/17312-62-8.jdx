@@ -1,0 +1,79 @@
+##TITLE=Library Entry 25367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Decane, 5-propyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=17312-62-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    25          1
+    26          5
+    27         81
+    28          2
+    29        177
+    30          1
+    36          0
+    37          1
+    38          1
+    39         43
+    40          9
+    41        297
+    42         71
+    43        744
+    44         11
+    45          1
+    51          2
+    52          0
+    53         15
+    54         10
+    55        155
+    56        103
+    57        999
+    58         38
+    63          0
+    65          2
+    66          0
+    67         12
+    68          8
+    69         57
+    70         90
+    71        797
+    72         43
+    73          0
+    77          2
+    79          2
+    81          2
+    82         20
+    83         52
+    84         53
+    85        363
+    86         25
+    91          0
+    96          4
+    97         38
+    98         20
+    99         41
+   100          3
+   110          0
+   111         13
+   112        101
+   113         24
+   114          0
+   125          0
+   126         77
+   127         34
+   128          3
+   140         79
+   141         44
+   142          4
+   154          1
+   155          1
+   184          4

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Azetidine, 1-bromo-
+##MOLFORM=C3H6BrN
+##CAS REGISTRY NO=38455-26-4
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    26         86
+    27        309
+    28        999
+    29        185
+    30        156
+    31         11
+    39         21
+    40         23
+    41         83
+    42        359
+    43         55
+    44          2
+    45         23
+    54        133
+    55        130
+    56        153
+    57          8
+    79          8
+    80          8
+    81         10
+    82          8
+   107        109
+   108          7
+   109        104
+   110          6
+   135         34
+   136          2
+   137         31
+   138          2

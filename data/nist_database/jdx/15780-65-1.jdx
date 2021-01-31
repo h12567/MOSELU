@@ -1,0 +1,38 @@
+##TITLE=Library Entry 5653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetoacetic acid, 1-thio-, S-allyl ester
+##MOLFORM=C7H10O2S
+##CAS REGISTRY NO=15780-65-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26        280
+    27        390
+    28        110
+    29        100
+    37        200
+    38        300
+    39        799
+    40        150
+    41        639
+    42        200
+    43        999
+    45        559
+    46         40
+    54         90
+    56         90
+    58         90
+    59        110
+    69        260
+    73        130
+    74         70
+    85        140
+   125         30
+   158         20

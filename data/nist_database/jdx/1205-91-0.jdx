@@ -1,0 +1,71 @@
+##TITLE=Library Entry 87000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,4-Benzenediol, diacetate
+##MOLFORM=C10H10O4
+##CAS REGISTRY NO=1205-91-0
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=1453
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    26          6
+    27          5
+    28          2
+    29          1
+    37          1
+    38          4
+    39          8
+    40          1
+    41          2
+    42         13
+    43        213
+    44          5
+    45          1
+    50          4
+    51          5
+    52          8
+    53         23
+    54         25
+    55          9
+    56          1
+    61          1
+    62          4
+    63         12
+    64          6
+    65          8
+    66          1
+    69          1
+    74          1
+    75          1
+    77          1
+    79          1
+    80          1
+    81         41
+    82         23
+    83          1
+    92          1
+    93          6
+    94          1
+    95          1
+   107          2
+   108          1
+   109         21
+   110        999
+   111         80
+   112          7
+   121          1
+   135          6
+   136          1
+   151          2
+   152        188
+   153         16
+   154          2
+   194         24
+   195          3

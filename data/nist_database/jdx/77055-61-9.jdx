@@ -1,0 +1,58 @@
+##TITLE=Library Entry 418
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Tech. Univ. Eindhov
+en, Netherlands
+##NAMES=HP
+##CAS NAME=1,4,7,10-Tetraoxacyclododecan-2-one
+##MOLFORM=C8H14O5
+##CAS REGISTRY NO=77055-61-9
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         42
+    16         11
+    26        123
+    27        410
+    28        874
+    29        999
+    30        222
+    31        533
+    39         11
+    41         45
+    42        588
+    43        874
+    44        454
+    45        799
+    46         14
+    57        106
+    58        175
+    59         42
+    60         10
+    61         14
+    70         24
+    71         23
+    72          6
+    73         82
+    75         23
+    86        164
+    87         78
+    88         46
+    89         63
+   100          4
+   101         71
+   102        461
+   103        417
+   104         18
+   115          3
+   119          9
+   131         15
+   133         13
+   146         79
+   147         82
+   148          5
+   190          6

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 25998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Thiobutyro-morpholine
+##MOLFORM=C8H15NOS
+##CAS REGISTRY NO=5309-97-7
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    30        448
+    31         79
+    32         60
+    34         10
+    40         29
+    41         69
+    42        180
+    43         39
+    44        331
+    45         39
+    48         70
+    55         49
+    56         78
+    57        999
+    58         89
+    64         30
+    72         10
+    85          9
+    86        250
+    87        509
+    88         30
+   115          9
+   129         40
+   173         30

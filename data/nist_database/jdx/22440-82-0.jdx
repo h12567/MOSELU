@@ -1,0 +1,46 @@
+##TITLE=Library Entry 107989
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Phenol, 2,6-diamino-
+##MOLFORM=C6H8N2O
+##CAS REGISTRY NO=22440-82-0
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         21
+    29         13
+    39         52
+    41         71
+    48         25
+    51         47
+    52        191
+    53         62
+    54         34
+    55         10
+    62         50
+    65         12
+    66         20
+    67         48
+    68         40
+    69         12
+    78         73
+    79        232
+    80         74
+    81          7
+    93          8
+    94         11
+    95        150
+    96         52
+    97          8
+   105          8
+   107         16
+   122          6
+   123        153
+   124        999
+   125         85

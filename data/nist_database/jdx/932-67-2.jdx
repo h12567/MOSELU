@@ -1,0 +1,79 @@
+##TITLE=Library Entry 50313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Cyclohexenecarbonyl chloride
+##MOLFORM=C7H9ClO
+##CAS REGISTRY NO=932-67-2
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          2
+    15         68
+    16          3
+    17          5
+    18          3
+    26        116
+    27        481
+    28         85
+    29         58
+    31          2
+    35         16
+    36          9
+    37         48
+    38        107
+    39        509
+    40         78
+    41        272
+    42         23
+    43          5
+    44          3
+    47          2
+    49         28
+    50        150
+    51        201
+    52        112
+    53        326
+    54        135
+    55        118
+    56          5
+    60          3
+    61         11
+    62         19
+    63         86
+    64         14
+    65         97
+    66        108
+    67         54
+    68         23
+    69          4
+    73          8
+    74         17
+    75         28
+    76          3
+    77        227
+    78          3
+    79        728
+    80        876
+    81        999
+    82         68
+    83          2
+    87          2
+    88          9
+    89          4
+    90          4
+    91          8
+   108        174
+   109        144
+   110         13
+   116         32
+   117          3
+   118          9
+   144         10
+   146          4

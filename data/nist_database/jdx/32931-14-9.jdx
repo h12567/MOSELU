@@ -1,0 +1,59 @@
+##TITLE=Library Entry 18918
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MADSEN,DEP. ORG. CHEM.,TECH. UNIV. DENMARK,LYNGBY,DE
+NMARK
+##NAMES=HP
+##CAS NAME=1-(Methylthio)-2-butene
+##MOLFORM=C5H10S
+##CAS REGISTRY NO=32931-14-9
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26         28
+    27        326
+    28         99
+    29        516
+    30         11
+    35         26
+    37          4
+    38         14
+    39        267
+    40         37
+    41         53
+    43          4
+    44         12
+    45        213
+    46         45
+    47         99
+    48         32
+    49         16
+    50         28
+    51         37
+    52         14
+    53        184
+    54        459
+    55        999
+    56         51
+    57          7
+    58         18
+    59         33
+    60          4
+    61         76
+    63          4
+    69          4
+    71          8
+    72          4
+    85         21
+    86          7
+    87         95
+    88          5
+    89          4
+   101          4
+   102        417
+   103         27
+   104         19

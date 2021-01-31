@@ -1,0 +1,83 @@
+##TITLE=Library Entry 6621
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Acetyl-3-methylpyrazine
+##MOLFORM=C7H8N2O
+##CAS REGISTRY NO=23787-80-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1082
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+     4          0
+    12          4
+    13         14
+    14         68
+    15        338
+    16          3
+    18          3
+    24          2
+    25         12
+    26        175
+    27         88
+    28          9
+    29         11
+    33          2
+    36          7
+    37         87
+    38        157
+    39        264
+    40        167
+    41        144
+    42        684
+    43        999
+    44         24
+    46          3
+    48          1
+    49          9
+    50         31
+    51        104
+    52        258
+    53         85
+    54         20
+    55          3
+    60          1
+    61          4
+    62         13
+    63         24
+    64         34
+    65         42
+    66        276
+    67        302
+    68         72
+    69          6
+    75          4
+    76          4
+    77          7
+    78          8
+    79         24
+    80          7
+    81          7
+    82          5
+    90          1
+    91          3
+    93        591
+    94        552
+    95         44
+    96          1
+   107         23
+   108        188
+   109         14
+   117          8
+   118          1
+   119          5
+   120          1
+   121         40
+   122          2
+   136        617
+   137         56
+   138          3

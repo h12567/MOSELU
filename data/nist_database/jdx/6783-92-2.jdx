@@ -1,0 +1,60 @@
+##TITLE=Library Entry 34308
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,1,2,3-tetramethyl-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=6783-92-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=958
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        270
+    29        310
+    39        270
+    41        810
+    42        160
+    43        410
+    45         10
+    50         10
+    51         20
+    52         20
+    53        110
+    54         40
+    55        760
+    56        630
+    57        320
+    58         50
+    65         20
+    66         10
+    67        100
+    68         50
+    69        999
+    70        780
+    71        140
+    75         10
+    77         20
+    79         20
+    81         50
+    82         40
+    83        250
+    84        180
+    85         30
+    91         10
+    93         10
+    95         20
+    96         20
+    97         60
+    98         10
+   111         70
+   112         10
+   125        330
+   126         40
+   140         90
+   141         10

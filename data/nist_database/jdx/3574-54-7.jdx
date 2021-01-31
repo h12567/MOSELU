@@ -1,0 +1,53 @@
+##TITLE=Library Entry 49450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.Prokai ET AL.Org.Mass.Spectrom.,21,384(1986)
+##NAMES=HP
+##CAS NAME=Endo-norbornane-2-carboxaldehyde
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=3574-54-7
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27         54
+    29         19
+    39        123
+    41        177
+    42          6
+    50          4
+    51         17
+    52          4
+    53         54
+    54         32
+    55         77
+    57         75
+    58          4
+    65         43
+    66        160
+    67        746
+    68        129
+    69         19
+    70         32
+    77         51
+    78        118
+    79        138
+    80        999
+    81         99
+    82         15
+    83        105
+    84          8
+    91        192
+    92          6
+    93         62
+    94          6
+    95        389
+    96         38
+   105         15
+   106        216
+   107         15
+   109          8
+   124         15

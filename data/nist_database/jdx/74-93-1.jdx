@@ -1,0 +1,30 @@
+##TITLE=Library Entry 17976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanethiol
+##MOLFORM=CH4S
+##CAS REGISTRY NO=74-93-1
+##MP= -300
+##BP= -300
+##MW= 48
+##$RETENTION INDEX=401
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    12         12
+    13         21
+    14         38
+    15         96
+    32         39
+    33         51
+    34         11
+    35          3
+    44         74
+    45        474
+    46        115
+    47        999
+    48        899
+    49         61
+    50         41

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 20040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pentane, 1,2-dichloro-
+##MOLFORM=C5H10Cl2
+##CAS REGISTRY NO=1674-33-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=909
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         18
+    26         41
+    27        208
+    28         13
+    29        116
+    36          7
+    37         19
+    38         47
+    39        316
+    40         63
+    41        453
+    42        222
+    43        184
+    48          9
+    49        100
+    50         33
+    51         76
+    52         17
+    53        130
+    54          9
+    55        999
+    56         39
+    60          8
+    61         69
+    62        140
+    63        107
+    64         43
+    65         50
+    66          8
+    67         91
+    68        787
+    69        349
+    70         22
+    73         12
+    75         80
+    76         58
+    77         33
+    78         17
+    89         22
+    90         44
+    91        208
+    92         19
+    93         63
+    96          7
+    97         12
+   104         31
+   106         12

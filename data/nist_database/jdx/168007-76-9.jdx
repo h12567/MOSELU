@@ -1,0 +1,76 @@
+##TITLE=Library Entry 60452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]hept-2-ene, 3,4-dibromo-
+##MOLFORM=C7H8Br2
+##CAS REGISTRY NO=168007-76-9
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         48
+    39        259
+    40         32
+    41         55
+    43          7
+    44         11
+    45         49
+    46          5
+    49          6
+    50         60
+    51        109
+    52         34
+    53         28
+    54          5
+    55         11
+    61          9
+    62         31
+    63         88
+    64         24
+    65        223
+    66         32
+    67         21
+    68          8
+    74          7
+    75          8
+    76          6
+    77         99
+    78         41
+    79         69
+    80         44
+    81         39
+    82         37
+    85          6
+    89         31
+    90         39
+    91        999
+    92        557
+    93         52
+    95         10
+   107         12
+   117          7
+   119         15
+   121          7
+   137          7
+   143          8
+   144         12
+   145         10
+   146         16
+   156         11
+   157         96
+   158         18
+   159         93
+   160          6
+   171        198
+   172         19
+   173        192
+   174         14
+   250         13
+   252         26
+   254         12

@@ -1,0 +1,84 @@
+##TITLE=Library Entry 107972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3212
+##NAMES=HP
+##CAS NAME=1,2-Benzenediol, 3-methyl-
+##MOLFORM=C7H8O2
+##CAS REGISTRY NO=488-17-5
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1264
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          2
+    17          1
+    18          3
+    25          1
+    26          7
+    27         26
+    28          9
+    29         12
+    31          5
+    32          2
+    36          1
+    37          9
+    38         25
+    39         83
+    40         16
+    41         36
+    42          3
+    43         11
+    44          3
+    46          2
+    47          9
+    48          9
+    49          4
+    50         26
+    51         77
+    52         46
+    53         22
+    54          4
+    55         29
+    56          1
+    60          1
+    61          8
+    62         33
+    63         21
+    64          6
+    65         25
+    66         25
+    67         33
+    68          5
+    69          4
+    73          1
+    74          6
+    75          4
+    76          8
+    77        112
+    78        360
+    79         37
+    80          2
+    81         13
+    82          2
+    90          1
+    91          1
+    92          1
+    93          1
+    94         13
+    95         55
+    96         10
+    97          2
+   105         77
+   106         90
+   107         66
+   108          6
+   109          1
+   121          1
+   122          6
+   123        287
+   124        999
+   125         77
+   126          7

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 624
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. OCHIAI TAKEDA CHEM. IND. LTD., OSAKA, JAPAN
+##NAMES=HP
+##CAS NAME=2,5-Isoxazolidinedicarboxylic acid, 2-ethyl 5-methyl ester
+##MOLFORM=C8H13NO5
+##CAS REGISTRY NO=15166-62-8
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    28        580
+    29        999
+    32        610
+    43        290
+    44        550
+    45        370
+    55        370
+    56        330
+    59        670
+    71        270
+    72        755
+    87        515
+   101        345
+   115        150
+   131        160
+   144        555
+   203         85

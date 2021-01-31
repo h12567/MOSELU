@@ -1,0 +1,33 @@
+##TITLE=Library Entry 30675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2,3,3,3-Tetrafluoro-2-bromopropionic acid, methyl ether
+##MOLFORM=C4H3BrF4O2
+##CAS REGISTRY NO=378-67-6
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    31         63
+    40         12
+    59        999
+    60         26
+    69         80
+   100         58
+   129         75
+   131         71
+   160         34
+   162         33
+   179        126
+   180          3
+   181        121
+   191          5
+   193          5
+   207          4
+   209          3

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 18004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,1-Dichloro-4,4-diethoxy-2-butyne
+##MOLFORM=C8H12Cl2O2
+##CAS REGISTRY NO=139185-49-2
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    36         44
+    37         70
+    38        138
+    39        234
+    40         38
+    41         35
+    43        138
+    44         46
+    45         31
+    47        999
+    49         53
+    50        104
+    51         38
+    55         40
+    57         19
+    59         67
+    65         82
+    67         25
+    73        337
+    75        825
+    76         46
+    77         63
+    83         88
+    85        128
+    87         47
+    89         25
+   101         46
+   103        857
+   104         53
+   105         62
+   107         31
+   109        265
+   111        217
+   113         34
+   136         21
+   138        381
+   140        231
+   142         39
+   166        234
+   168        162

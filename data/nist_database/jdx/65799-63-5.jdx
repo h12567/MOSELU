@@ -1,0 +1,40 @@
+##TITLE=Library Entry 86805
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Phenyl 1,1,1,2,3,3,3-heptafluoroisopropyl sulfide
+##MOLFORM=C9H5F7S
+##CAS REGISTRY NO=65799-63-5
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    51        140
+    65        221
+    69        228
+    77        182
+    81         20
+    82         36
+    83         20
+   100         38
+   108         87
+   109        999
+   110         91
+   111         56
+   127         13
+   170         33
+   189         28
+   208          9
+   209        121
+   210         11
+   211          5
+   239         50
+   240          5
+   277         17
+   278        465
+   279         49
+   280         23

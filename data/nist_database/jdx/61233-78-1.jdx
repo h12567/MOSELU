@@ -1,0 +1,85 @@
+##TITLE=Library Entry 48691
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclooctene, 3-(1-methylethenyl)-
+##MOLFORM=C11H18
+##CAS REGISTRY NO=61233-78-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    27        240
+    28         91
+    29        194
+    30         10
+    32         15
+    38         19
+    39        403
+    40         82
+    41        614
+    42         46
+    43         86
+    44          9
+    50         26
+    51         95
+    52         53
+    53        251
+    55        284
+    56         26
+    57         26
+    62         11
+    63         31
+    64         15
+    65        132
+    66         94
+    67        875
+    68        464
+    69        179
+    70         17
+    75         15
+    76         11
+    77        317
+    78         95
+    79        999
+    80        249
+    81        483
+    82        353
+    83         79
+    84         11
+    91        290
+    92         71
+    93        766
+    94        331
+    95        229
+    96         68
+    97         11
+   103         17
+   104         10
+   105         67
+   106         26
+   107        426
+   108        187
+   109        127
+   110         16
+   115         11
+   116          8
+   117         10
+   118          7
+   119         14
+   120         10
+   121        188
+   122        180
+   123         23
+   135        400
+   136         48
+   137          9
+   149         14
+   150        258
+   151         35
+   152          8

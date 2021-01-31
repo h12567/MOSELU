@@ -1,0 +1,62 @@
+##TITLE=Library Entry 48269
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.F.CLEMENS EAST CAROLINA UNIV., GREENVILLE, N.C., USA
+##NAMES=HP
+##CAS NAME=Phosphorus(1+), amino[[diphenyl[(1-phenylethyl)amino]phosphoranyl
+idene]amino]diphenyl-, chloride, (T-4)-
+##MOLFORM=C32H32ClN3P2
+##CAS REGISTRY NO=42998-82-3
+##MP= -300
+##BP= -300
+##MW= 555
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    78        999
+    79        548
+    80        631
+   105        155
+   106        353
+   107        379
+   108        929
+   109        196
+   110        155
+   111         83
+   122         12
+   124        695
+   125        108
+   126        370
+   162         86
+   184        370
+   185         76
+   186        203
+   198        208
+   199        137
+   200        452
+   201        170
+   202         61
+   245         76
+   264        113
+   278         91
+   306         70
+   308         47
+   321        118
+   323        402
+   324        118
+   338         71
+   339         71
+   384         63
+   392         58
+   400        496
+   414        113
+   428         75
+   429         63
+   445        109
+   455        105
+   486         75
+   493         63
+   505        193
+   521        210
+   527        178

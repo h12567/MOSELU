@@ -1,0 +1,68 @@
+##TITLE=Library Entry 23628
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=1-Butanol, 2-methyl-, trifluoroacetate
+##MOLFORM=C7H11F3O2
+##CAS REGISTRY NO=340034-47-1
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         11
+    27        104
+    28         24
+    29        252
+    30          8
+    31          8
+    33          3
+    37          2
+    38          8
+    39        125
+    41        536
+    42        123
+    43        195
+    44          8
+    45          4
+    47          9
+    50         25
+    51         12
+    52          4
+    53         31
+    55        360
+    56         57
+    57        999
+    58         46
+    59         12
+    60          2
+    61         15
+    62          1
+    65          2
+    66          1
+    67          8
+    69        463
+    70        441
+    71        240
+    72         13
+    77          1
+    78         11
+    80          1
+    85          4
+    95          1
+    97         34
+    99         82
+   113          5
+   115          7
+   125          8
+   126          1
+   127          3
+   128          3
+   141          3
+   154          2
+   155         20
+   156          1

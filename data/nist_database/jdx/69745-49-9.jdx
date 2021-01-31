@@ -1,0 +1,60 @@
+##TITLE=Library Entry 33476
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexene, 1,6,6-trimethyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=69745-49-9
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15         15
+    26          8
+    27         80
+    28         40
+    29         47
+    39        205
+    40         53
+    41        241
+    42         32
+    43         37
+    50         23
+    51         60
+    52         29
+    53        148
+    54         20
+    55        142
+    56         40
+    57         18
+    62          7
+    63         21
+    65         71
+    67        648
+    68        999
+    69         88
+    70         34
+    77         95
+    78         24
+    79         94
+    80         21
+    81        127
+    82         46
+    83         85
+    84          6
+    91         78
+    92         11
+    93         26
+    94         11
+    95         52
+    96         10
+   105          8
+   107         12
+   109        477
+   110         44
+   124        168
+   125         18

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 97592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1H-Indene-4-carboxaldehyde, 2,3-dihydro-
+##MOLFORM=C10H10O
+##CAS REGISTRY NO=51932-70-8
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1307
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         62
+    29         87
+    38         39
+    39        165
+    40          9
+    41         35
+    50         61
+    51        101
+    62         73
+    63        141
+    65         94
+    74         34
+    75         49
+    77         43
+    89        114
+    91        213
+   103         49
+   115        697
+   116        304
+   117        999
+   118        171
+   128        158
+   131        114
+   145        237
+   146        727
+   147         80

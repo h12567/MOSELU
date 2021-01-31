@@ -1,0 +1,61 @@
+##TITLE=Library Entry 60626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2347
+##NAMES=HP
+##CAS NAME=Benzeneacetaldehyde
+##MOLFORM=C8H8O
+##CAS REGISTRY NO=122-78-1
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=1045
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          7
+    28          4
+    29          9
+    37          5
+    38         11
+    39         74
+    40          6
+    41         16
+    42          1
+    43          3
+    44          1
+    45          2
+    49          3
+    50         22
+    51         43
+    52          9
+    53          3
+    61          7
+    62         16
+    63         48
+    64         11
+    65        181
+    66         11
+    73          2
+    74          7
+    75          5
+    76          3
+    77         12
+    78          4
+    79          2
+    85          2
+    86          3
+    87          3
+    88          1
+    89         37
+    90         20
+    91        999
+    92        291
+    93         17
+    94          1
+   118          2
+   119          1
+   120        282
+   121         24
+   122          1

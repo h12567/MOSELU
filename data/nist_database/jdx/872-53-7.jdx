@@ -1,0 +1,46 @@
+##TITLE=Library Entry 3397
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopentanecarboxaldehyde
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=872-53-7
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=857
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26         27
+    27        139
+    28         68
+    29         68
+    31          6
+    37         16
+    38         41
+    39        240
+    41        999
+    49          2
+    50          9
+    51          8
+    52          1
+    53         39
+    57        523
+    58         13
+    61          7
+    62          4
+    63          6
+    65         15
+    66         15
+    67        135
+    68         43
+    69        922
+    70          4
+    78          1
+    80         54
+    81          3
+    96          2
+    98        171
+    99          9

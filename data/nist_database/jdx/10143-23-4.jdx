@@ -1,0 +1,71 @@
+##TITLE=Library Entry 7515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Pentanol, 2,3-dimethyl-
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=10143-23-4
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=827
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         10
+    27        143
+    28         18
+    29        232
+    30         11
+    31        183
+    32          1
+    33          1
+    37          2
+    38          9
+    39        208
+    40         33
+    41        731
+    42        204
+    43        999
+    44         37
+    45        235
+    46          5
+    47          1
+    50         12
+    51         25
+    52          9
+    53         76
+    54         20
+    55        349
+    56        866
+    57        575
+    58         54
+    59         82
+    60          9
+    61          1
+    62          1
+    63          3
+    65         10
+    66          3
+    67         25
+    68         23
+    69        534
+    70        208
+    71         32
+    72          1
+    73         16
+    74          2
+    75          3
+    77          3
+    79          3
+    81          4
+    83        370
+    84         89
+    85        509
+    86         33
+    87          5
+    97          8
+    98         67
+    99          5

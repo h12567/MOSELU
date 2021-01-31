@@ -1,0 +1,60 @@
+##TITLE=Library Entry 92851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. TAKAGI, DEP. APPL. CHEM., NAGOYA UNIV., NAGOYA, JAPA
+N
+##NAMES=HP
+##CAS NAME=1-Bromo-2,3-dichlorocyclohexane
+##MOLFORM=C6H9BrCl2
+##CAS REGISTRY NO=90035-61-3
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    53         40
+    55          7
+    63          5
+    65          4
+    67          5
+    75         90
+    77         40
+    78         40
+    79        650
+    80         40
+    81         20
+    89         40
+    91         10
+   109          7
+   111         10
+   115        999
+   116         70
+   117        340
+   118         40
+   119          4
+   121          4
+   149          4
+   151         70
+   152          4
+   153         40
+   154          3
+   155         10
+   159         40
+   160          2
+   161         40
+   162          2
+   195         70
+   196          4
+   197         90
+   198          5
+   199         30
+   200          1
+   230         40
+   231          2
+   232         50
+   233          3
+   234         30
+   235          1
+   236          3

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 10272
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=1-O-Tosyl-2,3:4,5-di-isopropylidene-d,l-xylitol
+##MOLFORM=C18H26O7S
+##CAS REGISTRY NO=71769-38-5
+##MP= -300
+##BP= -300
+##MW= 386
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    41        187
+    42         93
+    43        999
+    44         29
+    51         16
+    53         14
+    55         79
+    57         55
+    58         26
+    59        209
+    60         14
+    61         38
+    63         26
+    64         13
+    65        234
+    66         10
+    68         69
+    69         62
+    71         22
+    72         76
+    73         97
+    77         31
+    79         15
+    81        116
+    83         54
+    85        150
+    86         40
+    89         95
+    90         56
+    91        779
+    92         93
+    95         31
+    97         21
+    98         16
+    99         36
+   100         39
+   101        437
+   102         21
+   107         28
+   108         13
+   113         65
+   114         29
+   115         28
+   121         24
+   128         10
+   139        193
+   140         15
+   141         17
+   143         27
+   155        428
+   156         46
+   157         27
+   172         22
+   201         40
+   227        137
+   228         13
+   253         84
+   285         90
+   312         10
+   313         27
+   371        656
+   372        105
+   373         34

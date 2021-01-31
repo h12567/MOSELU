@@ -1,0 +1,48 @@
+##TITLE=Library Entry 70644
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Dichloromethyl-chloro-methyl-pentafluorophenyl-silane
+##MOLFORM=C8H4Cl3F5Si
+##CAS REGISTRY NO=77681-06-2
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    51        166
+    57        119
+    63        403
+    69        695
+    77        388
+    79        802
+    81        229
+    83        306
+    85        271
+    93        229
+    97        999
+    99        528
+   101        270
+   105        157
+   110        188
+   111        140
+   115        131
+   117        296
+   119        198
+   123        130
+   125        765
+   129        297
+   135        268
+   137        159
+   141        409
+   143        218
+   145        330
+   159         60
+   161         99
+   179        381
+   245        979
+   247        331
+   328         19

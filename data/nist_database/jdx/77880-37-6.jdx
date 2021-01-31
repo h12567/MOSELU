@@ -1,0 +1,39 @@
+##TITLE=Library Entry 17507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4,(13)1564(1977); D. HORTON ET AL.
+##NAMES=HP
+##CAS NAME=.beta.-D-Erythro-Hexopyranoside, 2-(2-hydroxyethoxy)ethyl 2,3-did
+eoxy-4,6-O-(phenylmethylene)-
+##MOLFORM=C17H24O6
+##CAS REGISTRY NO=77880-37-6
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    45        999
+    77        420
+    79        160
+    83        360
+    89        950
+    91        360
+    96         80
+   105        999
+   106        330
+   107        930
+   149        260
+   157         46
+   175        750
+   188          5
+   190         17
+   201          4
+   218        135
+   219         70
+   247          1
+   281          0
+   323         17
+   324         70
+   325         12

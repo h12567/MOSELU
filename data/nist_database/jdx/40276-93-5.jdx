@@ -1,0 +1,68 @@
+##TITLE=Library Entry 1698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Methyl-1-hexyne
+##MOLFORM=C7H12
+##CAS REGISTRY NO=40276-93-5
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=634
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          7
+    14         14
+    15        118
+    16          3
+    18          5
+    25          7
+    26        111
+    27        978
+    28         98
+    29        188
+    30          3
+    36          2
+    37         37
+    38        101
+    39        999
+    40        124
+    41        981
+    42        113
+    43        505
+    44         16
+    48          2
+    49         21
+    50        192
+    51        296
+    52        155
+    53        612
+    54        764
+    55        225
+    56         64
+    57          5
+    60          1
+    61         11
+    62         27
+    63         48
+    64          9
+    65        116
+    66         56
+    67        374
+    68        320
+    69         27
+    70         26
+    73          2
+    74          9
+    77         70
+    79        324
+    81        981
+    82         61
+    83          2
+    91          7
+    93          7
+    95         44
+    96          4

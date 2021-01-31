@@ -1,0 +1,31 @@
+##TITLE=Library Entry 35811
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. NAOSHIMA, DEP. CHEM., OKAYAMA UNIV. SCI., OKAYAMA, J
+APAN
+##NAMES=HP
+##CAS NAME=Ethyl 7-oxa-7-(2-benzyl-2-methyl-6,10-dithiaspiro[4.5]decan-1-yl)
+heptanoate
+##MOLFORM=C24H36O3S2
+##CAS REGISTRY NO=92640-63-6
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        500
+    55        290
+    69        999
+    91        170
+    96        290
+    97        900
+   115        510
+   132        120
+   143        510
+   145        500
+   185        290
+   276         50
+   285         30
+   436         70

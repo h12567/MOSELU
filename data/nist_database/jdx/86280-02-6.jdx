@@ -1,0 +1,42 @@
+##TITLE=Library Entry 44674
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. DAKKOURI, DEP. CHEM., UNIV. ULM, ULM, W. GER.
+##NAMES=HP
+##CAS NAME=Cyclopropylgermane
+##MOLFORM=C3H8Ge
+##CAS REGISTRY NO=86280-02-6
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29         69
+    39        344
+    41        415
+    70        493
+    71        136
+    72        695
+    73        434
+    74        999
+    75        349
+    76        275
+    77        180
+    85        300
+    86        181
+    87        439
+    88        346
+    89        549
+    90        138
+    91        120
+    97         80
+    99        131
+   101        139
+   111        117
+   112        179
+   113        136
+   114        192
+   115        156
+   116        226

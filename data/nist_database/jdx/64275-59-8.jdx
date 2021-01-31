@@ -1,0 +1,30 @@
+##TITLE=Library Entry 3183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1161(1977);26; G. OHLOFF
+##NAMES=HP
+##CAS NAME=10-Pentadecen-5-yn-1-ol, (E)-
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=64275-59-8
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29        340
+    41        999
+    55        890
+    67        910
+    79        860
+    91        700
+   107        440
+   119        310
+   133        230
+   149        440
+   161        120
+   179         40
+   191         20
+   204         10
+   222         10

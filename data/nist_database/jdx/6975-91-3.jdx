@@ -1,0 +1,75 @@
+##TITLE=Library Entry 20572
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin,TIPS,Russian Acad.Sci.Moscow
+##NAMES=HP
+##CAS NAME=Chloroacetic acid, cyclohexyl ester
+##MOLFORM=C8H13ClO2
+##CAS REGISTRY NO=6975-91-3
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    25          7
+    26         59
+    27        439
+    28         84
+    29        356
+    30         11
+    31         49
+    35         15
+    36         27
+    37          7
+    38         41
+    39        463
+    40         66
+    41        869
+    42        297
+    43        208
+    44         95
+    45         29
+    46          9
+    47         25
+    49        344
+    50         68
+    51        145
+    52         38
+    53        107
+    54        435
+    55        999
+    56         87
+    57        216
+    58         15
+    60         25
+    61          7
+    63         12
+    65         36
+    66         21
+    67        965
+    68         55
+    69         39
+    70         18
+    71         28
+    72         16
+    73         11
+    76         16
+    77        287
+    78         12
+    79        115
+    80         12
+    81        145
+    82        967
+    83        742
+    84         59
+    85         15
+    91         85
+    92         45
+    95          8
+    97          6
+    99         21
+   100         23
+   104         11
+   105          6

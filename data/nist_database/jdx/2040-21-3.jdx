@@ -1,0 +1,51 @@
+##TITLE=Library Entry 99245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Propanone, 2-methyl-1-(2-methylphenyl)-
+##MOLFORM=C11H14O
+##CAS REGISTRY NO=2040-21-3
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         49
+    28          5
+    36         11
+    37        102
+    38          9
+    39         61
+    40          7
+    41         28
+    48         16
+    50         34
+    51          8
+    52          4
+    54          6
+    62         17
+    63         58
+    64         18
+    65        204
+    66         11
+    74          5
+    75          6
+    77         13
+    89         51
+    90         30
+    91        499
+    92         37
+   105          5
+   115         10
+   117          5
+   118          4
+   119        999
+   120         87
+   121          5
+   131          2
+   162         75
+   163          9

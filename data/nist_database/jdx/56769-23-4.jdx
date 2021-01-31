@@ -1,0 +1,65 @@
+##TITLE=Library Entry 2437
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.A. GEORGE, US AGRIC. RES. LAB., YAKIMA, WASH.,
+##NAMES=HP
+##CAS NAME=trans-3,4-Epoxynonane
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=56769-23-4
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         30
+    39        410
+    40         80
+    41        999
+    42        540
+    43        770
+    44        150
+    45         80
+    50         20
+    51         40
+    52         20
+    53        150
+    54        120
+    55        750
+    56        720
+    57        750
+    58        220
+    59        460
+    60         30
+    65         40
+    66         20
+    67        250
+    68        280
+    69        320
+    70        170
+    71        220
+    72        370
+    73         40
+    80         70
+    81         20
+    82        260
+    83        260
+    84        220
+    85        150
+    86        180
+    87         80
+    91         10
+    95        190
+    96         40
+    97         70
+    98         30
+    99        120
+   100         30
+   109         20
+   113        190
+   114         20
+   124        120
+   126         80
+   142         40

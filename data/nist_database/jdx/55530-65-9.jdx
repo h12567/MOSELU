@@ -1,0 +1,54 @@
+##TITLE=Library Entry 42781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORVAL A. MAMER, ROYAL VICTORIA HOSPITAL, MONTREAL, CANA
+DA
+##NAMES=HP
+##CAS NAME=Propanedioic acid, (trimethylsilyl)[(trimethylsilyl)oxy]-, bis(tr
+imethylsilyl) ester
+##MOLFORM=C15H36O5Si4
+##CAS REGISTRY NO=55530-65-9
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         15
+    18         45
+    28         36
+    43         23
+    44         32
+    45        173
+    46         13
+    47         12
+    55         23
+    58         12
+    59         32
+    72         31
+    73        999
+    74         88
+    75         66
+   117         10
+   131         35
+   133         38
+   147        468
+   148         75
+   149         42
+   157         16
+   175         14
+   190         80
+   191         20
+   207         36
+   221         95
+   222         24
+   223         14
+   231         63
+   232         14
+   305         13
+   393        234
+   394         87
+   396         14
+   408         44
+   410         10

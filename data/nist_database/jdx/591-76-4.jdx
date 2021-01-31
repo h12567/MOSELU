@@ -1,0 +1,54 @@
+##TITLE=Library Entry 9827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4009
+##NAMES=HP
+##CAS NAME=Hexane, 2-methyl-
+##MOLFORM=C7H16
+##CAS REGISTRY NO=591-76-4
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=667
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15          8
+    26          6
+    27        113
+    28          9
+    29        145
+    30          3
+    37          1
+    38          5
+    39         74
+    40         13
+    41        304
+    42        351
+    43        999
+    44         31
+    50          3
+    51          5
+    52          2
+    53         11
+    54          3
+    55         50
+    56        209
+    57        292
+    58         12
+    59          2
+    63          1
+    65          1
+    67          3
+    69         10
+    70         15
+    71         21
+    72          1
+    77          1
+    78          1
+    84         49
+    85        369
+    86         25
+    99          1
+   100         29
+   101          2

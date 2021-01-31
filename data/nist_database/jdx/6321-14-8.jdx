@@ -1,0 +1,30 @@
+##TITLE=Library Entry 29730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Hexanone, 3-hydroxy-3,5-dimethyl-
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=6321-14-8
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        148
+    42         19
+    43        287
+    45         59
+    55         19
+    57        168
+    58         19
+    59        999
+    60         39
+    69         39
+    83         29
+    87         29
+   101        118
+   111          9

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 11663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Acetic acid, 2-chloro-2-(5-methyl-3-isoxazolylhydrazono)-, ethyl
+ ester
+##MOLFORM=C8H10ClN3O3
+##CAS REGISTRY NO=85156-41-8
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    36         11
+    38         17
+    39        100
+    40         60
+    41        115
+    43        999
+    44         40
+    45         20
+    52         41
+    53         25
+    54         66
+    55         69
+    56         18
+    57         16
+    60          5
+    62         30
+    64         13
+    66         58
+    67        187
+    68        100
+    69         42
+    70         16
+    77         14
+    79          6
+    83         21
+    84          7
+    94         11
+    96         24
+    97         19
+    98         62
+   110        118
+   122        654
+   123         43
+   124         27
+   130         21
+   132          6
+   140         60
+   158         12
+   186         27
+   196        305
+   197         36
+   231        164
+   232          8
+   233         60

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 63652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.C.MOFFAT BAYLOR UNIVERSITY, HOUSTON, TEXAS, USA
+##NAMES=HP
+##CAS NAME=Phenethylamine, N-(2,2,3,3,4,4,4-heptafluorobutylidene)-
+##MOLFORM=C12H10F7N
+##CAS REGISTRY NO=29723-32-8
+##MP= -300
+##BP= -300
+##MW= 301
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    28        120
+    29          4
+    30        120
+    31          6
+    32         25
+    38          9
+    39         49
+    40         31
+    41         91
+    42          5
+    50         18
+    51         54
+    52         18
+    53         17
+    54          4
+    62          6
+    63         23
+    64          7
+    65         86
+    66         25
+    69         24
+    70         10
+    74          4
+    75          7
+    76          6
+    77         69
+    78         26
+    79         37
+    80          3
+    89         14
+    90         23
+    91        999
+    92         86
+    93          5
+   100          4
+   102          7
+   103         35
+   104         35
+   105        165
+   106         15
+   110          3
+   117          3
+   118          2
+   119          3
+   121          6
+   122          7
+   130          8
+   131          4
+   132         92
+   133         12
+   134          1
+   160         28
+   161          1
+   180          1
+   181          1
+   182          2
+   191          1
+   210        330
+   211         20
+   212          0
+   301         38
+   302          4
+   303          0

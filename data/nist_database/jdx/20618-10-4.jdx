@@ -1,0 +1,33 @@
+##TITLE=Library Entry 30541
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 17(10) 461(1982);I.O.O.KORHONEN
+##NAMES=HP
+##CAS NAME=Methyl-2,3,3,3-tetrachloropropanoate
+##MOLFORM=C4H4Cl4O2
+##CAS REGISTRY NO=20618-10-4
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=1137
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    59        999
+    63        140
+    95         90
+   113         10
+   117        180
+   119         10
+   123        120
+   129         30
+   130        420
+   145         30
+   153         20
+   154         10
+   157         30
+   161         10
+   165         50
+   189         10
+   193         10
+   224          3

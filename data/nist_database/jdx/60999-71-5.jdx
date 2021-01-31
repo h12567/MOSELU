@@ -1,0 +1,61 @@
+##TITLE=Library Entry 81489
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Ethoxyaziridine-2-carboxamide, N-(1-phenylethyl)
+##MOLFORM=C13H18N2O2
+##CAS REGISTRY NO=60999-71-5
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15         88
+    16          3
+    27        176
+    28         96
+    29        196
+    30         51
+    31         11
+    41         74
+    42        125
+    43         96
+    44         59
+    45         11
+    51         76
+    52         22
+    55        189
+    56         11
+    77        178
+    78         65
+    79        118
+    80         21
+    85         87
+    86         41
+    87          9
+    91         26
+    92          8
+   103         70
+   104         93
+   105        999
+   106        235
+   107         25
+   108          9
+   118         41
+   119         14
+   120        315
+   121         32
+   122          7
+   146         59
+   147          9
+   160         33
+   161         11
+   174        332
+   175         48
+   176          9
+   189         44
+   219          9
+   234          2

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 18857
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 607
+##NAMES=HP
+##CAS NAME=2-Propenamide, N-(hydroxymethyl)-
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=924-42-5
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          6
+    14          9
+    15         11
+    16         19
+    17         31
+    18         42
+    19          2
+    24          3
+    25         19
+    26        135
+    27        679
+    28        193
+    29        262
+    30        199
+    31        269
+    32          4
+    36          1
+    37          4
+    38          6
+    39          7
+    40          9
+    41         11
+    42         20
+    43        106
+    44        410
+    45         32
+    46        404
+    47          7
+    50          2
+    51          8
+    52         17
+    53         31
+    54         98
+    55        999
+    56        425
+    57         32
+    58         19
+    59          2
+    60          6
+    70         13
+    71        297
+    72         86
+    73        118
+    74          8
+    82          2
+    83          9
+    84         34
+    85          3
+   100         14

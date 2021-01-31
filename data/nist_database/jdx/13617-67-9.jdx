@@ -1,0 +1,73 @@
+##TITLE=Library Entry 64383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 4-[(4-aminophenyl)imino]-2,4-dihydro-5-methyl-2
+-phenyl-
+##MOLFORM=C16H14N4O
+##CAS REGISTRY NO=13617-67-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    37          5
+    39         50
+    40         10
+    41         30
+    42         10
+    50         20
+    51         80
+    52         50
+    53         10
+    54         10
+    62         10
+    63         50
+    64        130
+    65        180
+    66         30
+    67         10
+    74          5
+    75          5
+    76          5
+    77        240
+    78         30
+    79          5
+    80          5
+    89          5
+    90         30
+    91        999
+    92        190
+    93         20
+   103          5
+   104          5
+   105         40
+   106         10
+   107         20
+   108         20
+   117         10
+   118        170
+   119         60
+   120          5
+   125         10
+   132        570
+   133         50
+   139         10
+   143          5
+   144          5
+   145        120
+   146         20
+   208          5
+   209        140
+   210         20
+   212          5
+   249          5
+   250          5
+   277          5
+   278        850
+   279        150
+   280         15
+   281          5

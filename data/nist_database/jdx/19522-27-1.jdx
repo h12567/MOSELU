@@ -1,0 +1,26 @@
+##TITLE=Library Entry 11253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JOCEAH, 42(7)1256(1977); R. VERHE ET AL
+##NAMES=HP
+##CAS NAME=2-Pentenoic acid, 4-oxo-, methyl ester, (Z)-
+##MOLFORM=C6H8O3
+##CAS REGISTRY NO=19522-27-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43        999
+    53         60
+    54         90
+    55        110
+    59        240
+    69         90
+    85         90
+    97        280
+   113        810
+   114         50
+   128         50

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 2711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 2-chlorononanoate
+##MOLFORM=C10H18Cl2O2
+##CAS REGISTRY NO=80418-71-9
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1508
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    36          9
+    39        242
+    41        999
+    42        200
+    43        701
+    49        118
+    51         40
+    54         71
+    55        862
+    56        150
+    57        438
+    67        131
+    68         71
+    69        500
+    70        161
+    71         79
+    76         50
+    77        381
+    78         20
+    79        151
+    81        179
+    83        130
+    84         69
+    85         19
+    95         70
+    96        110
+    97        200
+    98        280
+    99         60
+   105        693
+   106        420
+   107        240
+   108        100
+   111        140
+   121         91
+   131         89
+   132        602
+   135        130
+   138         79
+   139         30
+   142        533
+   144        322
+   146         60
+   175         60
+   177         20

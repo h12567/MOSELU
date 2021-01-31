@@ -1,0 +1,34 @@
+##TITLE=Library Entry 46934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Iron, tricarbonyl(1,1a,2,7.eta.4-1-methylene-2,4,6-cycloheptadien
+e)-
+##MOLFORM=C11H8FeO3
+##CAS REGISTRY NO=41576-77-6
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    56        350
+    57        100
+    63        350
+    65        140
+    68        190
+    77        999
+    78        509
+    89        140
+    91        320
+   102        320
+   103        529
+   104        869
+   105        380
+   106        140
+   160        370
+   188         80
+   216        140
+   244         30

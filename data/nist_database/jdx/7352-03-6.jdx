@@ -1,0 +1,42 @@
+##TITLE=Library Entry 4961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanamine, N-(ethoxymethyl)-N-ethyl-
+##MOLFORM=C7H17NO
+##CAS REGISTRY NO=7352-03-6
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    40         39
+    41        148
+    42        999
+    43        178
+    44        396
+    45        326
+    46        118
+    52          9
+    54         89
+    55         69
+    56        217
+    57        118
+    58        198
+    59         69
+    68         29
+    70        346
+    71         29
+    72        306
+    73         29
+    84         29
+    85        247
+    86        475
+    87         79
+   102         19
+   116         19
+   131         29

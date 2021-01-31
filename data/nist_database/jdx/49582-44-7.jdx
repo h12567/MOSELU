@@ -1,0 +1,46 @@
+##TITLE=Library Entry 73479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-(1-aziridinyl)-3-(dimethylamino)-, methyl est
+er
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=49582-44-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        200
+    42        440
+    43        350
+    44        559
+    55        110
+    56        100
+    57         70
+    58        120
+    59        100
+    67         85
+    68        450
+    69        260
+    70        110
+    71         50
+    72        440
+    74         60
+    82        340
+    83         60
+    84         60
+    96         70
+    98         70
+    99        210
+   100        999
+   112         60
+   114         50
+   127        909
+   128        230
+   139        430
+   155         10
+   170        569

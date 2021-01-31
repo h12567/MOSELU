@@ -1,0 +1,33 @@
+##TITLE=Library Entry 71882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP,
+ LONDON, U
+##NAMES=HP
+##CAS NAME=4H-Imidazol-4-one, 2-amino-1,5-dihydro-
+##MOLFORM=C3H5N3O
+##CAS REGISTRY NO=503-86-6
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         44
+    42        232
+    43        904
+    44         44
+    53         12
+    54         24
+    55        112
+    56        204
+    57         24
+    59         12
+    69         64
+    70         24
+    71        312
+    72         12
+    98         12
+    99        999
+   100         52

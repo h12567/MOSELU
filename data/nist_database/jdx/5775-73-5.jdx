@@ -1,0 +1,38 @@
+##TITLE=Library Entry 37022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Mark Whitten, Florida Museum of Natural History, U. of
+ Florida
+##NAMES=HP
+##CAS NAME=Propyl aldoxime, 2-methyl-, anti-
+##MOLFORM=C4H9NO
+##CAS REGISTRY NO=5775-73-5
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        656
+    42        512
+    43        332
+    44        189
+    45         55
+    46         65
+    50         21
+    51         41
+    52         49
+    53         30
+    54        123
+    55        137
+    56         51
+    57         22
+    58         75
+    59         82
+    68         50
+    70        999
+    71         62
+    72        199
+    86         42
+    87         32

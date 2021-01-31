@@ -1,0 +1,40 @@
+##TITLE=Library Entry 64214
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.BRUUN NORWEGIAN INST. OF TECH., TRONDHEIM, NORWAY
+##NAMES=HP
+##CAS NAME=Benzenemethanol, 2-hydroxy-3,6-dimethyl-4-(phenylmethoxy)-
+##MOLFORM=C16H18O3
+##CAS REGISTRY NO=34883-06-2
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39         60
+    41         20
+    43         20
+    51         20
+    52         10
+    53         20
+    55         20
+    63         20
+    65         90
+    66         10
+    77         30
+    78         10
+    79         10
+    83         10
+    89         10
+    91        999
+    92         90
+    93         10
+   111         10
+   150         20
+   240         50
+   242         20
+   256         10
+   258        120
+   259         10

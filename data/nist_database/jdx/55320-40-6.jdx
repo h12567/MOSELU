@@ -1,0 +1,35 @@
+##TITLE=Library Entry 49499
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]oct-5-en-2-ol
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=55320-40-6
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    41         59
+    43          9
+    44         19
+    50          9
+    51         39
+    52         19
+    53         29
+    55         19
+    65         29
+    66          9
+    67         19
+    77         89
+    78        108
+    79        633
+    80        999
+    81        118
+    91         29
+   106          9
+   124         19

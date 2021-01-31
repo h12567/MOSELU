@@ -1,0 +1,90 @@
+##TITLE=Library Entry 61167
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=2-Benzyloxyethyl chloroformate
+##MOLFORM=C10H11ClO3
+##CAS REGISTRY NO=56456-19-0
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=1517
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          2
+    27          6
+    28          6
+    29         11
+    30          2
+    31          1
+    35          1
+    36          2
+    37          2
+    38          5
+    39         32
+    40          3
+    41          8
+    42          2
+    43          9
+    44         24
+    45          3
+    49          1
+    50         15
+    51         38
+    52         11
+    53          3
+    61          2
+    62          9
+    63        103
+    64         11
+    65        138
+    66          7
+    73          5
+    74          5
+    75          4
+    76          4
+    77         73
+    78         20
+    79         64
+    80          4
+    81          1
+    85          1
+    86          1
+    87          1
+    88          2
+    89         40
+    90         25
+    91        999
+    92        106
+    93          8
+    95          1
+   102          1
+   103          1
+   104         15
+   105         95
+   106         65
+   107        364
+   108         23
+   109         37
+   110          1
+   116          1
+   119          1
+   121          1
+   125          4
+   126          5
+   127          2
+   128          2
+   133          3
+   134          8
+   135          1
+   169          1
+   170          1
+   179         35
+   180          4
+   214         46
+   215          5
+   216         15
+   217          2

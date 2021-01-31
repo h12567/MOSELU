@@ -1,0 +1,68 @@
+##TITLE=Library Entry 13050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Xylopyranoside, methyl 4-thio-, triacetate, .alpha.-d-
+##MOLFORM=C12H18O7S
+##CAS REGISTRY NO=32848-88-7
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    29         20
+    31          6
+    39          9
+    41         18
+    42         22
+    43        999
+    44         12
+    45         27
+    59         34
+    60          5
+    61          9
+    68         15
+    69         31
+    70          6
+    73         12
+    74         23
+    84         36
+    85         57
+    86          5
+    87          6
+    97          5
+    99          4
+   101         24
+   102         47
+   103         26
+   104          5
+   113          9
+   115         10
+   116          7
+   127          7
+   128          9
+   129         63
+   130          9
+   131         22
+   139         10
+   144         50
+   155          6
+   157          8
+   170         13
+   171        103
+   172         13
+   173         14
+   186         27
+   187         13
+   203          1
+   204          7
+   205          1
+   206          0
+   214          0
+   215          5
+   231          2
+   246          2
+   275          3

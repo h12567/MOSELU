@@ -1,0 +1,63 @@
+##TITLE=Library Entry 1485
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Chloroethanol
+##MOLFORM=C2H5ClO
+##CAS REGISTRY NO=107-07-3
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=635
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    13          3
+    14         10
+    15         33
+    16          1
+    17          1
+    19         10
+    24          2
+    25         11
+    26         54
+    27        142
+    28          3
+    29        151
+    30         17
+    31        999
+    32         12
+    33          2
+    35         23
+    36         13
+    37         10
+    38          4
+    39          1
+    40          2
+    41         14
+    42         69
+    43        204
+    44        256
+    45         17
+    47         24
+    48         30
+    49        106
+    50         24
+    51         70
+    52          5
+    53         12
+    59          1
+    60          9
+    61         18
+    62         14
+    63         14
+    64          4
+    65          3
+    76          3
+    77          1
+    78          2
+    79         21
+    80         39
+    81          9
+    82         12

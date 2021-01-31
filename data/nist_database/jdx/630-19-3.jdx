@@ -1,0 +1,47 @@
+##TITLE=Library Entry 23311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5375
+##NAMES=HP
+##CAS NAME=Propanal, 2,2-dimethyl-
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=630-19-3
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=566
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         22
+    17          2
+    18          7
+    26         16
+    27        163
+    28         31
+    29        514
+    30         10
+    31          7
+    32          9
+    37         10
+    38         24
+    39        193
+    40         25
+    41        834
+    42         87
+    43        265
+    44          4
+    45          7
+    50         11
+    51         12
+    53         20
+    55         54
+    56         27
+    57        999
+    58         51
+    59         14
+    69          9
+    70          8
+    71         15
+    86        180
+    87         30

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 1222
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=N-(2-Chloroethyl)-N'-methylurea
+##MOLFORM=C4H9ClN2O
+##CAS REGISTRY NO=74378-14-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         91
+    29         46
+    30        999
+    31         94
+    40         13
+    41         26
+    42         49
+    43         45
+    44        178
+    49         23
+    56         19
+    57         21
+    58        208
+    62         11
+    63         75
+    65         30
+    74         59
+    78         29
+    80         11
+    86         24
+    87        252
+    88         14
+    99         15
+   100         34
+   105         16
+   136        231
+   137         18
+   138         83
+   139          7

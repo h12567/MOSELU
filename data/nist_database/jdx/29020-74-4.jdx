@@ -1,0 +1,81 @@
+##TITLE=Library Entry 30993
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Hydroxy-1,4-naphthoquinone-1-monothiosemicarbazone
+##MOLFORM=C11H9N3O2S
+##CAS REGISTRY NO=29020-74-4
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    41         33
+    42        130
+    43        496
+    44         98
+    48         15
+    50        111
+    51        157
+    52         35
+    59        203
+    60        999
+    61         33
+    62        103
+    63        124
+    64         66
+    69         77
+    74         72
+    75        130
+    76        631
+    77        316
+    78         61
+    87         20
+    88         26
+    89        103
+    90         71
+    91         15
+   101         68
+   102        389
+   103        332
+   104        134
+   105        169
+   113         48
+   114         70
+   115         29
+   116         24
+   117         38
+   118         22
+   128         17
+   129         36
+   130        374
+   131        326
+   132         72
+   142         40
+   145        142
+   146         44
+   149         31
+   158         21
+   159        159
+   160        261
+   161         36
+   173         26
+   174         81
+   175         23
+   177        168
+   187        194
+   188         22
+   192        142
+   202         58
+   213         94
+   218        102
+   219        331
+   220         23
+   229         20
+   230         60
+   247        100
+   248         14

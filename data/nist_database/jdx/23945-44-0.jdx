@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89427
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-Carboxy-2,4-dihydroxypyrimidine
+##MOLFORM=C5H4N2O4
+##CAS REGISTRY NO=23945-44-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        202
+    42        217
+    43         68
+    44        144
+    45         78
+    52         97
+    53        143
+    54         10
+    55         10
+    67         83
+    68        263
+    69        303
+    70        102
+    84        132
+    85        180
+    86         67
+    96         33
+   112        999
+   113         53
+   139         42
+   140          4
+   156        128
+   157         11

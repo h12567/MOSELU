@@ -1,0 +1,36 @@
+##TITLE=Library Entry 100694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Naphthoquinone, 3,5-dimethoxy-
+##MOLFORM=C12H10O4
+##CAS REGISTRY NO=32358-78-4
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    50        310
+    62        190
+    63        160
+    75        130
+    76        499
+    88        110
+    89        270
+   104        190
+   116        110
+   119        999
+   120        110
+   147        400
+   160        110
+   161        170
+   162        110
+   175        280
+   190        549
+   191        130
+   218        250
+   219         40
+   220         30

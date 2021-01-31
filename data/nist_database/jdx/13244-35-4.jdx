@@ -1,0 +1,86 @@
+##TITLE=Library Entry 62264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 17987-6
+##NAMES=HP
+##CAS NAME=Benzenamine, 2-chloro-4-(methylsulfonyl)-
+##MOLFORM=C7H8ClNO2S
+##CAS REGISTRY NO=13244-35-4
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15        173
+    27         28
+    28         55
+    29          4
+    36          5
+    37         31
+    38         72
+    39        135
+    40         20
+    41        106
+    42         10
+    44          2
+    45         34
+    48         12
+    49         11
+    50         30
+    51         73
+    52        221
+    53         30
+    54         17
+    61         53
+    62        131
+    63        498
+    64        136
+    65         90
+    66         19
+    69         19
+    72          4
+    73        100
+    74         33
+    75         58
+    76          3
+    78         23
+    79         34
+    80         15
+    81          9
+    89         18
+    90         61
+    91        999
+    92        170
+    95          3
+    97         19
+    98         11
+    99        233
+   100         26
+   101         71
+   106          5
+   114         95
+   115         10
+   116         30
+   125         26
+   126        602
+   127         53
+   128        189
+   129         10
+   140          5
+   142        811
+   143         57
+   144        259
+   145         11
+   174         52
+   176         19
+   190        785
+   191         58
+   192        288
+   193         19
+   205        800
+   206         78
+   207        292
+   208         25
+   209          4

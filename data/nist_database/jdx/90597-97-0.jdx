@@ -1,0 +1,37 @@
+##TITLE=Library Entry 87449
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=1,4-Phenylenebis(oxycarbonylamino)bis(sulfur pentafluoride)
+##MOLFORM=C8H6F10N2O4S2
+##CAS REGISTRY NO=90597-97-0
+##MP= -300
+##BP= -300
+##MW= 448
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    47        192
+    53        192
+    54        173
+    55        115
+    70        115
+    81        327
+    82        195
+    89        385
+   108        115
+   109        250
+   110        999
+   127        693
+   150        346
+   169         77
+   170         50
+   242         50
+   258         50
+   262         50
+   278         50
+   306          1
+   408          1
+   448          1

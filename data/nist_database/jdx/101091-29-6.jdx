@@ -1,0 +1,43 @@
+##TITLE=Library Entry 64431
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Asinex Ltd, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzaldehyde, 4-benzyloxy-, thiosemicarbazone
+##MOLFORM=C15H15N3OS
+##CAS REGISTRY NO=101091-29-6
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39         33
+    40         10
+    41         14
+    42         12
+    43         38
+    44         14
+    51         25
+    60         46
+    63         23
+    64         14
+    65         96
+    76         41
+    77         24
+    80         12
+    89         16
+    91        999
+    92         79
+    93          7
+   135         40
+   136          5
+   210         13
+   211          9
+   268         48
+   269          9
+   285        162
+   286         29
+   287         10
+   288          1

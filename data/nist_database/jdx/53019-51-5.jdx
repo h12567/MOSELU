@@ -1,0 +1,44 @@
+##TITLE=Library Entry 39670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=Oxazolidine, 2-propyl-
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=53019-51-5
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        140
+    29         77
+    30         93
+    31         26
+    39         66
+    41        146
+    42        603
+    43        144
+    44        416
+    45        378
+    54         47
+    55        162
+    56        344
+    57         41
+    68         23
+    70        141
+    71         23
+    72        999
+    73         43
+    82         20
+    84        472
+    85         64
+    87        377
+    88         21
+   100         49
+   101          3
+   114         44
+   115          3

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 11693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,4-Undecadiene-2,10-dione, 6,6-dimethyl-
+##MOLFORM=C13H20O2
+##CAS REGISTRY NO=52588-78-0
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        110
+    58         70
+    69        330
+    81        350
+    85        190
+    93        170
+   109        539
+   123        799
+   135        190
+   151        230
+   165        519
+   175         60
+   193        250
+   208        100

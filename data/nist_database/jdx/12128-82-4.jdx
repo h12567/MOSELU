@@ -1,0 +1,38 @@
+##TITLE=Library Entry 60692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Tungsten, tricarbonyl[(1,2,3,4,5,6-.eta.)-methylbenzene]-
+##MOLFORM=C10H8O3W
+##CAS REGISTRY NO=12128-82-4
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        167
+    50         62
+    51        102
+    63        108
+    65        194
+    74         13
+    77         18
+    91        999
+    92        999
+   184          5
+   197          3
+   209         16
+   210         10
+   222         89
+   233         10
+   234         10
+   248         83
+   260         16
+   274        240
+   276        270
+   304        243
+   332         91
+   360        178

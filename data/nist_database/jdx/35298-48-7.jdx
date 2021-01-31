@@ -1,0 +1,52 @@
+##TITLE=Library Entry 89281
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-3(2H)-furanone
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=35298-48-7
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=834
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14         18
+    15         46
+    18          0
+    27         48
+    28          5
+    29         38
+    31         18
+    37         14
+    38         29
+    39        180
+    40         34
+    41        153
+    42        117
+    43        806
+    44         29
+    50         10
+    51          9
+    53         32
+    54        550
+    55         68
+    56          5
+    58        277
+    59        463
+    60         17
+    67          1
+    69         87
+    70         10
+    71        304
+    72         11
+    83         11
+    84          0
+    97         38
+    98          5
+   111         39
+   112        999
+   113         60
+   114          3

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 54817
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Acetaldehyde, (1-methylethyl)hydrazone
+##MOLFORM=C5H12N2
+##CAS REGISTRY NO=7422-89-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=770
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    28        228
+    29         86
+    30        119
+    31         37
+    39         61
+    40         30
+    41        193
+    42        281
+    43        228
+    44        738
+    45         30
+    55         14
+    56         42
+    57        105
+    58        124
+    59         16
+    68         10
+    69         11
+    85        999
+    86         61
+    99         21
+   100        385
+   101         47

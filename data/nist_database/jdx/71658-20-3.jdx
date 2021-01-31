@@ -1,0 +1,33 @@
+##TITLE=Library Entry 79944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=BMSYAL, 6(3)117(1979); R. M. THOMPSON AND D. A. CORY
+##NAMES=HP
+##CAS NAME=Ribitol, pentabenzoate
+##MOLFORM=C40H32O10
+##CAS REGISTRY NO=71658-20-3
+##MP= -300
+##BP= -300
+##MW= 672
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    77        300
+   105        999
+   122         30
+   202         34
+   269        140
+   281         16
+   282         22
+   294          5
+   306         14
+   311         12
+   323         38
+   324         30
+   331         36
+   403         83
+   428         60
+   537          6
+   550          2
+   551          1

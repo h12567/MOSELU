@@ -1,0 +1,83 @@
+##TITLE=Library Entry 70818
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7604
+##NAMES=HP
+##CAS NAME=1-Piperidinepropanenitrile
+##MOLFORM=C8H14N2
+##CAS REGISTRY NO=3088-41-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         17
+    25          2
+    26         37
+    27         63
+    28         69
+    29         36
+    30         37
+    37          2
+    38          7
+    39         48
+    40         19
+    41        161
+    42        213
+    43         29
+    44         70
+    45          2
+    46          1
+    47          1
+    49          1
+    50          6
+    51         18
+    52         43
+    53         49
+    54         72
+    55        145
+    56         44
+    57         26
+    58          2
+    63          1
+    65          2
+    66          2
+    67         12
+    68         17
+    69         50
+    70         43
+    71          3
+    78          3
+    79         16
+    80          9
+    81         12
+    82         17
+    83         27
+    84         46
+    85         19
+    86          1
+    92          1
+    93          2
+    94          5
+    95          5
+    96         45
+    97         21
+    98        999
+    99         70
+   100          3
+   106          1
+   108          1
+   109          9
+   110          2
+   111          1
+   112          1
+   113          1
+   123          1
+   135          1
+   136          2
+   137         29
+   138         27
+   139          3

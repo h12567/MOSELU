@@ -1,0 +1,64 @@
+##TITLE=Library Entry 52294
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-(E)-2-Methylbut-2-en-1-yl 2-methylbut-2-enoate
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=90358-41-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1198
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26          6
+    27         88
+    28         22
+    29        100
+    30          2
+    37          2
+    38          8
+    39        170
+    40         39
+    41        471
+    42         28
+    44          3
+    45          9
+    50         13
+    51         26
+    52         14
+    53        146
+    54         52
+    55        635
+    56         38
+    62          1
+    63          1
+    65         10
+    66          7
+    67        251
+    68        252
+    69        590
+    82         38
+    83        999
+    84         65
+    86          5
+   100         49
+   101         96
+   102          5
+   111          3
+   112          2
+   122          5
+   123         24
+   124          3
+   125          6
+   126          1
+   135          3
+   139         18
+   140          2
+   150          1
+   151          1
+   153          4
+   168         13
+   169          1

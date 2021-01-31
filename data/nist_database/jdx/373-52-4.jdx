@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89646
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methane, bromofluoro-
+##MOLFORM=CH2BrF
+##CAS REGISTRY NO=373-52-4
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14          5
+    19          1
+    31         19
+    32         11
+    33        235
+    34          3
+    79         48
+    80          6
+    81         48
+    82          7
+    91         56
+    92          9
+    93        167
+    94         13
+    95        111
+    96          5
+   110          2
+   111         10
+   112        999
+   113         17
+   114        962
+   115          5

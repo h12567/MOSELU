@@ -1,0 +1,32 @@
+##TITLE=Library Entry 36025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Trans-1,4-diethylcyclohexane
+##MOLFORM=C10H20
+##CAS REGISTRY NO=13990-93-7
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        360
+    42         60
+    43        150
+    55        520
+    56         60
+    57         90
+    67         90
+    69        999
+    70         70
+    81         60
+    82         10
+   110        200
+   111        680
+   112         50
+   140        210
+   141         23
+   142          1

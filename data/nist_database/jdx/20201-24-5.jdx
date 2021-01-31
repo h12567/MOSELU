@@ -1,0 +1,62 @@
+##TITLE=Library Entry 8740
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2359
+##NAMES=HP
+##CAS NAME=Ethyl 3-methyl-2-oxobutyrate
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=20201-24-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         16
+    25          1
+    26         23
+    27        223
+    28         60
+    29        382
+    30         13
+    31         24
+    32          1
+    37          3
+    38          8
+    39         75
+    40         15
+    41        301
+    42         99
+    43        999
+    44         60
+    45         47
+    46          7
+    47         18
+    50          1
+    51          1
+    53          4
+    54          2
+    55         24
+    56          9
+    57         10
+    58          5
+    59         10
+    60          1
+    67          1
+    69         10
+    70        142
+    71        984
+    72         52
+    73         20
+    74          7
+    75          5
+    87          1
+    88         13
+    89          9
+   101          6
+   113          1
+   115          1
+   144         58
+   145          5

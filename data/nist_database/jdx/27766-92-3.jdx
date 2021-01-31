@@ -1,0 +1,71 @@
+##TITLE=Library Entry 107723
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.JASTORFF MAX-PLANK INSTITUT, GOTTINGEN, F.R.G.
+##NAMES=HP
+##CAS NAME=Thymidine, 5'-azido-5'-deoxy-, 3'-acetate
+##MOLFORM=C12H15N5O5
+##CAS REGISTRY NO=27766-92-3
+##MP= -300
+##BP= -300
+##MW= 309
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41        360
+    42        110
+    43        940
+    44         60
+    45         70
+    52         30
+    53         50
+    54        120
+    55        200
+    56        130
+    57         40
+    60         40
+    61         20
+    66         20
+    67         40
+    68        260
+    69        510
+    70         90
+    71         30
+    72         20
+    80         40
+    81        150
+    82         60
+    83         50
+    84         40
+    85         20
+    94        100
+    95        110
+    96        140
+    97         30
+    98         20
+   109         30
+   110        100
+   114         20
+   117         20
+   122         80
+   123         30
+   124        999
+   125         90
+   126        320
+   127        180
+   138         20
+   149         20
+   150        180
+   151         20
+   153         50
+   181         30
+   182         20
+   184        280
+   185         30
+   193        100
+   194         20
+   222         15
+   253         30
+   309         60
+   310         10

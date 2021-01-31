@@ -1,0 +1,57 @@
+##TITLE=Library Entry 61416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.N.LABOWS DEPT. OF CHEMISTRY, CORNELL UNIV., ITHACA, N
+Y, USA
+##NAMES=HP
+##CAS NAME=1,6-Ethenoazulene, 1,3a,6,8a-tetrahydro-
+##MOLFORM=C12H12
+##CAS REGISTRY NO=15991-78-3
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    44         80
+    45         30
+    49         20
+    50        230
+    51        380
+    52        160
+    53         50
+    61         30
+    62         70
+    63        210
+    64         90
+    65        150
+    74         80
+    75         70
+    76        160
+    77        210
+    78        410
+    79         50
+    89         60
+    91        999
+    92        110
+   102         80
+   103         40
+   104        100
+   115        520
+   116         80
+   117         50
+   126         30
+   127        160
+   128        470
+   129        280
+   130         30
+   141        400
+   142         50
+   151         30
+   152        100
+   153        140
+   154         90
+   155        470
+   156        290
+   157         30

@@ -1,0 +1,28 @@
+##TITLE=Library Entry 50800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Furfurylmethylamphetamine
+##MOLFORM=C15H19NO
+##CAS REGISTRY NO=13445-60-8
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=1671
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    40          9
+    41         20
+    42         28
+    51          9
+    53         84
+    56         30
+    58         11
+    65         18
+    81        999
+    82         58
+    91         49
+   138        452
+   139         41

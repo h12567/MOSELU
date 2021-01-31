@@ -1,0 +1,53 @@
+##TITLE=Library Entry 49411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methylpyrazine-2-carboxylate
+##MOLFORM=C6H6N2O2
+##CAS REGISTRY NO=6164-79-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12         12
+    14         15
+    15        187
+    16         13
+    17          3
+    25         52
+    26        192
+    27         45
+    28        230
+    29         96
+    30         29
+    31         26
+    38         36
+    39         64
+    40         71
+    41         33
+    42         35
+    44         14
+    45         16
+    51        290
+    52        815
+    53        320
+    54         48
+    55         16
+    59        116
+    66         20
+    67         49
+    68         19
+    77         20
+    79        511
+    80        999
+    81         57
+    95         12
+   107        121
+   108        444
+   109         26
+   138        103
+   139         19

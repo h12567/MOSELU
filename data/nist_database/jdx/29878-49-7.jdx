@@ -1,0 +1,65 @@
+##TITLE=Library Entry 25744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2,2-dimethyl-, cyclohexyl ester
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=29878-49-7
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         18
+    27        149
+    28          9
+    29        199
+    30          8
+    31          7
+    36         15
+    37          9
+    38          9
+    39        239
+    40         45
+    41        531
+    42         95
+    43         58
+    44         61
+    45         16
+    50         16
+    51         28
+    52         23
+    53         52
+    54         59
+    55        477
+    56        148
+    57        999
+    58         59
+    59         33
+    63          6
+    65          8
+    66          8
+    67        105
+    68          8
+    69         16
+    70         18
+    71          6
+    77          8
+    79         29
+    80          6
+    81         41
+    82        147
+    83        868
+    84         68
+    85         69
+    87         35
+    99          6
+   100          8
+   102          4
+   103        202
+   104          6
+   127          8
+   141          3

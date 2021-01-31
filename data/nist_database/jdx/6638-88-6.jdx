@@ -1,0 +1,63 @@
+##TITLE=Library Entry 20553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-1,3-Benzoxazine, 6-bromo-3-cyclohexyl-3,4-dihydro-
+##MOLFORM=C14H18BrNO
+##CAS REGISTRY NO=6638-88-6
+##MP= -300
+##BP= -300
+##MW= 295
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15         28
+    18         16
+    26         17
+    27        146
+    28         42
+    29         95
+    30        160
+    31         46
+    38         18
+    39        166
+    40         29
+    41        616
+    42        148
+    43        126
+    44         30
+    45         17
+    50         23
+    51         43
+    52         23
+    53         69
+    54        143
+    55        999
+    56        475
+    57        115
+    65         20
+    67        185
+    68        505
+    69         59
+    70         83
+    77         57
+    78         32
+    79         42
+    80         17
+    81         61
+    82        928
+    83        557
+    84         44
+    91         30
+    96        102
+    99         48
+   110         66
+   111         32
+   156         14
+   158         20
+   184         19
+   186         42
+   187         18
+   188         21

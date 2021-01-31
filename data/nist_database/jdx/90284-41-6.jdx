@@ -1,0 +1,55 @@
+##TITLE=Library Entry 81922
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SAEED, DEP. CHEM., COLL. SCI., BASRAH UNIV., BASRAH,
+ IRAQ
+##NAMES=HP
+##CAS NAME=1,2-Dihydro-4H-2-(o-anisyl)-3,1-benzoxazine
+##MOLFORM=C15H15NO2
+##CAS REGISTRY NO=90284-41-6
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        120
+    40        130
+    44         70
+    51        220
+    53         70
+    64         70
+    65        150
+    76         80
+    77        480
+    78        440
+    79         70
+    89         60
+    90         80
+    91        800
+    92        110
+    93        160
+   104        700
+   105        999
+   106        170
+   107        140
+   118         80
+   119        390
+   120        470
+   121        790
+   122         80
+   123        370
+   132        150
+   133         90
+   134        270
+   135        360
+   136        180
+   180        100
+   182         90
+   196        100
+   210        100
+   212         90
+   240        310
+   241        980
+   242        210

@@ -1,0 +1,86 @@
+##TITLE=Library Entry 99628
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2098
+##NAMES=HP
+##CAS NAME=p-Toluric acid
+##MOLFORM=C10H11NO3
+##CAS REGISTRY NO=27115-50-0
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    17          1
+    18          3
+    26          1
+    27          6
+    28         13
+    29          2
+    30          8
+    37          2
+    38          6
+    39         45
+    40          4
+    41         14
+    42          2
+    43          2
+    44         12
+    45          7
+    50         11
+    51         19
+    52          5
+    53          2
+    56          5
+    57          1
+    58          1
+    59          1
+    61          3
+    62          9
+    63         32
+    64         10
+    65        122
+    66          7
+    73          3
+    74          5
+    75          3
+    76          3
+    77          5
+    78          1
+    86          2
+    87          2
+    88          2
+    89         35
+    90         30
+    91        340
+    92         28
+    93          2
+   103          1
+   104          2
+   105          3
+   116          4
+   117          7
+   118         11
+   119        999
+   120         91
+   121          6
+   130          1
+   131         15
+   132          3
+   133          1
+   134          3
+   135          3
+   136          1
+   146          1
+   147          4
+   148        131
+   149        305
+   150         30
+   151          2
+   175         43
+   176          5
+   192          2
+   193         18
+   194          2

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 88217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyridazin-3(2H)-one, 4-(1-benzotriazolyl)-2-phenyl-6-(2-thenoyl)-
+##MOLFORM=C21H13N5O2S
+##CAS REGISTRY NO=269085-82-7
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    33         75
+    38          9
+    39        161
+    40        149
+    41          8
+    42          2
+    43         59
+    44         37
+    50         35
+    51         67
+    52         11
+    53          7
+    55          3
+    57          3
+    59          7
+    63         14
+    64         38
+    65         20
+    66          2
+    69          4
+    76         33
+    77        172
+    78         27
+    82          2
+    83         64
+    91         34
+    92         39
+    93         13
+   103          6
+   105        141
+   106          7
+   109          4
+   111        999
+   112         83
+   113         22
+   114          4
+   129          3
+   141         15
+   256          4
+   259          3
+   315         17
+   357         11
+   371         41
+   372          6
+   399         41
+   400          5

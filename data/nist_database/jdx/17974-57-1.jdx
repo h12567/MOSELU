@@ -1,0 +1,59 @@
+##TITLE=Library Entry 11060
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. FONT, DEP. QUIM. ORG., UNIV. AUTONOMA BARCELONA, SPA
+IN
+##NAMES=HP
+##CAS NAME=(3E,5E,7E)-6-Methyl-8-(2,6,6-trimethyl-1-cyclohexenyl)-3,5,7-octa
+trien-2-one
+##MOLFORM=C18H26O
+##CAS REGISTRY NO=17974-57-1
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        120
+    41        320
+    43        999
+    53        130
+    55        320
+    65        220
+    67        180
+    69        310
+    71        140
+    77        410
+    79        350
+    81        320
+    91        600
+    93        360
+    95        400
+    99        160
+   105        520
+   107        520
+   109        960
+   115        190
+   117        170
+   119        380
+   121        270
+   122        300
+   123        260
+   128        170
+   129        170
+   131        300
+   133        210
+   135        200
+   143        170
+   145        280
+   147        140
+   157        120
+   159        260
+   161        150
+   173        150
+   189        100
+   215         50
+   243         70
+   258        140
+   259         60

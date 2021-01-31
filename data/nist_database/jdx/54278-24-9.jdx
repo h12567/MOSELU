@@ -1,0 +1,41 @@
+##TITLE=Library Entry 5830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=S-(2-Formylisopropyl)thioacetate
+##MOLFORM=C6H10O2S
+##CAS REGISTRY NO=54278-24-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    29        146
+    38        102
+    39        527
+    40        110
+    41        710
+    42        397
+    43        999
+    53         12
+    55         14
+    59         36
+    60         50
+    61         48
+    69        213
+    70        468
+    71         73
+    75         34
+    76         32
+    77         16
+    84         13
+    86         31
+   102         12
+   103         98
+   104         11
+   105          5
+   118          5
+   146          5

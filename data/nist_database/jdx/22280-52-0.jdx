@@ -1,0 +1,52 @@
+##TITLE=Library Entry 66771
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.SNYDERS SOILS RESEARCH INST., PRETORIA, REP. OF S.
+ AFRICA
+##NAMES=HP
+##CAS NAME=2-Pyridinol, 3-[(p-hydroxyphenyl)azo]-
+##MOLFORM=C11H9N3O2
+##CAS REGISTRY NO=22280-52-0
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    40         30
+    41         60
+    43         80
+    44         60
+    45         30
+    50         30
+    51         60
+    52        170
+    53        110
+    54         40
+    55         60
+    57         40
+    60         40
+    63         40
+    64         40
+    65        350
+    66        110
+    67         50
+    78         30
+    79         50
+    80         60
+    81         90
+    82         30
+    93        999
+    94        270
+    95         40
+   107         60
+   108         80
+   109         80
+   110         70
+   121        360
+   122         50
+   131         30
+   215        890
+   216        130
+   217         30

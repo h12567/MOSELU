@@ -1,0 +1,71 @@
+##TITLE=Library Entry 44036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Glucose oxime, 6TMS derivative
+##MOLFORM=C24H61NO6Si6
+##CAS REGISTRY NO=120850-89-7
+##MP= -300
+##BP= -300
+##MW= 627
+##$RETENTION INDEX=2023
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    45         44
+    47         12
+    52         12
+    59         24
+    73        999
+    74         72
+    75        132
+    77         12
+    79         24
+   100         12
+   103        152
+   104         12
+   117         84
+   129         84
+   130         12
+   131         24
+   133         44
+   147        404
+   148         52
+   149         32
+   157         84
+   158         12
+   163         12
+   189         52
+   190         12
+   191         64
+   201         24
+   204         72
+   205        604
+   206        124
+   207         64
+   217        212
+   218        224
+   219         84
+   220         24
+   221         24
+   229         64
+   230         24
+   231         12
+   244         12
+   277         12
+   291         44
+   292         24
+   305         44
+   306         12
+   307         44
+   308         12
+   319        764
+   320        264
+   321        124
+   322         24
+   332         24
+   333         12
+   358         12
+   431         12

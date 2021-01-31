@@ -1,0 +1,73 @@
+##TITLE=Library Entry 47789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=N-Phenylpyrazolo(4,5-e)pyrrolo(1,2-a)tetrazolo(4,5-c)pyrazine
+##MOLFORM=C14H9N7
+##CAS REGISTRY NO=94714-50-8
+##MP= -300
+##BP= -300
+##MW= 275
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         57
+    37         37
+    38         53
+    39        100
+    40         22
+    41         20
+    43         13
+    50         99
+    51        400
+    52         40
+    53         17
+    61         11
+    62         21
+    63         43
+    64         68
+    65         42
+    74         23
+    75         38
+    76         74
+    77        999
+    78         75
+    79          6
+    84         14
+    88         13
+    91         29
+    92         21
+   102         12
+   103         66
+   104         37
+   105         10
+   111         34
+   115         11
+   116         21
+   118         25
+   129        344
+   130         37
+   140         17
+   141         15
+   142         19
+   143         11
+   156         31
+   167         15
+   168         21
+   169         11
+   193         24
+   194         67
+   195         45
+   219         34
+   220         44
+   221         59
+   222         13
+   246        138
+   247        413
+   248         69
+   249         18
+   275         99
+   276         20

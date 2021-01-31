@@ -1,0 +1,29 @@
+##TITLE=Library Entry 17466
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,4,7,10,13-Pentaoxacyclodoeicosan-14,20-dione
+##MOLFORM=C15H26O7
+##CAS REGISTRY NO=110793-20-9
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    42        130
+    45        999
+    69        149
+    70        130
+    71         50
+    72         20
+    87        140
+    89        188
+    99        249
+   143         69
+   187        209
+   231         60
+   275         29
+   319         10

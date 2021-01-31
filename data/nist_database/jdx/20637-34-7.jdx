@@ -1,0 +1,64 @@
+##TITLE=Library Entry 17201
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER UNIV. OF HAMBURG, W.GERMANY
+##NAMES=HP
+##CAS NAME=1-Propanol, 3-methoxy-2-(methoxymethyl)-2-methyl-
+##MOLFORM=C7H16O3
+##CAS REGISTRY NO=20637-34-7
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    39         83
+    41        214
+    42         39
+    43        103
+    45        999
+    46         24
+    47         17
+    53         32
+    54         32
+    55        203
+    56        328
+    57        192
+    58         43
+    59         39
+    60          3
+    61        310
+    62          6
+    67         12
+    68          4
+    69         39
+    70         24
+    71        519
+    72         82
+    73         43
+    74          3
+    75        278
+    76          7
+    77          1
+    82          2
+    83         28
+    84         71
+    85        328
+    86        193
+    87         38
+    88          3
+    91          2
+    93          3
+    95          1
+    97          2
+    98         14
+    99          8
+   100          2
+   101         19
+   102          2
+   103          3
+   115          3
+   116          5
+   117          2
+   118          3

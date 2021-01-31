@@ -1,0 +1,88 @@
+##TITLE=Library Entry 36349
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Benzene, 4-(4'-ethyl[1,1'-bicyclohexyl]-4-yl)-1,2-difluoro-
+##MOLFORM=C20H28F2
+##CAS REGISTRY NO=118164-50-4
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    27        139
+    29        259
+    39        150
+    41        683
+    42         59
+    43        118
+    51         17
+    53        106
+    55        663
+    56         42
+    57         58
+    65         37
+    67        225
+    69        999
+    70         63
+    77         55
+    79        115
+    81        300
+    82         79
+    83         80
+    91         30
+    93         28
+    94         25
+    95        132
+    96         37
+    97         53
+   101         37
+   107         31
+   108         41
+   109        116
+   110         97
+   111        369
+   112         30
+   114         70
+   115         21
+   119         34
+   120         17
+   121         24
+   122         17
+   123         23
+   124         20
+   125         19
+   127        834
+   128         83
+   133         98
+   134         16
+   135         18
+   137         39
+   138         31
+   140        857
+   141        119
+   142         19
+   151         78
+   153        177
+   154         40
+   163         24
+   164         38
+   165         49
+   166         54
+   167         23
+   177         20
+   179         52
+   189        101
+   190         90
+   191         18
+   192         18
+   193         22
+   194         32
+   195         44
+   196         73
+   306        297
+   307         68

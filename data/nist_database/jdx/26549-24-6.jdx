@@ -1,0 +1,61 @@
+##TITLE=Library Entry 16752
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2-Hexanol, (R)-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=26549-24-6
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         19
+    16          0
+    18          1
+    19         16
+    20          0
+    26          8
+    27         82
+    28         23
+    29         86
+    30          2
+    31         25
+    32          0
+    36          0
+    37          0
+    38          3
+    39         50
+    40          6
+    41        154
+    42         33
+    43        132
+    44         68
+    45        999
+    46         17
+    47          2
+    50          1
+    51          2
+    52          0
+    53          4
+    54          1
+    55         24
+    56         18
+    57         16
+    58          3
+    59          2
+    65          0
+    67          2
+    69        106
+    70          5
+    71          1
+    83          2
+    84         16
+    85          2
+    87         21
+    88          1
+   101          2

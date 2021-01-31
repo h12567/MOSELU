@@ -1,0 +1,60 @@
+##TITLE=Library Entry 22444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=OGDEN BioServices Corp., NCI, Rockville, MD 20852
+##NAMES=HP
+##CAS NAME=l-Buthionine sulfoximine
+##MOLFORM=C8H18N2O3S
+##CAS REGISTRY NO=83730-53-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    41        297
+    42         61
+    43         80
+    44         52
+    45        107
+    46         91
+    47         33
+    48         49
+    49         32
+    51         13
+    53         10
+    54         63
+    55        207
+    56        999
+    57        433
+    58         81
+    59         10
+    63         47
+    64         93
+    65        139
+    66         32
+    74        214
+    75         90
+    79         34
+    80         38
+    83        123
+    84         29
+    86         13
+    87         41
+    88         14
+    91         11
+    92         34
+    93         24
+   100         59
+   101         64
+   102         46
+   103        107
+   104         42
+   105         25
+   122        375
+   123         13
+   124         13
+   148        178
+   149         12
+   222         20

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 65138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, pentadecyl-
+##MOLFORM=C21H36
+##CAS REGISTRY NO=2131-18-2
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          9
+    27         45
+    28          9
+    29        111
+    39         32
+    41        197
+    42         38
+    43        225
+    44         11
+    51          9
+    53         10
+    54         10
+    55         83
+    56         25
+    57        107
+    65         44
+    67         12
+    69         26
+    70         11
+    71         41
+    77         21
+    78         34
+    79         25
+    80          7
+    83         12
+    84          5
+    85         18
+    89          7
+    91        627
+    92        999
+    93         73
+    94         14
+    97          7
+   103         14
+   104         62
+   105         72
+   106         20
+   115          9
+   117         21
+   118          9
+   119         30
+   120         11
+   133        102
+   134         38
+   147         17
+   148          9
+   161          7
+   175          5
+   288        174
+   289         40

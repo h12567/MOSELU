@@ -1,0 +1,39 @@
+##TITLE=Library Entry 58886
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N M M. NIBBERING
+##NAMES=HP
+##CAS NAME=Hypoxanthine, 9-[4-(benzyloxy)-3-[(benzyloxy)methyl]butyl]-
+##MOLFORM=C24H26N4O3
+##CAS REGISTRY NO=34075-72-4
+##MP= -300
+##BP= -300
+##MW= 418
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    17         80
+    18        400
+    28        200
+    41         50
+    44         80
+    55         60
+    65         60
+    77         80
+    91        999
+    92        100
+   105         90
+   106         80
+   136         80
+   137         90
+   149         50
+   163         50
+   191        110
+   205         60
+   206         50
+   221        140
+   227         50
+   311        100
+   312        190
+   327        160

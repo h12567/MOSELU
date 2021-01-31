@@ -1,0 +1,55 @@
+##TITLE=Library Entry 25677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Alonso ET AL.J.Org.Chem.,23,4491(1978)
+##NAMES=HP
+##CAS NAME=4-Methyl-1-phenyl-1,2-dithiapentane
+##MOLFORM=C10H14S2
+##CAS REGISTRY NO=67421-91-4
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39        287
+    40         29
+    41        534
+    42         44
+    43        137
+    44         24
+    45        124
+    46         22
+    50         64
+    51        166
+    52         16
+    53         24
+    55         98
+    56         27
+    57        999
+    58        103
+    59         22
+    63         31
+    64         35
+    65        226
+    66         63
+    69        102
+    77        191
+    78        604
+    79         64
+    82         20
+    91         79
+    97         20
+   108         38
+   109        335
+   110        120
+   111         22
+   122         20
+   141         92
+   142        410
+   143         51
+   144         51
+   198        358
+   199         53
+   200         51

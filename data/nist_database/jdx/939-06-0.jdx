@@ -1,0 +1,58 @@
+##TITLE=Library Entry 97588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 3062
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 4,5-dihydro-4-methyl-2-phenyl-
+##MOLFORM=C10H12N2
+##CAS REGISTRY NO=939-06-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39         70
+    41         40
+    42         90
+    43         10
+    50         80
+    51        230
+    52         50
+    53         10
+    56        110
+    57         20
+    63         80
+    64         30
+    65         30
+    75         50
+    76        130
+    77        530
+    78         60
+    79         10
+    89        140
+    90        150
+    91         80
+    92         10
+   103        390
+   104        580
+   105         70
+   106         10
+   115         10
+   116         90
+   117        999
+   118        260
+   119         30
+   130        380
+   131        600
+   132         90
+   133         10
+   145        990
+   146        230
+   147         30
+   158         70
+   159        210
+   160        760
+   161        100
+   162         10

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 22992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY,INST. ORG. CHEM.,UNIV. KARLSRUHE,KARLSRUHE
+,W.GER.
+##NAMES=HP
+##CAS NAME=1,2-Dimethyl-4,4-diphenyl-2-imidazolin-5-one
+##MOLFORM=C17H16N2O
+##CAS REGISTRY NO=24133-92-4
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    51         35
+    56        999
+    77         55
+    82        125
+    83         85
+   118         70
+   132         30
+   133         45
+   159         30
+   164         25
+   165        125
+   166         90
+   180         15
+   207         55
+   235        100
+   236         30
+   263         15
+   264        310
+   265         70

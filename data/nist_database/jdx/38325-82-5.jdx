@@ -1,0 +1,87 @@
+##TITLE=Library Entry 46626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 2,4-dihydro-2-phenyl-4-(phenylmethylene)-
+##MOLFORM=C16H12N2O
+##CAS REGISTRY NO=38325-82-5
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    37         13
+    38         50
+    39        120
+    40         15
+    41          9
+    49          0
+    50        142
+    51        367
+    52         47
+    53         18
+    54          0
+    57          0
+    61         11
+    62         49
+    63        142
+    64         67
+    65         75
+    66          2
+    73          7
+    74         80
+    75         67
+    76         93
+    77        999
+    78         72
+    79          3
+    85          3
+    86         17
+    87         37
+    88         32
+    89        114
+    90         25
+    91         51
+    92          6
+    94          0
+    98          3
+    99          3
+   100          7
+   101         10
+   102         44
+   103          8
+   105          6
+   111          0
+   113         35
+   114         42
+   115        282
+   116         30
+   117          1
+   119          3
+   124          1
+   127          4
+   128          9
+   129          7
+   130          0
+   142         17
+   143         28
+   144          3
+   155          4
+   156          3
+   165          7
+   166          0
+   171        143
+   172         15
+   189          1
+   191          3
+   193          3
+   219          7
+   220          3
+   232          0
+   247        111
+   248        239
+   249         44
+   250          3

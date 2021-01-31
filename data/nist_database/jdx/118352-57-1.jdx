@@ -1,0 +1,63 @@
+##TITLE=Library Entry 36786
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Difluoro-2-chloro-1-(perfluoro-tert.-butyl) ethene
+##MOLFORM=C6ClF11
+##CAS REGISTRY NO=118352-57-1
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    69        999
+    70          5
+    85         93
+    86          4
+    87         29
+    93        130
+    94          3
+   109        102
+   110         58
+   111         33
+   112         22
+   116         55
+   118         18
+   143         77
+   144          2
+   159         84
+   160          4
+   161         26
+   162          8
+   181        229
+   182          5
+   193        259
+   194         10
+   197        677
+   198         26
+   199        241
+   200          8
+   207          2
+   209        445
+   210         19
+   211        155
+   212         15
+   228        310
+   229         10
+   230         95
+   231         17
+   247        965
+   248         49
+   249        318
+   250         11
+   297        266
+   298         11
+   299         86
+   300          3
+   316        941
+   317         60
+   318        319
+   319         18

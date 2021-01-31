@@ -1,0 +1,37 @@
+##TITLE=Library Entry 25326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Heptanone, 4-methyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=6137-11-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    15         20
+    26         42
+    27        307
+    28         28
+    29        466
+    39        157
+    40         46
+    41        253
+    42         94
+    43        762
+    44         45
+    53         27
+    55        157
+    57        999
+    58         40
+    69         19
+    71        804
+    72         49
+    86        489
+    87         27
+    99         97
+   128         32

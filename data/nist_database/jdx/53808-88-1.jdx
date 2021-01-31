@@ -1,0 +1,49 @@
+##TITLE=Library Entry 47840
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Lonazolac
+##MOLFORM=C17H13ClN2O2
+##CAS REGISTRY NO=53808-88-1
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    51        312
+    55        203
+    56        417
+    57        450
+    68        131
+    69         95
+    70        131
+    75        151
+    76         92
+    77        999
+    78        171
+    84        128
+    85         82
+    86         92
+   102        118
+   103        131
+   104        338
+   105         95
+   111        190
+   128         92
+   129         75
+   130        161
+   164        187
+   231        190
+   232        384
+   233         82
+   267        779
+   268        246
+   269        394
+   270         85
+   312        749
+   313        236
+   314        401
+   315         85

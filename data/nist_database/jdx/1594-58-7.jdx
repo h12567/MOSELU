@@ -1,0 +1,87 @@
+##TITLE=Library Entry 81138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2012
+##NAMES=HP
+##CAS NAME=Pyridine-3-carboxamidoxime
+##MOLFORM=C6H7N3O
+##CAS REGISTRY NO=1594-58-7
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         21
+    27         20
+    29          7
+    30         12
+    31          4
+    33          4
+    34          1
+    36          2
+    37         23
+    38         55
+    39         57
+    40         24
+    41         33
+    42         21
+    43         48
+    44         13
+    48          3
+    49         27
+    50        187
+    51        413
+    52        179
+    53         69
+    54         15
+    55          5
+    56          2
+    58          2
+    59          5
+    60          4
+    61          5
+    62         14
+    63         31
+    64         37
+    65        149
+    66         61
+    67         19
+    68          3
+    69          1
+    74          3
+    75         33
+    76         80
+    77         76
+    78        360
+    79         40
+    80         21
+    81          5
+    82          2
+    84          1
+    89          1
+    90         11
+    91          9
+    92         72
+    93         25
+    94          7
+   101          1
+   102          1
+   103         43
+   104         65
+   105        999
+   106        111
+   107          6
+   109          1
+   118          5
+   119         12
+   120        253
+   121         47
+   122          3
+   135          1
+   136         27
+   137        771
+   138         59
+   139          4

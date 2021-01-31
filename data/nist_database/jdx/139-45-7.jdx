@@ -1,0 +1,60 @@
+##TITLE=Library Entry 23069
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3943
+##NAMES=HP
+##CAS NAME=1,2,3-Propanetriol, tripropanoate
+##MOLFORM=C12H20O6
+##CAS REGISTRY NO=139-45-7
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=1567
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          3
+    18          2
+    26          5
+    27         34
+    28         59
+    29        183
+    30          5
+    31          5
+    32         12
+    39          2
+    41          4
+    42          3
+    43          7
+    44          1
+    45          1
+    55          8
+    56         18
+    57        999
+    58         33
+    59          3
+    71          7
+    73          1
+    74          2
+    75          5
+    87          6
+    88          2
+    89          2
+   100          5
+   101          1
+   112          2
+   113          3
+   114          9
+   115          3
+   117         25
+   118          1
+   129         29
+   130         16
+   131         12
+   149          1
+   173         57
+   174          5
+   186          2
+   187         17
+   188          2

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 18676
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Cyclobutanedicarboxylic acid, cis-
+##MOLFORM=C6H8O4
+##CAS REGISTRY NO=1461-94-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1098
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    50        114
+    51        142
+    52         88
+    53        499
+    54        999
+    55        942
+    56        269
+    57        183
+    58        123
+    68         71
+    69        102
+    70        171
+    71        214
+    72        159
+    73        290
+    74         52
+    80         66
+    81        290
+    82        404
+    83         85
+    97        114
+    98        404
+    99        357
+   100        416
+   101         64
+   108         42
+   126        338
+   127         64

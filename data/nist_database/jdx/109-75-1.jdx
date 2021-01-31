@@ -1,0 +1,53 @@
+##TITLE=Library Entry 2175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ALPHA Chemicals / NIST MS Data Center.
+##NAMES=HP
+##CAS NAME=3-Butenenitrile
+##MOLFORM=C4H5N
+##CAS REGISTRY NO=109-75-1
+##MP= -300
+##BP= -300
+##MW= 67
+##$RETENTION INDEX=658
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         11
+    14         23
+    15         17
+    16          1
+    17          0
+    18          1
+    19          1
+    20          0
+    24          6
+    25         27
+    26        112
+    27        274
+    28         61
+    29          0
+    32          6
+    34          0
+    36         28
+    37        152
+    38        208
+    39        456
+    40        276
+    41        999
+    42         25
+    44          0
+    48          5
+    49         12
+    50         21
+    51         35
+    52         78
+    53          2
+    62         17
+    63         36
+    64         71
+    65         22
+    66        134
+    67        388
+    68         18

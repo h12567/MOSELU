@@ -1,0 +1,59 @@
+##TITLE=Library Entry 10170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-, heptyl ester
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=2349-13-5
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1248
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26          6
+    27        110
+    28         13
+    29        118
+    31          9
+    39        119
+    40         29
+    41        389
+    42        188
+    43        999
+    44         39
+    45         15
+    50          4
+    51         12
+    53         24
+    54         39
+    55        257
+    56        501
+    57        659
+    58         29
+    59          3
+    65          3
+    67         10
+    68         49
+    69        225
+    70        381
+    71        693
+    72         36
+    73         29
+    81         10
+    83         51
+    84          7
+    86          4
+    88         29
+    89        836
+    90         38
+    91          5
+    97         36
+    98        361
+    99         41
+   101         24
+   102          2
+   143         18
+   144          5

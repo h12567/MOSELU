@@ -1,0 +1,38 @@
+##TITLE=Library Entry 32599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Asinex Ltd, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2,2,3,3,4,4,5,5,5-Nonafluoro-pentanoic acid cyclohexylamide
+##MOLFORM=C11H12F9NO
+##CAS REGISTRY NO=300399-76-2
+##MP= -300
+##BP= -300
+##MW= 345
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        128
+    40         30
+    41        796
+    42        147
+    43        158
+    44        129
+    52          0
+    53         39
+    54        422
+    55        922
+    56        390
+    57        366
+    58         37
+    67        999
+    68        258
+    69        669
+    79         12
+    81        161
+   131         50
+   264        222
+   265         31
+   302        249
+   303         35

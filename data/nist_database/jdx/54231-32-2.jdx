@@ -1,0 +1,39 @@
+##TITLE=Library Entry 46261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Rasala, Inst. Chem., Pedagogical Univ., Kielce, Pola
+nd
+##NAMES=HP
+##CAS NAME=Pyridine, 3-chloro-2-nitro-
+##MOLFORM=C5H3ClN2O2
+##CAS REGISTRY NO=54231-32-2
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    50        650
+    51        350
+    52        140
+    60         50
+    61        140
+    62         70
+    63         90
+    64         70
+    73         70
+    74         50
+    75        350
+    76        999
+    77        170
+    84         40
+    85        210
+    86        100
+    87         80
+   100        100
+   110         40
+   112        500
+   113         30
+   114        120
+   158         20

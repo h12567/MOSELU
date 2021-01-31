@@ -1,0 +1,35 @@
+##TITLE=Library Entry 15335
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,3-Dimethyl-4-methylamino-butan-2-one
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=123528-99-4
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         30
+    40         19
+    41         69
+    42        110
+    43        160
+    44        999
+    45         50
+    55         60
+    56         30
+    57         19
+    58         19
+    70         60
+    71         70
+    72         19
+    84         20
+    85         19
+    86         39
+    89         19
+   100         19
+   129         20

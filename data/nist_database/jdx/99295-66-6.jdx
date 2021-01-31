@@ -1,0 +1,29 @@
+##TITLE=Library Entry 37855
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Seebach, Lab. Org. Chem., Swiss Tech. Univ., Zurich,
+ Switzerland
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanediamine, N,N'-dimethyl-, trans-(.+-.)-
+##MOLFORM=C8H18N2
+##CAS REGISTRY NO=99295-66-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    42         50
+    44        450
+    57        462
+    70        999
+    71         62
+    83        100
+    84        150
+    96         37
+    99         62
+   111        100
+   112        312
+   142        624
+   143         57

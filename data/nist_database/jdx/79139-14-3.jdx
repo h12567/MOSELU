@@ -1,0 +1,43 @@
+##TITLE=Library Entry 42578
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. HIMBERT, FACH. CHEM. UNIV. KAISERSLAUTERN, W. GER.
+##NAMES=HP
+##CAS NAME=N-Methyl-2-(trimethylsilyl)-2,3-butadienanilide
+##MOLFORM=C14H19NOSi
+##CAS REGISTRY NO=79139-14-3
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        140
+    43        130
+    45        210
+    51        150
+    59        160
+    67        150
+    73        999
+    74        130
+    75        180
+    77        430
+    83        190
+   106        530
+   107        810
+   111        260
+   130        100
+   131        100
+   134        180
+   139        160
+   144        230
+   147        830
+   148        160
+   149        110
+   154        110
+   173        130
+   230        150
+   244        560
+   245        170
+   246         60

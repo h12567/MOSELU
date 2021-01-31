@@ -1,0 +1,62 @@
+##TITLE=Library Entry 85546
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Chloro-N-(2-hydroxyphenyl)acetamide
+##MOLFORM=C8H8ClNO2
+##CAS REGISTRY NO=10147-68-9
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    34         15
+    36         52
+    37          8
+    38         45
+    39        100
+    40        336
+    41         48
+    42         49
+    43         52
+    44        110
+    49         69
+    50         44
+    51        107
+    52        146
+    53        152
+    54         29
+    55         21
+    56          4
+    57          9
+    63         32
+    64         33
+    65         36
+    66          4
+    69          4
+    76          5
+    77         49
+    78         19
+    79         44
+    80        328
+    81         30
+    90          5
+    91         13
+    92          5
+    93          6
+   108        184
+   109        999
+   110         64
+   120         18
+   122          4
+   132         34
+   136        133
+   137         13
+   149         16
+   185        194
+   186         19
+   187         63
+   188          6

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 55453
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Bis(2-(4,6-dioxo-heptan-2-ylideneamino)ethyl)sulfide
+##MOLFORM=C18H28N2O4S
+##CAS REGISTRY NO=79990-53-7
+##MP= -300
+##BP= -300
+##MW= 368
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    43        498
+    45        259
+    54         69
+    58        476
+    69        216
+    70         55
+    84        203
+    85        999
+    96        232
+   100        276
+   103         16
+   110         90
+   111         35
+   112         43
+   113         21
+   114         25
+   115         69
+   116         82
+   117        828
+   118         65
+   119         22
+   141         43
+   142        713
+   143         57
+   144         35
+   154         97
+   155         21
+   156         16
+   167        227
+   168        525
+   169         43
+   170         21
+   201        653
+   202         51
+   215         17
+   227         25
+   228          9
+   248          8
+   259          9
+   267          8
+   274          9
+   285         52
+   286         52
+   294          3
+   310         13
+   328          3
+   351          3
+   368          8
+   369         13

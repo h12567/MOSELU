@@ -1,0 +1,66 @@
+##TITLE=Library Entry 19416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Hexene, 6-bromo-
+##MOLFORM=C6H11Br
+##CAS REGISTRY NO=2695-47-8
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         27
+    16          2
+    18          7
+    26         64
+    27        384
+    28        151
+    29        181
+    32          5
+    37         20
+    38         63
+    39        594
+    40        111
+    41        887
+    42        150
+    43         25
+    50         48
+    51         69
+    52         35
+    53        132
+    54        266
+    55        999
+    56         88
+    63         10
+    65         23
+    67        369
+    68         24
+    69         74
+    77         13
+    78          6
+    79         28
+    80          8
+    81         46
+    82        269
+    83        637
+    84         41
+    93         22
+    95         27
+   106          9
+   107         22
+   108          6
+   109         15
+   119          8
+   120         26
+   121         23
+   122         28
+   123         18
+   134         25
+   136         27
+   162         19
+   164         17

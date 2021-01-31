@@ -1,0 +1,32 @@
+##TITLE=Library Entry 40286
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=1,1-(Diethylcarbamoyl)phthalimide
+##MOLFORM=C13H14N2O3
+##CAS REGISTRY NO=25643-08-7
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43         70
+    45         67
+    50         37
+    56         86
+    70         49
+    71         55
+    72        999
+    73         47
+    76         65
+    90        195
+   104         89
+   147         64
+   148         33
+   174        596
+   175         72
+   246        140

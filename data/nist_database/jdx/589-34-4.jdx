@@ -1,0 +1,55 @@
+##TITLE=Library Entry 8877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3059
+##NAMES=HP
+##CAS NAME=Hexane, 3-methyl-
+##MOLFORM=C7H16
+##CAS REGISTRY NO=589-34-4
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=676
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15          6
+    26          7
+    27        127
+    28          4
+    29        246
+    30          6
+    37          1
+    38          6
+    39         90
+    40         14
+    41        366
+    42         91
+    43        999
+    44         34
+    50          4
+    51          7
+    52          2
+    53         17
+    54          6
+    55        149
+    56        392
+    57        527
+    58         22
+    63          1
+    65          2
+    66          1
+    67          4
+    68          1
+    69         19
+    70        464
+    71        582
+    72         30
+    83          6
+    84         10
+    85         56
+    86          3
+    98          6
+    99          1
+   100         39
+   101          3

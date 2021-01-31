@@ -1,0 +1,80 @@
+##TITLE=Library Entry 70004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.W.GILJE DEPT. CHEM., UNIV. HAWAII, HONOLULU, HAWAII
+##NAMES=HP
+##CAS NAME=Phosphorodiamidous chloride, N,N'-dimethoxy-N,N'-dimethyl-
+##MOLFORM=C4H12ClN2O2P
+##CAS REGISTRY NO=22753-44-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    27         42
+    29        128
+    30        121
+    31         78
+    32         15
+    33        142
+    35          7
+    36         92
+    38         28
+    40          7
+    41          7
+    42         42
+    43         50
+    44        128
+    45        128
+    46        371
+    47        192
+    49          7
+    57          7
+    58         28
+    59         71
+    60        878
+    61        292
+    62          7
+    63         57
+    66         28
+    67         50
+    68          7
+    69         21
+    73          7
+    76          7
+    78          7
+    79          7
+    81          7
+    83          7
+    85          7
+    90          7
+    92         28
+    93         92
+    94         57
+    95         28
+    96         28
+    97        999
+    98         21
+    99        328
+   101         21
+   103          7
+   105          7
+   106          7
+   108         21
+   110          7
+   112          7
+   122         78
+   126        842
+   127         28
+   128        314
+   129          7
+   149          7
+   151         28
+   171         21
+   172          7
+   173          7
+   186        128
+   187          7
+   188         42

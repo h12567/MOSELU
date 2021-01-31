@@ -1,0 +1,53 @@
+##TITLE=Library Entry 30243
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3,5-Trisilahexane, 5-methyl-
+##MOLFORM=C4H16Si3
+##CAS REGISTRY NO=18827-17-3
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    28         60
+    29         60
+    31        150
+    43        220
+    44         60
+    45        130
+    55         30
+    57         40
+    58        290
+    59        999
+    60         70
+    61         30
+    69         40
+    71        150
+    72         70
+    73        230
+    85        110
+    86        849
+    87        240
+    88         80
+    89         60
+    99         30
+   101        100
+   102         90
+   103        470
+   104         70
+   105         30
+   115         50
+   116        100
+   117         80
+   131        220
+   132         40
+   133        220
+   134         30
+   144         30
+   145         70
+   146         90
+   147         90

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 47612
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RALPH O. MUMMA
+##NAMES=HP
+##CAS NAME=l-Tryptophan, N-[(2,4-dichlorophenoxy)acetyl]-
+##MOLFORM=C19H16Cl2N2O4
+##CAS REGISTRY NO=50649-06-4
+##MP= -300
+##BP= -300
+##MW= 406
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    42        210
+    43        200
+    44        350
+    51        200
+    52         60
+    53         70
+    63        350
+    74        250
+    75        290
+    77        999
+    98        150
+    99         70
+   100         50
+   101        160
+   102        400
+   103        810
+   109        210
+   111        280
+   115        290
+   117        380
+   128        300
+   129        580
+   130        999
+   133        160
+   134         30
+   135        120
+   143        340
+   144        250
+   145        360
+   146        100
+   147        270
+   156        240
+   158        190
+   161        210
+   162        400
+   163         70
+   164        270
+   175        260
+   176         50
+   177        170
+   187        999
+   188        460
+   360        210
+   361        220
+   362        210
+   363        140
+   406         20

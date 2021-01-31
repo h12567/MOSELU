@@ -1,0 +1,65 @@
+##TITLE=Library Entry 29982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3826
+##NAMES=HP
+##CAS NAME=s-Trioxane, 2,4,6-triethyl-
+##MOLFORM=C9H18O3
+##CAS REGISTRY NO=2396-42-1
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1285
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          5
+    27         35
+    28         26
+    29         90
+    30          8
+    31        112
+    32          1
+    38          1
+    39         12
+    40          3
+    41         63
+    42         13
+    43         20
+    44          2
+    45          8
+    47          2
+    55          8
+    56          9
+    57        339
+    58         57
+    59        999
+    60         44
+    61          3
+    69          2
+    70          4
+    71          2
+    73          4
+    74          6
+    75          3
+    85          3
+    86          5
+    87          8
+    88          1
+    97          1
+    99          2
+   101          4
+   103          2
+   113          2
+   114          1
+   115         98
+   116          7
+   117        222
+   118         14
+   119          1
+   127          2
+   145         36
+   146          3
+   173         16
+   174          1

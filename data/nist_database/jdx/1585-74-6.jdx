@@ -1,0 +1,30 @@
+##TITLE=Library Entry 48138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=(CH3)2NCl
+##MOLFORM=C2H6ClN
+##CAS REGISTRY NO=1585-74-6
+##MP= -300
+##BP= -300
+##MW= 79
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27         30
+    28        271
+    29          8
+    40         35
+    41         78
+    42        601
+    43        293
+    44        147
+    45         34
+    46          9
+    78        999
+    79        693
+    80        343
+    81        229
+    82          6

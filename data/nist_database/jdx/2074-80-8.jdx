@@ -1,0 +1,68 @@
+##TITLE=Library Entry 59277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Bromo-1-chloro-2-methylpropane
+##MOLFORM=C4H8BrCl
+##CAS REGISTRY NO=2074-80-8
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    14          9
+    15         24
+    25          3
+    26         34
+    27        235
+    28         70
+    29        273
+    30          6
+    32          8
+    35          5
+    36          7
+    37         40
+    38         85
+    39        450
+    40         54
+    41        276
+    42         16
+    47          7
+    48          6
+    49         66
+    50         47
+    51         61
+    52         15
+    53        105
+    54          6
+    55        973
+    56         53
+    61          7
+    62         13
+    63        124
+    64          5
+    65         42
+    73          7
+    75         57
+    76          4
+    77         18
+    79         19
+    80          7
+    81         16
+    82          8
+    91        999
+    92         54
+    93        342
+    94         14
+    95          9
+   107          5
+   109          3
+   119          8
+   121         43
+   123         32
+   135          9
+   137          9
+   157          3

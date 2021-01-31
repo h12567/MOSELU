@@ -1,0 +1,38 @@
+##TITLE=Library Entry 47837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-3-(2-nitrophenyl)-2-pyrazoline
+##MOLFORM=C15H13N3O2
+##CAS REGISTRY NO=77242-44-5
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39         29
+    51         93
+    63         37
+    64         46
+    65         38
+    76         65
+    77        999
+    78         96
+    90         46
+    91         93
+   104        190
+   105        209
+   115         94
+   116         46
+   117         57
+   134         65
+   218         27
+   219        123
+   220        114
+   221         18
+   250          8
+   267        524
+   268         95

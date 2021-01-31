@@ -1,0 +1,83 @@
+##TITLE=Library Entry 7298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, R.S.Borisov, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Heptafluorobutyric acid, n-pentyl ester
+##MOLFORM=C9H11F7O2
+##CAS REGISTRY NO=425-26-3
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=840
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         99
+    28         79
+    29        199
+    30          6
+    31         13
+    38          2
+    39        126
+    40         25
+    41        687
+    42        786
+    43        999
+    44         38
+    45         26
+    47          4
+    50         10
+    51         10
+    52          3
+    53         30
+    54         14
+    55        977
+    56         91
+    57         79
+    58          4
+    59          6
+    61         14
+    62          2
+    63          2
+    65          4
+    66          2
+    67         25
+    69        498
+    70        868
+    71        425
+    72         22
+    77          2
+    78         16
+    80          3
+    81         16
+    84          2
+    85          3
+    93          9
+    95          2
+    97          6
+   100        167
+   101          3
+   109         37
+   115         25
+   119        115
+   131         13
+   147          6
+   150         25
+   159          2
+   167         11
+   169        777
+   170         21
+   178          4
+   195          2
+   197         33
+   199          5
+   213          3
+   215          8
+   227          2
+   240          2
+   241         24
+   253          2
+   255        101
+   256          6

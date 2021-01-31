@@ -1,0 +1,47 @@
+##TITLE=Library Entry 84791
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl heptanoate
+##MOLFORM=C8H15ClO2
+##CAS REGISTRY NO=76068-79-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1188
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        153
+    41        420
+    42        364
+    43        632
+    44         69
+    49        180
+    51         54
+    55        501
+    56        184
+    57        177
+    68        126
+    69        212
+    70        155
+    71        121
+    72        713
+    73         68
+    83        127
+    84        167
+    85        281
+   108        999
+   109         85
+   110        339
+   111         14
+   112         14
+   113        575
+   114         13
+   121        181
+   123         42
+   135         48
+   136          7
+   137         13
+   149         13

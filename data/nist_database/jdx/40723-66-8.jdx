@@ -1,0 +1,60 @@
+##TITLE=Library Entry 18134
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTEDISON S.P.A., RESEARCH CENTRE, MILAN, IT
+ALY
+##NAMES=HP
+##CAS NAME=Decane, 1,1,2,2,3,3,4,4,7,7,8,8,9,9,10,10-hexadecafluoro-
+##MOLFORM=C10H6F16
+##CAS REGISTRY NO=40723-66-8
+##MP= -300
+##BP= -300
+##MW= 430
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    31         19
+    51        999
+    52         11
+    59         41
+    64         92
+    69        360
+    75         28
+    77        171
+    82         30
+    83         21
+    89         29
+    95        182
+   100         40
+   101        197
+   108         28
+   109         29
+   113        118
+   115         99
+   119         30
+   127         83
+   131         81
+   133         42
+   139         68
+   145        267
+   146         12
+   151         70
+   157         30
+   159         22
+   163         21
+   169         20
+   177         60
+   189         71
+   195        152
+   209        185
+   227         22
+   239         20
+   259        131
+   279        186
+   309         63
+   321         38
+   341         21
+   391         41
+   411          5
+   430          0

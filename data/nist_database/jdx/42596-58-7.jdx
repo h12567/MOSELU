@@ -1,0 +1,48 @@
+##TITLE=Library Entry 53778
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. LUNN,ENVIRON. CONTROL,NATL. CANCER INST.,FREDERICK,M
+D.,USA
+##NAMES=HP
+##CAS NAME=4-Piperidinecarboxylic acid hydrazide
+##MOLFORM=C6H13N3O
+##CAS REGISTRY NO=42596-58-7
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        150
+    42        350
+    43        250
+    51        100
+    53        150
+    54        150
+    55        950
+    56        900
+    57        800
+    65        100
+    67        100
+    68        150
+    69        150
+    70        100
+    72        100
+    80        100
+    81        100
+    82        750
+    83        200
+    84        999
+    85        350
+    87        300
+    94        100
+    98        100
+   109         50
+   110         50
+   111         50
+   112        950
+   113        150
+   125         50
+   127        250
+   143        100

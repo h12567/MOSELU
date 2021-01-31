@@ -1,0 +1,60 @@
+##TITLE=Library Entry 30248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,2-Dimethylbutanedioic acid
+##MOLFORM=C6H10O4
+##CAS REGISTRY NO=597-43-3
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14         16
+    15         36
+    26         23
+    27        123
+    28         28
+    29        180
+    30         16
+    31         64
+    32          8
+    37         19
+    38         52
+    39        344
+    40         73
+    41        484
+    42        112
+    43        223
+    44          8
+    45        292
+    50         23
+    51         31
+    53         69
+    54         41
+    55        262
+    56        391
+    57        100
+    58         23
+    59        999
+    60        134
+    69        180
+    70         15
+    71         14
+    72        119
+    73         13
+    82         38
+    83         44
+    85         84
+    87        646
+    88         36
+   100        312
+   101        109
+   102         75
+   113         42
+   118          9
+   128         46
+   129         14

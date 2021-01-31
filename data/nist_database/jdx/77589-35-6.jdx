@@ -1,0 +1,45 @@
+##TITLE=Library Entry 27501
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. HARRIS,DEP. CHEM.,VIRGINIA POLYTECH. INST.,BLACKSBUR
+G,USA
+##NAMES=HP
+##CAS NAME=1-tert-Butyl-1-iodotetrachlorocyclotriphosphazene
+##MOLFORM=C4H9Cl4IN3P3
+##CAS REGISTRY NO=77589-35-6
+##MP= -300
+##BP= -300
+##MW= 459
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    57        999
+   146         38
+   148         25
+   150          3
+   240         69
+   242         67
+   244         20
+   246          2
+   275         13
+   276        375
+   277         25
+   278        458
+   279         15
+   280        192
+   281          5
+   282         46
+   283          1
+   284          3
+   332        183
+   333         10
+   334        292
+   335         13
+   336        117
+   337          6
+   338         29
+   339          1
+   340          4
+   459          1
+   461          2

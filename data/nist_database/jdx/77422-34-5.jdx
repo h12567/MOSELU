@@ -1,0 +1,32 @@
+##TITLE=Library Entry 72866
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Morpholinomethyl-isopropyl-sulfide
+##MOLFORM=C8H17NOS
+##CAS REGISTRY NO=77422-34-5
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        146
+    42        161
+    43        213
+    44         36
+    45         26
+    46         16
+    56        182
+    57         94
+    58          4
+    69         26
+    70         36
+    71         26
+   100        999
+   101         94
+   102          3
+   175         10
+   176          4

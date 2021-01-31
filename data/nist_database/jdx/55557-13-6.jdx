@@ -1,0 +1,60 @@
+##TITLE=Library Entry 45348
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORVAL A. MAMER, ROYAL VICTORIA HOSPITAL, MONTREAL, CANA
+DA
+##NAMES=HP
+##CAS NAME=3-Methylbutanoic acid, TMS derivative
+##MOLFORM=C8H18O2Si
+##CAS REGISTRY NO=55557-13-6
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=932
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         20
+    27         56
+    28          9
+    29         47
+    31          2
+    39         48
+    40          7
+    41         92
+    42         20
+    43         62
+    44         18
+    45        108
+    46          8
+    47         72
+    55         16
+    56         33
+    57         48
+    58         34
+    60         10
+    61         56
+    69         36
+    71          0
+    72         28
+    73        601
+    74         72
+    75        999
+    76         77
+    77         42
+    83         18
+    85         11
+    88          6
+    91          6
+    99          7
+   101          7
+   116         16
+   117        150
+   118         16
+   119          7
+   132         61
+   143         21
+   159        444
+   160         59
+   161         20
+   174          7

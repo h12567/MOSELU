@@ -1,0 +1,38 @@
+##TITLE=Library Entry 69186
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1,1-Divinyl-1-silacyclobutane
+##MOLFORM=C7H12Si
+##CAS REGISTRY NO=74045-42-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    53        100
+    54         35
+    55        385
+    56         40
+    57         70
+    65         30
+    66         70
+    67        120
+    68         40
+    69        160
+    70         35
+    80         20
+    81         95
+    82         58
+    83        100
+    95         40
+    96        999
+    97        120
+    98         40
+   109         20
+   124         25
+   125          3
+   126          1

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 25079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentanol, 2-methyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=24070-77-7
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14         14
+    26         28
+    27        136
+    28         56
+    29        160
+    30         19
+    31         55
+    32          6
+    38         33
+    39        210
+    40         60
+    41        310
+    42         79
+    43        234
+    44        220
+    45         68
+    50         26
+    51         38
+    52         18
+    53         78
+    54         75
+    55        153
+    56        264
+    57        999
+    58        175
+    59         16
+    65         24
+    67        564
+    68         33
+    69         27
+    70         16
+    71        343
+    72        120
+    77         15
+    79         28
+    81         60
+    82        427
+    83         39
+    85         21
+   100         56

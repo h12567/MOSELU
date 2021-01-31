@@ -1,0 +1,39 @@
+##TITLE=Library Entry 39367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.Marunaka ET AL.Biomed.Mass Spectrom.,7,331(1980)
+##NAMES=HP
+##CAS NAME=Uracil, 5-fluoro-3-(tetrahydro-2-furyl)-
+##MOLFORM=C8H9FN2O3
+##CAS REGISTRY NO=63901-83-7
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        211
+    42        143
+    43        275
+    59         88
+    60        124
+    70        260
+    71        999
+    72        108
+    87        179
+    88        143
+   102         60
+   112         68
+   114        231
+   128         80
+   130        155
+   131        837
+   132         84
+   133         72
+   155         84
+   157        135
+   170         32
+   172        299
+   200        343
+   201         76

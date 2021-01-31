@@ -1,0 +1,73 @@
+##TITLE=Library Entry 51099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Eicosyne
+##MOLFORM=C20H38
+##CAS REGISTRY NO=765-27-5
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41        700
+    42        100
+    43        980
+    44         20
+    53         80
+    54        250
+    55        720
+    56        220
+    57        580
+    58         20
+    65         20
+    66         30
+    67        530
+    68        350
+    69        400
+    70        120
+    71        200
+    79         80
+    80         80
+    81        800
+    82        999
+    83         80
+    84        100
+    93         20
+    94         20
+    95        420
+    96        830
+    97        350
+    98         50
+    99         20
+   109        190
+   110        180
+   111        100
+   123         70
+   124         50
+   137         30
+   138         30
+   151         20
+   152         30
+   153          5
+   165          6
+   166         10
+   167          5
+   168          5
+   180         10
+   193          5
+   194          7
+   206          5
+   207          7
+   221          5
+   222          7
+   235          5
+   236          6
+   249          5
+   250         10
+   263          5
+   277         20
+   278          5

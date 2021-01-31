@@ -1,0 +1,39 @@
+##TITLE=Library Entry 43757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DRUS ANAL CLTM SE30 05 1750 E M.HORN
+##NAMES=HP
+##CAS NAME=3H-Pyrazol-3-one, 4-chloro-1,2-dihydro-5-methyl-2-phenyl-1-(trime
+thylsilyl)-
+##MOLFORM=C13H17ClN2OSi
+##CAS REGISTRY NO=57396-96-0
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    45        420
+    51        210
+    65        110
+    73        999
+    74        330
+    75        250
+    77        630
+    91        130
+    93        170
+   105        110
+   149        140
+   151         80
+   189        140
+   190         50
+   191         80
+   207         70
+   245        100
+   265        370
+   266        110
+   267        170
+   280        999
+   281        260
+   282        400

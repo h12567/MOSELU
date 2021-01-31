@@ -1,0 +1,39 @@
+##TITLE=Library Entry 69699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.L. PEPPARD, BREWING RES. FOUNDATION, NUTFIELD, REDHIL
+L, U.
+##NAMES=HP
+##CAS NAME=3-(4-Methylpent-3-enyl)thiophene
+##MOLFORM=C10H14S
+##CAS REGISTRY NO=62429-57-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        160
+    40        120
+    41        700
+    45        190
+    53        180
+    67         50
+    69        630
+    70         40
+    77         30
+    91         20
+    97        999
+    98        220
+    99         50
+   110        340
+   111         40
+   112         10
+   123         20
+   134         10
+   135         10
+   149         10
+   151         40
+   166        120
+   167         10

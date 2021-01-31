@@ -1,0 +1,41 @@
+##TITLE=Library Entry 36793
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentitol, pentakis(trifluoroacetate)
+##MOLFORM=C15H7F15O10
+##CAS REGISTRY NO=55319-75-0
+##MP= -300
+##BP= -300
+##MW= 632
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    69        999
+    70         50
+    81        280
+    82         60
+   139        170
+   140         70
+   177        370
+   178         40
+   195        270
+   196         20
+   253        880
+   254         90
+   265        270
+   266         50
+   290         90
+   291        110
+   292         50
+   379        250
+   380         60
+   391         30
+   404         34
+   405         35
+   505         30
+   519        128
+   520         17
+   632          6

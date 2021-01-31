@@ -1,0 +1,43 @@
+##TITLE=Library Entry 40728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Propionic acid, 3-(allylthio)-
+##MOLFORM=C6H10O2S
+##CAS REGISTRY NO=23349-98-6
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1104
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        110
+    39        380
+    41        660
+    43         80
+    45        740
+    46        130
+    47        180
+    55         70
+    58        130
+    59        250
+    60         80
+    61        130
+    63         60
+    71        110
+    72        330
+    73        999
+    74        180
+    75         60
+    77         50
+    85        120
+    86         60
+    87        620
+    89        160
+   100        100
+   104        100
+   105        300
+   119         10
+   146        400

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 51906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-Ethoxypyridine N-oxide
+##MOLFORM=C7H9NO2
+##CAS REGISTRY NO=3445-09-8
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        568
+    28        310
+    29        312
+    38        280
+    39        819
+    40        144
+    41        116
+    50        321
+    51        579
+    52        718
+    53        138
+    54        406
+    55        479
+    64         47
+    65         89
+    66        281
+    67        476
+    68         52
+    69        135
+    78        643
+    79        176
+    80         58
+    82         43
+    83        999
+    84        106
+    93        134
+    94         82
+    95         89
+    96         45
+   108         45
+   111        174
+   122        355
+   123         30
+   124        100
+   139         76
+   140         27
+   141          3

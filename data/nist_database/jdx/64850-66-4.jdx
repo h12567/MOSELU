@@ -1,0 +1,41 @@
+##TITLE=Library Entry 75822
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,4,6-tri-O-methyl-3-O-(methylester-2,3,4-tri-O-methyl.bet
+a.d-glucopyranuronic acid).alpha.d-glucopyranoside
+##MOLFORM=C20H36O12
+##CAS REGISTRY NO=64850-66-4
+##MP= -300
+##BP= -300
+##MW= 468
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    71        169
+    75        297
+    88        170
+    99         16
+   101        999
+   111         12
+   113         33
+   114         16
+   117          8
+   127         71
+   145        338
+   157         54
+   159        412
+   169         10
+   173         11
+   186         29
+   187         44
+   201        285
+   219        190
+   232         53
+   233        129
+   256         13
+   279        932
+   405          6
+   437         36

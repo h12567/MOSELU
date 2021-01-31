@@ -1,0 +1,79 @@
+##TITLE=Library Entry 114994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1,4-Dihydronaphthalene
+##MOLFORM=C10H10
+##CAS REGISTRY NO=612-17-9
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=1167
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          4
+    27         14
+    37          4
+    38         12
+    39         52
+    40          3
+    41          2
+    49          4
+    50         69
+    51        147
+    52         31
+    53          9
+    54          1
+    55          1
+    56          1
+    57          6
+    60          1
+    61         12
+    62         37
+    63        120
+    64        126
+    65         45
+    73          5
+    74         51
+    75         51
+    76         42
+    77        102
+    78         40
+    79          3
+    84          1
+    85          4
+    86         13
+    87         19
+    88          5
+    89         38
+    90          4
+    91         14
+    92          1
+    97          2
+    98         14
+    99          6
+   100          5
+   101         31
+   102         99
+   103         29
+   104          6
+   110          1
+   111          1
+   113          5
+   114          4
+   115        565
+   116         56
+   117          3
+   121          1
+   122          2
+   125          4
+   126         65
+   127        265
+   128        502
+   129        937
+   130        999
+   131        107
+   132          5

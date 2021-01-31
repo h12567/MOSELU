@@ -1,0 +1,36 @@
+##TITLE=Library Entry 79317
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-(Benzoylmethyl)-2H-1,4-benzoxazin-3-one
+##MOLFORM=C16H13NO3
+##CAS REGISTRY NO=105492-43-1
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        144
+    43        138
+    50         85
+    51        183
+    52         42
+    63         52
+    65        128
+    77        617
+    78        104
+    79         94
+    91        145
+    92         52
+   105        999
+   106        130
+   107        112
+   134        416
+   135         60
+   162        224
+   163         33
+   267        415
+   268         68

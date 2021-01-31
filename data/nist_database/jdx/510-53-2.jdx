@@ -1,0 +1,53 @@
+##TITLE=Library Entry 30769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Racemethorphan
+##MOLFORM=C18H25NO
+##CAS REGISTRY NO=510-53-2
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=2127
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    42        173
+    44        129
+    58         60
+    59        999
+    60         37
+    67         21
+    70         41
+    77         29
+    91         32
+    94         20
+   115         49
+   121         28
+   128         61
+   129         40
+   141         40
+   150        453
+   151         41
+   159         29
+   161         29
+   162         38
+   171        139
+   172         58
+   174         38
+   184         18
+   185         30
+   198         19
+   199         19
+   203         89
+   212        107
+   213         89
+   214        261
+   215         39
+   228         29
+   242         49
+   256         50
+   270        345
+   271        646
+   272         99

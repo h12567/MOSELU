@@ -1,0 +1,71 @@
+##TITLE=Library Entry 97486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,2,2-Trifluoroethyl trichloromethanesulfonate
+##MOLFORM=C3H2Cl3F3O3S
+##CAS REGISTRY NO=23199-56-6
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    12          2
+    16          1
+    26          1
+    29         87
+    30         33
+    31         13
+    32         10
+    33         67
+    35         12
+    36          4
+    37          5
+    44          8
+    45          4
+    47         95
+    48         55
+    49         33
+    50         15
+    51         20
+    52          1
+    60          2
+    61          1
+    63         37
+    64         48
+    65         18
+    66          2
+    67          8
+    69         90
+    70          1
+    78          4
+    79         15
+    80          3
+    82        169
+    83        255
+    84        104
+    85          7
+    86         17
+    87          1
+    99          8
+   101          3
+   112          1
+   113          1
+   114          1
+   115          1
+   117        999
+   119        964
+   120         14
+   121        313
+   122          4
+   123         31
+   147         58
+   148          1
+   149          4
+   163          7
+   181          1
+   245          8
+   247          5

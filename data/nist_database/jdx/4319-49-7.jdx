@@ -1,0 +1,70 @@
+##TITLE=Library Entry 16020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4266
+##NAMES=HP
+##CAS NAME=N-Aminomorpholine
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=4319-49-7
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          8
+    15         36
+    16         10
+    17         26
+    18         54
+    19          2
+    25          4
+    26         51
+    27        148
+    28        289
+    29        190
+    30        113
+    31         40
+    32          1
+    38          3
+    39         10
+    40         18
+    41         51
+    42        124
+    43        218
+    44        999
+    45         71
+    46          4
+    47          1
+    50          1
+    51          2
+    52          5
+    53          3
+    54         31
+    55         58
+    56        117
+    57        281
+    58         41
+    59         28
+    60          2
+    67         10
+    68          3
+    69          7
+    70          5
+    71         16
+    72        139
+    73          7
+    74          1
+    83          9
+    84          8
+    85         37
+    86        211
+    87        135
+    88          7
+   100          6
+   101         50
+   102        944
+   103         53
+   104          3

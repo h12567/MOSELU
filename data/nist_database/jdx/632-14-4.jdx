@@ -1,0 +1,38 @@
+##TITLE=Library Entry 15338
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.A.BALDWIN, UNIVERSITY COLLEGE, LONDON, UK
+##NAMES=HP
+##CAS NAME=Urea, trimethyl-
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=632-14-4
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=976
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    28         77
+    29         18
+    30        132
+    31          9
+    39         10
+    40         21
+    41         40
+    42        206
+    43        291
+    44        999
+    45        184
+    55         23
+    56         21
+    57         22
+    58        106
+    59         19
+    69         20
+    70         10
+    71         28
+    72        162
+    73         13
+   102        113
+   103          8

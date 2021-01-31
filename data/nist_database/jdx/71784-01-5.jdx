@@ -1,0 +1,60 @@
+##TITLE=Library Entry 86209
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propane, 1-chloro-3-((2-chloroethyl)thio)-
+##MOLFORM=C5H10Cl2S
+##CAS REGISTRY NO=71784-01-5
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=1213
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         16
+    27        154
+    39         56
+    41        267
+    42         23
+    45        124
+    46         67
+    47        189
+    48         13
+    49         42
+    51         11
+    53         17
+    58         23
+    59         48
+    60         32
+    61        111
+    62         23
+    63        244
+    64         15
+    65         78
+    73         44
+    74         13
+    76         45
+    77        142
+    78         15
+    79         41
+    81         35
+    87         37
+    96        119
+    97         24
+    98         52
+   109        999
+   110         41
+   111        357
+   112         25
+   113         15
+   123        255
+   124         15
+   125         95
+   137        107
+   139         31
+   172        245
+   173         13
+   174        167
+   176         41

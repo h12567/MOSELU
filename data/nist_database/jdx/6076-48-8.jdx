@@ -1,0 +1,46 @@
+##TITLE=Library Entry 35987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,6-Dimethyl-6-chlorohept-2-ene
+##MOLFORM=C9H17Cl
+##CAS REGISTRY NO=6076-48-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    28         64
+    41        162
+    42         22
+    43        133
+    44         15
+    55        154
+    56        312
+    57         61
+    58         12
+    67         93
+    68        213
+    69        999
+    70         23
+    77         92
+    80         41
+    81        246
+    82         43
+    83        142
+    84         25
+   109        456
+   110         43
+   119         81
+   121         27
+   124        345
+   125        143
+   126         19
+   127         15
+   160         59
+   161         21
+   162         20
+   163          7

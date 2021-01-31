@@ -1,0 +1,76 @@
+##TITLE=Library Entry 90131
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=(E)-3-(Dimethylamino)-2-pentene
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=32317-47-8
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         81
+    28         32
+    29         81
+    30         30
+    37          2
+    38          7
+    39         92
+    40         17
+    41        216
+    42        321
+    43         33
+    44        460
+    45         22
+    46         13
+    47          1
+    48          1
+    49          2
+    50          7
+    51         12
+    52          9
+    53         42
+    54         23
+    55         68
+    56         50
+    57         66
+    58          9
+    62          1
+    63          5
+    64          3
+    65         12
+    66         17
+    67         34
+    68        130
+    69        169
+    70        722
+    71         32
+    72          7
+    79          2
+    80          5
+    81         10
+    82         45
+    83         10
+    84        346
+    85         52
+    86         23
+    87          1
+    94         10
+    95          3
+    96         34
+    97         12
+    98        512
+    99         45
+   100          1
+   108          1
+   110         27
+   111          4
+   112        369
+   113        999
+   114         65
+   115          2

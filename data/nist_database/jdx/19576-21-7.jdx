@@ -1,0 +1,30 @@
+##TITLE=Library Entry 68053
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.H.WHITESIDES STANFORD UNIV., CALIFORNIA, USA
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-[2-(1,1-dimethylethyl)-2-cyclopropen-1-yl]-2,2-dim
+ethyl-
+##MOLFORM=C12H20O
+##CAS REGISTRY NO=19576-21-7
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        109
+    40        109
+    41        290
+    43        163
+    44         14
+    53         54
+    55        272
+    57        200
+    67        309
+    93         54
+    95        999
+   123         54
+   165        309
+   180         54

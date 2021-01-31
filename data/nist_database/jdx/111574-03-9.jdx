@@ -1,0 +1,44 @@
+##TITLE=Library Entry 93438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.C. DITTMER, DEP.CHEM., UNIV. SYRACUSE, SYRACUSE, USA
+##NAMES=HP
+##CAS NAME=4,5,6,7-Tetrachloro-2a,8a-dihydro-2a-phenyl-2H-thiacyclobuta(b)(1
+,4)benzodioxin 1,1-dioxide
+##MOLFORM=C15H8Cl4O4S
+##CAS REGISTRY NO=111574-03-9
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    76         61
+    77        413
+    78         50
+    89        131
+    91         56
+   102        123
+   103        462
+   104        177
+   105        482
+   115        999
+   116        208
+   118         38
+   130         24
+   131         91
+   132        109
+   135         60
+   163         70
+   165         36
+   167         27
+   180        182
+   181         34
+   257         20
+   259         25
+   261          9
+   333          9
+   424          7
+   426         12
+   428          3

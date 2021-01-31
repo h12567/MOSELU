@@ -1,0 +1,36 @@
+##TITLE=Library Entry 72134
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4-Hexanedione, 1,1,1-trifluoro-
+##MOLFORM=C6H7F3O2
+##CAS REGISTRY NO=400-54-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    29        490
+    39         50
+    43        200
+    50         30
+    51         40
+    52         60
+    53         50
+    57        480
+    58         20
+    61         20
+    69        900
+    70         10
+    71         10
+    99        999
+   100         40
+   119        190
+   120         10
+   139        430
+   140         20
+   168        230
+   169         10

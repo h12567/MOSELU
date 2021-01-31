@@ -1,0 +1,40 @@
+##TITLE=Library Entry 52085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Octen-4-one, 2-methyl-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=19860-71-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        180
+    28         50
+    29        280
+    39        160
+    40         20
+    41        140
+    42         20
+    43         40
+    51         10
+    53         60
+    54         10
+    55        420
+    56         30
+    57        160
+    58         10
+    67         10
+    82         10
+    83        999
+    84         60
+    85         90
+    98        150
+   111         20
+   125         10
+   140         10

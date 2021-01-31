@@ -1,0 +1,37 @@
+##TITLE=Library Entry 63392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3,4-Thiadiazole, 2-ethoxy-2,3-dihydro-2,3,5-triphenyl-
+##MOLFORM=C22H20N2OS
+##CAS REGISTRY NO=42141-07-1
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    91        999
+    92        100
+   103         66
+   104        126
+   105        279
+   106         36
+   120        116
+   121        126
+   122         23
+   180         36
+   193         31
+   194        453
+   195         92
+   250         23
+   251        242
+   252         84
+   315        129
+   316         55
+   317         31
+   360        131
+   361         55
+   362         36

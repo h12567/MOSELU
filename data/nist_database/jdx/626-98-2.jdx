@@ -1,0 +1,63 @@
+##TITLE=Library Entry 18899
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Pentenoic acid
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=626-98-2
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=873
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25         18
+    26        182
+    27        617
+    28         65
+    29        633
+    30         22
+    31         37
+    36          3
+    37         48
+    38         98
+    39        584
+    40        112
+    41        338
+    42         51
+    43        214
+    44         39
+    45        347
+    46         10
+    47          2
+    49         20
+    50         91
+    51         90
+    52         35
+    53        212
+    54        265
+    55        999
+    56        220
+    57        125
+    58        125
+    59          6
+    60         30
+    66          2
+    67          4
+    68         17
+    69         11
+    71         46
+    72         17
+    73         58
+    74          2
+    77          2
+    81         56
+    82        147
+    83         95
+    84          5
+    85         33
+    99         44
+   100        554
+   101         33

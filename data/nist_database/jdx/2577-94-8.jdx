@@ -1,0 +1,63 @@
+##TITLE=Library Entry 37287
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=L-Arginine, methyl ester
+##MOLFORM=C7H16N4O2
+##CAS REGISTRY NO=2577-94-8
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        236
+    42        330
+    43        848
+    44        505
+    45         71
+    47        110
+    48         49
+    49        276
+    50        907
+    51        113
+    52        304
+    53         33
+    54         44
+    55         65
+    56        278
+    57        127
+    58        139
+    59        140
+    60        116
+    68        147
+    69        233
+    70        999
+    71         75
+    72        167
+    73         92
+    74         42
+    82         32
+    83         42
+    84        221
+    85        315
+    86        243
+    87        303
+    88         65
+    89         31
+    96          6
+    98         50
+    99         29
+   100         76
+   101         63
+   111         48
+   112        135
+   113         24
+   114         28
+   115          6
+   128         36
+   129         25
+   156         13
+   188         13

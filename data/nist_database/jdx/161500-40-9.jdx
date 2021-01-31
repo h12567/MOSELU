@@ -1,0 +1,49 @@
+##TITLE=Library Entry 73027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=Oxazolidine, 2,2-diethyl-
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=161500-40-9
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    15         13
+    26         11
+    27         81
+    29        187
+    30         83
+    39         35
+    40         10
+    41        105
+    42         71
+    43         35
+    44        493
+    45        166
+    53         14
+    54         42
+    55         45
+    56        654
+    57        213
+    58         12
+    68         12
+    69         45
+    70        186
+    71         24
+    82         13
+    84         22
+    85         36
+    86         24
+    98        375
+    99         85
+   100        999
+   101         64
+   128         16
+   129         78
+   130         14

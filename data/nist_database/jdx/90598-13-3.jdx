@@ -1,0 +1,33 @@
+##TITLE=Library Entry 61532
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=(4-Methylbenzylidenimino)sulfur pentafluoride
+##MOLFORM=C8H8F5NS
+##CAS REGISTRY NO=90598-13-3
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39        151
+    41         38
+    50         47
+    51         75
+    63        113
+    65        302
+    89        207
+    91        999
+    92         94
+   110         75
+   117         75
+   118        434
+   119        170
+   120         94
+   127         94
+   136         47
+   226         19
+   245        434

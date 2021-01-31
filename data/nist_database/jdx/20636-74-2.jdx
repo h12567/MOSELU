@@ -1,0 +1,50 @@
+##TITLE=Library Entry 36244
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. WINFIELD, CHEM. DEP., UNIV. GLASGOW, GLASGOW, SCOT
+L&
+##NAMES=HP
+##CAS NAME=Tetrafluoro(perfluorobutyl)iodine
+##MOLFORM=C4F13I
+##CAS REGISTRY NO=20636-74-2
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    31        220
+    50         80
+    69        999
+    81         70
+    93         50
+   100        320
+   119        220
+   127        480
+   131        290
+   146         10
+   150         60
+   165         10
+   169         90
+   177        150
+   181         80
+   184         10
+   196         10
+   200         10
+   201         10
+   203         20
+   208         30
+   213         10
+   219        350
+   220         20
+   222         10
+   227         20
+   232         10
+   239         30
+   246         10
+   253        480
+   277         10
+   296         20
+   327         10
+   353        190

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 41716
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=Methyl m-methoxymandelate, TMS derivative
+##MOLFORM=C13H20O4Si
+##CAS REGISTRY NO=55590-93-7
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    43         81
+    44         42
+    45        218
+    46         15
+    47         31
+    50         18
+    51         44
+    53         13
+    58         31
+    59        200
+    60         18
+    61         17
+    63         26
+    64         27
+    65         40
+    73        999
+    74         78
+    75        100
+    76         19
+    77         73
+    78         30
+    79         18
+    89        263
+    90         26
+    91         43
+    92         34
+   105         18
+   107         34
+   108         17
+   121         15
+   135         84
+   136         59
+   151         26
+   163         15
+   179         15
+   193         11
+   209        255
+   210         44
+   211         17
+   225         26
+   253         21
+   268         10

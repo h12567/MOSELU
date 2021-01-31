@@ -1,0 +1,46 @@
+##TITLE=Library Entry 74633
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.HEYNS ORG. CHEM. INST., UNIV., HAMBURG, GERMANY, F.R.
+G.
+##NAMES=HP
+##CAS NAME=.beta.-D-Xylopyranoside, methyl 2,3,4-tri-O-methyl-
+##MOLFORM=C9H18O5
+##CAS REGISTRY NO=2876-85-9
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        316
+    42         64
+    43        151
+    45        268
+    53         52
+    55        143
+    56         93
+    57        122
+    58        129
+    59         42
+    69         53
+    71         73
+    73        229
+    74         30
+    75        500
+    83         42
+    85         53
+    88        692
+    89         42
+    99         33
+   101        999
+   102         60
+   111         12
+   115         56
+   129          5
+   131         13
+   143          9
+   175         11
+   176         74
+   177          8

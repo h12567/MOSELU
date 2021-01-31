@@ -1,0 +1,50 @@
+##TITLE=Library Entry 42058
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ether, 6-bromo-1-ethyloctyl methyl
+##MOLFORM=C11H23BrO
+##CAS REGISTRY NO=20599-95-5
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        142
+    42         13
+    43         22
+    45        111
+    53         13
+    55        118
+    57         13
+    58         11
+    59         22
+    67         71
+    68          9
+    69         49
+    71         71
+    72         56
+    73        999
+    74         44
+    81         22
+    82         16
+    83         78
+    84         13
+    95         18
+    96         11
+    97         22
+    99         11
+   109        178
+   110         13
+   111         22
+   139         11
+   141         71
+   142          9
+   171          7
+   221        118
+   222         18
+   223        116
+   224         18

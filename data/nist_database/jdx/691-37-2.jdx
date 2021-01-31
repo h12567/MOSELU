@@ -1,0 +1,53 @@
+##TITLE=Library Entry 6054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1328
+##NAMES=HP
+##CAS NAME=1-Pentene, 4-methyl-
+##MOLFORM=C6H12
+##CAS REGISTRY NO=691-37-2
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=551
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         14
+    26         10
+    27        207
+    28         11
+    29         41
+    31          1
+    37          8
+    38         19
+    39        199
+    40         37
+    41        681
+    42        313
+    43        999
+    44         33
+    49          1
+    50          9
+    51         12
+    52          5
+    53         27
+    54          9
+    55         87
+    56        497
+    57         22
+    61          1
+    62          3
+    63          4
+    65          6
+    66          2
+    67         22
+    68          5
+    69        168
+    70          9
+    77          1
+    79          1
+    83          7
+    84        116
+    85          8

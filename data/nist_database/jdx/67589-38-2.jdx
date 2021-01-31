@@ -1,0 +1,42 @@
+##TITLE=Library Entry 107938
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Cyclohexanecarboxylic acid, 4-propyl-, 4-methoxyphenyl ester
+##MOLFORM=C17H24O3
+##CAS REGISTRY NO=67589-38-2
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         31
+    28         10
+    29         35
+    39         32
+    41        125
+    42         10
+    43         26
+    52         11
+    53         27
+    55        111
+    57         34
+    65         15
+    67         42
+    69        174
+    70         10
+    77         13
+    79         17
+    81         55
+    83        100
+    95         27
+   109        103
+   124        999
+   125        132
+   126         11
+   276         19
+   277          4

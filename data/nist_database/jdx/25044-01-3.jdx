@@ -1,0 +1,54 @@
+##TITLE=Library Entry 34469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Penten-3-one, 2-methyl-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=25044-01-3
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=748
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    24          2
+    26         13
+    27         67
+    28          5
+    29        140
+    30          1
+    36          3
+    37          9
+    38         11
+    39        156
+    40         18
+    41        781
+    42         42
+    43         21
+    46          0
+    47          0
+    52          6
+    53         13
+    54          6
+    55         16
+    56         23
+    57        161
+    58         11
+    60          1
+    67          0
+    68          5
+    69        999
+    70         56
+    71          6
+    75          0
+    76          2
+    77          2
+    80         17
+    83         12
+    86          2
+    97          5
+    98        392
+    99         26
+   100          3

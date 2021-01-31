@@ -1,0 +1,55 @@
+##TITLE=Library Entry 41451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=2-Hexenedioic acid, bis(trimethylsilyl) ester, (E)-
+##MOLFORM=C12H24O4Si2
+##CAS REGISTRY NO=55494-10-5
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=1539
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39         39
+    43         76
+    44         42
+    45        253
+    46          5
+    47         76
+    52          3
+    53         79
+    54        160
+    55          3
+    57          6
+    58         21
+    59         39
+    60          4
+    61         49
+    72         32
+    73        999
+    74         92
+    75        366
+    76         28
+    77         19
+    81         64
+    82        159
+    97         25
+   111         21
+   112         30
+   113          3
+   117          6
+   133         20
+   139          5
+   147        328
+   148         55
+   149         35
+   190          5
+   229          5
+   244         49
+   245         10
+   273         62
+   274         17

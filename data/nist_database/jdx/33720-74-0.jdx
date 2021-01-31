@@ -1,0 +1,43 @@
+##TITLE=Library Entry 76620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. G. KOSTYANOVSKY
+##NAMES=HP
+##CAS NAME=Azete, 2,3-dihydro-4-phenyl-
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=33720-74-0
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39         50
+    40         70
+    41         20
+    42         20
+    43         20
+    50         50
+    51        120
+    52         60
+    53         20
+    54         20
+    55         20
+    63         50
+    64         40
+    65         80
+    76        180
+    77        250
+    78         50
+    89         50
+    91        400
+    92         60
+   102         30
+   103        999
+   104        220
+   105         40
+   118         20
+   130         50
+   131        430
+   132         60

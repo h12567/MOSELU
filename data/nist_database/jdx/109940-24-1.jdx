@@ -1,0 +1,64 @@
+##TITLE=Library Entry 18138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,7-Diphenyl-5-oxa-6-azaindene
+##MOLFORM=C19H13NO
+##CAS REGISTRY NO=109940-24-1
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    38        166
+    51        999
+    52         33
+    53          6
+    62        148
+    63        137
+    64         21
+    65         16
+    69          5
+    74         99
+    75         58
+    77        912
+    78         42
+    86         25
+    87         24
+    89         61
+    90          9
+    91          5
+    98         11
+    99          6
+   102         27
+   105         84
+   106          6
+   110          6
+   111          4
+   113         25
+   114         12
+   115         16
+   117         28
+   118          5
+   126         14
+   137          8
+   139         80
+   140         59
+   141          7
+   150          4
+   151          6
+   164         15
+   166         57
+   167          7
+   168          5
+   194         86
+   195          8
+   241          6
+   242          8
+   243          6
+   270         16
+   271         25
+   272          6

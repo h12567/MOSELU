@@ -1,0 +1,29 @@
+##TITLE=Library Entry 69780
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Fluoroiminomalonic nitrile
+##MOLFORM=C3FN3
+##CAS REGISTRY NO=13511-45-0
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    26        472
+    27          7
+    32        453
+    33         12
+    45        726
+    46         11
+    52        162
+    53          5
+    78        581
+    79         26
+    80          1
+    97        999
+    98         45
+    99          9

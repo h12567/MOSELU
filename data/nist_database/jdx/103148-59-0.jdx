@@ -1,0 +1,28 @@
+##TITLE=Library Entry 48186
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.K. Carpenter, Dep. Chem., Cornell Univ., Ithaca, N.Y.
+, USA
+##NAMES=HP
+##CAS NAME=cis-Bicyclo[4.2.0]octa-3,7-diene
+##MOLFORM=C8H10
+##CAS REGISTRY NO=103148-59-0
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    50        134
+    51        257
+    52        209
+    65        156
+    77        352
+    78        999
+    79        457
+    91        955
+    92         74
+   105        216
+   106        213
+   107         18

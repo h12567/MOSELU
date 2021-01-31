@@ -1,0 +1,57 @@
+##TITLE=Library Entry 66221
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=VERIFIN - Methodology B2-1980
+##NAMES=HP
+##CAS NAME=Methyl phenyl methylphosphonate
+##MOLFORM=C8H11O3P
+##CAS REGISTRY NO=7526-25-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27         20
+    28         40
+    32         30
+    38         50
+    39        330
+    40         20
+    44         10
+    45         40
+    47        110
+    49         10
+    50         60
+    51        160
+    52         20
+    53         10
+    62         30
+    63        300
+    64         20
+    65        250
+    66         30
+    74         20
+    76         20
+    77        330
+    78         40
+    79         60
+    80        150
+    81         10
+    90        230
+    91        490
+    92         80
+    93        999
+    94        140
+    95         10
+   104        130
+   105         50
+   107        180
+   108        120
+   140         10
+   141        110
+   155         10
+   185         50
+   186        440
+   187         40

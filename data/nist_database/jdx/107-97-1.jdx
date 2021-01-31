@@ -1,0 +1,29 @@
+##TITLE=Library Entry 15211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=N-Methylglycine
+##MOLFORM=C3H7NO2
+##CAS REGISTRY NO=107-97-1
+##MP= -300
+##BP= -300
+##MW= 89
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    15         26
+    18         66
+    27         12
+    28        199
+    30         47
+    31         12
+    36         14
+    41         31
+    42        236
+    43         74
+    44        999
+    45        132
+    60         19
+    89         94

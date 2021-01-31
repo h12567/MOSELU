@@ -1,0 +1,52 @@
+##TITLE=Library Entry 6212
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Moscow,Russia
+##NAMES=HP
+##CAS NAME=Hydroxylamine, O-pentyl-
+##MOLFORM=C5H13NO
+##CAS REGISTRY NO=5963-74-6
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14         12
+    15        181
+    16         18
+    28         64
+    29        162
+    30         18
+    31         88
+    32         18
+    33        134
+    34        146
+    35         14
+    39        144
+    40         38
+    41        636
+    42        183
+    43        999
+    44         52
+    45         14
+    46         38
+    47         10
+    54         42
+    55        209
+    56         42
+    57        122
+    58         12
+    69         24
+    70        162
+    71        217
+    72         24
+    74         82
+    75         12
+    88         22
+    89         10
+   102         42
+   103         92
+   104         36
+   105         10

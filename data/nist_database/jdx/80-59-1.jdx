@@ -1,0 +1,77 @@
+##TITLE=Library Entry 21227
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Tiglic acid
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=80-59-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=941
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          3
+    25          5
+    26         51
+    27        281
+    28         95
+    29        266
+    30          5
+    31         10
+    36          1
+    37         29
+    38         51
+    39        432
+    40         40
+    41        199
+    42         24
+    43        132
+    44         18
+    45        185
+    46          5
+    47          1
+    48          2
+    49         32
+    50        149
+    51        152
+    52         59
+    53        330
+    54        357
+    55        999
+    56        117
+    57         87
+    58         13
+    59          1
+    60         15
+    61          1
+    62          1
+    63          1
+    65          1
+    66          2
+    67         19
+    68          2
+    69         12
+    70          1
+    71         27
+    72         25
+    73         16
+    74          8
+    77          1
+    79          1
+    81         24
+    82        213
+    83        114
+    84          7
+    85        293
+    86         12
+    87          2
+    97          1
+    98          1
+    99         32
+   100        689
+   101         37
+   102          2

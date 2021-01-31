@@ -1,0 +1,30 @@
+##TITLE=Library Entry 70353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.NIEUWENHUIZEN,LAB ORG CHEM,DELFT UNIV TECH,JULIANALAA
+N,NETH.
+##NAMES=HP
+##CAS NAME=Tetraacetyl 2,5-anhydro-D-mannitol
+##MOLFORM=C14H20O9
+##CAS REGISTRY NO=65729-88-6
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    69        170
+    85         90
+    97        999
+    98        180
+   110        930
+   111        120
+   115        110
+   126         50
+   139        700
+   157        110
+   170         60
+   182        450
+   183        130
+   259         90

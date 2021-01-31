@@ -1,0 +1,53 @@
+##TITLE=Library Entry 49111
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-4-ethynyl-3,6-dihydrothiopyran
+##MOLFORM=C9H12S
+##CAS REGISTRY NO=52379-22-3
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        169
+    29         59
+    33         89
+    34         49
+    38         99
+    39        199
+    40        119
+    41         49
+    47        239
+    51         59
+    53         79
+    62        149
+    64         29
+    65        249
+    66        309
+    67        109
+    79        999
+    80         79
+    85         69
+    93        119
+    94         49
+    95        399
+    96        619
+    97         59
+   115         44
+   117         54
+   118         39
+   119         44
+   124         49
+   135         69
+   136         39
+   137        619
+   138         79
+   139         39
+   152        599
+   153         49
+   154         19

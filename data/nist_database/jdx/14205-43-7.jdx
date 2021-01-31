@@ -1,0 +1,39 @@
+##TITLE=Library Entry 53006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H.WILLIAMS CHEMISTRY DEPT., UNIVERSITY OF CAMBRIDGE
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 3-amino-, 1,1-dimethylethyl ester
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=14205-43-7
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         60
+    29        120
+    30         40
+    31         60
+    39        100
+    40         20
+    41        280
+    42        240
+    43         60
+    44        102
+    53         20
+    54         40
+    55         80
+    56        100
+    57        210
+    59        240
+    68         63
+    83        999
+    84        430
+    85         50
+   101        950
+   102         80
+   157        280
+   158         40

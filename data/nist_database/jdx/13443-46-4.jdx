@@ -1,0 +1,72 @@
+##TITLE=Library Entry 11353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON, RC,
+##NAMES=HP
+##CAS NAME=L-Iditol, hexaacetate
+##MOLFORM=C18H26O12
+##CAS REGISTRY NO=13443-46-4
+##MP= -300
+##BP= -300
+##MW= 434
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    40          6
+    41         16
+    42         34
+    43        999
+    44         64
+    45         38
+    55         10
+    56          4
+    57          6
+    60         20
+    61          8
+    68         10
+    69         14
+    70          4
+    73         18
+    79          4
+    81          6
+    85         38
+    86         26
+    97         26
+    98         12
+    99          6
+   103         70
+   110         16
+   111         14
+   112          6
+   115        144
+   116         22
+   127         48
+   128         50
+   129         10
+   139         50
+   140          6
+   141          4
+   145         62
+   146          4
+   152         10
+   153         18
+   157         54
+   158         16
+   169          4
+   170         42
+   171          4
+   175         16
+   187         68
+   188          6
+   199          4
+   200          4
+   212          6
+   217         50
+   218          4
+   259         22
+   260          4
+   289         16
+   361          4
+   366          6

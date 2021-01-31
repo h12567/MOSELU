@@ -1,0 +1,48 @@
+##TITLE=Library Entry 19113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran, tetrahydro-2-(2,2,2-trifluoroethoxy)-
+##MOLFORM=C7H11F3O2
+##CAS REGISTRY NO=16408-83-6
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        970
+    42        100
+    43        160
+    44         70
+    45         40
+    49         90
+    50        280
+    51        390
+    52         40
+    53        200
+    54        170
+    55        999
+    56        730
+    57        250
+    58         10
+    60         20
+    61        450
+    62         10
+    63         20
+    64         40
+    65         10
+    67         40
+    69        330
+    80         20
+    81         90
+    83        180
+    84        220
+    85        230
+    99         20
+   116         60
+   129         10
+   185         10

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 41032
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propane, 2-methoxy-2-propoxy-
+##MOLFORM=C7H16O2
+##CAS REGISTRY NO=53951-40-9
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         50
+    16          1
+    17          1
+    18          5
+    19          1
+    25          1
+    26         13
+    27        161
+    28         65
+    29        132
+    30         20
+    31        360
+    32        144
+    33         11
+    36          2
+    37          5
+    38         14
+    39        158
+    40         38
+    41        398
+    42        180
+    43        792
+    44         25
+    45         30
+    53          4
+    55         17
+    56          3
+    57         80
+    58        775
+    59        851
+    60         42
+    61          3
+    69          1
+    71          7
+    72         60
+    73        999
+    74         45
+    75        181
+    76          6
+    77          1
+    83          1
+    85         26
+    86          1
+    89          1
+    99          1
+   100         71
+   101        100
+   102          7
+   103          7
+   117         30
+   118          2

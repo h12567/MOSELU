@@ -1,0 +1,95 @@
+##TITLE=Library Entry 260
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Iron, tetracarbonyl(.eta.2-1,2-dibromoethene)-, stereoisomer
+##MOLFORM=C6H2Br2FeO4
+##CAS REGISTRY NO=52613-70-4
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 79
+##XYDATA=(XY..XY) 1 
+    27          5
+    28        999
+    29         12
+    36          8
+    41          7
+    42         12
+    54         17
+    55         14
+    56        247
+    57         10
+    58          4
+    68         19
+    69          5
+    70          6
+    78         14
+    79         75
+    80         27
+    81        108
+    82         34
+    84        188
+    91          7
+    92         16
+    93         18
+    94         10
+   103          7
+   104         28
+   105        321
+   106         34
+   107        331
+   108         10
+   110         12
+   112         81
+   133         10
+   134          8
+   135        129
+   136         10
+   137        122
+   138          9
+   140         79
+   158         14
+   160         30
+   161         27
+   162         17
+   163         63
+   165         39
+   166          8
+   168         51
+   175          9
+   184        197
+   186        326
+   187          9
+   188        162
+   189          8
+   191         10
+   196         12
+   212          7
+   214         87
+   216        155
+   217          6
+   218         74
+   240         58
+   241          7
+   242        114
+   243          9
+   244         76
+   245          9
+   246         10
+   268         43
+   270         64
+   271          8
+   272         32
+   273          6
+   296         28
+   298         55
+   300         30
+   324         18
+   326         30
+   327          5
+   328         13

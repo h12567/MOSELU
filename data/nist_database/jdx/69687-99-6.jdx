@@ -1,0 +1,47 @@
+##TITLE=Library Entry 17691
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DR. C. C. VAN DE SANDE, STATE UNIVERSITY OF GENT, BELGI
+UM
+##NAMES=HP
+##CAS NAME=1,2-Cyclopentanedione, 3-(2-methoxyethyl)-
+##MOLFORM=C8H12O3
+##CAS REGISTRY NO=69687-99-6
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39        100
+    40         20
+    41         70
+    42         15
+    43         70
+    44         10
+    45        999
+    46         30
+    53         50
+    54         30
+    55         90
+    56         10
+    57         40
+    58         10
+    67         50
+    68         40
+    81         30
+    82         10
+    83         40
+    84         15
+    94         20
+    95         20
+    96         50
+    97         20
+   111         80
+   112         10
+   124         70
+   125         30
+   126         30
+   156        280
+   157         20

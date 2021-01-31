@@ -1,0 +1,71 @@
+##TITLE=Library Entry 31126
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Bromo-3-fluoropropane
+##MOLFORM=C3H6BrF
+##CAS REGISTRY NO=352-91-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    12          5
+    13         11
+    14         23
+    15         63
+    19          3
+    20          3
+    24          4
+    25         21
+    26        168
+    27        678
+    28          5
+    29          5
+    31         65
+    32          5
+    33        447
+    34          5
+    35          1
+    36          8
+    37         49
+    38         68
+    39        298
+    40         59
+    41        865
+    42         29
+    44         11
+    45         56
+    46         22
+    47         35
+    55          2
+    56         10
+    57         66
+    59        489
+    60        249
+    61        999
+    62         25
+    79         30
+    80         13
+    81         30
+    82         12
+    91          5
+    92          6
+    93         49
+    94          7
+    95         47
+    96          2
+   104          2
+   105          5
+   106          7
+   107         55
+   108          6
+   109         51
+   111          4
+   113          4
+   140        392
+   142        362
+   143          9

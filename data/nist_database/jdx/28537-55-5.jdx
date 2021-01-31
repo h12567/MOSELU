@@ -1,0 +1,54 @@
+##TITLE=Library Entry 60990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Nitrous acid, 3-phenylpropyl ester
+##MOLFORM=C9H11NO2
+##CAS REGISTRY NO=28537-55-5
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        150
+    28         50
+    29        100
+    30        400
+    31         60
+    38         20
+    39        180
+    41        180
+    50         90
+    51        280
+    52         70
+    53         30
+    60         70
+    62         20
+    63         90
+    65        200
+    74         20
+    75         30
+    76         30
+    77        470
+    78        280
+    79        420
+    80         30
+    89         40
+    90         20
+    91        999
+    92        280
+   102         20
+   103        200
+   104        150
+   105        580
+   106         70
+   107        380
+   108         30
+   115         40
+   116         30
+   134        140
+   135        500
+   136         50

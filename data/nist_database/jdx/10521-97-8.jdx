@@ -1,0 +1,57 @@
+##TITLE=Library Entry 96893
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 5-phenyl-
+##MOLFORM=C11H12O
+##CAS REGISTRY NO=10521-97-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         10
+    43        530
+    44         20
+    50         10
+    51         50
+    62         10
+    63         40
+    64         10
+    65         30
+    74         10
+    77         30
+    78         10
+    87         10
+    89         30
+    91        150
+    92         20
+   102         20
+   103         10
+   104         10
+   105         10
+   113         10
+   115        270
+   116         80
+   117        999
+   118        130
+   119         10
+   127         60
+   128         20
+   129         20
+   141         10
+   142         10
+   143         10
+   144         10
+   145         60
+   146         10
+   157         10
+   158         20
+   159         10
+   160        380
+   161         50

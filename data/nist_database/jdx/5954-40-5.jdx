@@ -1,0 +1,40 @@
+##TITLE=Library Entry 72526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphoric acid, dibutyl 1-methylethenyl ester
+##MOLFORM=C11H23O4P
+##CAS REGISTRY NO=5954-40-5
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39         56
+    40         23
+    41        167
+    43         46
+    53         15
+    54         20
+    55         61
+    56         56
+    57        146
+    58         51
+    59         23
+    99        999
+   137         61
+   138        375
+   139        295
+   140         17
+   151         17
+   153         11
+   155         59
+   193         10
+   194         61
+   195        119
+   196         13
+   250        102
+   251         11

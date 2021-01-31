@@ -1,0 +1,40 @@
+##TITLE=Library Entry 1205
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(9)861(1974); BUDZIKIEWICZ
+##NAMES=HP
+##CAS NAME=1-Pentanamine, 5-(methylseleno)-
+##MOLFORM=C6H15NSe
+##CAS REGISTRY NO=55021-82-4
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    30        999
+    39         45
+    41        200
+    42         40
+    43         40
+    44         40
+    53         20
+    55         70
+    56        130
+    57         40
+    58         80
+    59         15
+    67         80
+    68         50
+    69        150
+    84         20
+    86        750
+    94         60
+    95         50
+   106         40
+   108         85
+   121         15
+   150         65
+   165         15
+   180         40

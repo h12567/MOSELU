@@ -1,0 +1,75 @@
+##TITLE=Library Entry 83540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7444
+##NAMES=HP
+##CAS NAME=Benzene, 1,1'-[methylenebis(oxy)]bis-
+##MOLFORM=C13H12O2
+##CAS REGISTRY NO=4442-41-5
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          6
+    28          4
+    29          1
+    37          2
+    38          8
+    39         38
+    40          7
+    44          1
+    47          3
+    49          1
+    50         22
+    51        108
+    52          9
+    53          3
+    55          6
+    59          2
+    61          1
+    62          3
+    63         12
+    64          5
+    65         35
+    66         15
+    67          1
+    68          1
+    74          6
+    75          5
+    76         10
+    77        621
+    78         50
+    79        185
+    80         11
+    89          1
+    91          2
+    92          1
+    93          6
+    94         82
+    95          6
+   100          5
+   105          2
+   106          8
+   107        999
+   108         79
+   109          5
+   115          9
+   116          1
+   128          1
+   139          2
+   141         11
+   142          1
+   152          3
+   153          3
+   168          1
+   169          2
+   181          4
+   182          2
+   199          1
+   200        358
+   201         51
+   202          4

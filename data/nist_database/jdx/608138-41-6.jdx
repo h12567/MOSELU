@@ -1,0 +1,72 @@
+##TITLE=Library Entry 77189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Phenethyl icosanoate
+##MOLFORM=C28H48O2
+##CAS REGISTRY NO=608138-41-6
+##MP= -300
+##BP= -300
+##MW= 416
+##$RETENTION INDEX=3096
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27          5
+    29         12
+    39          6
+    41         49
+    42         12
+    43        100
+    44          4
+    50          1
+    51          4
+    52          1
+    53          3
+    54          3
+    55         56
+    56         12
+    57         66
+    58          5
+    59          1
+    60          5
+    61          2
+    63          1
+    65          6
+    67          7
+    68          3
+    69         29
+    70          8
+    71         29
+    72          2
+    73          9
+    77         15
+    78         11
+    79         18
+    80          2
+    81          5
+    82          2
+    83         16
+    84          4
+    85         14
+    86          1
+    87          2
+    89          1
+    90          1
+    91         17
+    92          7
+    95          5
+    97          9
+    98          3
+    99          2
+   103         17
+   104        999
+   105        328
+   106         27
+   107          2
+   111          4
+   120          2
+   129          1
+   295          6
+   296          1

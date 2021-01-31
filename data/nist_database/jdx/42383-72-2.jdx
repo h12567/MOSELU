@@ -1,0 +1,32 @@
+##TITLE=Library Entry 88904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Butyl-2-furancarbothioamide
+##MOLFORM=C9H13NOS
+##CAS REGISTRY NO=42383-72-2
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    55         49
+    57         29
+    60         29
+    69         29
+    71         49
+    72         39
+    82         40
+    83         59
+    94        569
+   100        211
+   111        999
+   127          9
+   128         20
+   150        169
+   154        100
+   182         39
+   183        707

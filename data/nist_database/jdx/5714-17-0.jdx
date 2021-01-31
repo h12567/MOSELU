@@ -1,0 +1,36 @@
+##TITLE=Library Entry 1228
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. SMITH, LA TROBE UNIVERSITY, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Benzofurazan, 5-chloro-4-nitro-
+##MOLFORM=C6H2ClN3O3
+##CAS REGISTRY NO=5714-17-0
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    30        999
+    37        110
+    38         70
+    61        150
+    62         80
+    63         70
+    72         60
+    74         90
+    75         60
+    76         70
+    87        100
+    88        440
+    89         60
+   104         70
+   109        130
+   111         90
+   123        100
+   139        160
+   141         80
+   199        200
+   201         80

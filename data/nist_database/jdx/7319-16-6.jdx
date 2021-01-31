@@ -1,0 +1,50 @@
+##TITLE=Library Entry 39641
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DOW CHEMICAL COMPANY / ASTM E14-UNCERTIFIED SPECTRUM 52
+9
+##NAMES=HP
+##CAS NAME=1-Propene, 1-methoxy-
+##MOLFORM=C4H8O
+##CAS REGISTRY NO=7319-16-6
+##MP= -300
+##BP= -300
+##MW= 72
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    16          4
+    18          4
+    25         13
+    26         62
+    27        267
+    28        110
+    29        526
+    30         12
+    31         48
+    32         12
+    33          7
+    36          2
+    37         21
+    38         45
+    39        271
+    40         46
+    41        755
+    42        249
+    43         72
+    44         13
+    45        191
+    46          5
+    53         37
+    54          3
+    55         37
+    56         46
+    57        168
+    58          7
+    69         11
+    70          3
+    71        660
+    72        999
+    73         47
+    74          3

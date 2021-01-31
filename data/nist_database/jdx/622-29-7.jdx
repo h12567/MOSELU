@@ -1,0 +1,57 @@
+##TITLE=Library Entry 98399
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Methanamine, N-(phenylmethylene)-
+##MOLFORM=C8H9N
+##CAS REGISTRY NO=622-29-7
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    32         15
+    37         34
+    38         51
+    39        115
+    40         33
+    41        100
+    42        461
+    43         22
+    49         21
+    50        112
+    51        219
+    52         55
+    59         26
+    60          1
+    61         17
+    62         39
+    63         87
+    64         25
+    65         64
+    66         10
+    73         11
+    74         14
+    75         19
+    76         51
+    77        313
+    78        157
+    79         15
+    85          1
+    86         16
+    87         11
+    89         58
+    90         32
+    91        193
+    92         25
+   102          4
+   103         20
+   104          8
+   116         16
+   117         29
+   118        999
+   119        526
+   120         69

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 66761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,6-Bis(3-(pyrid-2-yl)-2-azapropyl)pyridine
+##MOLFORM=C19H21N5
+##CAS REGISTRY NO=90719-79-2
+##MP= -300
+##BP= -300
+##MW= 319
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    51         53
+    52         65
+    53         45
+    63         33
+    64         44
+    65        208
+    66         85
+    67         20
+    77         58
+    78        131
+    79        117
+    80        131
+    81          7
+    91         59
+    92        392
+    93        999
+    94        136
+   104         58
+   105         65
+   106        131
+   107        686
+   108         83
+   109         13
+   119         78
+   120        195
+   121        337
+   122         32
+   132         12
+   133         38
+   134        129
+   135         58
+   136          6
+   183         46
+   184        162
+   185         32
+   186          7
+   195         25
+   196         32
+   210        105
+   211        291
+   212         63
+   213        716
+   214        130
+   227        261
+   228         33
+   229          6
+   241         26
+   242          7
+   319          7

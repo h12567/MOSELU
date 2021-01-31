@@ -1,0 +1,47 @@
+##TITLE=Library Entry 6510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Butane, 2-methyl-
+##MOLFORM=C5H12
+##CAS REGISTRY NO=78-78-4
+##MP= -300
+##BP= -300
+##MW= 72
+##$RETENTION INDEX=475
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+     2          6
+    12          4
+    13          7
+    14         25
+    15        175
+    16          7
+    25          3
+    26         66
+    27        513
+    28         90
+    29        467
+    30         11
+    39        306
+    40         45
+    41        759
+    42        819
+    43        999
+    44         44
+    50         21
+    51         24
+    52          7
+    53         29
+    54          6
+    55         58
+    56        169
+    57        571
+    58         26
+    70          1
+    71         19
+    72         55
+    73          2

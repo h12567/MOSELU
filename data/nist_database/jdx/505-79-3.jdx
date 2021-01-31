@@ -1,0 +1,47 @@
+##TITLE=Library Entry 74393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Propane, 1-isothiocyanato-3-(methylthio)-
+##MOLFORM=C5H9NS2
+##CAS REGISTRY NO=505-79-3
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=1316
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         13
+    35          7
+    39         47
+    40         11
+    41        200
+    45         87
+    46         42
+    47         66
+    48         16
+    49         18
+    54         12
+    58         24
+    59         27
+    60         37
+    61        211
+    62         23
+    68         14
+    72        311
+    73        119
+    74         31
+    75         36
+    86         21
+    88         16
+    98         51
+    99         95
+   100        105
+   101        999
+   102         55
+   103         45
+   147        116
+   148         10
+   149         13

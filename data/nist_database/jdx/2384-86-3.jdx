@@ -1,0 +1,65 @@
+##TITLE=Library Entry 32467
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Decyne
+##MOLFORM=C10H18
+##CAS REGISTRY NO=2384-86-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1007
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         18
+    27        194
+    28         24
+    29        190
+    30          4
+    39        226
+    40         28
+    41        387
+    42         42
+    43         55
+    44          7
+    50         35
+    51         89
+    52         98
+    53        178
+    54        247
+    55        325
+    56         37
+    57         26
+    62          8
+    63         25
+    64          7
+    65         87
+    66          7
+    67        999
+    68        114
+    69         30
+    70          5
+    74          4
+    75          3
+    77         83
+    78         19
+    79        134
+    80         37
+    81        358
+    82         95
+    83         19
+    91         26
+    92          4
+    93         25
+    94          4
+    95        297
+    96         97
+    97          8
+   107          5
+   109        113
+   110         13
+   123         11
+   138         16

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 109084
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5-(4-Ethoxy-2,4-dioxo-butylidene)oxacyclopentan-2-one
+##MOLFORM=C10H12O5
+##CAS REGISTRY NO=85195-93-3
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        171
+    42        148
+    43        402
+    55        519
+    56        149
+    57        310
+    67        188
+    69        407
+    70        150
+    81        119
+    83        409
+    84        108
+    85        130
+    95        139
+    96        348
+    97        309
+    98        138
+   123        247
+   124        230
+   125        999
+   126        120
+   142        129
+   143        118
+   212        150

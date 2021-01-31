@@ -1,0 +1,67 @@
+##TITLE=Library Entry 87174
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2(5H)-Furanone, 5-(butylimino)-
+##MOLFORM=C8H11NO2
+##CAS REGISTRY NO=27396-39-0
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    25         10
+    26        250
+    27        320
+    28        100
+    29        260
+    30         80
+    32         10
+    37         10
+    38         20
+    39        170
+    40         50
+    41        330
+    42         50
+    43         90
+    44        110
+    50         10
+    51         20
+    52         50
+    53         80
+    54        330
+    55        100
+    56        120
+    57         90
+    66         10
+    67         30
+    68         20
+    69         30
+    70         60
+    71         60
+    72        560
+    73         30
+    80         50
+    81         20
+    82        550
+    83         60
+    84         20
+    94         10
+    95         10
+    96         40
+    97        100
+    98         40
+    99         10
+   102         20
+   108         50
+   109         60
+   110        999
+   111        330
+   112         30
+   124         30
+   125         80
+   138         30
+   153         70

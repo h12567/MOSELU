@@ -1,0 +1,47 @@
+##TITLE=Library Entry 73773
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=2-Methylhexan-2-ol acetate
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=34650-24-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15          8
+    27         38
+    29         46
+    39         48
+    41        148
+    43        709
+    45         31
+    53         17
+    54          7
+    55         99
+    56        178
+    57        300
+    58         42
+    59        254
+    67         11
+    68         12
+    69        217
+    70         68
+    71         13
+    72          3
+    83         65
+    85          7
+    98        181
+    99         77
+   101        999
+   102         60
+   103          5
+   115          1
+   116         46
+   117          3
+   143         69
+   144          3

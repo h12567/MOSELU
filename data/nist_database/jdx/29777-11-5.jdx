@@ -1,0 +1,45 @@
+##TITLE=Library Entry 56139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=5-Hexyn-1-amine, N,N-diethyl-
+##MOLFORM=C10H19N
+##CAS REGISTRY NO=29777-11-5
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27          4
+    28          2
+    29         15
+    30         34
+    32          2
+    34          2
+    39          1
+    41         10
+    42         17
+    43          9
+    44         12
+    53         10
+    56         17
+    58        120
+    67          6
+    70          2
+    72         28
+    77          0
+    79         14
+    81          3
+    82          0
+    84          1
+    86        999
+    87         53
+   110          1
+   112          2
+   125         14
+   138         80
+   139          2
+   153         15

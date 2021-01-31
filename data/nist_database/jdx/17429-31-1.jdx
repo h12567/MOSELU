@@ -1,0 +1,57 @@
+##TITLE=Library Entry 46862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,5-Cyclohexadien-1-one, 3,4,4-trimethyl-
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=17429-31-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1235
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        480
+    42         30
+    43         30
+    44         20
+    50        110
+    51        300
+    52        150
+    53        330
+    54         40
+    55         70
+    62         30
+    63         90
+    64         10
+    65        260
+    66         70
+    67        220
+    68         40
+    69         50
+    74         10
+    77        999
+    78        160
+    79        180
+    80         40
+    81         80
+    82         30
+    91        890
+    92         90
+    94        170
+    95         80
+    96         90
+   105         40
+   107        200
+   108        820
+   109         70
+   110         10
+   121        380
+   122         30
+   135         20
+   136        840
+   137         70
+   138         10

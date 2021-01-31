@@ -1,0 +1,90 @@
+##TITLE=Library Entry 42336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,4-Cyclohexanediol, 2TMS derivative
+##MOLFORM=C12H28O2Si2
+##CAS REGISTRY NO=55724-30-6
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    41         80
+    42         10
+    43         90
+    44         50
+    45        270
+    46         20
+    47        130
+    48         10
+    51         10
+    53         40
+    54         10
+    55         30
+    57         20
+    58         30
+    59        140
+    60         20
+    61        110
+    62         10
+    65         10
+    66         10
+    67         10
+    69         10
+    71         10
+    72         30
+    73        999
+    74        100
+    75        660
+    76         50
+    77         50
+    78         10
+    79         50
+    80         10
+    81        540
+    82         30
+    85         20
+    87         10
+    89         10
+    91         10
+    94         10
+    99         30
+   101         90
+   102         10
+   103         10
+   111         10
+   113         10
+   115         60
+   116         40
+   117         10
+   127         20
+   129         50
+   130         20
+   131        890
+   132        100
+   133         80
+   134         10
+   142         20
+   147        240
+   148         40
+   149         70
+   150         10
+   151         10
+   155        100
+   156         10
+   157         10
+   165         10
+   169        380
+   170        410
+   171         70
+   172         20
+   245         60
+   246         10
+   247         10
+   260          1
+   261          0

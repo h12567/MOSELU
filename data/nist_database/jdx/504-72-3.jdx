@@ -1,0 +1,47 @@
+##TITLE=Library Entry 17242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Isoxazolidine
+##MOLFORM=C3H7NO
+##CAS REGISTRY NO=504-72-3
+##MP= -300
+##BP= -300
+##MW= 73
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    25          7
+    26         51
+    27        184
+    28        493
+    29        190
+    30        245
+    31         61
+    36          4
+    37          7
+    38         21
+    39        112
+    40         64
+    41        303
+    42        475
+    43         82
+    44         31
+    45        999
+    46        261
+    47          5
+    51          4
+    52          5
+    54         39
+    55         21
+    56        114
+    57          7
+    58         13
+    70          5
+    71         19
+    72        522
+    73        786
+    74         31
+    75          3

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 58293
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1791
+##NAMES=HP
+##CAS NAME=Propane, 2,2',2''-[methylidynetris(oxy)]tris-
+##MOLFORM=C10H22O3
+##CAS REGISTRY NO=4447-60-3
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    19          1
+    26          3
+    27         58
+    28          6
+    29         14
+    31         16
+    37          2
+    38          3
+    39         30
+    40          8
+    41        101
+    42         62
+    43        884
+    44         37
+    45        258
+    46          6
+    47        123
+    48          1
+    56          1
+    57          4
+    58          4
+    59         50
+    60          2
+    61          4
+    63         31
+    69          2
+    73          9
+    74          1
+    85          3
+    87          5
+    88          9
+    89        999
+    90         48
+    91          8
+   103          1
+   105         25
+   106          1
+   131        238
+   132         18
+   133          1
+   147          4
+   189          8
+   190          1

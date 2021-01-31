@@ -1,0 +1,32 @@
+##TITLE=Library Entry 4404
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetaldehyde, O-methyloxime
+##MOLFORM=C3H7NO
+##CAS REGISTRY NO=33581-43-0
+##MP= -300
+##BP= -300
+##MW= 73
+##$RETENTION INDEX=561
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    29        260
+    30        260
+    31        140
+    38         30
+    39         70
+    40        130
+    41        220
+    42        999
+    43         60
+    44         40
+    45         40
+    56         10
+    57         10
+    58        150
+    59         10
+    73        230
+    74         10

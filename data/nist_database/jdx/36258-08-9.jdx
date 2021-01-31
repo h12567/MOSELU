@@ -1,0 +1,56 @@
+##TITLE=Library Entry 50037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.V. BROWN, CSIRO, BLACK MOUNTAIN, CANBERRA CITY, AUSTR
+ALIA
+##NAMES=HP
+##CAS NAME=trans-(2-Ethylcyclopentyl)methanol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=36258-08-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1058
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         63
+    40         27
+    41        224
+    42         52
+    43         63
+    44         24
+    45          8
+    51         13
+    52          8
+    53         52
+    54         63
+    55        780
+    56         63
+    57         93
+    58         11
+    59          8
+    65         16
+    66         49
+    67        369
+    68        301
+    69        134
+    70         43
+    71         19
+    77         19
+    78          8
+    79         38
+    80         43
+    81        999
+    82        246
+    83         24
+    85         11
+    91         11
+    93         11
+    95        287
+    96         54
+    97        411
+    98         38
+   109         19
+   110        315
+   111         24

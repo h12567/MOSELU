@@ -1,0 +1,50 @@
+##TITLE=Library Entry 26322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=Butyl 2-methylbutanoate
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=15706-73-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1043
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26         18
+    27        166
+    28        103
+    29        537
+    30         15
+    31         18
+    39         73
+    40         13
+    41        435
+    42         26
+    43         70
+    45         18
+    53         11
+    55         85
+    56        443
+    57        999
+    58         46
+    59          6
+    69          7
+    71         12
+    73         29
+    74        184
+    75         20
+    84          6
+    85        477
+    86         27
+    87         69
+   101         12
+   102         36
+   103        630
+   104         36
+   115         14
+   130         42
+   131          4

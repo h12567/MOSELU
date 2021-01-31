@@ -1,0 +1,73 @@
+##TITLE=Library Entry 15143
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,3'-Iminobispropylamine
+##MOLFORM=C6H17N3
+##CAS REGISTRY NO=56-18-8
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=1948
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15          4
+    17          2
+    18         15
+    26          3
+    27         19
+    28         91
+    29         32
+    30        400
+    31         15
+    32          1
+    38          1
+    39         20
+    40          6
+    41        110
+    42        171
+    43        100
+    44        999
+    45         62
+    46          2
+    52          3
+    53          2
+    54         21
+    55         10
+    56        294
+    57        195
+    58        290
+    59         23
+    67          7
+    68         29
+    69         11
+    70        124
+    71        191
+    72         12
+    73         85
+    74          6
+    75        105
+    76          4
+    80          2
+    81          1
+    82         40
+    83          5
+    84        196
+    85         54
+    86          3
+    87        139
+    88         14
+    89          2
+    96          9
+    97         11
+    98          3
+    99          1
+   101          7
+   102          1
+   113          2
+   114         24
+   115          2
+   131          9
+   132          7

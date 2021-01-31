@@ -1,0 +1,77 @@
+##TITLE=Library Entry 98391
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methsuximide
+##MOLFORM=C12H13NO2
+##CAS REGISTRY NO=77-41-8
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=1636
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          7
+    26          2
+    27         12
+    28         31
+    29         10
+    30          2
+    31          3
+    38          8
+    39         54
+    40         10
+    41         14
+    42          9
+    43          2
+    44          7
+    50         34
+    51         87
+    52         21
+    53          7
+    55          3
+    56         19
+    58         40
+    61          2
+    62         10
+    63         34
+    64          7
+    65         31
+    66          3
+    70          4
+    73          3
+    74         17
+    75         18
+    76         30
+    77        161
+    78        131
+    79         10
+    86          3
+    87          3
+    88          3
+    89         22
+    90          3
+    91        101
+    92         10
+   101          5
+   102         40
+   103        179
+   104         19
+   105          4
+   113          2
+   115        112
+   117        431
+   118        999
+   119         96
+   120          4
+   131          4
+   132          3
+   145          6
+   146          6
+   188          3
+   203        256
+   204         35
+   205          3

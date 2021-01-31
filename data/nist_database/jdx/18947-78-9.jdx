@@ -1,0 +1,75 @@
+##TITLE=Library Entry 68004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2,2'-Bi(bicyclo[2.2.1]heptane)
+##MOLFORM=C14H22
+##CAS REGISTRY NO=18947-78-9
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    27         83
+    28          7
+    29         74
+    39        153
+    40         34
+    41        396
+    42         16
+    43         13
+    51         21
+    52         12
+    53        112
+    54         49
+    55        151
+    56          4
+    63          6
+    65         79
+    66        421
+    67        795
+    68        110
+    69         24
+    77        111
+    78         48
+    79        284
+    80        450
+    81        244
+    82         41
+    83         56
+    91        112
+    92         40
+    93        180
+    94        158
+    95        999
+    96         82
+   102          4
+   105         30
+   106         18
+   107         96
+   108        130
+   109         99
+   110          5
+   119         19
+   120         15
+   121        187
+   122        166
+   123        140
+   124         13
+   133         16
+   134         20
+   135         17
+   136          8
+   147         21
+   148         17
+   149         16
+   161        151
+   162         61
+   163          3
+   175          8
+   190        170
+   191         22

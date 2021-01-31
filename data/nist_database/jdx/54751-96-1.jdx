@@ -1,0 +1,57 @@
+##TITLE=Library Entry 72874
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Piperidinol, 1-acetyl-6-methyl-
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=54751-96-1
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        181
+    42        141
+    43        727
+    44        414
+    45         10
+    53         10
+    54         40
+    55        151
+    56        212
+    57        101
+    58        272
+    60         30
+    67         20
+    68         10
+    69         30
+    70         70
+    71         30
+    72         80
+    73         40
+    74         10
+    80         10
+    81         10
+    82        434
+    84         10
+    85         60
+    86        101
+    96         40
+    97         90
+    98         50
+    99         30
+   100        999
+   101         70
+   112         30
+   113        111
+   114         10
+   139         30
+   140         20
+   142        303
+   143         20
+   157        353
+   158         20

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 86493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Trimethyl phosphonoacetate
+##MOLFORM=C5H11O5P
+##CAS REGISTRY NO=5927-18-4
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    12          3
+    14         24
+    15        255
+    16          1
+    18          3
+    19          1
+    27         16
+    28         35
+    29        205
+    30         32
+    31         91
+    32         11
+    33         16
+    42        307
+    43        107
+    44         27
+    45        113
+    47        246
+    48         32
+    49         27
+    50          2
+    51          2
+    55         14
+    56          3
+    57          7
+    59         32
+    60          5
+    61         13
+    62         60
+    63         88
+    64          5
+    65         11
+    71          2
+    74        152
+    75          8
+    77         44
+    79        317
+    80         20
+    81          4
+    82          3
+    88          2
+    89          6
+    92        105
+    93        228
+    94         83
+    95         28
+    96         28
+    97          2
+   105         19
+   109        999
+   110        114
+   111         22
+   113          6
+   119        140
+   120         35
+   122         94
+   124        448
+   125         18
+   126         11
+   127         13
+   137          4
+   139         29
+   140         25
+   141         46
+   142          1
+   150        142
+   151        789
+   152         74
+   153          9
+   167         26
+   182         28
+   183          2

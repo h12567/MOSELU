@@ -1,0 +1,51 @@
+##TITLE=Library Entry 13337
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-[bis(1-methylethyl)phosphino]-, methyl ester
+##MOLFORM=C10H19O2P
+##CAS REGISTRY NO=50838-18-1
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        152
+    42         60
+    43        999
+    44         52
+    45         78
+    57         73
+    58         34
+    59        360
+    63         86
+    64        113
+    71         60
+    73        121
+    74        147
+    75        117
+    77         86
+    79         78
+    85        100
+    86         52
+    87        147
+    92        269
+   101        156
+   102         65
+   103        304
+   117        543
+   118         56
+   134         78
+   145        160
+   159         21
+   160        226
+   161         34
+   171         65
+   176         43
+   187        760
+   188         86
+   202        139
+   203         26

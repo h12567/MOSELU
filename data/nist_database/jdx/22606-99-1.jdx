@@ -1,0 +1,45 @@
+##TITLE=Library Entry 5156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Azetidine, 3,3-dimethyl-1-phenethyl-2-phenyl-
+##MOLFORM=C19H23N
+##CAS REGISTRY NO=22606-99-1
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    39        130
+    40         10
+    41        150
+    42        999
+    43         50
+    51        140
+    52         10
+    65        140
+    66         10
+    70        300
+    71         20
+    77        270
+    78         30
+    79         90
+    91        830
+    92         80
+   103         60
+   104         70
+   105        450
+   106         50
+   117        180
+   118        840
+   119        100
+   120         10
+   132        180
+   133         20
+   145         60
+   174        560
+   175         90
+   265         70

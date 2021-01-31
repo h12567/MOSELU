@@ -1,0 +1,43 @@
+##TITLE=Library Entry 70629
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, trifluoro-, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl
+ ester
+##MOLFORM=C5HF9O2
+##CAS REGISTRY NO=42031-15-2
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29        314
+    31        206
+    32        109
+    44        120
+    50        342
+    51        553
+    63         78
+    69         78
+    78        174
+    79        277
+    82        109
+    97        999
+    98         42
+   100         36
+   101        101
+   113        109
+   128         36
+   129         47
+   130         53
+   132         36
+   151        814
+   167        252
+   175         36
+   195        927
+   225        950
+   226         78
+   245        157

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 31746
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2-Aminoethyl hydrogen sulfate
+##MOLFORM=C2H7NO4S
+##CAS REGISTRY NO=926-39-6
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         12
+    42         41
+    43         22
+    44         13
+    45          3
+    48        432
+    49          5
+    50         19
+    51          3
+    52          5
+    53          9
+    56          3
+    57          3
+    58          5
+    59         13
+    60          5
+    64        999
+    65         99
+    66         56
+    67          9
+    68          7
+    69         26
+    76          3
+    79          3
+    80         52
+    81          6
+    82          1
+    85          3
+    93         15
+    94          8
+    96          1
+   111          4

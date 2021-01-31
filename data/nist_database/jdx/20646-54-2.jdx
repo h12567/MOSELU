@@ -1,0 +1,36 @@
+##TITLE=Library Entry 65029
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=1H-Azepine, 1-(phenylsulfonyl)-
+##MOLFORM=C12H11NO2S
+##CAS REGISTRY NO=20646-54-2
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        140
+    44         40
+    50         40
+    51         90
+    52         40
+    63         40
+    64         45
+    65        360
+    66        100
+    77        125
+    78        160
+    91         70
+    92        999
+    93        160
+   110          5
+   124         40
+   141         20
+   168         35
+   233        125
+   234         20
+   235         10

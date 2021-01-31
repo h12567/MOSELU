@@ -1,0 +1,78 @@
+##TITLE=Library Entry 20397
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Hydroxybutyl acrylate
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=2478-10-6
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1182
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          5
+    15         13
+    18          1
+    19          9
+    25          4
+    26         51
+    27        326
+    28         50
+    29        105
+    31        242
+    32          3
+    33          1
+    37          2
+    38          5
+    39         55
+    40         14
+    41        122
+    42        151
+    43        167
+    44         92
+    45         21
+    50          1
+    51          1
+    53         19
+    54        164
+    55        999
+    56         52
+    57         48
+    58          6
+    59          1
+    60          4
+    67          5
+    68         18
+    69         19
+    70         55
+    71        221
+    72         39
+    73        576
+    74         20
+    75          3
+    79          1
+    80          2
+    81          5
+    83          3
+    84          2
+    85         56
+    86         11
+    87          3
+    88         11
+    89         62
+    90          2
+    96          8
+    97          2
+    98         16
+    99         40
+   100          2
+   103         35
+   104          1
+   113         41
+   114         33
+   115          2
+   116          2

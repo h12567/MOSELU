@@ -1,0 +1,57 @@
+##TITLE=Library Entry 19912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran, 3-bromo-2-butoxytetrahydro-, cis-
+##MOLFORM=C9H17BrO2
+##CAS REGISTRY NO=55162-86-2
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        470
+    42         40
+    43         90
+    44         30
+    45         30
+    47         10
+    53        100
+    54         40
+    55        999
+    56        220
+    57        520
+    58         30
+    70         20
+    71         40
+    73        130
+    74         40
+    83        120
+    84         60
+    85         10
+    99         20
+   100         30
+   101         40
+   103         50
+   106        190
+   108        190
+   121         20
+   122         10
+   124         10
+   129         50
+   130         20
+   134        430
+   135         30
+   136        410
+   137         20
+   163        270
+   164         20
+   165        260
+   166         10
+   182         10
+   236         40
+   238         30

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 6029
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, CSIRO, B.H. KENNETT
+ ET AL
+##NAMES=HP
+##CAS NAME=Cetene
+##MOLFORM=C16H32
+##CAS REGISTRY NO=629-73-2
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=1592
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        190
+    29        450
+    30         10
+    39        160
+    41        870
+    42        210
+    43        999
+    51         10
+    53         60
+    54        160
+    55        850
+    56        560
+    57        830
+    58         40
+    65         10
+    66         10
+    67        140
+    68        150
+    69        590
+    70        450
+    71        310
+    72         20
+    81         60
+    82        170
+    83        590
+    84        290
+    85        160
+    86         10
+    95         30
+    96         80
+    97        460
+    98        160
+    99         10
+   109         10
+   110         30
+   111        210
+   112        100
+   113         20
+   124         20
+   125         80
+   126         60
+   127         10
+   138         10
+   139         30
+   140         30
+   153         10
+   154         20
+   168         10
+   182         10
+   196         20
+   224         60

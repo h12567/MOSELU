@@ -1,0 +1,29 @@
+##TITLE=Library Entry 39297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,2,9-Trimethoxy-nonane
+##MOLFORM=C12H26O3
+##CAS REGISTRY NO=62635-59-0
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    67        569
+    69         88
+    71        999
+    72         69
+    81        149
+    85         59
+    89         68
+    95         59
+   109        888
+   110         90
+   111         59
+   141        120
+   173        787
+   174         89

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 33249
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 5-vinyl-
+##MOLFORM=C3H4N4
+##CAS REGISTRY NO=18755-47-0
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        147
+    28         91
+    29        172
+    37        167
+    38        258
+    39        582
+    41         76
+    42         66
+    51         46
+    52         44
+    53         32
+    54         34
+    55          7
+    66         10
+    67        109
+    68        999
+    69         47
+    96         98
+    97         22
+    98          2

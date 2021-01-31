@@ -1,0 +1,46 @@
+##TITLE=Library Entry 30802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E S. WAIGHT
+##NAMES=HP
+##CAS NAME=Cholest-5-ene, 3-(2-methoxyethoxy)-, (3.beta.)-
+##MOLFORM=C30H52O2
+##CAS REGISTRY NO=57156-77-1
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         90
+    43        130
+    55        150
+    57        150
+    59        999
+    67         70
+    69        110
+    71         80
+    79         60
+    81        130
+    83         80
+    91         60
+    93         80
+    95        140
+    97         55
+   105         75
+   107         85
+   109         90
+   119         65
+   121         80
+   133         65
+   135         80
+   145         85
+   147        120
+   149         70
+   159         60
+   161         90
+   368        320
+   369        330
+   370         90
+   444          0

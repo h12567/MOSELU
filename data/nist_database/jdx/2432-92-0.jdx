@@ -1,0 +1,47 @@
+##TITLE=Library Entry 25860
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. UTILIZATION R & D DIV., U.S. DEPT. OF AGRIC., ALBANY
+, CAL.
+##NAMES=HP
+##CAS NAME=Pentanethioic acid, S-ethyl ester
+##MOLFORM=C7H14OS
+##CAS REGISTRY NO=2432-92-0
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=938
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         79
+    28         28
+    29        312
+    30          5
+    35         17
+    39         43
+    41        390
+    42         22
+    43         18
+    45         15
+    46          9
+    47         16
+    53          8
+    55         64
+    56         33
+    57        999
+    58         36
+    59         15
+    60          9
+    61         34
+    62         14
+    63          5
+    75          5
+    76         14
+    85        723
+    86         28
+    89         21
+   117        319
+   118         10
+   119          9
+   146          8

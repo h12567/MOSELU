@@ -1,0 +1,46 @@
+##TITLE=Library Entry 56279
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R RYHAGE MS-LAB KAROLINSKA INSTITUTET STOCKHOLM SWEDEN
+##NAMES=HP
+##CAS NAME=L-Isoleucine, ethyl ester
+##MOLFORM=C8H17NO2
+##CAS REGISTRY NO=921-74-4
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=1114
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    15         16
+    17         13
+    18         67
+    26         17
+    27        106
+    29        176
+    30        210
+    31         16
+    39         42
+    41        116
+    42         29
+    43         38
+    44        168
+    45         16
+    46         95
+    53         10
+    54         15
+    55         22
+    56         89
+    57         88
+    58         28
+    69        134
+    70         41
+    74        213
+    75         16
+    84         13
+    86        999
+    87         66
+   102        190
+   103         24
+   149         11

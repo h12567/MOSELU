@@ -1,0 +1,46 @@
+##TITLE=Library Entry 53730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=5-Amino-7-hydroxytriazolo(1,5-a)-S-triazine
+##MOLFORM=C4H4N6O
+##CAS REGISTRY NO=7390-30-9
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        155
+    29         78
+    30         58
+    31        113
+    41         64
+    42        306
+    43        307
+    44        862
+    45         79
+    54         76
+    55         18
+    56         29
+    57        170
+    58         23
+    68         61
+    69        189
+    70         18
+    72         24
+    73        240
+    83         62
+    84        999
+    85         57
+   109         30
+   110        140
+   111         66
+   126         30
+   127         32
+   151         16
+   152        297
+   153         33
+   154          3

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 73420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GILPIN DOW CHEM. CO., MIDLAND, MICHIGAN, USA
+##NAMES=HP
+##CAS NAME=Hexanamide, N,N-dipentyl-
+##MOLFORM=C16H33NO
+##CAS REGISTRY NO=54986-64-0
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15          3
+    27         30
+    28         20
+    29         70
+    30         80
+    31          2
+    41        110
+    42         40
+    43        350
+    44        150
+    45          7
+    55         60
+    56         30
+    57         20
+    58         40
+    59          3
+    60         10
+    71        130
+    72         30
+    73         20
+    74          3
+    85          7
+    86         70
+    87         40
+    88          3
+    99         80
+   100        999
+   101         70
+   114        500
+   115         40
+   116         10
+   127          7
+   128        240
+   129         80
+   141          5
+   142        160
+   143         30
+   155          4
+   156         70
+   157         10
+   170         30
+   171          4
+   184        110
+   185         20
+   198         40
+   199         30
+   212         70
+   213         10
+   226         40
+   227          7
+   240          9
+   241          2
+   255         40

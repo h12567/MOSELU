@@ -1,0 +1,50 @@
+##TITLE=Library Entry 24871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=2-Propanamine, N,2-dimethyl-N-nitroso-
+##MOLFORM=C5H12N2O
+##CAS REGISTRY NO=2504-18-9
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    30        213
+    37          9
+    38         29
+    39        271
+    40         48
+    41        631
+    42        174
+    43        126
+    44         48
+    45          9
+    50          9
+    51          9
+    52          9
+    53         19
+    54         48
+    55         97
+    56        834
+    57        999
+    58         58
+    59          9
+    60         19
+    61         48
+    70         67
+    71        174
+    72        194
+    73         97
+    85          9
+    86         48
+    87          9
+   100         48
+   101         19
+   115         38
+   116        223
+   117         19

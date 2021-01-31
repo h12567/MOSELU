@@ -1,0 +1,48 @@
+##TITLE=Library Entry 22109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,4-Dimethylazetidin-2-one
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=4879-95-2
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         69
+    28        112
+    29         47
+    30         19
+    37          8
+    38         18
+    39        117
+    40         67
+    41        603
+    42        891
+    43        104
+    44         32
+    50         11
+    51         13
+    52          9
+    53         16
+    54         20
+    55        109
+    56        999
+    57         94
+    58         86
+    59         12
+    68          4
+    69          5
+    70         16
+    71         27
+    82          5
+    83         25
+    84         16
+    98          7
+    99         29
+   100         15

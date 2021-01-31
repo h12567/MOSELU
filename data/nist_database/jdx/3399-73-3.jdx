@@ -1,0 +1,71 @@
+##TITLE=Library Entry 1190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-(1-Cyclohexenyl)ethylamine
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=3399-73-3
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          2
+    18          2
+    26          3
+    27         45
+    28          8
+    29         20
+    30        999
+    31         18
+    32          6
+    37          1
+    38          6
+    39         89
+    40         16
+    41         94
+    42         21
+    43         16
+    44          4
+    50         11
+    51         28
+    52         18
+    53         52
+    54         28
+    55         49
+    56          9
+    62          3
+    63          8
+    64          2
+    65         28
+    66         16
+    67         65
+    68         37
+    69          4
+    70          1
+    74          1
+    77         46
+    78         10
+    79         68
+    80         18
+    81        120
+    82         14
+    89          1
+    91         27
+    92          3
+    93         20
+    94         29
+    95         26
+    96         43
+    97          3
+   103          1
+   105          1
+   107          1
+   108         62
+   109          5
+   122          1
+   125         52
+   126          5

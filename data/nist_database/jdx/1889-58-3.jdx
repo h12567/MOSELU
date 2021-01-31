@@ -1,0 +1,55 @@
+##TITLE=Library Entry 86168
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=O,O-Diethyl-S-phenyl-phosphorothioate
+##MOLFORM=C10H15O3PS
+##CAS REGISTRY NO=1889-58-3
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    45        116
+    47         40
+    50         29
+    51         91
+    63         35
+    65        346
+    66        127
+    69         99
+    77         80
+    78         27
+    81        477
+    82         29
+    83         27
+    84         38
+    91        180
+    93         26
+    94        319
+    95         23
+    97         27
+   104        144
+   105        214
+   108         63
+   109        999
+   110        791
+   111         79
+   112         35
+   123         40
+   125         18
+   137         56
+   169         11
+   172         25
+   173         42
+   190        130
+   191         13
+   203         10
+   218        121
+   219         14
+   246        363
+   247         45
+   248         17

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 50896
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Benzene, 1,2,3-trifluoro-4-nitro-
+##MOLFORM=C6H2F3NO2
+##CAS REGISTRY NO=771-69-7
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    18          2
+    28          6
+    29          2
+    30        587
+    31        130
+    32          3
+    37         27
+    38          9
+    46         26
+    50         17
+    51         25
+    55         10
+    56         25
+    57         55
+    61         84
+    62        104
+    63         10
+    68         68
+    69         90
+    73         14
+    74         34
+    75         94
+    76         11
+    79         22
+    80         83
+    81        999
+    82         57
+    86         17
+    87         19
+    92         23
+    93         49
+    94         10
+    95         10
+    99         75
+   100         17
+   111         24
+   112         36
+   118          9
+   119        288
+   120         22
+   130         48
+   131        483
+   132         30
+   147        314
+   148         19
+   161         84
+   177        669
+   178         43

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 80318
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Dimethylarsine bromide
+##MOLFORM=C2H6AsBr
+##CAS REGISTRY NO=676-71-1
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    75         74
+    76         18
+    77         18
+    79         14
+    87         13
+    88        151
+    89        654
+    90         87
+   100         15
+   101        112
+   102         39
+   103        123
+   105        999
+   106         21
+   120         11
+   125         10
+   140         11
+   154         43
+   155         13
+   156         40
+   157         12
+   169        256
+   171        241
+   184        405
+   185         20
+   186        389
+   187         17

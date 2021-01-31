@@ -1,0 +1,48 @@
+##TITLE=Library Entry 61483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.KONNECKE KARL-MARX UNIV., LEIPZIG 701, GERMANY, G.D.R
+.
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 1-phenyl-
+##MOLFORM=C7H6N4
+##CAS REGISTRY NO=5378-52-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    37        141
+    38        230
+    39        318
+    40         59
+    41        176
+    42         12
+    43         35
+    49         29
+    50        224
+    51        471
+    52        106
+    53         18
+    55         29
+    57         23
+    61         35
+    62         59
+    63        241
+    64        576
+    65        153
+    66         23
+    73         18
+    74         46
+    75         23
+    76         35
+    77        559
+    78         59
+    90         23
+    91        999
+    92         71
+   118        647
+   119         50
+   146         16

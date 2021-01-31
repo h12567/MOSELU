@@ -1,0 +1,33 @@
+##TITLE=Library Entry 97490
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Carbon Tetrachloride
+##MOLFORM=CCl4
+##CAS REGISTRY NO=56-23-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=663
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    12          4
+    35        105
+    37         36
+    47        196
+    48          2
+    49         67
+    50          1
+    82        243
+    83          4
+    84        160
+    85          2
+    86         26
+   117        999
+   119        958
+   120         12
+   121        345
+   122          4
+   123         38

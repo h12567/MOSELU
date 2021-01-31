@@ -1,0 +1,37 @@
+##TITLE=Library Entry 48723
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenamine, 4-chloro-N-(2-pyridinylmethylene)-
+##MOLFORM=C12H9ClN2
+##CAS REGISTRY NO=26825-34-3
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50        460
+    51        619
+    52        609
+    62         80
+    63        210
+    64         90
+    74        140
+    75        819
+    76        220
+    78        380
+    79        999
+   105        260
+   111        579
+   113        180
+   138        160
+   154        370
+   189        340
+   191         90
+   215        519
+   216        589
+   217        230
+   218        190

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 22601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=1H,5H,7H,11H-Dipyrazolo[1,2-a:1',2'-d][1,2,4,5]tetrazine, tetrahy
+dro-
+##MOLFORM=C8H16N4
+##CAS REGISTRY NO=37882-92-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    21          0
+    24          1
+    25          4
+    26         61
+    27        247
+    28        425
+    29         78
+    30         83
+    35          0
+    36          1
+    37          9
+    38         15
+    39        147
+    40         52
+    41        262
+    42        324
+    43         50
+    44         15
+    50          0
+    51          4
+    52         12
+    53          9
+    54         74
+    55         85
+    56        999
+    57         90
+    58          2
+    63          6
+    64          1
+    66          1
+    67          4
+    68         15
+    69         76
+    70         45
+    71         21
+    80          2
+    81          9
+    82         44
+    83        999
+    84        683
+    85         27
+    96          0
+    97          3
+   109         10
+   110          3
+   111         33
+   112        359
+   113         29

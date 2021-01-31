@@ -1,0 +1,55 @@
+##TITLE=Library Entry 8725
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Lounasmaa ET AL.Acta.Chem.Scand.,25,3428(1971)
+##NAMES=HP
+##CAS NAME=Acetylfilicinic acid
+##MOLFORM=C10H12O4
+##CAS REGISTRY NO=16302-39-9
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         28
+    39        206
+    40         53
+    41        307
+    42        367
+    43        999
+    44         36
+    53         42
+    55         87
+    61         14
+    65         14
+    66         22
+    67        175
+    68        163
+    69        203
+    70        901
+    71         84
+    82         14
+    83         62
+    84        163
+    85        152
+    86         25
+    97         62
+    98        338
+    99         14
+   111        155
+   112        305
+   113         14
+   125         22
+   126        192
+   127         19
+   129        194
+   139         50
+   153         59
+   154         93
+   168          8
+   179         19
+   181         31
+   196        728
+   197         70

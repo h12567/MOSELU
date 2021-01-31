@@ -1,0 +1,43 @@
+##TITLE=Library Entry 13233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. GREGORY, DEPT. CHEM., MEMORIAL UNIV. NEWFOUNDLAND, C
+ANADA
+##NAMES=HP
+##CAS NAME=3-Furancarboxylic acid, 2-methyl-5-(1-(methoxycarbonyl)-2-oxoprop
+yl)-, methyl ester
+##MOLFORM=C12H14O6
+##CAS REGISTRY NO=114534-13-3
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    31         50
+    43        999
+    51         60
+    59         80
+    69         50
+    77        100
+    79        120
+   120         70
+   121        110
+   137        230
+   148         60
+   151         70
+   152        270
+   153        100
+   165        190
+   179         60
+   180        880
+   181        100
+   191         80
+   197        210
+   211         60
+   212        470
+   213         50
+   222        400
+   223        150
+   254         90

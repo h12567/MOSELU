@@ -1,0 +1,33 @@
+##TITLE=Library Entry 5802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Acetyl-3-phenyl-4-ethoxycarbonyl-2,3-diazatricyclo(3.3.3.0(1,5)
+)undecane
+##MOLFORM=C20H26N2O3
+##CAS REGISTRY NO=108583-40-0
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    29        709
+    41        872
+    43        999
+    55        559
+    57        422
+    77        610
+    84        680
+    86        393
+    91        161
+   105        149
+   141        109
+   204        100
+   227         49
+   229        320
+   269         30
+   300         80
+   342         49

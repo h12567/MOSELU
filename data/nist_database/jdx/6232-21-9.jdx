@@ -1,0 +1,37 @@
+##TITLE=Library Entry 185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Aminocyanoacetic acid
+##MOLFORM=C3H4N2O2
+##CAS REGISTRY NO=6232-21-9
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    25         13
+    26         73
+    27        200
+    28        999
+    29        325
+    30        460
+    31          5
+    38         81
+    39         69
+    40        104
+    41         20
+    43          6
+    44        633
+    45         11
+    52         15
+    53        111
+    54         16
+    55        457
+    56        214
+    57         24
+    73         26
+    74          8

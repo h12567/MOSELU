@@ -1,0 +1,72 @@
+##TITLE=Library Entry 89497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Propargylamine, N-trimethylsilyl-
+##MOLFORM=C6H13NSi
+##CAS REGISTRY NO=1063798-95-7
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          2
+    27          5
+    28         12
+    29         11
+    30          3
+    31          8
+    37          1
+    38          3
+    39         16
+    41          2
+    42         12
+    43         83
+    44         31
+    45         43
+    46          6
+    51          1
+    52          7
+    53         33
+    54         16
+    55         40
+    56         24
+    57         14
+    58         23
+    59         45
+    60          6
+    61          1
+    65          3
+    66          8
+    67         29
+    68          9
+    69         29
+    70          7
+    71          5
+    72          6
+    73        100
+    74         13
+    75          2
+    81          3
+    83        936
+    84        100
+    85         39
+    86         12
+    87          2
+    94          1
+    95          1
+    96         18
+    97          7
+    98          2
+   112        999
+   113        114
+   114         40
+   115          2
+   126         13
+   127        180
+   128         22
+   129          7

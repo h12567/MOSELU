@@ -1,0 +1,81 @@
+##TITLE=Library Entry 11648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptan-2-one, 4-hydroxy-1,7,7-trimethyl-, acetate
+##MOLFORM=C12H18O3
+##CAS REGISTRY NO=90547-87-8
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    15         42
+    27         64
+    29         58
+    39         87
+    40         15
+    41        252
+    42         37
+    43        999
+    44         37
+    45         11
+    51         14
+    53         59
+    54         21
+    55        224
+    56         16
+    57         19
+    59         13
+    65         20
+    67         86
+    68         12
+    69         72
+    70         35
+    71         14
+    77         29
+    79         40
+    81         51
+    82         68
+    83        452
+    84        108
+    85         22
+    86         11
+    91         38
+    93         43
+    94         11
+    95         24
+    96         16
+    97        193
+    98         34
+   105         12
+   106         12
+   107        310
+   108         73
+   109        100
+   110         22
+   111        123
+   112         21
+   121         60
+   122        470
+   123         76
+   124         25
+   125        121
+   126         40
+   135        119
+   136         12
+   139         21
+   140         78
+   150        124
+   151         21
+   153         42
+   167         32
+   168         31
+   182        175
+   183         23
+   210         24
+   211          3

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 4588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-Methyl-2,5-oxazolidine-dione
+##MOLFORM=C4H5NO3
+##CAS REGISTRY NO=5840-76-6
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        191
+    28        500
+    29         95
+    35        125
+    40        212
+    41        336
+    42        999
+    43        952
+    44        268
+    51         12
+    54         23
+    55         36
+    56        100
+    57         20
+    60         10
+    67         10
+    69         12
+    70          9
+    71        273
+    72         12
+    76          8
+    81          8
+    83          7
+    91         14
+    97          7
+   104          8
+   115        866
+   116         49
+   117         11

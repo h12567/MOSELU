@@ -1,0 +1,39 @@
+##TITLE=Library Entry 73550
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(4)1342(1978); U. KRAMER ET AL
+##NAMES=HP
+##CAS NAME=13-(7-Acetamido-4-acetyl-4-azaheptyl)-12-dodecanolactam
+##MOLFORM=C22H41N3O3
+##CAS REGISTRY NO=75701-25-6
+##MP= -300
+##BP= -300
+##MW= 395
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    70        660
+    84        350
+   100        999
+   112        120
+   125        200
+   129        330
+   143        360
+   155        830
+   159        160
+   168        200
+   182        230
+   185        200
+   196        170
+   199        120
+   210        180
+   224        340
+   238        220
+   254        160
+   281        130
+   293        230
+   324        120
+   352        200
+   367         90
+   395         50

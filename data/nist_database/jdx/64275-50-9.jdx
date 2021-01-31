@@ -1,0 +1,30 @@
+##TITLE=Library Entry 58991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1161(1977);12; G. OHLOFF
+##NAMES=HP
+##CAS NAME=5,10-Pentadecadiyn-1-ol
+##MOLFORM=C15H24O
+##CAS REGISTRY NO=64275-50-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27        300
+    41        730
+    55        430
+    67        500
+    79        680
+    91        999
+   105        510
+   119        560
+   131        310
+   145        120
+   161         90
+   177        180
+   191         10
+   205         10
+   220         10

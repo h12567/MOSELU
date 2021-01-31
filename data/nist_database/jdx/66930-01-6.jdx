@@ -1,0 +1,31 @@
+##TITLE=Library Entry 49163
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM, 111(4)1264(1978); R. W. HOFFMANN ET AL.
+##NAMES=HP
+##CAS NAME=Tricyclo[3.2.1.0(2,4)]octan-8-one, 3,3-dimethyl-, (1.alpha.,2.alp
+ha.,4.alpha.,5.alpha.)-
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=66930-01-6
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    28        330
+    39        140
+    41        190
+    67        180
+    77        260
+    78        240
+    79        999
+    80        160
+    91        450
+    93        180
+    95        140
+   105        120
+   107        540
+   122        250
+   150         10

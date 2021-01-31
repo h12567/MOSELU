@@ -1,0 +1,65 @@
+##TITLE=Library Entry 38018
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Bourgeois, CESAMO, Univ. Bordeaux, France
+##NAMES=HP
+##CAS NAME=2-Oxazolamine, 5-[[4-(4-fluorophenyl)piperazin-1-yl]methyl]-4,5-d
+ihydro-N,N-dimethyl-
+##MOLFORM=C16H23FN4O
+##CAS REGISTRY NO=132786-19-7
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    29         37
+    30          8
+    39        145
+    40         50
+    41        185
+    42        517
+    43        143
+    44          8
+    56        505
+    57         77
+    58        120
+    59          8
+    68        197
+    69        258
+    70        999
+    71        217
+    72        313
+    73         27
+    95        270
+    96         27
+   109        137
+   110         13
+   113        225
+   114         23
+   115          3
+   122        475
+   123        477
+   124        208
+   125         20
+   138        315
+   150        550
+   151         53
+   152          5
+   156        437
+   157         42
+   158          3
+   163        130
+   164         13
+   178        567
+   179        158
+   191        185
+   192        133
+   193        900
+   194        150
+   195         67
+   196          7
+   306        317
+   307         28
+   308          5

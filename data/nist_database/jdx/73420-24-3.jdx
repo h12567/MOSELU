@@ -1,0 +1,75 @@
+##TITLE=Library Entry 27420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,3-Diethyl-1,3-dibutoxydisiloxane
+##MOLFORM=C12H30O3Si2
+##CAS REGISTRY NO=73420-24-3
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    39        175
+    41        110
+    55        244
+    56         28
+    57        999
+    58         48
+    63         68
+    69         44
+    70         32
+    71        101
+    72         21
+    75         32
+    76          5
+    77        282
+    78         10
+    79         21
+    91        127
+    92         18
+    93        170
+   107        167
+   108         12
+   109        222
+   110         10
+   119        195
+   120         25
+   121        249
+   122         36
+   123         11
+   135         25
+   136          3
+   137        104
+   138         52
+   139         34
+   140          2
+   147         17
+   148          2
+   149         38
+   150          6
+   151          9
+   165        277
+   166         33
+   167         25
+   179        408
+   180         73
+   189        113
+   190         13
+   191         26
+   193        244
+   194         30
+   195         27
+   205        227
+   206         63
+   207         11
+   219        213
+   220         43
+   221         22
+   249        726
+   250        198
+   251         86
+   252         12

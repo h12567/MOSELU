@@ -1,0 +1,53 @@
+##TITLE=Library Entry 31296
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=VERIFINN
+##NAMES=HP
+##CAS NAME=Ethanol, 2,2'-[methylenebis(thio)]bis-
+##MOLFORM=C5H12O2S2
+##CAS REGISTRY NO=44860-68-6
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1574
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        134
+    29         73
+    31        120
+    35         20
+    43         79
+    44         37
+    45        543
+    46        107
+    47        187
+    49         23
+    58         18
+    59         65
+    60         97
+    61        999
+    62         34
+    63         48
+    73         14
+    75         16
+    77         12
+    78         30
+    79         64
+    80         14
+    89         13
+    90         50
+    91        614
+    92         26
+    93         31
+   105         19
+   106         10
+   123         22
+   124        263
+   125         14
+   126         23
+   150         73
+   152          7
+   168        111
+   169          6
+   170         10

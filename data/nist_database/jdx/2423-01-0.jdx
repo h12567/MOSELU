@@ -1,0 +1,56 @@
+##TITLE=Library Entry 32924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentene, 1-butyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=2423-01-0
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=938
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          9
+    27         80
+    28         25
+    29         43
+    32          4
+    38         13
+    39        148
+    40         28
+    41        185
+    42         13
+    43         11
+    50         16
+    51         41
+    52         26
+    53        102
+    54         45
+    55         65
+    56          5
+    57          3
+    62          5
+    63         14
+    65         65
+    66        113
+    67        999
+    68         92
+    69         11
+    77         75
+    78         20
+    79        170
+    80         37
+    81        178
+    82        263
+    83         33
+    91         21
+    93         18
+    95        149
+    96         17
+   109          4
+   124        176
+   125         16

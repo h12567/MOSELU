@@ -1,0 +1,58 @@
+##TITLE=Library Entry 97242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,1,1,4-Tetrachloro-4,4-divinyldisilethylene
+##MOLFORM=C6H10Cl4Si2
+##CAS REGISTRY NO=102105-72-6
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    63        117
+    64         20
+    65         98
+    67         27
+    90         80
+    91        347
+    92         56
+    93        141
+    94         42
+   116         37
+   117        999
+   118        117
+   119        346
+   120         58
+   121         80
+   122         37
+   125         81
+   126         28
+   127         60
+   128         18
+   129         19
+   133         20
+   135         19
+   137          7
+   215         28
+   217         27
+   219         10
+   224         42
+   226         47
+   228         30
+   247         39
+   248          7
+   249         40
+   250          8
+   251         80
+   252         18
+   253         92
+   254          9
+   255         48
+   257         10
+   278          5
+   280          7
+   282          3

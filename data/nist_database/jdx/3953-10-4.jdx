@@ -1,0 +1,67 @@
+##TITLE=Library Entry 20906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Ethylbutyl acrylate
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=3953-10-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+     4          3
+    14          1
+    15          8
+    26         42
+    27        301
+    28         48
+    29        137
+    30          5
+    31         17
+    32          1
+    37          1
+    39         80
+    40         16
+    41        184
+    42        100
+    43        268
+    44         14
+    45          7
+    50          3
+    51          6
+    53         28
+    55        999
+    56        209
+    57          8
+    58         31
+    59         12
+    65          2
+    67          8
+    69        293
+    70         52
+    71         34
+    72          2
+    73         57
+    74          2
+    79          3
+    81          4
+    82          5
+    84        471
+    85        117
+    86         26
+    87         10
+    93          2
+    95          1
+    96          9
+    97         18
+    98         16
+    99          1
+   101          2
+   109          2
+   110          2
+   111          1
+   127          6

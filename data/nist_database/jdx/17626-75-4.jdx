@@ -1,0 +1,40 @@
+##TITLE=Library Entry 72107
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2-Propylthiazole
+##MOLFORM=C6H9NS
+##CAS REGISTRY NO=17626-75-4
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=981
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27         27
+    29         39
+    39          7
+    41         68
+    43         27
+    45         39
+    54         79
+    55          7
+    57         27
+    58        579
+    59        159
+    60         27
+    71          7
+    77          7
+    85          7
+    86         19
+    98        239
+    99        999
+   100         99
+   101         79
+   112        309
+   113         19
+   114          7
+   126         92
+   127         59

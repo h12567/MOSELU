@@ -1,0 +1,65 @@
+##TITLE=Library Entry 1197
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER HAMBURG UNIV., HAMBURG, GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=Lysine
+##MOLFORM=C6H14N2O2
+##CAS REGISTRY NO=56-87-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         64
+    29         86
+    30        999
+    31         25
+    38          5
+    39         56
+    40         13
+    41        114
+    42        172
+    43        278
+    44        272
+    45         34
+    46         18
+    53         12
+    54         33
+    55         71
+    56        444
+    57         82
+    58         22
+    59         26
+    67         40
+    68         17
+    69         30
+    70         51
+    71         60
+    72        393
+    73         46
+    74         32
+    75         18
+    82         94
+    83         96
+    84        535
+    85         42
+    86          5
+    87          9
+    88         10
+    89         14
+    99         22
+   100         45
+   101         40
+   110         11
+   111         20
+   117         15
+   128         27
+   129         66
+   130         23
+   138          2
+   146          8

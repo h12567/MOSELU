@@ -1,0 +1,76 @@
+##TITLE=Library Entry 24326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Tridecane, 2-methyl-
+##MOLFORM=C14H30
+##CAS REGISTRY NO=1560-96-9
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1364
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    27         69
+    28         10
+    29        170
+    30          3
+    31          3
+    32          2
+    35          2
+    37          0
+    39         48
+    41        299
+    42        170
+    43        989
+    44          1
+    45          5
+    53          8
+    54         10
+    55        122
+    56        172
+    57        999
+    58         42
+    59          0
+    63          0
+    67          9
+    68          9
+    69         68
+    70         66
+    71        524
+    72         25
+    81          9
+    82         10
+    83         38
+    84         37
+    85        311
+    86         19
+    87          0
+    96          3
+    97         29
+    98         17
+    99        119
+   100          7
+   110          1
+   111         11
+   112          9
+   113         62
+   114          3
+   120          1
+   125          4
+   126          5
+   127         24
+   128          0
+   140          1
+   141         11
+   154         34
+   155         78
+   156          8
+   182          1
+   183         19
+   184          1
+   194          0
+   198          4

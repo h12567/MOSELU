@@ -1,0 +1,79 @@
+##TITLE=Library Entry 54243
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2831
+##NAMES=HP
+##CAS NAME=Piperidine, 1-acetyl-
+##MOLFORM=C7H13NO
+##CAS REGISTRY NO=618-42-8
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=1205
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    13          1
+    14         10
+    15         91
+    16          1
+    18          1
+    26         20
+    27        105
+    28        120
+    29         85
+    30        110
+    31          5
+    32          2
+    37          3
+    38          6
+    39         77
+    40         14
+    41        156
+    42        227
+    43        594
+    44        226
+    45          9
+    49          1
+    50          6
+    51          9
+    52          9
+    53         21
+    54         41
+    55         95
+    56        442
+    57        444
+    58         23
+    59          6
+    60         51
+    61          1
+    65          2
+    66          1
+    67         19
+    68         34
+    69         70
+    70        361
+    71         31
+    72         34
+    73         44
+    74          2
+    80          7
+    81          2
+    82         28
+    83         16
+    84        999
+    85        135
+    86         37
+    87          2
+    94          1
+    98         88
+    99         90
+   100          5
+   110          2
+   112        146
+   113         10
+   125          3
+   126        120
+   127        758
+   128         62
+   129          4

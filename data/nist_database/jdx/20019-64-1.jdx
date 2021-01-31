@@ -1,0 +1,80 @@
+##TITLE=Library Entry 70035
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2(5H)-Furanone, 5,5-dimethyl-
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=20019-64-1
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=952
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    25         12
+    26        173
+    27        144
+    28         14
+    29         28
+    30          0
+    31         11
+    33          0
+    34          0
+    36          2
+    37         22
+    38         41
+    39        176
+    40         53
+    41        196
+    42         42
+    43        932
+    44         22
+    45          3
+    47          0
+    48          1
+    49          9
+    50         38
+    51         39
+    52         14
+    53         84
+    54        162
+    55         30
+    56          1
+    57          2
+    58         39
+    59        104
+    60          3
+    61          4
+    62          5
+    63          6
+    64          1
+    65          6
+    66          4
+    67         47
+    68         11
+    69        946
+    70         41
+    71         10
+    72          0
+    77          0
+    78          0
+    79          0
+    81          0
+    82          9
+    83          2
+    84          3
+    85          0
+    91          0
+    93          0
+    95          0
+    96          1
+    97        999
+    98         52
+    99          5
+   100          0
+   111          2
+   112        104
+   113          8
+   114          0

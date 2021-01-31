@@ -1,0 +1,67 @@
+##TITLE=Library Entry 34179
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Hexene, 6-iodo-2-methyl-
+##MOLFORM=C7H13I
+##CAS REGISTRY NO=63588-94-3
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26          9
+    27        148
+    28         32
+    29         63
+    37          2
+    38         10
+    39        149
+    40         29
+    41        591
+    42         33
+    43         66
+    44         37
+    50         12
+    51         26
+    52         15
+    53         92
+    54         35
+    55        426
+    56         24
+    57         11
+    62          3
+    63          5
+    65         12
+    66          7
+    67         52
+    68         22
+    69        999
+    70         44
+    77         12
+    78          2
+    79         16
+    80          3
+    81         67
+    82         10
+    83          3
+    91          2
+    95          8
+    96         10
+    97        283
+    98         22
+   127         21
+   128         10
+   129          1
+   137          1
+   141          4
+   153          2
+   155         30
+   167          1
+   181          2
+   224        356
+   225         27
+   226          3

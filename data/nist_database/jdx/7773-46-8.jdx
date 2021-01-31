@@ -1,0 +1,35 @@
+##TITLE=Library Entry 71135
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Spiteller, Monantsh Chem., 96,104(1965)
+##NAMES=HP
+##CAS NAME=d,l-Sedamin
+##MOLFORM=C14H21NO
+##CAS REGISTRY NO=7773-46-8
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         57
+    43         15
+    44         38
+    55         20
+    56          8
+    57         23
+    69          5
+    70         65
+    71          6
+    77         31
+    79         23
+    84         21
+    96         11
+    97         15
+    98        999
+    99         62
+   112         11
+   113         13
+   219         62

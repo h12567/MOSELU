@@ -1,0 +1,53 @@
+##TITLE=Library Entry 44557
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=N,N-Dimethylformamide dipropyl acetal
+##MOLFORM=C9H21NO2
+##CAS REGISTRY NO=6006-65-1
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         60
+    18         50
+    19          1
+    26         42
+    27        219
+    28        178
+    29        199
+    30        124
+    31        360
+    32         18
+    33          6
+    37          3
+    38         13
+    39         59
+    40         30
+    41        159
+    42        276
+    43        556
+    44        349
+    45         39
+    46         56
+    47         59
+    56          4
+    57         13
+    58         49
+    59         90
+    60         51
+    72         77
+    73        548
+    74        999
+    75         39
+    89        180
+    90         12
+   116        383
+   117         25
+   131        201
+   132         13

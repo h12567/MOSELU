@@ -1,0 +1,37 @@
+##TITLE=Library Entry 55225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Divinyl sulfide
+##MOLFORM=C4H6S
+##CAS REGISTRY NO=627-51-0
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=647
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    25        114
+    26         73
+    27        203
+    34         20
+    41         56
+    43         42
+    45        389
+    46         33
+    47         30
+    53         50
+    56         29
+    57        105
+    58        271
+    59        396
+    60        160
+    61         43
+    62         27
+    71         64
+    85        999
+    86        688
+    87        100
+    88         50

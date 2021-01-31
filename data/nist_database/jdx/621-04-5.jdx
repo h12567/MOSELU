@@ -1,0 +1,60 @@
+##TITLE=Library Entry 40268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Urea, N-ethyl-N'-phenyl-
+##MOLFORM=C9H12N2O
+##CAS REGISTRY NO=621-04-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    38         12
+    39         50
+    40         37
+    41         70
+    42         50
+    43        250
+    44        125
+    50         12
+    51         47
+    52         12
+    55         25
+    56         20
+    57         12
+    63         25
+    64         37
+    65         45
+    66          7
+    67         12
+    68          7
+    69         20
+    70          7
+    71         10
+    72        999
+    73         70
+    74         12
+    77         62
+    78         12
+    79          7
+    91         80
+    92         25
+    93         27
+    94          7
+    95          7
+    97          7
+   105         20
+   106         20
+   107          5
+   109          5
+   119        187
+   120         25
+   121          7
+   161         12
+   163         20
+   164        375
+   165         45

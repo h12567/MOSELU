@@ -1,0 +1,35 @@
+##TITLE=Library Entry 63812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Benzoxazolamine, N-(phenylmethyl)-
+##MOLFORM=C14H12N2O
+##CAS REGISTRY NO=21326-87-4
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         34
+    51         35
+    65         93
+    78         30
+    91        999
+    92         69
+   105         40
+   110         10
+   111         10
+   117         25
+   133         25
+   134         12
+   147         10
+   149         10
+   183         10
+   196         10
+   207         20
+   223         90
+   224        270
+   225         60

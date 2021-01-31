@@ -1,0 +1,65 @@
+##TITLE=Library Entry 61759
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3287
+##NAMES=HP
+##CAS NAME=Benzene, propyl-
+##MOLFORM=C9H12
+##CAS REGISTRY NO=103-65-1
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=953
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          2
+    27         15
+    29          5
+    37          1
+    38          5
+    39         40
+    40          3
+    41         18
+    42          1
+    49          1
+    50         12
+    51         34
+    52          9
+    53          3
+    57          3
+    58          3
+    61          2
+    62          6
+    63         19
+    64          5
+    65         71
+    66          5
+    74          5
+    75          3
+    76          3
+    77         26
+    78         58
+    79         12
+    85          1
+    86          1
+    87          1
+    89         13
+    90          6
+    91        999
+    92        107
+    93          5
+   102          3
+   103         10
+   104          6
+   105         37
+   106          3
+   115          9
+   116          2
+   117          6
+   118          1
+   119          2
+   120        258
+   121         25
+   122          1

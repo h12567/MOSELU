@@ -1,0 +1,51 @@
+##TITLE=Library Entry 55732
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=cis-3-Hydroxy-dl-proline
+##MOLFORM=C5H9NO3
+##CAS REGISTRY NO=4298-05-9
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        407
+    42        136
+    43         89
+    44         57
+    45        128
+    46         24
+    47          8
+    52          4
+    54         14
+    55         27
+    56         49
+    57        118
+    58        117
+    59        122
+    60         10
+    65          8
+    67         14
+    68        114
+    69        363
+    70         45
+    71          9
+    73          2
+    74        114
+    75         20
+    77          8
+    78          8
+    84          4
+    85         50
+    86        999
+    87        257
+    88         20
+    92          4
+   113          7
+   114          4
+   131         19
+   132         10

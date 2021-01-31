@@ -1,0 +1,74 @@
+##TITLE=Library Entry 61425
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzeneacetonitrile, 4-methyl-
+##MOLFORM=C9H9N
+##CAS REGISTRY NO=2947-61-7
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         15
+    26         34
+    27        106
+    28         27
+    37         25
+    38         65
+    39        225
+    40         37
+    41         29
+    43          3
+    44          1
+    49         18
+    50        149
+    51        268
+    52         97
+    53         31
+    54          4
+    60          2
+    61         30
+    62         76
+    63        179
+    64         69
+    65        165
+    66         12
+    73          9
+    74         48
+    75         61
+    76         77
+    77        221
+    78        104
+    79         23
+    85          8
+    86         14
+    87         15
+    88         18
+    89        123
+    90          8
+    91        999
+    92         77
+    93          3
+    98          5
+    99          7
+   100          6
+   101         21
+   102         71
+   103        194
+   104        486
+   105         56
+   106          3
+   114          6
+   116        591
+   117         53
+   127          4
+   128         20
+   129         18
+   130        154
+   131        570
+   132         54

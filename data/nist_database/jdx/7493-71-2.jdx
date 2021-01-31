@@ -1,0 +1,47 @@
+##TITLE=Library Entry 20681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-methyl-, 2-propenyl ester, (E)-
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=7493-71-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1022
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         38
+    29        205
+    36         27
+    39        115
+    40         11
+    41        325
+    42         11
+    43         65
+    53         65
+    54         65
+    55        999
+    56         65
+    57         22
+    67         22
+    69         33
+    71          9
+    79         32
+    81         43
+    82         19
+    83        735
+    84         55
+    85         11
+    94         11
+    95        183
+    96         13
+    97         13
+    99          9
+   111          9
+   112          8
+   125        147
+   126         11
+   140         68

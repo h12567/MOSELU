@@ -1,0 +1,33 @@
+##TITLE=Library Entry 18027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Dichloroacetaldehyde
+##MOLFORM=C2H2Cl2O
+##CAS REGISTRY NO=79-02-7
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    47        146
+    48        746
+    49        999
+    50        223
+    51        355
+    76         68
+    77         26
+    78         22
+    79          8
+    83        152
+    84        648
+    85         87
+    86        433
+    87         15
+    88         20
+   112         99
+   114         36
+   116         10

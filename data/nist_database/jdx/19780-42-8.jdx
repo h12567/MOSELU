@@ -1,0 +1,43 @@
+##TITLE=Library Entry 20407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Heptanol, 3-ethyl-
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=19780-42-8
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         11
+    27        170
+    28         73
+    29        190
+    31        100
+    39        102
+    41        236
+    42         56
+    43        422
+    44         57
+    45         69
+    53         36
+    55        999
+    56         60
+    57        132
+    59        239
+    67         16
+    69         38
+    70        143
+    71        121
+    72        221
+    73        622
+    74         26
+    83         95
+    84         18
+    97         19
+    99         11
+   101        117

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 77529
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(4-Nitrobenzoyl)-4-chloro-benzamidoxime
+##MOLFORM=C14H10ClN3O4
+##CAS REGISTRY NO=86339-25-5
+##MP= -300
+##BP= -300
+##MW= 319
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    76        588
+   102        463
+   104        999
+   111        631
+   113        209
+   119         40
+   120        788
+   137        751
+   139        249
+   150        169
+   153        691
+   155        220
+   165        119
+   169        239
+   171         79
+   238        141
+   273        520
+   275        190
+   284        100
+   301         69
+   303         31
+   319         90
+   321         29

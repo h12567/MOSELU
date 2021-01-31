@@ -1,0 +1,86 @@
+##TITLE=Library Entry 17250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2007
+##NAMES=HP
+##CAS NAME=3,6,9,12-Tetraoxatetradecan-1-ol
+##MOLFORM=C10H22O5
+##CAS REGISTRY NO=5650-20-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=1514
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15         12
+    19         14
+    26          7
+    27         55
+    28         63
+    29        121
+    30         12
+    31        126
+    33          2
+    41         15
+    42         17
+    43        123
+    44         95
+    45        999
+    46         22
+    47          4
+    55          3
+    56          3
+    57         15
+    58         56
+    59        191
+    60         12
+    61          8
+    62          1
+    63          1
+    69          1
+    70          9
+    71          9
+    72        218
+    73        250
+    74         14
+    75         24
+    76          2
+    77         11
+    85          1
+    86          6
+    87         94
+    88         55
+    89        219
+    90         14
+    91          3
+    99          1
+   100          2
+   101         25
+   102         12
+   103         76
+   104          7
+   105          1
+   107          1
+   115          2
+   116         16
+   117         41
+   118          3
+   119         10
+   120          1
+   121          1
+   129          1
+   131          4
+   132          1
+   133         27
+   134          2
+   135         12
+   136          1
+   145          1
+   147          5
+   148          1
+   149          1
+   161          1
+   163          4
+   164          1
+   179          1

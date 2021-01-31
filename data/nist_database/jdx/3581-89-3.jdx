@@ -1,0 +1,64 @@
+##TITLE=Library Entry 72198
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Thiazole, 5-methyl-
+##MOLFORM=C4H5NS
+##CAS REGISTRY NO=3581-89-3
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=854
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    25          9
+    26         21
+    27        110
+    30         23
+    33         12
+    34         11
+    35          4
+    36          8
+    37         72
+    38         89
+    39        225
+    40         11
+    41         13
+    45        161
+    46         62
+    47         18
+    48         10
+    49          9
+    50         37
+    51         32
+    52         14
+    53        120
+    54         54
+    57         41
+    58         21
+    59        165
+    60         64
+    61         10
+    62          5
+    63          5
+    64         11
+    65          3
+    66         15
+    67          4
+    68          3
+    69         27
+    70         20
+    71        426
+    72        273
+    73         30
+    74          8
+    76          4
+    82          1
+    83          2
+    84         16
+    98        221
+    99        999
+   100         54
+   101         32

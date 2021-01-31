@@ -1,0 +1,41 @@
+##TITLE=Library Entry 54852
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.D.Bowen ET AL, Org. Mass Spectrom., 26,421(1991)
+##NAMES=HP
+##CAS NAME=3-Methoxy-2-methyl-1-pentene
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=108811-45-6
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39         10
+    40         20
+    41        150
+    42         20
+    43         50
+    45         80
+    53         40
+    54         10
+    55        430
+    56         30
+    57         20
+    58         10
+    59         10
+    68         40
+    69         30
+    71         10
+    72          5
+    73        110
+    82          5
+    83         30
+    84         10
+    85        999
+    86         70
+   113          5
+   114        110
+   115         10

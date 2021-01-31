@@ -1,0 +1,59 @@
+##TITLE=Library Entry 70415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.ARDREY HOME OFFICE, RES. EST., ALDERMASTON, BERKS.,
+ U.K.
+##NAMES=HP
+##CAS NAME=1-Phosphetanamine, 2,2,3,4,4-pentamethyl-N-phenyl-, 1-oxide
+##MOLFORM=C14H22NOP
+##CAS REGISTRY NO=50378-02-4
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    29         60
+    30         30
+    39         60
+    40         80
+    41        210
+    42         70
+    43         90
+    47         50
+    55        400
+    57        150
+    69        190
+    70        110
+    77         70
+    78        110
+    84        110
+    93        130
+    97        999
+   112        450
+   115        110
+   118        110
+   119         80
+   122        190
+   123        840
+   124        110
+   126        130
+   130         80
+   132        110
+   134        710
+   138         70
+   139        130
+   140        270
+   141         80
+   147         60
+   148         70
+   160         40
+   161         50
+   166        110
+   173         90
+   180         50
+   181        380
+   183        110
+   236        130
+   251        470

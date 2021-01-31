@@ -1,0 +1,33 @@
+##TITLE=Library Entry 16105
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Seebach, Lab. Org. Chem., Swiss Tech. Univ., Zurich,
+ Switzerland
+##NAMES=HP
+##CAS NAME=Benzenemethanamine, 4-methoxy-N,N-dimethyl-.alpha.-(dimethylamino
+)-
+##MOLFORM=C12H20N2O
+##CAS REGISTRY NO=122687-84-7
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    42        300
+    43        150
+    44        999
+    45        520
+    58        200
+    77        170
+   121        580
+   135        320
+   136        210
+   148        170
+   150        110
+   162        310
+   163        140
+   164        390
+   208        370
+   209         50

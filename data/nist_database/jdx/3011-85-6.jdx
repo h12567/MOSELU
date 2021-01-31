@@ -1,0 +1,80 @@
+##TITLE=Library Entry 17280
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butane, 1,2,3,4-tetramethoxy-
+##MOLFORM=C8H18O4
+##CAS REGISTRY NO=3011-85-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         26
+    29         99
+    30          6
+    31         99
+    33         15
+    38          0
+    39         17
+    40          0
+    41         74
+    42         11
+    43         72
+    44          3
+    45        999
+    46         26
+    47         32
+    48          0
+    51          0
+    52          0
+    53          5
+    54          2
+    55         11
+    56          6
+    57         10
+    58        266
+    59        341
+    60         10
+    61          1
+    68          2
+    69          5
+    70          1
+    71        103
+    72         17
+    73         71
+    74         14
+    75        372
+    76         10
+    77          1
+    80          0
+    83          2
+    84          1
+    85          6
+    86          0
+    87          7
+    88        162
+    89        162
+    90          7
+    91          0
+    99          1
+   100          0
+   101        245
+   102         16
+   103         30
+   104          1
+   114          0
+   115          3
+   116          0
+   117          0
+   119         69
+   120          4
+   121          0
+   132          0
+   133         46
+   134          3
+   146          5

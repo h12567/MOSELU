@@ -1,0 +1,44 @@
+##TITLE=Library Entry 70922
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(Methoxy-methyl)piperidine
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=18811-61-5
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        397
+    42        465
+    43        202
+    44        218
+    45        966
+    54         30
+    55        400
+    56        110
+    57         79
+    58         59
+    59         10
+    60         30
+    67         20
+    68        131
+    69        168
+    70        120
+    72         60
+    81         20
+    82         70
+    83         30
+    84        158
+    85         39
+    94         19
+    96        189
+    97        149
+    98        999
+    99        230
+   128        398
+   129        280

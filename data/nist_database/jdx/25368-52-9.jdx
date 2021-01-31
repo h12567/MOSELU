@@ -1,0 +1,53 @@
+##TITLE=Library Entry 4528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. DE HOFFMANN, LAB. MASS SPECTROM., UNIV. LOUVAIN, BEL
+GIUM
+##NAMES=HP
+##CAS NAME=Propenal dimethylhydrazone
+##MOLFORM=C5H10N2
+##CAS REGISTRY NO=25368-52-9
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    36         57
+    37         24
+    38         68
+    39        260
+    40        363
+    41        398
+    42        999
+    43        841
+    44        297
+    45         85
+    49         21
+    50         22
+    51         37
+    52         33
+    53         38
+    54         53
+    55         59
+    56        226
+    57         86
+    58         77
+    65         26
+    66         37
+    67         48
+    68         39
+    69         35
+    70         36
+    71         29
+    73         83
+    77         24
+    78         17
+    81         16
+    82         20
+    83        322
+    84         31
+    97         26
+    98        203
+    99         18

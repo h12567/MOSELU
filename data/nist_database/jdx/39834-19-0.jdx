@@ -1,0 +1,43 @@
+##TITLE=Library Entry 49195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Isopropylidenecyclobutenone
+##MOLFORM=C7H8O
+##CAS REGISTRY NO=39834-19-0
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        276
+    29        228
+    38        164
+    39        805
+    40        493
+    41        135
+    50        177
+    51        246
+    52        192
+    53        168
+    54        164
+    63        219
+    64         53
+    65        755
+    66        138
+    67        231
+    71         63
+    77        282
+    78         92
+    79        999
+    80        551
+    82         55
+    85         30
+    91         37
+    93        273
+   107         35
+   108        891
+   109         75

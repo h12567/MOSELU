@@ -1,0 +1,76 @@
+##TITLE=Library Entry 38283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. UTILIZATION R & D DIV., U.S. DEPT. OF AGRIC., ALBANY
+, CAL.
+##NAMES=HP
+##CAS NAME=Butyric acid, thio-, S-decyl ester
+##MOLFORM=C14H28OS
+##CAS REGISTRY NO=2432-55-5
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    28         24
+    29         23
+    39         14
+    40          4
+    41        107
+    42         20
+    43        411
+    44         12
+    45          7
+    46          3
+    47         12
+    53          4
+    54          5
+    55         77
+    56         18
+    57         68
+    58          5
+    59          4
+    60          7
+    61         12
+    67          9
+    68          5
+    69         31
+    70         18
+    71        999
+    72         49
+    73          7
+    81          6
+    82          5
+    83         22
+    84          7
+    85         12
+    86          6
+    87         13
+    97         12
+    98          4
+    99          7
+   100          8
+   101          6
+   103          6
+   104          9
+   105         21
+   111          5
+   113          6
+   114          6
+   128          6
+   129          5
+   140         51
+   141         19
+   142          7
+   146          3
+   156          3
+   160          3
+   172         20
+   173         39
+   174          6
+   184         16
+   201          3
+   226          2
+   244         25

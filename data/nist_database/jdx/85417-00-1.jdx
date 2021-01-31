@@ -1,0 +1,45 @@
+##TITLE=Library Entry 31663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KECK, INST. ANORG. CHEM. STRUKT., UNIV. DUSSELDORF,
+ W. GER.
+##NAMES=HP
+##CAS NAME=Divinyldithiophosphinic acid
+##MOLFORM=C4H7PS2
+##CAS REGISTRY NO=85417-00-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    45         59
+    55         59
+    56         52
+    57        226
+    58         48
+    59         93
+    60         37
+    61         33
+    63        999
+    64         74
+    65        141
+    83        122
+    85        104
+    87        274
+    89         22
+    90        281
+    91        252
+    92         37
+    95         44
+    96         30
+   117        500
+   118         33
+   119         26
+   123         37
+   124         33
+   126         15
+   150        741
+   151         56
+   152         78

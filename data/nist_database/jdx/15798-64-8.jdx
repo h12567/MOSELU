@@ -1,0 +1,44 @@
+##TITLE=Library Entry 37007
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butenal, (Z)-
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=15798-64-8
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=1035
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    14         18
+    15         62
+    17         18
+    18         23
+    25         23
+    26         98
+    27        205
+    29        194
+    31        208
+    32         10
+    36         10
+    37        105
+    38        155
+    39        873
+    40        145
+    41        118
+    42        176
+    43         36
+    44         52
+    45         18
+    46         13
+    49         16
+    50         42
+    52         16
+    53         10
+    68         26
+    69        459
+    70        999
+    71         67

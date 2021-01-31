@@ -1,0 +1,66 @@
+##TITLE=Library Entry 27785
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Piperazine, 1-methyl-
+##MOLFORM=C5H12N2
+##CAS REGISTRY NO=109-01-3
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=843
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          4
+    14         27
+    15        180
+    16          2
+    17          1
+    26         45
+    27        138
+    28        386
+    29        187
+    30        160
+    31          4
+    37          1
+    38          6
+    39         17
+    40         38
+    41        128
+    42        573
+    43        472
+    44        156
+    45         16
+    48          3
+    49          5
+    50          1
+    51          3
+    52         10
+    53          1
+    54         39
+    55          1
+    56        232
+    57        142
+    58        999
+    59         36
+    66          1
+    67          2
+    68          7
+    69         10
+    70         46
+    71         23
+    72          3
+    73          2
+    81          6
+    82          3
+    83         14
+    84          6
+    85          4
+    95          1
+    97          5
+    98          5
+   100        313
+   101         21

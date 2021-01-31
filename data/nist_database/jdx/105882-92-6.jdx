@@ -1,0 +1,38 @@
+##TITLE=Library Entry 34848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. Shreeve, Dep. Chem., Univ. Idaho, Moscow, Idaho, U
+SA
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N,N,N'-trichloro-N',1,1,2,2-pentafluoro-
+##MOLFORM=C2Cl3F5N2
+##CAS REGISTRY NO=105882-92-6
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    49        324
+    50         92
+    51        118
+    64         75
+    69        999
+    80        220
+    82         62
+    84        212
+    86        127
+    88         19
+    99        231
+   100         51
+   101         74
+   114         59
+   134         89
+   136         60
+   138          9
+   184         14
+   186          7
+   252         26
+   254         25
+   256          5

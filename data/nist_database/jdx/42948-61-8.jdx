@@ -1,0 +1,70 @@
+##TITLE=Library Entry 40167
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. M. DESIDERIO
+##NAMES=HP
+##CAS NAME=Propanediamide, 2-ethyl-N,N,N',N'-tetramethyl-2-phenyl-
+##MOLFORM=C15H22N2O2
+##CAS REGISTRY NO=42948-61-8
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        110
+    42         60
+    43        160
+    44         50
+    45         20
+    51         40
+    55        140
+    56         80
+    57        190
+    58         90
+    63         30
+    65         30
+    67         50
+    68         20
+    69        110
+    70         50
+    71        120
+    72        999
+    73         40
+    77         90
+    78         50
+    79         20
+    81         70
+    82         40
+    83        100
+    84         30
+    85        100
+    87         20
+    89         50
+    90         20
+    91        150
+    92         20
+    95         80
+    96         30
+    97         90
+    98         20
+   115         80
+   116         30
+   117        220
+   118        140
+   119         30
+   120        120
+   121         30
+   146        160
+   147         30
+   162        180
+   163         30
+   177        140
+   178         20
+   190        200
+   191         50
+   218         20
+   247         20
+   262        190
+   263         30

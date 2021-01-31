@@ -1,0 +1,39 @@
+##TITLE=Library Entry 98332
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-Methyl-1-phenylcyclobutane
+##MOLFORM=C11H14
+##CAS REGISTRY NO=7306-05-0
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    51        100
+    52         11
+    63         35
+    64         12
+    65         40
+    77        140
+    78        150
+    79         10
+    91        130
+    92         10
+   102         20
+   103        190
+   104         30
+   105         10
+   115         80
+   116         50
+   117        320
+   118        999
+   119        110
+   131        140
+   132         10
+   146        140
+   147         17
+   148          1

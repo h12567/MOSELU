@@ -1,0 +1,81 @@
+##TITLE=Library Entry 3558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Heptanone, semicarbazone
+##MOLFORM=C8H17N3O
+##CAS REGISTRY NO=3622-68-2
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    40         70
+    41        999
+    42        290
+    43        440
+    44        510
+    45         40
+    50         20
+    51         20
+    52         20
+    53        110
+    54        200
+    55        300
+    56        100
+    57        180
+    58         80
+    59         20
+    60         70
+    61        140
+    62         10
+    63         20
+    64         20
+    65         30
+    66         20
+    67         60
+    68        190
+    69        110
+    70        330
+    71         70
+    72        850
+    73         50
+    74        120
+    75         20
+    77         20
+    79         10
+    80         20
+    81         30
+    82         40
+    85        320
+    86         40
+    87         30
+    96        130
+    97         40
+    98         60
+    99         50
+   100        320
+   101         40
+   102         20
+   110         20
+   111        110
+   112        120
+   113        220
+   114         30
+   115        420
+   116         30
+   126         20
+   127         30
+   128        490
+   129         50
+   139         50
+   143        270
+   144         30
+   156        100
+   157         20
+   171        260
+   172        100

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 86301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Dimethyl-1-silacyclo-2,4-hexadiene
+##MOLFORM=C7H12Si
+##CAS REGISTRY NO=52023-18-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    28         10
+    29         20
+    30         20
+    31         50
+    39         30
+    40         20
+    41         10
+    43        210
+    44         20
+    45         60
+    55         50
+    57         20
+    58         60
+    59        320
+    60         50
+    61         30
+    65         20
+    66        170
+    67         50
+    69         50
+    72         30
+    73         70
+    81        200
+    82         30
+    83        170
+    84         20
+    85         20
+    91         20
+    93         60
+    95         60
+    96         50
+    97         20
+    98         50
+    99         20
+   108         20
+   109        999
+   110        110
+   111         50
+   123         40
+   124        370
+   125         50
+   126         20

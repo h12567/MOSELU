@@ -1,0 +1,50 @@
+##TITLE=Library Entry 882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Methyl-2-aminomethylimidazole
+##MOLFORM=C5H9N3
+##CAS REGISTRY NO=124312-73-8
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        231
+    28        891
+    29        114
+    30        999
+    39        102
+    40        239
+    41        236
+    42        660
+    51         63
+    52        166
+    53         94
+    54        291
+    55        201
+    56        121
+    66         31
+    67         54
+    68         48
+    69        241
+    70         12
+    79         11
+    80          9
+    81        246
+    82        125
+    83        393
+    84         24
+    93         18
+    94        217
+    95        208
+    96        305
+    97         17
+   108         13
+   109          7
+   110        251
+   111        617
+   112         53

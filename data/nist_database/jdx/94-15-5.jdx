@@ -1,0 +1,26 @@
+##TITLE=Library Entry 56666
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=1-Propanol, 3-(diethylamino)-2,2-dimethyl-, p-aminobenzoate (este
+r)
+##MOLFORM=C16H26N2O2
+##CAS REGISTRY NO=94-15-5
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=2108
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41          8
+    42          8
+    56         21
+    58         29
+    65          9
+    84         20
+    86        999
+    87         41
+    92         20
+   120         70

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 15945
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N. DE KIMPE, LAB. ORG. CHEM., UNIV. GENT, BELGIUM
+##NAMES=HP
+##CAS NAME=N-Isopropyl-3-phenylpropanamide
+##MOLFORM=C12H17NO
+##CAS REGISTRY NO=56146-87-3
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        100
+    40        220
+    41        140
+    42         80
+    43        400
+    44        999
+    51        100
+    57        100
+    58        260
+    60         60
+    65        100
+    77        160
+    78        100
+    79         80
+    86         60
+    91        480
+   100        320
+   103         80
+   104        200
+   105        340
+   106        100
+   191        380

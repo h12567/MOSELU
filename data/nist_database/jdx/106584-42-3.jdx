@@ -1,0 +1,50 @@
+##TITLE=Library Entry 49133
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.O. KOCHKANIAN,INST. PHYS.-ORG. CHEM.,ACAD. SCI. UKRAI
+NE,USSR
+##NAMES=HP
+##CAS NAME=5-Formyl-4-(1-pyridinio)thiazol-2-olate .alpha.,.alpha.-methylphe
+nylhydrazone
+##MOLFORM=C16H14N4OS
+##CAS REGISTRY NO=106584-42-3
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    50        220
+    51        410
+    52        320
+    56         80
+    60        260
+    63        110
+    64        100
+    65        210
+    67         90
+    70        120
+    77        100
+    78        550
+    79        999
+    80        500
+    91         90
+    92        160
+    93        140
+   104        180
+   105        440
+   106        990
+   107        690
+   108         80
+   133        160
+   134         50
+   144        410
+   158        180
+   159        170
+   177        120
+   204        480
+   205        120
+   250        340
+   251         70
+   310         40

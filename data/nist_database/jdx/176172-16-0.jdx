@@ -1,0 +1,58 @@
+##TITLE=Library Entry 1827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Spiro[7,8-diazatetracyclo[4.3.0.0(2,4).0(3,5)]non-7-ene-9,1'-cycl
+opropane]
+##MOLFORM=C9H10N2
+##CAS REGISTRY NO=176172-16-0
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        999
+    40        121
+    41         40
+    43          3
+    44          2
+    45          3
+    50        263
+    51        281
+    52        207
+    53         47
+    54          6
+    55          2
+    57         31
+    62        276
+    65        194
+    66         22
+    67          3
+    68          1
+    74         28
+    75         21
+    78        834
+    79         43
+    84          1
+    86          9
+    87          8
+    89        130
+    90        141
+    91        326
+    92         38
+    93          2
+    98          1
+   102         30
+   103         66
+   104          7
+   105          1
+   115        250
+   116         59
+   117        236
+   118         25
+   119          3
+   146          9
+   147          1

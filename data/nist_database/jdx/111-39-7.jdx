@@ -1,0 +1,48 @@
+##TITLE=Library Entry 39598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N-propyl-
+##MOLFORM=C5H14N2
+##CAS REGISTRY NO=111-39-7
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    15          8
+    18         26
+    26          2
+    27         70
+    28        130
+    29         24
+    30        830
+    31         16
+    32         17
+    39         37
+    40         12
+    41        172
+    42        122
+    43        273
+    44        395
+    45         12
+    54          9
+    55          3
+    56         44
+    57          8
+    58         33
+    59          3
+    67          1
+    68          6
+    69          2
+    70         19
+    71         10
+    72        999
+    73         85
+    84          1
+    85          3
+   102         24
+   103          3

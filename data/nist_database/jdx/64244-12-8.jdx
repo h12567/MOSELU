@@ -1,0 +1,53 @@
+##TITLE=Library Entry 57870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 5,6-di-O-acetyl-2,3-di-O-methyl-.alpha.-D-mannofuranoside
+##MOLFORM=C13H22O8
+##CAS REGISTRY NO=64244-12-8
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    43        499
+    45        199
+    71        126
+    73        113
+    74        117
+    75        689
+    85        131
+    87         72
+    88        999
+    89         30
+   101        329
+   111         22
+   112         54
+   113         63
+   116         43
+   117         43
+   127         22
+   129         46
+   141         58
+   145        117
+   155         17
+   161        140
+   169          8
+   172          9
+   173         13
+   177         13
+   183          8
+   201         31
+   204          3
+   211          1
+   214         10
+   215          7
+   231          6
+   233         33
+   243          3
+   246          2
+   247          1
+   275          9

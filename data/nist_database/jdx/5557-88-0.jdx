@@ -1,0 +1,67 @@
+##TITLE=Library Entry 51139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Penten-4-yn-1-ol
+##MOLFORM=C5H6O
+##CAS REGISTRY NO=5557-88-0
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    12         18
+    13         20
+    14         17
+    15         25
+    17         23
+    18         17
+    19          4
+    21          8
+    22          5
+    24          5
+    25         26
+    26        129
+    27        432
+    28        146
+    29        269
+    30         37
+    31          1
+    33          2
+    34          5
+    36          6
+    37         35
+    38        131
+    39        212
+    40        752
+    41         42
+    42         12
+    43         42
+    44         49
+    48         10
+    49         22
+    50        159
+    51        419
+    52        421
+    53        173
+    54        881
+    55        560
+    56        140
+    57         17
+    59         21
+    60          8
+    61         29
+    62        105
+    63        123
+    64        219
+    65         94
+    66         53
+    75          5
+    76          4
+    79          3
+    81         19
+    82        999
+    83         83

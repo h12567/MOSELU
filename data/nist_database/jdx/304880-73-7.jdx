@@ -1,0 +1,65 @@
+##TITLE=Library Entry 4460
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,3,5-Triazaadamantane, 7-(2,4-dichlorobenzylidenamino)-
+##MOLFORM=C14H16Cl2N4
+##CAS REGISTRY NO=304880-73-7
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    36          2
+    39         30
+    40         37
+    41        166
+    42        999
+    43         62
+    50         17
+    51         20
+    52          3
+    54          6
+    55         13
+    56         67
+    57          2
+    63          5
+    68          5
+    69         14
+    74          3
+    75         10
+    77          3
+    78         14
+    91          4
+    99          2
+   106          6
+   109          3
+   115          3
+   123         18
+   135          3
+   136         23
+   137          6
+   138         13
+   159          3
+   171         21
+   172         25
+   173         13
+   174         18
+   178         22
+   180          5
+   212          6
+   213         27
+   214          2
+   215          9
+   239          8
+   240          9
+   241          4
+   242          5
+   268          2
+   282         14
+   284          8
+   310         12
+   312          6

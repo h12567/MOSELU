@@ -1,0 +1,48 @@
+##TITLE=Library Entry 60665
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=2-Propanone, 1-[2-acetyl-3,5-bis(benzyloxy)phenyl]-
+##MOLFORM=C25H24O4
+##CAS REGISTRY NO=99678-08-7
+##MP= -300
+##BP= -300
+##MW= 388
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    39         11
+    41          6
+    43         40
+    51          5
+    63          5
+    65         67
+    89          8
+    91        999
+    92         75
+   165          7
+   166          7
+   167          6
+   179          8
+   180         29
+   181         75
+   182         11
+   213          5
+   237          5
+   255         26
+   279         22
+   280         16
+   281          6
+   283          8
+   297         18
+   345          7
+   346         24
+   347          6
+   370         21
+   371          7
+   373         49
+   374         13
+   388         37
+   389         10

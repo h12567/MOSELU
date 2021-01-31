@@ -1,0 +1,36 @@
+##TITLE=Library Entry 5400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butanone, O-1,2-benzisothiazol-3-yloxime 1,1-dioxide
+##MOLFORM=C11H12N2O3S
+##CAS REGISTRY NO=13604-36-9
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41          5
+    42        999
+    43         20
+    57          5
+    58         20
+    69         10
+    70        350
+    71         40
+   111          5
+   119         10
+   120         30
+   140         20
+   141         10
+   146          5
+   183         70
+   209         10
+   223        740
+   224         80
+   225         30
+   237          3
+   252         10

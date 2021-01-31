@@ -1,0 +1,35 @@
+##TITLE=Library Entry 32345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2-Pentyn-4-one
+##MOLFORM=C5H6O
+##CAS REGISTRY NO=7299-55-0
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    15         50
+    26         20
+    27         40
+    28         20
+    37         40
+    38         50
+    39        230
+    40          8
+    42         30
+    43         80
+    44          3
+    50         20
+    51         20
+    53         20
+    60         20
+    66         30
+    67        999
+    68         40
+    82        140
+    83          8

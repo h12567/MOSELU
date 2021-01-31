@@ -1,0 +1,68 @@
+##TITLE=Library Entry 38730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Hepten-4-ol, 4-propyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=62108-07-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27        155
+    28         14
+    29        102
+    30         14
+    31         32
+    32          2
+    39        243
+    40         56
+    41        452
+    42         80
+    43        604
+    44         23
+    45         45
+    50         12
+    51         42
+    52         25
+    53        107
+    54         12
+    55        931
+    56         49
+    57         69
+    58         48
+    59        145
+    63         13
+    65         74
+    66         36
+    67        392
+    68         50
+    69        112
+    70         13
+    71        999
+    72         48
+    73        250
+    74         14
+    77         84
+    78         19
+    79        110
+    80         25
+    81        177
+    82         46
+    83         19
+    91         36
+    93         35
+    95        400
+    96         45
+    97        109
+   109         40
+   113         91
+   115        597
+   116         43
+   123         22
+   138         85
+   139          9

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 23723
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,2,4,4-Tetramethyloctane
+##MOLFORM=C12H26
+##CAS REGISTRY NO=62183-79-3
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    27         30
+    28          5
+    29         64
+    32          1
+    39         40
+    41        202
+    42         17
+    43        105
+    44          3
+    51          2
+    53         17
+    55         88
+    56        152
+    57        999
+    58         42
+    65          3
+    67          8
+    69         26
+    70         48
+    71         29
+    77          2
+    79          3
+    81          2
+    83         17
+    84          2
+    85          9
+    97          9
+    98         48
+    99        177
+   100         13
+   112         26
+   113         60
+   114          5

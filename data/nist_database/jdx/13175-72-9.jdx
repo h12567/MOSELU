@@ -1,0 +1,35 @@
+##TITLE=Library Entry 36763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M.MILLER BROCK UNIV., ST. CATHARINES, ONTARIO, CANADA
+##NAMES=HP
+##CAS NAME=Phosphonous difluoride, (pentafluorophenyl)-
+##MOLFORM=C6F7P
+##CAS REGISTRY NO=13175-72-9
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    31         45
+    50         17
+    69        999
+    79         95
+    81         30
+    88         14
+    93         62
+    98        168
+    99         24
+   110         25
+   117        172
+   129        135
+   148        470
+   149         33
+   167         20
+   168         31
+   198          2
+   217        104
+   236        910
+   237         63

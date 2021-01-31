@@ -1,0 +1,62 @@
+##TITLE=Library Entry 19002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 2-chlorodecanoate
+##MOLFORM=C11H20Cl2O2
+##CAS REGISTRY NO=80418-79-7
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=1612
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    36         30
+    39        589
+    41        865
+    42        189
+    43        547
+    49         70
+    53        129
+    54        189
+    55        999
+    56        159
+    57        369
+    67        359
+    68        229
+    69        519
+    70         49
+    71        109
+    72         39
+    73        108
+    79        148
+    81        330
+    82        160
+    83        228
+    84        199
+    85        120
+    93         49
+    95        159
+    96         79
+    97         80
+    98        178
+   105         39
+   106        149
+   108         20
+   109         49
+   110        179
+   111        109
+   112        129
+   119         39
+   121         40
+   123        109
+   124         29
+   132         39
+   134         49
+   135         29
+   142        180
+   152         99
+   153         30
+   189         40

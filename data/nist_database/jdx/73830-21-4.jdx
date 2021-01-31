@@ -1,0 +1,60 @@
+##TITLE=Library Entry 30019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methyl-N-methoxycarbonylcarbamic acid methyl ester
+##MOLFORM=C6H9NO5
+##CAS REGISTRY NO=73830-21-4
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15        375
+    16         12
+    18         75
+    27         60
+    28        255
+    29        210
+    30        135
+    31         90
+    32         15
+    33         30
+    41         30
+    42         90
+    43        121
+    44        255
+    45        270
+    46         19
+    51         30
+    52         45
+    53         11
+    56        105
+    57         90
+    58        735
+    59        999
+    60         75
+    61         30
+    72        735
+    73         45
+    74        405
+    75         30
+    79         75
+    80         15
+    88        105
+    89        495
+    90         75
+    91         30
+   100         30
+   103         90
+   104          8
+   116        495
+   117         38
+   118         38
+   144         45
+   147         15
+   175         45
+   176          9

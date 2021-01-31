@@ -1,0 +1,50 @@
+##TITLE=Library Entry 33458
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptan-2-one, 6-methyl-
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=14845-41-1
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    42        200
+    43         50
+    44         30
+    50         20
+    51         60
+    52         30
+    53        250
+    54        100
+    55        370
+    56         50
+    57         20
+    63         30
+    65         40
+    66         50
+    67        600
+    68        999
+    69        120
+    77         50
+    78         10
+    79         70
+    80         70
+    81        600
+    82        130
+    83         20
+    91         50
+    92         30
+    93        100
+    94         20
+    95        140
+    96        250
+    97         40
+   105         40
+   109         70
+   124        450
+   125         60

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 84507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Freeman
+##NAMES=HP
+##CAS NAME=4-Nonylphenol
+##MOLFORM=C15H24O
+##CAS REGISTRY NO=104-40-5
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=1877
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    55          9
+    65          6
+    77         38
+    78         10
+    79          8
+    91         10
+    94         12
+   107        999
+   108         98
+   109          8
+   120         15
+   121          7
+   133          7
+   220        189
+   221         32

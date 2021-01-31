@@ -1,0 +1,36 @@
+##TITLE=Library Entry 21509
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ETHYL CORPORATION, FERNDALE, MICHIGAN
+##NAMES=HP
+##CAS NAME=Manganese, tricarbonyl[(1,2,3,4,5-.eta.)-1-methyl-2,4-cyclopentad
+ien-1-yl]-
+##MOLFORM=C9H7MnO3
+##CAS REGISTRY NO=12108-13-3
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         33
+    28         44
+    29         11
+    39         35
+    41         11
+    51         19
+    53         18
+    55        999
+    56        423
+    67         33
+    77         93
+    78         23
+    79        385
+    80        121
+    81         50
+    93         20
+   134        834
+   162        186
+   190         23
+   218        104

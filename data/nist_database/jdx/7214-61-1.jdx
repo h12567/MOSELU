@@ -1,0 +1,40 @@
+##TITLE=Library Entry 78883
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, (1-nitroethyl)-
+##MOLFORM=C8H9NO2
+##CAS REGISTRY NO=7214-61-1
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    18         20
+    27         50
+    28         20
+    30         20
+    39         50
+    43         20
+    50         50
+    51        130
+    52         30
+    53         20
+    63         40
+    65         20
+    74         10
+    75         10
+    76         20
+    77        280
+    78         90
+    79        250
+    89         10
+    91         10
+   102         20
+   103        170
+   104         80
+   105        999
+   106        100

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 79144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7992
+##NAMES=HP
+##CAS NAME=4-Oxobicyclo(3.2.2)nona-2,6-dien-3-yl benzoate
+##MOLFORM=C16H14O3
+##CAS REGISTRY NO=73830-86-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27          3
+    28          5
+    39          5
+    41          2
+    50          4
+    51         19
+    52          2
+    53          2
+    55          3
+    65          4
+    75          1
+    76          4
+    77        148
+    78         11
+    79          4
+    80          2
+    91          6
+    92          1
+    93          3
+   103          1
+   104          2
+   105        999
+   106         78
+   107          4
+   121          2
+   132         34
+   133          3
+   226          1
+   254         77
+   255         13
+   256          1

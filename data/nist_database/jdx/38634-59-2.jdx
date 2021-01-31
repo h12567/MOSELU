@@ -1,0 +1,24 @@
+##TITLE=Library Entry 8289
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2351(1978); P. DUBS AND R. STUSSI
+##NAMES=HP
+##CAS NAME=Ethanethioic acid, S-[(methylthio)methyl] ester
+##MOLFORM=C4H8OS2
+##CAS REGISTRY NO=38634-59-2
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    35        100
+    43        999
+    45        340
+    46        130
+    61        420
+    63         30
+    77         10
+    94         50
+   136         50

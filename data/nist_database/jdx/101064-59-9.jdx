@@ -1,0 +1,81 @@
+##TITLE=Library Entry 20984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.S. Ahmad, Dep. Chem., Aligarh Muslim Univ., Aligarh,
+ India
+##NAMES=HP
+##CAS NAME=3.beta.-Acetoxy-6-aza-B-homo-5.alpha.-stigmastano[6,7-d]tetrazole
+##MOLFORM=C31H52N4O2
+##CAS REGISTRY NO=101064-59-9
+##MP= -300
+##BP= -300
+##MW= 512
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    55        999
+    57        600
+    65        454
+    67        464
+    69        464
+    71        320
+    79        366
+    81        466
+    83        300
+    91        774
+    93        600
+    94        566
+    95        566
+   103        160
+   105        200
+   106        153
+   119         93
+   121        130
+   131         66
+   133         53
+   157        133
+   161         60
+   163         53
+   173         60
+   175         60
+   179         73
+   188        100
+   191         80
+   201         40
+   215         20
+   217         20
+   271         46
+   275         86
+   285         36
+   288         40
+   311         46
+   330        143
+   331        266
+   332        110
+   344        160
+   345        300
+   346        120
+   358         66
+   359        153
+   360         53
+   369         50
+   371        200
+   372         66
+   399         83
+   400         27
+   410         50
+   413        133
+   414         50
+   424         33
+   427         50
+   428         26
+   437         60
+   452         53
+   453         46
+   469        146
+   484         66
+   497        366
+   512        399
+   513        142
+   514         23

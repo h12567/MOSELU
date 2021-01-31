@@ -1,0 +1,43 @@
+##TITLE=Library Entry 3719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.C.LING THE SALK INST., SAN DIEGO, CALIFORNIA, USA
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinecarboxamide, 5-oxo-, (S)-
+##MOLFORM=C5H8N2O2
+##CAS REGISTRY NO=16395-57-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        310
+    43        160
+    44        560
+    45        300
+    46         20
+    51         30
+    52         90
+    53         70
+    54        460
+    55        620
+    56        120
+    57         20
+    66        180
+    67         30
+    68         20
+    69         30
+    72        110
+    73         80
+    82         40
+    83        180
+    84        999
+    85        520
+    86         50
+   100         30
+   110         20
+   128        210
+   129         14

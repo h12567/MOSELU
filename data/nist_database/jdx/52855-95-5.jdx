@@ -1,0 +1,35 @@
+##TITLE=Library Entry 90736
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., U
+##NAMES=HP
+##CAS NAME=O-Methyl N-tert-butylacetimidate
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=52855-95-5
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    15        130
+    27         90
+    28         90
+    29        190
+    39        110
+    41        320
+    42        530
+    43        310
+    55         50
+    56        110
+    57        320
+    58         50
+    72         90
+    73        110
+    74        170
+    82         60
+   114        999
+   115         60
+   129        150

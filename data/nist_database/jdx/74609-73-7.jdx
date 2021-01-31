@@ -1,0 +1,27 @@
+##TITLE=Library Entry 24755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.W. ZAJAC, DEP. CHEM., UNIV. VILLANOVA, VILLANOVA, PA.
+, USA
+##NAMES=HP
+##CAS NAME=cis-2-Nitro-4-t-butylcyclohexanone
+##MOLFORM=C10H17NO3
+##CAS REGISTRY NO=74609-73-7
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    55        295
+    57        999
+    69        185
+   123         33
+   124         30
+   125         68
+   139         13
+   151          6
+   152          7
+   153         10
+   199         19

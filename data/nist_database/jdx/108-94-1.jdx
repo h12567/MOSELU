@@ -1,0 +1,52 @@
+##TITLE=Library Entry 19575
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanone
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=108-94-1
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=894
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         11
+    26         57
+    27        187
+    28         18
+    29         49
+    37         26
+    38         63
+    39        360
+    40         88
+    41        375
+    42        756
+    43         84
+    44         19
+    49          7
+    50         39
+    51         42
+    52         17
+    53         63
+    54          7
+    55        999
+    56        116
+    57         12
+    61          7
+    62         10
+    63         11
+    65         10
+    67         15
+    69        329
+    70        259
+    71         17
+    74          4
+    79         16
+    80         60
+    83        117
+    84          6
+    98        454
+    99         30

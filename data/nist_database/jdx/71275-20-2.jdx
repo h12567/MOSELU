@@ -1,0 +1,68 @@
+##TITLE=Library Entry 90983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY, INST. ORG. CHEM., UNIV. KARLSRUHE, WEST G
+ERMAN
+##NAMES=HP
+##CAS NAME=3-Acetamido-3-methyldecane
+##MOLFORM=C13H27NO
+##CAS REGISTRY NO=71275-20-2
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         83
+    28         54
+    29        140
+    30         58
+    39         58
+    40         18
+    41        320
+    42        174
+    43        420
+    44        110
+    53         25
+    54         15
+    55        465
+    56        105
+    57        160
+    58         50
+    59         40
+    60        674
+    61         15
+    67         40
+    68         15
+    69        225
+    70        580
+    71        152
+    72        970
+    73         47
+    81         15
+    82         18
+    83        170
+    84         58
+    85         10
+    86         15
+    97         18
+    98         22
+    99         10
+   100         10
+   114        999
+   115         80
+   124         15
+   125        100
+   126         22
+   142        884
+   143         87
+   154         76
+   156         70
+   170         15
+   184        348
+   185         40
+   198         10
+   213          8
+   214          5

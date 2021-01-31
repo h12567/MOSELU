@@ -1,0 +1,84 @@
+##TITLE=Library Entry 2188
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Allyl trifluoroacetate
+##MOLFORM=C5H5F3O2
+##CAS REGISTRY NO=383-67-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=708
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          7
+    14         26
+    15         80
+    16          3
+    17          1
+    18          1
+    19          9
+    20          1
+    24          2
+    25         19
+    26        126
+    27        321
+    28        108
+    29        496
+    30         25
+    31        283
+    32          6
+    33         13
+    37         58
+    38        134
+    39        913
+    40        346
+    41        999
+    42         45
+    43         26
+    44         25
+    45         83
+    46          3
+    47          8
+    50        117
+    51         11
+    52          1
+    53          4
+    54          1
+    55         32
+    57        492
+    58         24
+    59        230
+    60         75
+    61          2
+    64          1
+    66          2
+    69        867
+    70         12
+    73          9
+    74         61
+    75          3
+    77         16
+    78         28
+    79          3
+    80          1
+    83          1
+    85        166
+    86         12
+    87          1
+    91          1
+    95          3
+    97         25
+    99         28
+   106         13
+   114          7
+   115          3
+   125        104
+   126          8
+   127          1
+   134          2
+   154         37
+   155          2

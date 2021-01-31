@@ -1,0 +1,65 @@
+##TITLE=Library Entry 45765
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-Dimethyl(chloromethyl)silyloxypentane
+##MOLFORM=C8H19ClOSi
+##CAS REGISTRY NO=58307-47-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39         42
+    40         21
+    41        153
+    42        132
+    43        118
+    44         39
+    45        117
+    47         45
+    49         21
+    51         20
+    55         42
+    57         21
+    58         21
+    59        102
+    60         15
+    61         49
+    63         41
+    65         24
+    69        110
+    70         28
+    72         22
+    73         28
+    74         21
+    75        999
+    76         84
+    77         45
+    78         24
+    79        181
+    80         29
+    81        111
+    83         28
+    88         19
+    89        133
+    90         18
+    93         73
+    95         86
+    97         28
+    99         26
+   101         52
+   107         79
+   108         21
+   109         35
+   123         26
+   125         12
+   137         32
+   139         12
+   144         21
+   145        709
+   146         91
+   147         27

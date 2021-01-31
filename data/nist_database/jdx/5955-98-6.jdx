@@ -1,0 +1,35 @@
+##TITLE=Library Entry 30268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiirane, 2,3-dimethyl-, trans-
+##MOLFORM=C4H8S
+##CAS REGISTRY NO=5955-98-6
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=746
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    26        114
+    27        420
+    28        123
+    29        358
+    39        380
+    41        222
+    45        682
+    47         82
+    50         66
+    51         58
+    53        182
+    54        222
+    55        730
+    56         95
+    58         95
+    59        999
+    60        619
+    61        111
+    73        174
+    88        753

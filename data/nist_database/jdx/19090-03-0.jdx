@@ -1,0 +1,42 @@
+##TITLE=Library Entry 96396
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Thiopyran-3(4H)-one, dihydro-
+##MOLFORM=C5H8OS
+##CAS REGISTRY NO=19090-03-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=1541
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        120
+    42        290
+    43         60
+    45        160
+    46        250
+    47        100
+    48         10
+    54         30
+    55        210
+    58         10
+    59         60
+    60        380
+    61        260
+    62         20
+    63         10
+    68         40
+    69         30
+    70         80
+    73         20
+    74         10
+    87         40
+    88         70
+   102         20
+   116        999
+   117         60
+   118         50

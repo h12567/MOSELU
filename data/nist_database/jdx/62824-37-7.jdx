@@ -1,0 +1,31 @@
+##TITLE=Library Entry 13543
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 15(12)1953(1976); G. VIDARI ET AL
+##NAMES=HP
+##CAS NAME=Azuleno[5,6-c]furan-1(3H)-one, 4,4a,5,6,7,9-hexahydro-3,4-dihydro
+xy-6,6,8-trimethyl-
+##MOLFORM=C15H20O4
+##CAS REGISTRY NO=62824-37-7
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        999
+    57        300
+    91        350
+   105        216
+   115        350
+   128        266
+   142        370
+   157        120
+   173        320
+   185        320
+   201        625
+   229        300
+   244         91
+   246         83
+   264         17

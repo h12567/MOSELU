@@ -1,0 +1,79 @@
+##TITLE=Library Entry 31718
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Imidazo[1,2-b]pyridazine,6-chloro-
+##MOLFORM=C6H4ClN3
+##CAS REGISTRY NO=6775-78-6
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    35         38
+    36         12
+    37        722
+    38        548
+    39        330
+    40        356
+    41         61
+    42         27
+    43          9
+    45          4
+    46          4
+    47        102
+    48         20
+    49         69
+    50         80
+    51        246
+    52        344
+    53         62
+    55          2
+    60         29
+    61         28
+    62        151
+    63        347
+    64        999
+    65        112
+    66         29
+    67          5
+    70          7
+    71          7
+    72         28
+    73         93
+    74         21
+    75         31
+    76         11
+    77         25
+    79          8
+    80         14
+    81          6
+    82         13
+    89          4
+    90         13
+    91         44
+    92          4
+    96          2
+    97          1
+    98         23
+    99        231
+   100          9
+   101         77
+   105          3
+   106          2
+   107          4
+   116          3
+   117          2
+   118         20
+   119          4
+   126        438
+   127         14
+   128        144
+   129          5
+   153        537
+   154         35
+   155        182
+   156          3

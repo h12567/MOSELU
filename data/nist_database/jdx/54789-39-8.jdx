@@ -1,0 +1,52 @@
+##TITLE=Library Entry 30450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GILPIN DOW CHEMICAL CO., MIDLAND, MICHIGAN, USA
+##NAMES=HP
+##CAS NAME=Hexanamide, 4-ethyl-5,5-dimethyl-
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=54789-39-8
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15          2
+    27         30
+    28         10
+    29         60
+    30          4
+    31          1
+    41        110
+    42         20
+    43        110
+    44         80
+    45          3
+    55         90
+    56         20
+    57        160
+    58         10
+    59        999
+    60         40
+    71         40
+    72         70
+    73         20
+    74          2
+    85          1
+    86          8
+    87          1
+    88          2
+    99          2
+   100         20
+   101          3
+   114        210
+   115        110
+   116         40
+   128          1
+   142          6
+   143          1
+   156         20
+   157          3
+   171          5

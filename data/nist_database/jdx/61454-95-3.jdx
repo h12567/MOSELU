@@ -1,0 +1,41 @@
+##TITLE=Library Entry 74412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Whitlock ET.AL.JAOCS,53,586(1976)
+##NAMES=HP
+##CAS NAME=4-Hydroxy-2-hexenoic acid, ethyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=61454-95-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27        397
+    29        583
+    31        183
+    39         71
+    41        112
+    43        276
+    45        114
+    55        575
+    56        174
+    57        659
+    58         23
+    67         48
+    73        909
+    74         15
+    83        763
+    84        108
+    85        128
+    96         44
+    99        139
+   101        999
+   102         22
+   112        149
+   113        323
+   114         22
+   129        905
+   130         33

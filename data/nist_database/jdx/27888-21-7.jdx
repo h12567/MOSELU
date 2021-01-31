@@ -1,0 +1,45 @@
+##TITLE=Library Entry 64153
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. Zissis, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=1,2,3,4-Tetrabenzyl-.beta.-d-glucoronicacid amide
+##MOLFORM=C34H35NO6
+##CAS REGISTRY NO=27888-21-7
+##MP= -300
+##BP= -300
+##MW= 553
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    65         37
+    69          8
+    79          8
+    91        999
+    92         84
+   105          8
+   107          7
+   125          8
+   144         10
+   158         11
+   178         13
+   181         93
+   182         10
+   187         22
+   188         24
+   197         14
+   203         25
+   204          6
+   230          9
+   232         11
+   240         11
+   248         30
+   253        185
+   254         30
+   263          6
+   264          7
+   354         35
+   356         27
+   462         16
+   553          6

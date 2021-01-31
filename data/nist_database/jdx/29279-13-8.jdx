@@ -1,0 +1,65 @@
+##TITLE=Library Entry 46782
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=S-Ethyl phenoxythioacetate
+##MOLFORM=C10H12O2S
+##CAS REGISTRY NO=29279-13-8
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    46         59
+    47        161
+    49         20
+    50        119
+    51        428
+    52         50
+    53         30
+    55         29
+    57         10
+    58         39
+    59         50
+    60         20
+    61         60
+    62         49
+    63        100
+    64         49
+    65        228
+    66         90
+    67         10
+    73         29
+    74         50
+    75        841
+    76         99
+    77        999
+    78        131
+    79        230
+    80         29
+    89         49
+    91         19
+    92         49
+    93         50
+    94        199
+    95         19
+    97         10
+    99         10
+   100          9
+   101          9
+   102          9
+   105         89
+   106         19
+   107        579
+   108         70
+   109          9
+   111         10
+   130         39
+   139          9
+   141         10
+   196        389
+   197         70
+   198         30

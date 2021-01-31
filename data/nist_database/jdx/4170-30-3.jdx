@@ -1,0 +1,58 @@
+##TITLE=Library Entry 2191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Butenal
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=4170-30-3
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=629
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          9
+    14          9
+    15         44
+    16          3
+    17          0
+    18          3
+    19          1
+    24          5
+    25         26
+    26         95
+    27        200
+    28          0
+    29        185
+    30          3
+    31          8
+    33          2
+    34          3
+    36         26
+    37        145
+    38        230
+    39        899
+    40        166
+    41        999
+    42        170
+    43         17
+    44         14
+    48          6
+    49         24
+    50         40
+    51         23
+    52         10
+    53         21
+    54          3
+    55         28
+    56          2
+    66          2
+    67          4
+    68         49
+    69        401
+    70        836
+    71         39
+    72          2

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 89668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.J.MILLARD SCHOOL OF PHARMACY, UNIV. OF LONDON, LONDON
+, UK
+##NAMES=HP
+##CAS NAME=4-Isothiazolecarboxamide
+##MOLFORM=C4H4N2OS
+##CAS REGISTRY NO=24340-75-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    44        340
+    45        200
+    51         40
+    52         80
+    53         80
+    57        500
+    58        200
+    59         80
+    82         40
+    83         60
+    84        300
+    85        260
+   100        120
+   112        999
+   128        880

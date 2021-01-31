@@ -1,0 +1,66 @@
+##TITLE=Library Entry 18693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl 1-aminocyclopropanecarboxylate
+##MOLFORM=C5H9NO2
+##CAS REGISTRY NO=72784-42-0
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=904
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         60
+    16          1
+    25          3
+    26         36
+    27        100
+    28        527
+    29        143
+    30        128
+    31         26
+    32          4
+    33         31
+    37          9
+    38         20
+    39         66
+    40         34
+    41         64
+    42        100
+    43         16
+    44         52
+    45         55
+    46          1
+    50          2
+    51         14
+    52         56
+    54        999
+    55        852
+    56        992
+    57         69
+    58          4
+    59         65
+    60         20
+    61          1
+    66          1
+    67          3
+    68          7
+    70          8
+    71          1
+    72         20
+    80          1
+    83        614
+    84         41
+    85          3
+    86          4
+    87          4
+    88          2
+   100        544
+   101         25
+   102          3
+   114         19
+   115         38
+   116          2

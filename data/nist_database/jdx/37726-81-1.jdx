@@ -1,0 +1,33 @@
+##TITLE=Library Entry 18817
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. A. VAGLIO
+##NAMES=HP
+##CAS NAME=Cobalt, [.mu.-[(2,3-.eta.:2,3-.eta.)-2-butyne]]hexacarbonyldi-, (
+Co-Co)
+##MOLFORM=C10H6Co2O6
+##CAS REGISTRY NO=37726-81-1
+##MP= -300
+##BP= -300
+##MW= 340
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    53        500
+    54        999
+    59        680
+    87        130
+   113        220
+   118        750
+   119         60
+   143         50
+   157        130
+   170         50
+   172        440
+   200        900
+   228        400
+   256         90
+   284         15
+   312        330
+   340        110

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 8689
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(pentyloxy)-, acetate
+##MOLFORM=C9H18O3
+##CAS REGISTRY NO=5312-09-4
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1217
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         53
+    29         97
+    30          6
+    31          9
+    33          4
+    39         26
+    40          0
+    41         93
+    42         59
+    43        999
+    44         74
+    45         68
+    53          2
+    55         89
+    56          9
+    57         14
+    58         15
+    59          2
+    60          2
+    61         39
+    67          1
+    69         92
+    70        279
+    71        275
+    72         16
+    73         11
+    74         12
+    75          2
+    85          9
+    86          3
+    87        165
+    88         54
+    89          2
+    99          9
+   101          8
+   105          2
+   114         18
+   115          1
+   117          0
+   131          0

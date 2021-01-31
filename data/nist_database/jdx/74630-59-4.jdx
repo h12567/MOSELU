@@ -1,0 +1,86 @@
+##TITLE=Library Entry 20723
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=4-Undecene, 3-methyl-, (E)-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=74630-59-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    22          3
+    25         11
+    26         19
+    27        151
+    28         14
+    29        234
+    30         13
+    31          4
+    33          1
+    34          6
+    35          6
+    37          7
+    38          3
+    39        139
+    40         25
+    41        499
+    42         63
+    43        186
+    45          2
+    47          4
+    48          1
+    49          2
+    50          3
+    51         15
+    52         10
+    53         71
+    54         37
+    55        999
+    56        169
+    57        183
+    58          9
+    61          2
+    63          2
+    64          7
+    65         33
+    66         25
+    67        101
+    68         60
+    69        358
+    70        389
+    71        120
+    75          8
+    77         15
+    79         41
+    80          4
+    81         61
+    82         28
+    83        522
+    84         81
+    85          8
+    89          2
+    91          3
+    93          7
+    95         16
+    96         15
+    97        153
+    98         27
+   107          4
+   109          9
+   110          8
+   111          6
+   112         11
+   114          4
+   115          6
+   126          2
+   138          2
+   139         10
+   140          2
+   141          2
+   168         45

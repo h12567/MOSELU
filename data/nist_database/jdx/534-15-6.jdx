@@ -1,0 +1,52 @@
+##TITLE=Library Entry 30183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4369
+##NAMES=HP
+##CAS NAME=Ethane, 1,1-dimethoxy-
+##MOLFORM=C4H10O2
+##CAS REGISTRY NO=534-15-6
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=553
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    13          1
+    14         10
+    15         80
+    16          2
+    17          3
+    18         11
+    25          1
+    26         13
+    27         41
+    28         26
+    29        157
+    30         10
+    31        221
+    32         12
+    33         11
+    39          2
+    41         12
+    42         19
+    43        196
+    44          9
+    45         18
+    47         89
+    48          2
+    57          7
+    58         37
+    59        999
+    60         35
+    61          3
+    62          1
+    73          1
+    74          7
+    75        346
+    76         12
+    77          2
+    87          1
+    89         19
+    90          1

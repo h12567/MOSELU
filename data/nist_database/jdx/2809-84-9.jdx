@@ -1,0 +1,52 @@
+##TITLE=Library Entry 65753
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=1-Buten-3-yne, 2-tert-butyl-
+##MOLFORM=C8H12
+##CAS REGISTRY NO=2809-84-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15        160
+    26        170
+    27        280
+    29        180
+    39        903
+    41        476
+    42         40
+    50        174
+    51        282
+    52        104
+    53        170
+    54        170
+    55         40
+    56         60
+    57        382
+    62         30
+    63         70
+    64         25
+    65        180
+    66         60
+    67         80
+    68         14
+    69         14
+    74         20
+    75         15
+    76         15
+    77        712
+    78         20
+    91        472
+    92         62
+    93        999
+    94         83
+   105         12
+   106         10
+   107         55
+   108        226
+   109         24

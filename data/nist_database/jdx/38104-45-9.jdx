@@ -1,0 +1,25 @@
+##TITLE=Library Entry 71847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,4-Diamino-1,2,4(4H)-triazole
+##MOLFORM=C2H5N5
+##CAS REGISTRY NO=38104-45-9
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41         59
+    42        157
+    43        849
+    44         49
+    53         50
+    54         59
+    55         48
+    57         69
+    84         50
+    99        999

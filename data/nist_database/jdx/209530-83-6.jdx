@@ -1,0 +1,63 @@
+##TITLE=Library Entry 49948
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Tsai ET AL.J.Agr.Food Chem.,46,254(1998)
+##NAMES=HP
+##CAS NAME=2-Methylselenomethylfuran
+##MOLFORM=C6H8OSe
+##CAS REGISTRY NO=209530-83-6
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         19
+    39         74
+    40          8
+    41         25
+    42         11
+    43         44
+    44         11
+    49         11
+    50         91
+    51        162
+    52         82
+    53        709
+    54         33
+    55         11
+    57         11
+    62          5
+    65          5
+    66         30
+    67          3
+    68          3
+    77         11
+    78          3
+    79         11
+    80         11
+    81        999
+    82         52
+    88         11
+    89          3
+    90         25
+    91         11
+    92         52
+    93         36
+    94         52
+    95         11
+    96          3
+   104          3
+   105          5
+   106         19
+   108         30
+   109         36
+   128         27
+   130          3
+   172         47
+   173         25
+   174        104
+   176        231
+   177         11
+   178         41

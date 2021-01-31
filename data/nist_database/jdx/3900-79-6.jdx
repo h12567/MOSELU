@@ -1,0 +1,58 @@
+##TITLE=Library Entry 38707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Benzenesulfonic acid, 4-methyl-, (1-methylethylidene)hydrazide
+##MOLFORM=C10H14N2O2S
+##CAS REGISTRY NO=3900-79-6
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27         13
+    30         15
+    39        100
+    42         91
+    43         82
+    44        809
+    45         43
+    51         36
+    55         13
+    62         19
+    63         68
+    64         21
+    65        261
+    71        999
+    72         42
+    77         18
+    79         10
+    80         29
+    89         84
+    90         31
+    91        618
+    92        134
+    93         11
+   107         10
+   108         11
+   118         14
+   119         87
+   120         45
+   121         10
+   134         18
+   135         18
+   139         16
+   147         50
+   155         84
+   156         12
+   157         10
+   161         27
+   162         25
+   181          6
+   226        539
+   227         95
+   228         31
+   229          4

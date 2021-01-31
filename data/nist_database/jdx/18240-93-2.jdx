@@ -1,0 +1,80 @@
+##TITLE=Library Entry 28065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1765
+##NAMES=HP
+##CAS NAME=1,1-Diethylguanidine
+##MOLFORM=C5H13N3
+##CAS REGISTRY NO=18240-93-2
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14          5
+    15         33
+    16         37
+    17         46
+    18         71
+    25          1
+    26         27
+    27        148
+    28        176
+    29        162
+    30        693
+    31         18
+    37          1
+    38          3
+    39          8
+    40         20
+    41         57
+    42        304
+    43        422
+    44        944
+    45         34
+    46          3
+    51          2
+    52          4
+    53          6
+    54          9
+    55        102
+    56         90
+    57         28
+    58        999
+    59         49
+    60         26
+    64          2
+    67          3
+    68          6
+    69         40
+    70         25
+    71         37
+    72        736
+    73        311
+    74         16
+    83         35
+    84          4
+    85          3
+    86        512
+    87         83
+    88          3
+    95          1
+    96          1
+    97          6
+    98         37
+    99          7
+   100          1
+   101          1
+   109          1
+   110          1
+   111          3
+   112          5
+   113          1
+   114          4
+   115        390
+   116         30
+   117          1

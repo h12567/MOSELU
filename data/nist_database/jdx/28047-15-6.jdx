@@ -1,0 +1,51 @@
+##TITLE=Library Entry 61494
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=L-Glutamine, N2-(phenylacetyl)-
+##MOLFORM=C13H16N2O4
+##CAS REGISTRY NO=28047-15-6
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27         26
+    28         74
+    39         85
+    41         95
+    44         63
+    55         55
+    56         90
+    57         53
+    63         58
+    65        212
+    82         69
+    84        510
+    85         79
+    89         85
+    90        127
+    91        999
+    92        372
+   101         47
+   102        202
+   110         74
+   118        744
+   119         74
+   127        106
+   136         58
+   155        297
+   156         31
+   219         35
+   220        127
+   221         36
+   246        106
+   247         63
+   248         10
+   264          2
+   265          3
+   266          1

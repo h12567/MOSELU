@@ -1,0 +1,37 @@
+##TITLE=Library Entry 81569
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=3-Hydroxy-2-methyl-3,3-diphenylpropionic acid methyl ester
+##MOLFORM=C17H18O3
+##CAS REGISTRY NO=119020-91-6
+##MP= -300
+##BP= -300
+##MW= 270
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    31         67
+    32          2
+    51        262
+    52         12
+    59         54
+    60          3
+    77        919
+    78         62
+    79          2
+   105        999
+   106         79
+   107          5
+   183        981
+   184        143
+   185         12
+   186          1
+   193          8
+   194          1
+   252          4
+   253          1
+   270          2
+   271          1

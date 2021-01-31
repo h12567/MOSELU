@@ -1,0 +1,80 @@
+##TITLE=Library Entry 61841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzene, (methoxymethyl)-
+##MOLFORM=C8H10O
+##CAS REGISTRY NO=538-86-3
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=984
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    11          0
+    12          2
+    13          4
+    14         18
+    15        158
+    16          5
+    17          2
+    18          3
+    25          2
+    26         18
+    27         53
+    28         18
+    29        176
+    30         35
+    31          8
+    32          1
+    37         20
+    38         54
+    39        221
+    40         16
+    41         33
+    42          2
+    43          7
+    44          1
+    45         86
+    46          2
+    50        120
+    51        223
+    52         55
+    53         21
+    55          1
+    61         16
+    62         50
+    63        120
+    64         32
+    65        241
+    66         15
+    67          0
+    73          5
+    74         25
+    75         15
+    76          0
+    77        335
+    78         50
+    79        118
+    80          7
+    84          1
+    85          3
+    86          7
+    87          4
+    88          1
+    89         74
+    90          0
+    91        999
+    92        250
+    93         24
+    94          1
+   105         46
+   106          6
+   107         20
+   108          1
+   121        444
+   122        447
+   123         42
+   124          2

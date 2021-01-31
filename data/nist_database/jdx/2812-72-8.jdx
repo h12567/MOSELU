@@ -1,0 +1,52 @@
+##TITLE=Library Entry 45210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonochloridothioic acid, O-methyl ester
+##MOLFORM=C2H3ClOS
+##CAS REGISTRY NO=2812-72-8
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    28        110
+    29        140
+    30         20
+    31         70
+    32        390
+    33         10
+    34         10
+    35         40
+    43         10
+    44        140
+    45        280
+    46         60
+    47        470
+    48         20
+    49         50
+    50        210
+    51         10
+    52         50
+    59         90
+    60        640
+    61         20
+    62         20
+    63         90
+    65         20
+    67         40
+    69         10
+    75        999
+    76         50
+    77         40
+    79        200
+    80         20
+    81         60
+    83         10
+   110        570
+   111         10
+   112        200

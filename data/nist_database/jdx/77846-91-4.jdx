@@ -1,0 +1,71 @@
+##TITLE=Library Entry 72769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-[3-(acetylamino)-2-oxopropyl]-, methyl ester
+##MOLFORM=C13H15NO4
+##CAS REGISTRY NO=77846-91-4
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15         54
+    17          9
+    18         85
+    27          5
+    28        161
+    29          5
+    30        968
+    31         18
+    32         18
+    39          9
+    42          9
+    43        491
+    44          9
+    45          5
+    51         18
+    52         18
+    53         14
+    55          9
+    57          5
+    60          5
+    63          5
+    65          1
+    71          5
+    72        522
+    73        170
+    74          5
+    77        108
+    78         50
+    79         18
+    89          5
+    90          9
+    91          9
+   100        999
+   101         41
+   102          1
+   105          5
+   120        219
+   121         36
+   122          9
+   134         18
+   135          5
+   147          9
+   148          9
+   149         14
+   150         18
+   162         32
+   165         59
+   166         14
+   189         14
+   190          9
+   207        241
+   208         50
+   209         18
+   249        224
+   250         59
+   251         18

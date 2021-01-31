@@ -1,0 +1,61 @@
+##TITLE=Library Entry 12445
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furan-2-carbonitrile, 5-(2-acetyl-3-oxobut-1-enyl)-
+##MOLFORM=C11H9NO3
+##CAS REGISTRY NO=116538-84-2
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    36          0
+    37         21
+    38          0
+    39         15
+    40          0
+    41          0
+    42          7
+    43        999
+    44         65
+    45          0
+    50          3
+    51         13
+    52          1
+    53          4
+    55          1
+    62         21
+    63         48
+    64         10
+    65          0
+    66          2
+    75          0
+    76          6
+    77         10
+    78          5
+    82          0
+    86          0
+    88          1
+    89          7
+    90          5
+    91          5
+   105          0
+   107          2
+   111          0
+   118          8
+   132          0
+   134         18
+   135          0
+   146        163
+   147          9
+   148          3
+   160          4
+   161          4
+   176         15
+   177          0
+   188          7
+   203         11

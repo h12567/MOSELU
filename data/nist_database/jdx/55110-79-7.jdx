@@ -1,0 +1,48 @@
+##TITLE=Library Entry 33438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. ANDO,FAC. AGRIC.,TOKYO UNIV. AGRIC. TECHNOL.,TOKYO,J
+APAN
+##NAMES=HP
+##CAS NAME=(E)-9,11-Dodecadien-1-ol
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=55110-79-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=1501
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    54        760
+    67        940
+    68        999
+    69        200
+    70         80
+    71        100
+    79        360
+    80        550
+    81        760
+    82        610
+    83        140
+    84         50
+    85         60
+    93        220
+    94        200
+    95        360
+    96        250
+    97        150
+    98        140
+   107        160
+   108        120
+   109        200
+   110        100
+   111         50
+   112         40
+   121         80
+   122         60
+   123         60
+   135        150
+   164        130
+   182        350
+   183         40

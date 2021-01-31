@@ -1,0 +1,36 @@
+##TITLE=Library Entry 30517
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Utvary, Inst. Inorg. Chem., Tech. Univ. Vienna, Vien
+na, Austria
+##NAMES=HP
+##CAS NAME=2,2,4,4-Tetrafluoro-1,3-dimethyl-2,4-bis(2,2-dimethylhydrazino)-1
+,3,2,4-diazadiphosphetidine
+##MOLFORM=C6H20F4N6P2
+##CAS REGISTRY NO=119395-05-0
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    15         58
+    28         54
+    30         97
+    42        100
+    43        220
+    44         57
+    58         80
+    59        999
+    60        195
+   118         65
+   127        471
+   157        471
+   186         61
+   197        220
+   212         75
+   237         41
+   255        255
+   294         48
+   314         44

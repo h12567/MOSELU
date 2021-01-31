@@ -1,0 +1,45 @@
+##TITLE=Library Entry 63584
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenepentanoic acid, .gamma.-butyl-.beta.-oxo-, methyl ester
+##MOLFORM=C16H22O3
+##CAS REGISTRY NO=30414-59-6
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        110
+    43         60
+    55         70
+    59        110
+    65         80
+    69        110
+    74         20
+    91        999
+    92        100
+   101        210
+   104        120
+   105         70
+   117        100
+   128         50
+   130         60
+   131        210
+   132         60
+   145         40
+   153        150
+   160         40
+   161         20
+   173         30
+   188         40
+   189         80
+   205        320
+   206         90
+   220         10
+   229         10
+   244         20
+   262         90

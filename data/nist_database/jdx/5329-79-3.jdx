@@ -1,0 +1,44 @@
+##TITLE=Library Entry 15146
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Hexanamine
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=5329-79-3
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=720
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         10
+    17         10
+    27         30
+    28         30
+    29         20
+    30         80
+    31         10
+    41         60
+    42         40
+    43         30
+    44        999
+    45         30
+    55         10
+    56         20
+    57         10
+    58         70
+    59         10
+    69         10
+    70         10
+    71         10
+    72         10
+    83         10
+    84         10
+    86         50
+    87         10
+    98         10
+   100         10
+   101         10

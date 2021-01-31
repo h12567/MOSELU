@@ -1,0 +1,27 @@
+##TITLE=Library Entry 26803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. TSAI, NATL. HEART LUNG BLOOD INST., BETHESDA, MD., U
+S
+##NAMES=HP
+##CAS NAME=N-tert-butyl-.alpha.-(aminomethylene)glutaconic anhydride
+##MOLFORM=C10H13NO3
+##CAS REGISTRY NO=67598-10-1
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    57        999
+    67        290
+    79         80
+    94         80
+    95        110
+   111        120
+   122         50
+   139        630
+   140        230
+   180         50
+   195        300

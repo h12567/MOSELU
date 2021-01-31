@@ -1,0 +1,59 @@
+##TITLE=Library Entry 40912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 962
+##NAMES=HP
+##CAS NAME=3-Pentanol, 2,4-dimethyl-
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=600-36-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=829
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          5
+    17          1
+    18          5
+    19          1
+    26          3
+    27         79
+    28         10
+    29         50
+    30          3
+    31         61
+    37          1
+    38          4
+    39         60
+    40          9
+    41        112
+    42         14
+    43        229
+    44          9
+    45        108
+    46          2
+    50          1
+    51          3
+    52          1
+    53          9
+    54          4
+    55        437
+    56         45
+    57         51
+    58          6
+    59         16
+    65          1
+    67          4
+    69          4
+    70          2
+    71         11
+    72         84
+    73        999
+    74         44
+    75          3
+    83         17
+    84          1
+    85          3
+    98          3
+   101          1

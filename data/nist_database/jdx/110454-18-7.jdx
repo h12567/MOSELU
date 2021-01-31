@@ -1,0 +1,73 @@
+##TITLE=Library Entry 79134
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3351
+##NAMES=HP
+##CAS NAME=Xylo-1,2,3-tribenzoyloxy-1-phenylpropane
+##MOLFORM=C30H24O6
+##CAS REGISTRY NO=110454-18-7
+##MP= -300
+##BP= -300
+##MW= 480
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    27          1
+    28          8
+    38          1
+    39          3
+    43          1
+    44          7
+    50          6
+    51         23
+    52          2
+    55          1
+    57          1
+    63          1
+    65          2
+    74          2
+    75          2
+    76          6
+    77        160
+    78         16
+    79          1
+    89          1
+    90          1
+    91          5
+    92          1
+   103          2
+   104          4
+   105        999
+   106         81
+   107          5
+   115          9
+   116          3
+   117          4
+   118          1
+   122         13
+   123          1
+   131         10
+   132          9
+   133          4
+   152          1
+   181          1
+   207          1
+   210          1
+   211         19
+   212          3
+   227          2
+   236          6
+   237          1
+   238          4
+   253         48
+   254          9
+   255          1
+   269         62
+   270         10
+   271          1
+   331         14
+   332          3
+   358         62
+   359         15
+   360          2

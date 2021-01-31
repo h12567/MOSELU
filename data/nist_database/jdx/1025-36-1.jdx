@@ -1,0 +1,58 @@
+##TITLE=Library Entry 99108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2558
+##NAMES=HP
+##CAS NAME=Diphenyl-2,4-uretidinedione
+##MOLFORM=C14H10N2O2
+##CAS REGISTRY NO=1025-36-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          6
+    28          6
+    37         11
+    38         25
+    39         28
+    40          6
+    41         15
+    42          1
+    44          4
+    45          8
+    49          2
+    50         14
+    51         23
+    52         13
+    53          1
+    59         11
+    60          1
+    61          5
+    62          9
+    63         42
+    64        118
+    65         23
+    66          1
+    73          1
+    74          4
+    75          3
+    76          3
+    77          9
+    87          1
+    88          1
+    90         13
+    91        236
+    92         16
+    93          1
+   103          1
+   118          1
+   119        999
+   120         81
+   121          5
+   194          3
+   238         45
+   239          7

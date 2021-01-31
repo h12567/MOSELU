@@ -1,0 +1,37 @@
+##TITLE=Library Entry 81298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. ENDO, FAC. ENG., YOKOHAMA NATL. UNIV., YOKOHAMA
+##NAMES=HP
+##CAS NAME=.alpha.-Isopropyl-O-methoxy-.alpha.-methylbenzyl alcohol
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=53847-38-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        300
+    43        650
+    51        250
+    65        263
+    77        443
+    91        495
+   103        220
+   105        999
+   107        100
+   109         40
+   115        220
+   119        120
+   121        310
+   131        170
+   133        489
+   135        140
+   145        160
+   147         70
+   151        827
+   161        542
+   165         40
+   176        262

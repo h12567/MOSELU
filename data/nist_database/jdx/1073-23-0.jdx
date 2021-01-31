@@ -1,0 +1,61 @@
+##TITLE=Library Entry 82934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,6-Lutidine-N-oxide
+##MOLFORM=C7H9NO
+##CAS REGISTRY NO=1073-23-0
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    18          2
+    28         12
+    30         51
+    37         47
+    38        126
+    39        532
+    40         97
+    41         13
+    42         58
+    49         13
+    50        113
+    51        178
+    52         95
+    53        125
+    54         26
+    55         11
+    61         26
+    62         65
+    63        157
+    64         80
+    65        295
+    66        230
+    67         44
+    68          8
+    75          2
+    77        449
+    78        121
+    79        908
+    80         97
+    81         14
+    85          5
+    86          8
+    88          3
+    89         37
+    90          9
+    91         65
+    92        143
+    93         20
+    94         17
+   104         31
+   106        999
+   107        491
+   108         45
+   123        911
+   124         77
+   125          4

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 23652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=1,2-Pentadiene, 4,4-dimethyl-
+##MOLFORM=C7H12
+##CAS REGISTRY NO=26981-77-1
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         12
+    14         40
+    15        256
+    16         11
+    25          4
+    26         50
+    27        425
+    28         61
+    29        499
+    30         11
+    36          3
+    37         50
+    38        110
+    39        649
+    40         92
+    41        890
+    42         71
+    43        101
+    44          6
+    46          3
+    48          1
+    49         11
+    50         73
+    51        115
+    52         45
+    53        371
+    54         56
+    55        157
+    56         58
+    57        999
+    58         44
+    59          3
+    60          2
+    61         12
+    62         26
+    63         50
+    64          9
+    65         73
+    66         51
+    67         48
+    68         33
+    69         13
+    70          4
+    71          8
+    72          6
+    73          5
+    74         10
+    75          8
+    77         83
+    78         28
+    79        202
+    80         35
+    81        691
+    82         45
+    83          1
+    86          7
+    91          4
+    93          2
+    94          1
+    95         12
+    96        268
+    97         20

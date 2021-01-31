@@ -1,0 +1,30 @@
+##TITLE=Library Entry 18617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. GROENEWOLD, THE BRISTOL-MYERS CO., SYRACUSE, N.Y.,
+ USA
+##NAMES=HP
+##CAS NAME=cis-1,2-Divinylcyclobutane
+##MOLFORM=C8H12
+##CAS REGISTRY NO=16177-46-1
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        390
+    41         96
+    53        100
+    54        999
+    66         74
+    67        110
+    79        210
+    80        120
+    91         17
+    93         64
+   103          1
+   105          1
+   107          3
+   108          2

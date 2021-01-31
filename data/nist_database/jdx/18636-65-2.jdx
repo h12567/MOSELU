@@ -1,0 +1,36 @@
+##TITLE=Library Entry 9906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ether, hexyl isopropyl
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=18636-65-2
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        130
+    42         70
+    43        999
+    44         30
+    45         90
+    55         90
+    56         80
+    57         80
+    59         30
+    61         50
+    69         20
+    73        220
+    74         10
+    83         10
+    84         30
+    85        430
+    86         20
+   129        120
+   130         10
+   144         10

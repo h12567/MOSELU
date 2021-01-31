@@ -1,0 +1,63 @@
+##TITLE=Library Entry 77619
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzene, 4-heptynyl-
+##MOLFORM=C13H16
+##CAS REGISTRY NO=56293-03-9
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        128
+    50         19
+    51         69
+    52         29
+    53         69
+    55         19
+    63         39
+    64          9
+    65        118
+    66         19
+    67         29
+    68         19
+    77        128
+    78         59
+    79        118
+    80          9
+    81         59
+    84         19
+    85          9
+    91        445
+    92        217
+    93         19
+    94          9
+   102          9
+   103         89
+   104        999
+   105        247
+   106         19
+   115         89
+   116         39
+   117         59
+   118         29
+   127         29
+   128        118
+   129        396
+   130         79
+   131         19
+   141         29
+   142         39
+   143        495
+   144        168
+   145         29
+   157        118
+   158         19
+   171         29
+   172        257
+   173         59

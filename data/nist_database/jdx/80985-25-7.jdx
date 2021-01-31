@@ -1,0 +1,72 @@
+##TITLE=Library Entry 99523
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Klyuev Nikolay, A.N. Severtzov Institute of Ecology and
+ Evolution
+##NAMES=HP
+##CAS NAME=6-[(4-Methylphenyl)methylthio]puryne
+##MOLFORM=C14H12N4OS
+##CAS REGISTRY NO=80985-25-7
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41        100
+    42         25
+    43        100
+    44         33
+    45        100
+    51         42
+    52         25
+    53         46
+    55         83
+    56         38
+    57        167
+    60         29
+    63         50
+    65        250
+    66         42
+    67         50
+    68         25
+    69         92
+    70         25
+    71         50
+    73         25
+    77         50
+    78         21
+    79         46
+    81         50
+    82         25
+    83         54
+    84         25
+    85         33
+    89         50
+    90         33
+    91        833
+    92        117
+    93         50
+    95         33
+    97         42
+    98         33
+   105         58
+   106         29
+   111         25
+   115         21
+   119        999
+   120         30
+   121        501
+   134         42
+   149         38
+   152         58
+   165        208
+   166         50
+   193         38
+   224         29
+   251         42
+   252         29
+   256         38
+   284        250
+   285         42

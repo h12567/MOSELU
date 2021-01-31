@@ -1,0 +1,80 @@
+##TITLE=Library Entry 47341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. CHARALAMBOUS NORTHERN POLYTECHNIC, HOLLOWAY, LONDON,
+ UK
+##NAMES=HP
+##CAS NAME=Copper, bis(4-methyl-2-nitrosophenolato-N2,O1)-
+##MOLFORM=C14H12CuN2O4
+##CAS REGISTRY NO=55350-02-2
+##MP= -300
+##BP= -300
+##MW= 335
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26        100
+    27        220
+    28        200
+    37        100
+    38        160
+    39        560
+    40        160
+    41        150
+    43        160
+    44        620
+    50        250
+    51        500
+    52        320
+    53        270
+    54         90
+    63        200
+    64        190
+    65        460
+    66        460
+    67        100
+    76        100
+    77        999
+    78        500
+    79        190
+    91        100
+    92        310
+    93        500
+    94         80
+   105        150
+   106         90
+   107        280
+   120        340
+   121        120
+   132         80
+   133        100
+   137        650
+   141         70
+   143         30
+   149         80
+   153         70
+   155         30
+   157         10
+   158         40
+   169        130
+   170        220
+   171         70
+   172         70
+   185        100
+   186         20
+   187         40
+   198         70
+   199        170
+   200         40
+   201         80
+   264         70
+   277         20
+   279         10
+   303         25
+   304         10
+   305         20
+   335         80
+   336         20
+   337         40
+   338         10

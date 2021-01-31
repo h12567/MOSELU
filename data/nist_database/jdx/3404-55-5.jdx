@@ -1,0 +1,62 @@
+##TITLE=Library Entry 34171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4619
+##NAMES=HP
+##CAS NAME=4-Methyl-2-hexene,c&t
+##MOLFORM=C7H14
+##CAS REGISTRY NO=3404-55-5
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=663
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          7
+    26          9
+    27         96
+    28          6
+    29         83
+    30          2
+    37          3
+    38          9
+    39        128
+    40         22
+    41        715
+    42         44
+    43         37
+    44          1
+    49          1
+    50          9
+    51         16
+    52          6
+    53         54
+    54         14
+    55        326
+    56        115
+    57         15
+    61          1
+    62          3
+    63          5
+    64          1
+    65         10
+    66          5
+    67         52
+    68         32
+    69        999
+    70        112
+    71          5
+    74          1
+    77          5
+    78          1
+    79          5
+    80          1
+    81          9
+    82          3
+    83        101
+    84          8
+    97          2
+    98        205
+    99         16

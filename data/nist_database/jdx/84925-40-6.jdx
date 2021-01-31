@@ -1,0 +1,64 @@
+##TITLE=Library Entry 97517
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z. YAMAIZUMI, NATL. CANCER CENT. RES. INST., TOKYO, JAP
+AN
+##NAMES=HP
+##CAS NAME=1,4-Di-O-acetyl-2,3,5-tri-O-methylribitol
+##MOLFORM=C12H22O7
+##CAS REGISTRY NO=84925-40-6
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    43        215
+    44         25
+    45         63
+    53         76
+    54         63
+    55        203
+    56         76
+    57        203
+    58        405
+    59        139
+    68         25
+    69         51
+    70         38
+    71        165
+    72         25
+    73         76
+    74         38
+    75        190
+    76         63
+    77         63
+    78        127
+    79         25
+    80         25
+    81         51
+    82         25
+    83         63
+    84         25
+    85         76
+    86         25
+    87        253
+    88         38
+    89         89
+   101        494
+   102         76
+   113         63
+   117        999
+   118         38
+   119         76
+   126         25
+   127         38
+   129        582
+   130         51
+   131         76
+   135        127
+   145         76
+   160         63
+   161        190
+   162         51

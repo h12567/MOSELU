@@ -1,0 +1,44 @@
+##TITLE=Library Entry 31741
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2,4,6-Triamino-5-pyrimidinyl hydrogen sulfate
+##MOLFORM=C4H7N5O4S
+##CAS REGISTRY NO=71552-23-3
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41          3
+    42         56
+    43        186
+    44        329
+    45         23
+    48        358
+    50         28
+    54          6
+    64        999
+    65        120
+    66         37
+    67          3
+    68          5
+    69         24
+    70          4
+    71         18
+    80         18
+    96         14
+    98          8
+    99         12
+   111          8
+   112          5
+   113          7
+   124          5
+   126         32
+   140         34
+   141         45
+   151          4

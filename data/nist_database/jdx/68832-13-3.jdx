@@ -1,0 +1,46 @@
+##TITLE=Library Entry 36991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=(R)-(-)-2-Pyrrolidinemethanol
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=68832-13-3
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    15         11
+    18         10
+    26          7
+    27         44
+    28        218
+    29         33
+    30         58
+    31         31
+    36          1
+    38          5
+    39         37
+    40         10
+    41         95
+    42         37
+    43        149
+    44         21
+    53          9
+    54         11
+    55         47
+    56         11
+    57          2
+    67          6
+    68         71
+    69         10
+    70        999
+    71         55
+    72          7
+    80          2
+    82          8
+   100          5
+   101          8

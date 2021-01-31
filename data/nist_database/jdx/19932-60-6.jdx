@@ -1,0 +1,31 @@
+##TITLE=Library Entry 52908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. H. BOWIE
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 3-propyl-
+##MOLFORM=C5H9N3
+##CAS REGISTRY NO=19932-60-6
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=1172
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27        140
+    28        120
+    29         80
+    39         90
+    41         90
+    42        100
+    43        120
+    54         60
+    55        100
+    56         60
+    69         20
+    71         50
+    83        999
+    96        280
+   110        100
+   111         50

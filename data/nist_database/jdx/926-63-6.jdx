@@ -1,0 +1,55 @@
+##TITLE=Library Entry 27760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-1-propanamine
+##MOLFORM=C5H13N
+##CAS REGISTRY NO=926-63-6
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=597
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         32
+    28         67
+    29         19
+    30         72
+    31          1
+    37          0
+    38          2
+    39         20
+    40          1
+    41         31
+    42        107
+    43         43
+    44         70
+    45          5
+    46          0
+    51          0
+    52          0
+    53          0
+    54          3
+    55          2
+    56         19
+    57         18
+    58        999
+    59         30
+    60          0
+    66          0
+    67          0
+    68          2
+    69          1
+    70         10
+    71         18
+    72          4
+    73          0
+    82          0
+    84          7
+    85          4
+    86         18
+    87         66
+    88          4

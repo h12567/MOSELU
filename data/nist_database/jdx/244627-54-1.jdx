@@ -1,0 +1,61 @@
+##TITLE=Library Entry 18541
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4H-[1,2,5]Oxadiazolo[3,4-b][1,2,3]triazolo[4,5-E]pyrazine, 6,8-di
+hydro-
+##MOLFORM=C4H3N7O
+##CAS REGISTRY NO=244627-54-1
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    33          3
+    38         62
+    39         34
+    40         41
+    41         60
+    42         47
+    43         29
+    44         12
+    45          6
+    50         11
+    53        999
+    54         99
+    55         13
+    56          5
+    57          6
+    58          0
+    62          0
+    63          2
+    64         19
+    65         27
+    66         21
+    67         44
+    68        163
+    69         18
+    70          1
+    74          0
+    77          5
+    78         28
+    79         10
+    80         64
+    81          6
+    82          2
+    83          4
+    84          1
+    90          1
+    91          0
+    93          3
+   104          0
+   105          5
+   113          1
+   133          2
+   135        238
+   136          4
+   165        210
+   166          8

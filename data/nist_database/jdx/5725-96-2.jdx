@@ -1,0 +1,38 @@
+##TITLE=Library Entry 4800
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Methanamine, N-hydroxy-N-methyl-
+##MOLFORM=C2H7NO
+##CAS REGISTRY NO=5725-96-2
+##MP= -300
+##BP= -300
+##MW= 61
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    25          0
+    26          3
+    27         34
+    28        172
+    29         26
+    30         47
+    31         26
+    33          3
+    38         11
+    39         20
+    40         41
+    41         44
+    42        999
+    43        313
+    44         46
+    45         28
+    46          6
+    56          0
+    58          1
+    60        916
+    61        800
+    62         22
+    63          1

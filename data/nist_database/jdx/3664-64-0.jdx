@@ -1,0 +1,47 @@
+##TITLE=Library Entry 10368
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Nonen-2-one, 4,8-dimethyl-
+##MOLFORM=C11H20O
+##CAS REGISTRY NO=3664-64-0
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        460
+    43        999
+    53         60
+    55        240
+    56         90
+    58        100
+    67        150
+    68        110
+    69        490
+    70         60
+    71         60
+    81        100
+    82         40
+    83         50
+    85        350
+    86         40
+    95        590
+    96         40
+    97         50
+    98         90
+    99         50
+   109         60
+   110        420
+   111         80
+   112         20
+   113         20
+   125         40
+   135        110
+   150         30
+   153         20
+   168         70

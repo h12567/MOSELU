@@ -1,0 +1,44 @@
+##TITLE=Library Entry 14037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.DARLING INST. PAPER CHEM., APPLETON, WIS., USA
+##NAMES=HP
+##CAS NAME=Benzyl alcohol, 2,5-dihydroxy-, 2,5-diacetate benzoate
+##MOLFORM=C18H16O6
+##CAS REGISTRY NO=17019-78-2
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    43        999
+    50        232
+    51        600
+    52         84
+    53         84
+    54         84
+    55        116
+    65        232
+    66        155
+    67        116
+    76        110
+    77        394
+    78        155
+    94        503
+    95         78
+   105        148
+   106        271
+   122        258
+   123        840
+   124        122
+   138        232
+   164        316
+   165        122
+   226         32
+   244        999
+   245        174
+   286        700
+   287        129
+   328         32

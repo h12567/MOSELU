@@ -1,0 +1,57 @@
+##TITLE=Library Entry 53836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. FOLKERS
+##NAMES=HP
+##CAS NAME=L-Histidinamide, 5-oxo-L-prolyl-L-alanyl-
+##MOLFORM=C14H20N6O4
+##CAS REGISTRY NO=37666-99-2
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        130
+    42         20
+    43         30
+    44         80
+    52         30
+    53         30
+    54         50
+    55         30
+    56        320
+    57         20
+    69         20
+    80         80
+    81        100
+    82        130
+    83         20
+    84        999
+    98         20
+   106         40
+   107        150
+   108         50
+   110         60
+   112         50
+   128         20
+   135         20
+   136         20
+   137         20
+   149         20
+   180        100
+   181         10
+   182         30
+   189         30
+   190        320
+   191         90
+   192         30
+   208         10
+   262         40
+   263         10
+   292         10
+   301         10
+   302          2
+   336          2
+   337          2

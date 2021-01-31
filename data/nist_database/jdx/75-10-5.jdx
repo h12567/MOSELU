@@ -1,0 +1,28 @@
+##TITLE=Library Entry 1613
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Difluoromethane
+##MOLFORM=CH2F2
+##CAS REGISTRY NO=75-10-5
+##MP= -300
+##BP= -300
+##MW= 52
+##$RETENTION INDEX=184
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    12         24
+    13         62
+    14         12
+    19         22
+    20          4
+    31        277
+    32        109
+    33        999
+    34         11
+    50         34
+    51        956
+    52        101
+    53          1

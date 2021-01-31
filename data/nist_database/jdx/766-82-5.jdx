@@ -1,0 +1,63 @@
+##TITLE=Library Entry 93681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=3-Methylphenylacetylene
+##MOLFORM=C9H8
+##CAS REGISTRY NO=766-82-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=1011
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          3
+    27          9
+    37          8
+    38         14
+    39         57
+    40          6
+    41          3
+    43          3
+    44          1
+    48          1
+    49          6
+    50         50
+    51         49
+    52          7
+    53          3
+    55          4
+    58         33
+    60          2
+    61         18
+    62         45
+    63        103
+    64         15
+    65         29
+    66          4
+    73          8
+    74         44
+    75         35
+    76          9
+    77          4
+    78          1
+    84          2
+    85          9
+    86         19
+    87         22
+    88         16
+    89        101
+    90         16
+    91          1
+   100          1
+   101          2
+   102          1
+   113         21
+   114         33
+   115        999
+   116        767
+   117         69
+   118          3

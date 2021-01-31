@@ -1,0 +1,39 @@
+##TITLE=Library Entry 3475
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,7-Dimethyl-5-methoxy-3(6H)-2H-1,2,4-triazepine
+##MOLFORM=C7H11N3O2
+##CAS REGISTRY NO=66425-08-9
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    40        238
+    41        999
+    42        565
+    43        695
+    54        315
+    55        266
+    56        505
+    58        219
+    69        893
+    70        775
+    72         78
+    83        576
+    84        139
+    99        139
+   111         98
+   112        100
+   113        796
+   124         30
+   126         70
+   128        208
+   129         30
+   138        237
+   139         50
+   169        149

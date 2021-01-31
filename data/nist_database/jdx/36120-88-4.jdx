@@ -1,0 +1,59 @@
+##TITLE=Library Entry 66395
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=Tricyclo[2.2.2.0(1,4)]octane
+##MOLFORM=C8H12
+##CAS REGISTRY NO=36120-88-4
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    24         20
+    25        230
+    26         50
+    27         50
+    37         15
+    38         30
+    39        450
+    40         75
+    41        290
+    42         60
+    43         50
+    44         10
+    50         55
+    51         95
+    52         75
+    53        110
+    54        100
+    55         40
+    56         20
+    57         20
+    62         15
+    63         40
+    65        105
+    66         85
+    67        220
+    68         35
+    71         10
+    74         10
+    75         10
+    77        500
+    78        115
+    79        760
+    80        320
+    81         45
+    91        470
+    92         45
+    93        999
+    94         85
+   103         10
+   105         55
+   106         70
+   107         80
+   108        780
+   109         65

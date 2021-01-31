@@ -1,0 +1,60 @@
+##TITLE=Library Entry 77599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Cojocaru, Dep. Chem., Bar-Ilan Univ., Israel
+##NAMES=HP
+##CAS NAME=Benzene, [2-nitro-1-(2-propenylthio)ethyl]-
+##MOLFORM=C11H13NO2S
+##CAS REGISTRY NO=127865-39-8
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    73         93
+    76         10
+    77         27
+    78         24
+    89         18
+    91        145
+    99         14
+   101         36
+   103        425
+   104        999
+   105         96
+   107         36
+   115         16
+   117         37
+   119         10
+   120         14
+   121        154
+   127         15
+   128         79
+   129         35
+   131        102
+   133         72
+   134        555
+   135        326
+   136         57
+   137         24
+   141         17
+   142         68
+   143        467
+   144         38
+   147         15
+   149         14
+   150         65
+   161        143
+   162         19
+   163         61
+   175         83
+   176        339
+   177        114
+   178         13
+   181         24
+   182         56
+   193         34
+   223        105
+   224         13

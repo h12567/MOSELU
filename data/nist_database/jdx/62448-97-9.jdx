@@ -1,0 +1,44 @@
+##TITLE=Library Entry 11740
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA
+##NAMES=HP
+##CAS NAME=Selenopentanoic acid, 4-methyl-, O-ethyl ester
+##MOLFORM=C8H16OSe
+##CAS REGISTRY NO=62448-97-9
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39        160
+    41        470
+    43        999
+    55        320
+    57        560
+    69        120
+    71        330
+    81        410
+    99        110
+   106        110
+   120        210
+   121        190
+   122        490
+   124        980
+   126        200
+   127        120
+   135         50
+   137         90
+   148         90
+   149         80
+   150        200
+   152        450
+   154         80
+   204        130
+   205        110
+   206        330
+   208        680
+   209         70
+   210        130

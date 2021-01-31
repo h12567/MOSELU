@@ -1,0 +1,29 @@
+##TITLE=Library Entry 33721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.TSCHESCHE UNIVERSITY OF BONN, WEST GERMANY
+##NAMES=HP
+##CAS NAME=Butanoic acid, 4-hydroxy-2-methylene-
+##MOLFORM=C5H8O3
+##CAS REGISTRY NO=24923-76-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    37         50
+    38         77
+    39        730
+    40        680
+    41        236
+    44        160
+    50         46
+    51         41
+    53        113
+    54         46
+    68        999
+    69        150
+    98        750
+    99         60

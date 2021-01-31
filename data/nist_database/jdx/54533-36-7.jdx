@@ -1,0 +1,35 @@
+##TITLE=Library Entry 86505
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(7)679(1974); BURSEY
+##NAMES=HP
+##CAS NAME=Benzene, 1-fluoro-2-(2-methoxyethenyl)-, (Z)-
+##MOLFORM=C9H9FO
+##CAS REGISTRY NO=54533-36-7
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         60
+    50         60
+    51         60
+    57         80
+    60         50
+    63         70
+    75        100
+    76         50
+    83        160
+    95        100
+   101         60
+   107         90
+   108         70
+   109        999
+   110         90
+   123        160
+   124        110
+   137        110
+   152        700
+   153         70

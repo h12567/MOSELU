@@ -1,0 +1,61 @@
+##TITLE=Library Entry 46253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. CERAULO, DIP. CHIM. TECH. FARM. UNIV., PALERMO, ITAL
+Y
+##NAMES=HP
+##CAS NAME=4(3H)-Quinazolinone, 3-(1-methylpyrazol-5-yl)-
+##MOLFORM=C12H10N4O
+##CAS REGISTRY NO=122037-29-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    38        111
+    39        139
+    40        113
+    43         75
+    50        500
+    51        182
+    52        391
+    53        270
+    54        227
+    62         62
+    63        143
+    64        126
+    66         79
+    69         54
+    74        196
+    75        310
+    76        999
+    77        149
+    80        101
+    81         36
+    90        104
+    91         53
+    92         68
+    96         60
+    97         67
+    98         77
+   101         36
+   102        464
+   103        305
+   104        164
+   118         62
+   119         49
+   129        187
+   130        308
+   131         55
+   132         26
+   146        176
+   147         54
+   159         32
+   171         39
+   198         25
+   199         59
+   225         33
+   226        150
+   227         32

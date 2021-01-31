@@ -1,0 +1,46 @@
+##TITLE=Library Entry 88252
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(2)51(1978); A. K. DEY AND H. R. WOLF
+##NAMES=HP
+##CAS NAME=5H-Inden-5-one, octahydro-7a-methyl-3-(2-methylpropyl)-
+##MOLFORM=C14H24O
+##CAS REGISTRY NO=66708-27-8
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        500
+    43        220
+    53        200
+    55        480
+    67        460
+    68        110
+    69        280
+    71        110
+    77        110
+    79        200
+    81        410
+    83        630
+    91        130
+    93        170
+    95        480
+    96        630
+    97        460
+    98        200
+   108        410
+   109        370
+   110        150
+   111        999
+   112        300
+   123        110
+   137        110
+   148        110
+   151        170
+   165        170
+   166        570
+   193        260
+   208        500

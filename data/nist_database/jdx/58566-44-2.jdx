@@ -1,0 +1,37 @@
+##TITLE=Library Entry 79526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Benzamide, N,N-bis(2-hydroxyethyl)-
+##MOLFORM=C11H15NO3
+##CAS REGISTRY NO=58566-44-2
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50         14
+    51         72
+    56         23
+    74         29
+    76         10
+    77        316
+    78         20
+    87          2
+    91          2
+   104          2
+   105        999
+   106         74
+   134         20
+   135          2
+   136          2
+   148          4
+   149         53
+   166        143
+   167          9
+   178        158
+   179         17
+   191         15

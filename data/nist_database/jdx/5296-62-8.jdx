@@ -1,0 +1,70 @@
+##TITLE=Library Entry 17484
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Ethylthio-1-propene
+##MOLFORM=C5H10S
+##CAS REGISTRY NO=5296-62-8
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=777
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    12          5
+    14         16
+    15         45
+    16          1
+    26        138
+    27        459
+    28         83
+    29        181
+    32         22
+    33         14
+    34         16
+    35        106
+    36          7
+    37         64
+    38        144
+    39        684
+    40         69
+    41        922
+    42         40
+    43          7
+    45        999
+    46        216
+    47        345
+    48         21
+    49         16
+    50          8
+    53         64
+    54          6
+    55          8
+    56          6
+    57         53
+    58        134
+    59        250
+    60        592
+    61        241
+    62         49
+    63         11
+    65          5
+    67         29
+    68         23
+    69        108
+    71        102
+    72        172
+    73        880
+    74        367
+    75        143
+    76         23
+    85         66
+    87        142
+    88         10
+    89          9
+   100          5
+   102        934
+   103         62
+   104         41

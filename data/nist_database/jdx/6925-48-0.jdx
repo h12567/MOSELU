@@ -1,0 +1,60 @@
+##TITLE=Library Entry 65047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, University of Ottawa, Ontario, Cana
+da
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-[(4-aminophenyl)azo]-
+##MOLFORM=C13H11N3O2
+##CAS REGISTRY NO=6925-48-0
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         17
+    38         15
+    39        116
+    41         33
+    42         13
+    43          9
+    44         17
+    45          5
+    50         32
+    51         40
+    52         40
+    53         24
+    62          4
+    63         35
+    64         40
+    65        460
+    66         56
+    67          3
+    74          5
+    75         23
+    76         30
+    77         22
+    78         11
+    79         21
+    80         17
+    81          8
+    90          6
+    91         35
+    92        999
+    93         73
+   103          4
+   104         25
+   105         18
+   106         12
+   107          7
+   108         20
+   120        366
+   121         67
+   122          4
+   137         25
+   167         11
+   240          4
+   241        334
+   242         52

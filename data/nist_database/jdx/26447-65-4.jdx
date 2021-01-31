@@ -1,0 +1,54 @@
+##TITLE=Library Entry 77019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Heptene, 7-phenyl-
+##MOLFORM=C13H18
+##CAS REGISTRY NO=26447-65-4
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        200
+    42         10
+    43         10
+    50         10
+    51         40
+    52         10
+    53         30
+    54         20
+    55        170
+    56         10
+    57         10
+    64         20
+    66         90
+    67         10
+    68         50
+    69         10
+    70         20
+    77         80
+    78         30
+    79         50
+    81         30
+    82         30
+    83         30
+    89         10
+    91        570
+    92        380
+    93         30
+   103         50
+   104        999
+   105        270
+   106         30
+   115         20
+   116         10
+   117        150
+   118         50
+   131         50
+   145         20
+   174        160
+   175         20

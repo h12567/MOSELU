@@ -1,0 +1,42 @@
+##TITLE=Library Entry 30674
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Isobutyric acid, hexafluoro-, methyl ester
+##MOLFORM=C5H4F6O2
+##CAS REGISTRY NO=360-54-3
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    44         10
+    47         38
+    51         10
+    59        999
+    60         39
+    69        544
+    70          9
+    81        348
+    82         71
+    91        327
+    92         19
+   110         10
+   111         30
+   113        170
+   114         19
+   132         99
+   133         10
+   150         20
+   159        129
+   162         19
+   170         30
+   178         79
+   179        846
+   180         39
+   190        197
+   210        339
+   211         29

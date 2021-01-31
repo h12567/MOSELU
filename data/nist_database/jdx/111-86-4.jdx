@@ -1,0 +1,61 @@
+##TITLE=Library Entry 1020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 666
+##NAMES=HP
+##CAS NAME=1-Octanamine
+##MOLFORM=C8H19N
+##CAS REGISTRY NO=111-86-4
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=1046
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          1
+    27         25
+    28         11
+    29         30
+    30        999
+    31         18
+    32          1
+    39         16
+    40          3
+    41         52
+    42         19
+    43         34
+    44         54
+    45         53
+    46          1
+    53          4
+    54          4
+    55         27
+    56         22
+    57         10
+    58          3
+    59          9
+    67          3
+    68          2
+    69         18
+    70         11
+    71          3
+    72          9
+    73          3
+    82          4
+    83          8
+    84          7
+    85          1
+    86         22
+    87          3
+    96          2
+    97          2
+    98          2
+   100          9
+   101          1
+   112          3
+   114          2
+   128          4
+   129          9
+   130          1

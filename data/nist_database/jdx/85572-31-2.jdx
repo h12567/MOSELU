@@ -1,0 +1,73 @@
+##TITLE=Library Entry 13075
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. NOMURA, DEP. CHEM., COLL. ARTS SCI., UNIV. TOKYO, JA
+PAN
+##NAMES=HP
+##CAS NAME=2-Methyl-1-(1-pyrrolidinyl)-N-styryl-1-propanimine
+##MOLFORM=C16H22N2
+##CAS REGISTRY NO=85572-31-2
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    39        380
+    40        100
+    41        660
+    42        300
+    43        999
+    44        150
+    50        120
+    51        320
+    54        230
+    55        510
+    56        150
+    63        130
+    65        100
+    68        120
+    69        150
+    70        680
+    71        170
+    77        680
+    78        120
+    82        180
+    83        160
+    84        120
+    89        150
+    90        100
+    91        260
+    96        240
+    97        280
+    98        150
+    99        100
+   102        150
+   103        560
+   104        390
+   105        380
+   111        100
+   112        160
+   115        150
+   116        120
+   117        380
+   118        120
+   119        130
+   128        110
+   129        150
+   130        430
+   140        170
+   144        120
+   151        150
+   165        110
+   170        160
+   171        150
+   172        780
+   173        780
+   174        120
+   187        280
+   199        110
+   241        160
+   242        570
+   243        110

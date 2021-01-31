@@ -1,0 +1,41 @@
+##TITLE=Library Entry 50147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(23)7601(1977); B. M. TROST
+##NAMES=HP
+##CAS NAME=Spiro[3.5]nonan-1-one, 5-methyl-, trans-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=65147-56-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        230
+    40         60
+    41        370
+    42         60
+    53        160
+    54        200
+    55        280
+    56         60
+    66         80
+    67        620
+    68        420
+    69        120
+    77         60
+    79        100
+    81        999
+    82        290
+    95        570
+    96        460
+    97        110
+   108        110
+   109        320
+   110        310
+   124        290
+   134        100
+   152        260
+   153         30

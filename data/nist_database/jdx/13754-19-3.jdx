@@ -1,0 +1,55 @@
+##TITLE=Library Entry 87238
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6884
+##NAMES=HP
+##CAS NAME=4,5-Pyrimidinediamine
+##MOLFORM=C4H6N4
+##CAS REGISTRY NO=13754-19-3
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14          1
+    16          1
+    17          2
+    18          8
+    26          7
+    27         61
+    28         96
+    29         40
+    30          2
+    32          1
+    33          1
+    38          6
+    39         11
+    40         39
+    41         70
+    42          5
+    43         21
+    44          1
+    51          2
+    52          3
+    53         16
+    54         12
+    55         25
+    56        178
+    57          5
+    65          2
+    66         40
+    67         51
+    68          5
+    81          1
+    82          8
+    83        258
+    84         10
+    93          5
+    94         20
+    95          5
+   109          4
+   110        999
+   111         65
+   112          1

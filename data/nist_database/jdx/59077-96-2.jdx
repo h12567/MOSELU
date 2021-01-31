@@ -1,0 +1,84 @@
+##TITLE=Library Entry 85578
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J-P. MORIZUR,LAB. CHIM. ORG.,UNIV. PIERRE MARIE CURIE,P
+ARIS,
+##NAMES=HP
+##CAS NAME=4,4-Dimethyl-2-allylcyclohexanone
+##MOLFORM=C11H18O
+##CAS REGISTRY NO=59077-96-2
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    40         20
+    41        760
+    42         90
+    43        250
+    44         30
+    45          5
+    50         15
+    51         50
+    52         30
+    53        195
+    54        105
+    55        660
+    67        505
+    68        230
+    69        700
+    70        135
+    71        115
+    72         10
+    77         85
+    78         25
+    79        175
+    80         40
+    81        450
+    82        290
+    83        115
+    84         20
+    85         35
+    91        120
+    92         70
+    93        140
+    94         40
+    95        720
+    96        165
+    97        220
+    98         50
+    99         10
+   105        110
+   106         25
+   107        370
+   108        270
+   109        999
+   110        760
+   111        110
+   112         15
+   119         25
+   120         10
+   121         15
+   122        660
+   123        195
+   124         40
+   125        115
+   126         20
+   133        165
+   134         20
+   135         10
+   137        200
+   138         40
+   139          5
+   148         20
+   149         10
+   150          5
+   151        390
+   152         45
+   164         10
+   165         20
+   166        505
+   167         80
+   168          5

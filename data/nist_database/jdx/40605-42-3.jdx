@@ -1,0 +1,80 @@
+##TITLE=Library Entry 38174
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Chloro-2-buten-1-ol
+##MOLFORM=C4H7ClO
+##CAS REGISTRY NO=40605-42-3
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          4
+    14         10
+    15         54
+    16          1
+    17          2
+    19          7
+    24          2
+    25         13
+    26         59
+    27        362
+    29        243
+    30         21
+    31        298
+    33          2
+    34          5
+    35         13
+    36         21
+    37         57
+    38         83
+    39        419
+    40         64
+    41        624
+    42        114
+    43        477
+    44         33
+    45          8
+    47          5
+    48          6
+    49         46
+    50         50
+    51         70
+    52         18
+    53        285
+    54         14
+    55         27
+    57          3
+    59          2
+    60          5
+    61         18
+    62         15
+    63         24
+    64          5
+    65         21
+    66          4
+    67          9
+    69        103
+    71        999
+    72         48
+    73         11
+    74          2
+    75          7
+    76          3
+    77          2
+    87          3
+    88          6
+    89         13
+    90          5
+    91         51
+    93         13
+   103          6
+   105         21
+   106         77
+   107          8
+   108         23

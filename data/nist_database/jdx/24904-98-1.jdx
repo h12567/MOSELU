@@ -1,0 +1,61 @@
+##TITLE=Library Entry 45398
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 2-O-acetyl-3,4,6-tri-O-methyl-.beta.-D-glucopyranoside
+##MOLFORM=C12H22O7
+##CAS REGISTRY NO=24904-98-1
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    43        669
+    45        309
+    55         46
+    57         64
+    58         43
+    59         67
+    69         41
+    71        629
+    72        139
+    73         81
+    74        749
+    75        999
+    83         85
+    84         64
+    85         85
+    87        179
+    88        269
+    89        199
+    99         75
+   101        339
+   102        219
+   103         66
+   111         41
+   113         65
+   115         64
+   116        199
+   117        109
+   127         43
+   129         66
+   141         46
+   145         50
+   149         26
+   155          5
+   159         49
+   173         53
+   177         13
+   186          3
+   187         12
+   201          9
+   204         45
+   205          8
+   215          4
+   219          3
+   233         42
+   234          9
+   247          1

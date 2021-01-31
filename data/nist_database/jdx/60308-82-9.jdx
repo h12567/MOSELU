@@ -1,0 +1,70 @@
+##TITLE=Library Entry 57014
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Decanoic acid, 3-methyl-
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=60308-82-9
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    15         17
+    16          3
+    18         19
+    27        252
+    28         69
+    29        297
+    31         33
+    32         20
+    39        197
+    40         55
+    41        627
+    42        205
+    43        582
+    44         48
+    45        148
+    52         14
+    53         60
+    54         43
+    55        341
+    56        144
+    57        307
+    58         21
+    59         96
+    60        561
+    61        135
+    67         42
+    68         40
+    69        222
+    70        110
+    71        313
+    72         29
+    73        133
+    74         13
+    79         17
+    81         19
+    82         44
+    83        108
+    84         74
+    85        193
+    87        999
+    88         74
+    96         25
+    97        105
+    98         53
+    99         11
+   101         25
+   112         16
+   115         25
+   126         80
+   127         27
+   129         54
+   143         90
+   144         14
+   171         15
+   186         13

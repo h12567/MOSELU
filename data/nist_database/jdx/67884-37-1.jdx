@@ -1,0 +1,72 @@
+##TITLE=Library Entry 55498
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(17)5512(1978); B. M. TROST ET AL.
+##NAMES=HP
+##CAS NAME=Spiro[cyclobutane-1,2'(1'aH)-indeno[3a,4-b]oxiren]-2-one, hexahyd
+ro-4,4'a-dimethyl-5'-[(tetrahydro-2H-pyran-2-yl)oxy]-
+##MOLFORM=C19H28O4
+##CAS REGISTRY NO=67884-37-1
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    84        380
+    85        999
+    86        110
+   110        110
+   112         60
+   123        160
+   127         60
+   131        460
+   132        190
+   133         50
+   140         50
+   144         50
+   145        260
+   146        130
+   147         50
+   148         50
+   149         50
+   150         50
+   151         50
+   152        150
+   158        140
+   159        180
+   160         70
+   161         90
+   162         50
+   163         50
+   164         50
+   165        100
+   166        170
+   172        150
+   173         50
+   174        300
+   175         70
+   176        210
+   177        110
+   178        140
+   179         50
+   180         60
+   190        200
+   191         70
+   192        100
+   193        100
+   194        150
+   200        100
+   203         70
+   207         50
+   208        110
+   218        300
+   219         90
+   235         50
+   236         80
+   278        170
+   292        170
+   293         50
+   320          6
+   321          2

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 82503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH, ALDRICH 10742-
+5
+##NAMES=HP
+##CAS NAME=Nicotinic acid hydrazide
+##MOLFORM=C6H7N3O
+##CAS REGISTRY NO=553-53-7
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=2575
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    16          6
+    17          2
+    25          0
+    26         27
+    27         56
+    28         48
+    29         24
+    30         13
+    31         57
+    32          7
+    36          6
+    37         15
+    38         23
+    39         27
+    40          1
+    43          4
+    49         21
+    50        103
+    51        349
+    52         72
+    53         32
+    64          0
+    75         11
+    76         18
+    77         26
+    78        876
+    79         76
+   104         15
+   106        999
+   107         77
+   108          3
+   122          8
+   137        290
+   138         31

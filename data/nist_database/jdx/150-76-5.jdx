@@ -1,0 +1,78 @@
+##TITLE=Library Entry 86308
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Mequinol
+##MOLFORM=C7H8O2
+##CAS REGISTRY NO=150-76-5
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1235
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         13
+    25          2
+    26         22
+    27         45
+    29         20
+    30          3
+    31          3
+    36          1
+    37         12
+    38         28
+    39         83
+    40          6
+    41         21
+    42          6
+    43          4
+    45          1
+    47          2
+    49          7
+    50         42
+    51         63
+    52         73
+    53        251
+    54         61
+    55         47
+    56          2
+    60          3
+    61         20
+    62         41
+    63         65
+    64         21
+    65         69
+    66         17
+    67          7
+    68          1
+    69          6
+    73          3
+    74         11
+    75          5
+    76          2
+    77          7
+    78          1
+    79         12
+    80         18
+    81        561
+    82         43
+    83          2
+    91          1
+    92          4
+    93         15
+    94          9
+    95         29
+    96          2
+   107          1
+   108          9
+   109        999
+   110         72
+   111          7
+   121          1
+   123         22
+   124        849
+   125         70
+   126          6

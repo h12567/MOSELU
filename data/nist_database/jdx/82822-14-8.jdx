@@ -1,0 +1,77 @@
+##TITLE=Library Entry 73391
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=1-Morpholinomethyl-tetrahydro-2(1H)-pyrimidinone
+##MOLFORM=C9H17N3O2
+##CAS REGISTRY NO=82822-14-8
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    42        712
+    43        145
+    44        490
+    45         46
+    47         28
+    52         21
+    53         28
+    54         79
+    55         68
+    56        442
+    57        151
+    58         46
+    59         37
+    66          7
+    67          5
+    68         31
+    69         70
+    70         99
+    71        149
+    72         41
+    76         21
+    77         23
+    78         22
+    81         18
+    82          6
+    83         28
+    84        125
+    85        263
+    86        422
+    87         90
+    88         35
+    98        110
+    99        687
+   100        999
+   101        219
+   111          6
+   113        833
+   114        337
+   115         72
+   126         43
+   127         27
+   131         27
+   140          6
+   141        248
+   142         23
+   143          7
+   152         72
+   153         42
+   154         22
+   155         26
+   156        153
+   157         19
+   168         37
+   169          6
+   170         56
+   181        212
+   182         24
+   184         75
+   198         22
+   199         90
+   200         10

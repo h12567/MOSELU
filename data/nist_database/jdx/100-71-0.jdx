@@ -1,0 +1,58 @@
+##TITLE=Library Entry 82857
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 363
+##NAMES=HP
+##CAS NAME=Pyridine, 2-ethyl-
+##MOLFORM=C7H9N
+##CAS REGISTRY NO=100-71-0
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=906
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          8
+    27         25
+    28         12
+    29          3
+    37          4
+    38          9
+    39         44
+    40          5
+    41          6
+    42          1
+    49          2
+    50         27
+    51         74
+    52         95
+    53         35
+    54          9
+    55          1
+    56          1
+    61          1
+    62          3
+    63         10
+    64          8
+    65         51
+    66          9
+    67          2
+    74          2
+    75          3
+    76          5
+    77         41
+    78        156
+    79        250
+    80         45
+    81          2
+    91          2
+    92         19
+    93          9
+   104         13
+   105          4
+   106        999
+   107        542
+   108         45
+   109          2

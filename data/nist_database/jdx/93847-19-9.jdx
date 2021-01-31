@@ -1,0 +1,76 @@
+##TITLE=Library Entry 87441
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Butene-1,4-diamine, N,N,N',N'-tetraethyl-, (Z)-
+##MOLFORM=C12H26N2
+##CAS REGISTRY NO=93847-19-9
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    26         12
+    27         94
+    29        218
+    30        154
+    33          0
+    36          2
+    39         30
+    41        107
+    42        173
+    43         48
+    44         41
+    51          6
+    52          1
+    53         42
+    54         31
+    55        107
+    56        271
+    57         25
+    58        129
+    59          3
+    65          2
+    66          2
+    67         30
+    68         73
+    69         43
+    70         49
+    71         50
+    72         40
+    73         14
+    77          5
+    79          6
+    80         41
+    81         27
+    82        111
+    83         12
+    84        121
+    85         10
+    86        105
+    87          3
+    91          8
+    93          4
+    94         20
+    95         23
+    96        214
+    97         33
+    98         17
+    99          2
+   108         26
+   109          3
+   110        999
+   111         83
+   112         21
+   122          5
+   123          3
+   124         43
+   125        501
+   126         74
+   127          4
+   139          4
+   154          5
+   168          2

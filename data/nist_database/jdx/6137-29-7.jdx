@@ -1,0 +1,40 @@
+##TITLE=Library Entry 8997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Nonanone, 8-methyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=6137-29-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        272
+    42         40
+    43        999
+    44         30
+    55         60
+    56         10
+    57         70
+    58        636
+    59         10
+    69        232
+    70         40
+    71        828
+    72         50
+    82         10
+    85         20
+    86        414
+    87         60
+    95        747
+    96         60
+    99        101
+   113        161
+   114         10
+   138         40
+   156        111

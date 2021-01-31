@@ -1,0 +1,82 @@
+##TITLE=Library Entry 88146
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=[1,1'-Bicyclohexyl]-4-carboxylic acid, 4'-propyl-, 4-fluorophenyl
+ ester
+##MOLFORM=C22H31FO2
+##CAS REGISTRY NO=81701-13-5
+##MP= -300
+##BP= -300
+##MW= 346
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    27         93
+    29        177
+    39        102
+    41        585
+    42         48
+    43        162
+    44         41
+    45         48
+    53         98
+    54        112
+    55        779
+    56         51
+    57        218
+    65         41
+    67        436
+    68         81
+    69        837
+    70         59
+    71         32
+    73         75
+    75         31
+    77         53
+    79        199
+    80         56
+    81        652
+    82        130
+    83        829
+    84         99
+    91         50
+    93         87
+    94         35
+    95        429
+    96         84
+    97        551
+    98         44
+   107         65
+   108         32
+   109        429
+   110         79
+   111        999
+   112        413
+   113         39
+   117         33
+   119         21
+   121         48
+   122         41
+   123        414
+   124         78
+   125        634
+   126         62
+   133         56
+   135         46
+   137        339
+   147          8
+   148          7
+   151        223
+   163         37
+   165         50
+   191         45
+   207        757
+   208        139
+   209         45
+   217         47
+   235        537
+   236         80

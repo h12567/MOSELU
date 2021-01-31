@@ -1,0 +1,67 @@
+##TITLE=Library Entry 18900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Methylcyclopropanecarboxylic acid
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=29555-02-0
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    25          6
+    26         91
+    27        443
+    28        148
+    29        466
+    30         13
+    31         20
+    37         23
+    38         46
+    39        430
+    40         41
+    41        286
+    42         40
+    43        229
+    44         30
+    45        251
+    46          9
+    47          3
+    49         11
+    50         48
+    51         54
+    52         19
+    53        192
+    54        333
+    55        999
+    56        332
+    57        124
+    58        193
+    59         10
+    60         40
+    61          2
+    67          6
+    68          6
+    69         11
+    70          3
+    71         39
+    72         24
+    73         84
+    74          5
+    81         52
+    82        235
+    83         75
+    84          5
+    85         54
+    86          3
+    87          2
+    97          4
+    98          3
+    99         70
+   100        411
+   101         31
+   102          3

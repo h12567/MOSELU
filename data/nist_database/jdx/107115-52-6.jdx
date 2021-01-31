@@ -1,0 +1,30 @@
+##TITLE=Library Entry 71017
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Ando, Dep. Chem., Tohoku Univ., Sendai, Japan
+##NAMES=HP
+##CAS NAME=2H-Cyclohepta[b]furan-2,8-dione, octahydro-, (3a.alpha.,8a.alpha.
+)-
+##MOLFORM=C9H12O3
+##CAS REGISTRY NO=107115-52-6
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        220
+    55        900
+    67        550
+    68        520
+    69        260
+    70        250
+    81        580
+    83        300
+    84        420
+    98        999
+   111        590
+   140        700
+   168        320
+   169         32

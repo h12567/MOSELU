@@ -1,0 +1,41 @@
+##TITLE=Library Entry 38
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6843
+##NAMES=HP
+##CAS NAME=Urea
+##MOLFORM=CH4N2O
+##CAS REGISTRY NO=57-13-6
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          9
+    14          4
+    15         11
+    16        172
+    17        999
+    18         25
+    21          4
+    22          6
+    26          5
+    27         18
+    28         42
+    29         34
+    30         10
+    31         33
+    32          2
+    40          2
+    41         17
+    42         41
+    43        156
+    44        807
+    45         15
+    46          2
+    60        926
+    61         20
+    62          3

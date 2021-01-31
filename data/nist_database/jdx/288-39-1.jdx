@@ -1,0 +1,24 @@
+##TITLE=Library Entry 56169
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.L. PEDERSEN, DEP. GEN. ORG. CHEM., UNIV. COPENHAGEN,
+ DENMA
+##NAMES=HP
+##CAS NAME=1,2,5-Thiadiazole
+##MOLFORM=C2H2N2S
+##CAS REGISTRY NO=288-39-1
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    27         64
+    32        146
+    46         32
+    59        480
+    61         22
+    86        999
+    87         40
+    88         44

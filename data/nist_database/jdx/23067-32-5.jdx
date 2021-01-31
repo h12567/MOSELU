@@ -1,0 +1,71 @@
+##TITLE=Library Entry 97213
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Jacobson, LBC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Glycyl-L-tryptophylglycine
+##MOLFORM=C15H18N4O4
+##CAS REGISTRY NO=23067-32-5
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41         56
+    42         62
+    43         69
+    44        125
+    45        105
+    46        103
+    50         61
+    51         59
+    52         46
+    55         32
+    56          9
+    57         10
+    58         63
+    59         32
+    61         10
+    62         53
+    63        113
+    64         47
+    65         23
+    74         40
+    75         33
+    76         43
+    77         49
+    78         10
+    79         10
+    87         18
+    89        280
+    90        353
+    91         39
+    98         19
+   101         11
+   102         86
+   104         24
+   105          9
+   111         14
+   114         24
+   115          9
+   116        130
+   117        999
+   118        115
+   128         47
+   129        188
+   130        212
+   131         69
+   133         35
+   135         13
+   142          9
+   143         19
+   152          9
+   158         20
+   159         11
+   216         10
+   217          8
+   273         20
+   274         18
+   318          9

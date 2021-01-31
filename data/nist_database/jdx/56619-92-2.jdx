@@ -1,0 +1,57 @@
+##TITLE=Library Entry 27583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(3)196(1975); D. V. RAMANA
+##NAMES=HP
+##CAS NAME=Propanamide, 2,2-dimethyl-N-(2,4,6-tribromophenyl)-
+##MOLFORM=C11H12Br3NO
+##CAS REGISTRY NO=56619-92-2
+##MP= -300
+##BP= -300
+##MW= 411
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         20
+    55         10
+    56         10
+    57        999
+    58         40
+    62         20
+    63         10
+    69         10
+    74         10
+    80         10
+    82         10
+    85        130
+    88         30
+    89         20
+    90         10
+    91         10
+   140         10
+   142         10
+   167         30
+   169         30
+   170         10
+   246         10
+   247         20
+   248         30
+   249         20
+   250         10
+   252         10
+   278         10
+   294         10
+   305         10
+   327         50
+   328         20
+   329        150
+   330         20
+   331        150
+   332        120
+   333         50
+   334        220
+   335         30
+   336        130
+   337         20

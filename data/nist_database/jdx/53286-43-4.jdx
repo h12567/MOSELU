@@ -1,0 +1,37 @@
+##TITLE=Library Entry 71737
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Androst-2-en-17-amine, 4,4-dimethyl-N-propyl-, (5.alpha.)-
+##MOLFORM=C24H41N
+##CAS REGISTRY NO=53286-43-4
+##MP= -300
+##BP= -300
+##MW= 343
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    67         60
+    68         24
+    69         28
+    70        124
+    71          7
+    72         46
+    91         56
+    92         10
+    93         53
+    94         17
+    95         37
+    96         17
+    98        999
+    99        115
+   138         97
+   312         28
+   313         10
+   314        293
+   315         74
+   342         30
+   343        119
+   344         28

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 1285
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8745
+##NAMES=HP
+##CAS NAME=Benzeneethanamine, 4-fluoro-
+##MOLFORM=C8H10FN
+##CAS REGISTRY NO=1583-88-6
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    15          2
+    27          3
+    28          4
+    29          1
+    30        999
+    31         14
+    39          9
+    41          2
+    42          8
+    43          4
+    50          5
+    51          8
+    52          1
+    56          1
+    57         13
+    58          1
+    59          5
+    61          1
+    62          4
+    63          9
+    64          1
+    65          2
+    67          1
+    68          2
+    69          3
+    70          2
+    74          2
+    75          8
+    76          1
+    77          4
+    81          5
+    82          1
+    83         35
+    84          2
+    89          5
+    90          1
+    91          6
+    92          1
+    94          1
+    95          4
+    96          4
+    97          1
+   101         10
+   102          1
+   103          7
+   107          9
+   108          5
+   109         91
+   110         29
+   111          3
+   117          2
+   118          4
+   120          2
+   121          5
+   122          6
+   123         26
+   124          2
+   135          2
+   136          3
+   137          4
+   138          4
+   139         33
+   140          8

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 4971
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethanamine, N-methyl-N-nitroso-
+##MOLFORM=C3H8N2O
+##CAS REGISTRY NO=10595-95-6
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=802
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    25         11
+    26         87
+    27        421
+    29        206
+    30        661
+    31          4
+    32          0
+    35          6
+    36          7
+    38          5
+    39         21
+    41         66
+    42        999
+    43        682
+    44        108
+    45        104
+    47          2
+    51          2
+    52          3
+    54         10
+    55         35
+    56        186
+    57        135
+    58         16
+    59         26
+    60         17
+    61          0
+    65          6
+    66          3
+    68          0
+    69          1
+    70          8
+    71         31
+    72         12
+    73         67
+    74          3
+    77          2
+    79          5
+    83          5
+    84          4
+    85          0
+    86         14
+    87         15
+    88        843
+    89         27
+    90          5
+    91          5

@@ -1,0 +1,26 @@
+##TITLE=Library Entry 66421
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopropene, 1-chloro-2,3,3-trifluoro-
+##MOLFORM=C3ClF3
+##CAS REGISTRY NO=24921-89-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    35         39
+    37         19
+    69         91
+    74        161
+    78        128
+    80         48
+    93        999
+   109        272
+   111         85
+   128         97
+   130         25

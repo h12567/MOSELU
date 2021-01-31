@@ -1,0 +1,51 @@
+##TITLE=Library Entry 62040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=1H-Indole, 4-(phenylmethoxy)-
+##MOLFORM=C15H13NO
+##CAS REGISTRY NO=20289-26-3
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    50         43
+    51          3
+    63         11
+    65        118
+    66          5
+    77        108
+    78         29
+    79          2
+    89         29
+    91        999
+    92         51
+   102          6
+   104        260
+   105         15
+   116          9
+   117          5
+   118          3
+   132        450
+   133         30
+   134          2
+   145         10
+   146          5
+   152          2
+   165          3
+   166          1
+   167          2
+   177          1
+   192          2
+   193          3
+   194          5
+   204          2
+   206          2
+   223        355
+   224         42
+   225          3

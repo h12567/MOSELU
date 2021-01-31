@@ -1,0 +1,65 @@
+##TITLE=Library Entry 47479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonodithioic acid, O,S-diphenyl ester
+##MOLFORM=C13H10OS2
+##CAS REGISTRY NO=13509-35-8
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         20
+    38         20
+    39        110
+    40         10
+    44          6
+    45         30
+    50         50
+    51        240
+    52         20
+    55         10
+    57         10
+    58         10
+    62         10
+    63         20
+    64         10
+    65        130
+    66         40
+    69         40
+    74         10
+    75         10
+    76         40
+    77        999
+    78         90
+    82         10
+    84         10
+    93         10
+    94         30
+   108         20
+   109        210
+   110        100
+   111         20
+   115         10
+   121         10
+   137         90
+   138         10
+   141         10
+   152         10
+   153        710
+   154         80
+   155         70
+   156         10
+   184         30
+   185         50
+   186         20
+   218        240
+   219         30
+   220         20
+   246         20

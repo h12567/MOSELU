@@ -1,0 +1,38 @@
+##TITLE=Library Entry 49662
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. R. J. WILS, PLM-TNO, RIJSWIJK, NETH.
+##NAMES=HP
+##CAS NAME=Phosphoramidic acid, ethyl p-nitrophenyl diester
+##MOLFORM=C8H11N2O5P
+##CAS REGISTRY NO=119401-65-9
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    62         50
+    63        180
+    64        150
+    65        290
+    75        110
+    76         80
+    80        999
+    81        110
+    92         60
+    93        110
+    98        230
+   108        220
+   109        220
+   123        100
+   131         90
+   139        350
+   149        210
+   201         70
+   218        210
+   219         70
+   229         50
+   231         60
+   246        330

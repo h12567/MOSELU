@@ -1,0 +1,35 @@
+##TITLE=Library Entry 77642
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.G.O.BECKER, TECH. COLLEGE, LEUNA-MERSEBURG, GERMANY,
+ D.D.R
+##NAMES=HP
+##CAS NAME=1,2,4-Triazin-5(4H)-one, 3,6-diphenyl-
+##MOLFORM=C15H11N3O
+##CAS REGISTRY NO=36214-25-2
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    28         60
+    39        110
+    50         90
+    51        210
+    63        150
+    76        140
+    77        480
+    89        250
+    90        210
+    91         80
+   103        530
+   104        999
+   118        330
+   119        130
+   130        490
+   146        700
+   147         60
+   249        640
+   250        110

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 78049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Methylphenyl acetone
+##MOLFORM=C10H12O
+##CAS REGISTRY NO=2096-86-8
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         36
+    26          6
+    27         55
+    28         12
+    29          4
+    32          1
+    37          2
+    38         10
+    39         78
+    40          8
+    41         13
+    42          1
+    43        495
+    44         11
+    49          3
+    50         38
+    51        100
+    52         32
+    53         33
+    61          4
+    62         16
+    63         50
+    64         12
+    65         34
+    66          5
+    73          2
+    74         10
+    75         11
+    76          2
+    77        207
+    78         74
+    79        172
+    80         12
+    86          3
+    87          4
+    89         16
+    91         61
+    92          5
+    98          2
+   101          3
+   102         17
+   103        101
+   104          2
+   105        999
+   106        256
+   107         20
+   115          7
+   116          1
+   117          3
+   131          2
+   148        209
+   149         21

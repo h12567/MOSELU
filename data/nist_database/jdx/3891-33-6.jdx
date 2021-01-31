@@ -1,0 +1,47 @@
+##TITLE=Library Entry 24672
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,4-Bis-(vinyloxy)-butane
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=3891-33-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        317
+    28        466
+    29        531
+    31        280
+    39        212
+    41        333
+    42        219
+    43        503
+    44        156
+    45        118
+    53         84
+    55        986
+    56         89
+    57        999
+    58         54
+    67         26
+    69        101
+    70        112
+    71        127
+    72         23
+    79         40
+    81        108
+    83         26
+    85        129
+    86         11
+    97         15
+    98        472
+    99        221
+   100         18
+   101        327
+   102         21
+   114         11

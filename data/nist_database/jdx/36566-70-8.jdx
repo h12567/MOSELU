@@ -1,0 +1,57 @@
+##TITLE=Library Entry 54851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Hydrazine, 1,1-di-2-butenyl-
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=36566-70-8
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    28        157
+    29        540
+    30         88
+    31         62
+    32         42
+    38         11
+    39        232
+    40         24
+    41        621
+    42        194
+    43        338
+    44        325
+    45        168
+    50         11
+    51         24
+    52         15
+    53         95
+    54         43
+    55        811
+    56        149
+    57         34
+    58         88
+    59          8
+    67         32
+    68        432
+    69        102
+    70         23
+    71         25
+    80          8
+    81          8
+    82         10
+    83         34
+    84         23
+    85        999
+    86        105
+    97          8
+    99         19
+   108          8
+   125         23
+   140        460
+   141         65

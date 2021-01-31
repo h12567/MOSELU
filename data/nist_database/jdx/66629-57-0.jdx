@@ -1,0 +1,29 @@
+##TITLE=Library Entry 97475
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethanesulfonyl-dichloromethanesulfonyl chloride
+##MOLFORM=C2H2Cl4O4S2
+##CAS REGISTRY NO=66629-57-0
+##MP= -300
+##BP= -300
+##MW= 294
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    48         59
+    49         91
+    51         20
+    64        566
+    82        101
+    83        171
+    84         69
+    85        100
+    97         50
+    99         19
+   117        999
+   119        951
+   121        299
+   123         29

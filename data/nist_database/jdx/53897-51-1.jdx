@@ -1,0 +1,50 @@
+##TITLE=Library Entry 45080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 2-methyl-3-(methylthio)-
+##MOLFORM=C6H14S
+##CAS REGISTRY NO=53897-51-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=862
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         25
+    27        255
+    29        139
+    35         11
+    39        176
+    40         20
+    41        300
+    42         48
+    43        457
+    44         18
+    45        145
+    46         37
+    47        153
+    48         21
+    49         43
+    50         13
+    51         20
+    53         41
+    55        244
+    56         18
+    58         21
+    59         68
+    60         34
+    61         76
+    69         22
+    70         70
+    71        185
+    72         13
+    74         21
+    75        999
+    76         49
+    77         46
+   103         18
+   118        271
+   119         22

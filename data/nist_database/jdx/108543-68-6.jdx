@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89993
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.H. Gerwick, Coll. Pharm., Oregon State Univ., Corvall
+is, Oregon, USA
+##NAMES=HP
+##CAS NAME=Pyrrolidine, 1-(1-oxo-5,7,9,14,17-eicosapentaenyl)-, (E,E,E,Z,Z)-
+##MOLFORM=C24H37NO
+##CAS REGISTRY NO=108543-68-6
+##MP= -300
+##BP= -300
+##MW= 355
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    55        461
+    70        262
+    98        193
+   113        999
+   126         59
+   140         18
+   152         24
+   166         14
+   178          6
+   192          6
+   204          6
+   218         11
+   232         10
+   246         14
+   260          3
+   272          5
+   286         18
+   300          3
+   312          4
+   326          3
+   340          2
+   355         67
+   356         17

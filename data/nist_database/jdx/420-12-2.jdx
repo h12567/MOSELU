@@ -1,0 +1,42 @@
+##TITLE=Library Entry 17127
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.GALLEGOS KANSAS STATE UNIVERSITY, MANHATTAN, KANSAS,
+ USA
+##NAMES=HP
+##CAS NAME=Thiirane
+##MOLFORM=C2H4S
+##CAS REGISTRY NO=420-12-2
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=598
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         17
+    14         49
+    15         16
+    24          3
+    25         28
+    26        191
+    27        446
+    28         78
+    29         28
+    32         79
+    33         38
+    34        121
+    35          2
+    36          2
+    44         27
+    45        999
+    46         28
+    47         36
+    56          8
+    57         80
+    58        202
+    59        690
+    60        758
+    61         59
+    62         25

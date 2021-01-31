@@ -1,0 +1,32 @@
+##TITLE=Library Entry 21434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R B. KING
+##NAMES=HP
+##CAS NAME=Manganese, tricarbonyl[(1,2,3,4,5-.eta.)-1H-pyrrol-1-yl]-
+##MOLFORM=C7H4MnNO3
+##CAS REGISTRY NO=32761-36-7
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    46         10
+    47         10
+    55        999
+    67         20
+    68         60
+    80         20
+    81         40
+    82         10
+    83         10
+    92         10
+    93         20
+    94         30
+    95         20
+   121        600
+   149        180
+   177        100
+   205        130

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 82597
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3661
+##NAMES=HP
+##CAS NAME=N,N-Dimethylnicotinamide
+##MOLFORM=C8H10N2O
+##CAS REGISTRY NO=6972-69-6
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         74
+    25          2
+    26         14
+    27         26
+    28         31
+    29          2
+    30          3
+    36          4
+    37          6
+    38         10
+    39         16
+    40          8
+    41         11
+    42        105
+    43         20
+    44         87
+    45          5
+    48          1
+    49         11
+    50         92
+    51        317
+    52         54
+    53         23
+    54          2
+    55          1
+    56         11
+    57          2
+    58          3
+    61          1
+    62          2
+    63          3
+    64          3
+    65          4
+    66          3
+    67          2
+    68          1
+    72         70
+    73          3
+    74          2
+    75          7
+    76         13
+    77         23
+    78        903
+    79         89
+    80          9
+    81          2
+    91          1
+    92          6
+    93         32
+    94         17
+    95          6
+   104          2
+   105          7
+   106        999
+   107         77
+   108          8
+   109          2
+   110          1
+   119          2
+   120          4
+   121          6
+   122          5
+   123          3
+   133          2
+   134          2
+   135          7
+   148          8
+   149        818
+   150        331
+   151         31
+   152          2

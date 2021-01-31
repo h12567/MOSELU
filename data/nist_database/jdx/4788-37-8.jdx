@@ -1,0 +1,83 @@
+##TITLE=Library Entry 62108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-Benzyl-N-ethylmethylamine
+##MOLFORM=C10H15N
+##CAS REGISTRY NO=4788-37-8
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    15          9
+    18          2
+    26          3
+    27         20
+    29         20
+    30          7
+    37          1
+    38          5
+    39         44
+    40          4
+    41         19
+    42        115
+    43         20
+    44         72
+    45          2
+    50         14
+    51         36
+    52          9
+    53          2
+    54          3
+    55          2
+    56         19
+    57          4
+    58         18
+    61          1
+    62          7
+    63         29
+    64          8
+    65        119
+    66          8
+    67          7
+    71          2
+    72        162
+    73          8
+    74          3
+    75          3
+    76          4
+    77         23
+    78          8
+    79          3
+    86          1
+    87          1
+    89         29
+    90         14
+    91        999
+    92         95
+    93          4
+   102          1
+   103          3
+   104          7
+   105          4
+   115          1
+   116          1
+   117          6
+   118         11
+   119          1
+   120          9
+   130          1
+   131          2
+   132         11
+   134        474
+   135         51
+   136          2
+   146          5
+   147          1
+   148         44
+   149        132
+   150         14

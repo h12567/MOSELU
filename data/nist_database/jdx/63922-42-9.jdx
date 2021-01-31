@@ -1,0 +1,30 @@
+##TITLE=Library Entry 12512
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(3)743(1977); 6; H. EICHENBERGER
+##NAMES=HP
+##CAS NAME=5-Hepten-3-yn-2-one, 6-methyl-5-(1-methylethyl)-
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=63922-42-9
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        360
+    43        999
+    51        180
+    53        160
+    63        120
+    65        130
+    77        330
+    79        270
+    91        250
+   105        180
+   107        220
+   121        140
+   149        960
+   150        100
+   164        450

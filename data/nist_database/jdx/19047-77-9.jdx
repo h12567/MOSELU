@@ -1,0 +1,44 @@
+##TITLE=Library Entry 96515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.I.ONUSKA CANADA CENTRE FOR INLAND WATERS, ONTARIO, CA
+NADA
+##NAMES=HP
+##CAS NAME=Carbamodithioic acid, diethyl-, propyl ester
+##MOLFORM=C8H17NS2
+##CAS REGISTRY NO=19047-77-9
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=1569
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        380
+    29        376
+    41         12
+    42        110
+    43        222
+    44        369
+    56        128
+    57         18
+    58         33
+    59        110
+    60        620
+    61         69
+    72        263
+    73         22
+    76         37
+    88        624
+    90         40
+    91         19
+   116        999
+   117         84
+   119         26
+   120         18
+   148         66
+   149        340
+   150         40
+   191        274
+   192        110
+   193         40

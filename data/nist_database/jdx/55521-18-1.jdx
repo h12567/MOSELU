@@ -1,0 +1,80 @@
+##TITLE=Library Entry 43579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentonic acid, 3-deoxy-2,4,5-tris-O-(trimethylsilyl)-, trimethyls
+ilyl ester
+##MOLFORM=C17H42O5Si4
+##CAS REGISTRY NO=55521-18-1
+##MP= -300
+##BP= -300
+##MW= 438
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41         29
+    43         26
+    44         26
+    45         85
+    47          8
+    55         44
+    59         56
+    69         91
+    72         29
+    73        999
+    74         88
+    75        103
+    83         59
+    89         23
+   101         32
+   103         26
+   105         23
+   106         73
+   129         56
+   131         29
+   133         85
+   134          8
+   147        353
+   148         61
+   149         44
+   159          5
+   163          5
+   175         11
+   189         73
+   190         26
+   191         26
+   204         23
+   205        118
+   206         26
+   207          8
+   217         56
+   218         11
+   219         56
+   220         11
+   221         26
+   231        236
+   232         59
+   233         29
+   245        578
+   246        120
+   247         61
+   258          8
+   259         23
+   292         14
+   306         26
+   321         29
+   322         11
+   333        324
+   334        118
+   335        542
+   336        156
+   337         76
+   338         11
+   348         26
+   349          8
+   423        221
+   424         91
+   425         82
+   426         14

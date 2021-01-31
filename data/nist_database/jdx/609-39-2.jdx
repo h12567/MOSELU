@@ -1,0 +1,59 @@
+##TITLE=Library Entry 89835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2-Nitrofuran
+##MOLFORM=C4H3NO3
+##CAS REGISTRY NO=609-39-2
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    13         16
+    14         14
+    16         10
+    17          5
+    18          3
+    24          5
+    25         21
+    26         80
+    27        211
+    28         25
+    29        268
+    30        240
+    36         18
+    37        122
+    38        242
+    39        601
+    40         29
+    41         69
+    42         11
+    43          5
+    44          2
+    46         22
+    49          1
+    50          9
+    51         32
+    52         72
+    53         45
+    54         20
+    55        195
+    56          6
+    57          3
+    66         47
+    67         11
+    68         97
+    69         21
+    80         23
+    81         11
+    83        461
+    84         16
+    96         19
+    97         65
+   113        999
+   114         37
+   115          6

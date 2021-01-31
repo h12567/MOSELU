@@ -1,0 +1,25 @@
+##TITLE=Library Entry 139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER, UNIV. OF COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetrazine
+##MOLFORM=C2H2N4
+##CAS REGISTRY NO=290-96-0
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    12         48
+    13        111
+    14         23
+    26         93
+    27        755
+    28        999
+    29         31
+    53         91
+    54         68
+    82        434

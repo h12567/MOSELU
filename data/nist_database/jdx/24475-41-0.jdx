@@ -1,0 +1,61 @@
+##TITLE=Library Entry 86056
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, VOL.4, ATLAS OF MASS SPECTRA OF ORGANIC C
+OMPOUNDS
+##NAMES=HP
+##CAS NAME=3,5-Dimethyl-1-hexylpyrazole
+##MOLFORM=C11H20N2
+##CAS REGISTRY NO=24475-41-0
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         46
+    28        125
+    29        116
+    30         15
+    39         80
+    40         25
+    41        300
+    42        143
+    43         89
+    53         38
+    54         36
+    55        175
+    56         48
+    57         20
+    65         19
+    66         19
+    67         32
+    68         52
+    69         73
+    70         13
+    79         15
+    80         20
+    81         25
+    82         29
+    83         21
+    95        105
+    96        511
+    97        218
+    98         14
+   108         28
+   109        999
+   110        321
+   111         23
+   123         62
+   124        107
+   125         11
+   137         54
+   138         19
+   151        232
+   152         32
+   165        212
+   166         30
+   180         66
+   181          9

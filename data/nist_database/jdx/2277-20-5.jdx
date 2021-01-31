@@ -1,0 +1,64 @@
+##TITLE=Library Entry 2730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLY UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=6-Nonenal, (E)-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=2277-20-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1438
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        240
+    41        999
+    42        160
+    43        170
+    45         10
+    50         10
+    51         30
+    52         20
+    53        115
+    54        490
+    55        620
+    56        170
+    57        170
+    58         40
+    63         10
+    65         35
+    66         30
+    67        450
+    68        150
+    69        320
+    70        270
+    71         70
+    72         95
+    77         40
+    78         20
+    79        160
+    80         70
+    81        420
+    82         70
+    83        190
+    84        140
+    85         20
+    91         40
+    92         10
+    93        230
+    94         60
+    95         60
+    96        235
+    97        150
+    98        195
+    99         20
+   107         70
+   109         30
+   111         80
+   112         60
+   122        210
+   123         30
+   140          8

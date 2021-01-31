@@ -1,0 +1,67 @@
+##TITLE=Library Entry 96343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.JASTORFF MAX-PLANK INSTITUT, GOTTINGEN, F.R.G.
+##NAMES=HP
+##CAS NAME=Thymidine, 5'-amino-5'-deoxy-
+##MOLFORM=C10H15N3O4
+##CAS REGISTRY NO=25152-20-9
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    41        110
+    42        130
+    43        180
+    44        530
+    45        150
+    52         30
+    53         50
+    54        150
+    55        260
+    56        100
+    57         60
+    58         60
+    60         40
+    68        140
+    69         80
+    70        100
+    80         60
+    81         50
+    82         60
+    83         60
+    84         30
+    86         30
+    87         30
+    96         30
+    97         40
+    98        120
+    99         20
+   109         40
+   110        330
+   111         30
+   115         80
+   116        999
+   117        140
+   118         10
+   122         40
+   126        500
+   127        210
+   128         20
+   150         50
+   152         20
+   153        420
+   154         40
+   155         10
+   193         10
+   194         20
+   195         10
+   212         30
+   213         10
+   223         70
+   224         10
+   241          2
+   242          4

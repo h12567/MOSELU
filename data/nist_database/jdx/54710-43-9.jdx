@@ -1,0 +1,32 @@
+##TITLE=Library Entry 24037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Dimethylchlorsilyl tert-buthyl peroxide
+##MOLFORM=C6H15ClO2Si
+##CAS REGISTRY NO=54710-43-9
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        226
+    43        259
+    45         29
+    47         19
+    56         78
+    57        999
+    59         39
+    79         60
+    81         19
+    95         29
+    97          9
+   109         58
+   111         19
+   167         14
+   169          5
+   182         29
+   184          9

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 76548
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzene, (2-bromoethenyl)-, (E)-
+##MOLFORM=C8H7Br
+##CAS REGISTRY NO=588-72-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         26
+    34          8
+    37          3
+    38         30
+    39         53
+    44          4
+    49          5
+    50        174
+    51        456
+    52         45
+    61         14
+    62         32
+    63         52
+    73          8
+    74         71
+    75         86
+    76        106
+    77        584
+    78         42
+    91         16
+    92         12
+   101         12
+   102        159
+   103        999
+   104         71
+   182        470
+   183         26
+   184        444
+   185         25

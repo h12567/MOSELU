@@ -1,0 +1,63 @@
+##TITLE=Library Entry 46670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-(4-Ethoxybenzylidene)aniline
+##MOLFORM=C15H15NO
+##CAS REGISTRY NO=24313-64-2
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        371
+    40         95
+    41         60
+    43         85
+    44         41
+    51        719
+    53         18
+    55         61
+    56         19
+    57         27
+    63        160
+    65        275
+    66         35
+    69         15
+    70         21
+    71         10
+    74         44
+    77        999
+    79         13
+    83         18
+    84         10
+    89         29
+    90         17
+    91         22
+    93         48
+    94         45
+   102         13
+   104         79
+   105         11
+   112         10
+   113         10
+   115         38
+   139         25
+   140         14
+   141         13
+   151         14
+   152         12
+   166         43
+   167        101
+   168         58
+   178         10
+   179         12
+   196        562
+   197        146
+   198         16
+   224        355
+   225        471
+   226         74

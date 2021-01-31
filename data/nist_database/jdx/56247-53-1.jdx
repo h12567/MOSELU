@@ -1,0 +1,60 @@
+##TITLE=Library Entry 57460
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 2-propyl-, methyl ester
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=56247-53-1
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1155
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         25
+    28          7
+    29         50
+    39         19
+    41        125
+    42         19
+    43        168
+    45          7
+    53          7
+    55        180
+    56         19
+    57        112
+    59         50
+    67          7
+    68          0
+    69         81
+    70          0
+    71         87
+    73         19
+    74         13
+    75          7
+    81          7
+    82          0
+    83         25
+    84         13
+    85         44
+    87        999
+    88         44
+    95          7
+    97         13
+   101        168
+   102          7
+   111          7
+   113         13
+   115         81
+   116        404
+   117         13
+   127         13
+   129         63
+   130          7
+   142         25
+   143        149
+   144         44
+   155         19
+   157         19

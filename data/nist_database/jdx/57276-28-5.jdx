@@ -1,0 +1,63 @@
+##TITLE=Library Entry 97906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(10)913(1975); D. F. GLENN
+##NAMES=HP
+##CAS NAME=Methanone, cyclopropyl-2-pyridinyl-
+##MOLFORM=C9H9NO
+##CAS REGISTRY NO=57276-28-5
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         21
+    38         63
+    39        292
+    40         54
+    41        371
+    42         16
+    49         15
+    50         96
+    51        313
+    52        183
+    53         28
+    55          9
+    61          5
+    62         11
+    63         23
+    64         18
+    65         17
+    66          7
+    67          4
+    68         22
+    69        196
+    70          8
+    73          6
+    74          5
+    75         10
+    76         20
+    77         15
+    78        572
+    79        258
+    80         63
+    89         10
+    90          9
+    91         67
+    92         10
+    93        133
+    94         10
+   104         18
+   106         71
+   109          6
+   117         54
+   118        999
+   119        242
+   120         18
+   129         17
+   131         26
+   146        208
+   147        229
+   148         42

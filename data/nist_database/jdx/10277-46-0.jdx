@@ -1,0 +1,65 @@
+##TITLE=Library Entry 82869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=2-Methyl-5-(4-methylpentyl)pyridine
+##MOLFORM=C12H19N
+##CAS REGISTRY NO=10277-46-0
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39         53
+    41         58
+    42         15
+    43         46
+    44         25
+    51         24
+    52         18
+    53         30
+    55         13
+    57         14
+    63         12
+    65         47
+    66         15
+    67         11
+    77        135
+    78         41
+    79         81
+    80         13
+    91         38
+    92         33
+    93         31
+    94         30
+   104         14
+   105         24
+   106        999
+   107        247
+   108         32
+   117         43
+   118         19
+   119         57
+   120        137
+   121         50
+   122         54
+   130         11
+   131         16
+   132         96
+   133         17
+   134         33
+   135         18
+   146         10
+   148         22
+   149         10
+   150         42
+   160         18
+   161         32
+   162        213
+   175         19
+   176         16
+   177        120
+   178         18

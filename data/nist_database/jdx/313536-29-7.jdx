@@ -1,0 +1,83 @@
+##TITLE=Library Entry 56733
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=1H-Imidazole-4-carboxylic acid, 5-morpholinocarbonyl-, ethyl este
+r
+##MOLFORM=C11H15N3O4
+##CAS REGISTRY NO=313536-29-7
+##MP= -300
+##BP= -300
+##MW= 253
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    52          1
+    53          1
+    54         14
+    55         36
+    56        168
+    57         93
+    58         16
+    65         12
+    66          6
+    67         84
+    68        244
+    69         12
+    70         15
+    72          6
+    75          5
+    82          2
+    84          1
+    85         94
+    86        999
+    87         64
+    91          7
+    93          6
+    94         70
+    95         79
+    96        146
+    97          3
+   107          1
+   108         11
+   110          1
+   112         14
+   120          1
+   121        275
+   122         53
+   123         35
+   136          2
+   138          2
+   139        436
+   140         64
+   141          6
+   149         19
+   150         12
+   151          1
+   154         92
+   155          4
+   164          3
+   166         35
+   167        187
+   168         36
+   169          3
+   177         31
+   178          5
+   179          5
+   180         23
+   183          1
+   194          8
+   195          5
+   196          3
+   206         11
+   207          6
+   208         17
+   210          6
+   212          5
+   223          8
+   224         20
+   225         10
+   253        181
+   254         21

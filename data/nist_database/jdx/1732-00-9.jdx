@@ -1,0 +1,62 @@
+##TITLE=Library Entry 44615
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. SHAW, NATIONAL INST. OF HEALTH, BETHESDA, MD, USA
+##NAMES=HP
+##CAS NAME=4-Octenoic acid, methyl ester
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=1732-00-9
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=1118
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15        220
+    27        240
+    28        120
+    29        180
+    39        290
+    40         50
+    41        590
+    42        100
+    43        490
+    44         20
+    45         40
+    51         30
+    52         20
+    53        130
+    54        280
+    55        770
+    56         90
+    57         60
+    59        360
+    65         40
+    66         20
+    67        470
+    68        100
+    69         60
+    71         60
+    72         30
+    74        999
+    75         70
+    77         20
+    79         40
+    81        190
+    82        640
+    83        320
+    85        300
+    87        110
+    88         20
+    95         70
+    96        400
+    97        100
+   101         30
+   113         40
+   114         40
+   124        360
+   125        210
+   127         40
+   156        140
+   157         20

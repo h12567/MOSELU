@@ -1,0 +1,31 @@
+##TITLE=Library Entry 53036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 3-(2-methylpropyl)-
+##MOLFORM=C6H11N3
+##CAS REGISTRY NO=40515-29-5
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27         79
+    28         49
+    39         60
+    41         68
+    43         60
+    53         29
+    54         19
+    55         38
+    82         50
+    83        999
+    84         99
+    96         40
+    97         39
+   110        150
+   125         59
+   126          9

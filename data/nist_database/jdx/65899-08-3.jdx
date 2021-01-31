@@ -1,0 +1,63 @@
+##TITLE=Library Entry 66739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=trans-1,2-Bis(dimethylchlorosilyl)ethylene
+##MOLFORM=C6H14Cl2Si2
+##CAS REGISTRY NO=65899-08-3
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    53         81
+    55         60
+    58        257
+    59        516
+    60         57
+    61         16
+    63        177
+    64         19
+    65        226
+    66         26
+    67         97
+    68          6
+    69        131
+    73        137
+    74         10
+    78         58
+    79         80
+    80         27
+    81         28
+    83        368
+    84        326
+    85         60
+    86         30
+    93        999
+    94        100
+    95        367
+    96         30
+    99        488
+   100         64
+   101         31
+   103         96
+   104          7
+   105         57
+   107         20
+   113         51
+   115         30
+   119         29
+   121         10
+   177         81
+   179         29
+   197        617
+   198         76
+   199        430
+   200         29
+   201         68
+   212         70
+   214         51
+   216         22

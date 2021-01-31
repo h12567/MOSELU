@@ -1,0 +1,26 @@
+##TITLE=Library Entry 15694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,112(6)2158(1979); W. LUTZ AND W. SUNDERMEYER
+##NAMES=HP
+##CAS NAME=Urea, (trifluoromethyl)-
+##MOLFORM=C2H3F3N2O
+##CAS REGISTRY NO=61919-30-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43         20
+    44        999
+    45         30
+    46         90
+    66        220
+    69        300
+    85         30
+    92         80
+   108        100
+   112         20
+   128        260

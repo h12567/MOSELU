@@ -1,0 +1,88 @@
+##TITLE=Library Entry 15676
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=Epinephrine
+##MOLFORM=C9H13NO3
+##CAS REGISTRY NO=51-43-4
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    38          9
+    39         65
+    40          7
+    41         12
+    42         51
+    43         33
+    44        999
+    45         55
+    46         24
+    50         15
+    51         35
+    52         17
+    53         36
+    54         11
+    55         28
+    56          4
+    57          2
+    58          1
+    62         10
+    63         31
+    64         15
+    65        120
+    66         15
+    67          6
+    68          2
+    69          2
+    74          2
+    75          4
+    76          4
+    77         22
+    78          9
+    79          8
+    80          4
+    81         27
+    82         11
+    83          1
+    89          8
+    90          1
+    91          6
+    92          6
+    93         86
+    94         12
+    95          2
+   104          2
+   105          2
+   106          2
+   107          5
+   108          2
+   109         13
+   110         15
+   111         23
+   118          4
+   119          1
+   122          5
+   123         15
+   124          8
+   135          2
+   136         11
+   137         36
+   138         10
+   139         34
+   140         11
+   146          5
+   147          1
+   148          1
+   149          1
+   152          1
+   164          2
+   165          7
+   166          6
+   183         25
+   184          5

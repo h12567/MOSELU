@@ -1,0 +1,28 @@
+##TITLE=Library Entry 9374
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5-Phenyl-thiazolidine
+##MOLFORM=C9H11NS
+##CAS REGISTRY NO=107326-19-2
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    42        211
+    43        999
+    45        155
+    77        243
+    78        132
+    91        243
+   103        133
+   104        154
+   119         10
+   123        143
+   135        210
+   136        132
+   165        221

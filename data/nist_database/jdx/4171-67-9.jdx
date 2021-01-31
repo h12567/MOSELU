@@ -1,0 +1,39 @@
+##TITLE=Library Entry 61042
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=d-Glucosamine, N-benzoyl-3,4,6-O-tribenzyl-1-O-t-butyl-
+##MOLFORM=C38H43NO6
+##CAS REGISTRY NO=4171-67-9
+##MP= -300
+##BP= -300
+##MW= 609
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41         11
+    57        167
+    77         62
+    91        999
+    92         72
+   105        425
+   106         27
+   122         14
+   163         48
+   181         80
+   200         10
+   216         19
+   224         46
+   253         12
+   266        361
+   267         82
+   322         10
+   324         28
+   344         56
+   354         16
+   446         11
+   552        102
+   553         32
+   609         11

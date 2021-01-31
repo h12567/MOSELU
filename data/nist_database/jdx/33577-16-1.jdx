@@ -1,0 +1,61 @@
+##TITLE=Library Entry 31124
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7684
+##NAMES=HP
+##CAS NAME=Methane, (methylsulfinyl)(methylthio)-
+##MOLFORM=C3H8OS2
+##CAS REGISTRY NO=33577-16-1
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1183
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          4
+    15         24
+    17          6
+    18         31
+    26          1
+    27        155
+    28         10
+    29         12
+    30          3
+    31          4
+    32          5
+    33          5
+    34          7
+    35        200
+    36          2
+    37          9
+    44         11
+    45        126
+    46         83
+    47         38
+    48         11
+    49          4
+    50          1
+    57          3
+    58          9
+    59         22
+    60          9
+    61        999
+    62         33
+    63         69
+    64          7
+    65          2
+    75          1
+    76          4
+    77          3
+    78          1
+    79          3
+    91          1
+    92          1
+    93          1
+    94          3
+   107          1
+   108          6
+   124         11
+   125          1
+   126          1

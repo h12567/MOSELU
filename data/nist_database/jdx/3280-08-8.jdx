@@ -1,0 +1,47 @@
+##TITLE=Library Entry 30309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.MEOT-NER THE ROCKEFELLER UNIV., NEW YORK, N.Y., USA
+##NAMES=HP
+##CAS NAME=Benzeneethanol, .alpha.,.alpha.,.beta.-trimethyl-
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=3280-08-8
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    28         80
+    29         40
+    31        170
+    39        100
+    41        120
+    43        610
+    51        150
+    52         40
+    53         40
+    59        999
+    60         50
+    65         80
+    71         60
+    77        375
+    79        260
+    91        999
+    92        160
+   103        200
+   104        210
+   105        900
+   106        990
+   107        275
+   115         60
+   117         40
+   121        310
+   131        100
+   145         30
+   146         50
+   147         60
+   149        260
+   150         30
+   164        100

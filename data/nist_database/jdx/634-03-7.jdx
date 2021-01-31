@@ -1,0 +1,75 @@
+##TITLE=Library Entry 25877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Phendimetrazine
+##MOLFORM=C12H17NO
+##CAS REGISTRY NO=634-03-7
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=1476
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15         10
+    27         24
+    28         27
+    29         27
+    30         13
+    38          6
+    39         40
+    40          9
+    41          6
+    42        634
+    43         26
+    44         29
+    50         27
+    51         74
+    52         25
+    53          7
+    54         22
+    55          6
+    56        286
+    57        999
+    58         50
+    62          7
+    63         28
+    64          8
+    65         29
+    66          4
+    68          6
+    70        154
+    71         11
+    72          3
+    74          6
+    75          7
+    76         15
+    77        145
+    78         41
+    79         17
+    85        726
+    86         46
+    89         29
+    90         14
+    91         80
+    92          7
+    96          4
+   100          7
+   102          9
+   103         16
+   105         81
+   106         10
+   115         55
+   116         15
+   117         80
+   118         35
+   119          6
+   130          6
+   131          5
+   144          7
+   176          7
+   190          7
+   191         88
+   192         10

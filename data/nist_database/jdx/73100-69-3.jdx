@@ -1,0 +1,69 @@
+##TITLE=Library Entry 10176
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=7-[p-Nitrobenzyl]guanine
+##MOLFORM=C12H10N6O3
+##CAS REGISTRY NO=73100-69-3
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41        121
+    42         61
+    43        999
+    44        133
+    45        103
+    47        270
+    49         71
+    50          7
+    51         33
+    52         49
+    53        186
+    54         74
+    55        169
+    56         20
+    57        100
+    60         23
+    62         25
+    63        230
+    64         99
+    65         42
+    67         69
+    68        103
+    69        175
+    70         21
+    71         48
+    74         20
+    76         52
+    77        134
+    78        413
+    79         29
+    80         92
+    82        120
+    84         21
+    86         14
+    88         25
+    89        529
+    90        284
+    91         45
+    95         48
+    96         53
+   106        117
+   107         39
+   115         20
+   116         45
+   122         23
+   123        185
+   136         99
+   150        338
+   239        113
+   269        208
+   286        377
+   287         58
+   288          4

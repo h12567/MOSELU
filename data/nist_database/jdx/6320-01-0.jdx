@@ -1,0 +1,71 @@
+##TITLE=Library Entry 86637
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=3-Bromothiophenol
+##MOLFORM=C6H5BrS
+##CAS REGISTRY NO=6320-01-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    36         11
+    37         23
+    38         36
+    39         47
+    45         42
+    49         11
+    50         56
+    51         19
+    53         10
+    54         48
+    55          4
+    57         15
+    58         30
+    59          3
+    61         19
+    62         32
+    63         81
+    64         13
+    65        176
+    66         10
+    68          7
+    69        160
+    70          9
+    71         10
+    73         16
+    74         62
+    75         63
+    76         37
+    77          9
+    79          3
+    80          5
+    81         45
+    82         78
+    83         20
+    84          7
+    93         14
+    94         35
+    95         37
+   105          6
+   106          7
+   107         15
+   108        214
+   109        999
+   110         80
+   111         46
+   117          3
+   119          1
+   144          1
+   155          8
+   157          7
+   187         20
+   188        487
+   189         54
+   190        499
+   191         36
+   192         22

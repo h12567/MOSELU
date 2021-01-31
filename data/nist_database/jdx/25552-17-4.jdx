@@ -1,0 +1,30 @@
+##TITLE=Library Entry 80880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Hexanone, 5-methyl-1-phenyl-
+##MOLFORM=C13H18O
+##CAS REGISTRY NO=25552-17-4
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        101
+    42         14
+    43         59
+    44          6
+    51        140
+    57          7
+    77        461
+    78         34
+   105        999
+   106         70
+   120        713
+   121         56
+   189          3
+   190         56
+   191          8

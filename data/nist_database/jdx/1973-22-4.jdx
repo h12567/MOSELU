@@ -1,0 +1,64 @@
+##TITLE=Library Entry 81460
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, 1-bromo-2-ethyl-
+##MOLFORM=C8H9Br
+##CAS REGISTRY NO=1973-22-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1166
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15         26
+    26         18
+    27         59
+    28          3
+    37         22
+    38         44
+    39        118
+    40         15
+    49         26
+    50        203
+    51        348
+    52         74
+    53         23
+    61         36
+    62         99
+    63        231
+    64         41
+    65         25
+    73         24
+    74        111
+    75        110
+    76         85
+    77        422
+    78        167
+    79        184
+    80         19
+    81         10
+    85          8
+    86         16
+    87         17
+    88          8
+    89        231
+    90        202
+    91         23
+    98         12
+   101         17
+   102         71
+   103        196
+   104        152
+   105        999
+   106         78
+   169        644
+   170         63
+   171        622
+   172         49
+   184        366
+   185         40
+   186        359
+   187         33

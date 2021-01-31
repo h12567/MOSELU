@@ -1,0 +1,41 @@
+##TITLE=Library Entry 65053
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Sulfacarbamide
+##MOLFORM=C7H9N3O3S
+##CAS REGISTRY NO=547-44-4
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=2040
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        137
+    43        169
+    52        120
+    53         82
+    63        152
+    64        113
+    65        818
+    80         96
+    91         57
+    92        999
+    93         71
+   107         41
+   108        531
+   109        247
+   123          9
+   140         29
+   156        677
+   157         49
+   158         29
+   172        292
+   173         38
+   174          9
+   198        226
+   199         20
+   200          9
+   215         29

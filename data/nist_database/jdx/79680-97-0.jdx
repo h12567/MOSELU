@@ -1,0 +1,54 @@
+##TITLE=Library Entry 18493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanedinitrile, aminomethyl-
+##MOLFORM=C4H5N3
+##CAS REGISTRY NO=79680-97-0
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    25         11
+    26         79
+    27        424
+    28         96
+    29          3
+    30          2
+    36          2
+    37          7
+    38         63
+    39         55
+    40        114
+    41        185
+    42        265
+    43         20
+    44          1
+    50         11
+    51         52
+    52         77
+    53        999
+    54         58
+    55          3
+    56          1
+    57          3
+    64          5
+    65          4
+    66         10
+    67         21
+    68        201
+    69        101
+    70          4
+    71          1
+    76          3
+    77          9
+    78         10
+    79          4
+    80        982
+    81         36
+    95         34
+    96          2

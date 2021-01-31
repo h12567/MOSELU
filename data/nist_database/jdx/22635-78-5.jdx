@@ -1,0 +1,43 @@
+##TITLE=Library Entry 60513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Spiro[3.3]hepta-1,5-diene
+##MOLFORM=C7H8
+##CAS REGISTRY NO=22635-78-5
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         39
+    31         21
+    37         14
+    38         33
+    39        170
+    40         55
+    41         18
+    43         10
+    45         18
+    50         29
+    51         52
+    52         21
+    53         23
+    58         10
+    61         12
+    62         25
+    63         56
+    64         16
+    65        175
+    66         73
+    77         12
+    86         13
+    89         22
+    90         10
+    91        999
+    92        310
+    93          7

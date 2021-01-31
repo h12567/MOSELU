@@ -1,0 +1,24 @@
+##TITLE=Library Entry 62683
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Imidazole-2-carboxaldehyde, 1-(phenylmethyl)-
+##MOLFORM=C11H10N2O
+##CAS REGISTRY NO=10045-65-5
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    51         50
+    65        140
+    91        999
+    92         80
+   130         50
+   157        750
+   158        120
+   186        430
+   187         50

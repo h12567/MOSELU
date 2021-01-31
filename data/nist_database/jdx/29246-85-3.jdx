@@ -1,0 +1,27 @@
+##TITLE=Library Entry 66901
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.G.MONTEMAYOR UNIV. OF UTAH, SALT LAKE CITY, UTAH, USA
+##NAMES=HP
+##CAS NAME=Phosphoramidous chloride fluoride, dimethyl-
+##MOLFORM=C2H6ClFNP
+##CAS REGISTRY NO=29246-85-3
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    14         85
+    15        305
+    19         51
+    31        136
+    35         85
+    37         17
+    50        271
+    85        254
+    87         85
+    94        999
+   129        254
+   131         85

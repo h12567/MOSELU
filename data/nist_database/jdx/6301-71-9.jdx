@@ -1,0 +1,76 @@
+##TITLE=Library Entry 72931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-(Cyclohexyl)succinimide
+##MOLFORM=C10H15NO2
+##CAS REGISTRY NO=6301-71-9
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    18         36
+    26         23
+    27        120
+    28        150
+    29         45
+    30         10
+    37          1
+    39         69
+    40         16
+    41        118
+    42         45
+    43         20
+    44         59
+    45          1
+    50          2
+    51          7
+    52          6
+    53         31
+    54         76
+    55        173
+    56         82
+    57         12
+    58          3
+    63          1
+    65          5
+    67         85
+    68         17
+    69         26
+    70         17
+    72         94
+    73          3
+    77          7
+    78          2
+    79         16
+    80          7
+    81         21
+    82         93
+    83         13
+    84         13
+    85          3
+    94          1
+    96         13
+    97         11
+    98          8
+   100        999
+   101         47
+   102          5
+   110         18
+   111          4
+   112          4
+   113          3
+   124          3
+   125          4
+   126          2
+   138         15
+   139          1
+   152          2
+   153          1
+   181          2

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 19458
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 3-chlorononanoate
+##MOLFORM=C10H18Cl2O2
+##CAS REGISTRY NO=80418-72-0
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1526
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        212
+    41        886
+    42        330
+    43        802
+    49        202
+    51         69
+    53        121
+    54        188
+    55        999
+    56        208
+    57        248
+    67        271
+    68        171
+    69        526
+    70        288
+    71        119
+    72         59
+    77         30
+    79         69
+    81        377
+    82         90
+    83        170
+    84        240
+    85         80
+    89         50
+    93         49
+    94        118
+    95        270
+    96        877
+    97        281
+    98         59
+    99         30
+   105         39
+   106         10
+   108         39
+   109        109
+   110         99
+   111         49
+   118         59
+   119         60
+   121        119
+   131         30
+   132         19
+   135         59
+   138        218
+   139        690
+   175        179
+   177         60
+   205        320
+   207        109

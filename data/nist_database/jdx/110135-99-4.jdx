@@ -1,0 +1,61 @@
+##TITLE=Library Entry 72206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Methylaminocarbonyl-3-(2-ethyl-butanoyl)-urea
+##MOLFORM=C9H17N3O3
+##CAS REGISTRY NO=110135-99-4
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    29         20
+    30         58
+    31         19
+    32         20
+    43        118
+    55         20
+    57         80
+    58        167
+    60         19
+    61         70
+    69         40
+    70         29
+    71        926
+    72         59
+    73         20
+    74         19
+    75         19
+    83         40
+    86         59
+    87        189
+    88         19
+    98        291
+    99        999
+   100        109
+   101        209
+   113         20
+   115         39
+   116        448
+   117        199
+   118        531
+   119         20
+   129         19
+   130        149
+   143         39
+   144        270
+   145         40
+   150         40
+   159         40
+   172         59
+   185        229
+   186         60
+   187        249
+   188         20
+   215        339
+   216         99
+   217         29

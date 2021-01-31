@@ -1,0 +1,112 @@
+##TITLE=Library Entry 39980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.NAGANAWA INST. MICROBIAL CHEM., SHINAGAWA-KU, TOKYO,
+ JAPAN
+##NAMES=HP
+##CAS NAME=l-Valinamide, N-(3-methyl-1-oxobutyl)-l-valyl-N-[10-(2-methoxy-2-
+oxoethyl)-12,12-dimethyl-1,9-bis(2-methylpropyl)-4,7-dioxo-2-[(trimethylsily
+l)oxy]-6-[[(trimethylsilyl)oxy]methyl]-11-oxa-5,8-diaza-12-silatridec-1-yl]-
+, [1S-(1R*,2R*,6R*,9R*,10R*)]-
+##MOLFORM=C44H89N5O10Si3
+##CAS REGISTRY NO=77847-02-0
+##MP= -300
+##BP= -300
+##MW= 931
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 93
+##XYDATA=(XY..XY) 1 
+    41        223
+    43        221
+    55        177
+    57        203
+    72        999
+    73        482
+    75        749
+    86        315
+   101        296
+   147        130
+   156        192
+   172        234
+   184        332
+   283        571
+   368        159
+   369         75
+   370         59
+   372         50
+   373         28
+   380         49
+   387         40
+   389         29
+   392         38
+   441         49
+   448         67
+   452         60
+   457         40
+   472         59
+   473         42
+   474        157
+   475         87
+   476         45
+   477         25
+   499         59
+   505         63
+   522         60
+   529         45
+   530         28
+   531         31
+   532         43
+   544         40
+   548         27
+   553         20
+   554         28
+   563        139
+   564        382
+   565        214
+   566        113
+   567         37
+   581        155
+   582         64
+   583         41
+   584         25
+   601         28
+   632         72
+   633         29
+   643        178
+   644         94
+   645         63
+   666        102
+   667         54
+   668         33
+   671        727
+   672        369
+   673        164
+   674         53
+   676         63
+   677         49
+   740         27
+   745         42
+   756        360
+   757        221
+   758        107
+   759         29
+   760         32
+   775         42
+   776         45
+   810         29
+   826         82
+   827         54
+   828         34
+   830         29
+   841         75
+   842         55
+   843         32
+   900         33
+   901         32
+   916        232
+   917        165
+   918         98
+   919         34
+   931         34
+   932         25

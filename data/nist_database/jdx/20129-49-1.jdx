@@ -1,0 +1,67 @@
+##TITLE=Library Entry 25530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methyldotriacontane
+##MOLFORM=C33H68
+##CAS REGISTRY NO=20129-49-1
+##MP= -300
+##BP= -300
+##MW= 464
+##$RETENTION INDEX=3275
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    29         24
+    41        139
+    42         36
+    43        393
+    54         23
+    55        327
+    56        416
+    57        999
+    58         43
+    67         53
+    68         52
+    69        318
+    70        203
+    71        750
+    72         36
+    81         62
+    82         71
+    83        287
+    84         96
+    85        505
+    86         30
+    95         53
+    97        396
+    98         73
+    99        193
+   100         19
+   111        224
+   112         46
+   113        150
+   125         90
+   126         23
+   127        136
+   139         36
+   141        101
+   153         29
+   155         65
+   169         53
+   183         38
+   197         36
+   211         30
+   225         24
+   323         14
+   365         10
+   406         12
+   407         28
+   433          6
+   434         50
+   435        196
+   436         60
+   437         13
+   438          4
+   449          9

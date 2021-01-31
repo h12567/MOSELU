@@ -1,0 +1,72 @@
+##TITLE=Library Entry 66509
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-(2,3-Dimethyltricyclo[2.2.1.02,6]heptan-3-yl)ethanone
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=59300-51-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1184
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         48
+    28         65
+    29         48
+    39         95
+    40         29
+    41        230
+    42         40
+    43        402
+    44         76
+    45         14
+    49          7
+    50         34
+    51         61
+    53        122
+    54         15
+    55        129
+    56         66
+    60         27
+    65         79
+    66         79
+    67        178
+    71         14
+    72        181
+    73         11
+    74          9
+    75          8
+    77        438
+    78         83
+    79        369
+    80        180
+    81         43
+    82         24
+    85         35
+    86         12
+    91        461
+    93        999
+    94        153
+    95         46
+    96         79
+    97         13
+    98         44
+   101          6
+   102         12
+   103         83
+   104         15
+   105        297
+   106        116
+   109         74
+   110         15
+   112          6
+   117         12
+   121        752
+   122        117
+   130         18
+   149         35
+   164        442
+   165         43

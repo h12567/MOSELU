@@ -1,0 +1,50 @@
+##TITLE=Library Entry 33175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=3,4-Dibromo-1-pentene
+##MOLFORM=C5H8Br2
+##CAS REGISTRY NO=91198-48-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    44          1
+    50          4
+    51          8
+    52          5
+    53         18
+    61          3
+    62          7
+    63          9
+    64          2
+    65         47
+    66         25
+    67        999
+    68         70
+    69          1
+    79          4
+    80          5
+    81          3
+    82          4
+    93          4
+    95          3
+   105          3
+   106          1
+   107          3
+   108          2
+   119         25
+   120          1
+   121         20
+   122          1
+   146          1
+   147        324
+   148         18
+   149        330
+   150         15
+   186          2
+   188          1

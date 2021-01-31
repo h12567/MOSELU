@@ -1,0 +1,60 @@
+##TITLE=Library Entry 18039
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,3-Dichloropropionitrile
+##MOLFORM=C3H3Cl2N
+##CAS REGISTRY NO=2601-89-0
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+     4          0
+    12          9
+    13          7
+    14          9
+    24         12
+    25         44
+    26        173
+    27         68
+    28         37
+    32          2
+    35         84
+    36         39
+    37         60
+    38         47
+    39         22
+    40          4
+    47         51
+    49        999
+    50         57
+    51        539
+    52        355
+    53         47
+    59          5
+    60         33
+    61         96
+    62        157
+    63         32
+    64         48
+    72          2
+    73          9
+    74         42
+    75          7
+    76         14
+    85         10
+    86         49
+    88        940
+    89         51
+    90        288
+    91         10
+    95          8
+    96          2
+    97          6
+   122          2
+   123          9
+   125          6

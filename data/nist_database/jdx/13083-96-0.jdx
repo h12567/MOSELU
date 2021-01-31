@@ -1,0 +1,52 @@
+##TITLE=Library Entry 42263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=1,6-Di(trimethylsilyl)hexane
+##MOLFORM=C12H30Si2
+##CAS REGISTRY NO=13083-96-0
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    31          4
+    43         15
+    44          7
+    45         35
+    55          4
+    57          4
+    58         15
+    59         87
+    60          7
+    61          4
+    71         10
+    72         16
+    73        999
+    74         77
+    75         35
+    81          4
+    85         22
+    86         11
+    87          3
+    97          8
+    98          3
+    99        219
+   100         27
+   101         25
+   113         12
+   114          8
+   117          4
+   127        573
+   128         76
+   129         26
+   141         92
+   142         24
+   143          7
+   156         10
+   157          5
+   215         10
+   230          3

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 12103
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. DAVIES, UNIVERSITY OF TASMANIA, TASMANIA, AUSTRALI
+A
+##NAMES=HP
+##CAS NAME=Benzenemethanol, .alpha.,.alpha.,4-trimethyl-
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=1197-01-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1183
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27         23
+    29         11
+    31         10
+    39         64
+    41         35
+    43        999
+    44         24
+    50         16
+    51         43
+    52         11
+    53         13
+    57         17
+    59         24
+    63         36
+    64         20
+    65         80
+    66         10
+    67         31
+    73         10
+    74         15
+    77         37
+    78         11
+    79         10
+    89         24
+    91        167
+    92         53
+    93         14
+   105         25
+   107         15
+   115         68
+   116         23
+   117        132
+   118         14
+   119         26
+   131         27
+   132        143
+   133         29
+   135        531
+   136         51
+   150         41

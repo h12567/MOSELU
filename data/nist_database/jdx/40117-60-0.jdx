@@ -1,0 +1,37 @@
+##TITLE=Library Entry 107695
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. PALECEK,DEP. ORG. CHEM.,INST. CHEM. TECHNOL.,PRAGUE,
+CZECH.
+##NAMES=HP
+##CAS NAME=4-(Iodomethyl)-1-azabicyclo[2.2.2]octane
+##MOLFORM=C8H14IN
+##CAS REGISTRY NO=40117-60-0
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        208
+    28        150
+    29        100
+    39        204
+    40         57
+    41        320
+    42        650
+    43         55
+    44        212
+    53        108
+    54         66
+    55        116
+    56         57
+    67        150
+    70        115
+    81        125
+    96         50
+   124        999
+   125         91
+   127         50
+   251         79

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 72098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=2-Butenedioic acid, dibutyl ester
+##MOLFORM=C12H20O4
+##CAS REGISTRY NO=82807-35-0
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27        149
+    29        339
+    30         13
+    31         14
+    39         63
+    41        317
+    42         22
+    43         37
+    53         22
+    54         97
+    55         91
+    56        187
+    57        668
+    58         35
+    70          9
+    71         24
+    72         22
+    75         51
+    81          9
+    82         76
+    84          8
+    97          6
+    98         11
+    99        999
+   100        202
+   101         21
+   112          9
+   113         10
+   117        388
+   118         23
+   119          6
+   126         14
+   127         16
+   139          6
+   143          7
+   153          7
+   154         48
+   155        118
+   156         29
+   157         10
+   171         14
+   172          8
+   173        110
+   174         10
+   228          3

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 56406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-amino-3,5-dibromo-, 2-[N,N-diethylamino]ethyl est
+er
+##MOLFORM=C13H18Br2N2O2
+##CAS REGISTRY NO=129083-47-2
+##MP= -300
+##BP= -300
+##MW= 392
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41         19
+    42        116
+    43         34
+    44         43
+    45          5
+    52         13
+    54         12
+    55          8
+    56         92
+    57         19
+    58        106
+    61          4
+    62         22
+    63         30
+    65          5
+    70         27
+    71         51
+    72         13
+    84         41
+    86        999
+    87         55
+    89         26
+    90         37
+    98          3
+    99        222
+   100         19
+   168         21
+   169         12
+   170         20
+   171         10
+   250          9
+   276         15
+   278         27
+   280         16
+   295          4
+   322          2
+   392          4

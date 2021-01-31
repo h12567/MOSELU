@@ -1,0 +1,62 @@
+##TITLE=Library Entry 1685
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=CH2=C(CH3)CH2COOH
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=1617-31-8
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    25          9
+    26         92
+    27        508
+    28         36
+    29        586
+    30         21
+    31         48
+    36          8
+    37         76
+    38        154
+    39        999
+    40        192
+    41        951
+    42        206
+    43        330
+    44         79
+    45          8
+    46        248
+    49         33
+    50        128
+    51        131
+    52         47
+    53        242
+    54        316
+    55        795
+    56        163
+    57        457
+    58        322
+    59         31
+    60        280
+    61         16
+    66          7
+    67         19
+    69         15
+    70          7
+    71         36
+    72        477
+    73         28
+    81         11
+    82        164
+    83         99
+    84         10
+    85         96
+    86         14
+    99         37
+   100        645
+   101         44

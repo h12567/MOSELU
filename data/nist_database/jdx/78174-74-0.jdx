@@ -1,0 +1,40 @@
+##TITLE=Library Entry 9553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. WESTERLUND,DEP. CHEM. MOL. BIOL.,SWED. UNIV. AGRIC.,
+UPPSA
+##NAMES=HP
+##CAS NAME=1,2,4,5,6-Penta-O-acetyl-3,8-anhydro-.beta.-D-altro-L-glycerooctu
+lopyranose
+##MOLFORM=C18H24O12
+##CAS REGISTRY NO=78174-74-0
+##MP= -300
+##BP= -300
+##MW= 432
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        999
+    69         50
+    70         20
+    81        270
+    85         20
+    97         30
+    98         40
+    99         30
+   103         60
+   112         20
+   113         30
+   115         50
+   131         70
+   139         30
+   141         60
+   145         20
+   157         30
+   173         90
+   211         30
+   217         60
+   271         20
+   361         10
+   373          9

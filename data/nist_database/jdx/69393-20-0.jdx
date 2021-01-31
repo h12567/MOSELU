@@ -1,0 +1,37 @@
+##TITLE=Library Entry 70345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(8)2823(1978); T. YATSUNAMI AND S. IWASAKI
+##NAMES=HP
+##CAS NAME=1H-Imidazole-4-methanol, .alpha.-heptadecyl-
+##MOLFORM=C21H40N2O
+##CAS REGISTRY NO=69393-20-0
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    55        130
+    69        120
+    82        270
+    97        999
+   107        370
+   121        370
+   135        120
+   149        140
+   163        100
+   177         90
+   191         70
+   205         60
+   219         50
+   221         30
+   233         50
+   247         70
+   261         50
+   275         60
+   289         50
+   303         30
+   318        280
+   336         40

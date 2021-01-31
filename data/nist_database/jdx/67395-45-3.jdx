@@ -1,0 +1,35 @@
+##TITLE=Library Entry 46212
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORNER, FUCHS MINERALOELWERKE GMBH, MANNHEIM, W. G
+##NAMES=HP
+##CAS NAME=Mono-sec-butyl carbonotrithioate
+##MOLFORM=C5H10S3
+##CAS REGISTRY NO=67395-45-3
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        158
+    29        273
+    39         97
+    41        356
+    43         39
+    44        160
+    45         38
+    46         18
+    47         57
+    55         63
+    56        140
+    57        285
+    61        195
+    66          3
+    75         12
+    76        999
+    90        166
+   110         12
+   122          8
+   133          6

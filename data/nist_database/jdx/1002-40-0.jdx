@@ -1,0 +1,40 @@
+##TITLE=Library Entry 84028
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V. Nevalainen, Dep. Chem., Univ. Helsinki, Helsinki, Fi
+nland
+##NAMES=HP
+##CAS NAME=Disulfide, bis(2-bromoethyl)
+##MOLFORM=C4H8Br2S2
+##CAS REGISTRY NO=1002-40-0
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        470
+    45        120
+    58         70
+    59        150
+    60        130
+    64        140
+    92        140
+   107        999
+   109        950
+   143        150
+   145        160
+   171        140
+   173        150
+   199        210
+   201        220
+   250        170
+   252        360
+   254        190
+   278        180
+   279         11
+   280        390
+   281         23
+   282        220
+   283         15

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 43218
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.BIRKOFER UNIV. DUSSELDORF, DUSSELDORF, GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=Methyl-4-O-methyl-.alpha.-D-glucopyranoside, 3TMS derivative
+##MOLFORM=C17H40O6Si3
+##CAS REGISTRY NO=52430-40-7
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41         35
+    43         17
+    44         20
+    45        105
+    59        118
+    61         17
+    71        105
+    72         25
+    73        999
+    74         83
+    75        117
+    89        234
+    90         20
+    99         22
+   101         26
+   103         75
+   111         22
+   116         57
+   117        150
+   118         17
+   129         61
+   131         83
+   133        350
+   134         36
+   135         15
+   145         23
+   146        188
+   147        150
+   148         26
+   149         22
+   159        143
+   160         28
+   173         21
+   204        660
+   205        145
+   206         60
+   217         52
+   231         10
+   232         11
+   233         12
+   243          8
+   245          5
+   247         10
+   259          8
+   261          6
+   287          7
+   303          9
+   319          6
+   377          4

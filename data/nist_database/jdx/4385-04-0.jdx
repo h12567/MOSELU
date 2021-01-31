@@ -1,0 +1,64 @@
+##TITLE=Library Entry 27752
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Dimethylaminohexane
+##MOLFORM=C8H19N
+##CAS REGISTRY NO=4385-04-0
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         23
+    16          0
+    26          5
+    27         47
+    28         21
+    29         55
+    30         39
+    31          0
+    39         27
+    40          6
+    41         49
+    42         98
+    43         35
+    44         35
+    45         14
+    46          3
+    50          1
+    51          1
+    52          0
+    53          4
+    54          3
+    55         14
+    56         22
+    57          0
+    58        999
+    59         44
+    60          0
+    65          0
+    66          0
+    67          1
+    68          2
+    69          1
+    70          7
+    71          6
+    72          6
+    73          0
+    80          0
+    82          1
+    83          0
+    84          4
+    85          0
+    86          0
+    98          1
+   100          1
+   114          1
+   126          1
+   129         53
+   130          5

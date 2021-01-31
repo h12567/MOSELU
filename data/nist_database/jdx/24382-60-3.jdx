@@ -1,0 +1,51 @@
+##TITLE=Library Entry 23698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Propionic acid, 3-(allylthio)-, isobutyl ester
+##MOLFORM=C10H18O2S
+##CAS REGISTRY NO=24382-60-3
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27        190
+    28        150
+    29        360
+    39        250
+    41        830
+    43        100
+    45        310
+    46         70
+    47         80
+    55        120
+    56         80
+    57        999
+    59         80
+    60         60
+    61         60
+    67         70
+    71         60
+    72        200
+    73        390
+    74        130
+    81        130
+    85         80
+    87        420
+    89        350
+   100         90
+   101        170
+   105        370
+   113         70
+   119         20
+   128        100
+   129        260
+   145        200
+   146        180
+   161         30
+   201         90
+   202        300

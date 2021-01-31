@@ -1,0 +1,71 @@
+##TITLE=Library Entry 26290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R RYHAGE MS-LAB KAROLINSKA INSTITUTET STOCKHOLM SWEDEN
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 3,6,6-trimethyl-, methyl ester
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=30448-48-7
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14         80
+    15         58
+    16         13
+    17         13
+    26         13
+    27         88
+    28         80
+    29        224
+    31        141
+    39         61
+    40         48
+    41        368
+    42         64
+    43        237
+    44         45
+    45         69
+    46         18
+    53         29
+    54         21
+    55        232
+    56        171
+    57        999
+    58         48
+    59        149
+    60         13
+    67         13
+    69        272
+    70         40
+    71        109
+    73         80
+    74        451
+    75         72
+    81         16
+    83         56
+    85         24
+    87        417
+    88         24
+    95         13
+    96         13
+    97        280
+    98         37
+    99         13
+   101        649
+   102         45
+   111         80
+   112         21
+   113         16
+   115         29
+   121         16
+   129        219
+   130        171
+   131        163
+   139        189
+   140         16
+   155        109
+   171         74

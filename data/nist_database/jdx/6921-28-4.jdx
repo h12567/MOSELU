@@ -1,0 +1,66 @@
+##TITLE=Library Entry 64951
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1167
+##NAMES=HP
+##CAS NAME=2-Propyn-1-amine, N-2-propynyl-
+##MOLFORM=C6H7N
+##CAS REGISTRY NO=6921-28-4
+##MP= -300
+##BP= -300
+##MW= 93
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          4
+    24          2
+    25          8
+    26         26
+    27         50
+    28        300
+    29         10
+    30        171
+    31          4
+    36          6
+    37         66
+    38        148
+    39        749
+    40        181
+    41        160
+    42         51
+    43         37
+    44          3
+    45          4
+    46          4
+    49          3
+    50         12
+    51         48
+    52        261
+    53         66
+    54        276
+    55         11
+    60          2
+    61         11
+    62         24
+    63         82
+    64        115
+    65        471
+    66        394
+    67        182
+    68         31
+    69          2
+    74          2
+    75          2
+    76          3
+    77          6
+    78         60
+    79          6
+    89          1
+    90          4
+    91         32
+    92        999
+    93        342
+    94         36
+    95          2

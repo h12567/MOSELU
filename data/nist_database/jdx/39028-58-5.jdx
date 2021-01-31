@@ -1,0 +1,76 @@
+##TITLE=Library Entry 33401
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=(3R,6S)-2,2,6-Trimethyl-6-vinyltetrahydro-2H-pyran-3-ol
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=39028-58-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1173
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    27         34
+    29         33
+    31         21
+    39         95
+    40         42
+    41        154
+    42         33
+    43        296
+    44         26
+    45         17
+    51         19
+    52         12
+    53        129
+    54         18
+    55        162
+    56         31
+    57         73
+    58         16
+    59        593
+    60         19
+    61          2
+    65         33
+    66         21
+    67        547
+    68        999
+    69        138
+    70         74
+    71         83
+    72         75
+    73         13
+    77         25
+    78          9
+    79        182
+    80         14
+    81        108
+    82         14
+    83         99
+    84         58
+    85         51
+    91         16
+    93         24
+    94        570
+    95         75
+    96          7
+    97         48
+    98          5
+    99          8
+   102         31
+   107         17
+   109         43
+   110         10
+   111          9
+   112         28
+   119         14
+   125         14
+   137         28
+   142          2
+   143         16
+   152          6
+   155         39
+   156          3

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 80633
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Benzenesulfonamide, 5-amino-2-methyl-N-phenyl-
+##MOLFORM=C13H14N2O2S
+##CAS REGISTRY NO=79-72-1
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    14          3
+    16          3
+    28         15
+    32         55
+    65        394
+    77        343
+    78         97
+    79        177
+    92        265
+    93        235
+   104        316
+   105        999
+   106        745
+   262        312

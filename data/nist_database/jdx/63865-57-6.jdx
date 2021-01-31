@@ -1,0 +1,32 @@
+##TITLE=Library Entry 25134
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GCITA9,106(9-10)879(1976);E1F; A. M. CAPORUSSO, UNIVERS
+ITA DI PISA, ITALY
+##NAMES=HP
+##CAS NAME=4-Octene, 2,2,3,7-tetramethyl-, [S-(E)]-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=63865-57-6
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27         70
+    29        140
+    39         50
+    41        320
+    43        130
+    55        390
+    57        999
+    69        430
+    83         50
+    84         50
+    95         70
+    97         90
+   110        150
+   111        100
+   112         70
+   168         30

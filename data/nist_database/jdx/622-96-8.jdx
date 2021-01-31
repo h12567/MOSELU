@@ -1,0 +1,72 @@
+##TITLE=Library Entry 80906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3453
+##NAMES=HP
+##CAS NAME=Benzene, 1-ethyl-4-methyl-
+##MOLFORM=C9H12
+##CAS REGISTRY NO=622-96-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=954
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          3
+    27         23
+    29          2
+    37          3
+    38          6
+    39         47
+    40          4
+    41         14
+    49          1
+    50         17
+    51         40
+    52         12
+    53         15
+    54          1
+    57          9
+    58         10
+    59         13
+    61          4
+    62         10
+    63         27
+    64          6
+    65         39
+    66          4
+    67          1
+    73          1
+    74          6
+    75          5
+    76          5
+    77         85
+    78         30
+    79         56
+    80          4
+    85          1
+    86          3
+    87          3
+    89         12
+    90          5
+    91         87
+    92         17
+    93          5
+    98          1
+   101          1
+   102          9
+   103         55
+   104         27
+   105        999
+   106         89
+   107          4
+   115         20
+   116          5
+   117         22
+   118          7
+   119         32
+   120        286
+   121         29
+   122          1

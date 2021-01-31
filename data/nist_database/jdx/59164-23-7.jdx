@@ -1,0 +1,50 @@
+##TITLE=Library Entry 10944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,1-Difluoro-2-methyl-2-methoxycyclopropane
+##MOLFORM=C5H8F2O
+##CAS REGISTRY NO=59164-23-7
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    38         29
+    39        181
+    40         39
+    41        228
+    42        438
+    43        999
+    44         81
+    45         69
+    46         29
+    50         19
+    51         91
+    53         20
+    57         69
+    58        570
+    59         60
+    63         10
+    64        119
+    65        150
+    71         59
+    72        259
+    73         50
+    75         29
+    77        101
+    81        101
+    89         19
+    90         19
+    91        139
+    92         10
+   102         20
+   103          9
+   107        672
+   108         29
+   121         59
+   122        271
+   123          9

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 18205
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-azido-3-methoxy-
+##MOLFORM=C7H7N3O
+##CAS REGISTRY NO=3866-16-8
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    37        112
+    38        285
+    39        496
+    40         82
+    41         82
+    50        353
+    51        999
+    52        402
+    53        105
+    61         56
+    62        127
+    63        270
+    64        300
+    65        157
+    66        112
+    67         60
+    75         56
+    76         56
+    77        101
+    78        808
+    79        195
+    80         60
+    91        203
+    92        101
+    93        120
+    94         56
+   106        962
+   107         75
+   108         30
+   121        639
+   122         67
+   123        131
+   149        300
+   150         30

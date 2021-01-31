@@ -1,0 +1,84 @@
+##TITLE=Library Entry 38976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 118, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=3-Hepten-2-ol, (Z)-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=67077-40-1
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        372
+    28        107
+    29        223
+    30          7
+    31         37
+    32          2
+    37         12
+    38         44
+    39        500
+    40         77
+    41        558
+    42         88
+    43        605
+    44        147
+    45        195
+    46          7
+    47          2
+    48          2
+    49          2
+    50         42
+    51         86
+    52         42
+    53        226
+    54        488
+    55        349
+    56         35
+    57        582
+    58        226
+    59         94
+    60          2
+    61          2
+    62         12
+    63         30
+    64          5
+    65         86
+    66         42
+    67        349
+    68         74
+    69         44
+    70         26
+    71        999
+    72         79
+    73          2
+    74          2
+    75          2
+    77         65
+    78         14
+    79        142
+    80         19
+    81        744
+    82         49
+    83         12
+    84          2
+    85         65
+    86          7
+    91         14
+    92          2
+    93          5
+    94          2
+    95         30
+    96        349
+    97         44
+    98          2
+    99         47
+   100          2
+   112          5
+   114          7

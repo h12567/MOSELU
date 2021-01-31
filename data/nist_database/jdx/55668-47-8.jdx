@@ -1,0 +1,58 @@
+##TITLE=Library Entry 21299
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Cyclohexanone styrene glycol ketal
+##MOLFORM=C14H18O2
+##CAS REGISTRY NO=55668-47-8
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    29          1
+    41         39
+    42        112
+    43         88
+    54         28
+    55        999
+    56         59
+    57          7
+    67         28
+    69        115
+    70         59
+    71         28
+    77          7
+    78         19
+    79          7
+    80         19
+    81         28
+    83         19
+    84         39
+    90          7
+    91        173
+    92         49
+    97         39
+    98         49
+    99          7
+   103         39
+   104        467
+   105         39
+   111         19
+   112         59
+   117         71
+   118          7
+   119          7
+   120        114
+   121          7
+   141          7
+   162          7
+   164         19
+   175        356
+   176         39
+   189         28
+   218        231
+   219         28

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 1760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Methylenecyclopropane
+##MOLFORM=C4H6
+##CAS REGISTRY NO=6142-73-0
+##MP= -300
+##BP= -300
+##MW= 54
+##$RETENTION INDEX=432
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    25         20
+    26        209
+    27        370
+    28        283
+    29         24
+    31          8
+    36         28
+    37        114
+    38        161
+    39        999
+    40         34
+    41         18
+    48         13
+    49         67
+    50        209
+    51        237
+    52         73
+    53        374
+    54        523
+    55         40

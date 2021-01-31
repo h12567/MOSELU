@@ -1,0 +1,76 @@
+##TITLE=Library Entry 40845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Tripropylsilane
+##MOLFORM=C9H22Si
+##CAS REGISTRY NO=998-29-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    12          2
+    15          4
+    16          2
+    17          2
+    27         76
+    28         31
+    29         35
+    30          4
+    31         29
+    32          2
+    33          4
+    37          2
+    39         59
+    41         79
+    42         41
+    43        230
+    44        131
+    45        743
+    46         52
+    47         26
+    53         20
+    54          8
+    55         56
+    56         15
+    57         63
+    58         91
+    59        412
+    60         36
+    61         15
+    65          2
+    66          8
+    67         16
+    68          5
+    69         29
+    70         34
+    71         80
+    72        126
+    73        999
+    74         60
+    75         31
+    76          2
+    83          4
+    84          1
+    85         18
+    86         69
+    87        436
+    88         44
+    89         16
+    97          2
+    99          6
+   100          2
+   101          9
+   114        224
+   115        491
+   116         54
+   117         15
+   128          2
+   156         59
+   157         25
+   158         34
+   159          5

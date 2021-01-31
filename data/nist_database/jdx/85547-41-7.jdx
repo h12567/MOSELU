@@ -1,0 +1,36 @@
+##TITLE=Library Entry 622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLER-SCHIERLEIN, ORG.-CHEM. LAB., ETH-Z, ZURICH, S
+WITZ.
+##NAMES=HP
+##CAS NAME=3-Hydroxy-2-methylglutaric acid dimethyl ester
+##MOLFORM=C8H14O5
+##CAS REGISTRY NO=85547-41-7
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    29        999
+    32        300
+    55        290
+    56        710
+    57        480
+    59        570
+    61        500
+    71        900
+    74        360
+    81        140
+    85        860
+    87        290
+    88        520
+    89        240
+   103        810
+   113        480
+   117        710
+   130        380
+   141        860
+   159         70

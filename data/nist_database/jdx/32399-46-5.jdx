@@ -1,0 +1,25 @@
+##TITLE=Library Entry 61579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl cycloheptatriene-7-carboxylate
+##MOLFORM=C9H10O2
+##CAS REGISTRY NO=32399-46-5
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    39         89
+    63         90
+    65        198
+    89        110
+    90        109
+    91        999
+    92         99
+   119        271
+   135         99
+   150        198

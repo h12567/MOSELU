@@ -1,0 +1,49 @@
+##TITLE=Library Entry 5040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. A. ROWLEY, MINISTRY DEF., WALTHAM ABBEY, ESSEX, UK
+##NAMES=HP
+##CAS NAME=N-(2-Cyanoethyl)-N-(2-hydroxypropyl)nitramine nitrate(ester)
+##MOLFORM=C6H10N4O5
+##CAS REGISTRY NO=110538-95-9
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         40
+    29         30
+    30        140
+    39         10
+    41         70
+    42        999
+    43        170
+    44         10
+    45         20
+    46        540
+    52         10
+    53         10
+    54        170
+    55         20
+    56         30
+    58         10
+    68         20
+    70         60
+    75         10
+    81         60
+    82        300
+    83        140
+    90         70
+    98        670
+    99         30
+   109         20
+   110         20
+   112         10
+   128        620
+   129         30
+   130          3
+   142          5
+   156         80
+   157          6

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 64047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=7H-Purine, 7-benzyl-6-chloro-
+##MOLFORM=C12H9ClN4
+##CAS REGISTRY NO=1928-77-4
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    51         34
+    58         15
+    63         28
+    65        175
+    77         29
+    89         33
+    90         26
+    91        999
+    92         81
+   104         17
+   121         18
+   122         36
+   167         53
+   168          4
+   169         17
+   182         79
+   183         10
+   209         51
+   216         24
+   239         29
+   240         27
+   243        452
+   244        464
+   245        209
+   246        155
+   247         21

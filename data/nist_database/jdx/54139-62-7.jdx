@@ -1,0 +1,32 @@
+##TITLE=Library Entry 4080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RP-442-7
+##NAMES=HP
+##CAS NAME=Glycine, N-[[3-chloro-4-(2-propenyloxy)phenyl]acetyl]-
+##MOLFORM=C13H14ClNO4
+##CAS REGISTRY NO=54139-62-7
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        999
+    50         41
+    51        197
+    52         41
+   140         69
+   141        673
+   142        113
+   143        231
+   181        311
+   182         73
+   183        105
+   208         72
+   209          7
+   210         25
+   283        164
+   284         29
+   285         59

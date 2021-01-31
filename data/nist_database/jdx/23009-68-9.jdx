@@ -1,0 +1,43 @@
+##TITLE=Library Entry 58149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AU9-83-5
+##NAMES=HP
+##CAS NAME=.alpha.-D-Glucopyranoside, methyl 2,3,6-tri-O-methyl-
+##MOLFORM=C10H20O6
+##CAS REGISTRY NO=23009-68-9
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         68
+    45        290
+    57         56
+    58         80
+    59         72
+    71        116
+    73        153
+    74         80
+    75        516
+    85         72
+    87        149
+    88        999
+    89         56
+    99         24
+   101        161
+   102          4
+   105         20
+   111        145
+   113        121
+   115         56
+   131        318
+   132        145
+   144        100
+   149        100
+   159         52
+   161        604
+   173         72
+   205         28

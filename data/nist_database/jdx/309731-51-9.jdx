@@ -1,0 +1,82 @@
+##TITLE=Library Entry 27568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzothiophene-3-carboxylic acid, 4,5,6,7-tetrahydro-2-[2,2,2-tri
+fluoro-1-trifluoromethyl-1-(1-oxopetylamino)ethylamino]- methyl ester
+##MOLFORM=C18H22F6N2O3S
+##CAS REGISTRY NO=309731-51-9
+##MP= -300
+##BP= -300
+##MW= 460
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    33         29
+    39        150
+    40         20
+    41        570
+    42        297
+    43        133
+    44         95
+    45        145
+    46         46
+    50         10
+    51         21
+    53         36
+    54         24
+    55        261
+    56        146
+    57        999
+    59        148
+    63         15
+    65         39
+    69         86
+    71         19
+    77         32
+    79         40
+    85        439
+    87         20
+    91         56
+    95         19
+    97         11
+   102         37
+   104          8
+   108         10
+   115         20
+   117         60
+   122         25
+   125          8
+   134         37
+   135         34
+   150         24
+   151        207
+   177         29
+   178        148
+   179        393
+   180         15
+   202          7
+   204          8
+   206         22
+   210         96
+   211        188
+   230          7
+   273         12
+   274         18
+   275         85
+   290         39
+   299        390
+   327        603
+   328         89
+   344         15
+   345          9
+   357         29
+   358         30
+   359        567
+   360         44
+   456          7
+   459         70
+   460        368
+   461         24

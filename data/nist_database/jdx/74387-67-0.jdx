@@ -1,0 +1,37 @@
+##TITLE=Library Entry 27147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-(1-Tert.-butoxycarbonylethoxy)-2,2-bis(trifluoromethyl)aziridin
+e
+##MOLFORM=C11H15F6NO3
+##CAS REGISTRY NO=74387-67-0
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    29         81
+    30          7
+    39         39
+    41        135
+    42         32
+    43         61
+    44          5
+    55         37
+    56         51
+    57        999
+    58         73
+    59         51
+    60          4
+    69         41
+    70          4
+   128        101
+   129          5
+   178        253
+   179         22
+   222        141
+   223          7

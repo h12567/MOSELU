@@ -1,0 +1,65 @@
+##TITLE=Library Entry 34190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4,4,8-Trimethyl-non-5-enal
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=66822-00-2
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        290
+    43        190
+    44         29
+    53         40
+    54         10
+    55        259
+    56         49
+    57         99
+    65         19
+    66         10
+    67        139
+    68         50
+    69        999
+    70         99
+    73         29
+    77         30
+    79         69
+    80          9
+    81        249
+    82         89
+    83        120
+    84         30
+    85          9
+    91         30
+    93         90
+    94         10
+    95        120
+    96         70
+    97         90
+    98         40
+    99         39
+   105         19
+   107         49
+   108         40
+   109         70
+   110          9
+   111         40
+   112          9
+   121         40
+   122         10
+   123         39
+   124         29
+   125         70
+   126        139
+   127         10
+   135         30
+   139          9
+   149         40
+   164         29
+   167         10

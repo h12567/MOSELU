@@ -1,0 +1,24 @@
+##TITLE=Library Entry 915
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane
+##MOLFORM=H4Si
+##CAS REGISTRY NO=7803-62-5
+##MP= -300
+##BP= -300
+##MW= 32
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+     2         15
+    14          8
+    28        275
+    29        287
+    30        999
+    31        790
+    32         71
+    33         24
+    34          1

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 83229
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VAINIOTALO, DEPT. CHEM., UNIV. JOENSUU, JOENSUU, FIN
+LAND
+##NAMES=HP
+##CAS NAME=1,4-Oxazepin-3-one, 2-methyl-5-phenyl-6,7-trimethyleneperhydro-,
+ cis-
+##MOLFORM=C15H19NO2
+##CAS REGISTRY NO=132287-31-1
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         65
+    45         78
+    66         94
+    67        404
+    68        193
+    77        135
+    78         58
+    79        105
+    80         65
+    91        237
+   104        245
+   105        298
+   106        999
+   107         86
+   115        119
+   117        259
+   128         63
+   129        164
+   130        165
+   132        101
+   133        226
+   134         90
+   143         62
+   158        170
+   162        133
+   172        106
+   173        318
+   174         73
+   176        138
+   178        202
+   200        237
+   201        189
+   202        116
+   217         73
+   245        573
+   246        112

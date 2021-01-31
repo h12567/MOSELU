@@ -1,0 +1,40 @@
+##TITLE=Library Entry 12944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. Roeder, Pharm. Inst., Univ. Bonn, Bonn, W. Ger.
+##NAMES=HP
+##CAS NAME=4,8-Secosenecionan-8,11,16-trione, 15,20-dihydro-12-(acetyloxy)-2
+0-chloro-15-hydroxy-4-methyl-
+##MOLFORM=C21H30ClNO8
+##CAS REGISTRY NO=60367-00-2
+##MP= -300
+##BP= -300
+##MW= 459
+##$RETENTION INDEX=2849
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        999
+   150        472
+   152         48
+   166        115
+   168        756
+   238        125
+   304        184
+   319        249
+   320        140
+   336        678
+   337        144
+   352         23
+   355         51
+   357         17
+   372        160
+   373         31
+   374         54
+   375         11
+   380         47
+   396        108
+   408         23
+   423         58
+   424         28
+   459         11

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 69520
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Quinoline, decahydro-, trans-
+##MOLFORM=C9H17N
+##CAS REGISTRY NO=767-92-0
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=1142
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         50
+    41         90
+    53         40
+    54         50
+    55         50
+    56         60
+    67         50
+    68         60
+    81         30
+    82         90
+    83         80
+    96        999
+    97         90
+   110         40
+   138         70
+   139        170
+   140         20

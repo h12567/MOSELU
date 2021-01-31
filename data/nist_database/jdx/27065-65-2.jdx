@@ -1,0 +1,90 @@
+##TITLE=Library Entry 64537
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 451
+##NAMES=HP
+##CAS NAME=Methyl 4-benzyloxy-3,5-dimethoxybenzoate
+##MOLFORM=C17H18O5
+##CAS REGISTRY NO=27065-65-2
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          4
+    27          1
+    28          6
+    38          2
+    39          6
+    41          2
+    43          1
+    45          1
+    50          2
+    51          3
+    52          1
+    53          3
+    59         10
+    63          3
+    64          1
+    65         28
+    66          6
+    67          1
+    69          3
+    77          3
+    78          1
+    79          3
+    81          1
+    89          4
+    90          2
+    91        999
+    92         78
+    93          4
+    95          2
+   105          2
+   106          1
+   107          4
+   108          3
+   109          4
+   112          1
+   121          1
+   122          2
+   123          4
+   124          6
+   125          8
+   134          4
+   135          3
+   136          2
+   137          2
+   139          1
+   140          3
+   141          1
+   150          1
+   151         10
+   152          4
+   153          5
+   155          9
+   156          1
+   165          3
+   166          3
+   168          4
+   179          6
+   180          2
+   181          7
+   182          1
+   183          7
+   196          2
+   197          1
+   210          5
+   211         95
+   212         15
+   213          2
+   225          2
+   243          2
+   270          6
+   271         12
+   272          2
+   302        138
+   303         25
+   304          3

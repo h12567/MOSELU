@@ -1,0 +1,63 @@
+##TITLE=Library Entry 59614
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Heptane, 2-methyl-6-p-toluenesulfonylamino-
+##MOLFORM=C15H25NO2S
+##CAS REGISTRY NO=65588-63-8
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    36         29
+    37         81
+    38        214
+    39        309
+    40         82
+    41        124
+    42         32
+    43         28
+    44         24
+    45         35
+    48         35
+    49         53
+    50        147
+    51        146
+    52         95
+    53         39
+    60         30
+    61         76
+    62        189
+    63        226
+    64        348
+    65        571
+    66         49
+    69         25
+    73         29
+    74         44
+    75         30
+    77        159
+    78         55
+    79         54
+    80         33
+    81         29
+    86         27
+    89        201
+    91        999
+    92        111
+   107        113
+   108         54
+   127        138
+   129         35
+   139        117
+   154        145
+   155        164
+   157         26
+   171         73
+   172         53
+   173         57
+   198         32

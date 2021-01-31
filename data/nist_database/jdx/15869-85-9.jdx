@@ -1,0 +1,61 @@
+##TITLE=Library Entry 9915
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4072
+##NAMES=HP
+##CAS NAME=Nonane, 5-methyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=15869-85-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=960
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27         80
+    28          6
+    29        113
+    30          2
+    38          2
+    39         47
+    40          8
+    41        186
+    42         59
+    43        999
+    44         33
+    50          1
+    51          3
+    52          1
+    53         12
+    54          7
+    55         84
+    56        128
+    57        282
+    58         12
+    65          2
+    67          4
+    68          2
+    69         46
+    70          9
+    71         66
+    72          3
+    77          1
+    81          1
+    83          4
+    84        324
+    85        546
+    86         36
+    87          1
+    97          1
+    98         12
+    99          7
+   112         15
+   113          9
+   126          4
+   127          9
+   128          1
+   142         13
+   143          1

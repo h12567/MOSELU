@@ -1,0 +1,58 @@
+##TITLE=Library Entry 79935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Ethanone, 2-(2,3-dihydro-3-methylbenzothiazol-2-ylideno)-1-phenyl
+-
+##MOLFORM=C16H13NOS
+##CAS REGISTRY NO=2783-70-2
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27         22
+    39         46
+    42         33
+    45         63
+    50         74
+    51        213
+    52         21
+    53         14
+    63         40
+    65         32
+    74         25
+    75         30
+    76         52
+    77        704
+    78         63
+    82         12
+    89         34
+    90         16
+    91         29
+    94         13
+   102         16
+   103         21
+   105        999
+   106         86
+   108         16
+   109         41
+   117         19
+   118         23
+   120         62
+   121         67
+   128         14
+   130         12
+   134         17
+   146         16
+   162         70
+   163         11
+   224         30
+   252         13
+   267        353
+   268         63
+   269         30
+   270          5

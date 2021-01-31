@@ -1,0 +1,53 @@
+##TITLE=Library Entry 524
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N-Dichlorourethan
+##MOLFORM=C3H5Cl2NO2
+##CAS REGISTRY NO=13698-16-3
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+     4          4
+    14         18
+    15         77
+    16          5
+    18          9
+    19          9
+    25          8
+    26         77
+    27        445
+    28        114
+    29        999
+    30        113
+    31         88
+    32          4
+    35         31
+    36         19
+    37         11
+    41          7
+    42         63
+    43        175
+    44         76
+    45        109
+    46         11
+    49         23
+    50        108
+    51        450
+    52         39
+    53        152
+    64        322
+    66         97
+    78        169
+    80         62
+    95          8
+   108         15
+   110          8
+   123        183
+   124         10
+   125         63

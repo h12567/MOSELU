@@ -1,0 +1,61 @@
+##TITLE=Library Entry 32397
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1213
+##NAMES=HP
+##CAS NAME=1,5-Hexadiene
+##MOLFORM=C6H10
+##CAS REGISTRY NO=592-42-7
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=564
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         16
+    25          1
+    26         28
+    27        176
+    28         33
+    29         50
+    30          1
+    31          2
+    32          4
+    37         14
+    38         37
+    39        519
+    40         55
+    41        998
+    42         57
+    43          9
+    44          4
+    49          4
+    50         33
+    51         45
+    52         22
+    53         94
+    54        587
+    55         56
+    56          8
+    57          3
+    61          2
+    62          3
+    63          7
+    65         33
+    66         16
+    67        999
+    68         55
+    69          3
+    73          2
+    74          4
+    75          2
+    77         20
+    78          4
+    79         31
+    80          5
+    81         78
+    82         14
+    83          1
+    84          1

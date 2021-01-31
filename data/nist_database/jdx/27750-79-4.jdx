@@ -1,0 +1,75 @@
+##TITLE=Library Entry 42495
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.A.J.MUSKIET, LAB. CLIN. CHEM., UNIV. HOSP., GRONINGEN
+, NET
+##NAMES=HP
+##CAS NAME=Trimethylsilyl catecholpyruvate tris(trimethylsilyl) ether
+##MOLFORM=C21H40O5Si4
+##CAS REGISTRY NO=27750-79-4
+##MP= -300
+##BP= -300
+##MW= 484
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    40         49
+    43         17
+    44         35
+    45        187
+    46         16
+    47         11
+    57          6
+    61          6
+    66          9
+    67          5
+    72         18
+    73        999
+    74         80
+    75         79
+    76          5
+    77         26
+    95          5
+   103          7
+   117         11
+   119          8
+   131         22
+   133         25
+   134          5
+   135          8
+   147        558
+   148         81
+   149         49
+   150          6
+   177          6
+   178          6
+   179          5
+   180          7
+   193          5
+   206          5
+   207         10
+   209         11
+   223         11
+   249          6
+   251         58
+   252         17
+   253          9
+   267         10
+   279          7
+   294         13
+   295          5
+   297          7
+   325         93
+   326         30
+   327         12
+   396          6
+   413         22
+   414          7
+   469         84
+   470         31
+   471         20
+   472          5
+   484         63
+   485         28
+   486         15

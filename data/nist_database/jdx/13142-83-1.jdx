@@ -1,0 +1,40 @@
+##TITLE=Library Entry 66645
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(3-Methoxyphenyl)-N'-phenyl-urea
+##MOLFORM=C14H14N2O2
+##CAS REGISTRY NO=13142-83-1
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    63        141
+    64        168
+    65        170
+    66        220
+    77        130
+    78        138
+    79        498
+    80        151
+    91        339
+    92        181
+    93        999
+    94        337
+    95         80
+   106        220
+   107         79
+   119        596
+   120        180
+   121         49
+   122         99
+   123        598
+   124         99
+   149        599
+   150         99
+   242        250
+   243         49

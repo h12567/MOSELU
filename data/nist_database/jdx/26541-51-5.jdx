@@ -1,0 +1,76 @@
+##TITLE=Library Entry 5217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Thiomorpholine, 4-nitroso-
+##MOLFORM=C4H8N2OS
+##CAS REGISTRY NO=26541-51-5
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    30        163
+    31          5
+    32        216
+    33         29
+    34         58
+    35         17
+    36          5
+    37          5
+    38         11
+    39         23
+    40         29
+    41        116
+    42        999
+    43         46
+    44         29
+    45        263
+    46        204
+    47         87
+    48         17
+    49         17
+    51          5
+    52         17
+    53          5
+    54         81
+    55        111
+    56        333
+    57         46
+    58         70
+    59        116
+    60         64
+    61         35
+    62          5
+    63          5
+    67         11
+    68         23
+    69         11
+    70         11
+    71         11
+    72         11
+    73         40
+    74         64
+    75         35
+    76         52
+    77          5
+    78          5
+    85          5
+    86         23
+    87         29
+    88         11
+    89          5
+    99          5
+   100         11
+   101         87
+   102        304
+   103         40
+   104         17
+   115         17
+   132        824
+   133         58
+   134         40

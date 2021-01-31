@@ -1,0 +1,43 @@
+##TITLE=Library Entry 20101
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Pentene, 3-methyl-
+##MOLFORM=C6H12
+##CAS REGISTRY NO=760-20-3
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=552
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15         44
+    26         71
+    27        394
+    28         38
+    29        285
+    37         14
+    38         47
+    39        429
+    40         78
+    41        752
+    42        177
+    43         57
+    50         61
+    51         86
+    52         33
+    53        178
+    54        112
+    55        999
+    56        435
+    57         28
+    63         13
+    65         21
+    66         12
+    67         64
+    69        885
+    70         49
+    84        325
+    85         21

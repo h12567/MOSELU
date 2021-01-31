@@ -1,0 +1,68 @@
+##TITLE=Library Entry 55862
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=2-Propanamine, N,N,2-trimethyl-
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=918-02-5
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=693
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    13          0
+    14          4
+    15         56
+    16          1
+    17          0
+    18         10
+    26          6
+    27         38
+    28         49
+    29         38
+    30         18
+    31          0
+    32          4
+    37          1
+    38          7
+    39         56
+    40         12
+    41         79
+    42         93
+    43         29
+    44        160
+    45         14
+    46          8
+    47          0
+    50          2
+    51          3
+    52          2
+    53          4
+    54         12
+    55         30
+    56        151
+    57         46
+    58         12
+    59          0
+    64          0
+    65          0
+    66          1
+    68          6
+    70         60
+    71         73
+    72          7
+    73          0
+    74          0
+    80          0
+    81          0
+    82          1
+    84         33
+    86        999
+    87         53
+    88          1
+    98          1
+   101         74
+   102          4

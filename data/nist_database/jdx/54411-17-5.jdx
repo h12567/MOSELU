@@ -1,0 +1,60 @@
+##TITLE=Library Entry 88141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,4-dimethyl-2-(2-methylpropyl)-, (1.alpha.,2.beta.,
+4.alpha.)-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=54411-17-5
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         85
+    28         46
+    29        115
+    39        121
+    41        386
+    42         76
+    43        157
+    44          8
+    51         11
+    52          9
+    53         66
+    54          8
+    55        468
+    56        137
+    57        105
+    65         19
+    66          9
+    67        101
+    68          9
+    69        991
+    70        103
+    71         31
+    77         19
+    79         25
+    80          7
+    81         58
+    82         34
+    83         93
+    84         24
+    85         10
+    91         10
+    95         77
+    96         12
+    97         63
+    98         12
+   109         11
+   110        104
+   111        999
+   112        102
+   124          8
+   125         25
+   126          7
+   168        147
+   169         19

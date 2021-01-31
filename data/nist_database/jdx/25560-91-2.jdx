@@ -1,0 +1,56 @@
+##TITLE=Library Entry 10096
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethyl 4-acetoxybutanoate
+##MOLFORM=C8H14O4
+##CAS REGISTRY NO=25560-91-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1196
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27         47
+    29        130
+    31         15
+    39         44
+    41        100
+    42        204
+    43        999
+    44         26
+    45        106
+    46          5
+    55         68
+    56         38
+    57         52
+    58         18
+    59         10
+    60        115
+    61        190
+    68         35
+    69         47
+    70         71
+    73        102
+    74        100
+    75         26
+    84          9
+    85        301
+    86        116
+    87        990
+    88        295
+    89         31
+    98         19
+   101         61
+   102        102
+   103         17
+   114        393
+   115         46
+   116          7
+   128         13
+   129        172
+   130         21
+   131        268
+   132         38

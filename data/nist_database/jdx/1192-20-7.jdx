@@ -1,0 +1,64 @@
+##TITLE=Library Entry 7582
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=.alpha.-Amino-.gamma.-butyrolactone
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=1192-20-7
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14         17
+    15         63
+    16          8
+    17         14
+    18         71
+    19          3
+    24          1
+    25          9
+    26         69
+    27        154
+    28        541
+    29        281
+    30        258
+    31         12
+    34          1
+    36          1
+    37          8
+    38         19
+    39         45
+    40         39
+    41         91
+    42        395
+    43        999
+    44        161
+    45         21
+    46          9
+    50          1
+    51          7
+    52         20
+    53         11
+    54         41
+    55         26
+    56        538
+    57        776
+    58         28
+    59          1
+    68          2
+    70          5
+    71          3
+    72         18
+    73         29
+    74          7
+    75          1
+    84          1
+    85          1
+    99          4
+   100          1
+   101         30
+   102          2

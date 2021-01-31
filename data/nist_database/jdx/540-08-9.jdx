@@ -1,0 +1,74 @@
+##TITLE=Library Entry 38443
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=9-Heptadecanone
+##MOLFORM=C17H34O
+##CAS REGISTRY NO=540-08-9
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=1853
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    27        183
+    28        112
+    29        371
+    30         12
+    39        100
+    41        669
+    42        174
+    43        850
+    44         40
+    53         42
+    55        497
+    56        113
+    57        814
+    58        632
+    59        213
+    67        129
+    68         45
+    69        114
+    70         42
+    71        999
+    72        100
+    73         16
+    77          9
+    79         20
+    81        173
+    82        120
+    83         99
+    84         35
+    85        114
+    86         23
+    95         81
+    96        332
+    97         75
+    98        115
+    99         38
+   100         99
+   101          9
+   109         41
+   110         12
+   111         11
+   112          9
+   113        133
+   114         69
+   123         45
+   127        100
+   128         23
+   138         41
+   139         10
+   141        783
+   142         89
+   156        181
+   157        148
+   158         14
+   169        102
+   170         16
+   183         31
+   211         16
+   225         15
+   254         15

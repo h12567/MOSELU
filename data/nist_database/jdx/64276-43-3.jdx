@@ -1,0 +1,31 @@
+##TITLE=Library Entry 22835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.N. PIRL, DEP. PUBL. HEALTH, DIV. LAB., CHICAGO, ILL.,
+ USA
+##NAMES=HP
+##CAS NAME=N-[2-(4-Methoxyphenylthio)ethyl]alanine
+##MOLFORM=C12H17NO3S
+##CAS REGISTRY NO=64276-43-3
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    42        151
+    43        118
+    44        132
+    45        158
+    56        999
+    70        184
+    74        368
+    95        112
+    96         92
+   102        783
+   124         78
+   139        586
+   154        855
+   155         79
+   255         65

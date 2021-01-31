@@ -1,0 +1,30 @@
+##TITLE=Library Entry 63416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J. HAWS, WOLVERHAMPTON POLYTECH., WOLVERHAMPTON, U.K.
+##NAMES=HP
+##CAS NAME=4,5-Dichloro-N-(dibenzylaminomethyl)phthalimide
+##MOLFORM=C23H18Cl2N2O2
+##CAS REGISTRY NO=96919-15-2
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    65        120
+    91        999
+   118        350
+   196        450
+   209        100
+   210        180
+   228        120
+   230         80
+   232         20
+   333         90
+   335         60
+   337         10
+   424         40
+   426         30
+   428          5

@@ -1,0 +1,28 @@
+##TITLE=Library Entry 100350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Oxazole, 2,5-dihydro-5-(4-methylphenyl)-4-phenyl-
+##MOLFORM=C16H15NO
+##CAS REGISTRY NO=36879-73-9
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    77        200
+    78        120
+    89         60
+    91        140
+   102        170
+   103        240
+   104        170
+   117        340
+   119        999
+   120        100
+   133        110
+   134        619
+   237        160

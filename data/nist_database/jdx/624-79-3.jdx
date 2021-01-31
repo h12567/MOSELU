@@ -1,0 +1,33 @@
+##TITLE=Library Entry 420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.G.GILLIS AUST SCI SERVICE, ASCOT VALE, VIC., AUSTRALI
+A
+##NAMES=HP
+##CAS NAME=Ethyl isocyanide
+##MOLFORM=C3H5N
+##CAS REGISTRY NO=624-79-3
+##MP= -300
+##BP= -300
+##MW= 55
+##$RETENTION INDEX=1083
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    15         50
+    26        200
+    27        520
+    28        930
+    29        999
+    30         20
+    38         50
+    39         80
+    40        290
+    41         20
+    50         20
+    51         90
+    52        150
+    53         30
+    54        330
+    55        780
+    56         40

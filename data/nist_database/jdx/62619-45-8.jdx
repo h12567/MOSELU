@@ -1,0 +1,66 @@
+##TITLE=Library Entry 4406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methyl bis(ethoxycarbonyl)methylenamine, N-oxide
+##MOLFORM=C8H13NO5
+##CAS REGISTRY NO=62619-45-8
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    27        219
+    28        204
+    29        947
+    30         57
+    31        116
+    39         44
+    40         24
+    41        116
+    42        999
+    43         25
+    44         73
+    45        172
+    46         29
+    47         24
+    54         88
+    55         59
+    56        152
+    57         29
+    58         17
+    59        145
+    60         29
+    68         59
+    69         64
+    70        131
+    71         84
+    72        120
+    73         52
+    74         49
+    85         29
+    86        236
+    87        123
+    88         29
+    99         99
+   100        140
+   101         59
+   102         29
+   112         52
+   113         59
+   114        276
+   115         29
+   116         29
+   129         59
+   130        207
+   131         44
+   158        189
+   159        116
+   171         44
+   172         29
+   187         17
+   203         35
+   204          6

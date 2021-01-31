@@ -1,0 +1,67 @@
+##TITLE=Library Entry 28583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 3,5-dimethoxy-, trans-
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=29887-64-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    39        200
+    41        230
+    42        110
+    43        220
+    45        100
+    47         40
+    50         20
+    51         20
+    52         10
+    53         50
+    54         20
+    55        130
+    56         20
+    57         50
+    58        999
+    59        130
+    60         10
+    61         10
+    63         20
+    65         40
+    66         50
+    67         60
+    68        210
+    69         50
+    71         40
+    72         90
+    73         20
+    75        300
+    76         10
+    77         10
+    78         10
+    83         20
+    84        120
+    85        170
+    86         10
+    87         10
+    94        100
+    95         30
+    96         40
+    97         50
+    98         40
+    99         10
+   100         10
+   101        200
+   102         20
+   111         10
+   117         30
+   124         10
+   125         20
+   126        260
+   127         30
+   158         10

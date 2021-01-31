@@ -1,0 +1,54 @@
+##TITLE=Library Entry 19295
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclooctane, methyl-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=1502-38-1
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=999
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15         16
+    26         21
+    27        213
+    28        116
+    29        186
+    39        412
+    40         99
+    41        878
+    42        314
+    43        221
+    44         15
+    50         16
+    51         42
+    52         21
+    53        133
+    54        107
+    55        999
+    56        716
+    57        167
+    65         29
+    66         18
+    67        170
+    68        211
+    69        841
+    70        508
+    71         67
+    77         22
+    79         30
+    81         47
+    82        169
+    83        341
+    84        209
+    85         30
+    96         73
+    97        358
+    98        167
+   111        444
+   112         42
+   126         71

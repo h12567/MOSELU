@@ -1,0 +1,44 @@
+##TITLE=Library Entry 76262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.SELF FOOD RESEARCH INSTITUTE, NORWICH, UK
+##NAMES=HP
+##CAS NAME=2-Oxazolidinethione
+##MOLFORM=C3H5NOS
+##CAS REGISTRY NO=5840-81-3
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         83
+    30         39
+    31        369
+    32          7
+    33         11
+    34         18
+    38         13
+    39          9
+    40         61
+    41        601
+    42        149
+    43         69
+    44         25
+    45         60
+    46         39
+    47         20
+    48          3
+    51          8
+    52         12
+    54          3
+    72         55
+    73        147
+    74         13
+    75          8
+    76         26
+    78          6
+   103        999
+   104         51
+   105         49

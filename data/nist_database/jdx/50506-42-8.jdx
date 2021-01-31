@@ -1,0 +1,31 @@
+##TITLE=Library Entry 12558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=7-Oxabicyclo[4.1.0]hept-4-en-3-one, 1,2,2,4,5,6-hexamethyl-
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=50506-42-8
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        999
+    81        300
+    91        160
+   109        310
+   123        270
+   124        290
+   126        290
+   135        250
+   137        290
+   147        210
+   151        699
+   152        460
+   163        180
+   178        190
+   179        140
+   194        140

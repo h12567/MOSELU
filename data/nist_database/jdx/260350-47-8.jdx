@@ -1,0 +1,64 @@
+##TITLE=Library Entry 11914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Deoxy-1-piperidinocarbothioamido-.beta.-d-glucopyranose 2,3,4,6
+-tetraacetate
+##MOLFORM=C20H30N2O9S
+##CAS REGISTRY NO=260350-47-8
+##MP= -300
+##BP= -300
+##MW= 474
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39         39
+    41        202
+    43        999
+    44         55
+    45         29
+    53         16
+    55         69
+    56         51
+    57         20
+    60         36
+    61          8
+    67         14
+    69        157
+    70         19
+    72         63
+    73          9
+    74          5
+    81         21
+    82         10
+    84        203
+    85         25
+    86         15
+    97         28
+    98          9
+    99          6
+   102          5
+   103          6
+   109         34
+   110          6
+   111         22
+   112          7
+   113          5
+   115         11
+   124          5
+   126          9
+   128        265
+   129         21
+   130         10
+   139         10
+   145          8
+   167          7
+   169         28
+   171         20
+   184          7
+   197          7
+   295          6
+   355         12
+   414          7

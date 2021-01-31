@@ -1,0 +1,32 @@
+##TITLE=Library Entry 54446
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.MCLEAN LASH MILLER CHEM. LABS., TORONTO, CANADA
+##NAMES=HP
+##CAS NAME=Ormosanine, (18.alpha.)-
+##MOLFORM=C20H35N3
+##CAS REGISTRY NO=33792-80-2
+##MP= -300
+##BP= -300
+##MW= 317
+##$RETENTION INDEX=2543
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    43        470
+    84        999
+    96        140
+    98        400
+   150         90
+   151        380
+   191        110
+   219        520
+   220        120
+   233        150
+   234        380
+   235         80
+   245         60
+   259         70
+   316         90
+   317        420
+   318        110

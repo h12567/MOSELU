@@ -1,0 +1,80 @@
+##TITLE=Library Entry 26268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=N-Ethyl-4-piperidinecarboxamide
+##MOLFORM=C8H16N2O
+##CAS REGISTRY NO=1903-65-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    35          7
+    36          3
+    37         36
+    38         69
+    39        161
+    40         29
+    41        140
+    42        343
+    43        249
+    44        260
+    45         26
+    46        111
+    50          7
+    51         19
+    52         18
+    53         81
+    54         94
+    55        514
+    56        378
+    57        999
+    58         66
+    64          1
+    65          7
+    67         39
+    68         70
+    69         24
+    70         62
+    71          4
+    72         75
+    73          3
+    74          1
+    78          4
+    79          5
+    80         45
+    81          8
+    82        277
+    83        133
+    84        276
+    85         25
+    86          7
+    87         19
+    91          1
+    94          2
+    98         47
+    99          5
+   100        987
+   101         76
+   105          1
+   106          3
+   110          2
+   111          5
+   112         47
+   113         94
+   114         51
+   115          3
+   118          0
+   123          1
+   125          1
+   128        126
+   129         23
+   137          0
+   141         13
+   156        160
+   157         25
+   158          4

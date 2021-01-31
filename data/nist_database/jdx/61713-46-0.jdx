@@ -1,0 +1,39 @@
+##TITLE=Library Entry 83794
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Dimethylamino-3-methylpyridine
+##MOLFORM=C8H12N2
+##CAS REGISTRY NO=61713-46-0
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    77         10
+    78         30
+    79         19
+    80          9
+    91         10
+    92        480
+    93        469
+    94        151
+    95          9
+   104         30
+   105         30
+   106         50
+   107        999
+   108         99
+   109         10
+   118         20
+   119         30
+   120          9
+   121        430
+   122         50
+   133         29
+   135         49
+   136        478
+   137         40

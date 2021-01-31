@@ -1,0 +1,59 @@
+##TITLE=Library Entry 60663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzenebutanenitrile, .alpha.-chloro-
+##MOLFORM=C10H10ClN
+##CAS REGISTRY NO=53279-93-9
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    42         20
+    45         30
+    50         30
+    51         70
+    52         20
+    53         10
+    54         10
+    62         20
+    63         40
+    64         10
+    65        110
+    66         30
+    74         10
+    75         10
+    76         10
+    77         60
+    78         40
+    79         20
+    88         50
+    89         30
+    90         20
+    91        999
+    92        420
+    93         20
+   102         10
+   103         30
+   104         90
+   105        180
+   106         10
+   107        180
+   115         60
+   116         50
+   117         60
+   140         10
+   142         20
+   143        100
+   144         80
+   145         50
+   178         30
+   179        250
+   180         30
+   181         80
+   182         10

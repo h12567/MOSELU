@@ -1,0 +1,39 @@
+##TITLE=Library Entry 33174
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (1)15(1979); S. I. MILLER ET AL.
+##NAMES=HP
+##CAS NAME=2-Butyn-1-one, 1-(5-methyl-1H-1,2,3-triazol-4-yl)-
+##MOLFORM=C7H7N3O
+##CAS REGISTRY NO=51719-72-3
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         90
+    39        310
+    40         60
+    42        120
+    51         60
+    52        110
+    53         90
+    54        160
+    56         70
+    65        100
+    66        220
+    67        999
+    68         90
+    79         60
+    80        100
+    92         90
+    93         90
+   109        160
+   110         80
+   120        240
+   121         60
+   148         80
+   149        610
+   150         70

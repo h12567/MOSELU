@@ -1,0 +1,30 @@
+##TITLE=Library Entry 1845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Q.C. MIR, 2330, S KEARNEY 217, DENVER, COLO., US
+##NAMES=HP
+##CAS NAME=(2-Bromo-1-propenyl)pentafluorosulfur
+##MOLFORM=C3H4BrF5S
+##CAS REGISTRY NO=70664-94-7
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    28        190
+    37        130
+    38        190
+    39        999
+    40        130
+    59        190
+    89        500
+   106         60
+   108         60
+   119        190
+   121        190
+   127        190
+   137        190
+   139        190
+   167        250

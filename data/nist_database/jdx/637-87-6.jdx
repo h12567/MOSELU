@@ -1,0 +1,64 @@
+##TITLE=Library Entry 89047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Benzene, 1-chloro-4-iodo-
+##MOLFORM=C6H4ClI
+##CAS REGISTRY NO=637-87-6
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=1202
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    25          1
+    26          5
+    27          4
+    35          1
+    36          6
+    37         43
+    38         37
+    39          7
+    47          2
+    48          3
+    49         43
+    50        308
+    51         66
+    52          2
+    60          7
+    61         22
+    62          8
+    63          5
+    72          8
+    73         58
+    74        197
+    75        464
+    76         99
+    77          5
+    83          0
+    84         20
+    85         39
+    86          7
+    87         12
+   108          3
+   109          2
+   111        999
+   112         24
+   113        347
+   114         16
+   119         70
+   120         19
+   127         67
+   128          2
+   139          0
+   152          4
+   176          4
+   177          0
+   203          1
+   237          7
+   238        964
+   239         47
+   240        308
+   241         15

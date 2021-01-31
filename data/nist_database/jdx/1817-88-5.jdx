@@ -1,0 +1,49 @@
+##TITLE=Library Entry 52258
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(cyclohexyloxy)-
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=1817-88-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41        415
+    42         89
+    43        128
+    44         99
+    45        326
+    46          9
+    51         19
+    52          9
+    53         59
+    54         79
+    55        594
+    56         39
+    57        455
+    58         19
+    63         49
+    65          9
+    67        108
+    68          9
+    69         19
+    71         29
+    77          9
+    79         19
+    81         69
+    82        168
+    83        999
+    84         69
+    99         59
+   101        277
+   102         19
+   113         89
+   115         29
+   144        158
+   145         39

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 37324
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=5-Undecene, 3-methyl-, (Z)-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=74630-64-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    24          2
+    26          5
+    27        139
+    29        288
+    30          7
+    32          2
+    35          4
+    38          6
+    39        123
+    40         21
+    41        520
+    42        157
+    43        492
+    44          4
+    46          1
+    50          3
+    51          7
+    52          7
+    53         59
+    54         83
+    55        911
+    56        330
+    57        482
+    58         16
+    59          0
+    62          3
+    65         20
+    66          7
+    67         81
+    68         26
+    69        501
+    70        999
+    71        268
+    72         11
+    76          2
+    77         12
+    78          7
+    79         21
+    80          6
+    81         21
+    82         30
+    83        501
+    84         92
+    85         14
+    91          1
+    93          5
+    95         16
+    96         10
+    97        117
+    98         36
+    99          4
+   109          4
+   110          9
+   111         18
+   112          6
+   113          1
+   115          6
+   116          2
+   117          1
+   125          4
+   131          2
+   137          3
+   138          9
+   139         53
+   140         14
+   153          2
+   166          1
+   168         46
+   169          7

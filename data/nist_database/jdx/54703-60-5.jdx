@@ -1,0 +1,55 @@
+##TITLE=Library Entry 10992
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.R.DIXON GLAMORGAN POLYTECHNIC, PONTYPRIDD, GLAMORGAN,
+ UK
+##NAMES=HP
+##CAS NAME=Bicyclo[3.3.1]non-2-en-9-ol, 9-methyl-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=54703-60-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        100
+    40         60
+    41        300
+    43        999
+    44         60
+    53         90
+    54         80
+    55        260
+    57         90
+    67        530
+    68        110
+    69         90
+    70         60
+    71        320
+    77        120
+    79        290
+    81        210
+    82        100
+    83         60
+    84        100
+    85         70
+    91        120
+    92         80
+    93        360
+    94        320
+    95        340
+    96         70
+    97         70
+   105        150
+   106         60
+   108        660
+   109        530
+   110         80
+   111         80
+   119        160
+   124         55
+   134        460
+   137        130
+   152        120

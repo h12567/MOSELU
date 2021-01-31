@@ -1,0 +1,48 @@
+##TITLE=Library Entry 4329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.L. Ziegler, Inorg. Chem. Inst., Univ. Heidelberg, Hei
+delberg, W. Ger.
+##NAMES=HP
+##CAS NAME=Iron, dicarbonyl[(1,2,3,4,5-.eta.)-2,4-dimethyl-2,4-pentadienyl]i
+odo-
+##MOLFORM=C9H11FeIO2
+##CAS REGISTRY NO=106251-34-7
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39        558
+    41        999
+    43         65
+    53         44
+    55        100
+    56          6
+    59         34
+    67         60
+    69         30
+    77         39
+    79         86
+    81         44
+    83         27
+    91         32
+    93         41
+    95        125
+    96         46
+    97         76
+   107         25
+   121         41
+   135         34
+   139        129
+   140         17
+   143         72
+   144         46
+   151         41
+   179        302
+   183        418
+   278        744
+   306        465
+   334         72

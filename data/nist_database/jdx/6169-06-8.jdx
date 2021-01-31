@@ -1,0 +1,64 @@
+##TITLE=Library Entry 16990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2694
+##NAMES=HP
+##CAS NAME=2-Octanol, (S)-
+##MOLFORM=C8H18O
+##CAS REGISTRY NO=6169-06-8
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          5
+    17          1
+    18          3
+    19          1
+    26          2
+    27         52
+    28         11
+    29         55
+    30          1
+    31         11
+    32          3
+    38          1
+    39         30
+    40          5
+    41        113
+    42         50
+    43        115
+    44         61
+    45        999
+    46         22
+    47          2
+    50          1
+    51          2
+    53          7
+    54          5
+    55        205
+    56         68
+    57         55
+    58         23
+    59          9
+    67          5
+    68          6
+    69         55
+    70         60
+    71         15
+    81          2
+    82          6
+    83         28
+    84         51
+    85          7
+    86          4
+    97         63
+    98          5
+   112         31
+   113          3
+   115         26
+   116          2
+   128          1
+   129          3

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 67252
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1995
+##NAMES=HP
+##CAS NAME=Phosphoramidothioic acid, O,S-dimethyl ester
+##MOLFORM=C2H8NO2PS
+##CAS REGISTRY NO=10265-92-6
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=1229
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          1
+    14         11
+    15        166
+    16          8
+    17          4
+    18          7
+    26          1
+    27          3
+    28          8
+    29          0
+    30        114
+    33          6
+    34          4
+    35          3
+    42          1
+    45        192
+    46        214
+    47        407
+    48         69
+    49         20
+    50          3
+    51          2
+    60          2
+    61          7
+    62         44
+    63         59
+    64        250
+    65         46
+    66          1
+    76          6
+    77         15
+    78         23
+    79        130
+    80        107
+    81          3
+    82          1
+    91          2
+    92          8
+    94        999
+    95        563
+    96         33
+    97          3
+   108          3
+   110         60
+   111         69
+   112          4
+   113          3
+   125          9
+   126         70
+   127          3
+   128          3
+   141        356
+   142         15
+   143         16

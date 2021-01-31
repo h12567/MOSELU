@@ -1,0 +1,89 @@
+##TITLE=Library Entry 22188
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Pentafluoropropionic acid, hexyl ester
+##MOLFORM=C9H13F5O2
+##CAS REGISTRY NO=134639-01-3
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=897
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    15          5
+    20          1
+    26         11
+    27        165
+    28         60
+    29        219
+    30          7
+    31         19
+    33          5
+    37          1
+    38          6
+    39        151
+    40         35
+    41        600
+    42        381
+    43        801
+    44         34
+    45         18
+    47          7
+    50         19
+    51         14
+    52          8
+    53         37
+    54         56
+    55        618
+    56        999
+    57        144
+    58          5
+    59          3
+    61          3
+    62          1
+    63          1
+    65          5
+    66          2
+    67         33
+    68         13
+    69        532
+    70         23
+    71          6
+    77          2
+    78          7
+    79          8
+    80          2
+    81          9
+    82          5
+    83         15
+    84        112
+    85        100
+    86          6
+    93          3
+    97         10
+    99          2
+   100         60
+   101          3
+   109          5
+   111          1
+   117          3
+   119        480
+   120          9
+   127          1
+   128          8
+   129         15
+   130          1
+   145          1
+   147         56
+   148          2
+   149         10
+   150          2
+   163          1
+   165          2
+   177          3
+   190          1
+   191          3
+   205          7

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 79865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzamide, N-[2-(2-oxopropyl)phenyl]-
+##MOLFORM=C16H15NO2
+##CAS REGISTRY NO=19051-04-8
+##MP= -300
+##BP= -300
+##MW= 253
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    38         10
+    39         40
+    40         10
+    41         50
+    42         10
+    43        110
+    44         30
+    45         10
+    50         40
+    51        100
+    52         40
+    53         10
+    55         40
+    56         20
+    57         40
+    60         20
+    63         20
+    65         10
+    67         10
+    69         50
+    70         10
+    71         30
+    73         10
+    74         10
+    75         10
+    76         30
+    77        500
+    78        140
+    79         30
+    81         20
+    83         10
+    85         20
+    91         30
+    93         10
+    95         10
+    97         10
+   101         50
+   104         30
+   105        999
+   106        130
+   107         20
+   108         10
+   109         10
+   111         10
+   127         10
+   130         30
+   131        130
+   132        120
+   133         10
+   148         10
+   149         50
+   177         10
+   210         20
+   211        180
+   212         30
+   235         10
+   253        250
+   254         40

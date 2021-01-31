@@ -1,0 +1,68 @@
+##TITLE=Library Entry 67344
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Tigloyloxy-6,7-epoxytropane
+##MOLFORM=C13H19NO3
+##CAS REGISTRY NO=1341219-18-8
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=1809
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    29         53
+    39        111
+    41         85
+    42        305
+    43         79
+    49         12
+    51         22
+    53         38
+    54         57
+    55        311
+    58         65
+    60         27
+    65         18
+    66         46
+    67        119
+    68        164
+    69         62
+    72         75
+    73         56
+    78         45
+    81        279
+    82        140
+    83        259
+    84         32
+    89         30
+    93        122
+    94        999
+    95        107
+    96         45
+    97        259
+    98         74
+   100         33
+   102         67
+   106         23
+   107         81
+   108        739
+   109        107
+   110        165
+   120        225
+   121         62
+   122         86
+   130         60
+   133         22
+   136        550
+   137        136
+   138        446
+   143         50
+   149         19
+   150         13
+   154        700
+   155         28
+   237        295
+   238         51

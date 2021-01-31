@@ -1,0 +1,38 @@
+##TITLE=Library Entry 79499
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Isoxazole, 3-ethyl-5-phenyl-
+##MOLFORM=C11H11NO
+##CAS REGISTRY NO=4211-90-9
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        230
+    41        160
+    50        240
+    51        560
+    52        110
+    63        150
+    68        200
+    76        160
+    77        940
+    78        320
+    89        160
+    91        160
+   103        230
+   105        999
+   106         90
+   117        100
+   131        190
+   144         60
+   145         70
+   158        110
+   172        110
+   173        660
+   174        110

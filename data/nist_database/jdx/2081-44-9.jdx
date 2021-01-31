@@ -1,0 +1,85 @@
+##TITLE=Library Entry 53728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6075
+##NAMES=HP
+##CAS NAME=Tetrahydro-4H-pyran-4-ol
+##MOLFORM=C5H10O2
+##CAS REGISTRY NO=2081-44-9
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    13          3
+    14         19
+    15         80
+    16          4
+    17          3
+    18         10
+    19          1
+    25          3
+    26         54
+    27        296
+    28        747
+    29        313
+    30         92
+    31        415
+    32          6
+    33          3
+    36          1
+    37          7
+    38         12
+    39        104
+    40         17
+    41        129
+    42        145
+    43        558
+    44        994
+    45        305
+    46        226
+    47         11
+    48          1
+    49          4
+    50         13
+    51         15
+    52          6
+    53         87
+    54        186
+    55        355
+    56        360
+    57        405
+    58        141
+    59         52
+    60          3
+    61        244
+    62          7
+    63          2
+    65          1
+    66          5
+    67          7
+    68          2
+    69        132
+    70         11
+    71         73
+    72         19
+    73        146
+    74         27
+    75         16
+    76          1
+    77          1
+    81          2
+    82          3
+    83        153
+    84        999
+    85         62
+    86          6
+    87          4
+    88          1
+    99          4
+   100          4
+   101         27
+   102         55
+   103          4

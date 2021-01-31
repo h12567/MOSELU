@@ -1,0 +1,86 @@
+##TITLE=Library Entry 81517
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Methylphenethyl isothiocyanate
+##MOLFORM=C10H11NS
+##CAS REGISTRY NO=13203-39-9
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          0
+    15          2
+    26          7
+    27         65
+    28         23
+    29          2
+    32         14
+    34          2
+    37          3
+    38         14
+    39         95
+    40         13
+    41         26
+    44          8
+    45         21
+    46          2
+    47          1
+    50         37
+    51         80
+    52         25
+    53         28
+    58         12
+    59         10
+    60          3
+    61          4
+    62         19
+    63         51
+    64         14
+    65         66
+    66          6
+    69          1
+    70          3
+    72         71
+    73          4
+    74         12
+    75         10
+    76         15
+    77        167
+    78         54
+    79        127
+    80          9
+    85          1
+    86          4
+    87          5
+    88          2
+    89         24
+    90          7
+    91         77
+    92          8
+    93          4
+   101          3
+   102         14
+   103         81
+   104          2
+   105        999
+   106         89
+   107          2
+   115         33
+   116          8
+   117         37
+   118         10
+   119         16
+   120          2
+   142          3
+   145          3
+   147          1
+   177        263
+   178         34
+   179         12
+   180          1

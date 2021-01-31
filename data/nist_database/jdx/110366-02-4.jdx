@@ -1,0 +1,43 @@
+##TITLE=Library Entry 54141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. SCHUNACK, INST. PHARM., FREIE UNIV. BERLIN, BERLIN,
+ W. GER.
+##NAMES=HP
+##CAS NAME=(.+/-.)-2-Amino-5-[3-[3-(piperidinomethyl)phenoxy]-2-methylpropyl
+amino]-3,4-oxadiazole
+##MOLFORM=C18H27N5O2
+##CAS REGISTRY NO=110366-02-4
+##MP= -300
+##BP= -300
+##MW= 345
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        250
+    42        330
+    43        140
+    56        570
+    70        560
+    77        280
+    78        320
+    79        280
+    84        999
+    98        760
+   107        610
+   108        580
+   147        110
+   155        380
+   162        100
+   179        250
+   190         90
+   191        140
+   205        320
+   232         30
+   261        110
+   262        100
+   287        220
+   288        190
+   302         30
+   345        110

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 259
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2529
+##NAMES=HP
+##CAS NAME=Rhodium carbonyl chloride
+##MOLFORM=C4Cl2O4Rh2
+##CAS REGISTRY NO=14523-22-9
+##MP= -300
+##BP= -300
+##MW= 388
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    12          8
+    16          3
+    28        999
+    29         17
+    30          3
+    35          7
+    36         56
+    37          2
+    38         18
+   103        519
+   131         36
+   138         42
+   140         13
+   159          2
+   166         12
+   167          2
+   168          3
+   173          2
+   180         18
+   181         11
+   182          2
+   194         11
+   195          5
+   196          2
+   201          1
+   203          1
+   206         80
+   218          9
+   234          1
+   241        249
+   243         83
+   253          8
+   255          2
+   269         30
+   271          9
+   276        401
+   278        263
+   280         42
+   288          3
+   290          2
+   297          3
+   299          1
+   304        361
+   305          4
+   306        232
+   307          2
+   308         37
+   332        343
+   333          9
+   334        222
+   335          6
+   336         36
+   337          1
+   360        381
+   361         13
+   362        249
+   363          8
+   364         41
+   365          1
+   388        455
+   389         20
+   390        295
+   391         12
+   392         48
+   393          2

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 43574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]-, bis(trimethylsi
+lyl) ester, (R*,S*)-
+##MOLFORM=C17H40O6Si4
+##CAS REGISTRY NO=38166-12-0
+##MP= -300
+##BP= -300
+##MW= 452
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    43         19
+    44         19
+    45         75
+    55         59
+    59         26
+    72         19
+    73        999
+    74         88
+    75        104
+    83         45
+   101         19
+   102          9
+   103          9
+   117          6
+   129         49
+   131         39
+   133         65
+   134          6
+   147        485
+   148         65
+   149         45
+   163          6
+   191         19
+   203          6
+   204         39
+   205          6
+   217         75
+   218         19
+   219         98
+   220         49
+   221         49
+   222          6
+   245        832
+   246        173
+   247         85
+   248          6
+   291         19
+   292         22
+   293          9
+   320        118
+   321         39
+   322         19
+   335         88
+   336         26
+   337          6
+   437        124
+   438         45
+   439         26

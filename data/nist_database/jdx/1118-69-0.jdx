@@ -1,0 +1,56 @@
+##TITLE=Library Entry 16016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Isopropylamine, N-acetyl-
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=1118-69-0
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=883
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         27
+    16          1
+    18         12
+    26          5
+    27         29
+    28         39
+    29          7
+    30         23
+    31          2
+    37          2
+    38          5
+    39         36
+    40         14
+    41         80
+    42        121
+    43        332
+    44        999
+    45         29
+    51          1
+    52          3
+    53          1
+    54          3
+    55          1
+    56          9
+    57         30
+    58        148
+    59         14
+    60         50
+    61          1
+    68          1
+    70          2
+    72         14
+    73          8
+    84          1
+    86        255
+    87         12
+    88          1
+   101        464
+   102         29
+   103          2

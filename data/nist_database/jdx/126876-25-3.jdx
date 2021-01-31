@@ -1,0 +1,51 @@
+##TITLE=Library Entry 58439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Ethyl-2,3,4,6-tetrathiaheptane
+##MOLFORM=C5H12S4
+##CAS REGISTRY NO=126876-25-3
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=1484
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         12
+    35          3
+    39         57
+    41        330
+    42         14
+    45        262
+    46         56
+    47        110
+    48         16
+    49         38
+    55         18
+    58         27
+    59         23
+    60          7
+    61        184
+    62          5
+    63          6
+    64         74
+    71         29
+    72         21
+    73        547
+    74         73
+    78          8
+    79        365
+    80         28
+    81         37
+    88         10
+    89        999
+    90         53
+    91         62
+    92          5
+    93         14
+    94          6
+   111         53
+   168          3
+   200         16

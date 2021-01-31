@@ -1,0 +1,50 @@
+##TITLE=Library Entry 5204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I. A. ERMAKOV
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octan-3-one, 6-(hydroxymethyl)-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=34291-62-8
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        580
+    42        999
+    43        510
+    44        500
+    53         60
+    54        120
+    55        160
+    56        300
+    57        200
+    58         60
+    67         70
+    68        680
+    69        200
+    70        160
+    71         90
+    72         70
+    73         40
+    81         60
+    82        140
+    83         80
+    84        120
+    85        110
+    86        220
+    96        400
+    97        260
+    98        240
+   110        330
+   111         60
+   112        220
+   126        140
+   127        800
+   128         70
+   154         30
+   155        110
+   156         20

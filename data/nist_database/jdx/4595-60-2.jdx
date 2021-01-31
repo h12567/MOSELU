@@ -1,0 +1,63 @@
+##TITLE=Library Entry 49324
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Bromopyrimidine
+##MOLFORM=C4H3BrN2
+##CAS REGISTRY NO=4595-60-2
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12         24
+    13         10
+    14          1
+    18          0
+    24         23
+    25         77
+    26        393
+    27         74
+    28        118
+    36         11
+    37         46
+    38        106
+    39         88
+    40         19
+    41          2
+    48          1
+    50         41
+    51        317
+    52        441
+    53        385
+    54         12
+    62          2
+    63          4
+    64          3
+    65          1
+    76         13
+    77         42
+    79        999
+    80         53
+    81        119
+    82          5
+    91         16
+    93         15
+   104         39
+   105         21
+   106         73
+   107         20
+   108         33
+   130         21
+   131         61
+   132         22
+   133         60
+   134          2
+   158        546
+   159         28
+   160        536
+   161         27
+   162          0

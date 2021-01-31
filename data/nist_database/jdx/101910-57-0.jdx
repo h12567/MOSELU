@@ -1,0 +1,59 @@
+##TITLE=Library Entry 10617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. OKSUZ, FAC. PHARM., UNIV. ISTANBUL, BEYAZIT, TURKEY
+##NAMES=HP
+##CAS NAME=4.alpha.,5.beta.-Epoxy-9.alpha.-hydroxygermacra-1(10),11(13)-dien
+-6,12-olide 8.alpha.-(4-hydroxysenecioate)
+##MOLFORM=C20H26O7
+##CAS REGISTRY NO=101910-57-0
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        540
+    40        270
+    41        570
+    42        260
+    43        999
+    44        130
+    45        200
+    51        220
+    52        120
+    53        510
+    54        170
+    55        620
+    57        180
+    65        180
+    67        310
+    68        180
+    69        600
+    70        130
+    71        670
+    77        320
+    79        300
+    81        200
+    82        400
+    83        320
+    84        290
+    87        190
+    91        320
+    93        220
+    95        220
+    96        120
+    97        450
+    98        220
+    99        830
+   105        200
+   107        130
+   109        170
+   115        130
+   121        130
+   175        100
+   186        100
+   262        190
+   279         80
+   378         70

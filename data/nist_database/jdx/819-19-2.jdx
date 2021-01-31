@@ -1,0 +1,31 @@
+##TITLE=Library Entry 23347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphine, bis(1,1-dimethylethyl)-
+##MOLFORM=C8H19P
+##CAS REGISTRY NO=819-19-2
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    29        278
+    40         26
+    41        326
+    42         26
+    55         42
+    56         36
+    57        999
+    58         68
+    60         63
+    75         26
+    89          5
+    90         73
+    91         47
+   131          5
+   146         84
+   147         26

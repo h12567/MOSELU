@@ -1,0 +1,49 @@
+##TITLE=Library Entry 56677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=2,5-Diisopropylpiperazine
+##MOLFORM=C10H22N2
+##CAS REGISTRY NO=154559-11-2
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    51          3
+    52          2
+    53          8
+    54         17
+    55        152
+    56        246
+    57         45
+    58         26
+    67          3
+    68         14
+    69         27
+    70         87
+    71         31
+    72        292
+    73         13
+    81          6
+    82         20
+    83         46
+    84         79
+    85         21
+    86        999
+    87         56
+    95          2
+    96         32
+    97          2
+    98         75
+    99          5
+   126         48
+   127        617
+   128         51
+   155          2
+   156          7
+   170         28
+   171          1

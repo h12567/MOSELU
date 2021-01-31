@@ -1,0 +1,27 @@
+##TITLE=Library Entry 11902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sydnone, 3-(1-methylethyl)-
+##MOLFORM=C5H8N2O2
+##CAS REGISTRY NO=6939-17-9
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    39        170
+    40        100
+    41        420
+    42        170
+    43        999
+    44         70
+    55         50
+    70        180
+    71         10
+   100         70
+   128        450
+   129         30

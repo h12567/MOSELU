@@ -1,0 +1,80 @@
+##TITLE=Library Entry 9722
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION. ALDERLY PARK CH
+ESHIRE.
+##NAMES=HP
+##CAS NAME=Pregnan-20-one, 3-hydroxy-
+##MOLFORM=C21H34O2
+##CAS REGISTRY NO=4406-35-3
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41        375
+    43        999
+    53         94
+    55        531
+    56         94
+    57        375
+    67        313
+    68        125
+    69        281
+    70         94
+    71        344
+    77         94
+    79        219
+    80         63
+    81        375
+    82         63
+    83        188
+    84        594
+    85        188
+    91        156
+    92         31
+    93        219
+    95        313
+    96         63
+    97        125
+   105        125
+   106         63
+   107        281
+   108         94
+   109        156
+   111        125
+   119         94
+   120         63
+   121        156
+   122         94
+   123        125
+   124         63
+   125         63
+   131         31
+   133         94
+   134         64
+   135        125
+   137         63
+   145         63
+   147         94
+   148         63
+   149        125
+   159         31
+   161         63
+   163         63
+   173         31
+   174         31
+   175         63
+   191         31
+   192         31
+   215        156
+   233         94
+   257         63
+   260         63
+   285         31
+   300         94
+   303         31
+   318        188
+   319         31

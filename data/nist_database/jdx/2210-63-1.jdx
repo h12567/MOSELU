@@ -1,0 +1,71 @@
+##TITLE=Library Entry 47165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Mofebutazone
+##MOLFORM=C13H16N2O2
+##CAS REGISTRY NO=2210-63-1
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=2142
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27        192
+    29        178
+    39        176
+    40         13
+    41        304
+    42         91
+    43        178
+    50        104
+    51        268
+    52        109
+    53         65
+    54         24
+    55        612
+    56         56
+    57        379
+    63        102
+    64        119
+    65        106
+    69        208
+    70         34
+    71         12
+    77        999
+    78        140
+    79         13
+    83         13
+    91        195
+    92         86
+    93        428
+    97         97
+    98         83
+   105        326
+   106        135
+   107        654
+   108        961
+   109         80
+   117         34
+   119        259
+   120         52
+   125        239
+   133         28
+   134         89
+   135         13
+   144         27
+   145        113
+   146         31
+   161         67
+   172         51
+   173        268
+   174         13
+   176        417
+   177         99
+   189        382
+   190         43
+   217         33
+   232        518
+   233        105

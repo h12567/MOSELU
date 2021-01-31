@@ -1,0 +1,41 @@
+##TITLE=Library Entry 107035
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3,4-Dihydrocoumarin-7-ol
+##MOLFORM=C9H8O3
+##CAS REGISTRY NO=5631-67-4
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    42        251
+    45        353
+    51        122
+    53         40
+    55        150
+    65        198
+    66        117
+    67         86
+    77        277
+    79        129
+    91         75
+    94        131
+    95         83
+   105        176
+   107        159
+   110        152
+   121        143
+   122        178
+   123        999
+   135        282
+   136        573
+   137         72
+   147         78
+   163        182
+   164        863
+   165        113

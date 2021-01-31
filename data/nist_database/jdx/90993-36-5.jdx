@@ -1,0 +1,47 @@
+##TITLE=Library Entry 75078
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=N,N-Dimethylphosphoramidousdicyanide
+##MOLFORM=C4H6N3P
+##CAS REGISTRY NO=90993-36-5
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         29
+    26         29
+    27         89
+    41         29
+    42        539
+    43        349
+    44         59
+    45          9
+    46         29
+    47         49
+    57        139
+    58         79
+    59         24
+    60        359
+    74        119
+    75          4
+    76          4
+    83         49
+    84         24
+    85         71
+    86          4
+    87          4
+    91          9
+    92         24
+   100        539
+   101        999
+   102         49
+   110         24
+   112         49
+   126        839
+   127        839
+   128         19

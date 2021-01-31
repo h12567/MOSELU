@@ -1,0 +1,29 @@
+##TITLE=Library Entry 86288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-(2-bromoethyl)-4-fluoro-
+##MOLFORM=C8H8BrF
+##CAS REGISTRY NO=332-42-3
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        100
+    75        120
+    96         80
+   101         80
+   103        120
+   109        999
+   110         70
+   122        100
+   123        270
+   124         20
+   202        140
+   203         10
+   204        130
+   205         10

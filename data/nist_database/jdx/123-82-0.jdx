@@ -1,0 +1,57 @@
+##TITLE=Library Entry 15138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Tuaminoheptane
+##MOLFORM=C7H17N
+##CAS REGISTRY NO=123-82-0
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=809
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    13          0
+    14          0
+    15         16
+    16          0
+    17          3
+    18          0
+    21          0
+    26          8
+    27         63
+    28         34
+    29         49
+    30         88
+    31          1
+    37          1
+    39         37
+    40         11
+    41         69
+    42         73
+    43          1
+    44        999
+    45         27
+    50          0
+    51          2
+    52          1
+    53          4
+    54          5
+    55         31
+    56         16
+    57         12
+    58          7
+    59          1
+    63          0
+    65          0
+    67          0
+    68          1
+    69          3
+    70          5
+    83          3
+   100         31
+   101          2
+   114          5
+   115          3

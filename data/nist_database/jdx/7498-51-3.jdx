@@ -1,0 +1,77 @@
+##TITLE=Library Entry 90937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Tsai, LB, NHLBI, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Ethyl-diisopropylacetamide
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=7498-51-3
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    41        254
+    43        390
+    44        170
+    45          5
+    51         12
+    52          2
+    53         43
+    54          1
+    55        110
+    57        127
+    58         36
+    59          3
+    65         17
+    66          6
+    67         38
+    68          3
+    69        342
+    71        456
+    72         13
+    73          7
+    74         24
+    75          8
+    77        166
+    78         74
+    79        101
+    80         22
+    81         73
+    82         37
+    83        358
+    84         72
+    85        321
+    86        247
+    87         31
+    88          5
+    89          1
+    91         21
+    92          4
+    93          3
+    94          4
+    95          9
+    96         17
+    97         84
+    98         74
+   100         64
+   101          3
+   106          1
+   110          2
+   111         21
+   112         25
+   114        999
+   115         73
+   116          3
+   126          3
+   127         12
+   128        350
+   129        423
+   130         33
+   142          8
+   143         45
+   144          2
+   156         17
+   171         10

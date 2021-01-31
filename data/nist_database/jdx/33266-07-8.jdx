@@ -1,0 +1,32 @@
+##TITLE=Library Entry 98877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. FENSELAU
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(2-methyl-1,3-dithiolan-2-yl)-
+##MOLFORM=C6H10OS2
+##CAS REGISTRY NO=33266-07-8
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    40         20
+    42         10
+    43        120
+    45         45
+    46         10
+    57         20
+    58         65
+    59        400
+    60         20
+    61         45
+    76         10
+    91         25
+   105         10
+   119        999
+   120         65
+   121         90
+   162         20

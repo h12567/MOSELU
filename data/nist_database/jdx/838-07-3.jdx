@@ -1,0 +1,53 @@
+##TITLE=Library Entry 109154
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Cytidine, 2'-deoxy-5-methyl-
+##MOLFORM=C10H15N3O4
+##CAS REGISTRY NO=838-07-3
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    28        137
+    39         88
+    41         70
+    42         98
+    43        169
+    44        113
+    52         74
+    53         74
+    54        187
+    55        233
+    56         67
+    57         63
+    69        113
+    70        272
+    71         83
+    73         81
+    81        183
+    82         52
+    83        123
+    96         40
+    97        155
+    98         74
+    99         25
+   109         28
+   116         18
+   117         28
+   124         15
+   125        999
+   126        144
+   127         12
+   141         77
+   142          8
+   150         52
+   152         19
+   167         17
+   241          7
+   242          1

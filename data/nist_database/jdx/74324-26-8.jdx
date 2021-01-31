@@ -1,0 +1,51 @@
+##TITLE=Library Entry 6410
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=Terephthalylidene bis(p-nonylaniline)
+##MOLFORM=C38H52N2
+##CAS REGISTRY NO=74324-26-8
+##MP= -300
+##BP= -300
+##MW= 536
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        742
+    42        152
+    43        999
+    44        115
+    45         66
+    47         21
+    55        344
+    56         94
+    57        443
+    60         37
+    65         49
+    67         19
+    68         15
+    69        207
+    70         48
+    71        155
+    73         70
+    77         80
+    78         51
+    90        120
+    91        198
+    95         65
+    96         67
+    97        110
+    98         23
+    99         21
+   106        338
+   107         20
+   149         17
+   155        665
+   194         15
+   219         17
+   311        183
+   423        103
+   536        187
+   537         80

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 86102
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Lageot ET AL.J.Organomet Chem. 66.49.(1974)
+##NAMES=HP
+##CAS NAME=1-Chloro-1-ethyl-3,4-dimethyl-1-germacyclopent-3-ene
+##MOLFORM=C8H15ClGe
+##CAS REGISTRY NO=26311-78-4
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    39        215
+    40         70
+    41        300
+    42         30
+    43         80
+    63        100
+    64         60
+    65         95
+    67        210
+    79         35
+    81         70
+    82        185
+    83        165
+    85         20
+    87         30
+    89         40
+    99         45
+   101         45
+   103         30
+   105        440
+   107        775
+   108        165
+   109        999
+   110         60
+   111        420
+   113         80
+   115         30
+   134         35
+   136         55
+   137         25
+   138         85
+   139         20
+   140         35
+   151         20
+   153         30
+   155         40
+   159         30
+   171         35
+   173         50
+   175         30
+   181         60
+   183         80
+   184         40
+   185         95
+   187        290
+   188         20
+   189        445
+   190        130
+   191        605
+   192         70
+   193        255
+   195         30
+   216        165
+   218        280
+   219         90
+   220        375
+   221         50
+   222        155
+   223         15
+   224         20

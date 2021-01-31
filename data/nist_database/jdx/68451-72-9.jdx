@@ -1,0 +1,37 @@
+##TITLE=Library Entry 79341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=O-Benzoyl-4-chlorobenzamidoxime
+##MOLFORM=C14H11ClN2O2
+##CAS REGISTRY NO=68451-72-9
+##MP= -300
+##BP= -300
+##MW= 274
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    51        177
+    77        577
+   102        171
+   105        999
+   111         59
+   113         19
+   122        209
+   125         59
+   127         20
+   137        539
+   139        169
+   152         99
+   153         50
+   154         29
+   155         20
+   169         29
+   171         10
+   223          9
+   256         29
+   268         10
+   274        269
+   276         89

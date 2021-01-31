@@ -1,0 +1,87 @@
+##TITLE=Library Entry 107214
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Acetic acid, (4-methoxyphenoxy)-
+##MOLFORM=C9H10O4
+##CAS REGISTRY NO=1877-75-4
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14         16
+    15         50
+    17          0
+    18          1
+    26         29
+    27         21
+    29         36
+    31         65
+    37          9
+    38         35
+    39         41
+    40          9
+    41         77
+    42         21
+    43          6
+    44          6
+    45         52
+    46          1
+    50         45
+    51         43
+    52         49
+    53         50
+    54         34
+    55          9
+    59         12
+    60          1
+    61          8
+    62         31
+    63         95
+    64        103
+    65         52
+    66         15
+    67         14
+    68          3
+    69          6
+    73          2
+    74         14
+    75         11
+    76         20
+    77        104
+    78         14
+    79         27
+    80         29
+    81         44
+    82         11
+    83          1
+    92         92
+    93         10
+    95        237
+    96         17
+    97          1
+   105          7
+   107         49
+   109        145
+   110         11
+   111          2
+   121          4
+   123        999
+   124        109
+   125          8
+   135          2
+   137         26
+   138          2
+   139          0
+   151          1
+   163          0
+   167         10
+   182        560
+   183         53
+   184          2

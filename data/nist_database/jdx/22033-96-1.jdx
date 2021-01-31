@@ -1,0 +1,39 @@
+##TITLE=Library Entry 10607
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.RIMPLER FREE UNIV OF BERLIN, BERLIN, F.R.G
+##NAMES=HP
+##CAS NAME=Cholest-7-en-6-one, 25-(acetyloxy)-2,3,14,20,22-pentahydroxy-, (2
+.beta.,3.beta.,5.beta.,22R)-
+##MOLFORM=C29H46O8
+##CAS REGISTRY NO=22033-96-1
+##MP= -300
+##BP= -300
+##MW= 522
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        999
+    60        460
+    81        310
+    99        770
+   267         55
+   269         55
+   285         73
+   300        160
+   327        200
+   344        300
+   363        101
+   365        320
+   393         22
+   406         30
+   408         65
+   411         32
+   426        360
+   444         84
+   462          2
+   468          6
+   486          2
+   504          0
+   522          0

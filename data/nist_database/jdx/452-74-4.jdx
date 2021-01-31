@@ -1,0 +1,63 @@
+##TITLE=Library Entry 86636
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=1-Bromo-2-fluoro-4-methylbenzene
+##MOLFORM=C7H6BrF
+##CAS REGISTRY NO=452-74-4
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    43          9
+    44         67
+    45          8
+    49          5
+    50         37
+    51         26
+    54         17
+    56         12
+    57         83
+    59         16
+    61         18
+    62         35
+    63         62
+    64          8
+    68         17
+    69         16
+    70          7
+    74         21
+    75         12
+    80         11
+    81         62
+    82         19
+    83        194
+    84         46
+    85         41
+    86         14
+    87         12
+    88          6
+    89         30
+    90          6
+    91         12
+    93          7
+    94         25
+    95         13
+   105          8
+   106          8
+   107        156
+   108        156
+   109        999
+   110         82
+   161          8
+   163          6
+   170          6
+   187        106
+   188        763
+   189        173
+   190        769
+   191         57

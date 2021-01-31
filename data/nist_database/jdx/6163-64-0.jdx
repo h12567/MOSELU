@@ -1,0 +1,66 @@
+##TITLE=Library Entry 23743
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Propane, 2-methyl-2-(methylthio)-
+##MOLFORM=C5H12S
+##CAS REGISTRY NO=6163-64-0
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=724
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         15
+    26          6
+    27         71
+    29        221
+    30          5
+    32          1
+    33          1
+    35          3
+    37          6
+    38         16
+    39        193
+    40         26
+    41        681
+    42         30
+    43          4
+    44          2
+    45         93
+    46         31
+    47         68
+    48         27
+    49        121
+    50         15
+    51         20
+    52          3
+    53         24
+    54          5
+    55         94
+    56        178
+    57        999
+    58         64
+    59         50
+    60          3
+    61         33
+    62          1
+    63          1
+    69          3
+    70          1
+    71          9
+    72          3
+    73         10
+    74          8
+    75          1
+    85          1
+    87          1
+    89        164
+    90          8
+    91          7
+   104        515
+   105         34
+   106         24
+   107          1

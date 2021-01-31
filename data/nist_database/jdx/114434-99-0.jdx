@@ -1,0 +1,45 @@
+##TITLE=Library Entry 69208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Dihydro-4,5-dichloro-2(3H)furanone
+##MOLFORM=C4H4Cl2O2
+##CAS REGISTRY NO=114434-99-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    35         46
+    37         27
+    41         26
+    42         61
+    47         65
+    48         14
+    49         27
+    60        101
+    61        763
+    62         44
+    63        237
+    67          4
+    69          9
+    81          1
+    82          8
+    83         29
+    84         13
+    93         14
+    96        999
+    97         48
+    98        647
+    99         41
+   100        104
+   111          1
+   126        111
+   128         79
+   129          2
+   130          8
+   154         17
+   156         10

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 46323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonochloridodithioic acid, methyl ester
+##MOLFORM=C2H3ClS2
+##CAS REGISTRY NO=16696-91-6
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    32        150
+    38         40
+    44        220
+    45        170
+    46         50
+    47         80
+    48         10
+    58         20
+    59         50
+    60         20
+    64         10
+    76        999
+    77         20
+    78         80
+    79        160
+    81         50
+    91        420
+    92         10
+    93         30
+   126        270
+   127         10
+   128        100

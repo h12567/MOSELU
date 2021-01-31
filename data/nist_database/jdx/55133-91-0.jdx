@@ -1,0 +1,83 @@
+##TITLE=Library Entry 42314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=2-Aminobutanoic acid, 2TMS derivative
+##MOLFORM=C10H25NO2Si2
+##CAS REGISTRY NO=55133-91-0
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=1188
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26         12
+    27         43
+    29         47
+    30         11
+    31         29
+    39          4
+    40          3
+    41         84
+    42         19
+    43        127
+    44         85
+    45        269
+    46         31
+    47         51
+    49          3
+    53          4
+    54          2
+    55         19
+    56         33
+    57         30
+    58         97
+    59        178
+    60         31
+    61         26
+    63         16
+    65          8
+    66          6
+    69         11
+    71          1
+    72         27
+    73        999
+    74        100
+    75        167
+    76          7
+    77         50
+    80          5
+    85          4
+    86          9
+    93         31
+    95         13
+    98          8
+    99          3
+   100         47
+   101          1
+   102          4
+   103         11
+   105          2
+   114         28
+   115         17
+   116          4
+   117          9
+   119          3
+   128          7
+   129          3
+   130        841
+   131        130
+   132         42
+   133         31
+   142         17
+   147        117
+   148         20
+   149         12
+   160          2
+   204         71
+   205         16
+   218         13
+   232         17

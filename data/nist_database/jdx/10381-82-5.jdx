@@ -1,0 +1,68 @@
+##TITLE=Library Entry 33231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Caffeine, 8-bromo-
+##MOLFORM=C8H9BrN4O2
+##CAS REGISTRY NO=10381-82-5
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    51         37
+    52         10
+    53         33
+    54         45
+    55        506
+    56         86
+    57        136
+    58          6
+    65          2
+    66         95
+    67        999
+    68         59
+    69         28
+    70         35
+    71          6
+    79          8
+    80         17
+    81        128
+    82        363
+    83         42
+    84          2
+    85         69
+    86          2
+   107         10
+   108        380
+   109        116
+   110          9
+   111          1
+   135          6
+   136          7
+   137          3
+   186          1
+   187        276
+   188         22
+   189        275
+   190         18
+   191         11
+   193        112
+   194          6
+   214          7
+   215         40
+   216         12
+   217         41
+   218          1
+   243          9
+   244          5
+   245         11
+   270          5
+   271          7
+   272        649
+   273         97
+   274        673
+   275         42

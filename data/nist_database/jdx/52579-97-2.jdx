@@ -1,0 +1,89 @@
+##TITLE=Library Entry 8240
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=1,6-Anhydro-3,4-O-isopropylidene-.beta.-D-galactopyranose
+##MOLFORM=C9H14O5
+##CAS REGISTRY NO=52579-97-2
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    41        301
+    43        999
+    44        126
+    45         80
+    47         29
+    49          9
+    50          3
+    51         10
+    52          5
+    53         40
+    54         20
+    55        243
+    56         24
+    57        321
+    58         22
+    59        513
+    60         49
+    61         22
+    64          1
+    67          3
+    68         16
+    69        161
+    70        131
+    71        150
+    72         27
+    73        128
+    74          4
+    77          0
+    79          2
+    80          2
+    81        166
+    82          2
+    83         20
+    84          9
+    85        100
+    86         13
+    87          5
+    88          0
+    89          9
+    91          1
+    95          3
+    97        103
+    98         45
+    99         53
+   100         45
+   101         53
+   102          3
+   103          0
+   105          4
+   109          8
+   111          1
+   113          4
+   115         23
+   116          3
+   123          0
+   126          8
+   127         21
+   128          1
+   129          3
+   130          1
+   139          0
+   141          1
+   143         47
+   144         10
+   145          3
+   149          0
+   156          2
+   159          1
+   173          2
+   185          1
+   187        470
+   188         39
+   189          7
+   202          4

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 28676
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.G.GIUMANINI, CENT. GASCHROM-MASS SPEC., UNIV. BOLOGNA
+, ITA
+##NAMES=HP
+##CAS NAME=Permethylspermine
+##MOLFORM=C16H38N4
+##CAS REGISTRY NO=57905-96-1
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         60
+    42        129
+    43         71
+    44         71
+    45         71
+    57         52
+    58        999
+    59         65
+    70        100
+    71        107
+    72         71
+    84        286
+    85        525
+    86        206
+    98        179
+   100        157
+   286         33

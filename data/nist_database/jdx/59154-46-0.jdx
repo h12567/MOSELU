@@ -1,0 +1,66 @@
+##TITLE=Library Entry 3967
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Propanoic acid, 3-bromo-2-methyl-, ethyl ester
+##MOLFORM=C6H11BrO2
+##CAS REGISTRY NO=59154-46-0
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         45
+    27        231
+    28         48
+    29        534
+    30         32
+    31         22
+    37         11
+    38         36
+    39        376
+    40         80
+    41        999
+    42        621
+    43        196
+    44         14
+    45        141
+    49          7
+    53          7
+    55         64
+    56          6
+    57          6
+    59         37
+    69         75
+    70          3
+    73         49
+    79          7
+    81          3
+    82          2
+    86          9
+    87        426
+    88         21
+    93         50
+    95         48
+   105          2
+   107          7
+   115        651
+   116         45
+   120         17
+   121        419
+   122         43
+   123        409
+   124         26
+   149        176
+   151        183
+   152          3
+   153         11
+   166        242
+   167         16
+   168        234
+   169         15
+   179          2
+   181          3

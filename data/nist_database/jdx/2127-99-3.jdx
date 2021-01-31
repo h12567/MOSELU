@@ -1,0 +1,57 @@
+##TITLE=Library Entry 50437
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.VOELTER CHEM. INST., UNIV., TUBINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=O-Trifluoroacetyl-neoisomenthol
+##MOLFORM=C12H19F3O2
+##CAS REGISTRY NO=2127-99-3
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        170
+    29        130
+    39        160
+    41        510
+    42        140
+    43        520
+    51         30
+    53        130
+    54        160
+    55        460
+    56        140
+    57        120
+    59         30
+    65         30
+    67        300
+    68        170
+    69        260
+    70         70
+    77         40
+    79        100
+    80         60
+    81        999
+    82        250
+    83        170
+    91         30
+    93         40
+    94        120
+    95        970
+    96        510
+    97        140
+   109         60
+   110         30
+   123        290
+   124         30
+   138        410
+   139         70
+   153         10
+   166          3
+   167          8
+   209          3
+   237          4
+   252          4

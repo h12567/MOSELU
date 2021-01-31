@@ -1,0 +1,63 @@
+##TITLE=Library Entry 27068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2,3-dihydro-6-chloro-2-oxo-benzo[d]oxazol-3-ylmet
+hyl ester
+##MOLFORM=C11H10ClNO4
+##CAS REGISTRY NO=327047-45-0
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    33         11
+    34         19
+    36          7
+    38          8
+    39         29
+    40         32
+    41         42
+    42         14
+    43         45
+    44         90
+    45          8
+    50         39
+    51         43
+    52         15
+    53         10
+    55         45
+    57        999
+    58         37
+    61          5
+    62         14
+    63         43
+    64         22
+    69         11
+    73          9
+    75         53
+    76         55
+    77         19
+    78         22
+    81          4
+    82          6
+    83          8
+    85          7
+    87          5
+    91         14
+    99         18
+   102         25
+   111         57
+   112         10
+   113         35
+   138         14
+   140         12
+   169        235
+   170         21
+   171         75
+   182         64
+   184         14
+   255         18

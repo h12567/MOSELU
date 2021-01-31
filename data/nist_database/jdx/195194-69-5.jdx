@@ -1,0 +1,36 @@
+##TITLE=Library Entry 77903
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3,3'-Dichloro-4,4'-dimethyl terephthalanilide
+##MOLFORM=C22H18Cl2N2O2
+##CAS REGISTRY NO=195194-69-5
+##MP= -300
+##BP= -300
+##MW= 412
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    76        349
+    77        282
+    78         45
+   103         49
+   104        999
+   105         75
+   132         83
+   140         62
+   141         46
+   166         77
+   180         57
+   181         62
+   272        471
+   273         51
+   274        168
+   412        391
+   413         74
+   414        266
+   415         56
+   416         40

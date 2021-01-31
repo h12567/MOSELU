@@ -1,0 +1,63 @@
+##TITLE=Library Entry 1600
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6606
+##NAMES=HP
+##CAS NAME=Malonic acid, dihydrazide
+##MOLFORM=C3H8N4O2
+##CAS REGISTRY NO=3815-86-9
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         10
+    15         23
+    16         10
+    17         18
+    18         19
+    26          2
+    27          7
+    28         41
+    29         48
+    30         39
+    31        246
+    32        999
+    33         81
+    38          2
+    39          3
+    40          9
+    41         14
+    42         54
+    43        238
+    44         18
+    45          2
+    53          1
+    55         17
+    56          9
+    57          5
+    58         15
+    59        101
+    60          2
+    66          4
+    68          3
+    69         30
+    70          1
+    71          3
+    73         11
+    74         19
+    75          1
+    83          2
+    84          2
+    86          3
+    99          2
+   100         44
+   101        280
+   102         11
+   103          1
+   114          4
+   132         24
+   133          2

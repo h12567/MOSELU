@@ -1,0 +1,59 @@
+##TITLE=Library Entry 28880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,2,4-trimethoxy-, stereoisomer II
+##MOLFORM=C9H18O3
+##CAS REGISTRY NO=29887-74-9
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        230
+    42         50
+    43        130
+    45        320
+    53         50
+    55         80
+    56         30
+    57         60
+    58        999
+    59        100
+    65         30
+    67         60
+    69         70
+    71        250
+    72         50
+    73        110
+    75        210
+    77         30
+    79         60
+    80         30
+    81         20
+    84        380
+    85         80
+    88         70
+    95         30
+    97         80
+    99         20
+   101        590
+   102         30
+   103        440
+   104         60
+   109         20
+   110         80
+   111         50
+   112         20
+   114         30
+   115         20
+   116         80
+   117         10
+   127         20
+   142        480
+   143         50
+   159         50
+   174         10

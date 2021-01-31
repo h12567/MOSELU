@@ -1,0 +1,61 @@
+##TITLE=Library Entry 709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ethyl-1,1,2,3,3,3-hexafluoropropylsulfide
+##MOLFORM=C5H6F6S
+##CAS REGISTRY NO=380-35-8
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26         25
+    27        331
+    28        146
+    29        999
+    30         19
+    35         62
+    36          8
+    44          4
+    45         91
+    46         34
+    47        150
+    48         12
+    51         23
+    57          2
+    58         28
+    59         63
+    60         36
+    61        276
+    62         17
+    63         66
+    64          2
+    65          5
+    69        171
+    70          2
+    76          5
+    82         31
+    83        186
+    84          3
+    85          5
+   101         19
+   111        432
+   112         18
+   113         34
+   145         17
+   151         78
+   152          9
+   164         12
+   165         46
+   166          9
+   193          7
+   197         81
+   198          7
+   211          5
+   212        302
+   213         19
+   214         11

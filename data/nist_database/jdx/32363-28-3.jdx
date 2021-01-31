@@ -1,0 +1,36 @@
+##TITLE=Library Entry 62511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W H. DALY
+##NAMES=HP
+##CAS NAME=Carbamic acid, [(4-methylphenyl)sulfonyl]-, 2,2-dimethylpropyl es
+ter
+##MOLFORM=C13H19NO4S
+##CAS REGISTRY NO=32363-28-3
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        308
+    43        384
+    51        100
+    55        260
+    56        260
+    57        520
+    63        115
+    65        308
+    69        100
+    71        146
+    89        100
+    91        999
+    92        169
+   107         93
+   108        435
+   151         69
+   155        940
+   156        100
+   197        430
+   221        230

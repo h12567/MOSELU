@@ -1,0 +1,33 @@
+##TITLE=Library Entry 85094
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-(1,1-dimethylethoxy)-4-methyl-
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=15359-98-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41         63
+    51         63
+    53         63
+    57         63
+    65         63
+    77        125
+    78         50
+    79         75
+    80         50
+    91         75
+    94         63
+   105         63
+   107        250
+   108        999
+   109        125
+   121         75
+   149        100
+   164         75

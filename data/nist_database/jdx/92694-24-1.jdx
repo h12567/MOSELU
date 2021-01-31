@@ -1,0 +1,43 @@
+##TITLE=Library Entry 81170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Benzoyl-2-(4-chlorobenzoyl)-3-(2-chlorophenyl)-cyclopropane
+##MOLFORM=C23H16Cl2O2
+##CAS REGISTRY NO=92694-24-1
+##MP= -300
+##BP= -300
+##MW= 394
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    76         70
+    77        468
+    78         49
+    89        211
+    91         49
+   105        999
+   106         80
+   111        247
+   113         89
+   115         99
+   125         70
+   139        696
+   141        218
+   150         80
+   202         68
+   220         59
+   227         59
+   254        199
+   255        648
+   256        178
+   257        269
+   261         59
+   289        449
+   290         60
+   291        280
+   292         50
+   293         59
+   359         50

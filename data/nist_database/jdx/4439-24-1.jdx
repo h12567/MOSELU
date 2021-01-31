@@ -1,0 +1,65 @@
+##TITLE=Library Entry 24630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1202
+##NAMES=HP
+##CAS NAME=Ethylene glycol monoisobutyl ether
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=4439-24-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=927
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    16          1
+    17          6
+    18         27
+    19          2
+    26          7
+    27         97
+    28         26
+    29        227
+    30          6
+    31         76
+    32          5
+    33          3
+    37          1
+    38          3
+    39         61
+    40          9
+    41        302
+    42         27
+    43         49
+    44         20
+    45        720
+    46         17
+    47          4
+    50          1
+    51          2
+    53          5
+    54          2
+    55         40
+    56        100
+    57        999
+    58         45
+    59         34
+    60          5
+    61          8
+    62          7
+    63         12
+    69          3
+    70          1
+    71         35
+    72         17
+    73         28
+    74          2
+    75        227
+    76         10
+    77          4
+    87        100
+    88          6
+   100          9

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 79543
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. A. WILSON
+##NAMES=HP
+##CAS NAME=Methanamine, N-(diphenylmethylene)-, N-oxide
+##MOLFORM=C14H13NO
+##CAS REGISTRY NO=7500-79-0
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        460
+    77        940
+   105        999
+   108         20
+   118        130
+   152         20
+   165        100
+   180        400
+   181        120
+   182        540
+   194         80
+   195         30
+   210         90
+   211        330

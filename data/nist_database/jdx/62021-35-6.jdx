@@ -1,0 +1,52 @@
+##TITLE=Library Entry 57687
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Methyl 2-methyl-3-cyclopropylpropanoate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=62021-35-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        590
+    42        120
+    43        140
+    44         40
+    53        120
+    55        940
+    56        200
+    57        420
+    58         60
+    59        320
+    60         30
+    67        160
+    68         80
+    69        140
+    71         80
+    72         50
+    73         70
+    74         90
+    82        160
+    83        260
+    85         40
+    87        110
+    88        999
+    89         60
+    95         60
+    99        100
+   100         60
+   101        220
+   102         60
+   110         60
+   111        110
+   113         40
+   114         30
+   115         20
+   127        100
+   142        120
+   143         10

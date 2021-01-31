@@ -1,0 +1,35 @@
+##TITLE=Library Entry 81834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Benzoyl-3,3,4-trimethyl-4-phenylazetidin-2-one
+##MOLFORM=C19H19NO2
+##CAS REGISTRY NO=77064-42-7
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    42         31
+    51         19
+    70        193
+    71          9
+    77        222
+    78         18
+   103         31
+   104         20
+   105        999
+   106        108
+   107         12
+   131         21
+   190         81
+   191         14
+   224        700
+   225        203
+   226         35
+   293        332
+   294         66
+   295         11

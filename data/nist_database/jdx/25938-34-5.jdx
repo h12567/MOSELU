@@ -1,0 +1,74 @@
+##TITLE=Library Entry 66314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Dimethyl(n-pentyl)chlorosilane
+##MOLFORM=C7H17ClSi
+##CAS REGISTRY NO=25938-34-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    40        142
+    41         42
+    42        109
+    43        103
+    44         36
+    51         30
+    52          6
+    53         18
+    55         42
+    57         18
+    59        103
+    61         12
+    63         67
+    64         11
+    65         85
+    66         10
+    67         36
+    69         39
+    70         42
+    71         36
+    72         18
+    73         30
+    75         42
+    76         27
+    77         36
+    78         36
+    79        182
+    80         24
+    81         48
+    83         21
+    85         48
+    89         33
+    90          6
+    91         24
+    92         33
+    93        999
+    94         94
+    95        376
+    96         27
+    97         24
+   105         15
+   107         39
+   109         30
+   113         18
+   115         12
+   119         12
+   121         73
+   122         12
+   123         21
+   145         12
+   147          6
+   149        200
+   150         30
+   151         67
+   152         12
+   164         15
+   165          2
+   166          5
+   167          1

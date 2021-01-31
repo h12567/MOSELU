@@ -1,0 +1,51 @@
+##TITLE=Library Entry 78777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MINISTRY OF DEFENCE ERDE, WALTHAM ABBEY, ESSEX, UK
+##NAMES=HP
+##CAS NAME=Benzoyl azide
+##MOLFORM=C7H5N3O
+##CAS REGISTRY NO=582-61-6
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14         30
+    26         40
+    27         90
+    28        270
+    29         10
+    31         10
+    37         90
+    38        180
+    39        150
+    40         30
+    42         20
+    46         30
+    49         30
+    50        210
+    51        340
+    52         60
+    53         10
+    61         20
+    62         30
+    63        120
+    64        270
+    65         70
+    74         50
+    75         40
+    76         60
+    77        570
+    78         40
+    90         20
+    91        180
+    92         20
+   105        999
+   106         90
+   119        210
+   120         20
+   147        130
+   148         10

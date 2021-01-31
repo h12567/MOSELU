@@ -1,0 +1,28 @@
+##TITLE=Library Entry 97902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MAQUESTIAU, ORG. CHEM. SERVICE, STATE UNIV., MONS, B
+ELGIU
+##NAMES=HP
+##CAS NAME=S-Tetrazine, 1,2-dihydro-1,2-dimethyl-3,6-diphenyl-
+##MOLFORM=C16H16N4
+##CAS REGISTRY NO=58822-95-0
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    43         97
+    50         40
+    51         65
+    76         48
+    77        185
+    91         48
+   103         89
+   104         32
+   118        999
+   119         97
+   264        145
+   265         28

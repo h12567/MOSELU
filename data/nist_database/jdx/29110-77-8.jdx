@@ -1,0 +1,46 @@
+##TITLE=Library Entry 83547
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Phenoxy-acetic acid N'-phenyl-hydrazide
+##MOLFORM=C14H14N2O2
+##CAS REGISTRY NO=29110-77-8
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    50         26
+    51        189
+    52         30
+    53          4
+    63         10
+    64          7
+    65        136
+    66         13
+    76          8
+    77        809
+    78         96
+    79         71
+    80         22
+    91         23
+    92        422
+    93        196
+    94         96
+    95         15
+   105        113
+   106         95
+   107        999
+   108        155
+   119         57
+   120        168
+   121         41
+   148          4
+   149        528
+   150         38
+   152         25
+   242        627
+   243         92

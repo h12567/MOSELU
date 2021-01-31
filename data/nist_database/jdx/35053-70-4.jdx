@@ -1,0 +1,35 @@
+##TITLE=Library Entry 76298
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Isoxazolecarboxylic acid, 4,5-dihydro-5-[[(methylamino)carbonyl
+]amino]-3-phenyl-, cis-
+##MOLFORM=C12H13N3O4
+##CAS REGISTRY NO=35053-70-4
+##MP= -300
+##BP= -300
+##MW= 263
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    30         70
+    39         50
+    42        110
+    44        499
+    50        130
+    51        100
+    58         90
+    69         70
+    75         80
+    76        350
+    77        110
+    85         80
+    98        180
+   103        999
+   104        150
+   105         50
+   119        250
+   142         50
+   245        120

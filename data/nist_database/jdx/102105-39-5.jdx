@@ -1,0 +1,36 @@
+##TITLE=Library Entry 70090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,1,1,4,-Tetramethyl-4,4-divinyldisilethylene
+##MOLFORM=C10H22Si2
+##CAS REGISTRY NO=102105-39-5
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    58         67
+    59        137
+    71        430
+    72         37
+    73        888
+    74         80
+    75         39
+    85        227
+    86        285
+    87         41
+    97        999
+    98        137
+    99         48
+   155        451
+   156         76
+   157         39
+   170         41
+   171         19
+   183         70
+   184         11
+   198         42

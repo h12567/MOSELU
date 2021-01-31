@@ -1,0 +1,47 @@
+##TITLE=Library Entry 114537
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-Amino-5-mercapto-4-methyl-1,2,4-triazole
+##MOLFORM=C3H6N4S
+##CAS REGISTRY NO=66870-09-5
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        143
+    29        162
+    30        337
+    42        306
+    43        614
+    44        174
+    45        110
+    47         67
+    55        298
+    56         78
+    57        572
+    59        140
+    60        323
+    61         42
+    70         27
+    72         69
+    73         48
+    74        238
+    75         28
+    76         16
+    85         59
+    86         37
+    87         16
+    88         20
+    97        120
+    98         18
+   100         12
+   129         24
+   130        999
+   131         73
+   132         62
+   133          3

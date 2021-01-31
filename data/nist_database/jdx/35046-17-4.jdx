@@ -1,0 +1,56 @@
+##TITLE=Library Entry 28572
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propanamide, N-[1-methyl-1-[4-methyl-4-[(1-oxopropyl)amino]cycloh
+exyl]ethyl]-
+##MOLFORM=C16H30N2O2
+##CAS REGISTRY NO=35046-17-4
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    28        214
+    29        187
+    30          7
+    31         24
+    41         48
+    42         51
+    43         48
+    44         78
+    55         78
+    57        287
+    58        999
+    59         78
+    60         12
+    70        239
+    74        731
+    79         24
+    80          9
+    81        109
+    90         12
+   100         29
+   110         53
+   112         53
+   113        239
+   114        499
+   115        161
+   120         12
+   121        187
+   130         14
+   136        580
+   137         78
+   140        268
+   168         78
+   169        214
+   170        109
+   209        268
+   210         29
+   239        395
+   268         29
+   282        161
+   283         75

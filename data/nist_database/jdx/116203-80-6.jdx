@@ -1,0 +1,30 @@
+##TITLE=Library Entry 53769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Cyclobutaneethanol, .beta.-methylene-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=116203-80-6
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        200
+    41        260
+    43        120
+    53        210
+    55        980
+    56        620
+    57        150
+    66        100
+    69        210
+    79        200
+    81        120
+    83        850
+    84        999
+   112         30

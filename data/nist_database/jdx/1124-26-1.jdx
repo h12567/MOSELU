@@ -1,0 +1,56 @@
+##TITLE=Library Entry 68179
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.VON BUNAU MAX-PLANCK-INST., MULHEIM-RHUR, GERMANY, FR
+G
+##NAMES=HP
+##CAS NAME=Cyclohexene, 3-methyl-6-(1-methylethyl)-, trans-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=1124-26-1
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=976
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27         83
+    29         56
+    39         97
+    40         24
+    41        185
+    42         24
+    43         66
+    51         26
+    52         17
+    53         68
+    54         26
+    55        163
+    56         22
+    57         24
+    65         39
+    66         19
+    67        244
+    68        122
+    69         75
+    70         26
+    77         68
+    78         24
+    79        105
+    80         48
+    81        283
+    82        136
+    83         36
+    91         46
+    92         14
+    93         53
+    94         95
+    95        999
+    96        173
+    97         22
+   109         44
+   110         17
+   123        146
+   124         29
+   138        244
+   139         36

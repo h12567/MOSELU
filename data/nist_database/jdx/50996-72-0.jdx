@@ -1,0 +1,41 @@
+##TITLE=Library Entry 44523
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Propene, 3-[(1-methylethyl)thio]-
+##MOLFORM=C6H12S
+##CAS REGISTRY NO=50996-72-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=822
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    40         20
+    41        980
+    42         60
+    43        420
+    44         20
+    45        170
+    46         40
+    47         90
+    55         20
+    58         20
+    59        330
+    60         20
+    61         20
+    67         80
+    71         30
+    72         30
+    73        210
+    74        999
+    75         90
+    76         40
+   101        220
+   102         20
+   116        570
+   117         50
+   118         30

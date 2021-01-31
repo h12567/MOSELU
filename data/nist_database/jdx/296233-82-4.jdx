@@ -1,0 +1,69 @@
+##TITLE=Library Entry 80420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=1,3-Dioxolane-4,5-dimethanol, 2-phenyl-, bis(4-methylbenzenesulfo
+nate)
+##MOLFORM=C25H26O8S2
+##CAS REGISTRY NO=296233-82-4
+##MP= -300
+##BP= -300
+##MW= 518
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    50          2
+    51         26
+    53         12
+    54         23
+    55         36
+    57         10
+    64          4
+    65         99
+    66          2
+    69         85
+    70         10
+    77        109
+    78         76
+    79         64
+    89         39
+    90         58
+    91        873
+    92         93
+    93          1
+   104         25
+   105        999
+   106         98
+   107         39
+   108          4
+   133         42
+   134          1
+   139         25
+   154          1
+   155        529
+   156         47
+   157         24
+   174          2
+   175        138
+   176         14
+   183         23
+   227        163
+   228         19
+   229          4
+   233         22
+   363          9
+   364          1
+   429         25
+   430          7
+   473         74
+   474        154
+   475         34
+   476         11
+   516          4
+   517        151
+   518        248
+   519         78
+   520         38
+   521          5

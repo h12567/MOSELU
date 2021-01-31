@@ -1,0 +1,73 @@
+##TITLE=Library Entry 3838
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.BOTTEGHI ZURICH TECHNICAL COLLEGE, ZURICH, SWITZERLAN
+D
+##NAMES=HP
+##CAS NAME=Furan, 2,3-dihydro-4-(1-methylethyl)-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=34314-84-6
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1123
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15         35
+    17         50
+    18        235
+    19         10
+    26         25
+    27        305
+    28         90
+    29        200
+    30         10
+    31         75
+    32         15
+    37         10
+    38         30
+    39        310
+    40         60
+    41        999
+    42         90
+    43        560
+    44         25
+    45         50
+    47         30
+    50         20
+    51         40
+    52         15
+    53        100
+    54         25
+    55        420
+    56        160
+    57        175
+    58         35
+    59         15
+    65         55
+    66         20
+    67        290
+    68         25
+    69        220
+    70         30
+    71        225
+    72         35
+    73         30
+    75         40
+    77         50
+    79        110
+    80         15
+    81         50
+    82         30
+    83         95
+    84         30
+    85        130
+    86         50
+    95        180
+    97        930
+    98        100
+   110         95
+   111        120
+   112        380
+   113         85

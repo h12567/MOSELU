@@ -1,0 +1,36 @@
+##TITLE=Library Entry 62685
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.S.Plaziak ET AL, Org. Mass Spectr.,24,871(1989)
+##NAMES=HP
+##CAS NAME=5-Benzyl-5-formylamino-6-imino-hexahydro-2-thioxopyrimidin-4-one
+##MOLFORM=C12H12N4O2S
+##CAS REGISTRY NO=126552-75-8
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    86         13
+    89         17
+    90         17
+    91        999
+    92         92
+    96         13
+    98         34
+   104         17
+   105         54
+   117         13
+   118         30
+   128         27
+   157        450
+   158         37
+   159         17
+   160         34
+   192         17
+   215         34
+   248        347
+   249         37
+   276         24

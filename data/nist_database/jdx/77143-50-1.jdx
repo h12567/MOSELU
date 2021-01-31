@@ -1,0 +1,40 @@
+##TITLE=Library Entry 49583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(1,2-Dibromo-p-nitrophenethyl)-3-phenyl-quinazolin-4(3H)-one
+##MOLFORM=C22H15Br2N3O3
+##CAS REGISTRY NO=77143-50-1
+##MP= -300
+##BP= -300
+##MW= 527
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    18        325
+    50         71
+    51         91
+    77        207
+    79        470
+    80        999
+    81        467
+    82        985
+   119         19
+   151          9
+   165          9
+   221         49
+   234         29
+   247         30
+   277         50
+   322        119
+   323         39
+   324          9
+   337         10
+   338         10
+   353         10
+   368        488
+   369        219
+   448         20
+   450         19

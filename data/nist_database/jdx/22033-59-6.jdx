@@ -1,0 +1,27 @@
+##TITLE=Library Entry 30797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.F.G.JOHNSON, DEPT. OF CHEM., UNIV. OF MANCHESTER, UK
+##NAMES=HP
+##CAS NAME=Cobalt, bis[.mu.-(benzenethiolato)]tetranitrosyldi-
+##MOLFORM=C12H10Co2N4O4S2
+##CAS REGISTRY NO=22033-59-6
+##MP= -300
+##BP= -300
+##MW= 456
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    59        999
+   123        200
+   168        160
+   182        230
+   198         80
+   228         20
+   259         80
+   336        580
+   366        200
+   396        250
+   426        500
+   456        250

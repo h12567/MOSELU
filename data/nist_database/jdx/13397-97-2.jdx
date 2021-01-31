@@ -1,0 +1,71 @@
+##TITLE=Library Entry 3889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 7-(o-pentylphenyl)-, methyl ester
+##MOLFORM=C19H30O2
+##CAS REGISTRY NO=13397-97-2
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14        120
+    15        249
+    16        100
+    17        110
+    18        229
+    28        669
+    29        859
+    39        240
+    40        739
+    41        999
+    43        739
+    53         90
+    55        425
+    57        220
+    59        440
+    65        100
+    67        125
+    69        240
+    72        110
+    74        260
+    76        125
+    77        140
+    78        100
+    79        130
+    85        130
+    87        200
+    91        809
+    92        200
+   104        549
+   105        999
+   106        400
+   115        140
+   116        150
+   117        400
+   119        330
+   128         90
+   129        125
+   131        170
+   143        140
+   144        100
+   147        310
+   157         75
+   159        125
+   160        150
+   161        200
+   169         90
+   173         90
+   174        100
+   175         75
+   183         80
+   187        220
+   201        140
+   219        100
+   233         65
+   259        230
+   290        849

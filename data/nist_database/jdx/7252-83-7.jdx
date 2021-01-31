@@ -1,0 +1,67 @@
+##TITLE=Library Entry 45101
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Ethane, 2-bromo-1,1-dimethoxy-
+##MOLFORM=C4H9BrO2
+##CAS REGISTRY NO=7252-83-7
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         23
+    26         10
+    27         28
+    29         92
+    30         15
+    31         83
+    41          3
+    42         33
+    43        285
+    44          9
+    45         24
+    47        112
+    48          2
+    57         14
+    58        111
+    59         15
+    72          1
+    73         11
+    74          5
+    75        999
+    76         34
+    77          5
+    79         10
+    80          5
+    81         10
+    82          5
+    88          2
+    91          4
+    92          8
+    93         70
+    94         19
+    95         69
+    96         10
+    97          3
+   105          5
+   106          2
+   107         10
+   108          1
+   109          5
+   120          2
+   121          6
+   122          4
+   123          6
+   124          1
+   136          6
+   137        275
+   138         15
+   139        260
+   140          8
+   167          3
+   169          3

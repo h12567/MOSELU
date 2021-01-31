@@ -1,0 +1,30 @@
+##TITLE=Library Entry 36579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.HAAS RUHR UNIVERSITY, BOCHUM, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Carbonimidic chloride fluoride, [(trifluoromethyl)thio]-
+##MOLFORM=C2ClF4NS
+##CAS REGISTRY NO=33278-61-4
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    31         78
+    35         25
+    44         42
+    46        189
+    50         28
+    63         51
+    69        999
+    77        106
+    82         78
+    93         83
+   101        235
+   112        263
+   146        203
+   162         23
+   181        557

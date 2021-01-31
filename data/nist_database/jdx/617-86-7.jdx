@@ -1,0 +1,47 @@
+##TITLE=Library Entry 30257
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Silane, triethyl-
+##MOLFORM=C6H16Si
+##CAS REGISTRY NO=617-86-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=744
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         19
+    29         46
+    30          8
+    31        101
+    33          3
+    39          3
+    41          3
+    42          9
+    43         75
+    44         13
+    45         28
+    53         17
+    54          6
+    55         35
+    56         21
+    57         62
+    58         97
+    59        999
+    60         66
+    61         28
+    71          3
+    73          4
+    75          2
+    85          3
+    86        259
+    87        882
+    88         81
+    89         27
+   115         26
+   116         36
+   117          5

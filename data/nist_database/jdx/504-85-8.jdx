@@ -1,0 +1,55 @@
+##TITLE=Library Entry 10595
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Pentenoic acid, 4-methyl-
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=504-85-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=1011
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        220
+    28        231
+    29        112
+    31         24
+    37         10
+    38         25
+    39        199
+    40         30
+    41        249
+    42        179
+    43        999
+    44         29
+    45         23
+    50         18
+    51         25
+    52          9
+    53         62
+    54         21
+    55        498
+    56        324
+    57         28
+    58         31
+    59        245
+    60         12
+    67         18
+    68         15
+    69         92
+    70        359
+    71        191
+    72         11
+    73         34
+    81         35
+    96          7
+    97          6
+    99        911
+   100         50
+   101          6
+   114         54
+   115          9

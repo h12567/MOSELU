@@ -1,0 +1,37 @@
+##TITLE=Library Entry 33960
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ditrifluoromethyl(trifluorocarbonyloxy)amine
+##MOLFORM=C4F9NO2
+##CAS REGISTRY NO=15496-02-3
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    31        192
+    32          2
+    44         78
+    45          1
+    50        125
+    51          2
+    69        999
+    70         11
+    78          5
+    97         61
+    98          2
+   108          4
+   114         24
+   115          1
+   130         16
+   133          9
+   149         13
+   152          9
+   158          3
+   196         25
+   197          1
+   246          5

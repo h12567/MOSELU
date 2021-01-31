@@ -1,0 +1,79 @@
+##TITLE=Library Entry 18781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=1,4-Cyclohexanediol, trans-
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=6995-79-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          9
+    19          7
+    26         19
+    27        136
+    28         65
+    29        246
+    30         30
+    31        214
+    32          3
+    37          5
+    38         16
+    39        225
+    40         49
+    41        506
+    42        402
+    43        496
+    44        395
+    45        102
+    46          3
+    47        113
+    48          2
+    49          3
+    50         18
+    51         31
+    52         11
+    53         89
+    54        999
+    55        618
+    56        174
+    57        661
+    58        844
+    59        362
+    60         30
+    61          3
+    62          7
+    63          5
+    65         18
+    66          5
+    67         54
+    68         29
+    69        316
+    70        263
+    71         22
+    72          2
+    73          9
+    74          2
+    77         37
+    78          5
+    79        108
+    80        114
+    81         38
+    83        314
+    84         17
+    85          2
+    86          1
+    87          2
+    95          3
+    97        162
+    98        908
+    99         59
+   100          3
+   114          2
+   115          3
+   116          5

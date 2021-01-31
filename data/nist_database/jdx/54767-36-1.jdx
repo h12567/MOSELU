@@ -1,0 +1,68 @@
+##TITLE=Library Entry 58417
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=5-Methoxy-1-pentanol, TMS derivative
+##MOLFORM=C9H22O2Si
+##CAS REGISTRY NO=54767-36-1
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41        205
+    42         25
+    43         60
+    44         15
+    45        170
+    46         10
+    47         30
+    55         35
+    56         10
+    57         20
+    58         60
+    59        125
+    60         15
+    61         60
+    67         30
+    68         60
+    69        950
+    70         60
+    71        120
+    72         30
+    73        495
+    74         50
+    75        330
+    76         35
+    77         10
+    85         50
+    87         50
+    88         10
+    89        999
+    90        125
+    91         40
+    99         15
+   100         10
+   101         10
+   102         20
+   103        240
+   104         25
+   105         10
+   115         40
+   116         15
+   117         10
+   119        300
+   120         20
+   129         55
+   130          5
+   143        240
+   144         25
+   145         10
+   157         50
+   175         80
+   176         15
+   190          5
+   191          1

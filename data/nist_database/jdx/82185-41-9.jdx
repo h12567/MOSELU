@@ -1,0 +1,90 @@
+##TITLE=Library Entry 59754
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-amino-, phenylmethyl ester
+##MOLFORM=C14H13NO2
+##CAS REGISTRY NO=82185-41-9
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          7
+    27         22
+    28         15
+    29         10
+    30          2
+    37         12
+    38         43
+    39        199
+    40         16
+    41         41
+    42         10
+    43          1
+    44          2
+    45          3
+    46          4
+    50         44
+    51         86
+    52         64
+    53         16
+    54          6
+    60          2
+    61          8
+    62         30
+    63         97
+    64         77
+    65        449
+    66         48
+    67          2
+    74          9
+    75          9
+    76         14
+    77         71
+    78         20
+    79         30
+    80          4
+    86          2
+    87          2
+    89         43
+    91        999
+    92        206
+    93         51
+    94          5
+   103          2
+   104          8
+   105         24
+   106        134
+   107         18
+   108          2
+   114          1
+   119         36
+   120        106
+   121         42
+   122          4
+   130          1
+   132         17
+   133          3
+   137          1
+   149          1
+   150          5
+   151          1
+   152          2
+   165          3
+   166          1
+   167          2
+   180         47
+   181         12
+   182          5
+   196          4
+   208         21
+   209         10
+   210          1
+   227        172
+   228         26
+   229          2

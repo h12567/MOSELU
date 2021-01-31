@@ -1,0 +1,37 @@
+##TITLE=Library Entry 34713
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=Diazene, 1-cyclopentyl-2-propoxy-, 1-oxide
+##MOLFORM=C8H16N2O2
+##CAS REGISTRY NO=108201-45-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        140
+    28         50
+    29         50
+    31         30
+    39         90
+    41        530
+    42         40
+    43        540
+    44         40
+    53         30
+    55         60
+    57         30
+    67        190
+    68        170
+    69        999
+    70         60
+    74         70
+   100        330
+   113        180
+   155        110
+   172         40

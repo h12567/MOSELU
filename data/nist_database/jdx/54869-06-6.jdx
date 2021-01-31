@@ -1,0 +1,32 @@
+##TITLE=Library Entry 3046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1(2H)-Naphthalenone, 6-(1,1-dimethylethyl)octahydro-2,8a-dimethyl
+-
+##MOLFORM=C16H28O
+##CAS REGISTRY NO=54869-06-6
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        210
+    41        999
+    43        350
+    53        200
+    55        480
+    57        629
+    67        410
+    68        230
+    69        220
+    79        200
+    81        400
+    95        370
+   109        350
+   125        440
+   138        240
+   236         90

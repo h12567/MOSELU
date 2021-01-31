@@ -1,0 +1,63 @@
+##TITLE=Library Entry 3934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Diallylethylamine
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=3454-10-2
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        110
+    29        105
+    30        100
+    38         20
+    39        230
+    40         20
+    41        999
+    42        230
+    43         60
+    44        125
+    51         10
+    52         10
+    53         28
+    54         70
+    55        100
+    56        235
+    57         40
+    58         65
+    65         12
+    67         30
+    68        150
+    69         40
+    70        148
+    71         25
+    77         20
+    78         20
+    79         45
+    80         15
+    81        105
+    82         50
+    83         20
+    84         57
+    85         35
+    94         10
+    95         13
+    96         35
+    97         15
+    98        395
+    99         30
+   108         10
+   109          6
+   110        705
+   111         63
+   124         35
+   125        175
+   126         20

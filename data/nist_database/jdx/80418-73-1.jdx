@@ -1,0 +1,65 @@
+##TITLE=Library Entry 84719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 4-chlorononanoate
+##MOLFORM=C10H18Cl2O2
+##CAS REGISTRY NO=80418-73-1
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1551
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    36         81
+    38         29
+    39        158
+    41        642
+    42        222
+    43        564
+    49        117
+    51         39
+    53         91
+    54        201
+    55        923
+    56        229
+    57        168
+    67        228
+    68        140
+    69        329
+    70         69
+    71         89
+    72        546
+    76          9
+    77         39
+    79         70
+    81        362
+    82         80
+    83        180
+    84        178
+    85        240
+    89         20
+    93         50
+    94         88
+    95        188
+    96        791
+    97        670
+    98         58
+    99         20
+   105         20
+   108        999
+   109        171
+   110        381
+   111         40
+   118         59
+   119         60
+   121        168
+   131          9
+   132         70
+   135         19
+   138        209
+   139        328
+   175        180
+   177         59

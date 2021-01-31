@@ -1,0 +1,73 @@
+##TITLE=Library Entry 76878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Sulfobenzoic acid cyclic anhydride
+##MOLFORM=C7H4O4S
+##CAS REGISTRY NO=81-08-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          7
+    16          3
+    18          0
+    26         17
+    28         25
+    29          6
+    32         10
+    36          9
+    37         67
+    38        105
+    39         33
+    40          0
+    44          7
+    45         16
+    46         36
+    47          0
+    48         49
+    49         63
+    50        585
+    51         36
+    52         17
+    53         18
+    57          4
+    60          7
+    61         24
+    62         33
+    63         78
+    64         86
+    65         11
+    66          4
+    68          5
+    69         31
+    70         17
+    71          3
+    72          3
+    73         55
+    74        224
+    75        149
+    76        927
+    77         79
+    78          6
+    81          9
+    82          5
+    84          5
+    92        203
+    93         14
+    95          7
+    96          6
+   104        999
+   105         74
+   106          6
+   120        543
+   121         47
+   122          3
+   140          6
+   184        559
+   185         50
+   186         27

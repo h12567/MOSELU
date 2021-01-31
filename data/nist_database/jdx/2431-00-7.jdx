@@ -1,0 +1,54 @@
+##TITLE=Library Entry 99289
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TEXAS A&M UNIVERSITY, COLLEGE STATION, TEXAS, USA
+##NAMES=HP
+##CAS NAME=Ethanedione, (4-methylphenyl)phenyl-
+##MOLFORM=C15H12O2
+##CAS REGISTRY NO=2431-00-7
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         15
+    28          5
+    37          8
+    38         17
+    39         58
+    40          5
+    41         18
+    49          5
+    50         75
+    51        141
+    52         10
+    53          4
+    61          9
+    62         22
+    63         58
+    64         15
+    65        133
+    66          9
+    73          4
+    74         20
+    75         14
+    76         15
+    77        216
+    78         18
+    85          3
+    86          6
+    87          5
+    89         32
+    90         19
+    91        258
+    92         21
+   105        216
+   106         20
+   119        999
+   120         91
+   121          6
+   224         34
+   225          6

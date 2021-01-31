@@ -1,0 +1,41 @@
+##TITLE=Library Entry 33241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Azabicyclo[4.1.0]heptane
+##MOLFORM=C6H11N
+##CAS REGISTRY NO=286-18-0
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    28        888
+    29        629
+    30        259
+    39        148
+    40         37
+    41        333
+    42        259
+    43        518
+    44        111
+    53         37
+    54        111
+    55         74
+    56        148
+    57         37
+    67        111
+    68        999
+    69        814
+    70         74
+    77         37
+    81         37
+    82        666
+    83         37
+    95         37
+    96        296
+    97        111

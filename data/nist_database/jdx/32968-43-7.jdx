@@ -1,0 +1,83 @@
+##TITLE=Library Entry 72042
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Bourgeois, CESAMO, Univ. Bordeaux, France
+##NAMES=HP
+##CAS NAME=2-Oxazolamine, 4,5-dihydro-5-(phenoxymethyl)-
+##MOLFORM=C10H12N2O2
+##CAS REGISTRY NO=32968-43-7
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         71
+    29         86
+    30        379
+    31         16
+    38         21
+    39        114
+    40         18
+    41         29
+    42         39
+    43        386
+    44        136
+    45         20
+    50         25
+    51        114
+    52          9
+    53          4
+    54         44
+    55        579
+    56        779
+    57        621
+    58         14
+    62          4
+    63         21
+    64          9
+    65         82
+    66         36
+    67          4
+    69         21
+    70          7
+    71          6
+    72          4
+    77        249
+    78         44
+    79         32
+    80          1
+    82          9
+    83          1
+    84        143
+    85        400
+    86         14
+    91         22
+    92          1
+    93         11
+    94        293
+    95         49
+    96         15
+    97         21
+    98        201
+    99        999
+   100         51
+   107         79
+   108         51
+   109          7
+   114         86
+   115          5
+   119          7
+   120         14
+   121          1
+   131          7
+   132          1
+   133          3
+   148          4
+   163          7
+   191          4
+   192        150
+   193         32
+   194          2

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 57362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.HEESING WILHELMS-UNIVERSITAT, MUNSTER, W.GERMANY.
+##NAMES=HP
+##CAS NAME=Guanidine, 1-(4-aminobutyl)-1-isopentyl-
+##MOLFORM=C10H24N4
+##CAS REGISTRY NO=34420-04-7
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        190
+    42        140
+    43        540
+    44        450
+    45         60
+    52        110
+    55        230
+    56        180
+    57        130
+    58        160
+    59        210
+    60        470
+    69         80
+    70        700
+    71        100
+    72        920
+    73        420
+    83        120
+    84        510
+    85         90
+    86        540
+    87        999
+    88         60
+    96         60
+    98        300
+   100        110
+   101        790
+   102         60
+   114        410
+   115         90
+   127         60
+   128        330
+   130        120
+   140         90
+   143         60
+   144        470
+   156        200
+   157        270
+   170        730
+   171        100
+   184        180
+   185        110
+   200        370

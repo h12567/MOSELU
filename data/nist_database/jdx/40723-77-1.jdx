@@ -1,0 +1,70 @@
+##TITLE=Library Entry 47559
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO, MONTEDISON S.P.A., RESEARCH CENTRE, MILAN, I
+TALY
+##NAMES=HP
+##CAS NAME=4-Decene, 1,1,1,2,2,5,6,6,9,9,10,10,10-tridecafluoro-
+##MOLFORM=C10H7F13
+##CAS REGISTRY NO=40723-77-1
+##MP= -300
+##BP= -300
+##MW= 374
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    27         31
+    31         20
+    33         30
+    39         78
+    51        362
+    57         98
+    59         70
+    64        111
+    65         51
+    69        329
+    75         68
+    77        999
+    78         33
+    83         41
+    88         32
+    89         51
+    91         42
+    95        290
+   100         31
+   101         48
+   103         42
+   108        122
+   109         79
+   113        624
+   114         20
+   115         51
+   119         52
+   121         73
+   127        708
+   133         52
+   139         49
+   145        120
+   147        112
+   157        172
+   163         39
+   171         40
+   177        999
+   178         56
+   195         40
+   197        626
+   198         33
+   207         61
+   227        627
+   228         39
+   235        102
+   241         41
+   255         75
+   285         21
+   305         30
+   315          9
+   335         22
+   355        109
+   374        165
+   375         18

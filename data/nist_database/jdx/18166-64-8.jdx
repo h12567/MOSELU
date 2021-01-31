@@ -1,0 +1,72 @@
+##TITLE=Library Entry 15783
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=p-Chlorocinnamide
+##MOLFORM=C9H8ClNO
+##CAS REGISTRY NO=18166-64-8
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41         59
+    43        126
+    44        999
+    45        111
+    49         67
+    50        538
+    51        663
+    52         86
+    53         29
+    55         22
+    57         26
+    59        137
+    61        121
+    62        177
+    63        256
+    64         25
+    65         29
+    68         33
+    69        116
+    73        250
+    74        377
+    75        786
+    76        242
+    77        163
+    83         71
+    84         32
+    85         80
+    86         67
+    87         79
+    89        110
+    90         22
+    91         34
+    97         32
+    98         65
+    99        112
+   100         68
+   101        700
+   102        667
+   103        103
+   111         83
+   117         31
+   123         21
+   125         23
+   136        228
+   137        387
+   138         94
+   139        152
+   140         21
+   162         24
+   163         62
+   164         99
+   165        417
+   166        101
+   180        107
+   181        334
+   182         70
+   183        111

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 1303
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.V.Rozynov
+##NAMES=HP
+##CAS NAME=8-Nitroisoxazolizidine
+##MOLFORM=C5H8N2O4
+##CAS REGISTRY NO=4328-93-2
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    30        999
+    31        166
+    32         61
+    40         30
+    41        260
+    42        109
+    43         23
+    44        227
+    45         48
+    53         69
+    54        365
+    55         74
+    56         46
+    57         53
+    60         25
+    65         35
+    67        120
+    68         74
+    69         61
+    70         40
+    80         66
+    81         35
+    82         23
+    83         81
+    84        219
+    85        370
+    86         28
+    94         28
+    96         84
+    97        204
+    98         23
+   114        488
+   115        250
+   116         48

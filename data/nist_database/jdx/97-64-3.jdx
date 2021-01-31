@@ -1,0 +1,47 @@
+##TITLE=Library Entry 16682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-hydroxy-, ethyl ester
+##MOLFORM=C5H10O3
+##CAS REGISTRY NO=97-64-3
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=815
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         81
+    28         12
+    29        140
+    30          8
+    31         14
+    39          0
+    41          1
+    42          6
+    43         59
+    44         15
+    45        999
+    46         26
+    47         16
+    53          0
+    54          0
+    55          5
+    56          8
+    57          1
+    58          1
+    61          0
+    71          1
+    72          1
+    73          2
+    74          1
+    75         55
+    76          1
+    77          0
+    89          1
+    90          0
+   103          4
+   118          0
+   119          0

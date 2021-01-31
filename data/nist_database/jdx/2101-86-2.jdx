@@ -1,0 +1,54 @@
+##TITLE=Library Entry 80208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TEXAS A&M UNIVERSITY, COLLEGE STATION, TEXAS, USA
+##NAMES=HP
+##CAS NAME=Benzene, 1-azido-4-methyl-
+##MOLFORM=C7H7N3
+##CAS REGISTRY NO=2101-86-2
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26         63
+    27        110
+    28        136
+    37         57
+    38         94
+    39        247
+    40         21
+    41         63
+    49         42
+    50        210
+    51        284
+    52        294
+    53         63
+    54         21
+    61         42
+    62         73
+    63        152
+    64         73
+    65        226
+    66         36
+    69         68
+    74         36
+    75         57
+    76         63
+    77        273
+    78        578
+    79        121
+    90         52
+    91         73
+   103         36
+   104        578
+   105        999
+   106        163
+   107         63
+   119         26
+   120         15
+   131         21
+   133        368
+   134         31

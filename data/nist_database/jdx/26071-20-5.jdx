@@ -1,0 +1,55 @@
+##TITLE=Library Entry 60230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Phenyl-2,2-bis(trifluoromethyl)aziridine
+##MOLFORM=C10H7F6N
+##CAS REGISTRY NO=26071-20-5
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         92
+    40         11
+    41         26
+    50          7
+    51        262
+    52         46
+    53          5
+    63         79
+    64        143
+    65         99
+    66          8
+    69         29
+    75         18
+    76         26
+    77        847
+    78         81
+    79         19
+    90         75
+    91        999
+    92         99
+    93         11
+   104        191
+   105         11
+   117        117
+   118          9
+   128         29
+   159         31
+   166         33
+   171         68
+   172          5
+   174         84
+   175          7
+   177         24
+   178         18
+   186        178
+   187         29
+   236         24
+   255        706
+   256         90
+   257          4

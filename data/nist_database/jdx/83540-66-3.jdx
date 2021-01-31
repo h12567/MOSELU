@@ -1,0 +1,82 @@
+##TITLE=Library Entry 75949
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=10,12-Dimethyl-1,4,7-trioxa-10,12-diazacyclotetradecan-11-one
+##MOLFORM=C11H22N2O4
+##CAS REGISTRY NO=83540-66-3
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    56        323
+    57        529
+    58        617
+    59        264
+    64         86
+    70        123
+    71        129
+    72        264
+    73        264
+    74        111
+    83         38
+    84         48
+    85         63
+    86        205
+    87        152
+    88        108
+    89         64
+    99         63
+   100        135
+   101        457
+   102        999
+   103         72
+   113        133
+   114        176
+   115        310
+   116        132
+   117         83
+   118         30
+   125         42
+   126         13
+   127         98
+   128        122
+   129         72
+   130         92
+   131         88
+   132         35
+   140         23
+   141         27
+   142         39
+   143         73
+   144         76
+   145         69
+   146         73
+   157         42
+   158         52
+   159         47
+   160         39
+   162         29
+   171         29
+   172         19
+   173         13
+   174         22
+   175         20
+   176         10
+   188         24
+   189         35
+   190         11
+   201          5
+   202          8
+   203         20
+   215         19
+   216          7
+   218          5
+   231         13
+   232          2
+   246         77
+   247         23

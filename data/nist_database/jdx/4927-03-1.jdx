@@ -1,0 +1,28 @@
+##TITLE=Library Entry 48762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.G. HARRISON, UNIV. OF TORONTO, TORONTO 5, ONTARIO, CA
+NADA
+##NAMES=HP
+##CAS NAME=Bicyclo[3.2.0]hept-6-ene
+##MOLFORM=C7H10
+##CAS REGISTRY NO=4927-03-1
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=1014
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    27         85
+    39        196
+    41         75
+    53         69
+    65         79
+    66        183
+    77        262
+    79        999
+    91        199
+    92         47
+    93        148
+    94        120

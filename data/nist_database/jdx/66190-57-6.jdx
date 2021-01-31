@@ -1,0 +1,26 @@
+##TITLE=Library Entry 98652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,111(2)791(1978); W. SUCROW ET AL
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 2-(acetyloxy)-3-phenyl-, 1-acetyl-2,2-dimethylh
+ydrazide
+##MOLFORM=C15H18N2O4
+##CAS REGISTRY NO=66190-57-6
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+   102        640
+   118        999
+   133        500
+   134        390
+   147        250
+   164        110
+   189        780
+   206        530
+   248        580
+   290        170

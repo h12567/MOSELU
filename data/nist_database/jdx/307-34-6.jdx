@@ -1,0 +1,42 @@
+##TITLE=Library Entry 36175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Perfluorooctane
+##MOLFORM=C8F18
+##CAS REGISTRY NO=307-34-6
+##MP= -300
+##BP= -300
+##MW= 438
+##$RETENTION INDEX=341
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    50         52
+    69        999
+    70         11
+    81         11
+    93         79
+    94          2
+   100        238
+   101          5
+   112         12
+   119        437
+   120         15
+   131        426
+   132         15
+   150         10
+   169        258
+   170          9
+   181         70
+   182          3
+   219         87
+   220          4
+   231         19
+   232          1
+   269         26
+   270          2
+   281          4
+   319          2
+   331          8

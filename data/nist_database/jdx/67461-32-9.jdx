@@ -1,0 +1,29 @@
+##TITLE=Library Entry 96635
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(13)4050(1978); M. J. O. ANTEUNIS
+##NAMES=HP
+##CAS NAME=1,4-Methanonaphthalene, 1,2,3,4-tetrahydro-2-isothiocyanato-, (1.
+alpha.,2.alpha.,4.alpha.)-
+##MOLFORM=C12H11NS
+##CAS REGISTRY NO=67461-32-9
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        160
+    50         70
+    51        100
+    63        160
+    65         80
+    77         70
+    89        110
+    91         70
+   102         70
+   115        920
+   116        999
+   142        100
+   201        890

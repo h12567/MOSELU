@@ -1,0 +1,56 @@
+##TITLE=Library Entry 51957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(11)1124(1974); GAY
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-(hexylamino)-
+##MOLFORM=C9H18N2
+##CAS REGISTRY NO=55490-85-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         25
+    18         10
+    26         45
+    27        150
+    28        175
+    29        170
+    30        650
+    31         15
+    32         15
+    39        100
+    40         15
+    41        265
+    42        860
+    43        403
+    44        375
+    45         30
+    51         20
+    52         40
+    53         65
+    54        390
+    55        113
+    56        115
+    57         55
+    68         15
+    69         40
+    70         30
+    71         10
+    72         15
+    81         13
+    82         15
+    83        999
+    84        180
+    85         10
+    97         13
+   100         13
+   114        313
+   115         23
+   125         13
+   153         10
+   154        113
+   155         13

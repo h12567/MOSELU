@@ -1,0 +1,43 @@
+##TITLE=Library Entry 39137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Buten-1-ol, 2-methyl-
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=4675-87-0
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=769
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    31        120
+    32         10
+    38         20
+    39        250
+    40         70
+    41        420
+    42         50
+    43        470
+    44         50
+    45         50
+    50         50
+    51         50
+    52         20
+    53        250
+    54         40
+    55        130
+    56         20
+    57        130
+    58         50
+    65         20
+    67        150
+    68        130
+    69         30
+    71        999
+    72         50
+    85         40
+    86        500
+    87         30

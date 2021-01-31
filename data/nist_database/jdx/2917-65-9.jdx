@@ -1,0 +1,71 @@
+##TITLE=Library Entry 41175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1290
+##NAMES=HP
+##CAS NAME=Methanol, (trimethylsilyl)-, acetate
+##MOLFORM=C6H14O2Si
+##CAS REGISTRY NO=2917-65-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         14
+    27          2
+    28          9
+    29         23
+    30          2
+    31         15
+    39          1
+    41          2
+    42         14
+    43        274
+    44         35
+    45        130
+    46          9
+    47         20
+    53          6
+    54          1
+    55         10
+    56          3
+    57         10
+    58         27
+    59         58
+    60         12
+    61        509
+    62         31
+    63         17
+    70          3
+    71          5
+    72         48
+    73        999
+    74         97
+    75         78
+    76          4
+    77          2
+    87          5
+    88          5
+    89        246
+    90         20
+    91         11
+   101         90
+   102          9
+   103        135
+   104         95
+   105         18
+   106          4
+   107          1
+   115          1
+   116         96
+   117         10
+   118          4
+   119          1
+   131        309
+   132         32
+   133         13
+   146          5
+   147          2

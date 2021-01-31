@@ -1,0 +1,30 @@
+##TITLE=Library Entry 98821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(6)741(1977); C. J. AIBA
+##NAMES=HP
+##CAS NAME=6(2H)-Benzofuranone, 3,5-dihydro-5,7-dimethoxy-3-methyl-5-(2-prop
+enyl)-2-(3,4,5-trimethoxyphenyl)-, [2S-(2.alpha.,3.beta.,5.beta.)]-
+##MOLFORM=C23H28O7
+##CAS REGISTRY NO=64343-02-8
+##MP= -300
+##BP= -300
+##MW= 416
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        500
+    43        500
+    47        600
+    57        500
+    77        300
+   105        250
+   119        999
+   149        300
+   165        250
+   179        250
+   196        150
+   329        150
+   370        400
+   416        200

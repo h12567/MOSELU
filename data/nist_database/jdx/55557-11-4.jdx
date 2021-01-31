@@ -1,0 +1,55 @@
+##TITLE=Library Entry 88911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MO-114
+##NAMES=HP
+##CAS NAME=2-Thiophenecarboxylic acid, TMS derivative
+##MOLFORM=C8H12O2SSi
+##CAS REGISTRY NO=55557-11-4
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15         56
+    18         74
+    27         23
+    28         81
+    29         42
+    38         35
+    39        584
+    40         26
+    43        125
+    44         53
+    45        271
+    47         80
+    53         43
+    57         73
+    58         36
+    59         51
+    72         26
+    73        202
+    74         28
+    75        114
+    81         27
+    82         40
+    83        239
+    84         27
+    85         21
+   111        999
+   112         68
+   113         57
+   115         29
+   127         24
+   141        210
+   142         27
+   143         16
+   147         33
+   185        885
+   186        126
+   187         83
+   200        287
+   201         46
+   202         29

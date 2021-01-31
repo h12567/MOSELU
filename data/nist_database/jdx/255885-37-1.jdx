@@ -1,0 +1,65 @@
+##TITLE=Library Entry 35486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclooctane, 1-methyl-3-propyl-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=255885-37-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         72
+    29        114
+    30          6
+    38          7
+    39         64
+    40          1
+    41        342
+    42         66
+    43        144
+    44          6
+    50          4
+    51          5
+    52          6
+    53         39
+    54         41
+    55        405
+    56        175
+    57        247
+    58         12
+    65         16
+    66         10
+    67         76
+    68         42
+    69        999
+    70        123
+    71         31
+    77          7
+    79         11
+    80          5
+    81         47
+    82         34
+    83        478
+    84         82
+    85         12
+    91          5
+    95         21
+    96         34
+    97         95
+    98         26
+    99          3
+   109          6
+   110          3
+   111         27
+   112         17
+   113          4
+   123          5
+   124          9
+   125        385
+   126         52

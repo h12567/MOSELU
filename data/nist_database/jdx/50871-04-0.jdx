@@ -1,0 +1,78 @@
+##TITLE=Library Entry 80656
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.STEFANI TECH. CHEM. LABORATORY, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=Benzene, (1,2-dimethyl-3-butenyl)-
+##MOLFORM=C12H16
+##CAS REGISTRY NO=50871-04-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          1
+    27         60
+    28         10
+    29         25
+    38          2
+    39         50
+    40          5
+    41         20
+    42          1
+    43          2
+    50         15
+    51         65
+    52         15
+    53         25
+    54          5
+    55         35
+    56          2
+    57          1
+    58          1
+    62          4
+    63         18
+    64         10
+    65         25
+    66          2
+    67          4
+    70          1
+    71          3
+    74          4
+    75          6
+    76          8
+    77        190
+    78         50
+    79        180
+    80         10
+    87          1
+    89         10
+    90          2
+    91         60
+    92          6
+   101          5
+   102         15
+   103        170
+   104        160
+   105        999
+   106        250
+   107         10
+   115         30
+   116          7
+   117         20
+   118          6
+   126          1
+   127          8
+   128         25
+   129         17
+   130          5
+   131          3
+   141          5
+   142          2
+   143          4
+   144          1
+   145          5
+   160         70
+   161          9

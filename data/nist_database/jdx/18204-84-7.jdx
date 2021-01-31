@@ -1,0 +1,50 @@
+##TITLE=Library Entry 67314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(Trichlorovinyl)trichlorosilane
+##MOLFORM=C2Cl6Si
+##CAS REGISTRY NO=18204-84-7
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    63        327
+    64         17
+    65        110
+    94        999
+    95         28
+    96        647
+    97         20
+    98        126
+   133        541
+   134         29
+   135        540
+   136         28
+   137        176
+   138          7
+   139         20
+   157        160
+   158          6
+   159        159
+   160          7
+   161         61
+   168         31
+   170         39
+   172         18
+   227          7
+   229         20
+   231         19
+   262         97
+   263         19
+   264        211
+   265         31
+   266        164
+   267         17
+   268         90
+   269         16
+   270         29

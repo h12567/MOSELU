@@ -1,0 +1,49 @@
+##TITLE=Library Entry 84858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1,4-Benzenediamine
+##MOLFORM=C6H8N2
+##CAS REGISTRY NO=106-50-3
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         27
+    29          9
+    37         11
+    38         17
+    39         38
+    40         26
+    41         40
+    42         18
+    50         19
+    51         33
+    52        143
+    53        162
+    54        147
+    55         18
+    61         15
+    62         12
+    63         32
+    64         20
+    65         23
+    66         17
+    67         27
+    78         22
+    79         23
+    80        383
+    81        172
+    82         25
+    90         14
+    91         30
+    92          7
+   105         16
+   106         20
+   107        257
+   108        999
+   109         83

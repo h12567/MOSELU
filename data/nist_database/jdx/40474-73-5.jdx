@@ -1,0 +1,57 @@
+##TITLE=Library Entry 31248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=VERIFINN
+##NAMES=HP
+##CAS NAME=1,4,7-Oxadithionane
+##MOLFORM=C6H12OS2
+##CAS REGISTRY NO=40474-73-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1421
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        315
+    28         98
+    29        111
+    35         71
+    41         67
+    43         67
+    45        524
+    46        334
+    47        159
+    58        136
+    59        396
+    60        753
+    61        999
+    62         66
+    64         77
+    73         77
+    74         74
+    75         64
+    76         22
+    78        100
+    87        138
+    89         96
+    90        154
+    91         42
+    92        111
+    93         85
+   103        162
+   104         84
+   105        340
+   106         98
+   107         25
+   117          5
+   119         18
+   120         75
+   121        251
+   122         12
+   123         22
+   147          6
+   164        711
+   165         51
+   166         62
+   171          5

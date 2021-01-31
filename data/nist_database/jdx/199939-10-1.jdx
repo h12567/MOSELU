@@ -1,0 +1,56 @@
+##TITLE=Library Entry 36916
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,3,3,4,5,6-Hexabis(trifluoromethyl)cyclohex-1-ene
+##MOLFORM=C12H4F18
+##CAS REGISTRY NO=199939-10-1
+##MP= -300
+##BP= -300
+##MW= 490
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    50         48
+    69        999
+    70         11
+   132         42
+   163         45
+   164          4
+   195         53
+   196          4
+   213         54
+   214          5
+   245         41
+   246          4
+   263        175
+   264         18
+   265          1
+   279         72
+   280          8
+   299        142
+   300         16
+   301          1
+   313         94
+   314         11
+   315          1
+   333        354
+   334         40
+   335          2
+   383         97
+   384         12
+   385          1
+   401        153
+   402        183
+   403         23
+   404          1
+   421         52
+   422          6
+   451        123
+   452         17
+   453          1
+   471        154
+   472         21
+   473          1

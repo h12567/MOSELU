@@ -1,0 +1,46 @@
+##TITLE=Library Entry 53841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-Ethylidene t-butylamine
+##MOLFORM=C6H13N
+##CAS REGISTRY NO=7020-80-6
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26         14
+    27         69
+    28         60
+    29        176
+    30         11
+    38         10
+    39        112
+    40         24
+    41        371
+    42        204
+    43         46
+    44        227
+    45          8
+    51          6
+    52          7
+    53          9
+    54         11
+    55         41
+    56         92
+    57        705
+    58         64
+    67          6
+    68         52
+    69         49
+    70          7
+    82          5
+    83          4
+    84        999
+    85         57
+    99        106
+   100          8

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 36511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9561
+##NAMES=HP
+##CAS NAME=Perfluorooctyl iodide
+##MOLFORM=C8F17I
+##CAS REGISTRY NO=507-63-1
+##MP= -300
+##BP= -300
+##MW= 546
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    31         28
+    32          1
+    50          6
+    51          4
+    69        999
+    70         11
+    74          1
+    81          7
+    85          6
+    93         23
+   100        114
+   101          3
+   112          9
+   119        340
+   120          7
+   124          2
+   127        222
+   128          5
+   131        263
+   132          8
+   143          6
+   150          7
+   158          6
+   162          8
+   169        373
+   170         11
+   177        199
+   178          2
+   181         73
+   182          3
+   189          1
+   193          2
+   200          2
+   208         15
+   219        130
+   220          5
+   227         40
+   231         51
+   232          2
+   239         16
+   243          1
+   258          1
+   269         13
+   277          7
+   281         13
+   289          1
+   331         57
+   332          4
+   381         22
+   382          1
+   419        200
+   420         16
+   527          4
+   546         18
+   547          1

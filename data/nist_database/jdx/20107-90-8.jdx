@@ -1,0 +1,30 @@
+##TITLE=Library Entry 81999
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SAN MARTIN, DEP. QUIM., CHILE UNIV., SANTIAGO, CHILE
+##NAMES=HP
+##CAS NAME=Ent-beyer-15-en-18-ol
+##MOLFORM=C20H32O
+##CAS REGISTRY NO=20107-90-8
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+   105        999
+   119        760
+   123        830
+   133        670
+   134        760
+   135        800
+   148        430
+   161        690
+   175        200
+   229        740
+   256        150
+   257        980
+   258        490
+   288        870
+   289        297

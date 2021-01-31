@@ -1,0 +1,37 @@
+##TITLE=Library Entry 12905
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.K. KLIPA, DOW CHEM. CO., MICH. DIV., MIDLAND, MICH.,
+ USA
+##NAMES=HP
+##CAS NAME=Ethyl 1-acetonyl-2-oxocyclopentanecarboxylate
+##MOLFORM=C11H16O4
+##CAS REGISTRY NO=61771-77-5
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39         70
+    40        100
+    41        130
+    43        999
+    55        130
+    67        200
+    68         80
+    71         80
+    95        280
+    97        170
+   110         80
+   111        320
+   113        130
+   123        260
+   124        210
+   138         70
+   139        150
+   141         70
+   166        340
+   167        120
+   212          4

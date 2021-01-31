@@ -1,0 +1,77 @@
+##TITLE=Library Entry 65820
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4-Pyrimidinecarboxylic acid, 1,2,3,6-tetrahydro-6-oxo-3-phenyl-2-
+(phenylimino)-, methyl ester
+##MOLFORM=C18H15N3O3
+##CAS REGISTRY NO=16135-25-4
+##MP= -300
+##BP= -300
+##MW= 321
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    39         59
+    41         22
+    42         67
+    43        416
+    44         56
+    45        225
+    46          8
+    50         28
+    51        211
+    52         33
+    53         11
+    54         11
+    55         28
+    56         28
+    59         11
+    60         22
+    61        267
+    62          8
+    63         22
+    64         28
+    65         64
+    66         56
+    67         11
+    68          8
+    69          8
+    70         87
+    71         22
+    73         50
+    74         11
+    75         11
+    76          8
+    77        366
+    78         31
+    81          8
+    88         73
+    89          8
+    90          8
+    91         31
+    92         28
+    93        999
+    94         81
+    95          8
+    97         11
+   104          8
+   112          8
+   115          8
+   116          8
+   117          8
+   118         56
+   119        169
+   120         14
+   143         22
+   144         84
+   145         28
+   175         28
+   176         28
+   210         56
+   211        140
+   212         28
+   321         56
+   322         22

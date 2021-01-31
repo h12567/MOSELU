@@ -1,0 +1,73 @@
+##TITLE=Library Entry 44542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2-methyl-
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=97-61-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=959
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15          3
+    19          1
+    26         10
+    27        104
+    28         35
+    29         86
+    30         20
+    31          9
+    37          3
+    38         10
+    39        122
+    40         20
+    41        245
+    42         64
+    43        468
+    44         18
+    45        112
+    46          5
+    47          5
+    49          1
+    50          7
+    51         10
+    52          3
+    53         26
+    54          6
+    55        156
+    56        112
+    57         28
+    58          2
+    59         24
+    60          6
+    61          2
+    62          2
+    63          2
+    65          3
+    66          1
+    67          5
+    68          3
+    69         37
+    70         16
+    71         85
+    72          5
+    73        174
+    74        999
+    75         37
+    76          5
+    83          8
+    84          1
+    85          1
+    87        184
+    88         11
+    89          1
+    97          1
+    98          1
+    99          3
+   101         28
+   102          2
+   117          1

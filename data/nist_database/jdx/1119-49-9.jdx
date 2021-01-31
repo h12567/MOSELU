@@ -1,0 +1,44 @@
+##TITLE=Library Entry 977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GILPIN DOW CHEM. CO., MIDLAND, MICHIGAN, USA
+##NAMES=HP
+##CAS NAME=Acetamide, N-butyl-
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=1119-49-9
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=1057
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    15         40
+    27         40
+    28         50
+    29         50
+    30        999
+    31         30
+    41         70
+    42         40
+    43        340
+    44        190
+    45         20
+    55         20
+    56         30
+    57         20
+    58         40
+    59          6
+    60        100
+    71          3
+    72        290
+    73        210
+    74         10
+    86         90
+    87         10
+    99          4
+   100         60
+   101          4
+   114          2
+   115        110
+   116         20

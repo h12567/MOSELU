@@ -1,0 +1,46 @@
+##TITLE=Library Entry 80890
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,3-Heptadien-5-yne, 2,4-dimethyl-
+##MOLFORM=C9H12
+##CAS REGISTRY NO=41898-89-9
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39        280
+    40         70
+    41        150
+    44         90
+    50         80
+    51        180
+    52         70
+    53        110
+    62         50
+    63        150
+    64         40
+    65        280
+    66         90
+    67         40
+    74         40
+    75         40
+    77        490
+    78        110
+    79        400
+    80         40
+    89         40
+    91        230
+    92         40
+   103        180
+   104        100
+   105        999
+   106         90
+   117         40
+   119        120
+   120        729
+   121         70

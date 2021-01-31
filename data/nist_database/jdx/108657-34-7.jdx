@@ -1,0 +1,38 @@
+##TITLE=Library Entry 7405
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Savona, Inst. Org. Chem., Univ. Palermo, Palermo, It
+aly
+##NAMES=HP
+##CAS NAME=Urs-12-ene-1,2,11-triol, 3-(acetyloxy)-, (1.beta.,2.alpha.,3.beta
+.,11.alpha.)-
+##MOLFORM=C32H52O5
+##CAS REGISTRY NO=108657-34-7
+##MP= -300
+##BP= -300
+##MW= 516
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        410
+    69        370
+    81        250
+    95        410
+   107        230
+   109        250
+   119        210
+   121        220
+   123        210
+   135        180
+   147        110
+   191        180
+   234        120
+   255        100
+   423         60
+   441         70
+   456         40
+   498        280
+   516         80
+   517         30

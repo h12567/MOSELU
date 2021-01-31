@@ -1,0 +1,61 @@
+##TITLE=Library Entry 31299
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzene, [2-(methylthio)ethyl]-
+##MOLFORM=C9H12S
+##CAS REGISTRY NO=5925-63-3
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27         30
+    28         45
+    29          2
+    30          2
+    31          2
+    32          3
+    34          5
+    35         20
+    37          2
+    38          2
+    39         34
+    41          6
+    44          1
+    45         17
+    46          4
+    47          6
+    50         12
+    51         50
+    52          9
+    53          4
+    59          8
+    61        999
+    62         19
+    63         31
+    65         36
+    69          2
+    74          6
+    75          3
+    76          5
+    77         43
+    78         22
+    79         17
+    80          2
+    89          6
+    91        212
+    92         14
+   102          2
+   103         29
+   104        204
+   105         46
+   122          1
+   135          4
+   138          1
+   152        170
+   153         19
+   154          7

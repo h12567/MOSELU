@@ -1,0 +1,27 @@
+##TITLE=Library Entry 52031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.F. RAFFAUF,COLL. PHARM.,NORTHEAST UNIV.,BOSTON,MASS.,
+USA
+##NAMES=HP
+##CAS NAME=3-Hydroxy-4,5(R)-dimethyl-2(5H)-furanone
+##MOLFORM=C6H8O3
+##CAS REGISTRY NO=87068-70-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43        560
+    55        330
+    57        190
+    72        220
+    83        999
+    85        210
+   100        100
+   113         80
+   127        380
+   128        260
+   129         40

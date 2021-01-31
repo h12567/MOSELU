@@ -1,0 +1,64 @@
+##TITLE=Library Entry 81420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Ethanone, 2-(2-methylpropoxy)-1,2-diphenyl-
+##MOLFORM=C18H20O2
+##CAS REGISTRY NO=22499-12-3
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27         57
+    29        144
+    38          5
+    39         75
+    41        230
+    42          3
+    43          9
+    50         55
+    51        183
+    52         19
+    53          9
+    55         16
+    57        455
+    58         19
+    62         10
+    63         37
+    64         12
+    65         14
+    74         12
+    75         14
+    76         27
+    77        567
+    78         61
+    79        491
+    80         30
+    89         88
+    90         81
+    91         46
+    92         19
+   105        999
+   106         85
+   107         22
+   108          4
+   109          7
+   115         16
+   118          9
+   119         23
+   120          7
+   128          7
+   139          7
+   151          5
+   152         64
+   153          9
+   163        716
+   164         69
+   165         11
+   166          3
+   195         28
+   196          5

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 37109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanesulfonic acid, pentyl ester
+##MOLFORM=C6H14O3S
+##CAS REGISTRY NO=6968-20-3
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    14         31
+    15        182
+    18         72
+    27        270
+    28        218
+    29        344
+    31         45
+    39        184
+    40         42
+    41        515
+    42        833
+    43        355
+    45         67
+    53         38
+    55        743
+    56         90
+    57        121
+    65         60
+    69        110
+    70        999
+    71        123
+    79        608
+    80         74
+    81         47
+    97        518
+    98         18
+    99         27
+   109         78
+   137         20
+   166          1

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 28709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Phenothiazin-3-ol, 8-chloro-10-[3-(dimethylamino)propyl]-, acetat
+e (ester)
+##MOLFORM=C19H21ClN2O2S
+##CAS REGISTRY NO=14734-77-1
+##MP= -300
+##BP= -300
+##MW= 376
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         50
+    43         80
+    44         30
+    55         10
+    56         10
+    58        999
+    60         40
+    65         20
+    66         20
+    67         20
+    84         10
+    85         40
+    86        390
+   248         40
+   249         30
+   250         20
+   251         10
+   262         20
+   263         20
+   264         10
+   288         10
+   289         50
+   290         20
+   291         30
+   292         10
+   293         10
+   330         10
+   331         20
+   333         10
+   334         20
+   342         10
+   376        300
+   377         40
+   378        100
+   379         20

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 52233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=10-Nonadecanol
+##MOLFORM=C19H40O
+##CAS REGISTRY NO=16840-84-9
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27         77
+    28         67
+    29        204
+    39         52
+    41        417
+    42        100
+    43        507
+    44         55
+    45         18
+    53         26
+    54         55
+    55        510
+    56        109
+    57        476
+    58         70
+    59         21
+    67         82
+    68         69
+    69        480
+    70         98
+    71        186
+    72         21
+    81         84
+    82        120
+    83        999
+    84         91
+    85         63
+    95         50
+    96         70
+    97        439
+    98         46
+   109         23
+   110         42
+   111         60
+   112         26
+   125         23
+   138         16
+   139         21
+   155         69
+   157        260
+   158         27
+   266         32

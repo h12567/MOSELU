@@ -1,0 +1,39 @@
+##TITLE=Library Entry 15612
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentanal
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=110-62-3
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=699
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        189
+    28         76
+    29        409
+    31         19
+    39        110
+    40         15
+    41        307
+    42        110
+    43        258
+    44        999
+    45        102
+    54          8
+    55         76
+    56         27
+    57        303
+    58        485
+    67         19
+    68         11
+    69         23
+    70         11
+    71         45
+    85         19
+    86         57
+    87          4

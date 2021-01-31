@@ -1,0 +1,24 @@
+##TITLE=Library Entry 17898
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphine, methyl-
+##MOLFORM=CH5P
+##CAS REGISTRY NO=593-54-4
+##MP= -300
+##BP= -300
+##MW= 48
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    15         20
+    31         13
+    32         66
+    33         13
+    44        313
+    45        586
+    46        999
+    47        166
+    48        866

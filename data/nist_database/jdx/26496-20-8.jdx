@@ -1,0 +1,51 @@
+##TITLE=Library Entry 38333
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=4-Tetradecanone
+##MOLFORM=C14H28O
+##CAS REGISTRY NO=26496-20-8
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        390
+    42        100
+    43        790
+    44         60
+    53         30
+    54         50
+    55        300
+    56         70
+    57         40
+    58         80
+    59        140
+    68         30
+    69         80
+    70         60
+    71        999
+    72        120
+    73        240
+    74         30
+    82         20
+    83        110
+    84         60
+    85        190
+    86        160
+    87         20
+    98         30
+    99        110
+   100         20
+   113         40
+   114         20
+   127         30
+   141         30
+   155         20
+   169        240
+   170         40
+   212         28
+   213          4

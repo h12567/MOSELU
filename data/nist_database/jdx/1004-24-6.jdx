@@ -1,0 +1,63 @@
+##TITLE=Library Entry 65977
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanemethanol, 4-methylene-
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=1004-24-6
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27         72
+    28          5
+    29         52
+    30          5
+    31         64
+    38         15
+    39        161
+    40         39
+    41        147
+    42         21
+    43         47
+    50         25
+    51         68
+    52         31
+    53        132
+    54         26
+    55        156
+    56         18
+    57         40
+    62          8
+    63         23
+    65         80
+    66         39
+    67        402
+    68        102
+    69         29
+    70         20
+    71         12
+    77        253
+    78         55
+    79        265
+    80        128
+    81         42
+    82          9
+    83         13
+    91        265
+    93        999
+    94         94
+    95        161
+    96         14
+    97         16
+   105         15
+   106         10
+   107         46
+   108        215
+   109         19
+   126        116
+   127         10

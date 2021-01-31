@@ -1,0 +1,52 @@
+##TITLE=Library Entry 39987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Methylephedrine
+##MOLFORM=C11H17NO
+##CAS REGISTRY NO=552-79-4
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=1423
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          2
+    27          8
+    28         11
+    29         11
+    30          5
+    36          5
+    38          2
+    39          6
+    41          4
+    42         37
+    43          9
+    44         33
+    50          5
+    51         14
+    52          4
+    54          0
+    55          4
+    56         26
+    57         13
+    58         10
+    63          2
+    65          2
+    70         29
+    71         27
+    72        999
+    73         48
+    74          3
+    77         53
+    78         11
+    79         12
+    91          9
+   105         22
+   106         16
+   107          2
+   115          3
+   117          3

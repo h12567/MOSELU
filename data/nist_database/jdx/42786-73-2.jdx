@@ -1,0 +1,47 @@
+##TITLE=Library Entry 31598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J.BROWN CHEM. DEPT., TASMANIA.UNIV., TASMANIA, AUSTRA
+LIA
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole-3-carboxaldehyde, 5-(4-pyridinyl)-
+##MOLFORM=C8H6N4O
+##CAS REGISTRY NO=42786-73-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    50        440
+    51        800
+    52        190
+    53         90
+    61        150
+    62        430
+    63        999
+    64        670
+    65        240
+    66        140
+    67         90
+    68         50
+    69         50
+    75        110
+    76        250
+    77        380
+    78        840
+    79        170
+    90         80
+    91        810
+    92        330
+   103         50
+   104        190
+   105        240
+   117        150
+   118        530
+   119        190
+   129         60
+   146        330
+   174        660
+   175         60

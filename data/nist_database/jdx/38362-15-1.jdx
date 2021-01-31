@@ -1,0 +1,30 @@
+##TITLE=Library Entry 30492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,4-Thiadiazole, 5-chloro-
+##MOLFORM=C2HClN2S
+##CAS REGISTRY NO=38362-15-1
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        320
+    43        400
+    46        100
+    47        100
+    58        240
+    59        999
+    61         90
+    73         90
+    79        260
+    81         90
+    93        529
+    95        230
+   120        669
+   121         40
+   122        250

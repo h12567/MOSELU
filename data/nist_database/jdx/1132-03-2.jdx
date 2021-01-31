@@ -1,0 +1,57 @@
+##TITLE=Library Entry 82758
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Acetamide, 2-(hydroxyimino)-N-(2-methylphenyl)-
+##MOLFORM=C9H10N2O2
+##CAS REGISTRY NO=1132-03-2
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        536
+    40        135
+    41        175
+    43        146
+    44        571
+    50        306
+    51        701
+    52        371
+    53        221
+    62        123
+    63        243
+    65        502
+    66        123
+    72        222
+    75        122
+    76        158
+    77        700
+    78        557
+    79        610
+    80        139
+    89        212
+    90        158
+    91        767
+    92        162
+    93        150
+   103        123
+   104        500
+   105        371
+   106        999
+   107        559
+   108         90
+   118        321
+   119        249
+   132        329
+   133        697
+   134        369
+   146        629
+   147        366
+   161        697
+   162         98
+   178        706
+   179         99

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 22428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Piperidin-4-carboxylic acid
+##MOLFORM=C6H11NO2
+##CAS REGISTRY NO=498-94-2
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    18          5
+    26         15
+    27         89
+    28        174
+    29        140
+    30        175
+    38         16
+    39        101
+    40         21
+    41         75
+    42        238
+    43        206
+    44        135
+    45         69
+    50         22
+    51         27
+    52         28
+    53         81
+    54         63
+    55        378
+    56        999
+    57        701
+    58         22
+    65          8
+    67         35
+    68         44
+    69         18
+    70         14
+    73         34
+    74          9
+    79         12
+    80         42
+    81         11
+    82        310
+    83         90
+    84        261
+    85         15
+    86         11
+   100         58
+   101         35
+   112          7
+   114          9
+   128        102
+   129        190
+   130          9

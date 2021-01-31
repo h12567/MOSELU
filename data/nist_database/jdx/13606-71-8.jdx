@@ -1,0 +1,54 @@
+##TITLE=Library Entry 77873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=2-Oxazolidinone, 3,4-diphenyl-
+##MOLFORM=C15H13NO2
+##CAS REGISTRY NO=13606-71-8
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        120
+    50         90
+    51        300
+    52         80
+    63         80
+    64         80
+    65        110
+    74         40
+    75         40
+    76         80
+    77        830
+    78        180
+    89         60
+    90         60
+    91        350
+    92        150
+    93         30
+   103         60
+   104        999
+   105         90
+   117         40
+   118        120
+   119        210
+   120        180
+   121         30
+   152         30
+   159         40
+   162         40
+   180        380
+   181        140
+   182         40
+   187         40
+   194         70
+   195         60
+   196         40
+   238         60
+   239        920
+   240        154
+   241         12

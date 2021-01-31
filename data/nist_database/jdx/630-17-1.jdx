@@ -1,0 +1,56 @@
+##TITLE=Library Entry 24696
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Propane, 1-bromo-2,2-dimethyl-
+##MOLFORM=C5H11Br
+##CAS REGISTRY NO=630-17-1
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=727
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14         15
+    15         46
+    16          2
+    26         33
+    27        231
+    28         41
+    29        316
+    30          6
+    32          7
+    37         17
+    38         38
+    39        323
+    40         52
+    41        517
+    42         37
+    43        191
+    44         10
+    49          7
+    50         33
+    51         32
+    52         12
+    53         70
+    54          7
+    55        744
+    56        447
+    57        999
+    58         41
+    69          5
+    70          9
+    71        109
+    79          5
+    81          5
+    82          5
+    93         13
+    95         14
+   107         27
+   109         26
+   135         87
+   137         91
+   150         12
+   152         16

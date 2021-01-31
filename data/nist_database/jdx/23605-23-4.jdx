@@ -1,0 +1,87 @@
+##TITLE=Library Entry 67000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N-Chloroacetyl-cyclohexamine
+##MOLFORM=C8H14ClNO
+##CAS REGISTRY NO=23605-23-4
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    41        515
+    42        223
+    43        437
+    44         84
+    45          4
+    47          9
+    49        244
+    50          6
+    51        110
+    52         18
+    53         77
+    54        193
+    55        481
+    56        922
+    57         45
+    58         45
+    59         14
+    60          9
+    62          1
+    63          4
+    64          7
+    65         14
+    66          3
+    67        279
+    68         37
+    69         38
+    70         56
+    71          2
+    72         20
+    77        117
+    78          3
+    79         66
+    80          4
+    81        124
+    82        250
+    83        199
+    84         48
+    86         12
+    94        999
+    96        361
+    97         11
+    98        133
+    99          7
+   106         13
+   107          9
+   108          2
+   109          2
+   110          2
+   111          2
+   112          8
+   118          4
+   119         17
+   120          5
+   121          6
+   122          1
+   126         21
+   128          9
+   130          8
+   132        234
+   133          5
+   134         85
+   135          3
+   138          1
+   140        174
+   141         14
+   146          7
+   174         27
+   175         78
+   176         22
+   177         27
+   178          7

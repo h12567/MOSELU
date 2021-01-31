@@ -1,0 +1,75 @@
+##TITLE=Library Entry 75965
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Dimethylamine, TMS derivative
+##MOLFORM=C5H15NSi
+##CAS REGISTRY NO=2083-91-2
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=660
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          0
+    15          2
+    28          9
+    29         23
+    30          6
+    31         24
+    32          1
+    33          1
+    36          0
+    38          0
+    40          1
+    41          6
+    42         91
+    43         71
+    44         42
+    45         71
+    46          4
+    47          2
+    49          0
+    51         41
+    52          0
+    53          4
+    54          2
+    55          9
+    57         11
+    59        410
+    60         31
+    61         15
+    62          0
+    65          0
+    66          0
+    68          1
+    70          6
+    71          4
+    72         19
+    73        158
+    74         18
+    75          6
+    76          0
+    77          0
+    78          0
+    82          0
+    86         17
+    87          2
+    88          4
+    89          0
+    90          0
+   100         11
+   101          6
+   102        999
+   103         98
+   104         34
+   105          1
+   114          2
+   115          1
+   116         24
+   117        220
+   118         24
+   119          8
+   120          0

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 11423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Octanoic acid, 3-oxo-, methyl ester
+##MOLFORM=C9H16O3
+##CAS REGISTRY NO=22348-95-4
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        320
+    42        230
+    43        999
+    55        230
+    56        160
+    57        130
+    59        360
+    69        250
+    71        350
+    74        370
+    84        270
+    85        150
+    99        549
+   101        390
+   116        819
+   117        140
+   129        190
+   130         60
+   141         40
+   142         20
+   154         30
+   172         50

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 48716
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Busulfan
+##MOLFORM=C6H14O6S2
+##CAS REGISTRY NO=55-98-1
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27        126
+    29         92
+    30          6
+    31         67
+    33         13
+    39        111
+    40         30
+    41        361
+    42        530
+    43        313
+    44         34
+    45         86
+    46          5
+    47          9
+    48         21
+    53         27
+    54        518
+    55        566
+    56         34
+    57         24
+    58         14
+    59         27
+    63         34
+    64         23
+    65         59
+    69          9
+    71        891
+    72         52
+    73         19
+    77          8
+    78          6
+    79        999
+    80         61
+    81         64
+    93         10
+    97        169
+   109        145
+   110          6
+   111        217
+   112          7
+   113          8
+   122         75
+   137         21
+   149          7
+   151          5
+   175        241
+   176         10
+   177         25

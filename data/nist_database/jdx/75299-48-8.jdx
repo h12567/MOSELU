@@ -1,0 +1,36 @@
+##TITLE=Library Entry 95389
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(6)764(1977); G. F. SPENCER ET AL
+##NAMES=HP
+##CAS NAME=9-Octadecenoic acid, 12-hydroxy-13-methoxy-, methyl ester
+##MOLFORM=C20H38O4
+##CAS REGISTRY NO=75299-48-8
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    74        150
+    83        680
+    95        200
+    98        110
+   114        110
+   115        999
+   124        110
+   145        520
+   148        110
+   149        110
+   166        430
+   177         60
+   195        800
+   198        120
+   209         30
+   227        660
+   253         60
+   279         20
+   280         20
+   311         20
+   325         10

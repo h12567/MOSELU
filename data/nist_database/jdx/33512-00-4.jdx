@@ -1,0 +1,43 @@
+##TITLE=Library Entry 100771
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Cyclohexen-1-amine, 2,5,6-triphenyl-, (1.alpha.,2.beta.,5.beta.
+,6.beta.)-
+##MOLFORM=C24H23N
+##CAS REGISTRY NO=33512-00-4
+##MP= -300
+##BP= -300
+##MW= 325
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    51         30
+    63         23
+    65         40
+    77         43
+    78         23
+    91        170
+   102         20
+   103         13
+   104         26
+   117         23
+   118         76
+   119        999
+   120         86
+   127         20
+   128         46
+   165         26
+   178         26
+   179         23
+   189         20
+   191         33
+   202         30
+   203         23
+   204         16
+   205         53
+   206        253
+   207         46
+   234         23

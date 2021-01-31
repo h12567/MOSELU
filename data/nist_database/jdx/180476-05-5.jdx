@@ -1,0 +1,43 @@
+##TITLE=Library Entry 48406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Albert Lebedev, Moscow State University, Russia
+##NAMES=HP
+##CAS NAME=2,4,6-Triazidopyridine-3,5-dicarbonitrile
+##MOLFORM=C7N12
+##CAS REGISTRY NO=180476-05-5
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    38         88
+    48         10
+    50         48
+    52         63
+    53          7
+    62         21
+    64        311
+    65         20
+    66         12
+    73          6
+    76         14
+    77         12
+    78        999
+    79         48
+    87         12
+    88         25
+    89          6
+    90         48
+    91         18
+    92         22
+   102        196
+   103         18
+   116         60
+   118         12
+   226         23
+   252        340
+   253         42
+   254          1

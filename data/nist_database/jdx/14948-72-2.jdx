@@ -1,0 +1,36 @@
+##TITLE=Library Entry 15367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Azabicyclo[3.3.1]nonan-9.alpha.-ol, 3,9-dimethyl-
+##MOLFORM=C10H19NO
+##CAS REGISTRY NO=14948-72-2
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        127
+    41        212
+    42        309
+    43        454
+    44        999
+    45         54
+    55        115
+    57        227
+    58        369
+    67         90
+    68         90
+    70         75
+    71        212
+    74        187
+    84        106
+   108        218
+   109        136
+   136        145
+   150         66
+   168        196
+   169        212

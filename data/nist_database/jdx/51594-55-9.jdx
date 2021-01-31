@@ -1,0 +1,51 @@
+##TITLE=Library Entry 24658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Oxirane, (chloromethyl)-, (R)-
+##MOLFORM=C3H5ClO
+##CAS REGISTRY NO=51594-55-9
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          6
+    25          4
+    26         34
+    27        144
+    28         49
+    29        153
+    30         10
+    31         98
+    35          4
+    36          5
+    37         14
+    38         15
+    39         28
+    40          4
+    41          8
+    42         79
+    43         31
+    47          9
+    48         14
+    49        346
+    50         12
+    51        103
+    52          2
+    53          3
+    55          8
+    57        999
+    58         33
+    59          4
+    60         12
+    61         39
+    62        142
+    63         25
+    64         43
+    65          5
+    77          1

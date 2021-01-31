@@ -1,0 +1,81 @@
+##TITLE=Library Entry 98305
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, (1-methylenebutyl)-
+##MOLFORM=C11H14
+##CAS REGISTRY NO=5676-32-4
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1236
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    14          4
+    15         13
+    26         18
+    27        125
+    28         17
+    29         43
+    37          5
+    38         27
+    39        170
+    40         25
+    41         52
+    42          7
+    50         89
+    51        202
+    52         42
+    53         43
+    54          2
+    55          3
+    57         12
+    61          7
+    62         29
+    63         82
+    64         28
+    65         96
+    66          8
+    67         33
+    68          5
+    70          3
+    71          4
+    73          4
+    74         37
+    75         38
+    76         57
+    77        247
+    78        189
+    79         23
+    86          6
+    87          9
+    88          6
+    89         51
+    90          4
+    91        339
+    92         29
+   101         10
+   102         79
+   103        241
+   104         69
+   105         32
+   106          2
+   113          4
+   115        329
+   116        122
+   117        440
+   118        999
+   119         98
+   120          5
+   126          6
+   127         22
+   128         48
+   129         55
+   130         32
+   131        265
+   132         30
+   145         28
+   146        164
+   147         19

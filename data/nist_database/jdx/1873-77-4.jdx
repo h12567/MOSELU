@@ -1,0 +1,66 @@
+##TITLE=Library Entry 42879
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Tris(trimethylsilyl)silane
+##MOLFORM=C9H28Si4
+##CAS REGISTRY NO=1873-77-4
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    43        102
+    44         20
+    45        193
+    46          8
+    59        188
+    60          9
+    73        999
+    74         85
+    75         40
+    85         36
+    86         26
+    87         11
+    88          2
+    99         78
+   100         68
+   101         64
+   102         15
+   103          7
+   113         28
+   114         43
+   115        170
+   116         55
+   117         59
+   118          6
+   129        154
+   130         23
+   131         93
+   132         12
+   133          4
+   145         51
+   146          7
+   147         26
+   148          3
+   157         26
+   158          8
+   159        378
+   160        332
+   161         93
+   162         33
+   163          4
+   173         69
+   174        324
+   175         77
+   176         36
+   177          3
+   233         83
+   234         20
+   235         10
+   248         51
+   249         12
+   250          5

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 6970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Acetyl-3-methyl-benzo-p-dioxin
+##MOLFORM=C11H10O3
+##CAS REGISTRY NO=125142-94-1
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         11
+    38         28
+    39         90
+    40         12
+    41         16
+    43        999
+    44         21
+    50         79
+    51         78
+    52        150
+    53         47
+    54         10
+    55         55
+    61          5
+    62         16
+    63         53
+    64         30
+    65         34
+    66         12
+    67         26
+    74         16
+    75         13
+    76         28
+    77         35
+    78          9
+    79         10
+    80         29
+    81         24
+    82         18
+    89          7
+    90          5
+    91         71
+    92         12
+    93          8
+   103          4
+   104          6
+   105         20
+   109         15
+   110          8
+   119         14
+   121         27
+   131          4
+   133          5
+   147         55
+   148         17
+   175         20
+   190        103
+   191          9

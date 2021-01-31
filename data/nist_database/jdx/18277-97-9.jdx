@@ -1,0 +1,67 @@
+##TITLE=Library Entry 46876
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Azobenzene, 4'-bromo-2-methoxy-
+##MOLFORM=C13H11BrN2O
+##CAS REGISTRY NO=18277-97-9
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    37         41
+    38         80
+    39        122
+    40         12
+    50        273
+    51        401
+    52         78
+    53         32
+    62         68
+    63        273
+    64        299
+    65         73
+    74         97
+    75        321
+    76        416
+    77        999
+    78        190
+    79        294
+    80         97
+    90         97
+    91         32
+    92        655
+    93         71
+   106         27
+   107         73
+   108         24
+   109         34
+   120        263
+   121        153
+   122         17
+   135        491
+   136         24
+   139         88
+   140         19
+   152         68
+   155        608
+   156         41
+   157        618
+   158         41
+   169        109
+   170         19
+   171        122
+   172         12
+   183        200
+   184        131
+   185        217
+   186        141
+   187         22
+   290        246
+   291         19
+   292        243
+   293         17

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 36270
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. White V, SmithKline Corp.
+##NAMES=HP
+##CAS NAME=Butanoic acid, heptafluoro-, sodium salt
+##MOLFORM=C4F7NaO2
+##CAS REGISTRY NO=2218-54-4
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28         19
+    31        273
+    43         16
+    44        721
+    45         11
+    46          5
+    50         83
+    55         11
+    62         54
+    65         30
+    69        999
+    70         13
+    74         30
+    81        176
+    82          5
+    93         78
+   100        500
+   101         11
+   112         16
+   131        776
+   132         30
+   150        362
+   151         12
+   215          1
+   259         37
+   260          1

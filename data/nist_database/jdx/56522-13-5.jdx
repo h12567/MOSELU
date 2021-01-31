@@ -1,0 +1,35 @@
+##TITLE=Library Entry 61869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Acetyl-benzylphosphine
+##MOLFORM=C9H11OP
+##CAS REGISTRY NO=56522-13-5
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         60
+    41         39
+    43        299
+    44         30
+    45         29
+    63         30
+    65        178
+    77         79
+    78        120
+    79         89
+    89         49
+    90         20
+    91        999
+    92        190
+   122         80
+   123         10
+   124        329
+   125         59
+   166         59
+   167         20

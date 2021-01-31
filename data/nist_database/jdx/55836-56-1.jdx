@@ -1,0 +1,32 @@
+##TITLE=Library Entry 75015
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Octaborane(12), dodecafluoro-
+##MOLFORM=B8F12
+##CAS REGISTRY NO=55836-56-1
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    60        360
+    71        250
+    79        320
+    90        170
+   101        999
+   112        160
+   120        549
+   131         50
+   139         20
+   150         50
+   161        270
+   169        200
+   180        300
+   199        140
+   229         20
+   248        130
+   267         10

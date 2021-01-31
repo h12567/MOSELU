@@ -1,0 +1,49 @@
+##TITLE=Library Entry 47873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DD1-85-3
+##NAMES=HP
+##CAS NAME=Phenylmercuric propionate
+##MOLFORM=C9H10HgO2
+##CAS REGISTRY NO=103-27-5
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    38         10
+    39         13
+    73         23
+    74         52
+    75         18
+    76         31
+    77        999
+    78        105
+   198         18
+   199         31
+   200         39
+   201         23
+   202         52
+   204         15
+   275         86
+   276        152
+   277        207
+   278        126
+   279        255
+   280         21
+   281         52
+   304         18
+   305         28
+   306         34
+   307         28
+   308         47
+   309          5
+   310         13
+   319         15
+   320         21
+   321         31
+   322         18
+   323         36
+   348          2

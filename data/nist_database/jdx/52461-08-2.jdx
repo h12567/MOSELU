@@ -1,0 +1,43 @@
+##TITLE=Library Entry 96561
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Oxacyclooctadecan-2-one, 5,6,7-trihydroxy-18-methyl-
+##MOLFORM=C18H34O5
+##CAS REGISTRY NO=52461-08-2
+##MP= -300
+##BP= -300
+##MW= 330
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        340
+    43        222
+    60        101
+    95        219
+    96        133
+    97        156
+    98        747
+    99        191
+   115        209
+   116        999
+   117        209
+   121         96
+   122         32
+   123         64
+   124         47
+   125         35
+   127         48
+   179         48
+   181         32
+   192         96
+   197         80
+   210         80
+   226         64
+   227         32
+   294         15
+   312         16
+   315         16
+   330         16

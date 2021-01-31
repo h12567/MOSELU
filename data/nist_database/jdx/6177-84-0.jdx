@@ -1,0 +1,40 @@
+##TITLE=Library Entry 51433
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.QUAYLE SHELL LTD., THORNTON RES. CENT., CHESTER, CHES
+., UK
+##NAMES=HP
+##CAS NAME=Furan, 3-pentyl-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=6177-84-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        134
+    29         77
+    39        109
+    41        119
+    51         66
+    52         66
+    53        156
+    54         85
+    55         57
+    65         42
+    66         36
+    67         68
+    68         40
+    69         40
+    77         27
+    79         32
+    80         32
+    81        657
+    82        999
+    83         77
+    95        224
+    96         68
+   109         36
+   138        194

@@ -1,0 +1,83 @@
+##TITLE=Library Entry 99904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 168
+##NAMES=HP
+##CAS NAME=Isatoic anhydride
+##MOLFORM=C8H5NO3
+##CAS REGISTRY NO=118-48-9
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    16          1
+    18          2
+    25          3
+    26         10
+    27          9
+    28          3
+    29          4
+    31          3
+    36          4
+    37         60
+    38         91
+    39         75
+    40         12
+    41         24
+    43          3
+    44         17
+    45         56
+    46          5
+    48          2
+    49         12
+    50         69
+    51         26
+    52         74
+    53         14
+    55          2
+    57          2
+    59         22
+    60          7
+    61         37
+    62         62
+    63        186
+    64        212
+    65         50
+    66          5
+    67          3
+    69          5
+    71          1
+    73          7
+    74         24
+    75         17
+    76         33
+    77          5
+    78          2
+    79          1
+    86          3
+    87          7
+    88          8
+    89          6
+    90         77
+    91        158
+    92        549
+    93         37
+    94          3
+   103          2
+   104          3
+   105          2
+   118          6
+   119        999
+   120         84
+   121          6
+   131          1
+   134          2
+   146          5
+   147          4
+   162          4
+   163        234
+   164         22
+   165          3

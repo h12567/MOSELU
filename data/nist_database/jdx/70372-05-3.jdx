@@ -1,0 +1,75 @@
+##TITLE=Library Entry 107429
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=N-[2-(1H-Benzoimidazol-2-yl)-phenyl]-4-fluorobenzamide
+##MOLFORM=C20H14FN3O
+##CAS REGISTRY NO=70372-05-3
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    50          5
+    51          9
+    52          5
+    63         13
+    64         78
+    65         76
+    66         36
+    67          1
+    68         21
+    69          2
+    74          1
+    75         43
+    76          9
+    77         13
+    78          2
+    90         11
+    91         14
+    92         71
+    93          2
+    94          4
+    95        421
+    96         22
+   102          6
+   103          3
+   104          1
+   118         11
+   119          3
+   123        999
+   124         68
+   125          5
+   140         35
+   141          3
+   156          3
+   157          1
+   166          1
+   179          2
+   180          1
+   181         13
+   182          2
+   207         18
+   208         37
+   209         12
+   210          3
+   235          2
+   236        721
+   237        113
+   238          6
+   287         56
+   288          6
+   302          2
+   303         20
+   304          1
+   312         12
+   313         13
+   314         23
+   315          2
+   330         85
+   331        554
+   332        134
+   333         14

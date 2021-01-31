@@ -1,0 +1,57 @@
+##TITLE=Library Entry 9890
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0704
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, 4-hydroxy-3,6-dimethyl-
+##MOLFORM=C7H8O3
+##CAS REGISTRY NO=5192-62-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    37         30
+    38         90
+    39        320
+    40        100
+    41        150
+    42        100
+    43        999
+    44        150
+    45         10
+    49         20
+    50         60
+    51         80
+    52         20
+    53        130
+    54         10
+    55        160
+    56        480
+    57         30
+    67         40
+    68         60
+    69        550
+    70        100
+    71         10
+    82         20
+    83         80
+    84         10
+    85        880
+    86         60
+    87         10
+    96         20
+    97        260
+    98         70
+    99         10
+   111        250
+   112        480
+   113         30
+   114         10
+   125         60
+   126         10
+   140        460
+   141         50
+   142         10

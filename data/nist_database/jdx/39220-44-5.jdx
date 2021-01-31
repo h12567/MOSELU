@@ -1,0 +1,80 @@
+##TITLE=Library Entry 26008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3547
+##NAMES=HP
+##CAS NAME=2-Isobutoxyethyl acetate
+##MOLFORM=C8H16O3
+##CAS REGISTRY NO=39220-44-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=1075
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         72
+    16          2
+    17          1
+    18          3
+    26          9
+    27        113
+    28         74
+    29        310
+    30         11
+    31         38
+    32          1
+    37          1
+    38          4
+    39         89
+    40         15
+    41        469
+    42         71
+    43        921
+    44        137
+    45        207
+    46          5
+    47          1
+    50          1
+    51          2
+    52          1
+    53          8
+    54          3
+    55         49
+    56        734
+    57        999
+    58        131
+    59         15
+    60         12
+    61        132
+    62          3
+    63          2
+    67          2
+    69          3
+    70         34
+    71         34
+    72         30
+    73         78
+    74        125
+    75         48
+    76          2
+    77          1
+    82          3
+    85          8
+    86         10
+    87        987
+    88        207
+    89         14
+    90          1
+   100        187
+   101         13
+   102          1
+   103          4
+   105          6
+   115          2
+   116          2
+   117         28
+   118          1
+   160          1
+   161          3

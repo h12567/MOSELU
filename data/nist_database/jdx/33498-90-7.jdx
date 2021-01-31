@@ -1,0 +1,52 @@
+##TITLE=Library Entry 63380
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N M M. NIBBERING
+##NAMES=HP
+##CAS NAME=Butane, 1-(benzyloxy)-2-[(benzyloxy)methyl]-
+##MOLFORM=C19H24O2
+##CAS REGISTRY NO=33498-90-7
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27         10
+    28         40
+    29         20
+    39         30
+    41         50
+    42         10
+    43         20
+    45         40
+    51         20
+    55         20
+    57         10
+    63         10
+    65         80
+    69        100
+    70         10
+    77         50
+    78         20
+    79         80
+    87         30
+    89         20
+    90         20
+    91        999
+    92        140
+    93         10
+   101         20
+   104         40
+   105         30
+   106         20
+   107         80
+   108         70
+   131         10
+   132         10
+   175         10
+   193        400
+   194         70
+   238         10
+   284         10

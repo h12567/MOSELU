@@ -1,0 +1,94 @@
+##TITLE=Library Entry 36159
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.H.COWLEY DEPT. CHEM., UNIV. OF TEXAS, AUSTIN, TEXAS,
+ USA
+##NAMES=HP
+##CAS NAME=Iron, [.mu.-[[1,2-bis(trifluoromethyl)-1,2-ethenediyl]bis[(triflu
+oromethyl)phosphinidene]-P,P':P,P']]decacarbonyltri-
+##MOLFORM=C16F12Fe3O10P2
+##CAS REGISTRY NO=39153-36-1
+##MP= -300
+##BP= -300
+##MW= 810
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 77
+##XYDATA=(XY..XY) 1 
+    43          5
+    50         55
+    62         77
+    69        999
+    84        215
+    93        410
+   100         42
+   105        215
+   112        320
+   117        885
+   124        269
+   136        188
+   143        168
+   148        221
+   155        682
+   162         32
+   167        559
+   168        108
+   169        369
+   174         67
+   179        161
+   186        395
+   193         52
+   200         80
+   205        465
+   212         20
+   217        869
+   224        121
+   236        262
+   243         55
+   248        330
+   255        168
+   274         67
+   286        134
+   292        108
+   293         59
+   305         35
+   324        585
+   343         41
+   362        148
+   370        108
+   380        207
+   386        134
+   395         35
+   398         48
+   408         80
+   426        114
+   436         84
+   455         19
+   464        141
+   474        201
+   480         12
+   492         33
+   502         72
+   520        201
+   530         94
+   548        200
+   557          6
+   558         19
+   576         13
+   586         87
+   595         15
+   604        181
+   614         33
+   623         15
+   642         22
+   651          5
+   670         17
+   679         19
+   698         75
+   707          5
+   726         54
+   735          8
+   754         13
+   763          2
+   782         39
+   810         26

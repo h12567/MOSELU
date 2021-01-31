@@ -1,0 +1,78 @@
+##TITLE=Library Entry 50215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,7-Dimethyloct-6-en-1-yl octanoate
+##MOLFORM=C18H34O2
+##CAS REGISTRY NO=72934-05-5
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=1918
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         25
+    29        114
+    30          4
+    31          5
+    39         89
+    41        664
+    42         95
+    43        219
+    51         10
+    52         10
+    53         86
+    54         15
+    55        389
+    56         78
+    57        457
+    58         27
+    59         12
+    60         23
+    65          8
+    67        360
+    68        205
+    69        884
+    70         91
+    73         17
+    74          5
+    77         20
+    78         14
+    79         15
+    80         95
+    81        999
+    82        556
+    83        143
+    84         35
+    91         12
+    94         64
+    95        650
+    96        121
+    97         27
+    98         15
+    99         10
+   100          4
+   101         18
+   103          6
+   106          5
+   108         15
+   109        261
+   110         72
+   111         23
+   115         10
+   117          7
+   121         14
+   123        718
+   124         52
+   125         12
+   127        140
+   131          6
+   136          8
+   137         20
+   138        345
+   139         41
+   140          4
+   145         31

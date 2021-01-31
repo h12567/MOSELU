@@ -1,0 +1,51 @@
+##TITLE=Library Entry 76920
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4,4'-Diphenoxyl terephthalanilide
+##MOLFORM=C32H24N2O4
+##CAS REGISTRY NO=103319-77-3
+##MP= -300
+##BP= -300
+##MW= 500
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    43         42
+    49         82
+    50         27
+    51        141
+    55         19
+    65         23
+    75         32
+    76        360
+    77        456
+    78         26
+    84         21
+    86          5
+   103         53
+   104        999
+   105         89
+   115         20
+   128         29
+   129         93
+   130         24
+   132         27
+   152         84
+   153         23
+   166         23
+   167        148
+   168         18
+   181        167
+   182         23
+   184         69
+   186         26
+   195         23
+   251         19
+   316        348
+   317         68
+   500        280
+   501         89

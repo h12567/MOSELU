@@ -1,0 +1,33 @@
+##TITLE=Library Entry 80340
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=BMSYAL, 6(3)117(1979); R. M. THOMPSON AND D. A. CORY
+##NAMES=HP
+##CAS NAME=D-Xylose, O-(phenylmethyl)oxime, 2,3,4,5-tetrabenzoate
+##MOLFORM=C40H33NO9
+##CAS REGISTRY NO=71641-36-6
+##MP= -300
+##BP= -300
+##MW= 671
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    77        700
+    91        870
+   105        999
+   122        140
+   195         39
+   201         15
+   216         51
+   269         15
+   280         25
+   281         26
+   294         57
+   403         22
+   459        600
+   473          2
+   549          7
+   550          6
+   641          5
+   671          8

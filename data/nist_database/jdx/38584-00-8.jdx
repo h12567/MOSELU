@@ -1,0 +1,56 @@
+##TITLE=Library Entry 20727
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=1,2,3-Oxathiazolidine, 3-cyclohexyl-5-phenyl-, 2-oxide
+##MOLFORM=C14H19NO2S
+##CAS REGISTRY NO=38584-00-8
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    30        300
+    39        250
+    41        650
+    42        110
+    43         60
+    48        180
+    50        100
+    51        240
+    52         60
+    53        100
+    54        220
+    55        999
+    56        130
+    64        320
+    65         80
+    67        120
+    68        170
+    77        430
+    78        180
+    79         80
+    81        100
+    82        220
+    83        910
+    84         60
+    91        630
+    92        170
+   103        120
+   104        230
+   105        270
+   106        200
+   110        330
+   112        270
+   117         60
+   118        650
+   119        160
+   120        140
+   158        230
+   159        370
+   172         80
+   200        450
+   201        230

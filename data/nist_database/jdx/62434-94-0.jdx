@@ -1,0 +1,63 @@
+##TITLE=Library Entry 63211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, R.S.Borisov, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phenylacetic acid pentafluorobenzyl ester
+##MOLFORM=C15H9F5O2
+##CAS REGISTRY NO=62434-94-0
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    29          2
+    31          5
+    39         18
+    41          6
+    50          3
+    51         12
+    52          2
+    62          4
+    63         14
+    64          5
+    65         72
+    66          4
+    69          4
+    75          4
+    77          2
+    78          2
+    81          6
+    89         18
+    90         12
+    91        999
+    92         87
+    93          7
+    99          5
+   112          5
+   117          6
+   119          6
+   130          2
+   131         10
+   137          2
+   143          4
+   150          5
+   155          8
+   161         29
+   162          5
+   167          5
+   168          3
+   180          2
+   181        440
+   182         34
+   195          7
+   251         17
+   252          3
+   257          5
+   270         18
+   271          3
+   316        261
+   317         42
+   318          4

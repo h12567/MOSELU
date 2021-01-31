@@ -1,0 +1,57 @@
+##TITLE=Library Entry 75858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethanamine, N-ethyl-N-nitroso-
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=55-18-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=879
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         21
+    18         57
+    25          2
+    26         44
+    27        220
+    28        195
+    29        356
+    30         98
+    31          2
+    37          1
+    38          5
+    39         13
+    40         31
+    41         82
+    42        772
+    43         53
+    44        764
+    45         28
+    51          4
+    52         10
+    53          2
+    54         25
+    55         14
+    56        544
+    57        525
+    58         22
+    59          9
+    68          2
+    69          1
+    70         31
+    71         34
+    72          3
+    73          5
+    74          4
+    85         38
+    86          2
+    87         38
+    88          1
+   102        999
+   103         55
+   104          2

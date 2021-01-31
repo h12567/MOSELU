@@ -1,0 +1,75 @@
+##TITLE=Library Entry 35435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,3-Dihydro farnesyl acetate
+##MOLFORM=C17H30O2
+##CAS REGISTRY NO=58130-58-8
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=1823
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    27         15
+    39         40
+    40         10
+    41        311
+    42         19
+    43        291
+    44         12
+    53         69
+    54         15
+    55        164
+    56         20
+    57         50
+    61         19
+    65         21
+    67        240
+    68        144
+    69        999
+    70         55
+    77         29
+    78          6
+    79         82
+    80         33
+    81        771
+    82        116
+    83         34
+    91         33
+    92          4
+    93         72
+    94         39
+    95        377
+    96         50
+    99          9
+   105         19
+   107         87
+   108         37
+   109        184
+   110         30
+   121        164
+   122         40
+   123        455
+   124         52
+   135         45
+   136         18
+   137         54
+   138          7
+   149         37
+   150         12
+   151          4
+   163        164
+   164         28
+   177          5
+   178          4
+   191         21
+   192          4
+   223        246
+   224         36
+   225          5
+   251          3
+   266          2
+   267          2

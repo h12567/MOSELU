@@ -1,0 +1,72 @@
+##TITLE=Library Entry 79721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Westmore ET AL, J.ASMS. 9, 29 (1998)
+##NAMES=HP
+##CAS NAME=2-Propen-1-one, 3-hydroxy-1,3-diphenyl-
+##MOLFORM=C15H12O2
+##CAS REGISTRY NO=1704-15-0
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    31         34
+    35         24
+    38         45
+    40         62
+    42         34
+    43         31
+    45          6
+    49         45
+    51        223
+    52         17
+    55         38
+    56         17
+    57         31
+    60         17
+    63         17
+    65         38
+    67         13
+    69        412
+    70         13
+    71         13
+    74          6
+    75         17
+    76         45
+    77        667
+    78         76
+    79         13
+    81          6
+    82          6
+    83         10
+    84         20
+    89         38
+    90         13
+    91         38
+    95          6
+    97          6
+    98         17
+   102         24
+   103         24
+   105        999
+   106         66
+   112         10
+   118         17
+   121         59
+   122         13
+   129         10
+   131         10
+   147        300
+   148         24
+   149          6
+   152          6
+   165          6
+   179          6
+   207         45
+   208         17
+   223        500
+   224        409
+   225         55

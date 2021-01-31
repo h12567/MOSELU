@@ -1,0 +1,27 @@
+##TITLE=Library Entry 23658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-3-(2,2-dimethylpropyl)-butadiene
+##MOLFORM=C10H18
+##CAS REGISTRY NO=90822-87-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    39         60
+    41        581
+    53        149
+    57        999
+    65        148
+    67        200
+    77        161
+    79        239
+    82        431
+    91        110
+   123        210
+   138        129

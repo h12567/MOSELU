@@ -1,0 +1,77 @@
+##TITLE=Library Entry 23091
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1886
+##NAMES=HP
+##CAS NAME=Butane, 1,1'-sulfonylbis-
+##MOLFORM=C8H18O2S
+##CAS REGISTRY NO=598-04-9
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          6
+    18          1
+    26         10
+    27        146
+    28         63
+    29        550
+    30         11
+    31          2
+    38          3
+    39         84
+    40          9
+    41        499
+    42         21
+    43         20
+    45          4
+    46          1
+    47          2
+    48          2
+    50          2
+    51          4
+    52          1
+    53         12
+    54          4
+    55         84
+    56        157
+    57        999
+    58         43
+    59          1
+    61          1
+    63         11
+    64          1
+    65          7
+    66          3
+    67         12
+    71          1
+    80          9
+    81         37
+    82          1
+    83          2
+    84          1
+    85          7
+    89          4
+    93          5
+    94          9
+   105         10
+   106          2
+   107          9
+   108          1
+   119          9
+   121         75
+   122          7
+   123        299
+   124         15
+   125         13
+   136          5
+   149         14
+   150          1
+   161          9
+   163          1
+   178         26
+   179          9
+   180          2

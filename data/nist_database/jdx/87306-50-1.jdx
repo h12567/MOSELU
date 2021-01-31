@@ -1,0 +1,65 @@
+##TITLE=Library Entry 52702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. WEBER,LUDWIG INST. CANCER RES.,HADDOW LAB.,SUTTON,SU
+RREY,UK
+##NAMES=HP
+##CAS NAME=Nickel(II) bis(3-heptafluorobutyrylpinan-4-onate)
+##MOLFORM=C28H28F14NiO4
+##CAS REGISTRY NO=87306-50-1
+##MP= -300
+##BP= -300
+##MW= 752
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    67        330
+    68        180
+    69        680
+    81        250
+    82        180
+    83        999
+    95         60
+    96        330
+    97         70
+   108        210
+   109        270
+   122         40
+   123        190
+   149        360
+   150         60
+   151         90
+   177        190
+   178         40
+   179        130
+   292        220
+   293        180
+   294        110
+   304         50
+   305        240
+   306        160
+   333        540
+   334         80
+   347         30
+   348        200
+   349        200
+   376        160
+   377         50
+   378         90
+   404        520
+   405        130
+   406        250
+   407         60
+   408         50
+   695         60
+   696         20
+   697         30
+   737        130
+   738         40
+   739         60
+   740         30
+   752        460
+   753        140
+   754        210
+   755         60

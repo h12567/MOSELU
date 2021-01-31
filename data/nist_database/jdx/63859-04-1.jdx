@@ -1,0 +1,51 @@
+##TITLE=Library Entry 72147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-aziridine-2,2-dicarboxylic acid, ethyl ester
+##MOLFORM=C7H11NO5
+##CAS REGISTRY NO=63859-04-1
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    53         64
+    54        555
+    55        255
+    56        128
+    57        128
+    58        340
+    59        234
+    60        128
+    61         21
+    68        640
+    69        660
+    70        170
+    71        255
+    72        192
+    73         21
+    84        128
+    85        382
+    86         38
+    99        999
+   100        107
+   101         22
+   112        382
+   113        490
+   114        107
+   115         11
+   126        298
+   127        128
+   128         13
+   140        128
+   141         12
+   143        426
+   144         85
+   145         12
+   171        320
+   172         43
+   173          9

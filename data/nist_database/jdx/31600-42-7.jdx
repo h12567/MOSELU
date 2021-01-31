@@ -1,0 +1,51 @@
+##TITLE=Library Entry 61173
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 4-(phenylmethoxy)-, methyl ester
+##MOLFORM=C12H16O3
+##CAS REGISTRY NO=31600-42-7
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41         48
+    42         14
+    43         38
+    45         14
+    49         14
+    50         28
+    55         14
+    57         14
+    59         79
+    63         19
+    65        115
+    69         14
+    70         14
+    74        303
+    75         14
+    77         48
+    78         19
+    80         77
+    85        279
+    89         28
+    90         14
+    91        999
+    92        132
+   101        139
+   102        173
+   103          4
+   105         28
+   107        373
+   108         43
+   117         48
+   146         33
+   147         14
+   176         36
+   180         24
+   190         16
+   208         48

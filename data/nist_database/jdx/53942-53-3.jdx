@@ -1,0 +1,73 @@
+##TITLE=Library Entry 9171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,2-Dichloroethanol, acetate
+##MOLFORM=C4H6Cl2O2
+##CAS REGISTRY NO=53942-53-3
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=925
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14         30
+    15        113
+    16          2
+    18          1
+    24          1
+    25          6
+    26         42
+    27         70
+    28          9
+    29         51
+    30         18
+    31         12
+    35         11
+    36          5
+    37          4
+    38          2
+    39          1
+    40          2
+    41         12
+    42         60
+    43        999
+    44         26
+    45         10
+    47         13
+    48         28
+    49         29
+    50         13
+    51          8
+    52          1
+    53          1
+    59          1
+    60          9
+    61         88
+    62         39
+    63         29
+    64         11
+    65          1
+    73        377
+    74         12
+    75          2
+    76          3
+    77          1
+    78          3
+    80          1
+    82          2
+    83         38
+    84          4
+    85         25
+    86          1
+    87          4
+    96         79
+    97         39
+    98         55
+    99         24
+   100          9
+   101          4
+   121          2
+   123          1

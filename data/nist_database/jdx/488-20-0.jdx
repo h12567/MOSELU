@@ -1,0 +1,65 @@
+##TITLE=Library Entry 70935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U.I.ZAHORSZKY KARLSRUHE UNIV., KARLSRUHE, GERMANY, F.R.
+G.
+##NAMES=HP
+##CAS NAME=Butanedioic acid, bis(methylene)-
+##MOLFORM=C6H6O4
+##CAS REGISTRY NO=488-20-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    25         20
+    26        180
+    27        660
+    28        116
+    29        125
+    30        107
+    31         22
+    36        138
+    37         45
+    38         63
+    39        330
+    40        143
+    41        402
+    42        188
+    43        188
+    44         45
+    45        384
+    49         54
+    50        286
+    51        490
+    52        760
+    53        536
+    54         98
+    55        134
+    56         45
+    57         20
+    58         20
+    59         13
+    66         71
+    67         45
+    68        116
+    69        607
+    70        125
+    71         36
+    78         20
+    79         80
+    80        180
+    81         20
+    84        125
+    85         20
+    95         20
+    96        134
+    97        188
+    98        999
+    99         54
+   124        705
+   125        125
+   142        482
+   143         35

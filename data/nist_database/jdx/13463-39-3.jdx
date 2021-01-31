@@ -1,0 +1,42 @@
+##TITLE=Library Entry 184
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GRC 0029
+##NAMES=HP
+##CAS NAME=Nickel tetracarbonyl
+##MOLFORM=C4NiO4
+##CAS REGISTRY NO=13463-39-3
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    12          7
+    14          4
+    15          1
+    16          2
+    17          1
+    18          2
+    26          1
+    27          1
+    28        999
+    29         12
+    30          2
+    32          1
+    40          3
+    43          1
+    44         15
+    57          1
+    58          8
+    60          3
+    62          1
+    70          1
+    86          4
+    88          2
+   114          1
+   116          1
+   142          1
+   144          1
+   170          1

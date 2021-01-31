@@ -1,0 +1,24 @@
+##TITLE=Library Entry 67991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4(1H)-Pyridone
+##MOLFORM=C5H5NO
+##CAS REGISTRY NO=108-96-3
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    50         55
+    51         36
+    52         28
+    66         34
+    67        250
+    68        228
+    94         28
+    95        999
+    96         60

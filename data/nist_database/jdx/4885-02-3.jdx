@@ -1,0 +1,52 @@
+##TITLE=Library Entry 48912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=.alpha.,.alpha.-Dichloromethyl methyl ether
+##MOLFORM=C2H4Cl2O
+##CAS REGISTRY NO=4885-02-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=655
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    13          7
+    14         19
+    15        265
+    16          5
+    18          0
+    28         15
+    29        227
+    30          7
+    31         14
+    32          1
+    35         36
+    36         11
+    37         11
+    38          1
+    43          6
+    44          5
+    47         27
+    48         55
+    49         37
+    50         26
+    51        118
+    52          1
+    53         33
+    60          1
+    63         45
+    65         15
+    78          3
+    79        999
+    80         22
+    81        322
+    82          9
+    83        160
+    84          1
+    85        101
+    87         15
+   113          7
+   115          3

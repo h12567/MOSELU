@@ -1,0 +1,48 @@
+##TITLE=Library Entry 15867
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Butanal, dimethylhydrazone
+##MOLFORM=C6H14N2
+##CAS REGISTRY NO=10424-98-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=879
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    28        125
+    29         75
+    30         67
+    39         71
+    40         23
+    41        154
+    42        458
+    43        458
+    44        999
+    45        375
+    46         19
+    53         10
+    54          9
+    55         38
+    56         58
+    57         42
+    58        123
+    59         94
+    68         15
+    69         10
+    70         46
+    71         87
+    72         58
+    73         14
+    83         12
+    85        791
+    86        162
+    99        112
+   100          8
+   113         28
+   114        582
+   115         52

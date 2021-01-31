@@ -1,0 +1,22 @@
+##TITLE=Library Entry 36327
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=P2F4
+##MOLFORM=F4P2
+##CAS REGISTRY NO=13824-74-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    19         33
+    31        124
+    50        265
+    69        999
+    88         78
+   119        103
+   138        295

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 85894
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.TREPPENDAHL, INST. CHEM., UNIV. COPENHAGEN, DENMARb
+##NAMES=HP
+##CAS NAME=Diethyl phosphorazidate
+##MOLFORM=C4H10N3O3P
+##CAS REGISTRY NO=1516-68-3
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        180
+    42        200
+    43        190
+    44         60
+    45        220
+    46         60
+    47        170
+    48         40
+    61         30
+    62         40
+    63         70
+    64         50
+    65        240
+    78         70
+    79         40
+    80        100
+    81        870
+    82         70
+    83         30
+    91        200
+    93        110
+    94         50
+    95         70
+    96         70
+    98        110
+    99         60
+   106        300
+   107         80
+   108         40
+   109        999
+   110         40
+   122         30
+   123         40
+   124        480
+   126         40
+   134         70
+   135         40
+   136         70
+   137        230
+   150         80
+   152        740
+   164         40
+   178         30
+   179         20

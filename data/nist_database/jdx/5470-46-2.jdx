@@ -1,0 +1,57 @@
+##TITLE=Library Entry 5135
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=5-Cyclopropyl-5-methylhydantoin
+##MOLFORM=C7H10N2O2
+##CAS REGISTRY NO=5470-46-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         88
+    16          2
+    18         39
+    26         28
+    27         83
+    30         15
+    37         25
+    38         64
+    39        393
+    40        149
+    41        398
+    42        999
+    43         93
+    44         84
+    50         14
+    51         32
+    52         39
+    53        111
+    54         76
+    55        112
+    56         10
+    57         29
+    65         34
+    66         78
+    67        124
+    68        542
+    69         47
+    70         70
+    80          2
+    82        334
+    83        398
+    84         27
+    96         77
+    97          2
+    98         73
+   110         10
+   111        156
+   113        954
+   114         55
+   126         96
+   139        249
+   140         14

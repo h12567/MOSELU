@@ -1,0 +1,33 @@
+##TITLE=Library Entry 15434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Dimethylamine
+##MOLFORM=C2H7N
+##CAS REGISTRY NO=124-40-3
+##MP= -300
+##BP= -300
+##MW= 45
+##$RETENTION INDEX=430
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          6
+    15         22
+    16          1
+    26          2
+    27         28
+    28        314
+    29          1
+    30         53
+    38         13
+    39         20
+    40         53
+    41         46
+    42        189
+    43        139
+    44        999
+    45        627
+    46         18

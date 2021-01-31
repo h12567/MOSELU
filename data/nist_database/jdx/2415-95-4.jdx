@@ -1,0 +1,56 @@
+##TITLE=Library Entry 9688
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid, 2,2,3,3-tetramethyl, methyl ester
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=2415-95-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         93
+    28         71
+    29         53
+    31          8
+    38         21
+    39        172
+    40         10
+    41         59
+    42         60
+    43        999
+    44         28
+    45         30
+    50         21
+    51         26
+    52         17
+    53        105
+    54         79
+    55        103
+    56         12
+    57          6
+    59         44
+    67         18
+    68          4
+    69         17
+    71          8
+    73          7
+    82        368
+    83        594
+    84         33
+    85          8
+    95          9
+    96         46
+    97         34
+    99         41
+   109         16
+   114        533
+   115         26
+   124         62
+   125         83
+   156          8

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 70888
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=3-Furylmethyl acetate
+##MOLFORM=C7H8O3
+##CAS REGISTRY NO=30614-67-6
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    14          9
+    15         43
+    18          0
+    26         18
+    27         89
+    28          4
+    29         50
+    37         12
+    38         28
+    39         99
+    40         13
+    41         81
+    42         58
+    43        836
+    44         25
+    45          8
+    49          6
+    50         49
+    51         78
+    52        107
+    53        223
+    54         14
+    55         12
+    66          4
+    67         11
+    68          8
+    69        129
+    70         48
+    71          9
+    79        226
+    80        157
+    81        705
+    82         37
+    83          1
+    95         75
+    96          8
+    97        116
+    98        999
+    99         53
+   100          5
+   140        186
+   141         12

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 27913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T.HOLMAN,UNIVERSITY OF MINNESOTA
+##NAMES=HP
+##CAS NAME=Hexadecanal, 2-methyl-
+##MOLFORM=C17H34O
+##CAS REGISTRY NO=55019-46-0
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39         31
+    40          7
+    41        230
+    42         44
+    43        290
+    44         12
+    45          7
+    53         15
+    54         21
+    55        190
+    56         56
+    57        220
+    58        999
+    59         44
+    66          5
+    67         46
+    68         39
+    69         90
+    70         33
+    71        170
+    72         15
+    79          8
+    80          6
+    81         70
+    82         70
+    83         60
+    84         17
+    85         60
+    86          8
+    95         48
+    96         46
+    97         39
+    98         11
+    99         11
+   109         22
+   110         18
+   111         16
+   112          7
+   113          7
+   123         10
+   124         10
+   125          8
+   126          5
+   137          5
+   138          6
+   194          7
+   196         36
+   197          7
+   202          7
+   254          8

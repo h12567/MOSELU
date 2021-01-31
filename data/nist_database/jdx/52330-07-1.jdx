@@ -1,0 +1,43 @@
+##TITLE=Library Entry 10160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=1-Butanamine, N-methyl-N-nitro-
+##MOLFORM=C5H12N2O2
+##CAS REGISTRY NO=52330-07-1
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    30        109
+    38         10
+    39         68
+    40         28
+    41        207
+    42        547
+    43        999
+    44        691
+    45         22
+    46         10
+    54         10
+    55         35
+    56         46
+    57         94
+    58         25
+    59         44
+    70         21
+    71         11
+    73         22
+    74         11
+    77         11
+    84         44
+    86        176
+    87         23
+    89        987
+    90         27
+   132         16

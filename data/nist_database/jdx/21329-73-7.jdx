@@ -1,0 +1,36 @@
+##TITLE=Library Entry 30263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.E.SAALFELD NAVAL RESEARCH LAB, WASHINGTON D.C., USA
+##NAMES=HP
+##CAS NAME=Cobalt, dicarbonylhydrobis(phosphorus trifluoride)-
+##MOLFORM=C2HCoF6O2P2
+##CAS REGISTRY NO=21329-73-7
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    28        324
+    59        999
+    60         82
+    69        178
+    71         54
+    78         73
+    87        721
+    88        178
+   115        319
+   116         91
+   147        397
+   149         86
+   175        342
+   176        168
+   203         50
+   204        159
+   236          9
+   238         13
+   263          9
+   264        155
+   292        141

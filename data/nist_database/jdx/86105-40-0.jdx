@@ -1,0 +1,65 @@
+##TITLE=Library Entry 32015
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,7-Methano-1H-inden-1-one, 2,3,3a,4,7,7a-hexahydro-
+##MOLFORM=C10H12O
+##CAS REGISTRY NO=86105-40-0
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         22
+    27         49
+    28         29
+    31         10
+    37         12
+    38         36
+    39        239
+    40         93
+    41         19
+    42          2
+    43          3
+    44          3
+    49          5
+    50         26
+    51         43
+    52         15
+    53         70
+    54         79
+    55         26
+    56         10
+    57          2
+    60          2
+    61         15
+    62         21
+    63         38
+    64         16
+    65        176
+    66        999
+    67         50
+    77         26
+    78         14
+    79         21
+    80          4
+    81         27
+    82        224
+    83        202
+    84         11
+    91         48
+    92         14
+    93          4
+   103          4
+   104          4
+   105         14
+   106          4
+   110          2
+   115          2
+   119          2
+   133          1
+   148         12
+   149          5

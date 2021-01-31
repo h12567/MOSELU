@@ -1,0 +1,68 @@
+##TITLE=Library Entry 36528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Nitrophloroglucinol
+##MOLFORM=C6H5NO5
+##CAS REGISTRY NO=16600-92-3
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    12          2
+    17         69
+    18        166
+    25          7
+    26         53
+    27         97
+    30         82
+    37         68
+    38        122
+    39        284
+    40         41
+    41        229
+    42        224
+    43        105
+    44         79
+    45         16
+    49         20
+    50        145
+    51        149
+    52         54
+    53        229
+    54        114
+    55        177
+    60         12
+    64          4
+    65          7
+    66         63
+    67        109
+    68        134
+    69        999
+    70        165
+    71         24
+    77         23
+    78         28
+    79         26
+    80         74
+    81          4
+    84          3
+    93         41
+    95        114
+    96         71
+    97        148
+   109         18
+   110         36
+   111        480
+   112         68
+   113         44
+   125        554
+   126         37
+   138          3
+   153        179
+   171        861
+   172         60

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 1620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Alanine, N-acetyl-2-mercapto-, (.+/-.)-
+##MOLFORM=C5H9NO3S
+##CAS REGISTRY NO=55956-23-5
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    33        499
+    34        999
+    36        130
+    41        519
+    42        999
+    43        969
+    44        619
+    45        270
+    58        280
+    59        749
+    87        260
+    88        360
+   129        160
+   130        220
+   163         35

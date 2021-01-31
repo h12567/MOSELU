@@ -1,0 +1,39 @@
+##TITLE=Library Entry 90945
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=2-Diisopropylaminoethyl ethyl disulfide
+##MOLFORM=C10H23NS2
+##CAS REGISTRY NO=310882-85-0
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         61
+    41        253
+    42        215
+    43        287
+    44        138
+    56        131
+    58         47
+    59         38
+    70        172
+    71         31
+    72        497
+    84         55
+    85         26
+    93         86
+    98         17
+   102         27
+   112         12
+   114        999
+   115         82
+   121         78
+   144          9
+   146          5
+   206          1
+   221          8

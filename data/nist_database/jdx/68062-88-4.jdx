@@ -1,0 +1,58 @@
+##TITLE=Library Entry 64080
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=N-Acetyl-5-benzyloxytryptamine
+##MOLFORM=C19H20N2O2
+##CAS REGISTRY NO=68062-88-4
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         17
+    43        129
+    51         11
+    63         12
+    64         11
+    65        118
+    72          8
+    77         35
+    91        999
+    92         73
+   102         20
+   103         41
+   104         12
+   116         31
+   117        185
+   118         47
+   128         18
+   130        179
+   132         21
+   145        274
+   146        197
+   147         44
+   157        313
+   158        759
+   159         98
+   174         79
+   175        495
+   176         60
+   191          7
+   193         10
+   207          4
+   217         52
+   218         18
+   220         14
+   234         52
+   236        376
+   237         68
+   249        906
+   250        165
+   251         17
+   308        247
+   309         45

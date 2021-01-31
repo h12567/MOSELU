@@ -1,0 +1,43 @@
+##TITLE=Library Entry 71024
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Isopropyl-2-carbethoxyazetidine
+##MOLFORM=C9H17NO2
+##CAS REGISTRY NO=54773-08-9
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         53
+    28        596
+    29        109
+    30         11
+    39         22
+    41         98
+    42         92
+    43        501
+    44         53
+    45        106
+    46          7
+    55         34
+    56        876
+    57         53
+    58         31
+    59         34
+    70         59
+    71          4
+    98        999
+    99         46
+   100          5
+   128         34
+   142         34
+   156        106
+   157         17
+   171        106
+   172         11
+   173          1

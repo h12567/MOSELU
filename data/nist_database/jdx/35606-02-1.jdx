@@ -1,0 +1,47 @@
+##TITLE=Library Entry 19950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-[2-(1,1-dimethylethyl)cyclopropyl]-2,2-dimethyl-,
+ trans-
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=35606-02-1
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    55        999
+    56         50
+    57        550
+    58         30
+    67         50
+    69        150
+    70        310
+    71         30
+    79         10
+    81         20
+    82         20
+    83        130
+    84         10
+    85         30
+    90         30
+    97        100
+    99         30
+   107         30
+   109         20
+   110         30
+   111         20
+   113         60
+   125        280
+   126         30
+   127         60
+   130         30
+   150         30
+   167         30
+   169         10
+   170         30
+   182         30

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 227
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. COHEN F.M.C. CORPORATION, PRINCETON, N.J., USA
+##NAMES=HP
+##CAS NAME=Sulfur diimide, dimethyl-
+##MOLFORM=C2H6N2S
+##CAS REGISTRY NO=13849-02-0
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         14
+    14         37
+    15        154
+    26         14
+    27        135
+    28        999
+    29        170
+    30        811
+    31         16
+    32        174
+    33        170
+    34         44
+    35         59
+    42         25
+    43         24
+    45         15
+    46        333
+    47         52
+    48        185
+    49         60
+    50         90
+    58         11
+    59         57
+    60        259
+    61        956
+    62        758
+    63         69
+    64         46
+    73         14
+    74         30
+    75        151
+    90        227
+    91         15
+    92         11

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 53802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4843
+##NAMES=HP
+##CAS NAME=Pyridine-D5-
+##MOLFORM=C5D5N
+##CAS REGISTRY NO=7291-22-7
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    12          1
+    14          2
+    24          1
+    26          7
+    28         58
+    29          1
+    30         22
+    36          3
+    38         19
+    40         22
+    42         62
+    43          1
+    44          1
+    48          2
+    50         22
+    51          1
+    52        122
+    53          3
+    54        197
+    55          7
+    56        529
+    57         20
+    58          1
+    62          1
+    64          1
+    66          3
+    74          1
+    76          5
+    78          5
+    80          2
+    82         77
+    83          5
+    84        999
+    85         59
+    86          2

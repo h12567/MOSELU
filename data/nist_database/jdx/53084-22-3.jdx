@@ -1,0 +1,45 @@
+##TITLE=Library Entry 39651
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Hydroxy-2-carbomethoxyazetidine
+##MOLFORM=C5H9NO3
+##CAS REGISTRY NO=53084-22-3
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15        261
+    16         16
+    18        206
+    19         22
+    27        147
+    28        288
+    29        163
+    30        141
+    31         65
+    39         73
+    41        130
+    42        304
+    43        217
+    44        293
+    45        109
+    46          8
+    55        196
+    56         43
+    59        266
+    60         16
+    72        999
+    73         43
+    87        163
+    88         22
+   101         65
+   102          5
+   114         16
+   131        109
+   132          7
+   133          1

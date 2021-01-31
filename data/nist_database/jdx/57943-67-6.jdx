@@ -1,0 +1,63 @@
+##TITLE=Library Entry 77231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Nonanoic acid, 2-phenylethyl ester
+##MOLFORM=C17H26O2
+##CAS REGISTRY NO=57943-67-6
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=1956
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27          6
+    28          2
+    29         13
+    39         10
+    40          2
+    41         37
+    42         11
+    43         40
+    44          2
+    50          2
+    51          8
+    52          2
+    53          3
+    54          2
+    55         31
+    56          7
+    57         45
+    58          2
+    63          3
+    64          1
+    65         13
+    66          1
+    67          4
+    69          6
+    70          3
+    71         42
+    72          2
+    75          1
+    76          1
+    77         28
+    78         16
+    79         26
+    81          6
+    83          2
+    89          2
+    90          1
+    91         24
+    92          4
+    97          2
+    98          2
+   102          2
+   103         27
+   104        999
+   105        257
+   106         19
+   123          2
+   141         25
+   142          3

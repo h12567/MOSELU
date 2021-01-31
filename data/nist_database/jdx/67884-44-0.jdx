@@ -1,0 +1,43 @@
+##TITLE=Library Entry 3160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(17)5512(1978); B. M. TROST ET AL.
+##NAMES=HP
+##CAS NAME=4-Hexenoic acid, 6-hydroxy-4-methyl-, methyl ester, (Z)-
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=67884-44-0
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        660
+    40        160
+    41        999
+    42        140
+    43        570
+    44        320
+    50        130
+    51        200
+    52        100
+    53        290
+    54        140
+    55        490
+    56        540
+    65        110
+    67        680
+    69        380
+    71        180
+    77        100
+    79        130
+    81        120
+    82        110
+    83        210
+    84        100
+    91        130
+    98        490
+    99        100
+   111        290
+   126        100

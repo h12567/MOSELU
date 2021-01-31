@@ -1,0 +1,39 @@
+##TITLE=Library Entry 55656
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Ethanaminium, N,N,N-triethyl-, iodide
+##MOLFORM=C8H20IN
+##CAS REGISTRY NO=68-05-3
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26         69
+    27        456
+    28        156
+    29        774
+    30        404
+    41         34
+    42        127
+    43         34
+    44        144
+    56         63
+    57         17
+    58        346
+    59         28
+    70         23
+    72         34
+    86        999
+    87         57
+   100         63
+   101        179
+   102         17
+   127         80
+   128         34
+   156        502
+   157         17

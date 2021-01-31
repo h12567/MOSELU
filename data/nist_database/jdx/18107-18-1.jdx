@@ -1,0 +1,71 @@
+##TITLE=Library Entry 8126
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=(Trimethylsilyl)diazomethane
+##MOLFORM=C4H10N2Si
+##CAS REGISTRY NO=18107-18-1
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          5
+    15         14
+    18          0
+    26         11
+    27         25
+    28         99
+    29        110
+    30         13
+    31         58
+    32          4
+    39          7
+    40          2
+    41         26
+    42         83
+    43        999
+    44         86
+    45        289
+    46         17
+    47         10
+    49         23
+    52          5
+    53         82
+    54         27
+    55         91
+    56         16
+    57         17
+    58        749
+    59        267
+    60         43
+    61          9
+    63          4
+    65         12
+    66         15
+    67         14
+    68          4
+    69         33
+    70         12
+    71         76
+    72          8
+    73        152
+    74         12
+    75          6
+    77          1
+    79         22
+    81          8
+    84         10
+    85         50
+    86          5
+    99        342
+   100         31
+   101         13
+   107          2
+   114        399
+   115         39
+   116         15

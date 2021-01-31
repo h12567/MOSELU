@@ -1,0 +1,41 @@
+##TITLE=Library Entry 49985
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,4-Heptadiene
+##MOLFORM=C7H12
+##CAS REGISTRY NO=5675-22-9
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=710
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    26         56
+    27        310
+    28         98
+    29        131
+    38         82
+    39        679
+    40        112
+    41        532
+    42         54
+    50         71
+    51        127
+    52         61
+    53        340
+    54        954
+    55        520
+    63         46
+    65        211
+    66         90
+    67        706
+    68        111
+    77        114
+    79        349
+    81        999
+    82         63
+    95         46
+    96        300

@@ -1,0 +1,92 @@
+##TITLE=Library Entry 11801
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4,6-Diamino-5-[acetoxyacetamido]pyrimidine
+##MOLFORM=C8H11N5O3
+##CAS REGISTRY NO=53130-88-4
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         40
+    45         42
+    47          2
+    49          8
+    51          5
+    53         90
+    54         98
+    55         70
+    56         11
+    57          2
+    58          1
+    59          1
+    60          2
+    61          1
+    64          0
+    65          3
+    66          7
+    67         13
+    68          9
+    70        101
+    71         65
+    73         55
+    74          1
+    77          1
+    78          2
+    80         13
+    81         17
+    82         10
+    83          5
+    84          3
+    86          3
+    88          0
+    92          0
+    93          0
+    94          2
+    95          0
+    97        107
+    98         51
+    99          2
+   101         25
+   102          1
+   107         16
+   108         15
+   109          4
+   110         10
+   111          1
+   119          1
+   121          1
+   122          3
+   124        125
+   125        245
+   126         21
+   127          1
+   136         34
+   137          9
+   138          2
+   148          1
+   149          1
+   152        220
+   153         11
+   154          1
+   164          3
+   165          8
+   166          1
+   167         12
+   168          2
+   183         62
+   184          9
+   185          1
+   194          6
+   207          0
+   223          1
+   225        121
+   226         13
+   227          0

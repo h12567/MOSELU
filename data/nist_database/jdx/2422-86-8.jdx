@@ -1,0 +1,26 @@
+##TITLE=Library Entry 60451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.LIFSHITZ DEPT. PHYS. CHEM., HEBREW UNIV., JERUSALEM,
+ ISRAEL
+##NAMES=HP
+##CAS NAME=Bicyclo[3.2.0]hepta-2,6-diene
+##MOLFORM=C7H8
+##CAS REGISTRY NO=2422-86-8
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    27         33
+    39        143
+    40         40
+    50         33
+    51         55
+    63         44
+    65        129
+    66        140
+    91        999
+    92        349

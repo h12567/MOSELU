@@ -1,0 +1,67 @@
+##TITLE=Library Entry 5020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-(Diethylamino)acetonitrile
+##MOLFORM=C6H12N2
+##CAS REGISTRY NO=3010-02-4
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=912
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         10
+    15         65
+    16          1
+    18         11
+    26         44
+    27        214
+    28        241
+    29        136
+    30         73
+    37          2
+    38          8
+    39         26
+    40        111
+    41         93
+    42        999
+    43         22
+    44         14
+    50          1
+    51          4
+    52         12
+    53         11
+    54         50
+    55         28
+    56        223
+    57         31
+    58         27
+    66          9
+    67         49
+    69        433
+    70         42
+    71          4
+    72          4
+    79          1
+    80          1
+    81          5
+    82          3
+    83         12
+    84         20
+    85          7
+    86         51
+    87          3
+    93          1
+    94          1
+    95          4
+    97        922
+    98         52
+    99          1
+   111         37
+   112        170
+   113         12

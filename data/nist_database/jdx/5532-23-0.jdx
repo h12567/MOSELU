@@ -1,0 +1,62 @@
+##TITLE=Library Entry 100224
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. SCHMID, INST. TOXIKOL., UNIV. ZURICH, SCHWERZENBACH,
+ SWITZ.
+##NAMES=HP
+##CAS NAME=Jacozine
+##MOLFORM=C18H23NO6
+##CAS REGISTRY NO=5532-23-0
+##MP= -300
+##BP= -300
+##MW= 349
+##$RETENTION INDEX=2463
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        171
+    43        469
+    53        164
+    55        112
+    67        108
+    80        257
+    93        851
+    94        610
+    95        556
+   106        137
+   108         81
+   118        131
+   119        999
+   120        983
+   121        251
+   122        181
+   123         65
+   136        275
+   138        256
+   151         33
+   152         13
+   166          8
+   167          6
+   178          6
+   190          5
+   204          5
+   209         13
+   220         23
+   222         19
+   234          6
+   236          3
+   244          9
+   248          3
+   260          6
+   262         18
+   272         11
+   273          2
+   288          5
+   290         23
+   304          5
+   305          5
+   316          3
+   331          1
+   334          1
+   349         16
+   350          2

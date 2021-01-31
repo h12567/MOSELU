@@ -1,0 +1,62 @@
+##TITLE=Library Entry 38451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Methylcycloheptanol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=3761-94-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1009
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         35
+    18         12
+    26         15
+    27        138
+    28         97
+    29         90
+    31         23
+    39        179
+    40         40
+    41        242
+    42         66
+    43        455
+    44         18
+    45         41
+    50         11
+    51         29
+    52         12
+    53         70
+    54         55
+    55        105
+    56         34
+    57         68
+    58        280
+    59         67
+    65         20
+    67        193
+    68        138
+    69         80
+    71        999
+    72         94
+    77         20
+    79         30
+    80         12
+    81         84
+    82         56
+    85        118
+    86         41
+    91         10
+    93         14
+    95        194
+    96         16
+    99         31
+   110         53
+   111         10
+   113        164
+   114         12
+   128         12

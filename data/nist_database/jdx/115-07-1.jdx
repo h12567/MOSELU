@@ -1,0 +1,39 @@
+##TITLE=Library Entry 2116
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propene
+##MOLFORM=C3H6
+##CAS REGISTRY NO=115-07-1
+##MP= -300
+##BP= -300
+##MW= 42
+##$RETENTION INDEX=289
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+     1         32
+     2          4
+    12          9
+    13         14
+    14         34
+    15         55
+    16          2
+    19         22
+    20         18
+    21          1
+    24          3
+    25         18
+    26        105
+    27        387
+    28         14
+    36         18
+    37        127
+    38        194
+    39        725
+    40        291
+    41        999
+    42        703
+    43         23
+    44          1

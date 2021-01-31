@@ -1,0 +1,52 @@
+##TITLE=Library Entry 76415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane, (2-ethoxycyclohexyl)trimethyl-
+##MOLFORM=C11H24OSi
+##CAS REGISTRY NO=54889-64-4
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41         50
+    43         50
+    44         20
+    45        100
+    47         20
+    53         30
+    54        120
+    55         30
+    57         50
+    58         20
+    59        130
+    61         30
+    67        530
+    68         30
+    72         30
+    73        650
+    74         70
+    75        230
+    76         20
+    77         20
+    79         20
+    80         10
+    81         80
+    82        480
+    83         30
+    85         30
+    91         30
+   103        999
+   104        100
+   105         50
+   113         30
+   117         30
+   119        320
+   120         40
+   156         40
+   171         20
+   185         30

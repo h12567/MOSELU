@@ -1,0 +1,52 @@
+##TITLE=Library Entry 54590
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2H-Pyran, tetrahydro-2-methyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=10141-72-7
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=838
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         19
+    26         30
+    27        150
+    28         41
+    29        136
+    30          9
+    31         23
+    38         24
+    39        191
+    40         76
+    41        533
+    42        169
+    43        517
+    44         66
+    45        137
+    50         14
+    51         17
+    52         10
+    53         42
+    54         30
+    55        219
+    56        291
+    57        156
+    58         12
+    59         44
+    67        160
+    68         11
+    70         21
+    71          7
+    72         14
+    81         14
+    83          7
+    85        999
+    86         55
+    99         34
+   100        193
+   101         15

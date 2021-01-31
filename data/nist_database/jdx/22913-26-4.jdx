@@ -1,0 +1,41 @@
+##TITLE=Library Entry 88659
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Thiophenecarboxylic acid, methyl ester
+##MOLFORM=C6H6O2S
+##CAS REGISTRY NO=22913-26-4
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    28          5
+    29         10
+    31          3
+    37          7
+    38         18
+    39        190
+    40          3
+    44          4
+    45         38
+    50          5
+    53          3
+    57         15
+    58          2
+    59          4
+    81         12
+    82         16
+    83         92
+    84          9
+    85          2
+    97          8
+   111        999
+   112         37
+   113         27
+   142        241
+   143         15
+   144          8

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 29574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Pentanol
+##MOLFORM=C5H12O
+##CAS REGISTRY NO=584-02-1
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=690
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          0
+    14          5
+    15         23
+    17          0
+    18          0
+    19          4
+    25          2
+    26         32
+    27        144
+    28         45
+    29        145
+    30          0
+    31        433
+    32          5
+    33          2
+    37          3
+    38         10
+    39         62
+    40          2
+    41        256
+    42         38
+    43         65
+    44         12
+    45         30
+    46          1
+    49          1
+    50          4
+    51          4
+    52          1
+    53          8
+    54          1
+    55         33
+    56          1
+    57         71
+    58        116
+    59        999
+    60         32
+    61          3
+    62          1
+    63          0
+    65          0
+    67          0
+    69          2
+    70          3
+    71          3
+    86          0
+    87          4
+    88          1

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 76448
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. BIRKOFER
+##NAMES=HP
+##CAS NAME=L-Serine, N-(trifluoroacetyl)-O-(trimethylsilyl)-, trimethylsilyl
+ ester
+##MOLFORM=C11H22F3NO4Si2
+##CAS REGISTRY NO=52558-12-0
+##MP= -300
+##BP= -300
+##MW= 345
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    43         15
+    73        725
+    74         58
+    75         50
+    77         35
+   100         32
+   103        999
+   104        100
+   105         37
+   120         18
+   133         26
+   142         48
+   147        332
+   148         52
+   149         52
+   151         21
+   166         15
+   170         55
+   189         30
+   196         26
+   211        277
+   212        435
+   213         58
+   214         19
+   217         73
+   218         18
+   225         22
+   232         16
+   240        268
+   241         37
+   242         15
+   300         27
+   315        355
+   316         77
+   317         32
+   330        268
+   331         68
+   332         25

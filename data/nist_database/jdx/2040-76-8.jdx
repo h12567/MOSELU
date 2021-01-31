@@ -1,0 +1,58 @@
+##TITLE=Library Entry 99115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Carbamoyl chloride, phenyl-
+##MOLFORM=C7H6ClNO
+##CAS REGISTRY NO=2040-76-8
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26         19
+    27         35
+    28         42
+    29         12
+    35         35
+    36        181
+    37         89
+    38        176
+    39        131
+    40         25
+    41         75
+    42          6
+    43         11
+    44          5
+    45          6
+    49         15
+    50         74
+    51         84
+    52         48
+    55          9
+    56          7
+    57         14
+    60          8
+    61         33
+    62         49
+    63        160
+    64        377
+    65         81
+    73          7
+    74         24
+    75         15
+    76         20
+    77         21
+    87          8
+    88          9
+    90         35
+    91        669
+    92         51
+   104          5
+   105          4
+   119        999
+   120         89
+   121          8

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 33968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Thomas J.Bruno
+##NAMES=HP
+##CAS NAME=n-Heptafluoropropyl bromide
+##MOLFORM=C3BrF7
+##CAS REGISTRY NO=422-85-5
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    31        952
+    50        370
+    69        999
+    79        139
+    81        157
+    93         48
+   100        353
+   112         32
+   129        432
+   131        437
+   169        862
+   229         32
+   231         30
+   248         21
+   250         21

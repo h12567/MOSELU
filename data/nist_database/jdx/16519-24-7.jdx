@@ -1,0 +1,42 @@
+##TITLE=Library Entry 23440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Heptane, 1-(2-propenyloxy)-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=16519-24-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        120
+    40         20
+    41        930
+    42        180
+    43        570
+    44         20
+    45         10
+    53         10
+    54         20
+    55        260
+    56        160
+    57        999
+    58        530
+    59         40
+    67         10
+    68         20
+    69        120
+    70        150
+    71        160
+    83         20
+    96         10
+    97         20
+    98         80
+    99         10
+   127         40
+   156          1

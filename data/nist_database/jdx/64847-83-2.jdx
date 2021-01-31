@@ -1,0 +1,45 @@
+##TITLE=Library Entry 12070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-propane-2,2-diol diethanoate
+##MOLFORM=C13H16O4
+##CAS REGISTRY NO=64847-83-2
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    39         40
+    41         19
+    42         30
+    43        999
+    44         40
+    45         20
+    51         10
+    52         30
+    55         10
+    57         20
+    60         20
+    63         29
+    65         99
+    77         19
+    89         20
+    90         10
+    91        270
+    92        110
+    93         10
+   103        140
+   105         19
+   115         19
+   116         19
+   117         19
+   119          9
+   134        279
+   135        149
+   145         29
+   176         29
+   177         19

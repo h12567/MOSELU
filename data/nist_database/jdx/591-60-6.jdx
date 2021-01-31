@@ -1,0 +1,35 @@
+##TITLE=Library Entry 7526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-oxo-, butyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=591-60-6
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1104
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        180
+    28        100
+    29        210
+    39         70
+    41        380
+    42        200
+    43        999
+    44        160
+    55         70
+    56        760
+    57        250
+    58        100
+    60        100
+    69        200
+    84        250
+    85        350
+   103        300
+   116         30
+   143         20
+   158         40

@@ -1,0 +1,23 @@
+##TITLE=Library Entry 83237
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Hydroxy-acetophenone pyridin-4-ylcarbonyl hydrazone
+##MOLFORM=C14H13N3O2
+##CAS REGISTRY NO=789-81-1
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    78        150
+   106        999
+   132         50
+   134         70
+   149         59
+   151         70
+   240        189
+   255        260

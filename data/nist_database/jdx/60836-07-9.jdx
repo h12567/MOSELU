@@ -1,0 +1,63 @@
+##TITLE=Library Entry 52664
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Heptanol, 2,4,6-trimethyl-
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=60836-07-9
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27        122
+    28         66
+    29         85
+    31         11
+    32         10
+    39        209
+    40         54
+    41        505
+    42         60
+    43        437
+    44         21
+    45         63
+    50          9
+    51         32
+    52         17
+    53         91
+    54          9
+    55        553
+    56        336
+    57        323
+    58         73
+    59        210
+    65         40
+    66         16
+    67        136
+    68         16
+    69        627
+    70        118
+    71         29
+    77         43
+    78          9
+    79         49
+    80         10
+    81         59
+    82          9
+    83        999
+    84        155
+    85         38
+    91         17
+    97         31
+    98         14
+   101        526
+   102         33
+   109         11
+   125         12
+   140        129
+   141         13
+   143         27

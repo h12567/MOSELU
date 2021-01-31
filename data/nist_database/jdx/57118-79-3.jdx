@@ -1,0 +1,58 @@
+##TITLE=Library Entry 79994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Cohen, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3-Butenylamine, 3,4-dibenzoylamino-N-benzoyl-
+##MOLFORM=C25H23N3O3
+##CAS REGISTRY NO=57118-79-3
+##MP= -300
+##BP= -300
+##MW= 413
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41          3
+    43          4
+    44          6
+    50          8
+    51         41
+    72          4
+    76         13
+    77        357
+    78         29
+    79          2
+    81          6
+    82          2
+    83          7
+    84          7
+    91          3
+   104         12
+   105        999
+   106         77
+   107          2
+   119         21
+   122          7
+   123          7
+   134          8
+   157         33
+   158         28
+   159         18
+   170        145
+   171        190
+   172         25
+   173          7
+   175         16
+   176          2
+   186          5
+   187         47
+   188          8
+   279         20
+   280         28
+   281          2
+   292        247
+   293         53
+   294          3
+   413         84
+   414         23

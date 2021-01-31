@@ -1,0 +1,52 @@
+##TITLE=Library Entry 76331
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hexane, 1,1-diethoxy-
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=3658-93-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1092
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15          4
+    19         12
+    27         70
+    29        207
+    30         11
+    31         42
+    39         18
+    40          1
+    41         97
+    42         18
+    43         96
+    44         68
+    45         54
+    47        442
+    55        284
+    56         23
+    57        125
+    58         11
+    59         52
+    67          8
+    71         19
+    72         37
+    73         10
+    75        376
+    76         13
+    83        365
+    84         22
+    85         64
+    88          7
+    89          7
+    99         13
+   101         27
+   103        999
+   117          8
+   129        420
+   145          3
+   173          5

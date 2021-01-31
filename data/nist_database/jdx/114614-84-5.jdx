@@ -1,0 +1,50 @@
+##TITLE=Library Entry 19455
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-Cyclohexylnonene
+##MOLFORM=C15H28
+##CAS REGISTRY NO=114614-84-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        180
+    40         50
+    41        700
+    42        130
+    43        450
+    44         70
+    53         79
+    54        200
+    55        999
+    56        200
+    57        443
+    67        500
+    68        207
+    69        357
+    70        114
+    71        129
+    72         50
+    77         64
+    79         93
+    81        379
+    82        386
+    83        493
+    84         57
+    85         64
+    91         86
+    95        250
+    96        536
+    97        286
+    99         86
+   105         43
+   109        243
+   110         64
+   208         57
+   209          9
+   210          1

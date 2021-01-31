@@ -1,0 +1,66 @@
+##TITLE=Library Entry 91072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Thiophene, 2-formyl-2,3-dihydro-
+##MOLFORM=C5H6OS
+##CAS REGISTRY NO=290354-70-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=1080
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    25          6
+    26         40
+    27         55
+    33          5
+    34          5
+    37          9
+    38          2
+    39          9
+    41         15
+    46          1
+    47          5
+    49          4
+    50         10
+    51         19
+    52         11
+    53         68
+    54         18
+    55        106
+    56          4
+    57         54
+    58        125
+    59        221
+    60        173
+    61         23
+    62         11
+    63          5
+    68          7
+    69         21
+    70         10
+    71         43
+    72          5
+    80          9
+    81         33
+    82          5
+    83          3
+    84          4
+    85        147
+    86         63
+    87         83
+    88          5
+    93          3
+    96         12
+    97         61
+    98          6
+    99         15
+   109          4
+   112         10
+   113        890
+   114        999
+   115         98
+   116         33

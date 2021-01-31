@@ -1,0 +1,47 @@
+##TITLE=Library Entry 29564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pentane, 1-ethoxy-
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=17952-11-3
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=760
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    29        524
+    30         29
+    31        940
+    32         19
+    33          9
+    38          9
+    39        138
+    40         29
+    41        326
+    42        257
+    43        346
+    44         39
+    45         79
+    47        138
+    50          9
+    51          9
+    53         19
+    54          9
+    55        148
+    56         29
+    57         29
+    58          9
+    59        999
+    60         39
+    61          9
+    69         49
+    70        346
+    71        138
+    72          9
+    73         29
+   116         29

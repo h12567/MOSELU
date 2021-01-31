@@ -1,0 +1,52 @@
+##TITLE=Library Entry 82866
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Urea, 1-methyl-1-phenyl-
+##MOLFORM=C8H10N2O
+##CAS REGISTRY NO=4559-87-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        131
+    30        132
+    38        140
+    39        440
+    42         75
+    44        407
+    50        234
+    51        587
+    52        172
+    57         52
+    62         63
+    63        200
+    64        161
+    65        337
+    66        215
+    74         88
+    76         75
+    77        850
+    78        342
+    79        269
+    80         36
+    90         40
+    91         99
+    92         78
+    93         38
+    94         40
+   104         18
+   105        122
+   106        999
+   107        925
+   108        166
+   119         31
+   134         28
+   149         17
+   150        869
+   151        198
+   152         14

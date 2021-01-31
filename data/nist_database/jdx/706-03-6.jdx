@@ -1,0 +1,86 @@
+##TITLE=Library Entry 61760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1269
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-[(phenylmethyl)amino]-
+##MOLFORM=C10H12N2
+##CAS REGISTRY NO=706-03-6
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15          1
+    26         10
+    27          9
+    28         29
+    29          3
+    30         13
+    37          1
+    38          6
+    39         34
+    40         11
+    41         29
+    42         37
+    43          5
+    44          1
+    45          2
+    50         14
+    51         37
+    52         24
+    53         20
+    54         31
+    55          6
+    56          2
+    58          7
+    59          3
+    60         12
+    61          1
+    62          6
+    63         21
+    64          6
+    65         87
+    66          5
+    69          2
+    74          3
+    75          3
+    76          6
+    77         35
+    78         18
+    79         25
+    80          2
+    81          9
+    82          1
+    83         34
+    84          2
+    86          1
+    87          1
+    89         24
+    90         11
+    91        999
+    92         93
+    93          4
+   103         15
+   104         19
+   105          6
+   106         57
+   107         31
+   108          2
+   116          1
+   117          8
+   118         70
+   119         24
+   120        392
+   121         36
+   122          1
+   130          5
+   131          1
+   132          3
+   133          1
+   158          1
+   159         42
+   160         37
+   161          4

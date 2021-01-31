@@ -1,0 +1,44 @@
+##TITLE=Library Entry 16476
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=2,5-Dimethoxy-4-ethoxyamphetamine
+##MOLFORM=C13H21NO3
+##CAS REGISTRY NO=16128-88-4
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    42         16
+    44        999
+    45         15
+    53         12
+    65         11
+    66         11
+    69         23
+    77         20
+    79         10
+    91         23
+    94          8
+   107         10
+   122         25
+   125          4
+   137         90
+   138          3
+   139         20
+   153        198
+   154          5
+   165          4
+   167        139
+   168         65
+   181         52
+   196        789
+   197         77
+   210          0
+   220          1
+   239         27
+   240          0

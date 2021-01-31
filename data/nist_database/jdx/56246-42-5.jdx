@@ -1,0 +1,62 @@
+##TITLE=Library Entry 52192
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. CLERC
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-methyl-, 1a,2,4,4a,5,9-hexahydro-4,4a,6-trimet
+hyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-5-yl ester
+##MOLFORM=C20H26O4
+##CAS REGISTRY NO=56246-42-5
+##MP= -300
+##BP= -300
+##MW= 330
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    31         43
+    39        165
+    40         26
+    41        321
+    42         43
+    43        321
+    45         43
+    51         34
+    52         17
+    53        113
+    55        686
+    63          8
+    65         43
+    67         86
+    69         69
+    71         43
+    77         69
+    79         78
+    81         78
+    83        999
+    85         43
+    91         95
+    93         43
+    95         69
+   105         43
+   107         60
+   108         43
+   109         86
+   115         34
+   117         26
+   119         26
+   123         86
+   126         43
+   145         52
+   147         26
+   159         52
+   161         43
+   162         52
+   173         60
+   174         52
+   188        104
+   201        121
+   213         43
+   215         17
+   230        165
+   330          8

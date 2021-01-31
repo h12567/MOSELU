@@ -1,0 +1,49 @@
+##TITLE=Library Entry 48811
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Bromazepam-3-hydroxy
+##MOLFORM=C14H10BrN3O2
+##CAS REGISTRY NO=13132-73-5
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=2548
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    11         21
+    44        249
+    51        301
+    52        326
+    63        149
+    76        197
+    78        896
+    79        999
+    90        127
+   105        449
+   152         39
+   168         30
+   179        199
+   194         29
+   195         29
+   224          9
+   225         69
+   234         89
+   260         49
+   261         49
+   262         30
+   274        100
+   276         99
+   284         94
+   286         89
+   288         89
+   302        280
+   303        270
+   304        349
+   305        288
+   314        279
+   316        278
+   331        199
+   333        190

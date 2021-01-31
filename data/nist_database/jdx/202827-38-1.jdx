@@ -1,0 +1,71 @@
+##TITLE=Library Entry 68770
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=Imidazole-4-carboxamide, 5-hydrazinocarbonyl-N-(4-nitrophenyl)-
+##MOLFORM=C11H10N6O4
+##CAS REGISTRY NO=202827-38-1
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    50         11
+    51          7
+    52         13
+    64         21
+    65         49
+    66         10
+    67        103
+    68        175
+    69         30
+    70          3
+    71          2
+    75          8
+    76         21
+    91         11
+    92         44
+    93         15
+    94         62
+    95        999
+    96         54
+    97          2
+    98          1
+   107          8
+   108         37
+   109         14
+   119          3
+   120         19
+   121         86
+   122         55
+   123         24
+   124          1
+   138        142
+   139         67
+   140          3
+   141          1
+   152        308
+   153         54
+   154          2
+   184          1
+   185         14
+   186          3
+   188         37
+   189          2
+   212          3
+   213         10
+   231          6
+   232        246
+   233         31
+   234          1
+   241         14
+   242          2
+   259         20
+   275          7
+   276         18
+   289          2
+   290        190
+   291         26

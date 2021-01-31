@@ -1,0 +1,51 @@
+##TITLE=Library Entry 64875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4-Benzylaminophenyl-4-morpholinophenyl sulfone
+##MOLFORM=C23H24N2O3S
+##CAS REGISTRY NO=22952-05-2
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    51         29
+    63          6
+    65         79
+    69         28
+    76         39
+    77         93
+    78         37
+    90         17
+    91        999
+    92         85
+   103         30
+   104         69
+   105         43
+   120         75
+   131         33
+   132         16
+   140          6
+   152        157
+   153         16
+   168         25
+   178         27
+   180         27
+   181         32
+   195         43
+   210         17
+   253        111
+   254          7
+   263         33
+   321         34
+   349          6
+   350         78
+   351         14
+   408        255
+   409         53
+   410          6

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 18217
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,2,3,3,4,4,5,5-Octafluoropentanal
+##MOLFORM=C5H2F8O
+##CAS REGISTRY NO=2648-47-7
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    44        242
+    45         69
+    51        999
+    52         11
+    69        278
+    70          3
+    82        178
+    83         11
+    93         40
+   100        181
+   101        303
+   102         19
+   113        274
+   114         19
+   131        577
+   132         30
+   151        107
+   152         11
+   163         56
+   164          9
+   182        285
+   183         19

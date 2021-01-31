@@ -1,0 +1,32 @@
+##TITLE=Library Entry 46760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-(Phenylsulfonylamino)-4,5-dimethyl-triazole
+##MOLFORM=C10H12N4O2S
+##CAS REGISTRY NO=36289-51-7
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    53        289
+    54        181
+    55         49
+    56        118
+    66         39
+    68        695
+    69         19
+    77        999
+    83         80
+    97        150
+   111          5
+   125         80
+   126         39
+   141         90
+   157         69
+   159          2
+   225          3

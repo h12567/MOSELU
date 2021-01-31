@@ -1,0 +1,37 @@
+##TITLE=Library Entry 1869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Cyclohexene-1-thione, 3,6,6-trimethyl-
+##MOLFORM=C9H14S
+##CAS REGISTRY NO=38693-71-9
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        999
+    41        639
+    45        450
+    51        310
+    53        350
+    55        250
+    58        480
+    59        220
+    65        310
+    67        200
+    77        440
+    79        390
+    82        350
+    91        440
+    93        220
+    97        460
+    98        789
+   105        330
+   111        230
+   126        499
+   139        280
+   154        390

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 109658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4680
+##NAMES=HP
+##CAS NAME=Benzene, 1-chloro-2-(chloromethyl)-
+##MOLFORM=C7H6Cl2
+##CAS REGISTRY NO=611-19-8
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    26          5
+    27          5
+    28          1
+    35          5
+    36         15
+    37         10
+    38         17
+    39         50
+    40          4
+    41          1
+    43         13
+    44         29
+    45          3
+    47          2
+    48          1
+    49          8
+    50         25
+    51         25
+    52          3
+    60          4
+    61         16
+    62         63
+    63         99
+    64         17
+    65          9
+    72          3
+    73         28
+    74          7
+    75         14
+    76          2
+    77          2
+    78          1
+    79          1
+    80          2
+    81          1
+    84          3
+    85          7
+    86          9
+    87          9
+    88          4
+    89        178
+    90         45
+    91          7
+    96          1
+    97          8
+    98          1
+    99         51
+   100          2
+   101         16
+   102          1
+   111          1
+   123          9
+   124         11
+   125        999
+   126         83
+   127        312
+   128         24
+   133          2
+   135          1
+   159         22
+   160        188
+   161         29
+   162        122
+   163         11
+   164         19
+   165          1

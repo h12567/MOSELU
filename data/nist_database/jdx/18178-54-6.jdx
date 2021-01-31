@@ -1,0 +1,60 @@
+##TITLE=Library Entry 2095
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MALMBERG, DEP. CHEM., UNIV. AGRIC. SCI., UPPSALA, SW
+EDEN
+##NAMES=HP
+##CAS NAME=Rishitin
+##MOLFORM=C14H22O2
+##CAS REGISTRY NO=18178-54-6
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    31        930
+    39        600
+    41        999
+    43        360
+    44         70
+    51        190
+    53        340
+    55        430
+    65        220
+    67        340
+    68        110
+    69        160
+    77        390
+    79        490
+    81        210
+    91        810
+    93        440
+    95        210
+   105        600
+   106        220
+   107        400
+   108        160
+   109        110
+   115        150
+   117        350
+   119        670
+   121        340
+   128        160
+   129        120
+   131        470
+   133        380
+   143        890
+   145        210
+   159         70
+   161        480
+   191         50
+   202         50
+   203         50
+   204        330
+   205         60
+   220         50
+   221         50
+   222         50
+   223         10

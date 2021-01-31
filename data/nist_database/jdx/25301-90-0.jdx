@@ -1,0 +1,52 @@
+##TITLE=Library Entry 39920
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.R.PRINCE, INDIANA UNIV., BLOOMINGTON, IND., USA
+##NAMES=HP
+##CAS NAME=1-Carbahexaborane(7)
+##MOLFORM=CH7B5
+##CAS REGISTRY NO=25301-90-0
+##MP= -300
+##BP= -300
+##MW= 74
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    10         10
+    11         40
+    13         10
+    28         20
+    34         10
+    35         20
+    36         20
+    37         20
+    43         10
+    44         10
+    45         10
+    46         20
+    47         30
+    48         30
+    49         20
+    54         10
+    55         40
+    56         80
+    57         90
+    58         80
+    59         80
+    60         50
+    61         30
+    62         30
+    63         30
+    64         30
+    65         30
+    66        120
+    67        260
+    68        390
+    69        430
+    70        650
+    71        910
+    72        999
+    73        800
+    74        590
+    75         10

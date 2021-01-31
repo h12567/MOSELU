@@ -1,0 +1,69 @@
+##TITLE=Library Entry 10736
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.Holotik ET AL.,Chromatogr.,9,443(1976)
+##NAMES=HP
+##CAS NAME=4-Dodecanol, acetate
+##MOLFORM=C14H28O2
+##CAS REGISTRY NO=60826-25-7
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    39         26
+    41        141
+    42         55
+    43        999
+    44         44
+    45         22
+    53         12
+    54         33
+    55        268
+    56        190
+    57        201
+    58        102
+    59         50
+    61         34
+    67         62
+    68         66
+    69        320
+    70        188
+    71         86
+    72         19
+    81         57
+    82         77
+    83        214
+    84        125
+    85         55
+    86         16
+    87        127
+    88         12
+    95         44
+    96         68
+    97        151
+    98         68
+    99         15
+   101        383
+   102         27
+   109         22
+   110         59
+   111        129
+   112         50
+   113         13
+   115        239
+   116         18
+   123         12
+   124         24
+   125        145
+   126         40
+   129         47
+   130         22
+   139         20
+   140         33
+   143         12
+   168         71
+   169         17
+   185         12

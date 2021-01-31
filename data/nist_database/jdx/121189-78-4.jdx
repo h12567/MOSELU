@@ -1,0 +1,25 @@
+##TITLE=Library Entry 82642
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(Pyridin-3-ylcarbonylamido)-benzothiazole
+##MOLFORM=C13H9N3OS
+##CAS REGISTRY NO=121189-78-4
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    51        300
+    78        956
+   106        999
+   108         36
+   150         25
+   177         26
+   227        128
+   255        361
+   256         66
+   257         21

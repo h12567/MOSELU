@@ -1,0 +1,87 @@
+##TITLE=Library Entry 62388
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzylsulfonamide, N-tert-butyl-
+##MOLFORM=C11H17NO2S
+##CAS REGISTRY NO=51270-35-0
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    33          0
+    34          0
+    36          0
+    37          0
+    38          2
+    39         31
+    40         10
+    41         37
+    42         42
+    43          3
+    44          1
+    45          0
+    48          0
+    50          2
+    51         10
+    52          4
+    53          1
+    54          0
+    55          3
+    57         49
+    58          2
+    59          0
+    60          0
+    62          2
+    63         13
+    64          6
+    65         84
+    66          3
+    69          0
+    70          2
+    71          0
+    72          1
+    74          0
+    76          1
+    77          4
+    78          1
+    79          3
+    84          0
+    86          0
+    87          0
+    89         20
+    91        999
+    92         69
+    93          2
+   103          0
+   104          1
+   105          3
+   106          6
+   107          6
+   108          1
+   109          0
+   121          3
+   122          0
+   125          0
+   131          0
+   132          0
+   146          1
+   148        288
+   149         33
+   150          1
+   154          0
+   162          0
+   163          2
+   178          0
+   180          0
+   211          0
+   212         83
+   213         10
+   214          5
+   215          0
+   227          6
+   228          1

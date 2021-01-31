@@ -1,0 +1,68 @@
+##TITLE=Library Entry 11121
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SELVA, C.N.R., IST. CHIM. POLITEC., MILAN, IT
+##NAMES=HP
+##CAS NAME=1-Acetoxy-4-phenylthio-2-butanone
+##MOLFORM=C12H14O3S
+##CAS REGISTRY NO=61955-92-8
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15         50
+    18         40
+    27         10
+    28         80
+    29         30
+    39         80
+    41         10
+    42         30
+    43        999
+    44         20
+    45        160
+    50         30
+    51         90
+    55        210
+    56         10
+    58         10
+    59         30
+    65        110
+    66        120
+    68         20
+    69         50
+    71         10
+    73         50
+    74         10
+    77         90
+    78         20
+    79         10
+    84         40
+    86        100
+    87         30
+    91         15
+   108         20
+   109        230
+   110        400
+   111         40
+   112         20
+   123        390
+   124         30
+   125         20
+   135         30
+   136         50
+   137        190
+   138         20
+   139         10
+   165         60
+   166         10
+   168         30
+   178         10
+   196         80
+   197         10
+   238        220
+   239         30
+   240         10

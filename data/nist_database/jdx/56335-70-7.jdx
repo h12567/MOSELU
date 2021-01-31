@@ -1,0 +1,38 @@
+##TITLE=Library Entry 33053
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclobutane, 1-ethyl-3-methylene-
+##MOLFORM=C7H12
+##CAS REGISTRY NO=56335-70-7
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27         49
+    28         19
+    29         19
+    39         99
+    40         19
+    41        138
+    42          9
+    51         19
+    52          9
+    53         39
+    54        207
+    55         79
+    56          9
+    66         39
+    67        999
+    68         79
+    76         19
+    78         29
+    81        128
+    95         29
+    96        257
+    97         19

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 58266
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Galactose, O-2,3,4,6-tetra-O-methyl-.beta.-D-glucopyranosyl-(1.
+fwdarw.2)-O-3,4,6-tri-O-methyl-.beta.-D-glucopyranosyl-(1.fwdarw.4)-2,3,5,6-
+tetra-O-methyl-
+##MOLFORM=C29H54O16
+##CAS REGISTRY NO=56248-54-5
+##MP= -300
+##BP= -300
+##MW= 658
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    45        430
+    71        260
+    75        320
+    88        999
+    89        170
+    99         60
+   101        440
+   111        250
+   115         70
+   127        110
+   143         50
+   145         40
+   155        140
+   159         40
+   187        529
+   201         50
+   219         90
+   279         70
+   303          8
+   305          3
+   315          1
+   335         22
+   347          2
+   359        100
+   391        250
+   423        829
+   483         32

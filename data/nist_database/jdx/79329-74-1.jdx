@@ -1,0 +1,31 @@
+##TITLE=Library Entry 4490
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetrazin-3-amine
+##MOLFORM=C2H3N5
+##CAS REGISTRY NO=79329-74-1
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39         17
+    40         75
+    41        228
+    42        999
+    43         43
+    44         28
+    49          6
+    54          3
+    55         17
+    56         13
+    66          5
+    69         55
+    70          5
+    96         11
+    97        110
+    98         11

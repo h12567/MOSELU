@@ -1,0 +1,65 @@
+##TITLE=Library Entry 46683
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Diazene, (4-nitrophenyl)phenyl-, 1-oxide
+##MOLFORM=C12H9N3O3
+##CAS REGISTRY NO=13921-68-1
+##MP= -300
+##BP= -300
+##MW= 243
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    37         34
+    38         57
+    39        170
+    50        227
+    51        545
+    52         91
+    53         11
+    62         95
+    63        273
+    64        193
+    65        118
+    66         11
+    74         57
+    75        159
+    76        159
+    77        999
+    78        170
+    79         45
+    80        170
+    81         11
+    89         18
+    90         68
+    91        227
+    92        182
+    93         34
+   105        352
+   106         23
+   107        136
+   108         34
+   109         23
+   115        136
+   116         11
+   121         11
+   122         68
+   126         11
+   127         27
+   128         11
+   139         45
+   140         34
+   141          5
+   150         23
+   151         18
+   152          5
+   166         23
+   167         23
+   168         57
+   169         18
+   227         18
+   243        375
+   244         45

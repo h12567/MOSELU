@@ -1,0 +1,39 @@
+##TITLE=Library Entry 15643
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. S. KING
+##NAMES=HP
+##CAS NAME=3-Isoxazolecarboperoxoic acid, 5-phenyl-, 1,1-dimethylethyl ester
+##MOLFORM=C14H15NO4
+##CAS REGISTRY NO=35145-87-0
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    38         31
+    39         91
+    41        184
+    42         48
+    43        631
+    44        999
+    50         72
+    51        163
+    56         24
+    57        166
+    58        213
+    59        799
+    60         36
+    74         24
+    76         23
+    78         32
+   106         49
+   116         25
+   142         33
+   145        133
+   172         65
+   205         63
+   217         43
+   261         22

@@ -1,0 +1,73 @@
+##TITLE=Library Entry 10905
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Benzal diacetate
+##MOLFORM=C11H12O4
+##CAS REGISTRY NO=581-55-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=1322
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          3
+    14         13
+    15         98
+    18          3
+    26          3
+    27         13
+    28         20
+    29         10
+    37          1
+    38          5
+    39         21
+    40          2
+    41          5
+    43        999
+    44         22
+    45          5
+    50         51
+    51        123
+    52         25
+    53          4
+    61         10
+    62          3
+    63         10
+    64          2
+    65          3
+    66          1
+    73          1
+    74          7
+    75          6
+    76         16
+    77        246
+    78         49
+    79        133
+    80          8
+    81          1
+    89          6
+    91          1
+    94          1
+    95          3
+   103         11
+   105        606
+   106        125
+   107        422
+   108         34
+   109          2
+   121          1
+   123         40
+   124          8
+   133          2
+   148         27
+   149         67
+   150          7
+   165        141
+   166         60
+   167          4
+   208         28
+   209          3

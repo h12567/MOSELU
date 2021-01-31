@@ -1,0 +1,77 @@
+##TITLE=Library Entry 64682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Benzyl-4,6-dinitro-1,2-benzothiazol-3-one
+##MOLFORM=C14H9N3O5S
+##CAS REGISTRY NO=311788-09-7
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    30        212
+    37          2
+    38          8
+    39         64
+    40          5
+    41         22
+    43          2
+    44          7
+    45         14
+    46         84
+    50         29
+    51         87
+    52         19
+    53          3
+    56          2
+    57          4
+    61         18
+    62         79
+    63         56
+    65        220
+    66         14
+    69         22
+    70          3
+    74         38
+    75         13
+    76         15
+    77         65
+    78         21
+    79          4
+    81          2
+    82          9
+    88          4
+    89         19
+    91        999
+    92         75
+    93         11
+    94          3
+   104         14
+   105         17
+   106         10
+   107          4
+   108          2
+   110          1
+   116          2
+   120          3
+   122          2
+   128          2
+   135          1
+   147          2
+   159          1
+   178          4
+   194          1
+   209          1
+   210          5
+   240         51
+   241          9
+   242          4
+   254          5
+   303          4
+   331        268
+   332         51
+   333         16

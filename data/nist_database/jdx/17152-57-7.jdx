@@ -1,0 +1,41 @@
+##TITLE=Library Entry 73869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.OSHIMA KITASATO UNIV., KANAGAWA, JAPAN
+##NAMES=HP
+##CAS NAME=.beta.-D-Galactofuranoside, methyl 2,3,5,6-tetra-O-methyl-
+##MOLFORM=C11H22O6
+##CAS REGISTRY NO=17152-57-7
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    29        140
+    31         64
+    39         40
+    41        130
+    45        570
+    55         50
+    59        100
+    69         60
+    71        165
+    75        480
+    85         90
+    88        168
+    89        180
+   101        999
+   114         44
+   117         68
+   119          1
+   127         34
+   129         43
+   145         89
+   155         18
+   161         66
+   177          3
+   187          6
+   193          3
+   205          4

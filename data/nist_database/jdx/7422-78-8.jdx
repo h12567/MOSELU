@@ -1,0 +1,37 @@
+##TITLE=Library Entry 1539
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Hydrazine, 2-propenyl-
+##MOLFORM=C3H8N2
+##CAS REGISTRY NO=7422-78-8
+##MP= -300
+##BP= -300
+##MW= 72
+##$RETENTION INDEX=738
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        195
+    28        264
+    29         94
+    30        152
+    31        999
+    38         43
+    39        290
+    40         42
+    41        303
+    42         91
+    43        191
+    44        143
+    45        439
+    52         28
+    54        123
+    55        144
+    56        118
+    57         41
+    71         82
+    72        543
+    73         46

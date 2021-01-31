@@ -1,0 +1,79 @@
+##TITLE=Library Entry 81109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2812
+##NAMES=HP
+##CAS NAME=2-Tolyloxirane
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=2783-26-8
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          1
+    27         20
+    28          5
+    29          7
+    37          2
+    38          5
+    39         34
+    40          3
+    41          7
+    43         10
+    45          1
+    49          1
+    50         17
+    51         44
+    52         13
+    53         17
+    54          1
+    55          1
+    59          1
+    61          3
+    62          9
+    63         24
+    64          5
+    65         26
+    66          5
+    73          1
+    74          7
+    75          6
+    76          6
+    77        123
+    78         50
+    79        106
+    80          7
+    82          1
+    85          1
+    86          2
+    87          2
+    89         11
+    90          4
+    91         95
+    92          9
+    93         12
+    94          1
+    98          1
+   101          2
+   102         10
+   103        103
+   104         57
+   105        999
+   106        111
+   107          6
+   115          5
+   116          1
+   117          7
+   118          5
+   119         94
+   120         16
+   121          1
+   131          1
+   132          2
+   133         10
+   134        305
+   135         31
+   136          2

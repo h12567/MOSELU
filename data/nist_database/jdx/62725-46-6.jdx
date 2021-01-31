@@ -1,0 +1,37 @@
+##TITLE=Library Entry 69702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 16(1)41(1977); K. AIGAMI ET AL
+##NAMES=HP
+##CAS NAME=1,6-Methanonaphthalene-1,9(2H)-diol, octahydro-, (1.alpha.,4a.alp
+ha.,6.beta.,8a.alpha.,9S*)-
+##MOLFORM=C11H18O2
+##CAS REGISTRY NO=62725-46-6
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        820
+    53        300
+    55        600
+    67        580
+    77        340
+    79        800
+    80        400
+    81        440
+    84        790
+    91        610
+    93        490
+    95        430
+    97        999
+   104        400
+   107        380
+   108        380
+   110        500
+   112        340
+   133        450
+   164        380
+   182        780

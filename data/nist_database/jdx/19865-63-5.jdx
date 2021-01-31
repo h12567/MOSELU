@@ -1,0 +1,30 @@
+##TITLE=Library Entry 109607
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Benzenamine, 4-chloro-N-[(4-nitrophenyl)methylene]-, N-oxide
+##MOLFORM=C13H9ClN2O3
+##CAS REGISTRY NO=19865-63-5
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         60
+    50         60
+    51         60
+    63         90
+    75        120
+    90        180
+   111        140
+   113         60
+   125        999
+   126         90
+   127        430
+   128        130
+   260         80
+   276        180
+   278         60

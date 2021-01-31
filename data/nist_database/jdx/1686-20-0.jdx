@@ -1,0 +1,71 @@
+##TITLE=Library Entry 30334
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=p-Mentha-1,5-dien-8-ol
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=1686-20-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1167
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27         16
+    29         11
+    31         53
+    38          6
+    39         78
+    40         12
+    41         84
+    42         13
+    43        137
+    45         55
+    50         14
+    51         59
+    52         23
+    53         29
+    55         12
+    57          8
+    58         11
+    59        999
+    60         37
+    61         14
+    62         10
+    63         31
+    64          8
+    65         95
+    66         20
+    67         17
+    74          4
+    75          4
+    77        296
+    78         74
+    79        632
+    80         42
+    81          9
+    89         12
+    90          4
+    91        387
+    92        107
+    93        364
+    94        786
+    95         63
+   102          3
+   103         15
+   104          8
+   105         22
+   106          4
+   109         19
+   115         17
+   116          4
+   117         24
+   119        139
+   120         14
+   121          7
+   124          3
+   134         25
+   135          7
+   137          7

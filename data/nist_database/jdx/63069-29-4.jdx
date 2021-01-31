@@ -1,0 +1,37 @@
+##TITLE=Library Entry 36515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Perfluoro-(2,5-dimethyl-3,6-dioxa-nonanoyl chloride)
+##MOLFORM=C9ClF17O3
+##CAS REGISTRY NO=63069-29-4
+##MP= -300
+##BP= -300
+##MW= 514
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    31        172
+    47         91
+    63        389
+    65        131
+    69        999
+    85        352
+    87        121
+    97        150
+   100        289
+   119        311
+   131         40
+   135        443
+   137        149
+   147        151
+   150        139
+   169        733
+   170         50
+   185        259
+   187         90
+   329         70
+   335        431
+   336         50

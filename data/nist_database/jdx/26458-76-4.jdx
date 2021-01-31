@@ -1,0 +1,26 @@
+##TITLE=Library Entry 86945
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. PALECEK,DEP. ORG. CHEM.,INST. CHEM. TECHNOL.,PRAGUE,
+CZECH.
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane-4-ol acetate(ester)
+##MOLFORM=C9H15NO2
+##CAS REGISTRY NO=26458-76-4
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    27         56
+    28        116
+    41         74
+    42        372
+    43        221
+    55         50
+    56         79
+   110        999
+   111         76
+   169         95

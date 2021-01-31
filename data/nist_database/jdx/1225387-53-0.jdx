@@ -1,0 +1,43 @@
+##TITLE=Library Entry 52064
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Pyrazol-3-amine
+##MOLFORM=C3H5N3
+##CAS REGISTRY NO=1225387-53-0
+##MP= -300
+##BP= -300
+##MW= 83
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    28         89
+    29         54
+    30          5
+    35          2
+    36          7
+    37         51
+    38         27
+    39         47
+    40        105
+    41         80
+    43        104
+    44         21
+    45          4
+    50          5
+    51         30
+    52        168
+    53         88
+    54        235
+    55         69
+    56         22
+    57         16
+    66         15
+    67         13
+    68          3
+    70          2
+    82         10
+    83        999
+    84         48

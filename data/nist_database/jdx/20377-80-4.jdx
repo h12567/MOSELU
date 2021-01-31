@@ -1,0 +1,39 @@
+##TITLE=Library Entry 23602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.GAYMARD FACULTY OF SCIENCE, NICE UNIV., NICE, FRANCE
+##NAMES=HP
+##CAS NAME=Cyclopentanol, 2-chloro-, trans-
+##MOLFORM=C5H9ClO
+##CAS REGISTRY NO=20377-80-4
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    38         15
+    39         95
+    40         25
+    41        110
+    42         15
+    43         55
+    44         90
+    53         15
+    55         60
+    56         25
+    57        999
+    58         80
+    65         10
+    66         10
+    67        110
+    68         10
+    69          5
+    71         70
+    83         20
+    84         20
+   102         60
+   104         15
+   120         90
+   122         30

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 49123
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION. ALDERLEY PARK C
+HESHIRE
+##NAMES=HP
+##CAS NAME=2-Pyridinecarboximidamide
+##MOLFORM=C6H7N3
+##CAS REGISTRY NO=52313-50-5
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    38        348
+    39         76
+    40         15
+    41         23
+    42         45
+    43        364
+    44         30
+    49         30
+    50        152
+    51        333
+    52        469
+    53         91
+    67         30
+    75         30
+    76         60
+    77         76
+    78        394
+    79        999
+    80         76
+    93         15
+    94         23
+   104         91
+   105        999
+   106         91
+   120        106
+   121        379
+   122         30

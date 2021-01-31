@@ -1,0 +1,64 @@
+##TITLE=Library Entry 49220
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-8106
+##NAMES=HP
+##CAS NAME=2,2,2-Trifluoroethyl methanesulfonate
+##MOLFORM=C3H5F3O3S
+##CAS REGISTRY NO=25236-64-0
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          3
+    15        282
+    16          3
+    19          2
+    28          1
+    31         27
+    32          4
+    33         37
+    34          2
+    35          2
+    44          3
+    45         32
+    46          3
+    47          2
+    48         20
+    49          5
+    50          6
+    51         31
+    52          1
+    60          2
+    61          8
+    62          1
+    63         55
+    64         21
+    65         34
+    66          1
+    67          3
+    69         40
+    76          1
+    78         10
+    79        999
+    80         37
+    81         61
+    82          2
+    83        106
+    84          2
+    85          2
+    99          1
+   109        940
+   110         28
+   111         52
+   112          1
+   113          2
+   146          3
+   147          4
+   159         18
+   163          7
+   178          4
+   179          7

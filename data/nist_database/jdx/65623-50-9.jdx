@@ -1,0 +1,43 @@
+##TITLE=Library Entry 53809
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Nitrophenyl piperidinyl ketoxime
+##MOLFORM=C12H15N3O3
+##CAS REGISTRY NO=65623-50-9
+##MP= -300
+##BP= -300
+##MW= 249
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    30         91
+    39         79
+    41        158
+    42        129
+    43         69
+    50         69
+    51         60
+    55        169
+    56        207
+    63         39
+    65         69
+    75         70
+    76        128
+    77         40
+    78         39
+    84        999
+    85         99
+   102         60
+   103         99
+   104         60
+   119         40
+   149        110
+   150         79
+   166         49
+   232         60
+   233         59
+   249        169
+   250         29

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 29647
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-Pentadecanol
+##MOLFORM=C15H32O
+##CAS REGISTRY NO=53346-71-7
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    31         88
+    40        222
+    41        488
+    42        111
+    43        399
+    44         88
+    45         66
+    53        111
+    54         66
+    55        444
+    56         99
+    57        333
+    58        133
+    59        999
+    60         88
+    69        266
+    70         77
+    71        222
+    72         44
+    73         22
+    81         22
+    82         22
+    83        111
+    84         33
+    85         44
+    86         22
+    87         22
+    97         66
+    98         22
+    99         33
+   111         44
+   112         22
+   126         33
+   171         22
+   199        244
+   200         44
+   210         28
+   211          5

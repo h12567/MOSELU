@@ -1,0 +1,38 @@
+##TITLE=Library Entry 22144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=1-Piperazinecarboxylic acid, 4-nitroso- ethyl ester
+##MOLFORM=C7H13N3O3
+##CAS REGISTRY NO=13256-15-0
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41         72
+    42        534
+    43        112
+    44         79
+    45          1
+    54         55
+    55        148
+    56        999
+    57        106
+    58        139
+    59          1
+    70        145
+    71          1
+    72         28
+    83          8
+    84         12
+    85         95
+    98          6
+   112          1
+   142         27
+   157        480
+   158         21
+   187          6

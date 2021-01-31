@@ -1,0 +1,53 @@
+##TITLE=Library Entry 24583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=t-Boc-sarcosine
+##MOLFORM=C8H15NO4
+##CAS REGISTRY NO=13734-36-6
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    13          7
+    15         54
+    17          2
+    18         35
+    19          9
+    23          8
+    26         15
+    27         80
+    28         34
+    29        179
+    30          7
+    31         44
+    38         18
+    39        144
+    40         40
+    41        488
+    42        212
+    43        173
+    44        667
+    45         96
+    50         13
+    51         11
+    53         16
+    55         35
+    56         87
+    57        999
+    58         69
+    59         92
+    60         12
+    88        335
+    89        180
+    90        142
+    91          7
+   116        102
+   130         20
+   134         29
+   144         21
+   145         16

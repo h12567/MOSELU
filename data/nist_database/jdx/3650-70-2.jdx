@@ -1,0 +1,67 @@
+##TITLE=Library Entry 80712
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Fucose, cyclic ethylene mercaptal
+##MOLFORM=C8H16O4S2
+##CAS REGISTRY NO=3650-70-2
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    41         33
+    42         16
+    43         60
+    44          2
+    45        157
+    46         12
+    47         30
+    55         16
+    57        132
+    58         17
+    59         50
+    60         37
+    61        212
+    62          3
+    63          8
+    64          5
+    65         10
+    69          6
+    70          8
+    71         27
+    72          5
+    73         97
+    74         10
+    75         66
+    76         32
+    77         20
+    78         60
+    79         12
+    87         23
+    88          8
+    89         17
+    91         10
+    99          8
+   103         12
+   105        999
+   106        649
+   107        137
+   108         58
+   117         93
+   118         15
+   119         17
+   120          7
+   131          8
+   134         10
+   135         50
+   136          8
+   147        385
+   148         30
+   149         37
+   159         10
+   204         22
+   222          6

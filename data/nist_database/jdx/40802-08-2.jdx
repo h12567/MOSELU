@@ -1,0 +1,56 @@
+##TITLE=Library Entry 4931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methoxy-2,2,3-trimethylaziridine (sin)
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=40802-08-2
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=725
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    29        200
+    30         80
+    31         80
+    32          9
+    33         40
+    34          9
+    39        270
+    40         70
+    41        690
+    42        999
+    43        480
+    44        280
+    45         89
+    53         40
+    54         40
+    55        320
+    56        120
+    57         90
+    58         50
+    59        190
+    60          8
+    67         40
+    68        220
+    69        290
+    70        150
+    71          7
+    72        100
+    73         40
+    74         30
+    75         20
+    82         40
+    83         30
+    84        920
+    85        110
+    86         19
+    87        620
+    88         30
+   100        270
+   101         20
+   115         90
+   116          7

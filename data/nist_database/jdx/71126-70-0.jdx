@@ -1,0 +1,57 @@
+##TITLE=Library Entry 28968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN, W.
+ GERMA
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-4-benzyloxybutylamine
+##MOLFORM=C13H21NO
+##CAS REGISTRY NO=71126-70-0
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    30         21
+    39         24
+    41         22
+    42         53
+    43         31
+    44         30
+    45         12
+    46         28
+    50          8
+    51         21
+    52          6
+    55         10
+    56         11
+    57         13
+    58        999
+    59         38
+    63          8
+    65         36
+    70          6
+    71         64
+    72          5
+    77         30
+    78         10
+    79         34
+    84         16
+    89          9
+    90          6
+    91        169
+    92         29
+    98          6
+   100         13
+   101         18
+   105         11
+   106          6
+   107         32
+   108         29
+   116        350
+   117         25
+   206          1
+   207          3
+   208          0

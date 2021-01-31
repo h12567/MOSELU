@@ -1,0 +1,58 @@
+##TITLE=Library Entry 31004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=(S)-(+)-Isoleucinol
+##MOLFORM=C6H15NO
+##CAS REGISTRY NO=24629-25-2
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15         23
+    17          4
+    18         83
+    26         10
+    27         89
+    28        142
+    29        130
+    30        473
+    31         54
+    32          3
+    36          0
+    38          4
+    39         54
+    40          9
+    41        196
+    42        188
+    43         77
+    44        150
+    45          6
+    46          3
+    50          1
+    51          4
+    52          1
+    53         11
+    54         12
+    55         14
+    56         76
+    57         52
+    58         40
+    59         15
+    60        999
+    61         28
+    62          1
+    67         12
+    68          7
+    69        219
+    70         48
+    71         25
+    72          7
+    84          6
+    86        861
+    87         49
+    88          1

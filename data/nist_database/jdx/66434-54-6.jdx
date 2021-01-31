@@ -1,0 +1,65 @@
+##TITLE=Library Entry 43582
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N,O,O'-Tris-(trimethylsilyl)-6-hydroxy-2-aminohexanoic acid
+##MOLFORM=C15H37NO3Si3
+##CAS REGISTRY NO=66434-54-6
+##MP= -300
+##BP= -300
+##MW= 363
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    45         83
+    46          3
+    47          2
+    59         54
+    60          3
+    73        999
+    74         87
+    75        193
+    76         14
+    77          7
+    78          2
+    84        235
+    85         10
+    86          7
+   100         61
+   101          2
+   115         59
+   116          3
+   128        142
+   129         12
+   130          7
+   133         49
+   134          2
+   147        195
+   148         31
+   149         16
+   150          2
+   156        136
+   157         19
+   158          5
+   218         49
+   219         10
+   220          5
+   246        751
+   247        174
+   248         69
+   249         10
+   250          2
+   258         16
+   259          7
+   260          2
+   293          3
+   320          3
+   348         33
+   349         10
+   350          5
+   351          2
+   363         23
+   364          7
+   365          3

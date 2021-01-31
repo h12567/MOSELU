@@ -1,0 +1,75 @@
+##TITLE=Library Entry 80577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Phenylethyl salicylate
+##MOLFORM=C15H14O3
+##CAS REGISTRY NO=87-22-9
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=1987
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          1
+    16          0
+    17          1
+    18          2
+    27         39
+    28          9
+    29          5
+    31          3
+    37          6
+    38         25
+    39        164
+    40          7
+    41         10
+    43          1
+    44          1
+    45          2
+    50         26
+    51         67
+    52         19
+    53         36
+    54          2
+    55          4
+    61          4
+    62         18
+    63         70
+    64         56
+    65        234
+    66         21
+    67          2
+    74          8
+    75          9
+    77        146
+    78         67
+    79        144
+    80          9
+    81          6
+    89         16
+    91        131
+    92        154
+    93         96
+    94          7
+   103        140
+   104        981
+   105        999
+   106         84
+   107          4
+   120        213
+   121        396
+   122         34
+   123          3
+   138        123
+   139         12
+   140          1
+   151          3
+   152          2
+   165          2
+   223          3
+   242         94
+   243         15
+   244          2

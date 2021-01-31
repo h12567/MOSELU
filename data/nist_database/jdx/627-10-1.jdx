@@ -1,0 +1,25 @@
+##TITLE=Library Entry 10108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Organic Synthesis Lab, MSU, Moscow.TRC 1462
+##NAMES=HP
+##CAS NAME=.beta.-Iodoethyl acetate
+##MOLFORM=C4H7IO2
+##CAS REGISTRY NO=627-10-1
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=968
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    42         49
+    43        999
+    44         24
+    45         33
+    87        429
+   127         45
+   141         19
+   154        119
+   155         58
+   214         11

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 16280
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=2,6-Dimethoxyamphetamine
+##MOLFORM=C11H17NO2
+##CAS REGISTRY NO=23690-14-4
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    44        999
+    45         31
+    56         42
+    65         43
+    77         53
+    78         26
+    79         18
+    91        135
+    92         14
+    93         26
+   105         16
+   106         25
+   107         24
+   121         43
+   122         12
+   123         15
+   133          6
+   137         23
+   151         77
+   152        443
+   153         44
+   176         30
+   177          3
+   180          9
+   195          6
+   196          3

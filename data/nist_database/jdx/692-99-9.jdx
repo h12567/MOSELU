@@ -1,0 +1,37 @@
+##TITLE=Library Entry 48052
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. LOZYNSKI, POZNAN TECH. UNIV., POZNAN, POLAND
+##NAMES=HP
+##CAS NAME=Carbamothioic acid, O-butyl ester
+##MOLFORM=C5H11NOS
+##CAS REGISTRY NO=692-99-9
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27        160
+    28        120
+    29        240
+    31         35
+    39         95
+    41        540
+    42         30
+    43         44
+    44        330
+    55        100
+    56        240
+    57        130
+    60        230
+    61        100
+    62         30
+    77        150
+    78        999
+    79         35
+    80         48
+   133        220
+   134         15
+   135         10

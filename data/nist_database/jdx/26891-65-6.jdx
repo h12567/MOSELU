@@ -1,0 +1,38 @@
+##TITLE=Library Entry 87718
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 3-(butylthio)-
+##MOLFORM=C9H13NS
+##CAS REGISTRY NO=26891-65-6
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29        599
+    38         40
+    39        466
+    41        366
+    45         66
+    50         40
+    51        133
+    55         53
+    56         53
+    57        200
+    67        133
+    78        133
+    80         53
+    82         80
+    83        106
+   110         66
+   111        999
+   112        120
+   113         53
+   124        200
+   126         40
+   167        533
+   168         53

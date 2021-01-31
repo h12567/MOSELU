@@ -1,0 +1,63 @@
+##TITLE=Library Entry 98339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=1,4:5,8-Dimethanobiphenylene, 1,4,4a,4b,5,8,8a,8b-octahydro-
+##MOLFORM=C14H16
+##CAS REGISTRY NO=5307-65-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39         34
+    41         31
+    51         25
+    53         20
+    57         16
+    63         16
+    65         60
+    66         42
+    67         18
+    69         17
+    77        109
+    78         65
+    79         64
+    80         15
+    89         21
+    90         14
+    91        185
+    92         33
+    93         14
+   102         30
+   103         51
+   104         28
+   105         36
+   106         13
+   115        139
+   116        200
+   117        687
+   118        999
+   119        106
+   128         97
+   129        117
+   130         38
+   139         11
+   141         54
+   142         25
+   143         18
+   149         20
+   152         24
+   153         34
+   155         29
+   156         10
+   165         22
+   166         10
+   167         19
+   169         10
+   173         12
+   184         75
+   185         15

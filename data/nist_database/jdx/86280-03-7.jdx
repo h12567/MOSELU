@@ -1,0 +1,32 @@
+##TITLE=Library Entry 21503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. DAKKOURI, DEP. CHEM., UNIV. ULM, ULM, W. GER.
+##NAMES=HP
+##CAS NAME=Cyclobutylgermane
+##MOLFORM=C4H10Ge
+##CAS REGISTRY NO=86280-03-7
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    54         50
+    55        999
+    56         43
+    57         98
+    70        145
+    72        210
+    73         44
+    74        303
+    76         75
+   100         85
+   102        149
+   103         61
+   104        130
+   126         53
+   128        209
+   130        309
+   132        165

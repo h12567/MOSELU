@@ -1,0 +1,36 @@
+##TITLE=Library Entry 54515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. R. D'ARCY, DEPT. CHEM., UNIV. N. ENG., ARMIDALE, NSW
+, AUST.
+##NAMES=HP
+##CAS NAME=2-Cyclopentenone, 2-(4-chloroanilino)-4-piperidino-
+##MOLFORM=C16H19ClN2O
+##CAS REGISTRY NO=112370-73-7
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    84        999
+    85        210
+   111         80
+   137        200
+   143        120
+   151         90
+   153         30
+   177        260
+   178        130
+   179        120
+   180         70
+   205        100
+   206        320
+   207        100
+   208        120
+   247         40
+   249         10
+   262         10
+   290        330
+   292         70

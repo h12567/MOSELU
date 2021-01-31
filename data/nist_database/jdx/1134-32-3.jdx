@@ -1,0 +1,37 @@
+##TITLE=Library Entry 31042
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.A.W. JOHNSTONE LIVERPOOL UNIVERSITY, LIVERPOOL, UK
+##NAMES=HP
+##CAS NAME=1,2-Oxazepine, hexahydro-2-methyl-7-(3-pyridyl)-
+##MOLFORM=C11H16N2O
+##CAS REGISTRY NO=1134-32-3
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        100
+    42        300
+    60        999
+    78        150
+    91         40
+    92        100
+   104         70
+   105         80
+   106        120
+   118        380
+   119        800
+   120        150
+   130        110
+   131         20
+   132        450
+   133         50
+   144         40
+   145         20
+   146         30
+   147         20
+   175         50
+   192        150

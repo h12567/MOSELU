@@ -1,0 +1,72 @@
+##TITLE=Library Entry 82051
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9809
+##NAMES=HP
+##CAS NAME=2'-Phenylbenzanilide
+##MOLFORM=C19H15NO
+##CAS REGISTRY NO=7404-97-9
+##MP= -300
+##BP= -300
+##MW= 273
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27          1
+    28          2
+    39          4
+    50          4
+    51         25
+    52          2
+    62          1
+    63          5
+    64          1
+    65          2
+    74          1
+    75          3
+    76          7
+    77        275
+    78         18
+    87          1
+    88          1
+    89          3
+   101          1
+   102          1
+   104          2
+   105        999
+   106         77
+   107          4
+   113          2
+   114          2
+   115          7
+   116          1
+   126          1
+   127          1
+   139         11
+   140          7
+   141          3
+   151          3
+   152          5
+   153          1
+   164          1
+   166         13
+   167         41
+   168         30
+   169          6
+   170         20
+   171          2
+   178          2
+   195          1
+   196         22
+   197          3
+   241          1
+   242          1
+   254          2
+   256         13
+   257          3
+   270          1
+   272          3
+   273        503
+   274        107
+   275         11

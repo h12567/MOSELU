@@ -1,0 +1,36 @@
+##TITLE=Library Entry 17775
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.M. TAKAKIS, ORG. CHEM. LAB., UNIV. THESSALONIKI, GREE
+CE
+##NAMES=HP
+##CAS NAME=(E)-4'-Acetoxy-2-methoxymethoxy-stilbene
+##MOLFORM=C18H18O4
+##CAS REGISTRY NO=110983-49-8
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    45        999
+   107        170
+   131         40
+   150        170
+   155         30
+   165        170
+   166         30
+   179         10
+   181         90
+   182         40
+   183        310
+   194         20
+   207         10
+   210         50
+   211        460
+   224        110
+   225         30
+   253         50
+   256        310
+   298        330

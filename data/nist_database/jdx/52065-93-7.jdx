@@ -1,0 +1,28 @@
+##TITLE=Library Entry 17940
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3,5,2,4,6-Trithia(5-SIV)triazine, 1,1,3,3-tetraoxide
+##MOLFORM=HN3O4S3
+##CAS REGISTRY NO=52065-93-7
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    46        999
+    47         60
+    48        330
+    63         70
+    64        320
+    78         20
+    79         40
+    80         70
+   124         40
+   125        539
+   126         30
+   127         70
+   203        240

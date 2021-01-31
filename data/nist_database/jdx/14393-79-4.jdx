@@ -1,0 +1,59 @@
+##TITLE=Library Entry 48045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7715
+##NAMES=HP
+##CAS NAME=6-Azidotetrazolo(b)pyridazine
+##MOLFORM=C4H2N8
+##CAS REGISTRY NO=14393-79-4
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12          9
+    13          3
+    14         12
+    24         13
+    25         34
+    26        101
+    27         92
+    28        641
+    29         30
+    31          2
+    36         23
+    37        106
+    38         89
+    39         49
+    40         11
+    41          4
+    42          7
+    43          5
+    44          3
+    48          8
+    49         36
+    50         71
+    51        534
+    52        198
+    53         56
+    54         11
+    55          1
+    57          1
+    62         13
+    63         23
+    64         10
+    65          3
+    66          9
+    67          2
+    76         60
+    77        314
+    78        999
+    79         62
+    80         30
+    81          8
+    85          1
+    94          1
+   162         22
+   163         12

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 37090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methoxy-2,3-cis-dimethylaziridine (sin)
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=61593-25-7
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    29        180
+    30         60
+    31         30
+    39         50
+    40         20
+    41        360
+    42        800
+    43         90
+    44         40
+    45         20
+    53         20
+    54         20
+    55        100
+    56        200
+    58         20
+    68         70
+    69         20
+    70        999
+    71         40
+    72         20
+    86         30
+    87          4
+   101         20
+   102          2

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 47379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. M. CAMPBELL 2
+##NAMES=HP
+##CAS NAME=Benzenesulfonyl azide
+##MOLFORM=C6H5N3O2S
+##CAS REGISTRY NO=938-10-3
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    48         30
+    50        110
+    51        330
+    52         20
+    53        110
+    63         20
+    64         90
+    65         30
+    66         20
+    74         40
+    75         30
+    76         40
+    77        999
+    78        100
+    83         20
+    93         50
+   141        500
+   142         40
+   143         30
+   183         90

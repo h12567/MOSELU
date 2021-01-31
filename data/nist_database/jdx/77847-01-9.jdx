@@ -1,0 +1,59 @@
+##TITLE=Library Entry 41343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.THIES OREGON STATE UNIVERSITY, CORVALLIS, OREGON, U
+SA
+##NAMES=HP
+##CAS NAME=Bicyclo[6.1.0]nonane-9-methanol, (1.alpha.,8.alpha.,9.beta.)-, TM
+S derivative
+##MOLFORM=C13H26OSi
+##CAS REGISTRY NO=77847-01-9
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    59        109
+    61         81
+    65         39
+    66         59
+    67        264
+    68        194
+    69         74
+    73        999
+    74        137
+    75        805
+    76         87
+    77        126
+    79        248
+    80        226
+    81        238
+    82        197
+    91         73
+    93        231
+    94        254
+    95        210
+   101        570
+   102         92
+   103        252
+   107        242
+   108        250
+   115         47
+   116        567
+   117        187
+   118         47
+   121        224
+   129        261
+   130        121
+   135        191
+   136        206
+   142         51
+   143         49
+   144         47
+   155        126
+   169         52
+   183        108
+   211         49
+   225         13

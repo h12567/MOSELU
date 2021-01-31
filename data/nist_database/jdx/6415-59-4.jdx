@@ -1,0 +1,25 @@
+##TITLE=Library Entry 84834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Tang et al., J. Agric. Food Chem. 1990, 38, 1937-1940
+##NAMES=HP
+##CAS NAME=sedanolide
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=6415-59-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=1726
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41        200
+    53        130
+    77        180
+    79        819
+    80        559
+    81        380
+   108        999
+   109        619
+   137        420
+   194        110

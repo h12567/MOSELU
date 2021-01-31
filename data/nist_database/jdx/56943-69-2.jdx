@@ -1,0 +1,64 @@
+##TITLE=Library Entry 21662
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Iron, dicarbonyl(.eta.5-2,4-cyclopentadien-1-yl)(1,2,3,4,4-pentaf
+luoro-2-cyclobuten-1-yl)-
+##MOLFORM=C11H5F5FeO2
+##CAS REGISTRY NO=56943-69-2
+##MP= -300
+##BP= -300
+##MW= 320
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    32        200
+    33         10
+    39        300
+    40         20
+    55        999
+    56         50
+    63         80
+    65        200
+    66         10
+    69         30
+    75        400
+    76         30
+    81         40
+    86         70
+    93         60
+    94         70
+    95         60
+    99         50
+   105        960
+   106         70
+   115         40
+   120        150
+   121        180
+   122         20
+   124         70
+   140        620
+   141         50
+   152        570
+   153         50
+   170        880
+   171        999
+   172         80
+   185         50
+   189        150
+   190         20
+   199        400
+   200         40
+   245         70
+   264        950
+   265        100
+   273        100
+   274         10
+   292        580
+   293         60
+   301        100
+   302         10
+   320        800
+   321         90

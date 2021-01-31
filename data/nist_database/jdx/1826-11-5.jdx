@@ -1,0 +1,35 @@
+##TITLE=Library Entry 29147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.P.AUNE UNIVERSITY OF PROVENCE, MARSEILLES, FRANCE
+##NAMES=HP
+##CAS NAME=Thiazole, 2-phenyl-
+##MOLFORM=C9H7NS
+##CAS REGISTRY NO=1826-11-5
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         26
+    45         14
+    50         46
+    51        108
+    58        999
+    59         56
+    60         56
+    63         39
+    75         23
+    76         68
+    77         86
+    89         18
+    90         11
+   103         36
+   104         21
+   105         22
+   121         10
+   161        819
+   162         71
+   163         61

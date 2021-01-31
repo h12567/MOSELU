@@ -1,0 +1,47 @@
+##TITLE=Library Entry 28870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1254
+##NAMES=HP
+##CAS NAME=1-Butanamine, N,N-dimethyl-
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=927-62-8
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=696
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         24
+    26          2
+    27         22
+    28          8
+    29         27
+    30         41
+    38          1
+    39         11
+    40          2
+    41         19
+    42         68
+    43         17
+    44         42
+    45          5
+    46          1
+    51          1
+    53          1
+    54          2
+    55          5
+    56         12
+    57         16
+    58        999
+    59         37
+    68          1
+    70          6
+    71          9
+    72          5
+    84          3
+    98          2
+   100          9
+   101         86
+   102          6

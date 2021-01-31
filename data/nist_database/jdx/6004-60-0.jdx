@@ -1,0 +1,51 @@
+##TITLE=Library Entry 34754
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Ethanone, 1-cyclopentyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=6004-60-0
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=933
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         26
+    26         16
+    27         87
+    29         19
+    37         10
+    38         38
+    39        289
+    40         69
+    41        617
+    42        101
+    43        805
+    44         23
+    45         18
+    50         19
+    51         29
+    52         11
+    53         60
+    54         17
+    55         50
+    62          9
+    63         14
+    65         35
+    66         25
+    67        240
+    68        299
+    69        999
+    70          9
+    71        664
+    72         27
+    77         10
+    79         19
+    84         36
+    97        115
+   112        347
+   113         30

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 25905
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-4-decanone
+##MOLFORM=C11H22O
+##CAS REGISTRY NO=6628-25-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15          6
+    27        136
+    28         55
+    29        181
+    30          6
+    31          6
+    32          2
+    39        134
+    41        536
+    42        130
+    43        675
+    44         23
+    45          8
+    51          8
+    53         32
+    54         14
+    55        143
+    56         80
+    57        999
+    58        706
+    59         72
+    65          4
+    67         21
+    68         25
+    69         64
+    70         16
+    71         92
+    72         76
+    79          7
+    81          9
+    83         13
+    85        999
+    86         69
+    95         39
+    97          5
+   100        158
+   101         44
+   113        486
+   114         42
+   127         15
+   128         18
+   155         45
+   170         25

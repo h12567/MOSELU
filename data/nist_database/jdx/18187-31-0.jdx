@@ -1,0 +1,38 @@
+##TITLE=Library Entry 66026
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propanoyl chloride, 3-(trimethylsilyl)-
+##MOLFORM=C6H13ClOSi
+##CAS REGISTRY NO=18187-31-0
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    72        180
+    73        790
+    74        480
+    75        250
+    79        120
+    85         90
+    89        250
+    93        999
+    94        250
+    95        790
+    96        100
+   121        500
+   122         50
+   137         70
+   139         70
+   145         40
+   146        100
+   147         30
+   148         10
+   149        420
+   150         40
+   151        160
+   152         10

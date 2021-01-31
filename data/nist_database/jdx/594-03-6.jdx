@@ -1,0 +1,37 @@
+##TITLE=Library Entry 30055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethane(dithioic) acid
+##MOLFORM=C2H4S2
+##CAS REGISTRY NO=594-03-6
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    32        100
+    33         65
+    34         85
+    43         20
+    44         40
+    45        120
+    46         20
+    47         20
+    56         30
+    57        150
+    58        290
+    59        999
+    60        450
+    61         45
+    64         30
+    73         10
+    76         40
+    77         30
+    91         10
+    92        120
+    93         10
+    94         10

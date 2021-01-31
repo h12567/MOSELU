@@ -1,0 +1,54 @@
+##TITLE=Library Entry 51031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanamine, N-cyclohexylidene-
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=2201-14-1
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    40         70
+    41        590
+    42        310
+    43         60
+    44        190
+    45         70
+    50         10
+    51         30
+    52         30
+    53         80
+    54        500
+    55        220
+    56         70
+    65         20
+    66         20
+    67         40
+    68         80
+    69        300
+    70         50
+    71         20
+    77         30
+    79         40
+    80         30
+    81         90
+    82        999
+    83        100
+    84         20
+    94         10
+    95         10
+    96        180
+    97        140
+    98         60
+   108         20
+   110        340
+   111         30
+   124        190
+   125        450
+   126         50

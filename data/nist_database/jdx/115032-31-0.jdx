@@ -1,0 +1,31 @@
+##TITLE=Library Entry 17761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(Z)-2-Methoxymethoxy-stilbene
+##MOLFORM=C16H16O2
+##CAS REGISTRY NO=115032-31-0
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    45        999
+    91        198
+   119         39
+   121         49
+   131         49
+   134         69
+   152        161
+   165        340
+   166        109
+   167        387
+   178         69
+   194         79
+   195        690
+   207         89
+   208         69
+   240        579

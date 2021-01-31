@@ -1,0 +1,64 @@
+##TITLE=Library Entry 40054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Darrick Lee, Cayman Chemical, Ann Arbor, MI
+##NAMES=HP
+##CAS NAME=Benzeneethanamine, N-ethyl-.alpha.-methyl-, hydrochloride, (.+/-.
+)-
+##MOLFORM=C11H17N
+##CAS REGISTRY NO=16105-78-5
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    40          4
+    41         19
+    42         34
+    43          8
+    44        151
+    45          5
+    50          6
+    51         17
+    52          6
+    53          3
+    54          4
+    56         30
+    57          9
+    58          2
+    62          4
+    63         16
+    64          6
+    65         69
+    66          4
+    68          4
+    70         49
+    72        999
+    73         51
+    74          4
+    75          3
+    76          4
+    77         31
+    78         10
+    79          5
+    87          2
+    89         21
+    91        201
+    92         23
+   102          4
+   103         12
+   104          7
+   105          4
+   115         24
+   116          6
+   117         23
+   118         11
+   119         10
+   120          4
+   130          4
+   132          3
+   146          4
+   148         20
+   162          7

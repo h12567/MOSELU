@@ -1,0 +1,49 @@
+##TITLE=Library Entry 76998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Ge,Ge-dimethyl germa-.gamma.-butyrolactone
+##MOLFORM=C5H10GeO2
+##CAS REGISTRY NO=107790-91-0
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    55        302
+    71         68
+    73        101
+    75        113
+    85        395
+    86         50
+    87        581
+    88        227
+    89        739
+    90         34
+    91        204
+   100        552
+   101         39
+   102        737
+   103        250
+   104        999
+   105         39
+   106        202
+   117         10
+   119         21
+   121         22
+   128        142
+   130        204
+   131         56
+   132        272
+   134         55
+   157         34
+   159         45
+   160         10
+   161         55
+   162          5
+   163         10
+   173          4
+   175          4

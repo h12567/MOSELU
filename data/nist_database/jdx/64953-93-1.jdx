@@ -1,0 +1,64 @@
+##TITLE=Library Entry 9384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Phenyl-4-acetyl-5-chloro-thiazole
+##MOLFORM=C11H8ClNOS
+##CAS REGISTRY NO=64953-93-1
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         40
+    45         80
+    50         70
+    51        208
+    55         80
+    56         30
+    57        190
+    62         49
+    63         90
+    69        109
+    71         60
+    75         39
+    76        110
+    77        338
+    79         49
+    81         39
+    84         49
+    89         49
+    91        270
+    92        141
+    93        110
+    94         49
+    97         39
+   103         70
+   104         59
+   114         29
+   115         19
+   116         30
+   119         50
+   121        330
+   133         29
+   134         30
+   150         90
+   152         29
+   159         89
+   160        189
+   194         50
+   195         20
+   196         20
+   201        260
+   202        199
+   203         30
+   209         19
+   222        129
+   224         50
+   237        220
+   238         29
+   239         79

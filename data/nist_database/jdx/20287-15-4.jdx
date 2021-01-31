@@ -1,0 +1,63 @@
+##TITLE=Library Entry 13343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Hexanoylhydrazino-1,4-naphthoquinone
+##MOLFORM=C16H18N2O3
+##CAS REGISTRY NO=20287-15-4
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        386
+    42        110
+    43        999
+    44         50
+    50         65
+    51         73
+    53         65
+    55        179
+    56          8
+    63         44
+    68         43
+    69         33
+    71        301
+    72          7
+    74         33
+    75         85
+    76        210
+    77        176
+    88          8
+    89        146
+    99        182
+   101         60
+   102        211
+   103         80
+   104        130
+   105         87
+   113         36
+   114         35
+   115         42
+   116         60
+   129          7
+   131         49
+   132         30
+   142        371
+   143         70
+   144         35
+   146         27
+   159         52
+   160         59
+   171         62
+   172         40
+   187         58
+   188        697
+   189         92
+   202          7
+   286         95
+   287         25

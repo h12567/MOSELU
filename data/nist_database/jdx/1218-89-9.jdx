@@ -1,0 +1,70 @@
+##TITLE=Library Entry 100270
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9352
+##NAMES=HP
+##CAS NAME=4,4'-Dimethylbenzoin
+##MOLFORM=C16H16O2
+##CAS REGISTRY NO=1218-89-9
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    27          4
+    28          6
+    29          3
+    38          1
+    39         20
+    40          2
+    41          9
+    50          3
+    51         13
+    52          3
+    53          3
+    62          2
+    63         10
+    64          3
+    65         78
+    66          4
+    75          1
+    76          2
+    77         72
+    78         11
+    79          1
+    89         12
+    90          9
+    91        293
+    92         29
+    93        157
+    94         11
+   102          1
+   103          2
+   104          2
+   105          7
+   115          1
+   118          3
+   119        999
+   120        104
+   121        869
+   122         75
+   123          4
+   152          1
+   165          3
+   166          1
+   178          2
+   179          2
+   180          1
+   195          2
+   206          2
+   222          1
+   223          9
+   224          5
+   225          1
+   238          6
+   239          1
+   240         39
+   241          9
+   242          1

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 35413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Formyl-2,2,6-trimethyl-3-(3-methyl-but-2-enyl)-6-cyclohexene
+##MOLFORM=C15H24O
+##CAS REGISTRY NO=108287-18-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    67        341
+    69        999
+    71        128
+    77        800
+    79        273
+    81        814
+    91        241
+    93        218
+    95        278
+   105        150
+   107        302
+   109        431
+   119        101
+   121        409
+   123        392
+   133        209
+   135        138
+   137        221
+   149        120
+   151        109
+   177        110
+   187         40
+   191         50
+   205        170
+   220        601

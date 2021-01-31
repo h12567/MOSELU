@@ -1,0 +1,53 @@
+##TITLE=Library Entry 36049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=4,6-Diketo-1-heptanol
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=57245-94-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27         44
+    29         43
+    31         41
+    39         27
+    41         81
+    42         77
+    43        551
+    44         29
+    45         24
+    53         24
+    55         55
+    56         24
+    57         19
+    58         76
+    59         26
+    67         12
+    69        999
+    70         41
+    71         17
+    72         16
+    81         19
+    83         27
+    84         29
+    85        337
+    86         36
+    87         57
+    95         10
+    97          7
+   100        105
+   101         35
+   111        810
+   112         65
+   113         42
+   125         24
+   126        659
+   127         63
+   144          4
+   145          2

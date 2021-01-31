@@ -1,0 +1,41 @@
+##TITLE=Library Entry 60553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. J. SOOTHILL
+##NAMES=HP
+##CAS NAME=Ethanol, 2-[(4-methylphenyl)sulfonyl]-
+##MOLFORM=C9H12O3S
+##CAS REGISTRY NO=22381-54-0
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39         96
+    45        182
+    51         47
+    63         77
+    65        255
+    77         51
+    79         37
+    89         77
+    90         56
+    91        999
+    92        732
+    93         86
+   105         33
+   107         68
+   108        153
+   118         61
+   135         57
+   139         87
+   153         55
+   155        101
+   156        242
+   157        179
+   170         14
+   172        134
+   184         82
+   200        103

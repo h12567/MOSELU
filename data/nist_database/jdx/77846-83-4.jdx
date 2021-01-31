@@ -1,0 +1,49 @@
+##TITLE=Library Entry 50261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=3-Cyclohexene-1-acetic acid, .alpha.-oxo-, methyl ester
+##MOLFORM=C9H12O3
+##CAS REGISTRY NO=77846-83-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         86
+    28         36
+    29         14
+    39         86
+    41        166
+    42         14
+    43         21
+    44          7
+    45          7
+    51         14
+    52         10
+    53        246
+    54         18
+    55         61
+    59         36
+    65         25
+    66         25
+    67         14
+    77         65
+    78         18
+    79        271
+    80         65
+    81        999
+    82         54
+    89         10
+    90         18
+   108         58
+   109        195
+   110         14
+   118         50
+   140         29
+   150         79
+   151         14
+   168         32

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 7413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.F.CASALS, LAB. PHYSCHIM. PHOTOCHIM. ORG., UNIV. DU MA
+NS, FR.
+##NAMES=HP
+##CAS NAME=2,6,10,14,18,22-Tricosanehexone
+##MOLFORM=C23H36O6
+##CAS REGISTRY NO=55110-18-4
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        840
+    58        120
+    70        120
+    71        310
+    83        190
+    85        250
+    95        220
+    97        410
+   113        370
+   123        250
+   125        220
+   128         60
+   137         90
+   141        120
+   147         60
+   149         60
+   165        250
+   177        120
+   183        120
+   193         90
+   210        100
+   235        120
+   237         90
+   282         90
+   305         60
+   372         60
+   390         60

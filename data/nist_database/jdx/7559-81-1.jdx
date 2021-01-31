@@ -1,0 +1,55 @@
+##TITLE=Library Entry 1672
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0625
+##NAMES=HP
+##CAS NAME=4H-Pyran-4-one, 2-(chloromethyl)-5-hydroxy-
+##MOLFORM=C6H5ClO3
+##CAS REGISTRY NO=7559-81-1
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         60
+    27        110
+    28        160
+    29        670
+    30        220
+    31         40
+    35         50
+    36        130
+    37        170
+    38        240
+    39        999
+    40        130
+    41        710
+    42        190
+    43        250
+    44         80
+    45        110
+    49         70
+    50         50
+    51         90
+    52         10
+    53         80
+    54         10
+    55         90
+    56         10
+    66         40
+    67        310
+    68         90
+    69        410
+    70         30
+    71         10
+    75         40
+    97        270
+    98         30
+   120         40
+   125        320
+   126         50
+   160        120
+   161         10
+   162         50

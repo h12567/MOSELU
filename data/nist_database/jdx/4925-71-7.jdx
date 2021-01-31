@@ -1,0 +1,85 @@
+##TITLE=Library Entry 19179
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8689
+##NAMES=HP
+##CAS NAME=9-Oxabicyclo[6.1.0]nonane, cis-
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=4925-71-7
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          9
+    18          1
+    26         11
+    27        182
+    28         50
+    29        211
+    30          6
+    31         17
+    37          3
+    38          9
+    39        214
+    40         36
+    41        687
+    42        265
+    43        167
+    44         47
+    45         12
+    50          7
+    51         15
+    52          7
+    53         66
+    54        340
+    55        999
+    56        258
+    57        443
+    58         72
+    59         19
+    60          1
+    62          1
+    63          3
+    65         16
+    66         17
+    67        531
+    68         92
+    69        168
+    70        141
+    71         90
+    72        111
+    73          5
+    74          1
+    77         15
+    78          6
+    79         75
+    80         50
+    81         74
+    82        137
+    83        282
+    84        134
+    85         30
+    86          2
+    91          9
+    92          1
+    93         58
+    94          6
+    95         21
+    96          4
+    97        191
+    98        147
+    99         14
+   100          1
+   105          1
+   107          4
+   108          5
+   109          8
+   110          2
+   111         62
+   112          5
+   125          9
+   126         19
+   127          3

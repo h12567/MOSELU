@@ -1,0 +1,56 @@
+##TITLE=Library Entry 8092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Hexanone
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=591-78-6
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=790
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    26         14
+    27         90
+    28         24
+    29        116
+    30          3
+    31          3
+    37          3
+    38         11
+    39        106
+    40         12
+    41        215
+    42         66
+    43        999
+    44         25
+    45          8
+    49          1
+    50         11
+    51         13
+    52          4
+    53         18
+    54          4
+    55         36
+    56         13
+    57        263
+    58        664
+    59         40
+    60          2
+    62          1
+    63          1
+    65          1
+    67          3
+    69          1
+    71         84
+    72         15
+    83          1
+    85        119
+    86          6
+   100        161
+   101         14

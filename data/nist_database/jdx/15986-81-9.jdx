@@ -1,0 +1,47 @@
+##TITLE=Library Entry 85223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2-Methyl-3-isopropylpyrazine
+##MOLFORM=C8H12N2
+##CAS REGISTRY NO=15986-81-9
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1056
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         28
+    39          7
+    40         48
+    41         79
+    42        132
+    43         48
+    53        239
+    54        111
+    66         48
+    67        392
+    68         93
+    79          7
+    80        219
+    81         28
+    82          7
+    86         93
+    92          7
+    93        353
+    94        319
+    95        112
+   106         48
+   107        119
+   108        999
+   109        209
+   117          7
+   119         39
+   120         19
+   121        912
+   122        192
+   135        379
+   136        559
+   137        111

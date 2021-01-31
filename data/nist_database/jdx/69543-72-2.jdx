@@ -1,0 +1,31 @@
+##TITLE=Library Entry 44568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (9)928(1978); R. E. MARKWELL ET AL.
+##NAMES=HP
+##CAS NAME=2-Propanol, 1-[(1-methylethyl)imino]-3-(3-methylphenoxy)-, N-oxid
+e
+##MOLFORM=C13H19NO3
+##CAS REGISTRY NO=69543-72-2
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        850
+    74        999
+    88        800
+    91        850
+   100        480
+   108        500
+   116        360
+   121        640
+   130        440
+   133        360
+   163        800
+   193        460
+   208        140
+   219         60
+   237         20

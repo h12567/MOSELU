@@ -1,0 +1,58 @@
+##TITLE=Library Entry 58210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. R. ALONSO, DEP. QUIM. ORG., UNIV. GRANADA, GRANADA,
+ SPAIN
+##NAMES=HP
+##CAS NAME=1,6-Dihydro-1-methyl-2-methylthio-5-((E)-2-ethoxycarbonylvinyl)-4
+-(2,3,4,6-tetra-O-acetyl-.beta.-D-glucopyranosylamino)-1H-pyrimidin-6-one
+##MOLFORM=C25H33N3O12S
+##CAS REGISTRY NO=121518-12-5
+##MP= -300
+##BP= -300
+##MW= 599
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    88        999
+   196        780
+   208        220
+   210         63
+   222         63
+   224        750
+   236         94
+   238        130
+   252        190
+   263         94
+   264        130
+   266         63
+   269         30
+   270         30
+   280         94
+   282         63
+   304         63
+   310        250
+   311         63
+   312         30
+   332         63
+   346         63
+   359         30
+   360         30
+   364         30
+   374         63
+   377         30
+   378         30
+   392         30
+   394         30
+   406         30
+   420         63
+   434         63
+   436         30
+   438         30
+   452         30
+   466         30
+   480         30
+   526        190
+   554         30
+   599         63

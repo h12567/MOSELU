@@ -1,0 +1,76 @@
+##TITLE=Library Entry 48472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentyl acetylene
+##MOLFORM=C7H10
+##CAS REGISTRY NO=54140-30-6
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          2
+    15         13
+    17          2
+    18         13
+    24          1
+    25          4
+    26         35
+    27        125
+    28         42
+    29         20
+    30          0
+    32          4
+    36          2
+    37         26
+    38         63
+    39        306
+    40        106
+    41        111
+    42         65
+    43          6
+    45          4
+    48          1
+    49          9
+    50         74
+    51        109
+    52        165
+    53         81
+    54         28
+    55         25
+    56          1
+    60          2
+    61         13
+    62         31
+    63         53
+    64         16
+    65        145
+    66        124
+    67         49
+    68         64
+    69          4
+    73          2
+    74          6
+    75          3
+    76          2
+    77        223
+    78          2
+    79        999
+    80         66
+    81          2
+    84          0
+    85          2
+    86          2
+    87          1
+    89          4
+    91        114
+    92         14
+    93        123
+    94         56
+    95          4

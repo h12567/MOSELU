@@ -1,0 +1,50 @@
+##TITLE=Library Entry 61109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Benzylamino-3-benzyloxypropane
+##MOLFORM=C17H21NO
+##CAS REGISTRY NO=60058-22-2
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    30         29
+    39         30
+    41         19
+    42          9
+    43         10
+    44         10
+    50         10
+    51         29
+    52          9
+    56          9
+    57          9
+    58          9
+    63          9
+    64          9
+    65         90
+    66         10
+    70          9
+    77         49
+    78         19
+    79         29
+    89         20
+    90          9
+    91        999
+    92         90
+   104         20
+   105         20
+   106        399
+   107         39
+   120        279
+   121         30
+   134         20
+   149         30
+   164         99
+   165          9
+   178         10

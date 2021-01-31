@@ -1,0 +1,45 @@
+##TITLE=Library Entry 114373
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4(1H)-Quinazolinone, 2-phenyl-1-(2-propynyl)-
+##MOLFORM=C17H12N2O
+##CAS REGISTRY NO=26197-90-0
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    51        160
+    52         90
+    63        110
+    64         90
+    75        100
+    76        190
+    77        200
+    78        100
+    90        160
+    91         30
+    92         40
+   101        140
+   102        500
+   103        250
+   104         50
+   105         40
+   119         50
+   120         10
+   128        300
+   129        999
+   130        280
+   156        300
+   157        250
+   158        100
+   201         30
+   202         50
+   211         50
+   259        320
+   260        860
+   261         30

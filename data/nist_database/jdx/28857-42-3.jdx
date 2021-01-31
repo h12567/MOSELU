@@ -1,0 +1,55 @@
+##TITLE=Library Entry 55050
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Dimethylvinyl(n-pentyl)silane
+##MOLFORM=C9H20Si
+##CAS REGISTRY NO=28857-42-3
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41         58
+    42         24
+    43        177
+    44         37
+    45        122
+    46          9
+    47          6
+    53         24
+    54          9
+    55        122
+    56         12
+    57         30
+    58         73
+    59        557
+    60         42
+    61         18
+    67         18
+    68          6
+    69         24
+    70         24
+    71        424
+    72         54
+    73         68
+    83         18
+    84         21
+    85        999
+    86        158
+    87         61
+    97         12
+    99         24
+   100         37
+   113         30
+   114         12
+   115          6
+   127         37
+   128         79
+   129         20
+   141        103
+   142         12
+   156          2

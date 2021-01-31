@@ -1,0 +1,43 @@
+##TITLE=Library Entry 79096
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,4-Trioxolane, 3-phenyl-
+##MOLFORM=C8H8O3
+##CAS REGISTRY NO=23253-30-7
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    29        314
+    30        259
+    37         19
+    38         43
+    39         66
+    44         70
+    45         51
+    46         63
+    50        169
+    51        354
+    52         78
+    73         19
+    74         55
+    75         25
+    76         53
+    77        917
+    78        127
+    90         11
+    91         19
+    94         13
+   105        999
+   106        645
+   107         51
+   119         17
+   120         19
+   122        421
+   123         33
+   152         21

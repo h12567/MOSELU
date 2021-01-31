@@ -1,0 +1,55 @@
+##TITLE=Library Entry 61558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=7H-Acenaphtho[1,2-c]pyrazole-7,8(9H)-dicarboxanilide, 9-phenyl-
+##MOLFORM=C33H24N4O2
+##CAS REGISTRY NO=22531-81-3
+##MP= -300
+##BP= -300
+##MW= 508
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    50        340
+    51        803
+    52        190
+    74         16
+    76         26
+    77        280
+    78         80
+    88         56
+    90         54
+    91        999
+    92        160
+    93        679
+    94         60
+   119        999
+   120        136
+   199          8
+   200         14
+   201          6
+   251         18
+   252         18
+   253         40
+   254         84
+   255         40
+   256         18
+   296         28
+   297         50
+   298         20
+   311         20
+   312         36
+   313         20
+   329         28
+   330         36
+   331         66
+   332         30
+   373         20
+   374         38
+   375         18
+   388         32
+   389         50
+   390         34

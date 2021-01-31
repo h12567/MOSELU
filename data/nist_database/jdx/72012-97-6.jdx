@@ -1,0 +1,26 @@
+##TITLE=Library Entry 85191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(5)239(1979); R. K. M. R. KALLURY AND A. G. L
+OUDON
+##NAMES=HP
+##CAS NAME=Propanedioic acid, [(4-ethoxyphenyl)hydrazono]-
+##MOLFORM=C11H12N2O5
+##CAS REGISTRY NO=72012-97-6
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+   108        999
+   109        350
+   121        300
+   135        220
+   136        300
+   137        340
+   162         50
+   203        130
+   206         50
+   252        110

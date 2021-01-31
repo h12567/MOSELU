@@ -1,0 +1,39 @@
+##TITLE=Library Entry 86951
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4(1H)-Pyrimidinone, 6-methyl-
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=3524-87-6
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26         48
+    27        105
+    28        129
+    37         55
+    38         84
+    39        207
+    40        127
+    41        103
+    42        661
+    43         80
+    51         48
+    52         48
+    54        105
+    55        152
+    66         42
+    67         44
+    68        103
+    69         42
+    71         48
+    81        218
+    82        254
+    83         48
+   110        999
+   111         44

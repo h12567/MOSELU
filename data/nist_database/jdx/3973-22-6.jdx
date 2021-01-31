@@ -1,0 +1,63 @@
+##TITLE=Library Entry 10674
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.VOTH UNIV. OF CALIFORNIA, DAVIS, CALIFORNIA, 95616, U
+SA
+##NAMES=HP
+##CAS NAME=p-Dioxin, 2,3-dihydro-5-methyl-
+##MOLFORM=C5H8O2
+##CAS REGISTRY NO=3973-22-6
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         13
+    14         42
+    15        120
+    16          3
+    17          0
+    18          1
+    19          4
+    24          1
+    25          7
+    26         52
+    27         97
+    28         65
+    29        125
+    30          8
+    31         15
+    36          0
+    37          6
+    38         15
+    39         53
+    40         22
+    41         20
+    42         41
+    43        999
+    44         25
+    45         26
+    46          0
+    50          1
+    52          0
+    53          4
+    54          1
+    55         11
+    56          2
+    57          1
+    69          3
+    70          3
+    71          1
+    72         10
+    73          4
+    74          0
+    81          0
+    85          1
+    98          1
+    99          1
+   100        143
+   101          8
+   102          0

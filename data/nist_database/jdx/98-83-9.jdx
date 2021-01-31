@@ -1,0 +1,75 @@
+##TITLE=Library Entry 98329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2072
+##NAMES=HP
+##CAS NAME=.alpha.-Methylstyrene
+##MOLFORM=C9H10
+##CAS REGISTRY NO=98-83-9
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=976
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          4
+    26          5
+    27         27
+    28          4
+    29          1
+    37          7
+    38         14
+    39        101
+    40         13
+    41         14
+    42          2
+    43          6
+    49          4
+    50         47
+    51        132
+    52         33
+    53         10
+    55          1
+    57         23
+    58         36
+    59          7
+    61          6
+    62         16
+    63         46
+    64          8
+    65         43
+    66          5
+    71          2
+    73          3
+    74         19
+    75         17
+    76         22
+    77        189
+    78        285
+    79         24
+    80          1
+    85          2
+    86          4
+    87          6
+    88          2
+    89         28
+    90         11
+    91        164
+    92         15
+    98          2
+    99          1
+   101          6
+   102         41
+   103        453
+   104         41
+   105          6
+   113          2
+   114          3
+   115        150
+   116         37
+   117        631
+   118        999
+   119        103
+   120          5

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 24355
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3636
+##NAMES=HP
+##CAS NAME=Undecane, 3-methyl-
+##MOLFORM=C12H26
+##CAS REGISTRY NO=1002-43-3
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1170
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27         86
+    28          3
+    29        211
+    30          5
+    38          1
+    39         56
+    40         10
+    41        310
+    42         65
+    43        602
+    44         20
+    50          1
+    51          3
+    52          1
+    53         15
+    54          9
+    55        118
+    56        310
+    57        999
+    58         48
+    59          1
+    65          2
+    66          1
+    67          8
+    68          7
+    69         38
+    70         58
+    71        469
+    72         25
+    77          1
+    79          1
+    81          2
+    82          8
+    83         25
+    84         27
+    85        382
+    86         26
+    87          1
+    96          4
+    97         20
+    98         15
+    99         84
+   100          8
+   110          2
+   111         12
+   112         23
+   113         13
+   114          1
+   126          4
+   127          3
+   135          1
+   137          1
+   140         86
+   141        117
+   142         13
+   154          2
+   155          6
+   170          5

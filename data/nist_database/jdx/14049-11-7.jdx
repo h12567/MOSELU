@@ -1,0 +1,81 @@
+##TITLE=Library Entry 33400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.FELIX VARIAN AG. RES. LAB., ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=2H-Pyran-3-ol, 6-ethenyltetrahydro-2,2,6-trimethyl-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=14049-11-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1178
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         90
+    28         65
+    29         70
+    31         35
+    39         85
+    40         40
+    41        190
+    42         40
+    43        320
+    44         35
+    45         20
+    50          5
+    51         15
+    52         10
+    53        110
+    54         15
+    55        190
+    56         35
+    57         70
+    58         15
+    59        635
+    60         20
+    65         20
+    66         30
+    67        430
+    68        999
+    69        130
+    70         70
+    71        145
+    72         85
+    73         15
+    77         30
+    78         10
+    79        180
+    80         20
+    81        190
+    82         30
+    83        110
+    84         55
+    85         60
+    91         30
+    92          5
+    93         35
+    94        510
+    95         70
+    96         10
+    97         40
+    99         10
+   102         30
+   105         10
+   107         15
+   109         70
+   110         10
+   111         10
+   112         25
+   115         10
+   117          5
+   119         40
+   121          5
+   125         10
+   134         15
+   137         40
+   143         15
+   152         20
+   155         50

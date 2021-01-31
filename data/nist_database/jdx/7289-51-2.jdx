@@ -1,0 +1,79 @@
+##TITLE=Library Entry 17016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl nonyl ether
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=7289-51-2
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1126
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          9
+    26          4
+    27         71
+    28         22
+    29        134
+    30          4
+    31         10
+    33         11
+    38          2
+    39         87
+    40         18
+    41        341
+    42        136
+    43        233
+    45        999
+    46         23
+    47         10
+    50          2
+    51          5
+    52          3
+    53         32
+    54         43
+    55        344
+    56        491
+    57        145
+    58         23
+    59          7
+    60          3
+    63          1
+    65          5
+    66          3
+    67         36
+    68        132
+    69        285
+    70        365
+    71         73
+    72          4
+    73          1
+    77          3
+    78          1
+    79          4
+    80          1
+    81          9
+    82        100
+    83        219
+    84        142
+    85         24
+    86          1
+    87         13
+    88          1
+    91          1
+    95          2
+    96         27
+    97        174
+    98        209
+    99         16
+   100          1
+   101          2
+   111          7
+   112          1
+   115          4
+   126        165
+   127         17
+   128          1

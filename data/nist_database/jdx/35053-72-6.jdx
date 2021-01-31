@@ -1,0 +1,39 @@
+##TITLE=Library Entry 98760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Isoxazolo[5,4-d]pyrimidine-4,6(5H,7H)-dione, 3a,7a-dihydro-3-phen
+yl-, cis-
+##MOLFORM=C11H9N3O3
+##CAS REGISTRY NO=35053-72-6
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    32         60
+    36        290
+    38         90
+    39         60
+    50         60
+    51        110
+    57         90
+    63         70
+    64         80
+    69         90
+    76        120
+    77        200
+    85        120
+    91        160
+   103        290
+   104        190
+   105         70
+   119        999
+   120         90
+   128         90
+   144         50
+   231        280
+   232         40

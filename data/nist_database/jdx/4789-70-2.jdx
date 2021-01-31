@@ -1,0 +1,67 @@
+##TITLE=Library Entry 31034
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butane, 1-(ethenylthio)-
+##MOLFORM=C6H12S
+##CAS REGISTRY NO=4789-70-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=893
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         88
+    29         88
+    35          6
+    38          0
+    39         59
+    40         33
+    41        287
+    42         12
+    43         10
+    44          1
+    45        251
+    46         34
+    47         66
+    48          8
+    50          5
+    51          6
+    53         20
+    54         13
+    55         76
+    56        175
+    57        146
+    58        117
+    59        227
+    60        999
+    61        201
+    62         47
+    63          8
+    67         35
+    68          7
+    69         11
+    70          6
+    71          6
+    73        267
+    74        111
+    75         28
+    76          6
+    81          6
+    82         10
+    83          6
+    85         14
+    87         68
+    88         16
+    89          7
+    99          0
+   101        200
+   102         12
+   103          8
+   115         11
+   116        947
+   117         71
+   118         47

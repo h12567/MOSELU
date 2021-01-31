@@ -1,0 +1,60 @@
+##TITLE=Library Entry 58068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=Ethyl 3-methyldecanoate
+##MOLFORM=C13H26O2
+##CAS REGISTRY NO=73105-70-1
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=1571
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         56
+    29        161
+    39         36
+    41        183
+    42         56
+    43        194
+    45         56
+    55        128
+    56         50
+    57        128
+    58          6
+    59        122
+    60        128
+    61        169
+    66         11
+    67          7
+    69        114
+    70        244
+    71         86
+    73         39
+    81         12
+    83         44
+    84         12
+    85         61
+    87        156
+    88        999
+    89        144
+    90          8
+    95         11
+    97         22
+    98        189
+    99         12
+   101         16
+   115        372
+   125          7
+   126          9
+   129         14
+   143         11
+   157         22
+   169         92
+   171         47
+   199          7
+   214         16
+   215          6

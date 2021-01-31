@@ -1,0 +1,36 @@
+##TITLE=Library Entry 31873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanesulfinic acid
+##MOLFORM=CH4O2S
+##CAS REGISTRY NO=17696-73-0
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    31         80
+    32        102
+    33         80
+    34        147
+    36         48
+    44        112
+    45        200
+    46         94
+    47        147
+    48        219
+    49         40
+    50         32
+    62         86
+    63        325
+    64        368
+    65        999
+    66         40
+    67         54
+    80        493
+    81         32
+    82         48

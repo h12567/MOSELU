@@ -1,0 +1,63 @@
+##TITLE=Library Entry 72563
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. HAMMERUM
+##NAMES=HP
+##CAS NAME=1,2,4,5-Tetrazine, 1,4-diacetyl-2,5-dibutylhexahydro-
+##MOLFORM=C14H28N4O2
+##CAS REGISTRY NO=35028-99-0
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    40         90
+    41        250
+    42        340
+    43        450
+    44        100
+    55         60
+    56         40
+    57        270
+    58         30
+    59         50
+    68         30
+    69        430
+    70         50
+    71        110
+    82         20
+    83         20
+    84        150
+    85        200
+    86        110
+    87         40
+    97         10
+    98         10
+    99        999
+   100         50
+   101         30
+   113        350
+   114         30
+   127         10
+   129         10
+   140         10
+   141        340
+   142        530
+   143        180
+   144         15
+   155         20
+   158         15
+   170         10
+   182         15
+   183         10
+   184         10
+   185         10
+   199         25
+   200         15
+   213          5
+   241         40
+   242          5
+   284         25
+   285          4

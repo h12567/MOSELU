@@ -1,0 +1,60 @@
+##TITLE=Library Entry 52914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Lycorenan-7-one, 4,12-dihydro-5-hydroxy-1-methyl-9,10-[methyleneb
+is(oxy)]-, (5.alpha.,12.beta.)-
+##MOLFORM=C17H19NO5
+##CAS REGISTRY NO=19504-94-0
+##MP= -300
+##BP= -300
+##MW= 317
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41         31
+    42         51
+    43         47
+    44         31
+    55         43
+    57         59
+    69         31
+    71         39
+    81         31
+    82        246
+    83        999
+    84         71
+    85         39
+    95         23
+    96        523
+    97         71
+    98         11
+    99         11
+   104          4
+   105          7
+   109          7
+   110          7
+   111         15
+   115          7
+   116          4
+   117          4
+   123          4
+   125          7
+   126         39
+   127          7
+   133         11
+   134         11
+   135         11
+   139          4
+   145          4
+   147          4
+   151          4
+   162         11
+   169          4
+   173          4
+   190          4
+   191          7
+   317        158
+   318         31

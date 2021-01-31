@@ -1,0 +1,60 @@
+##TITLE=Library Entry 3854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=N-Allyl-N-ethylformamide
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=155809-48-6
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         70
+    26        128
+    27        256
+    28        558
+    29        221
+    30        512
+    31         10
+    37         12
+    38         32
+    39        302
+    40         53
+    41        999
+    42        256
+    43        116
+    44        163
+    45          9
+    46         11
+    51         10
+    52         16
+    53         12
+    54         57
+    55         34
+    56        442
+    57         63
+    58        163
+    59         13
+    67         18
+    68         85
+    69         22
+    70        337
+    71         47
+    72         69
+    80         10
+    82         14
+    84        186
+    85         47
+    86         65
+    96         91
+    97          9
+    98        593
+    99         35
+   112         49
+   113        302
+   114         24

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 20829
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Hexenoic acid, 2-methyl-, methyl ester
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=50652-86-3
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         10
+    39         90
+    40         18
+    41        270
+    42         28
+    43         52
+    44         21
+    45          9
+    50          7
+    51         14
+    52          9
+    53         46
+    54         18
+    55        999
+    56         57
+    57         52
+    59        102
+    65         12
+    66          9
+    67         90
+    68         26
+    69         38
+    70         40
+    71          9
+    72         15
+    73          6
+    77          9
+    79          7
+    81         26
+    82        149
+    83        696
+    84         43
+    85         28
+    86         15
+    87         12
+    88        653
+    89         28
+    95         43
+    99          7
+   101         43
+   109         10
+   110         12
+   111         62
+   112         28
+   127         74
+   128         12
+   142        314
+   143         37

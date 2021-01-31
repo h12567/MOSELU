@@ -1,0 +1,65 @@
+##TITLE=Library Entry 49882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Hexen-2-ol, 5-methyl-
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=50551-88-7
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          6
+    15         50
+    16          6
+    18         27
+    19         36
+    26         27
+    27        300
+    28        148
+    29        261
+    30         12
+    31         88
+    32         31
+    37         15
+    38         45
+    39        445
+    40        113
+    41        506
+    42        176
+    43        599
+    44         60
+    45        627
+    46         13
+    50         43
+    51         59
+    52         32
+    53        182
+    54        130
+    55        602
+    56        112
+    57        179
+    58        523
+    59        183
+    63         15
+    65         49
+    66         23
+    67        141
+    68         66
+    69         61
+    70        191
+    71         60
+    77         35
+    78         14
+    79        201
+    81        999
+    82         63
+    85         21
+    95         44
+    96         95
+    97         20
+    99         56

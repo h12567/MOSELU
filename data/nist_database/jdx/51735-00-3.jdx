@@ -1,0 +1,43 @@
+##TITLE=Library Entry 71384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.Kh. Kimsanov, Ufa Petroleum Inst., Ufa, USSR
+##NAMES=HP
+##CAS NAME=2-Propanol, 3-(1-piperidinyl)-1-propoxy-
+##MOLFORM=C11H23NO2
+##CAS REGISTRY NO=51735-00-3
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         25
+    28         25
+    29         30
+    30         25
+    31         25
+    41         35
+    42         30
+    43         70
+    44         40
+    45         15
+    55         40
+    56         20
+    57         20
+    61         25
+    69         25
+    70         25
+    73         40
+    79         15
+    84         20
+    98        999
+    99         80
+   112         50
+   128         80
+   129         20
+   142         20
+   172         20
+   183          4
+   201         30

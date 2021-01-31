@@ -1,0 +1,61 @@
+##TITLE=Library Entry 100290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Tungsten, tricarbonyl(.eta.5-2,4-cyclopentadien-1-yl)(2,2,3,3,4,4
+,4,-heptafluoro-1-oxobutyl)-
+##MOLFORM=C12H5F7O4W
+##CAS REGISTRY NO=55521-29-4
+##MP= -300
+##BP= -300
+##MW= 530
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    39        486
+    50         60
+    51         90
+    56         80
+    63        211
+    65        758
+    69        201
+    75         73
+    77         90
+    81         77
+    89        369
+    94        134
+    99         90
+   100         60
+   107        107
+   108        140
+   119        999
+   127        812
+   138         56
+   139        107
+   158         86
+   169        630
+   177         19
+   186        382
+   249        540
+   268         77
+   277        312
+   287        103
+   305        506
+   327         26
+   333        211
+   353         20
+   361        167
+   378        147
+   383         33
+   399         30
+   408          6
+   418        335
+   427         33
+   436         13
+   446        184
+   474        134
+   483          6
+   502        570
+   530          6

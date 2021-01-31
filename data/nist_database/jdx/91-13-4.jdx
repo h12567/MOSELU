@@ -1,0 +1,73 @@
+##TITLE=Library Entry 77777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1626
+##NAMES=HP
+##CAS NAME=Benzene, 1,2-bis(bromomethyl)-
+##MOLFORM=C8H8Br2
+##CAS REGISTRY NO=91-13-4
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         22
+    37          9
+    38         26
+    39         81
+    40          5
+    41          3
+    49          8
+    50         82
+    51        238
+    52         98
+    53         10
+    54          1
+    61         10
+    62         26
+    63         67
+    64         10
+    65         15
+    66          1
+    73          4
+    74         27
+    75         24
+    76         34
+    77        157
+    78        160
+    79         10
+    80          8
+    81          7
+    82          8
+    85          2
+    86          3
+    87          4
+    88          1
+    89         12
+    90          3
+    91         25
+    92         22
+    98          5
+    99          1
+   101          5
+   102         51
+   103        191
+   104        999
+   105         92
+   106          4
+   139          2
+   182          5
+   183        816
+   184         77
+   185        794
+   186         69
+   187          2
+   262         53
+   263          6
+   264        103
+   265          9
+   266         51
+   267          4

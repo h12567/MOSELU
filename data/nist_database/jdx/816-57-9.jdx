@@ -1,0 +1,53 @@
+##TITLE=Library Entry 181
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.ROPER HAMBURG UNIVERSITY, HAMBURG, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Urea, N-nitroso-N-propyl-
+##MOLFORM=C4H9N3O2
+##CAS REGISTRY NO=816-57-9
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26        100
+    27        440
+    28        999
+    29        260
+    30        540
+    31        140
+    37         50
+    38         78
+    39        360
+    40        130
+    41        720
+    42        540
+    43        999
+    44        530
+    45         26
+    46         10
+    47        220
+    51         12
+    52         10
+    54         25
+    55         23
+    56        104
+    57         24
+    58         30
+    59        680
+    60         48
+    70        180
+    71         34
+    72         10
+    73         16
+    74         32
+    79         10
+    84         18
+    88        800
+    89         36
+   102         70
+   124         15
+   131        160

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 1611
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Patti Price, Georgia Bureau of Investigation, Decatur,
+ Georgia
+##NAMES=HP
+##CAS NAME=Hydroxyurea
+##MOLFORM=CH4N2O2
+##CAS REGISTRY NO=127-07-1
+##MP= -300
+##BP= -300
+##MW= 76
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    31        136
+    32        115
+    33        999
+    34          7
+    35          1
+    40          1
+    41         13
+    42         36
+    43        111
+    44        662
+    45         11
+    46          1
+    55          1
+    56          1
+    57          1
+    58          1
+    59         14
+    60          7
+    70          1
+    71          1
+    73          1
+    76         24
+    77          3

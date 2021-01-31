@@ -1,0 +1,55 @@
+##TITLE=Library Entry 11849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=4-Pentenoic acid, 2-acetyl-, ethyl ester
+##MOLFORM=C9H14O3
+##CAS REGISTRY NO=610-89-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    29        238
+    30          9
+    39        115
+    40          7
+    41        107
+    42          6
+    43        999
+    44         24
+    45         46
+    46          6
+    53        105
+    54        123
+    55        167
+    56         58
+    57         36
+    58         40
+    59          5
+    73         36
+    74          6
+    81        194
+    82        123
+    83        141
+    84          9
+    97        133
+    98          9
+    99        198
+   100        193
+   101         35
+   102          5
+   109         42
+   110          6
+   124         44
+   125         40
+   126          5
+   127        443
+   128        230
+   129         12
+   152          9
+   170         16
+   171          5

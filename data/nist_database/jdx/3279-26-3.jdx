@@ -1,0 +1,76 @@
+##TITLE=Library Entry 69790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1515
+##NAMES=HP
+##CAS NAME=Methyl dichlorophosphite
+##MOLFORM=CH3Cl2OP
+##CAS REGISTRY NO=3279-26-3
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          4
+    15         60
+    28          3
+    29         36
+    30          5
+    31         16
+    32          2
+    33          6
+    35         14
+    36         11
+    37          5
+    38          4
+    47        356
+    48          4
+    49         10
+    50         61
+    51          3
+    52         18
+    60          1
+    61          3
+    62         31
+    63          3
+    64          1
+    66         76
+    67         18
+    68         30
+    69          7
+    70          2
+    77          1
+    78          1
+    79          5
+    80          5
+    82         16
+    83          3
+    84          5
+    85          1
+    93         10
+    94          4
+    95          1
+    96         12
+    97        999
+    98         14
+    99        328
+   100          3
+   101        121
+   102          5
+   103         80
+   104          3
+   105         13
+   113          1
+   117         39
+   118          1
+   119         25
+   121          4
+   131          2
+   132        229
+   133          4
+   134        146
+   135          2
+   136         31

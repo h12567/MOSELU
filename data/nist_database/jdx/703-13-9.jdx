@@ -1,0 +1,75 @@
+##TITLE=Library Entry 35235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Trifluoroacetic acid, cyclopentyl ester
+##MOLFORM=C7H9F3O2
+##CAS REGISTRY NO=703-13-9
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          9
+    27         57
+    28         25
+    29         60
+    30          1
+    31          5
+    33          1
+    37          4
+    38         12
+    39        130
+    40         53
+    41        298
+    42        182
+    43         30
+    44          7
+    46          2
+    47          4
+    50         21
+    51          8
+    52          4
+    53         46
+    54          6
+    55         32
+    56          5
+    57         44
+    59         57
+    60         10
+    61          2
+    62          2
+    63          4
+    64          1
+    65         19
+    67        337
+    68        677
+    69        999
+    70         43
+    71          4
+    78          7
+    83          3
+    84          6
+    85         26
+    97         21
+    99          8
+   106          2
+   112         18
+   113         12
+   114          1
+   115          6
+   125         61
+   126          4
+   140         26
+   141         22
+   152         12
+   153        147
+   154         29
+   155          2
+   167          1
+   181          3
+   182          3

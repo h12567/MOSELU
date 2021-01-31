@@ -1,0 +1,70 @@
+##TITLE=Library Entry 86188
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3,4,5-Trimethylpyrazole
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=5519-42-6
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=2194
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         13
+    27         50
+    28         34
+    29         17
+    30         20
+    37          7
+    38         13
+    39         64
+    40         25
+    41         84
+    42        154
+    43         24
+    47          4
+    48          2
+    49          1
+    50         16
+    51         28
+    52         39
+    53         37
+    54         88
+    55         19
+    56          6
+    57          2
+    61          1
+    62          5
+    63         11
+    64          4
+    65         16
+    66         21
+    67         13
+    68        139
+    69         54
+    70          3
+    74          2
+    75          0
+    77         16
+    78          4
+    79         18
+    80         10
+    81         11
+    82         14
+    83          3
+    92          2
+    93          3
+    94          4
+    95        461
+    96         46
+    97          1
+   107          4
+   108         21
+   109        999
+   110        903
+   111         73
+   112          2

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 73558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY, INST. ORG. CHEM., UNIV. KARLSRUHE, WEST G
+ERMAN
+##NAMES=HP
+##CAS NAME=N-Ethyl-3-methyl-3-nonanamine
+##MOLFORM=C12H27N
+##CAS REGISTRY NO=71275-03-1
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         47
+    28         78
+    29         85
+    30         62
+    39         23
+    41        110
+    42        116
+    43         90
+    44        124
+    46         20
+    53          8
+    55        132
+    56         40
+    57         54
+    58         40
+    69         35
+    70         66
+    71         23
+    72         80
+    83          8
+    84         27
+    85         35
+    86         20
+    98         43
+    99         12
+   100        999
+   101         70
+   112          8
+   128         12
+   154         30
+   156        730
+   157         78
+   170         78
+   171         10
+   184          5
+   185          1

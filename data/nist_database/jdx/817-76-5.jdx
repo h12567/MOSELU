@@ -1,0 +1,38 @@
+##TITLE=Library Entry 74208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=CH3CHClCH2C(O)OCH3
+##MOLFORM=C5H9ClO2
+##CAS REGISTRY NO=817-76-5
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=870
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        116
+    41        306
+    42        165
+    43        117
+    49         18
+    51          5
+    58         19
+    59        552
+    60         18
+    61         12
+    63         74
+    65         18
+    69         86
+    77        248
+    79         93
+   100         73
+   101        999
+   102         62
+   105        223
+   106         12
+   107         79
+   135          6
+   136          6

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 13276
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Phenol, 3,5-dinitro-, acetate (ester)
+##MOLFORM=C8H6N2O6
+##CAS REGISTRY NO=34253-18-4
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41         15
+    42         33
+    43        999
+    44         35
+    45          7
+    46         10
+    49          3
+    50         10
+    51         11
+    52         22
+    53          4
+    57          1
+    60          1
+    61         10
+    62         36
+    63        140
+    64         93
+    65         13
+    66          2
+    67          7
+    74          9
+    75         20
+    76          4
+    77          4
+    78          5
+    79          8
+    88          1
+    89          4
+    90         10
+    91         25
+    92          3
+    95          6
+   104          2
+   107         17
+   108          3
+   136         10
+   137         21
+   138          2
+   151          5
+   167          5
+   183        268
+   184         22
+   185          1
+   225          9
+   226         42
+   227          4

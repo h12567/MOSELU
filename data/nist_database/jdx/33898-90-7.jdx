@@ -1,0 +1,88 @@
+##TITLE=Library Entry 87815
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Thenoylacetonitrile
+##MOLFORM=C7H5NOS
+##CAS REGISTRY NO=33898-90-7
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          5
+    14          1
+    18          1
+    24          1
+    25          7
+    26         16
+    27          8
+    28          6
+    32          3
+    33          2
+    36          6
+    37         43
+    38         76
+    39        395
+    40         83
+    41         15
+    42          9
+    44          9
+    45         95
+    46          4
+    47          6
+    48          3
+    49         17
+    50         27
+    51         12
+    52          5
+    53         28
+    54          2
+    56          7
+    57         98
+    58         24
+    59          7
+    60          3
+    61          8
+    62         12
+    63          6
+    64          3
+    65          1
+    66          2
+    67          2
+    68         19
+    69         23
+    70          4
+    71          2
+    72          2
+    74          2
+    75          3
+    76          2
+    77          4
+    78          2
+    81         38
+    82         42
+    83        134
+    84         16
+    85          7
+    86          1
+    93          2
+    94          2
+    95          3
+    96          3
+    97          4
+    99          1
+   109          3
+   111        999
+   112         64
+   113         50
+   114          3
+   122          4
+   123          1
+   151        146
+   152         14
+   153          7

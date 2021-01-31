@@ -1,0 +1,60 @@
+##TITLE=Library Entry 22375
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Sulphuric acid dibutyl ester
+##MOLFORM=C8H18O4S
+##CAS REGISTRY NO=625-22-9
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15         24
+    16          1
+    18          1
+    19          3
+    27        238
+    28        155
+    29        391
+    30         24
+    31         47
+    37          1
+    39        115
+    41        555
+    42         50
+    43         84
+    44         16
+    45         16
+    48          3
+    49          1
+    50          3
+    51          3
+    52          1
+    53         11
+    55        115
+    56        999
+    57        826
+    58         38
+    59          8
+    64          2
+    65          4
+    69          2
+    70          3
+    71          3
+    72          1
+    73         14
+    74          1
+    81          2
+    83          4
+    87         27
+    88          1
+    99          3
+   101          1
+   113          2
+   125          1
+   126          2
+   139          1

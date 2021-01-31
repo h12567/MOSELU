@@ -1,0 +1,62 @@
+##TITLE=Library Entry 7191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.A. GEORGE, US AGRIC. RES. LAB., YAKIMA, WASH.,.
+##NAMES=HP
+##CAS NAME=trans-2,3-Epoxynonane
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=56820-01-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39        530
+    40         90
+    41        870
+    42        730
+    43        999
+    44        220
+    45        730
+    46         20
+    51         50
+    52         20
+    53        150
+    54        250
+    55        900
+    56        900
+    57        800
+    58        770
+    59        130
+    65         30
+    66         30
+    67        240
+    68        500
+    69        660
+    70        640
+    71        520
+    72        200
+    73         20
+    80         60
+    81         20
+    82        270
+    83        100
+    84        190
+    85        120
+    86        380
+    87         40
+    95        110
+    96        250
+    97        280
+    98        140
+    99         70
+   100         40
+   109         20
+   113         60
+   124        100
+   125         20
+   126        120
+   127         60
+   142         40

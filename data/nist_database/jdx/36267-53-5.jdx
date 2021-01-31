@@ -1,0 +1,25 @@
+##TITLE=Library Entry 29548
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MOLLER UNIV. OF COPENHAGEN, COPENHAGEN, DENMARK
+##NAMES=HP
+##CAS NAME=Phosphonofluoridothioic hydrazide, P-ethyl-2,2-dimethyl-
+##MOLFORM=C4H12FN2PS
+##CAS REGISTRY NO=36267-53-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    29        650
+    30        180
+    42        460
+    43        360
+    44        190
+    59        999
+    63         60
+    82         30
+   111         60
+   170         80

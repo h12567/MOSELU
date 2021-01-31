@@ -1,0 +1,30 @@
+##TITLE=Library Entry 98129
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. MASHENKOV, BELORUSS. STATE UNIV., MINSK, USSR
+##NAMES=HP
+##CAS NAME=3.alpha.-Hydroxy-3-methyl-6-phenyl-4-piperidone
+##MOLFORM=C12H15NO2
+##CAS REGISTRY NO=103021-97-2
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    91        420
+   103        190
+   104        800
+   105        670
+   106        490
+   118        999
+   119        620
+   120        140
+   133        210
+   134        100
+   162         90
+   177        200
+   187        190
+   188         80
+   205        380

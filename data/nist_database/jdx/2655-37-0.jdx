@@ -1,0 +1,55 @@
+##TITLE=Library Entry 86047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, VOL.4, ATLAS OF MASS SPECTRA OF ORGANIC C
+OMPOUNDS
+##NAMES=HP
+##CAS NAME=3,5-Dimethyl-1-butylpyrazole
+##MOLFORM=C9H16N2
+##CAS REGISTRY NO=2655-37-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        114
+    28         93
+    29        100
+    30         18
+    38         13
+    39        200
+    40         59
+    41        293
+    42        252
+    43         35
+    51         14
+    53         66
+    54         59
+    55         75
+    56         43
+    57         18
+    65         31
+    66         38
+    67         32
+    68        100
+    69         29
+    79         31
+    80         30
+    81         34
+    82         55
+    83         11
+    95        212
+    96        498
+    97         96
+   108         25
+   109        999
+   110        189
+   111         12
+   123         13
+   137        106
+   138         47
+   151         13
+   152        266
+   153         30

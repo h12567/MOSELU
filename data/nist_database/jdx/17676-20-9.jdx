@@ -1,0 +1,29 @@
+##TITLE=Library Entry 72190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.M. ORTUNO, DEP. QUIM. ORG., BARCELONA UNIV., SPAIN
+##NAMES=HP
+##CAS NAME=.alpha.,.beta.-Methyl-2-deoxy-D-ribopyranoside
+##MOLFORM=C6H12O4
+##CAS REGISTRY NO=17676-20-9
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        250
+    44        270
+    45        700
+    57        450
+    58        430
+    59        590
+    60        350
+    61        300
+    69        240
+    71        800
+    73        600
+    88        590
+    99        999
+   117        180

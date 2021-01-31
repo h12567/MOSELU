@@ -1,0 +1,54 @@
+##TITLE=Library Entry 18408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1-Chloro-2-methylenecyclopropane
+##MOLFORM=C4H5Cl
+##CAS REGISTRY NO=70302-78-2
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14         14
+    15         13
+    25         18
+    26         95
+    27        439
+    29         33
+    31         27
+    35         16
+    36         23
+    37         52
+    38         51
+    39        103
+    41         41
+    42         10
+    43         23
+    45         38
+    47         12
+    48         15
+    49         64
+    50        155
+    51        197
+    52        145
+    53        999
+    54         43
+    55         30
+    56         11
+    57         12
+    59         16
+    60          9
+    61         22
+    62         70
+    63         10
+    69         17
+    73         24
+    75         11
+    82         15
+    88        118
+    90         36

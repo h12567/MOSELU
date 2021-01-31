@@ -1,0 +1,55 @@
+##TITLE=Library Entry 72238
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 1-propyl-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=5445-24-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15         11
+    27        101
+    28         63
+    29         91
+    31         21
+    39         86
+    40         21
+    41        161
+    42         45
+    43        219
+    44         12
+    45         14
+    51         12
+    53         48
+    54         20
+    55        137
+    56         12
+    57        166
+    58         96
+    65         18
+    66          8
+    67         60
+    68         18
+    69         30
+    70         19
+    71         80
+    72         11
+    77         16
+    79         58
+    81        409
+    82         65
+    83         18
+    86        101
+    87         16
+    91         13
+    95         21
+    99        999
+   100         81
+   113         13
+   124         13

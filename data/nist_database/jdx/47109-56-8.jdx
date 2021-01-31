@@ -1,0 +1,63 @@
+##TITLE=Library Entry 30777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0286
+##NAMES=HP
+##CAS NAME=Morphinan, 3-methoxy-17-methyl-6-methylene-
+##MOLFORM=C19H25NO
+##CAS REGISTRY NO=47109-56-8
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    58         80
+    59        999
+    60         90
+    61         10
+    70         80
+    71         10
+    77         70
+    78         10
+    82         80
+    83         10
+    91         70
+    92         10
+   115        100
+   116         20
+   137         40
+   138        100
+   139         70
+   140         20
+   141         70
+   142         30
+   152         40
+   153         50
+   154         10
+   162        440
+   163         70
+   164         10
+   165         60
+   166         10
+   171        150
+   172         50
+   173         10
+   174         50
+   184         50
+   185         60
+   203        140
+   204         20
+   224         80
+   225         70
+   226        110
+   227         20
+   240         80
+   241         10
+   268         90
+   269         20
+   282        200
+   283        650
+   284        140
+   285         20

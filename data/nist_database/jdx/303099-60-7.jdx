@@ -1,0 +1,63 @@
+##TITLE=Library Entry 99268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-(1-Benzyl-1H-1,2,4-triazol-3-yl)-o-toluamide
+##MOLFORM=C17H16N4O
+##CAS REGISTRY NO=303099-60-7
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    36          6
+    37         12
+    39        224
+    40         46
+    41         61
+    42         12
+    43         15
+    44         11
+    46          8
+    50         48
+    51         82
+    52         21
+    53         16
+    54         53
+    55          7
+    61          9
+    62         36
+    63         85
+    65        444
+    66         18
+    74          8
+    75          9
+    76         13
+    77         26
+    78         11
+    86          5
+    89        147
+    91        996
+    92         72
+   103          7
+   104         11
+   105          7
+   119        999
+   120         74
+   121          5
+   133          8
+   173         26
+   174         10
+   201          9
+   262          7
+   263         16
+   264         69
+   265         10
+   275          7
+   277         43
+   278          5
+   292         61
+   293          8

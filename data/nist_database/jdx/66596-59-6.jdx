@@ -1,0 +1,66 @@
+##TITLE=Library Entry 59946
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Imidazo[4,5,1-jk][1,4]benzodiazepin-7(4H)-one, 9-chloro-5,6-dihyd
+ro-2-(phenylmethyl)-
+##MOLFORM=C17H14ClN3O
+##CAS REGISTRY NO=66596-59-6
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        397
+    43        258
+    51        358
+    55        231
+    63        213
+    65        464
+    75        402
+    77        280
+    89        262
+    91        999
+   100        229
+   103        259
+   110        208
+   116        150
+   127        131
+   128         89
+   136        172
+   137        110
+   149         90
+   151         69
+   163        119
+   165        131
+   177         90
+   180         70
+   191        150
+   192        149
+   204         89
+   205        109
+   218        129
+   219        111
+   239        109
+   242        100
+   253        251
+   254        131
+   255        130
+   267        211
+   269        341
+   271        131
+   276         70
+   281         60
+   282         70
+   283         49
+   284         40
+   296         80
+   298         40
+   310        462
+   311        461
+   312        249
+   313        189
+   314         70

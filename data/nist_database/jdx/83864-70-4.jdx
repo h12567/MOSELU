@@ -1,0 +1,36 @@
+##TITLE=Library Entry 53441
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. IKEYA, TSUMURA LAB., FAC. PHARM. SCI., TOKYO UNIV.,
+ JAPAN
+##NAMES=HP
+##CAS NAME=Angeloylisogomisin O
+##MOLFORM=C28H34O8
+##CAS REGISTRY NO=83864-70-4
+##MP= -300
+##BP= -300
+##MW= 498
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    55        400
+    83        999
+   100        320
+   165        120
+   181        200
+   300        100
+   330        150
+   331        120
+   342        120
+   343        120
+   356        100
+   368        120
+   369        150
+   386        120
+   398        999
+   399        570
+   400        130
+   415        130
+   498        820
+   499        270

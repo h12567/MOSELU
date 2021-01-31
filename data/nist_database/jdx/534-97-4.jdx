@@ -1,0 +1,57 @@
+##TITLE=Library Entry 66238
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.ITO MEIJI SEIKA KAISHA LTD., RES. LABS., YOKOHAMA, JA
+PAN.
+##NAMES=HP
+##CAS NAME=D-Glucose phenylosazone
+##MOLFORM=C18H22N4O4
+##CAS REGISTRY NO=534-97-4
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    50         50
+    51        150
+    52         60
+    55         70
+    56         50
+    57         50
+    60         70
+    61         90
+    63         60
+    64         90
+    65        520
+    66        210
+    77        630
+    78        110
+    91        200
+    92        690
+    93        999
+    94        240
+   104         90
+   105         80
+   108         90
+   118         60
+   119        150
+   145         50
+   146         60
+   158         70
+   173         70
+   174        150
+   175         50
+   188        110
+   249         60
+   262         70
+   263         50
+   266         50
+   267         90
+   322        260
+   323         60
+   340        280
+   341         70
+   358        400
+   359         80

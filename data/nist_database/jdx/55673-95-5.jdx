@@ -1,0 +1,73 @@
+##TITLE=Library Entry 84384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(8)774(1974); MANDELBAUM
+##NAMES=HP
+##CAS NAME=3-Cyclobutene-1,2-dicarboxylic acid, 3,4-diethyl-, dimethyl ester
+, trans-
+##MOLFORM=C12H18O4
+##CAS REGISTRY NO=55673-95-5
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    40         48
+    41        371
+    42         32
+    43         97
+    45         81
+    50         32
+    51        145
+    52         64
+    53        226
+    54         49
+    55        113
+    57         64
+    59        307
+    63         48
+    65        161
+    66         48
+    67        145
+    69         32
+    77        339
+    78         97
+    79        371
+    80         81
+    81         64
+    91        548
+    92        113
+    93        242
+    94         32
+    95         48
+   105        161
+   106        339
+   107        999
+   108        161
+   109         81
+   113         64
+   119         97
+   121         32
+   123        113
+   124         32
+   133         32
+   134        200
+   135        193
+   136         32
+   137         64
+   138         32
+   139         32
+   151        226
+   152         32
+   153         32
+   165         48
+   166        774
+   167        468
+   168         64
+   194        693
+   195        161
+   196         32
+   226        274
+   227         81

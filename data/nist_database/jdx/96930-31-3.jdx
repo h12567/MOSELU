@@ -1,0 +1,66 @@
+##TITLE=Library Entry 98155
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Kirk, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=N-[(2'-Hydroxy-2-phenyl)acetyl]-4-methyl-5-phenyl-oxazolidin-2-on
+e, (2'.alpha.)-
+##MOLFORM=C18H17NO4
+##CAS REGISTRY NO=96930-31-3
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        178
+    42         69
+    43         46
+    44         95
+    49          9
+    50         60
+    51        146
+    52         34
+    53         35
+    55         27
+    57          4
+    62         18
+    63         47
+    64         26
+    65         34
+    70         88
+    75          3
+    76          5
+    77        438
+    78         80
+    79        401
+    80         28
+    84          4
+    89        139
+    90        250
+    91         89
+    92          3
+   103         19
+   105        233
+   106         32
+   107        595
+   108         51
+   115         29
+   117         15
+   118        999
+   119         89
+   130          4
+   132         74
+   133         34
+   134        147
+   135          4
+   160          8
+   161        149
+   162         12
+   190          4
+   205        261
+   206         40
+   262          4
+   311         84
+   312         14

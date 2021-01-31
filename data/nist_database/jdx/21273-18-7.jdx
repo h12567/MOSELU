@@ -1,0 +1,59 @@
+##TITLE=Library Entry 58438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Methoxybutanoic acid, TMS derivative
+##MOLFORM=C8H18O3Si
+##CAS REGISTRY NO=21273-18-7
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        140
+    42         10
+    43         60
+    44         20
+    45        250
+    47         60
+    51         20
+    58         50
+    59        150
+    60         10
+    61         50
+    69        100
+    71         10
+    72         50
+    73        530
+    74         40
+    75        440
+    76         30
+    77         20
+    85         20
+    88         10
+    89        999
+    90         70
+    91         40
+   100         20
+   101         20
+   102         10
+   104         10
+   106         10
+   116         20
+   117        300
+   118         30
+   119         10
+   129         20
+   132         90
+   133         40
+   143         20
+   145         30
+   146         10
+   147         20
+   175         80
+   176         10
+   190          1

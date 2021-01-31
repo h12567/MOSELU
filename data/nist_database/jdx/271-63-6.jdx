@@ -1,0 +1,77 @@
+##TITLE=Library Entry 97973
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=1H-Pyrrolo[2,3-b]pyridine
+##MOLFORM=C7H6N2
+##CAS REGISTRY NO=271-63-6
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=1292
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          1
+    14          1
+    15          1
+    16          0
+    24          1
+    25          3
+    26         15
+    27         22
+    28        117
+    29          2
+    30          0
+    36          6
+    37         61
+    38         88
+    39         94
+    40         24
+    41         44
+    42          3
+    45          5
+    46         13
+    48          2
+    49         11
+    50         38
+    51         39
+    52         36
+    53         18
+    54          3
+    55          1
+    57          0
+    59         52
+    60          8
+    61         40
+    62         81
+    63        230
+    64        214
+    65         59
+    66         12
+    67         45
+    68          2
+    72          0
+    73          2
+    74          9
+    75         11
+    76          9
+    77          6
+    78         25
+    79          5
+    86          3
+    87          7
+    88         11
+    89         15
+    90         98
+    91        565
+    92         71
+    93          3
+    94          0
+   103          0
+   117        139
+   118        999
+   119         81
+   120          3

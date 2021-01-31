@@ -1,0 +1,36 @@
+##TITLE=Library Entry 15103
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=L-Alanine, methyl ester
+##MOLFORM=C4H9NO2
+##CAS REGISTRY NO=10065-72-2
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         71
+    28        183
+    29         82
+    30         60
+    31         19
+    33         82
+    39         11
+    40         27
+    41         49
+    42        183
+    43         60
+    44        999
+    45         38
+    56         11
+    57         11
+    60         19
+    61         19
+    72         41
+    88         49
+   103         60

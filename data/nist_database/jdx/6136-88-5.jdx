@@ -1,0 +1,55 @@
+##TITLE=Library Entry 72877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Henicosane-2,4-dione
+##MOLFORM=C21H40O2
+##CAS REGISTRY NO=6136-88-5
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=2413
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27         18
+    29         40
+    39         19
+    41        129
+    42         33
+    43        633
+    57        127
+    58         77
+    59         25
+    71         97
+    72        107
+    84         22
+    85        485
+    86         23
+    87         13
+    94         15
+   100        999
+   101        176
+   102         15
+   111         18
+   113        176
+   114         13
+   124         24
+   127         10
+   138         45
+   142         29
+   154          7
+   156          6
+   220          4
+   248         22
+   263          3
+   266          8
+   267          8
+   290          3
+   291          3
+   306         18
+   307          4
+   309          5
+   323          3
+   324          9

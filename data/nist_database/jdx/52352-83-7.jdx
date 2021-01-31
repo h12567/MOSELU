@@ -1,0 +1,48 @@
+##TITLE=Library Entry 65831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VAINIOTALO, DEPT. CHEM., UNIV. JOENSUU, JOENSUU, FIN
+LAND
+##NAMES=HP
+##CAS NAME=2-Ethyl-2-norbornyl acetate
+##MOLFORM=C11H18O2
+##CAS REGISTRY NO=52352-83-7
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        122
+    29        151
+    39        192
+    41        230
+    43        902
+    45        227
+    53        106
+    55        121
+    57        356
+    60        203
+    66        496
+    67        420
+    68        152
+    72        244
+    73        250
+    77        218
+    79        536
+    80        195
+    81        192
+    83        151
+    91        218
+    93        999
+    94        340
+   107        233
+   110        322
+   111        766
+   122        461
+   140        102
+   153        133
+   154         18
+   164          6
+   182          9

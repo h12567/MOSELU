@@ -1,0 +1,47 @@
+##TITLE=Library Entry 4082
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Tetrazole-5-thiole, 1-allyl-
+##MOLFORM=C4H6N4S
+##CAS REGISTRY NO=7624-33-1
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        182
+    28        420
+    29         54
+    38         67
+    39        611
+    40         74
+    41        999
+    44         99
+    45        112
+    53         41
+    54        252
+    55        204
+    56         52
+    59        112
+    60        178
+    69         19
+    71         32
+    72         77
+    73         21
+    81        631
+    82         40
+    86         11
+    87         18
+    98         15
+    99         14
+   103         30
+   113         17
+   114         23
+   142        727
+   143         85
+   144         39
+   145          5

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 12088
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MALMBERG, DEP. CHEM., UNIV. AGRIC. SCI., UPPSALA, SW
+EDEN
+##NAMES=HP
+##CAS NAME=Anhydro-.beta.-rotunol
+##MOLFORM=C15H20O
+##CAS REGISTRY NO=34206-82-1
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        367
+    41        617
+    43        999
+    44        205
+    51        161
+    55        147
+    65        161
+    69        176
+    77        264
+    79        250
+    91        558
+   105        294
+   115        161
+   131        161
+   135        999
+   145        470
+   148        176
+   159        308
+   173        514
+   175        205
+   176         73
+   188        102
+   201        294
+   216        250
+   217         58

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 82571
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5867
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(4-pyridinyl)-
+##MOLFORM=C7H7NO
+##CAS REGISTRY NO=1122-54-9
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=1112
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14         17
+    15        102
+    16          1
+    18          2
+    24          1
+    25          7
+    26         35
+    27         17
+    28         42
+    29          6
+    31          3
+    32          1
+    36          5
+    37         28
+    38         36
+    39         82
+    40          9
+    41          6
+    42         33
+    43        703
+    44         16
+    45          2
+    46          1
+    48          4
+    49         34
+    50        216
+    51        596
+    52        166
+    53         23
+    54          3
+    57          1
+    60          4
+    61         11
+    62         18
+    63         29
+    64          9
+    65         21
+    66          6
+    67          2
+    73          2
+    74          8
+    75         16
+    76         16
+    77         14
+    78        939
+    79        352
+    80         24
+    81          1
+    91          2
+    92         11
+    93          7
+    94          2
+   101          1
+   102          1
+   103          1
+   104          2
+   105          2
+   106        999
+   107         77
+   108          5
+   109          1
+   117          2
+   118          1
+   119          1
+   120          4
+   121        870
+   122         71
+   123          5

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 29278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinethione, 5,5-dimethyl-4-phenyl-
+##MOLFORM=C12H15NS
+##CAS REGISTRY NO=35418-39-4
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    42        160
+    51        140
+    58        999
+    77        210
+    78        130
+    91        300
+   100        360
+   103        190
+   104        240
+   114        599
+   115        450
+   131        170
+   147        240
+   190        160
+   205        899

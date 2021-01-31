@@ -1,0 +1,38 @@
+##TITLE=Library Entry 16042
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-dimethylphosphoric amide
+##MOLFORM=C4H12NOP
+##CAS REGISTRY NO=50663-05-3
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41          4
+    42        108
+    43         12
+    44        999
+    45         40
+    46          3
+    47         34
+    49         23
+    58         52
+    60          4
+    62          3
+    63        111
+    76          3
+    77        145
+    78        174
+    79         15
+    90         12
+    92          2
+   106        267
+   107          6
+   120          6
+   121        159
+   122          4

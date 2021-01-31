@@ -1,0 +1,33 @@
+##TITLE=Library Entry 59304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Benzyloxy-2-carbethoxyazetidine
+##MOLFORM=C13H17NO3
+##CAS REGISTRY NO=53084-26-7
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    51         68
+    52         21
+    55        143
+    56         53
+    65        125
+    66          5
+    76         14
+    77        132
+    78         32
+    90         21
+    91        999
+    92         78
+    93          7
+   162         68
+   163          7
+   235         58
+   236         10
+   237          1

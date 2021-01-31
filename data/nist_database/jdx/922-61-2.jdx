@@ -1,0 +1,64 @@
+##TITLE=Library Entry 3386
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4613
+##NAMES=HP
+##CAS NAME=2-Pentene, 3-methyl-
+##MOLFORM=C6H12
+##CAS REGISTRY NO=922-61-2
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=610
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    24          1
+    26         18
+    27        179
+    28         26
+    29        135
+    30          3
+    31          2
+    32          1
+    37          7
+    38         15
+    39        204
+    40         37
+    41        999
+    42        135
+    43         75
+    44          3
+    45          4
+    49          5
+    50         25
+    51         39
+    52         16
+    53        106
+    54         44
+    55        486
+    56        222
+    57         12
+    61          2
+    62          5
+    63          7
+    64          2
+    65         16
+    66          7
+    67         81
+    68         16
+    69        869
+    70         51
+    71          2
+    77          5
+    78          1
+    79          4
+    80          1
+    81          5
+    82          4
+    83         12
+    84        453
+    85         33
+    86          1

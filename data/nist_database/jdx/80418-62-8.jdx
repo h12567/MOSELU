@@ -1,0 +1,59 @@
+##TITLE=Library Entry 21312
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 6-chloroheptanoate
+##MOLFORM=C8H14Cl2O2
+##CAS REGISTRY NO=80418-62-8
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=1391
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    36         50
+    39        188
+    41        605
+    42        266
+    43        305
+    49        187
+    51         60
+    53         81
+    54         40
+    55        999
+    56        138
+    57         78
+    67        218
+    68        723
+    69        470
+    70         40
+    71         20
+    72        557
+    76         10
+    77         49
+    79         40
+    81        119
+    82        317
+    83        447
+    84         59
+    85        119
+    89         10
+    93         49
+    95         20
+    97         10
+    99         19
+   102         69
+   105         29
+   107         10
+   108        956
+   109         49
+   110        743
+   111        389
+   118         29
+   119         29
+   121        108
+   135         69
+   147        327
+   149        108

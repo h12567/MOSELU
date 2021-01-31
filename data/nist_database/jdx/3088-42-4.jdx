@@ -1,0 +1,59 @@
+##TITLE=Library Entry 4919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Glycine, N-(2-cyanoethyl)-
+##MOLFORM=C5H8N2O2
+##CAS REGISTRY NO=3088-42-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    42        999
+    43        202
+    44         46
+    45        105
+    46          6
+    51          2
+    52         39
+    53         12
+    54        325
+    55         37
+    56         42
+    57         21
+    58         14
+    59         10
+    60        123
+    61          5
+    67          7
+    68          7
+    69         25
+    70         16
+    71          7
+    72          5
+    73          4
+    74          6
+    75          7
+    77          7
+    78         13
+    79          1
+    81         30
+    82         17
+    83        803
+    84         54
+    85          4
+    87          4
+    88        186
+    89          8
+    91          1
+   101         76
+   102          2
+   110          4
+   111          7
+   127          4
+   128          9
+   129          3

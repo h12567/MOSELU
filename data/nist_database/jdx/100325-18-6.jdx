@@ -1,0 +1,38 @@
+##TITLE=Library Entry 11608
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.J. ARRIAGA, DEP. QUIM. ORG., UNIV. AUTONOMA MADRID, S
+PAIN
+##NAMES=HP
+##CAS NAME=3.alpha.-Acetylcuauhtemone
+##MOLFORM=C17H26O4
+##CAS REGISTRY NO=100325-18-6
+##MP= -300
+##BP= -300
+##MW= 294
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41         93
+    43        999
+    55        107
+    67        126
+    73        130
+    81        100
+    83        100
+    91        126
+    95        144
+   107        130
+   109        152
+   121        244
+   123        148
+   125        159
+   133         96
+   149        122
+   201         85
+   216        100
+   234         11
+   252         15
+   294        137
+   295         37

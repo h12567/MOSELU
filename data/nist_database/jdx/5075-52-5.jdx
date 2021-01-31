@@ -1,0 +1,45 @@
+##TITLE=Library Entry 43620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O A MAMER, MCGILL UNIVERSITY, MONTREAL
+##NAMES=HP
+##CAS NAME=Catechol, 2TMS derivative
+##MOLFORM=C12H22O2Si2
+##CAS REGISTRY NO=5075-52-5
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=1326
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    28          7
+    29          6
+    43         21
+    44         15
+    45        112
+    46          8
+    47          6
+    57          5
+    58          6
+    59         15
+    72          9
+    73        999
+    74         91
+    75         48
+    91         12
+   105          7
+   131          7
+   133          7
+   136         26
+   137          6
+   147         11
+   149          7
+   151         33
+   166         23
+   167          4
+   239         49
+   240         12
+   254        187
+   255         45
+   256         20

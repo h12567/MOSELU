@@ -1,0 +1,51 @@
+##TITLE=Library Entry 98697
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,5-Isoxazoledione, 3-methyl-, 4-[(2,4-dimethylphenyl)hydrazone]
+##MOLFORM=C12H13N3O2
+##CAS REGISTRY NO=5669-53-4
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39        260
+    40        110
+    41        240
+    42        120
+    44        230
+    51        160
+    52        150
+    53        120
+    65        190
+    77        100
+    78        140
+    79        140
+    91        420
+    92        230
+    93        350
+   103         90
+   104        260
+   105        370
+   106        140
+   117        100
+   118        999
+   119        749
+   120        400
+   121        190
+   131         70
+   132         80
+   133        140
+   144        110
+   145        140
+   146         80
+   159        110
+   168         50
+   169         70
+   186        160
+   190         40
+   231        769

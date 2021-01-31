@@ -1,0 +1,61 @@
+##TITLE=Library Entry 31225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=L-Methionine, ethyl ester
+##MOLFORM=C7H15NO2S
+##CAS REGISTRY NO=3082-77-7
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27         94
+    28        163
+    29        103
+    30         60
+    39         34
+    41         51
+    42         60
+    43         69
+    44         25
+    45         51
+    46         43
+    47         51
+    48         25
+    49         25
+    54         43
+    55         51
+    56        646
+    57        103
+    58         51
+    59         25
+    60         17
+    61        999
+    62         43
+    63         51
+    74        198
+    75        103
+    83         51
+    87         34
+    88         43
+   100        137
+   101         17
+   102         86
+   103         34
+   104        586
+   105         43
+   106         25
+   114         25
+   116         60
+   129        103
+   130         25
+   131        120
+   148         43
+   160         25
+   177        129
+   178         34
+   179         25

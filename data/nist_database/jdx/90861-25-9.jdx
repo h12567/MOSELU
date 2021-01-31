@@ -1,0 +1,39 @@
+##TITLE=Library Entry 54263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-5-(piperid-1-yl-sulfonyl)-benzimidazole
+##MOLFORM=C13H17N3O2S
+##CAS REGISTRY NO=90861-25-9
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    64         70
+    65         20
+    78         50
+    82          9
+    83         20
+    84        999
+    85         60
+    90         40
+   104         49
+   131        288
+   132        250
+   133         30
+   147         49
+   148         20
+   153          9
+   179         29
+   195        148
+   196         19
+   197         19
+   215         20
+   278         29
+   279         99
+   280         20
+   281         10

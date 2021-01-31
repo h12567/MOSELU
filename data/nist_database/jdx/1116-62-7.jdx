@@ -1,0 +1,50 @@
+##TITLE=Library Entry 35470
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Triallylsilane
+##MOLFORM=C9H16Si
+##CAS REGISTRY NO=1116-62-7
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39         38
+    41         47
+    42         29
+    43        426
+    44         41
+    45        100
+    53         20
+    55        108
+    56         17
+    57         62
+    59         29
+    67         45
+    68         30
+    69        999
+    70        110
+    71        119
+    79         11
+    81         39
+    82         27
+    83        528
+    84         62
+    85         36
+    95         51
+    96         20
+    97          6
+    98          8
+   109         47
+   110         81
+   111        268
+   112         40
+   113         10
+   123          8
+   124         35
+   151         11
+   152         10

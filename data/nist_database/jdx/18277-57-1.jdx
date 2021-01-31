@@ -1,0 +1,41 @@
+##TITLE=Library Entry 11155
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 4-(1-aziridinyl)-
+##MOLFORM=C6H9NO
+##CAS REGISTRY NO=18277-57-1
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        118
+    40        110
+    41        788
+    42        720
+    43        999
+    44         67
+    52          8
+    53        194
+    54        152
+    55        194
+    61         50
+    62         21
+    63         29
+    67         55
+    68        389
+    69         84
+    80         42
+    81        105
+    82        745
+    83        190
+    84         16
+    96        923
+    97         50
+    98         29
+   111        966
+   112         33

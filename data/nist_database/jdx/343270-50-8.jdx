@@ -1,0 +1,45 @@
+##TITLE=Library Entry 88121
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-(Butyliden-2-one)tetrahydrofuran
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=343270-50-8
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        203
+    29        232
+    31         43
+    39        101
+    41         96
+    42         71
+    43        158
+    51         27
+    52         23
+    53         50
+    55         66
+    56         24
+    57        228
+    69        974
+    70         38
+    71         10
+    72         20
+    81         13
+    84         17
+    85         19
+    86         12
+    87         43
+    97         13
+    99         63
+   111        999
+   112         69
+   114         25
+   140        128
+   141         13
+   142          2

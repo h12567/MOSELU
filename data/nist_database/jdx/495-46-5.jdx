@@ -1,0 +1,39 @@
+##TITLE=Library Entry 78863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NHLBI, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Ornithuric acid
+##MOLFORM=C19H20N2O4
+##CAS REGISTRY NO=495-46-5
+##MP= -300
+##BP= -300
+##MW= 340
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        112
+    44         26
+    45        175
+    50         26
+    51        180
+    52         42
+    55         24
+    69        177
+    70         44
+    77        501
+    78        181
+   105        999
+   106         27
+   122         56
+   123         23
+   128         24
+   162         52
+   163         23
+   174        118
+   175         36
+   218         95
+   219         29
+   340         88
+   341         24

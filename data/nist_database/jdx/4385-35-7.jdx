@@ -1,0 +1,31 @@
+##TITLE=Library Entry 77082
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(5)1730(1978); R. GRETLER ETAL.
+##NAMES=HP
+##CAS NAME=3H-2-Benzopyran-3-one, 1,4-dihydro-
+##MOLFORM=C9H8O2
+##CAS REGISTRY NO=4385-35-7
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        150
+    50        100
+    51        160
+    52         70
+    62         60
+    63        140
+    65        100
+    77         90
+    78        200
+    89        100
+    91        300
+    92         60
+   103        220
+   104        999
+   105        110
+   148        250

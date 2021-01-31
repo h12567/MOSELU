@@ -1,0 +1,39 @@
+##TITLE=Library Entry 93153
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Morinamide
+##MOLFORM=C10H14N4O2
+##CAS REGISTRY NO=952-54-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=1906
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41         62
+    42        127
+    52        263
+    53        136
+    56        348
+    57        389
+    70         42
+    79        445
+    80        137
+    86        450
+    87         61
+    88         29
+    99         68
+   100        327
+   107        328
+   108         49
+   115        999
+   116         68
+   135         50
+   136        178
+   137         99
+   179          9
+   222         49
+   223         10

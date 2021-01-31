@@ -1,0 +1,47 @@
+##TITLE=Library Entry 54863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2-Heptene, 2-methoxy-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=61142-43-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        100
+    40         20
+    41        140
+    42         60
+    43        220
+    44         30
+    45         50
+    50         10
+    51         10
+    52         12
+    53         30
+    54         20
+    55        585
+    56         40
+    57         20
+    58         12
+    59         22
+    65          8
+    67         33
+    69         20
+    70         11
+    71         30
+    72        100
+    73         11
+    85        999
+    86         70
+    99         21
+   113         10
+   128        100
+   129         10

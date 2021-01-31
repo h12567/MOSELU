@@ -1,0 +1,59 @@
+##TITLE=Library Entry 8098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.R.DIXON GLAMORGAN POLYTECHNIC, PONTYPRIDD, GLAMORGAN,
+ UK
+##NAMES=HP
+##CAS NAME=4-Cyclooctene-1-carboxaldehyde
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=19835-69-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        370
+    40         70
+    41        500
+    42        120
+    43        999
+    44         90
+    51         60
+    53        150
+    54        300
+    55        300
+    56         70
+    57        300
+    58        660
+    66         80
+    67        620
+    68        200
+    69         90
+    70        110
+    71         70
+    73         80
+    77         80
+    78         80
+    79        320
+    80        150
+    81        300
+    82        240
+    83        100
+    84         60
+    91        280
+    92        220
+    93         90
+    94        110
+    95        120
+    96         90
+    97        120
+   105         60
+   107         50
+   108         60
+   109        260
+   110         80
+   120        260
+   136         50
+   138         90

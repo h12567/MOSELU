@@ -1,0 +1,39 @@
+##TITLE=Library Entry 114996
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0893
+##NAMES=HP
+##CAS NAME=1,4-Methanonaphthalen-9-one, 1,2,3,4-tetrahydro-
+##MOLFORM=C11H10O
+##CAS REGISTRY NO=6165-88-4
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         30
+    39         60
+    50         60
+    51        150
+    52         30
+    62         30
+    63         90
+    64        160
+    65         60
+    74         40
+    75         40
+    76         40
+    77         60
+    78         30
+    89         30
+   102         60
+   115        350
+   116         40
+   127        100
+   128        230
+   129        530
+   130        999
+   131        110
+   132         10

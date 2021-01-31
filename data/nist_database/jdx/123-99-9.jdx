@@ -1,0 +1,70 @@
+##TITLE=Library Entry 19156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Azelaic acid
+##MOLFORM=C9H16O4
+##CAS REGISTRY NO=123-99-9
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=1672
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    18         20
+    26         60
+    27        366
+    28        125
+    29        332
+    30         20
+    31        116
+    32         10
+    39        327
+    40         78
+    41        743
+    42        282
+    43        341
+    44         70
+    45        493
+    53        106
+    54        109
+    55        999
+    56        137
+    57         75
+    58         70
+    59         87
+    60        631
+    61         40
+    67        135
+    68        127
+    69        402
+    70         81
+    71         42
+    72         40
+    73        325
+    74         47
+    79         48
+    81        110
+    82        137
+    83        551
+    84        417
+    85         53
+    86         42
+    87        103
+    95         44
+    96        137
+    97        142
+    98        198
+    99         55
+   100         44
+   101         47
+   110         63
+   111        314
+   114         79
+   124        288
+   129         58
+   137         47
+   152        418
+   153         44

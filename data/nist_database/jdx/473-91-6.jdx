@@ -1,0 +1,61 @@
+##TITLE=Library Entry 68033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentene, 1,2,3-trimethyl-
+##MOLFORM=C8H14
+##CAS REGISTRY NO=473-91-6
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=715
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15         15
+    26          9
+    27         78
+    28         33
+    29         34
+    32          3
+    37          3
+    38         13
+    39        139
+    40         27
+    41        125
+    42          9
+    43         12
+    44          3
+    45          4
+    50         26
+    51         54
+    52         24
+    53         83
+    54         14
+    55        115
+    56          8
+    62          6
+    63         16
+    65         48
+    67        402
+    68         29
+    69          8
+    74          3
+    75          2
+    77         83
+    78         20
+    79         70
+    80         24
+    81         25
+    91         53
+    92          8
+    93         76
+    94          8
+    95        999
+    96         80
+    97          3
+   107          3
+   109         25
+   110        187
+   111         17

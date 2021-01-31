@@ -1,0 +1,51 @@
+##TITLE=Library Entry 36040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Musjce, AT&T Bell Labs., Murray Hill, N.J., USA
+##NAMES=HP
+##CAS NAME=1,1'-Bicyclooctyl
+##MOLFORM=C16H30
+##CAS REGISTRY NO=6708-17-4
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=1808
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         18
+    29         37
+    39         35
+    40          6
+    41        224
+    42         29
+    43         47
+    51          2
+    53         34
+    54         75
+    55        427
+    56         36
+    57         36
+    65         12
+    66         21
+    67        163
+    68         80
+    69        999
+    70         69
+    77         12
+    79         32
+    80         22
+    81        205
+    82        385
+    83         59
+    91          8
+    93          3
+    95         88
+    96         29
+    97         14
+   109         13
+   110        304
+   111        849
+   112         75
+   113          2
+   207         10

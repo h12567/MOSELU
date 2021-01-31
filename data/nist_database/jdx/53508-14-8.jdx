@@ -1,0 +1,32 @@
+##TITLE=Library Entry 87235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinone, 3-[(1,4,5,6-tetrahydro-3-pyridinyl)carbonyl]-
+##MOLFORM=C10H14N2O2
+##CAS REGISTRY NO=53508-14-8
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41         50
+    44         40
+    53         40
+    55         60
+    67         40
+    80         70
+    81         60
+    82        480
+    83         40
+    84         50
+   110        999
+   111         90
+   152         40
+   166         40
+   194        290
+   195         50

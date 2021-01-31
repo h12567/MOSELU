@@ -1,0 +1,30 @@
+##TITLE=Library Entry 61377
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. GAVINA, DEP. QUIM. ORG., UNIV. VALENCIA, VALENCIA, S
+PAIN
+##NAMES=HP
+##CAS NAME=5-Hydroxy-4-phenylbicyclo[3.3.0]octa-3,6-diene-2,8-dione
+##MOLFORM=C14H10O3
+##CAS REGISTRY NO=92241-95-7
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    65        280
+    66        140
+    77        320
+    90        250
+    91        999
+    92        200
+   110        350
+   111        150
+   121        300
+   122        350
+   123        120
+   178         30
+   180         50
+   226         20

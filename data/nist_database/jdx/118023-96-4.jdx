@@ -1,0 +1,67 @@
+##TITLE=Library Entry 97921
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methyl-3H-1,2-dithiole
+##MOLFORM=C4H6S2
+##CAS REGISTRY NO=118023-96-4
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=1059
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         13
+    27         46
+    28         14
+    32         15
+    37         15
+    38         23
+    39        132
+    40          6
+    41         29
+    44          9
+    45        322
+    46         68
+    47         27
+    48          6
+    49         10
+    50         37
+    51         44
+    52         10
+    53         64
+    54        159
+    55          6
+    57         53
+    58        112
+    59         62
+    60         14
+    64         90
+    65         11
+    66         11
+    68          8
+    69         55
+    70         10
+    71        254
+    72        369
+    73         68
+    74         20
+    78          5
+    81         12
+    82         10
+    83          9
+    84         48
+    85        546
+    86         30
+    87         26
+    90         15
+   103        159
+   104         10
+   105         15
+   117         44
+   118        999
+   119         63
+   120         86
+   121          5

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 48732
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.0]hexane, 6-methylene-
+##MOLFORM=C7H10
+##CAS REGISTRY NO=54211-16-4
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    36          0
+    37         15
+    38         43
+    39        315
+    40         80
+    41        107
+    42         15
+    43          3
+    44          1
+    45         13
+    46          1
+    49          4
+    50         43
+    51         85
+    52         48
+    53        196
+    54         54
+    55         22
+    56          2
+    60          0
+    61          7
+    62         17
+    63         37
+    64         10
+    65         96
+    66        116
+    67         62
+    68         14
+    69          3
+    70          0
+    73          1
+    74          3
+    75         11
+    76          2
+    77        341
+    78         59
+    79        999
+    80         71
+    81         15
+    82          2
+    85          1
+    86          1
+    87          1
+    89          7
+    90          1
+    91        139
+    92         16
+    93        117
+    94         33
+    95          2

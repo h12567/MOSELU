@@ -1,0 +1,40 @@
+##TITLE=Library Entry 23809
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Imidazole, 5-t-buyloxycarbonylamino-4-fluoro-
+##MOLFORM=C8H12FN3O2
+##CAS REGISTRY NO=330953-79-2
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        467
+    42         40
+    43        139
+    44          3
+    45          4
+    53         36
+    54         17
+    55         35
+    56         13
+    57        999
+    58         57
+    59         68
+    72         29
+    73         26
+    74         31
+    99         19
+   100         44
+   101        193
+   102          4
+   127         26
+   128         59
+   145        196
+   146         20
+   201         43
+   202          7

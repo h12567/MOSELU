@@ -1,0 +1,42 @@
+##TITLE=Library Entry 47907
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5-Pyrazolidinedione, 1,2-diphenyl-4-isopropylidene-
+##MOLFORM=C18H16N2O2
+##CAS REGISTRY NO=26485-81-4
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         72
+    51        213
+    64         69
+    67        308
+    77        999
+    82        100
+    91         80
+    92         58
+    93        158
+   105        121
+   119         39
+   129         20
+   130         70
+   143         49
+   144        140
+   157         20
+   158         60
+   170         60
+   171         59
+   172        131
+   182         59
+   183         99
+   198         99
+   199        181
+   200        403
+   275         19
+   292        652

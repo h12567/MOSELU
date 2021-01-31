@@ -1,0 +1,64 @@
+##TITLE=Library Entry 14404
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Brossi, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2,3-Diacetyl-dedimethylcolchicine
+##MOLFORM=C24H25NO8
+##CAS REGISTRY NO=78231-85-3
+##MP= -300
+##BP= -300
+##MW= 455
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    42         28
+    43        999
+    44         14
+   115         15
+   139         14
+   152         26
+   154         15
+   211         12
+   223         12
+   224         13
+   225         14
+   240         13
+   241         13
+   251         14
+   252         13
+   253         46
+   254         17
+   255         29
+   256         35
+   257         15
+   266         30
+   267         14
+   268         17
+   269         68
+   270         35
+   283         46
+   284        209
+   285         56
+   286         33
+   297         41
+   298         43
+   300         14
+   311         17
+   312         57
+   325         19
+   326         49
+   328         19
+   340         37
+   343         66
+   344         13
+   354         13
+   370         18
+   371         68
+   382         17
+   396         17
+   413         51
+   414         15
+   455         74
+   456         15

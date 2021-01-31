@@ -1,0 +1,33 @@
+##TITLE=Library Entry 59594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butanone, 3-bromo-4-hydroxy-1,4-diphenyl-
+##MOLFORM=C16H15BrO2
+##CAS REGISTRY NO=34737-58-1
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39        110
+    51        190
+    65        200
+    91        999
+    92        140
+   103        130
+   105        190
+   106        170
+   107        190
+   119         80
+   131        190
+   133        150
+   147        110
+   212        120
+   214        130
+   239         80
+   318          4
+   320          4

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 49405
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=2,2-Dichloro-3,6-dimethyl-1-oxa-2-silacyclo-3,5-hexadiene
+##MOLFORM=C6H8Cl2OSi
+##CAS REGISTRY NO=69586-09-0
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39         30
+    41         50
+    43        819
+    44         20
+    65         30
+    79         20
+    80        999
+    81         70
+    82         10
+    96         70
+    97         10
+   158         80
+   159        110
+   160         60
+   161         80
+   162         20
+   163         20
+   193        310
+   194        769
+   195        280
+   196        539
+   197         80
+   198        100
+   199         10
+   200         10

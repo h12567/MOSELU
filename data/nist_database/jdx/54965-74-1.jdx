@@ -1,0 +1,43 @@
+##TITLE=Library Entry 28851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pentanamide, N-methyl-N-(1-methylethyl)-
+##MOLFORM=C9H19NO
+##CAS REGISTRY NO=54965-74-1
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27         60
+    28         30
+    29         80
+    30         30
+    39         20
+    41         90
+    42         40
+    43        130
+    44         20
+    55         20
+    56         40
+    57        120
+    58        999
+    59         30
+    71         10
+    72         40
+    73         80
+    85         20
+    86         50
+   100        140
+   115        140
+   116         10
+   128        110
+   129         10
+   142         20
+   157         90
+   158         10

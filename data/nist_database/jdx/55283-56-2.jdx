@@ -1,0 +1,53 @@
+##TITLE=Library Entry 21476
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2-ethyl-2-propyl-
+##MOLFORM=C11H20O
+##CAS REGISTRY NO=55283-56-2
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41        610
+    42        100
+    43        200
+    44         10
+    51         10
+    53         90
+    54         30
+    55        999
+    56        110
+    57         60
+    67        130
+    68        140
+    69        630
+    70        250
+    71         10
+    77         30
+    79         50
+    81         60
+    82         20
+    83        120
+    84         40
+    91         10
+    93         20
+    95        230
+    96         50
+    97        430
+    98         90
+   107         20
+   109         40
+   111        220
+   121         20
+   124        110
+   125         30
+   126        810
+   127         60
+   139         20
+   140         20

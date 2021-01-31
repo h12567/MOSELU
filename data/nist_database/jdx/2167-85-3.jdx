@@ -1,0 +1,31 @@
+##TITLE=Library Entry 71452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Pipazethate
+##MOLFORM=C21H25N3O3S
+##CAS REGISTRY NO=2167-85-3
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41         47
+    42         28
+    44         26
+    45         17
+    55         41
+    56         21
+    69         20
+    96         10
+    98        999
+    99         58
+   111        158
+   112         28
+   156          9
+   199         50
+   200         39
+   288         40

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 83949
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=Butanediamide, 2,3-dihydroxy-N,N'-bis(3-methylphenyl)-, (R,R)-(+)
+-
+##MOLFORM=C18H20N2O4
+##CAS REGISTRY NO=109987-00-0
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    51         20
+    52         23
+    60         52
+    65         54
+    77         49
+    78         21
+    79         54
+    91        158
+    92         24
+    93         53
+   104         22
+   106        307
+   107        999
+   108        158
+   133         51
+   134        274
+   135         22
+   165         52
+   166          6
+   194        253
+   195         19
+   328        125
+   329         21

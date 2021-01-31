@@ -1,0 +1,50 @@
+##TITLE=Library Entry 38993
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. Davies, Centr. Sci. Lab., Univ. Tasmania, Hobart,
+ Australia
+##NAMES=HP
+##CAS NAME=1,5,7-Octatrien-3-ol, 3,7-dimethyl-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=29957-43-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1107
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        174
+    29         46
+    31         19
+    39        138
+    40         33
+    41        218
+    42         23
+    43        497
+    44         24
+    45         15
+    50          8
+    51         25
+    52         15
+    53         96
+    54         26
+    55        137
+    56         10
+    57          9
+    65         23
+    66         18
+    67        303
+    68         20
+    69         13
+    71        999
+    72         47
+    77         27
+    79         41
+    80         10
+    81         70
+    82        664
+    83         45
+    91         13
+    93         10

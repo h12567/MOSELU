@@ -1,0 +1,38 @@
+##TITLE=Library Entry 107939
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2,4-Diethyl-5-methyloxazole
+##MOLFORM=C8H13NO
+##CAS REGISTRY NO=84027-88-3
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=983
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    38          7
+    41        129
+    42         19
+    43        492
+    54         19
+    55         47
+    56        674
+    57         59
+    68          7
+    69        823
+    70         46
+    82         46
+    83         19
+    84        209
+    96        162
+   110         19
+   124        999
+   125        179
+   126          7
+   137          7
+   138        311
+   139        801
+   140        148

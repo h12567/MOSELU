@@ -1,0 +1,73 @@
+##TITLE=Library Entry 24021
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Butanoic acid, 3-oxo-, 1,1-dimethylethyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=1694-31-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    12          6
+    13         12
+    14         27
+    15        119
+    16          5
+    17          1
+    18          5
+    19          2
+    24          3
+    25         12
+    26         48
+    27        175
+    28         85
+    29        232
+    30         12
+    31        122
+    32          7
+    36          4
+    37         20
+    38         40
+    39        204
+    40         50
+    41        602
+    42        193
+    43        930
+    44         80
+    45         15
+    48          2
+    49          5
+    50         17
+    51         15
+    52          5
+    53         23
+    54          8
+    55         60
+    56        183
+    57        999
+    58        105
+    59        420
+    60         22
+    61          2
+    69        124
+    70         12
+    72          3
+    84        140
+    85        506
+    86         26
+    87          9
+    99          3
+   101         33
+   102         62
+   103        311
+   104         13
+   105          2
+   136          2
+   138          2
+   143          7
+   158          7

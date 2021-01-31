@@ -1,0 +1,64 @@
+##TITLE=Library Entry 18809
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Tsai, LB, NHLBI, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Maleimide, N-allyl-
+##MOLFORM=C7H7NO2
+##CAS REGISTRY NO=2973-17-3
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41        195
+    42         82
+    43         57
+    44         40
+    47        435
+    48        225
+    49         22
+    50        121
+    51          7
+    52        113
+    53        299
+    54        999
+    55        284
+    56        369
+    57         39
+    64          6
+    65         21
+    66        176
+    67         56
+    68         54
+    69          9
+    70         57
+    71         10
+    78          8
+    79          9
+    80        343
+    81         95
+    82        456
+    83        107
+    84         10
+    85         48
+    86          6
+    88        116
+    91         41
+    92          9
+    93          6
+    94         42
+    95          6
+    98          8
+   108         57
+   109         97
+   110        181
+   111          9
+   119        215
+   120         12
+   122         34
+   136         66
+   137        758
+   138         61

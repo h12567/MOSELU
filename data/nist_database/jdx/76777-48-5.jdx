@@ -1,0 +1,25 @@
+##TITLE=Library Entry 68054
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.F. WIEMER, DEP. CHEM., UNIV. IOWA, IOWA CITY, USA
+##NAMES=HP
+##CAS NAME=5-tert-Butyl-2,2-dimethyl-3(2H)-furanone
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=76777-48-5
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    41        100
+    57         50
+    67        620
+    82         90
+    95        999
+   109        320
+   111        180
+   127         30
+   153         40
+   168        540

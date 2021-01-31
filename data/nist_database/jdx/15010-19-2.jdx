@@ -1,0 +1,31 @@
+##TITLE=Library Entry 5553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-(2,4,6-Trinitrophenyl)-3-oxobutanoic acid,ethyl ester
+##MOLFORM=C12H11N3O9
+##CAS REGISTRY NO=15010-19-2
+##MP= -300
+##BP= -300
+##MW= 341
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    29        250
+    30         50
+    43        999
+    44         40
+   148         10
+   178         10
+   179         10
+   209         10
+   226         50
+   236         10
+   253         10
+   268          2
+   281          6
+   296          5
+   341          7
+   342          1

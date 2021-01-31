@@ -1,0 +1,55 @@
+##TITLE=Library Entry 36409
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Erythro-2,3-dibromopentane
+##MOLFORM=C5H10Br2
+##CAS REGISTRY NO=22415-74-3
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    43         96
+    44          2
+    50          9
+    51         15
+    52          4
+    53         57
+    54         11
+    55         73
+    56          2
+    61          1
+    62          4
+    63          3
+    65          7
+    66          1
+    67         22
+    68          6
+    69        999
+    70         73
+    71          1
+    79          3
+    80          7
+    81          5
+    82          5
+    93          3
+    95          3
+   107         69
+   108          2
+   109         62
+   119          7
+   120          2
+   121         17
+   122          3
+   123          5
+   149        353
+   150         20
+   151        360
+   152         20
+   228          2
+   230          5
+   232          1

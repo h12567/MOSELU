@@ -1,0 +1,48 @@
+##TITLE=Library Entry 84682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N'-Diacetyl-1,4-phenylenediamine
+##MOLFORM=C10H12N2O2
+##CAS REGISTRY NO=140-50-1
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    15         59
+    16          4
+    38         12
+    39         28
+    40          9
+    43        380
+    50         14
+    51         34
+    52         86
+    53        111
+    54         25
+    62         12
+    63         29
+    64         18
+    65         18
+    67         12
+    78         19
+    79         57
+    80        235
+    81         51
+    90         17
+    91         11
+    92         10
+   105         35
+   107        284
+   108        999
+   109        103
+   121         10
+   134         23
+   150        238
+   151         22
+   192        316
+   193         36

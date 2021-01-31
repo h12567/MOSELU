@@ -1,0 +1,28 @@
+##TITLE=Library Entry 21936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. NAKAMURA, OSAKA UNIV., TOYONAKA, OSAKA, JAPAN
+##NAMES=HP
+##CAS NAME=Iron, hexacarbonyl(2,3,4-hexatriene)di-
+##MOLFORM=C12H8Fe2O6
+##CAS REGISTRY NO=12307-54-9
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    28        630
+    56        999
+    84        400
+   112        590
+   136        130
+   164         70
+   192        200
+   220        330
+   248        190
+   276         20
+   304         20
+   332         70
+   360         70

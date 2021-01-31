@@ -1,0 +1,49 @@
+##TITLE=Library Entry 46855
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Corp.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2,4,6-Octatrienal
+##MOLFORM=C8H10O
+##CAS REGISTRY NO=17609-31-3
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        320
+    40         42
+    41        116
+    50         48
+    51        231
+    52         89
+    53        109
+    55         20
+    63         62
+    64         12
+    65        199
+    66         49
+    67         25
+    69         30
+    77        999
+    78        176
+    79        762
+    80         61
+    89         21
+    91        769
+    92         62
+    93        769
+    94         80
+    95         15
+   104         51
+   105         33
+   107        230
+   108         18
+   119         11
+   120          6
+   121         22
+   122        403
+   123         35
+   124          3

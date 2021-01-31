@@ -1,0 +1,56 @@
+##TITLE=Library Entry 62332
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=3-Pyrrolidinone, 1-(phenylmethyl)-
+##MOLFORM=C11H13NO
+##CAS REGISTRY NO=775-16-6
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    40          6
+    41         46
+    42        134
+    43          5
+    46          0
+    50         11
+    51         32
+    52          7
+    53          0
+    54          5
+    55          9
+    56         14
+    59          0
+    62          6
+    63         32
+    64          8
+    65        133
+    66          6
+    74          1
+    75          0
+    76          0
+    77          9
+    78          1
+    89         31
+    90         24
+    91        999
+    92         90
+    93          1
+    98         10
+   103          0
+   104         59
+   105         15
+   117         11
+   118         32
+   119         12
+   132          7
+   146        257
+   147        189
+   148         17
+   175         49
+   176          3

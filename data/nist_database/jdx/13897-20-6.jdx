@@ -1,0 +1,71 @@
+##TITLE=Library Entry 25414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Octatriacontane, 3,5-dimethyl-
+##MOLFORM=C40H82
+##CAS REGISTRY NO=13897-20-6
+##MP= -300
+##BP= -300
+##MW= 562
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        130
+    42         40
+    43        420
+    44         20
+    54         20
+    55        200
+    56        170
+    57        999
+    58         50
+    67         40
+    68         30
+    69        190
+    70        230
+    71        470
+    72         30
+    81         30
+    82         30
+    83        140
+    84         50
+    85        280
+    86         20
+    95         30
+    96         20
+    97        130
+    98        270
+    99        330
+   100         20
+   109         10
+   110         10
+   111         60
+   112         10
+   113         70
+   123         10
+   125         30
+   126         10
+   127         50
+   139         10
+   141         40
+   155         30
+   169         20
+   183         20
+   197         10
+   211         30
+   225         10
+   239         10
+   267         20
+   490         40
+   491         70
+   492         30
+   504         20
+   505         30
+   506         10
+   533         50
+   534         20
+   547         10

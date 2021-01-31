@@ -1,0 +1,67 @@
+##TITLE=Library Entry 56635
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=9-Anthracenepropanamine, N,N-diethyl-
+##MOLFORM=C21H25N
+##CAS REGISTRY NO=35693-49-3
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27          2
+    28         76
+    29         36
+    30        146
+    33          5
+    42         41
+    43          7
+    44         10
+    56         70
+    57         23
+    58        138
+    70         41
+    71         73
+    72        117
+    84         99
+    85         67
+    86        999
+    87         57
+    98        392
+    99         41
+   112        735
+   113        280
+   114         23
+   138         13
+   151          2
+   152          2
+   163          2
+   164          2
+   165         36
+   176          5
+   177          2
+   178         47
+   179          2
+   187          2
+   188          2
+   189        107
+   190         49
+   191        191
+   192         41
+   201          2
+   202         65
+   203         81
+   204         41
+   205         15
+   215         21
+   216          2
+   217         39
+   218         15
+   219          2
+   276          2
+   291        138
+   292         34

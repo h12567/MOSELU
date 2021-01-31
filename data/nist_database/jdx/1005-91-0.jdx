@@ -1,0 +1,28 @@
+##TITLE=Library Entry 76593
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Oxirane, 2-(chloromethyl)-2-phenyl-
+##MOLFORM=C9H9ClO
+##CAS REGISTRY NO=1005-91-0
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    51        150
+    77        330
+    91        390
+   102        120
+   103        999
+   104        590
+   133        190
+   167        170
+   168         80
+   169         58
+   170         20
+   171          2

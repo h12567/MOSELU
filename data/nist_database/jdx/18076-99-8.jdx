@@ -1,0 +1,47 @@
+##TITLE=Library Entry 71403
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Silane, dichloroethenyl-
+##MOLFORM=C2H4Cl2Si
+##CAS REGISTRY NO=18076-99-8
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         18
+    27         89
+    28         22
+    29         30
+    41         20
+    43         10
+    53         40
+    54         18
+    55         31
+    56         40
+    57         39
+    63        286
+    64         70
+    65        162
+    66         28
+    67         25
+    90        110
+    91        123
+    92         57
+    93         39
+    98        999
+    99        421
+   100        686
+   101        290
+   102        170
+   103         56
+   125        311
+   126        238
+   127        209
+   128        162
+   129         51
+   130         30

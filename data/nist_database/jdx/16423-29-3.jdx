@@ -1,0 +1,55 @@
+##TITLE=Library Entry 50416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Noble ET.AL.JAOCS,92(1974)
+##NAMES=HP
+##CAS NAME=2-Cyclohexenylacetic acid, methyl ester
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=16423-29-3
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    37         34
+    38         65
+    39        280
+    40         39
+    41        183
+    42         65
+    43        109
+    44         20
+    45         27
+    50         34
+    51         72
+    52         34
+    53        212
+    54         30
+    56         30
+    57         30
+    59         83
+    61         24
+    62         39
+    65        117
+    66        103
+    67        126
+    68         57
+    69         32
+    74         50
+    77         34
+    79         72
+    81        999
+    82         90
+    83         36
+    84         34
+    94        701
+    95        187
+    97         97
+   108         24
+   111         28
+   124         81
+   139         26
+   154        222
+   155         26

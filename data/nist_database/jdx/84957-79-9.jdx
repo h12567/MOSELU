@@ -1,0 +1,75 @@
+##TITLE=Library Entry 84810
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.D. REDDY,DEP. CHEM.,SRI VENKATESWARA UNIV.,TIRUPATI,I
+NDIA
+##NAMES=HP
+##CAS NAME=2-(3-Methylphenoxy)octahydro-1H-1,3,2-benzodiazaphosphole 2-oxide
+##MOLFORM=C13H19N2O2P
+##CAS REGISTRY NO=84957-79-9
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    56        333
+    57        211
+    58        322
+    59        255
+    60        133
+    62        155
+    63        229
+    64        189
+    65        244
+    66        277
+    67        377
+    68        322
+    69        322
+    70        300
+    71        266
+    72        300
+    73        133
+    75        200
+    76        156
+    77        888
+    78        422
+    79        933
+    80        410
+    81        430
+    82        410
+    84        166
+    89        455
+    90        455
+    91        400
+    92        106
+    94        389
+    95         78
+    96        556
+    97        750
+    98        100
+   103         78
+   105         73
+   106         83
+   107        827
+   108        999
+   109        238
+   111         78
+   114        250
+   117        100
+   133         56
+   141        160
+   142         89
+   154         73
+   157         67
+   159        716
+   160         89
+   170         67
+   211         56
+   223        222
+   224         61
+   264         45
+   265        222
+   266         40
+   267         12

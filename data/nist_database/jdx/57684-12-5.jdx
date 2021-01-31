@@ -1,0 +1,34 @@
+##TITLE=Library Entry 86291
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(3)162(1975); I. WAHLBERG
+##NAMES=HP
+##CAS NAME=3(4H)-Phenanthrenone, 4a,4b,5,6,7,8,8a,9,10,10a-decahydro-4b,8,8-
+trimethyl-, [4aS-(4a.alpha.,4b.beta.,8a.alpha.,10a.beta.)]-
+##MOLFORM=C17H26O
+##CAS REGISTRY NO=57684-12-5
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    55        540
+    69        600
+    81        570
+    95        500
+   107        590
+   108        280
+   109        999
+   122        540
+   123        770
+   133        350
+   149        150
+   161        350
+   176        150
+   190         90
+   203        130
+   218         90
+   231        280
+   246        740

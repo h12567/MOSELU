@@ -1,0 +1,44 @@
+##TITLE=Library Entry 26120
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,8-Decanedione
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=2955-63-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         70
+    42         20
+    43         80
+    55         70
+    56         20
+    57        999
+    58         40
+    67         30
+    69         90
+    72        120
+    73         10
+    81         20
+    83         20
+    85         70
+    86         30
+    95        450
+    96         40
+    98        240
+    99         50
+   113         50
+   114         10
+   123         50
+   124         10
+   141         50
+   142         30
+   152         40
+   153         10
+   170         50
+   171         10

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 1439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3-Chloropropyl formate
+##MOLFORM=C4H7ClO2
+##CAS REGISTRY NO=1487-44-1
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    28        504
+    29        707
+    30        146
+    31        999
+    39        286
+    41        562
+    43         40
+    45         73
+    47        239
+    49         99
+    57        240
+    58        176
+    61         11
+    62         12
+    63         27
+    65         13
+    73        122
+    76        548
+    77         29
+    78        177
+    79          6
+    93         36
+    94          3
+    95         12

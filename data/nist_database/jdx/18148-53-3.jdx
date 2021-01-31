@@ -1,0 +1,67 @@
+##TITLE=Library Entry 45542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little, Weimin Liang, Eastman Chemical Co.
+##NAMES=HP
+##CAS NAME=Formamide, TMS derivative
+##MOLFORM=C4H11NOSi
+##CAS REGISTRY NO=18148-53-3
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    39          1
+    40          1
+    41          5
+    42         17
+    43         66
+    44         53
+    45        113
+    46         15
+    47         62
+    48          3
+    49          2
+    51          4
+    52          1
+    53          9
+    54          5
+    55         11
+    56         23
+    57          9
+    58         18
+    59         44
+    60         16
+    61         35
+    62          2
+    63          1
+    65          1
+    66          3
+    67          1
+    68          1
+    70         24
+    71          5
+    72         38
+    73         62
+    74         43
+    75        999
+    76         71
+    77         34
+    78          1
+    84          2
+    85          1
+    86          4
+    87          2
+    88          1
+    99          1
+   100         15
+   102        612
+   103         51
+   104         23
+   105          1
+   116          1
+   117          7
+   118          3
+   119          1

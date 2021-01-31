@@ -1,0 +1,36 @@
+##TITLE=Library Entry 58024
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-6-deoxy-6-fluoro-2,3,4-tri-O-methyl.beta.d-galactopyranosi
+de
+##MOLFORM=C10H19FO5
+##CAS REGISTRY NO=2248-90-0
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    45        127
+    59         41
+    71         41
+    73        192
+    75        201
+    88        999
+    89         91
+    99         24
+   101        974
+   102         41
+   111          7
+   115         16
+   127          7
+   131         41
+   133          7
+   145          7
+   147         12
+   175          7
+   176         33
+   207         24

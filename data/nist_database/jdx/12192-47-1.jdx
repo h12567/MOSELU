@@ -1,0 +1,36 @@
+##TITLE=Library Entry 69973
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.E. HILL, VICTORIA COLLEGE, JERSEY
+##NAMES=HP
+##CAS NAME=Iron, tricarbonylchloro(.eta.3-2-propenyl)-
+##MOLFORM=C6H5ClFeO3
+##CAS REGISTRY NO=12192-47-1
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    56        910
+    67        410
+    69        880
+    71        220
+    84        220
+    91        380
+    95        410
+    96        650
+    97        999
+   119        110
+   125        240
+   132         60
+   138        100
+   147         20
+   153        430
+   160        480
+   166         50
+   181        180
+   188        200
+   194         10
+   216          3

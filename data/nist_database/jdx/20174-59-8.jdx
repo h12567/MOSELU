@@ -1,0 +1,68 @@
+##TITLE=Library Entry 31099
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-[4-Chloro-.alpha.,.alpha.,.alpha.-trifluoro-m-tolyl]-5-methylrh
+odanine
+##MOLFORM=C11H7ClF3NOS2
+##CAS REGISTRY NO=20174-59-8
+##MP= -300
+##BP= -300
+##MW= 325
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    45        259
+    55        136
+    56         83
+    58         91
+    59        348
+    60        999
+    61         42
+    62         80
+    64        421
+    69        256
+    74         21
+    75        100
+    76        119
+    88        195
+   114        202
+   124         23
+   125         82
+   129         41
+   133         22
+   143        117
+   144        177
+   155         50
+   157         21
+   158         21
+   163         20
+   170        134
+   179        496
+   181        171
+   182         42
+   186         93
+   187         51
+   193         23
+   195         44
+   202        160
+   206        334
+   207        213
+   208        130
+   209         66
+   218         82
+   220         51
+   221        107
+   228         82
+   230         99
+   237        835
+   238        135
+   239        279
+   265         41
+   306         20
+   325        660
+   326        119
+   327        215

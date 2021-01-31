@@ -1,0 +1,49 @@
+##TITLE=Library Entry 53931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DM6-160-F24
+##NAMES=HP
+##CAS NAME=Cyclopentanamine, N-ethyl-
+##MOLFORM=C7H15N
+##CAS REGISTRY NO=45592-46-9
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=891
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15         60
+    27        190
+    28        140
+    29        140
+    30        160
+    38         10
+    39        100
+    40         30
+    41        340
+    42        160
+    43         70
+    44        140
+    51         10
+    52         10
+    53         30
+    54         50
+    55         30
+    56        320
+    57         60
+    58         70
+    65         10
+    67         50
+    68         40
+    69         40
+    70        579
+    71        120
+    82         10
+    84        999
+    85        140
+    98        100
+    99         10
+   112         40
+   113        200
+   114         40

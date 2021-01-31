@@ -1,0 +1,65 @@
+##TITLE=Library Entry 59528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Benzyloxyphenylacetonitrile
+##MOLFORM=C15H13NO
+##CAS REGISTRY NO=92552-22-2
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    18          0
+    26          4
+    27         13
+    28          2
+    29          1
+    37          4
+    38         17
+    39         90
+    40          7
+    41         19
+    42          0
+    46          1
+    50         32
+    51         75
+    52         20
+    53          5
+    61          3
+    62         14
+    63         49
+    64         19
+    65        154
+    66          9
+    74          5
+    75          7
+    76         19
+    77         65
+    78         19
+    79          1
+    86          1
+    87          2
+    89         38
+    91        999
+    92         78
+    93          3
+    98          0
+   102          5
+   103          6
+   104         17
+   105          5
+   106          1
+   115          1
+   116          2
+   132          9
+   133          1
+   152          1
+   153          1
+   165          1
+   181          1
+   223         44
+   224          8

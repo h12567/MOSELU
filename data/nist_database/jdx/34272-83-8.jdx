@@ -1,0 +1,30 @@
+##TITLE=Library Entry 53956
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. P. DAVIES
+##NAMES=HP
+##CAS NAME=1-Pyrrolidinyloxy, 3-amino-2,2,5,5-tetramethyl-
+##MOLFORM=C8H17N2O
+##CAS REGISTRY NO=34272-83-8
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    70        602
+    71        689
+    82         81
+    83        149
+    84        999
+    86        280
+    95         46
+   101         19
+   126         12
+   127         10
+   140          6
+   142         26
+   143         18
+   157        126
+   158         33

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 59187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(2)783(1978); H. CADOSCH ET AL.
+##NAMES=HP
+##CAS NAME=.beta.,.epsilon.-Carotene-3,3'-diol, 5,6-epoxy-5,6-dihydro-, (3S,
+3'R,5R,6S,6'R)-
+##MOLFORM=C40H56O3
+##CAS REGISTRY NO=28368-08-3
+##MP= -300
+##BP= -300
+##MW= 584
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    43        450
+    59         30
+    69        330
+    73         20
+    80         70
+    83        210
+    91        999
+   109        250
+   133        290
+   181        210
+   208        120
+   221        390
+   234         90
+   247         80
+   274         80
+   287         90
+   299         60
+   312         30
+   325         40
+   352        140
+   365         60
+   412         40
+   426         10
+   438         30
+   446         20
+   474         30
+   478         30
+   486         50
+   492        140
+   504        190
+   505         80
+   506         20
+   548         20
+   551         40
+   564         20
+   566        120
+   582         20
+   584        350

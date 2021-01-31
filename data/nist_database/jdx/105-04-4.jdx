@@ -1,0 +1,57 @@
+##TITLE=Library Entry 56016
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3314
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N,N,N'-triethyl-
+##MOLFORM=C8H20N2
+##CAS REGISTRY NO=105-04-4
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15          7
+    26          2
+    27         22
+    28         32
+    29         46
+    30        130
+    31          2
+    39          1
+    40          2
+    41          8
+    42         36
+    43         10
+    44         35
+    45          1
+    54          4
+    55          3
+    56         35
+    57         17
+    58        180
+    59          7
+    68          1
+    69          2
+    70          9
+    71          8
+    72         67
+    73          4
+    84          6
+    85          7
+    86        999
+    87         88
+    88          3
+    97          1
+    98          1
+    99          4
+   100          5
+   101          1
+   113          4
+   127          9
+   128          1
+   141          1
+   144          8
+   145          1

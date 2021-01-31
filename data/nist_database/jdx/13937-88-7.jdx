@@ -1,0 +1,60 @@
+##TITLE=Library Entry 88417
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H.WILLIAMS U.C.L., CAMBRIDGE UNIVERSITY, CAMBRIDGE, U
+K
+##NAMES=HP
+##CAS NAME=Pyrrolidine, 1-(1-propenyl)-
+##MOLFORM=C7H13N
+##CAS REGISTRY NO=13937-88-7
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         60
+    27        230
+    28        250
+    29        160
+    30         90
+    31         30
+    38         50
+    39        260
+    40         70
+    41        570
+    42        300
+    43        680
+    44        230
+    51         20
+    52         30
+    53         70
+    54        160
+    55        300
+    56        150
+    57         40
+    58         70
+    67         60
+    68        220
+    69        150
+    70        470
+    71        490
+    72        140
+    79         30
+    80         40
+    81         50
+    82        160
+    83        130
+    84         60
+    94         30
+    95         20
+    96        520
+    97        150
+    98        190
+   108         50
+   109         40
+   110        920
+   111        999
+   112        260
+   113         20

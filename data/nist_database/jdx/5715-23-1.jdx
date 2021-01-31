@@ -1,0 +1,77 @@
+##TITLE=Library Entry 39167
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3,4-Dimethylcyclohexanol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=5715-23-1
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1126
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+     4          2
+    14          5
+    15         32
+    19          5
+    27        237
+    28         28
+    29        266
+    30         12
+    31         66
+    32          4
+    37          3
+    39        273
+    40         61
+    41        535
+    42        131
+    43        586
+    44        214
+    45         48
+    50         13
+    51         35
+    52         14
+    53        103
+    54         55
+    55        347
+    56        222
+    57        319
+    58         74
+    59          9
+    62          3
+    63          7
+    65         27
+    66         29
+    67        217
+    68        203
+    69        340
+    70        152
+    71        999
+    72         73
+    73         15
+    77         20
+    78          5
+    79         25
+    80          5
+    81        424
+    82        299
+    83         50
+    84        184
+    85         51
+    86          8
+    91          8
+    93         18
+    95        599
+    96         45
+    97         11
+    99          4
+   100          7
+   109         46
+   110        258
+   111         26
+   126          2
+   127         12
+   128         10

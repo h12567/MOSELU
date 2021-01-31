@@ -1,0 +1,52 @@
+##TITLE=Library Entry 76858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Furan, tetrahydro-2-(3-phenylpropyl)-
+##MOLFORM=C13H18O
+##CAS REGISTRY NO=3208-40-0
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39         40
+    40         10
+    41         90
+    42         20
+    43        180
+    44         10
+    51         10
+    53         10
+    55         20
+    63         10
+    65         50
+    69         10
+    70         10
+    71        440
+    72         20
+    76         30
+    77         30
+    78         20
+    81         10
+    84         40
+    89         10
+    91        220
+    92         30
+    97         10
+   103         20
+   104        999
+   105        100
+   115         20
+   117         30
+   129         20
+   130         10
+   131         60
+   144         30
+   172         40
+   190         80
+   191         11
+   192          1

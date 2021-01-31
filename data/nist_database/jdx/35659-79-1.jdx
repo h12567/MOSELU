@@ -1,0 +1,49 @@
+##TITLE=Library Entry 6953
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Holm ET AL,Acta Chem. Scand.26,205(1972)
+##NAMES=HP
+##CAS NAME=S-(Propoxythiocarbonyl)thiohydroxylamine
+##MOLFORM=C4H9NOS2
+##CAS REGISTRY NO=35659-79-1
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    29         42
+    31         44
+    32         36
+    33          6
+    34         14
+    37          2
+    38         10
+    39        144
+    40         22
+    41        604
+    42        130
+    43        999
+    44         22
+    45         24
+    46         14
+    47         36
+    48         91
+    49        629
+    50          4
+    51         20
+    59          8
+    60         61
+    61          2
+    62          6
+    64          8
+    74         48
+    75          4
+    76        136
+    77         14
+    78          8
+    91         36
+    92         42
+   109          6
+   151         67

@@ -1,0 +1,82 @@
+##TITLE=Library Entry 20689
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1-methyl-3-(1-methylethyl)-
+##MOLFORM=C9H18
+##CAS REGISTRY NO=53771-88-3
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=876
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    22          0
+    23          0
+    25          2
+    26          5
+    27        155
+    28          9
+    29        121
+    30          3
+    34          0
+    35          1
+    36          1
+    37          8
+    38          4
+    39        149
+    40         25
+    41        526
+    42        101
+    43        214
+    44          3
+    45          1
+    46          1
+    47          1
+    49          0
+    50          3
+    51         14
+    52          6
+    53         49
+    54         24
+    55        999
+    56        244
+    57         87
+    58          3
+    62          0
+    63          3
+    64          0
+    65         12
+    66         10
+    67        443
+    68         49
+    69        345
+    70        212
+    71         33
+    72          1
+    75          0
+    76          1
+    77          8
+    78          1
+    79         11
+    80          4
+    81         35
+    82        480
+    83        659
+    84         54
+    85          2
+    91          1
+    95          1
+    96          0
+    97          7
+    98         12
+   109          0
+   110          4
+   111        143
+   112         12
+   125          0
+   126         14
+   127          0

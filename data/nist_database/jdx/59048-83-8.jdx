@@ -1,0 +1,47 @@
+##TITLE=Library Entry 7283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. BORTOLOTTO, UNIT. CHIM. BIOORG., UNIV. BRUSSELS, BEL
+G
+##NAMES=HP
+##CAS NAME=24Xi-methylcholestane-3.beta.,5.alpha.,6.beta.-triol-3.beta.,6.be
+ta.-diacetate
+##MOLFORM=C32H54O5
+##CAS REGISTRY NO=59048-83-8
+##MP= -300
+##BP= -300
+##MW= 518
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        650
+    57        480
+    69        630
+    81        600
+    83        140
+    93        380
+    99        550
+   107        350
+   109        380
+   123        550
+   149        310
+   157        220
+   211        340
+   226        330
+   253        370
+   271        140
+   276        170
+   365        170
+   366        290
+   380         60
+   381        180
+   384        140
+   398        370
+   399        110
+   440        140
+   458         40
+   476         20
+   500         10
+   518         10

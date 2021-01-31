@@ -1,0 +1,60 @@
+##TITLE=Library Entry 53192
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Ethoxy-2-carbomenthyloxyaziridine
+##MOLFORM=C15H27NO3
+##CAS REGISTRY NO=60999-68-0
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27        158
+    28         88
+    29        228
+    30         17
+    41        351
+    42         79
+    43        228
+    44         44
+    55        623
+    56         52
+    57        307
+    58         70
+    59          9
+    67        140
+    68         70
+    69        439
+    70         52
+    71          9
+    81        474
+    82        176
+    83        999
+    84         70
+    85         12
+    95        579
+    96        158
+    97        211
+    98         35
+   109         52
+   110         26
+   113         52
+   114         35
+   123        237
+   124         26
+   132        105
+   133        105
+   134         21
+   135          9
+   138        684
+   139        158
+   140         26
+   224          8
+   241          5
+   254          3
+   269          8
+   270          1

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 50952
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. MINTAS, DEP. ORG. CHEM., ZAGREB UNIV., ZAGREB, YUGOS
+L
+##NAMES=HP
+##CAS NAME=N-p-Tolyl-4H-5,7a-epoxyisoindoline
+##MOLFORM=C15H17NO
+##CAS REGISTRY NO=17960-76-8
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         80
+    41         70
+    51         40
+    52         30
+    53        160
+    65        120
+    77         70
+    78         30
+    79         50
+    81        999
+    82         60
+    89         30
+    90         30
+    91        270
+    92         30
+   105         60
+   118        190
+   119         80
+   120         30
+   130         50
+   131         40
+   144         40
+   145         30
+   146         50
+   158        110
+   170         50
+   171         30
+   227        510
+   228         90

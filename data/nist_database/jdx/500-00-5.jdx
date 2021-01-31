@@ -1,0 +1,60 @@
+##TITLE=Library Entry 68210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.VON BUNAU, MAX-PLANCK-INST., MULHEIM-RHUR, GERMANY, F
+RG
+##NAMES=HP
+##CAS NAME=Cyclohexene, 4-methyl-1-(1-methylethyl)-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=500-00-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=988
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27        113
+    28          9
+    29         73
+    39        120
+    40         22
+    41        228
+    42         19
+    43         78
+    51         39
+    52         19
+    53         98
+    54         39
+    55        218
+    56         29
+    57         29
+    63         12
+    65         44
+    66         24
+    67        250
+    68        120
+    69         98
+    70         24
+    77         73
+    78         22
+    79         98
+    80         44
+    81        665
+    82        181
+    83         51
+    91         51
+    93         49
+    94        103
+    95        999
+    96        260
+    97         61
+   107         14
+   109         61
+   110         22
+   111         14
+   123        262
+   124         34
+   138        351
+   139         46
+   140         14

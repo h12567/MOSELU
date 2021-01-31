@@ -1,0 +1,46 @@
+##TITLE=Library Entry 18981
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Aminosuccinonitrile
+##MOLFORM=C4H5N3
+##CAS REGISTRY NO=5615-94-1
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    25          5
+    26         28
+    27        180
+    28        301
+    29         13
+    34          4
+    37          3
+    38         35
+    39         43
+    40        122
+    41        328
+    42         53
+    43          5
+    50          5
+    51         26
+    52         33
+    53         49
+    54          7
+    55        999
+    56         30
+    63          2
+    65          3
+    66         27
+    67        183
+    68        286
+    69         24
+    76          3
+    77          6
+    78          2
+    79          4
+    94          3

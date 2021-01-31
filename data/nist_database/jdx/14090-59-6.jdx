@@ -1,0 +1,63 @@
+##TITLE=Library Entry 15481
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DC-10-9
+##NAMES=HP
+##CAS NAME=5-Nonanone, dimethylhydrazone
+##MOLFORM=C11H24N2
+##CAS REGISTRY NO=14090-59-6
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        400
+    42        330
+    43        270
+    44        999
+    45        560
+    46        100
+    50         10
+    51         20
+    52         20
+    53         40
+    54        120
+    55        130
+    56         70
+    57        240
+    58        180
+    59         80
+    60        200
+    61         20
+    67         30
+    68         30
+    69         30
+    70         70
+    71         30
+    72         70
+    81         20
+    82         50
+    83         30
+    84        130
+    85         70
+    86         50
+    96         20
+    97         20
+    98         30
+    99         20
+   100        480
+   101         30
+   110         50
+   111         20
+   112         80
+   113         30
+   126         20
+   127         40
+   140        100
+   141         20
+   142         70
+   155         40
+   184        210
+   185         30

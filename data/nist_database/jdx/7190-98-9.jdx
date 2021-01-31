@@ -1,0 +1,41 @@
+##TITLE=Library Entry 76708
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S.Anisimova
+##NAMES=HP
+##CAS NAME=Bis-S-triazolo[4,3-b,3',4'-f]pyridazine, 3-methyl-3'-phenyl-
+##MOLFORM=C13H10N6
+##CAS REGISTRY NO=7190-98-9
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    40         33
+    41         63
+    42        192
+    43         32
+    49         13
+    50        135
+    51         15
+    52         67
+    53         16
+    55         96
+    56         29
+    62         20
+    63         53
+    64         32
+    65         14
+    66         12
+    76        173
+    77        135
+    78        210
+    89         13
+   103        999
+   104        105
+   119         10
+   125         19
+   250        865
+   251        154

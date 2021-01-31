@@ -1,0 +1,43 @@
+##TITLE=Library Entry 50658
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2H-1,2-Oxaborin, 2,3,3-triethyl-3,6-dihydro-
+##MOLFORM=C10H19BO
+##CAS REGISTRY NO=32765-44-9
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        128
+    40         24
+    41        278
+    42         33
+    43         72
+    44        102
+    45         52
+    46         16
+    77         98
+    78         31
+    79        208
+    80         37
+    81        999
+    82        111
+    83         53
+    84         14
+    85         31
+   104          1
+   105         14
+   106          1
+   107         14
+   108         18
+   109         68
+   110        999
+   111        111
+   112         33
+   113         13
+   114         11

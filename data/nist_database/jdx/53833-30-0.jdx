@@ -1,0 +1,75 @@
+##TITLE=Library Entry 87438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Ethyl-4,5-dimethyl oxazole
+##MOLFORM=C7H11NO
+##CAS REGISTRY NO=53833-30-0
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=925
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26         49
+    27        162
+    28         69
+    29         82
+    33          5
+    37         13
+    38         21
+    39        133
+    40         28
+    41        145
+    42        349
+    43        964
+    44         20
+    47          2
+    50         10
+    51         17
+    52         23
+    53         27
+    54         46
+    55        236
+    56        109
+    57         60
+    60          5
+    62          9
+    64          8
+    66         24
+    67          9
+    68         28
+    69         52
+    70        106
+    71         16
+    72          1
+    73          2
+    76          1
+    78          2
+    80          7
+    82        185
+    83         13
+    86          1
+    88          2
+    92          3
+    94          4
+    96         18
+    97          5
+    98          2
+    99          2
+   100          4
+   104          4
+   110        999
+   111         31
+   116          5
+   117          3
+   118          3
+   120          2
+   122          2
+   124        260
+   125        989
+   126         30
+   127          3
+   128          2

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 70851
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 3,4-bis(dimethylamino)-
+##MOLFORM=C8H16N2O
+##CAS REGISTRY NO=49582-60-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         80
+    40        170
+    41        170
+    42        919
+    43        539
+    44        370
+    45         80
+    54         80
+    55        210
+    56        290
+    57         80
+    58        290
+    68        210
+    69        120
+    70        669
+    71         80
+    72        250
+    82         80
+    83        290
+    84         80
+    96        250
+    97        669
+    98        999
+    99         80
+   100        170
+   112        210
+   113        210
+   139        170
+   156        579

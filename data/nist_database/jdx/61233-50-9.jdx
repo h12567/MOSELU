@@ -1,0 +1,59 @@
+##TITLE=Library Entry 87719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(11)1124(1974); GAY
+##NAMES=HP
+##CAS NAME=Octanenitrile, 6-amino-
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=61233-50-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         40
+    18         18
+    26         68
+    27        256
+    28        451
+    29        210
+    30        625
+    31         10
+    39        142
+    40         33
+    41        452
+    42        322
+    43        232
+    44         53
+    45         92
+    51         20
+    52         46
+    53         68
+    54        185
+    55        131
+    56        303
+    57         41
+    58        170
+    67         13
+    68         62
+    69         40
+    70        610
+    71        179
+    72         11
+    81         13
+    82        340
+    83         58
+    84         32
+    85         10
+    97         13
+    98         33
+   100         40
+   109         22
+   111        999
+   112        240
+   113         12
+   125         10
+   139         22
+   140         16

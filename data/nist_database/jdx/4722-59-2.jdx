@@ -1,0 +1,39 @@
+##TITLE=Library Entry 57190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hydroperoxide, 1,4-dioxan-2-yl
+##MOLFORM=C4H8O4
+##CAS REGISTRY NO=4722-59-2
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    15        466
+    29        826
+    30        195
+    31        666
+    41         66
+    42        144
+    43        722
+    44        666
+    45        866
+    57         44
+    58        100
+    59         84
+    60        155
+    61         33
+    63         17
+    69         22
+    73        777
+    74         55
+    75         17
+    87        999
+    88         71
+   102         17
+   104         11
+   120         11

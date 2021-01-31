@@ -1,0 +1,82 @@
+##TITLE=Library Entry 60676
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8526
+##NAMES=HP
+##CAS NAME=Benzene, (3-bromopropyl)-
+##MOLFORM=C9H11Br
+##CAS REGISTRY NO=637-59-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         29
+    28          5
+    37          1
+    38          7
+    39         56
+    40          5
+    41         38
+    42          1
+    49          1
+    50         18
+    51         43
+    52         11
+    53          4
+    55          1
+    57         11
+    58         10
+    59          1
+    61          2
+    62          9
+    63         30
+    64          9
+    65         94
+    66          6
+    74          5
+    75          5
+    76          5
+    77         26
+    78         17
+    79          9
+    80          1
+    81          1
+    82          1
+    83          1
+    86          2
+    87          2
+    88          1
+    89         25
+    90         11
+    91        999
+    92        168
+    93          9
+   102          4
+   103         12
+   104          6
+   105         25
+   106          2
+   107          2
+   109          2
+   115         22
+   116          5
+   117         44
+   118         31
+   119         20
+   120          2
+   126          1
+   154         14
+   155          1
+   156          4
+   169          1
+   170          7
+   171          1
+   172          7
+   198        114
+   199         10
+   200        112
+   201         10

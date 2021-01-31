@@ -1,0 +1,46 @@
+##TITLE=Library Entry 2957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Butene, (Z)-
+##MOLFORM=C4H8
+##CAS REGISTRY NO=590-18-1
+##MP= -300
+##BP= -300
+##MW= 56
+##$RETENTION INDEX=417
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          2
+    15         11
+    16          1
+    24          1
+    25          5
+    26         67
+    27        219
+    28        247
+    29        136
+    30          6
+    36          1
+    37         16
+    38         33
+    39        314
+    40         58
+    41        999
+    42         34
+    43          1
+    48          2
+    49         14
+    50         58
+    51         57
+    52         19
+    53         83
+    54         40
+    55        259
+    56        571
+    57         25
+    58          1

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 1615
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Norflurane
+##MOLFORM=C2H2F4
+##CAS REGISTRY NO=811-97-2
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=261
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    25          3
+    26          3
+    29          1
+    31        137
+    32         25
+    33        999
+    34          6
+    35          1
+    41          3
+    43          6
+    44         14
+    45          4
+    47          1
+    48          1
+    49          1
+    50         40
+    51        252
+    52          3
+    62          1
+    63         97
+    64         28
+    65          1
+    67          8
+    69        904
+    70          5
+    82         21
+    83        880
+    84         14
+    85          2
+    87          1
+    98          1
+   100          7
+   101         22
+   102         33
+   103          2

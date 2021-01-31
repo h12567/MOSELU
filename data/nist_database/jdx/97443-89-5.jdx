@@ -1,0 +1,81 @@
+##TITLE=Library Entry 82061
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Imidazolidinone, 1-benzoyl-2-(1,1-dimethylethyl)-3-methyl-5-[2-
+(methylthio)ethyl]-, (2S-trans)-
+##MOLFORM=C18H26N2O2S
+##CAS REGISTRY NO=97443-89-5
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    27         14
+    28          8
+    29         37
+    30          3
+    35          4
+    39         15
+    40          4
+    41         59
+    42         83
+    43          5
+    44          2
+    45          6
+    47          6
+    49          2
+    50          7
+    51         45
+    52          3
+    53          2
+    54          4
+    55          9
+    56         14
+    57         48
+    59          4
+    60          2
+    61         36
+    63          2
+    68          7
+    69          4
+    70          2
+    74          4
+    75         12
+    76         17
+    77        444
+    78         34
+    82          3
+    84          8
+    88          2
+    92          2
+    97          3
+    98         56
+    99          6
+   100          8
+   104         10
+   105        999
+   106        149
+   107          6
+   111         18
+   124          3
+   125          5
+   134          1
+   157          1
+   167          2
+   173          3
+   202          2
+   203          9
+   229          5
+   277        883
+   278        155
+   279         58
+   280          7
+   287          3
+   319          5
+   334         24
+   335          6
+   336          1

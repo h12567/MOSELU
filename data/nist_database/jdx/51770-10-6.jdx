@@ -1,0 +1,59 @@
+##TITLE=Library Entry 56943
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CLERIN, EC. SUPER. CHIM. MULHOUSE, UNIV. STRASBOURG,
+ FR.
+##NAMES=HP
+##CAS NAME=2-Phenyl-4-(trifluoroacetyl)-5-(4-morpholino)oxazole
+##MOLFORM=C15H13F3N2O3
+##CAS REGISTRY NO=51770-10-6
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    50         21
+    51         65
+    55        130
+    56        170
+    63         35
+    69         37
+    70         78
+    72         53
+    76         28
+    77        210
+    85         81
+    86        999
+    87         50
+    88         30
+    89         78
+   103         37
+   104         51
+   105        350
+   106         26
+   114         25
+   115         36
+   116         65
+   117         34
+   134         74
+   144         54
+   148         40
+   162         21
+   163         22
+   172        150
+   184         65
+   190         60
+   199         26
+   212        110
+   213        210
+   214         26
+   227         48
+   239         30
+   240        400
+   241         58
+   257        100
+   268         59
+   296         52
+   326        900

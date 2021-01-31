@@ -1,0 +1,35 @@
+##TITLE=Library Entry 49568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1-chloro-3-fluoro-
+##MOLFORM=C6H10ClF
+##CAS REGISTRY NO=55887-79-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39        180
+    41        330
+    53        170
+    54        499
+    55        240
+    59        280
+    67        180
+    69         60
+    72        400
+    73        160
+    79        549
+    80        999
+    81        999
+    82        130
+    85        290
+    99        200
+   100        509
+   101        519
+   136         30
+   138         10

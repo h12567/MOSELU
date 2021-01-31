@@ -1,0 +1,82 @@
+##TITLE=Library Entry 57153
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 3,4,6-tri-O-acetyl-2-deoxy-2-dimethylamino-.alpha.-D-gluco
+pyranoside
+##MOLFORM=C15H25NO8
+##CAS REGISTRY NO=81093-28-9
+##MP= -300
+##BP= -300
+##MW= 347
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    43        659
+    44         82
+    45         76
+    58        159
+    69         37
+    70         43
+    71         60
+    72         65
+    73         76
+    74         24
+    75         27
+    82         38
+    84        319
+    86        209
+    87        999
+    88         27
+    94         16
+    95         82
+    96         10
+    97         27
+    98         38
+   100        159
+   101        129
+   102         27
+   110         33
+   111         16
+   112         32
+   113         16
+   114         27
+   115         82
+   116         60
+   117         10
+   118         49
+   126        169
+   128        239
+   142        149
+   143        419
+   152          9
+   154         24
+   155          8
+   156         12
+   157          2
+   158          7
+   168        109
+   169         14
+   170         18
+   172         13
+   184         33
+   185          7
+   186         93
+   195         52
+   203          9
+   212          5
+   214         13
+   228         63
+   256         12
+   272         14
+   274          5
+   287         21
+   288          9
+   301          1
+   304          1
+   316          4
+   317          6
+   332          3
+   347         34

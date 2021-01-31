@@ -1,0 +1,62 @@
+##TITLE=Library Entry 2419
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.RUCKER PHARM. CHEM. INST., UNIV., MUNSTER, GERMANY, F
+.R.G.
+##NAMES=HP
+##CAS NAME=5H-Cyclopropa[a]naphthalen-5-one, 1,1a,2,3,6,7,7a,7b-octahydro-3-
+hydroxy-1,1,7,7a-tetramethyl-
+##MOLFORM=C15H22O2
+##CAS REGISTRY NO=77646-19-6
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        540
+    53        300
+    55        470
+    65        200
+    67        300
+    69        380
+    77        370
+    79        310
+    81        200
+    83        230
+    91        440
+    93        220
+    95        190
+   105        440
+   107        230
+   109        350
+   115         80
+   117         80
+   119        200
+   121        220
+   123        140
+   131        270
+   132        190
+   137        140
+   145        300
+   147        250
+   149        150
+   150        240
+   152        140
+   159        280
+   163         80
+   166         80
+   173        220
+   174        190
+   175         60
+   177         90
+   183         50
+   191        180
+   192        320
+   201        150
+   216        250
+   217         50
+   219         60
+   234         50

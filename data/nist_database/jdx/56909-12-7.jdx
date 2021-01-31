@@ -1,0 +1,28 @@
+##TITLE=Library Entry 20483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. G. FILBY
+##NAMES=HP
+##CAS NAME=1-Propanesulfinic acid, 2-methyl-, methyl ester
+##MOLFORM=C5H12O2S
+##CAS REGISTRY NO=56909-12-7
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    50        101
+    54        120
+    55        999
+    56         32
+    65        275
+    73         69
+    79        232
+    80        520
+    91         10
+   105        140
+   121        100
+   136         85
+   137         27

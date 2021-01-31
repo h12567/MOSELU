@@ -1,0 +1,48 @@
+##TITLE=Library Entry 32339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Ethyl 2-butynoate
+##MOLFORM=C6H8O2
+##CAS REGISTRY NO=4341-76-8
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          7
+    26         17
+    27         51
+    28          3
+    29         46
+    36          8
+    37         52
+    38         81
+    39        174
+    40         24
+    41         12
+    42          8
+    43         28
+    44          6
+    45         32
+    53         16
+    54         12
+    55         26
+    56         26
+    65         12
+    66        120
+    67        999
+    68        109
+    69        157
+    70          9
+    82         44
+    83         48
+    84         14
+    85         19
+    94         29
+    97         25
+   111         23

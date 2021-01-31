@@ -1,0 +1,41 @@
+##TITLE=Library Entry 19889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-n-Butylthiolane, S,S-dioxide
+##MOLFORM=C8H16O2S
+##CAS REGISTRY NO=71053-05-9
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    53         60
+    54         80
+    55        999
+    56        550
+    57        100
+    81         90
+    82         30
+    83        290
+    84        160
+    95         40
+    97        100
+   109         30
+   110         80
+   111         70
+   112         10
+   119         50
+   120         20
+   133         20
+   147         20
+   159        250
+   160         30
+   161         20
+   162          2
+   176         30
+   177          3
+   178          1

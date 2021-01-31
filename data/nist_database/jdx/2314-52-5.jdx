@@ -1,0 +1,30 @@
+##TITLE=Library Entry 3072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORNER, FUCHS MINERALOELWERKE GMBH, MANNHEIM, W. Gz
+##NAMES=HP
+##CAS NAME=Di-tert-butyl carbonotrithioate
+##MOLFORM=C9H18S3
+##CAS REGISTRY NO=2314-52-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        273
+    41        999
+    47         21
+    55        143
+    56        287
+    57        928
+    61         28
+    75         24
+    76        588
+    90         97
+   110         17
+   133          8
+   165         10
+   166         17
+   222         27

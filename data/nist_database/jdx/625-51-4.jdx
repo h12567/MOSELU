@@ -1,0 +1,31 @@
+##TITLE=Library Entry 6598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=N-Hydroxymethylacetamide
+##MOLFORM=C3H7NO2
+##CAS REGISTRY NO=625-51-4
+##MP= -300
+##BP= -300
+##MW= 89
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    42        400
+    43        999
+    44        232
+    45        381
+    49         29
+    51         11
+    59         39
+    60         60
+    61         29
+    71        375
+    72        160
+    73         64
+    86          5
+    88         41
+    89        383
+    90         14

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 29563
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Butane, 1-ethoxy-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=628-81-9
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=669
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    14         11
+    15         50
+    16          3
+    18          3
+    19          2
+    26         55
+    27        336
+    28        135
+    29        509
+    30         62
+    31        742
+    32          8
+    33          4
+    37          3
+    38         14
+    39        121
+    40          3
+    41        438
+    42         54
+    43        115
+    44         28
+    45         93
+    46          3
+    47         10
+    50          4
+    51          6
+    52          2
+    53         10
+    54          2
+    55         80
+    56        229
+    57        260
+    58          2
+    59        999
+    60         31
+    61          6
+    71          2
+    73        115
+    74          6
+    87         19
+   101          6
+   102         23

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 2700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4,5,9-Trihydroxy-dodeca-1,11-diene
+##MOLFORM=C12H22O3
+##CAS REGISTRY NO=121231-46-7
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        922
+    44        201
+    55        928
+    57        772
+    67        776
+    69        280
+    71        281
+    79        371
+    81        489
+    83        298
+    91        268
+    93        300
+    95        320
+    97        248
+   101        129
+   107        228
+   108        140
+   109        200
+   113        659
+   119        381
+   125        258
+   143        311
+   155        258

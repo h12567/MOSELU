@@ -1,0 +1,38 @@
+##TITLE=Library Entry 36513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Perfluoro-(1,4,7-trimethyl-2,5,8-trioxa-undecyl cyanide)
+##MOLFORM=C12F23NO3
+##CAS REGISTRY NO=51445-03-5
+##MP= -300
+##BP= -300
+##MW= 643
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    31         91
+    47         60
+    51         38
+    69        999
+    76        118
+    97         98
+   100        190
+   119        170
+   126        617
+   131         40
+   142         29
+   147        118
+   150        149
+   169        846
+   170         29
+   176         30
+   192         88
+   285         40
+   292         29
+   335        119
+   358         49
+   458         29
+   624          9

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 60137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.RONTANI, CENT. OCEANOL., FAC. SCI. DE LUMINY, MARSEIL
+LE, FR.
+##NAMES=HP
+##CAS NAME=Methyl 10-phenyldecanoate
+##MOLFORM=C17H26O2
+##CAS REGISTRY NO=123953-51-5
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    29        105
+    41        170
+    43        124
+    55        228
+    59        110
+    65        112
+    69        168
+    74        597
+    87        228
+    91        999
+    92        552
+   104        195
+   105        170
+   117         85
+   130         79
+   133         91
+   230        259
+   231        103
+   262        151

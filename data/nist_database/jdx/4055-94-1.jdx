@@ -1,0 +1,40 @@
+##TITLE=Library Entry 17858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MINISTRY OF TECH. E.R.D.E., WALTHAM ABBEY, UK
+##NAMES=HP
+##CAS NAME=1,3-Propanediol, 2-methyl-2-nitro-, dinitrate
+##MOLFORM=C4H7N3O8
+##CAS REGISTRY NO=4055-94-1
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    14         23
+    15         42
+    16         28
+    26         29
+    27        124
+    28        218
+    29        398
+    30        740
+    31         79
+    38         33
+    39        238
+    40         43
+    41        327
+    42         46
+    43         78
+    44         67
+    45          8
+    46        999
+    55         12
+    56          8
+    57         21
+    58         36
+    59         12
+    70         23
+    76         41

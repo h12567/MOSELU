@@ -1,0 +1,74 @@
+##TITLE=Library Entry 86902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Propyne, 1,1'-thiobis-
+##MOLFORM=C6H6S
+##CAS REGISTRY NO=14453-81-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         23
+    27         99
+    28          1
+    32          1
+    36         11
+    37         96
+    38        127
+    39        558
+    41          2
+    44         19
+    45        539
+    46         19
+    47         16
+    48          1
+    49          4
+    50         40
+    51        147
+    52         13
+    53         10
+    55          1
+    56          2
+    57         10
+    58         80
+    59         69
+    60          5
+    61         13
+    62         17
+    63         49
+    64         12
+    65        432
+    66        231
+    67          6
+    68         37
+    69        558
+    70        324
+    71        171
+    72         16
+    73          5
+    74          8
+    75          6
+    77         48
+    78          4
+    81         21
+    82         31
+    83        157
+    84         56
+    85          6
+    92          1
+    93         57
+    94         22
+    95        336
+    96         17
+    97         11
+   108          1
+   109        134
+   110        999
+   111         71
+   112         42

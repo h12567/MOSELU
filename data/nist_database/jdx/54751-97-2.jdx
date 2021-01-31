@@ -1,0 +1,47 @@
+##TITLE=Library Entry 37721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Piperidinone, 1-acetyl-6-methyl-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=54751-97-2
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        170
+    42        100
+    43        680
+    53         20
+    54         50
+    55        100
+    56        250
+    57        510
+    58         40
+    60         40
+    70        999
+    71         80
+    72         40
+    82         60
+    83         60
+    84        120
+    85         60
+    86         20
+    96        190
+    97         30
+    98        230
+    99         60
+   100         30
+   112        750
+   113        190
+   114         40
+   126         30
+   127         60
+   140         30
+   155        300
+   156         50

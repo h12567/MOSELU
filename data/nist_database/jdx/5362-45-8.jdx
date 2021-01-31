@@ -1,0 +1,27 @@
+##TITLE=Library Entry 61961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. OKU, DEP. CHEM., KYOTO INST. TECHNOL., KYOTO, JAPAN
+##NAMES=HP
+##CAS NAME=cis-1-Cyano-2-phenylcyclopropanol
+##MOLFORM=C10H9NO
+##CAS REGISTRY NO=5362-45-8
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    27        190
+    43        460
+    51        470
+    77        480
+    78        470
+    91        999
+   103        420
+   104        490
+   105        500
+   130        740
+   131        480
+   159        430

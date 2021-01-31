@@ -1,0 +1,54 @@
+##TITLE=Library Entry 17900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-nitro-, anhydride
+##MOLFORM=C14H8N2O7
+##CAS REGISTRY NO=902-47-6
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    45        444
+    46        999
+    49         30
+    50        488
+    51        124
+    53         94
+    55         10
+    59         68
+    61         19
+    62         34
+    63         63
+    64         38
+    65        103
+    66         12
+    73         24
+    74        111
+    75         88
+    76        146
+    77         29
+    81         18
+    92         86
+   103         49
+   104        126
+   105         12
+   109         32
+   119         25
+   120         20
+   121         15
+   149         15
+   150         55
+   166         20
+   167         13
+   180         14
+   181         33
+   194         36
+   195          9
+   270         27
+   271          9
+   316         19

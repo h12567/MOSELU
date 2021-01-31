@@ -1,0 +1,78 @@
+##TITLE=Library Entry 42002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Arabinitol, 5TMS derivative
+##MOLFORM=C20H52O5Si5
+##CAS REGISTRY NO=25138-28-7
+##MP= -300
+##BP= -300
+##MW= 512
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    15         10
+    29         20
+    31         40
+    41         20
+    44         10
+    45         60
+    59         40
+    69         10
+    72         20
+    73        999
+    74         90
+    75         70
+    89         10
+   101         20
+   103        460
+   104         40
+   105         20
+   116         20
+   117         90
+   118         10
+   119         10
+   129        140
+   130         20
+   131         30
+   133         60
+   147        300
+   148         40
+   149         30
+   157         10
+   175         10
+   189         70
+   190         20
+   191         50
+   203         40
+   204         80
+   205        320
+   206         60
+   207         30
+   217        410
+   218        110
+   219         50
+   221         20
+   229         10
+   243         40
+   277         30
+   306         10
+   307        200
+   308         70
+   309         30
+   317         20
+   319        120
+   320         40
+   321         20
+   332         10
+   395          3
+   396          2
+   397          1
+   407          4
+   408          1
+   422          7
+   423          2
+   424          2
+   425          1

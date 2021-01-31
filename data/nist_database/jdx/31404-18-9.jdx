@@ -1,0 +1,74 @@
+##TITLE=Library Entry 60144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Silane, [[4-(benzyloxy)cyclohexyl]oxy]trimethyl-
+##MOLFORM=C16H26O2Si
+##CAS REGISTRY NO=31404-18-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41         40
+    43         20
+    44         20
+    45         70
+    47         30
+    50         20
+    51         40
+    52         10
+    53         10
+    54         10
+    55         10
+    57         10
+    58         10
+    59         20
+    65         40
+    67         20
+    73        290
+    74         20
+    75        320
+    76         30
+    77         80
+    78         20
+    79         30
+    80         20
+    81        130
+    82         60
+    89         10
+    91        999
+    92        130
+    93         10
+    97         40
+    98         10
+    99         10
+   101         40
+   104         20
+   105         60
+   106         40
+   107         40
+   108         10
+   115         20
+   116         30
+   129        160
+   130         70
+   131        100
+   132         10
+   135         10
+   155         20
+   157         10
+   159         10
+   165         10
+   169         10
+   170         50
+   171         40
+   172        100
+   173         20
+   179         90
+   186         10
+   187         30

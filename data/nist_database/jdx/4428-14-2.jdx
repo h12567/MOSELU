@@ -1,0 +1,30 @@
+##TITLE=Library Entry 17100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Ethanol, 2,2'-trithiobis-
+##MOLFORM=C4H10O2S3
+##CAS REGISTRY NO=4428-14-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    43        292
+    44         45
+    45        999
+    46        281
+    47        353
+    48         18
+    59        614
+    60        394
+    61        168
+    64        272
+    77         23
+    79        280
+    92        219
+   124        318
+   186        226

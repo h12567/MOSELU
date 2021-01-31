@@ -1,0 +1,63 @@
+##TITLE=Library Entry 79506
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Methanone, cyclopentylphenyl-
+##MOLFORM=C12H14O
+##CAS REGISTRY NO=5422-88-8
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1508
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         23
+    29          4
+    38          7
+    39         61
+    40         13
+    41         83
+    42          7
+    50         38
+    51        134
+    52         12
+    53         14
+    54          7
+    55         37
+    62          4
+    63         11
+    64          3
+    65         13
+    66          5
+    67         26
+    68         12
+    69         26
+    74         12
+    75         10
+    77        427
+    78         37
+    79         12
+    89          4
+    91         10
+    95          2
+   102          3
+   103          6
+   105        999
+   106         77
+   107         20
+   115         15
+   117          4
+   127          3
+   128          5
+   129          4
+   131          6
+   133        126
+   134         12
+   145          9
+   146          4
+   173         23
+   174        181
+   175         24

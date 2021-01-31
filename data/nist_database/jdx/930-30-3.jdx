@@ -1,0 +1,61 @@
+##TITLE=Library Entry 51025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1594
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one
+##MOLFORM=C5H6O
+##CAS REGISTRY NO=930-30-3
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=831
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14          9
+    15          8
+    17          3
+    18         10
+    24          2
+    25         15
+    26        153
+    27        259
+    28        259
+    29          9
+    31         11
+    32          1
+    36          6
+    37         31
+    38         47
+    39        666
+    40         31
+    41         22
+    42         32
+    43          9
+    44          3
+    48          4
+    49         22
+    50         75
+    51         76
+    52         45
+    53        344
+    54        365
+    55        171
+    56         73
+    57          3
+    60          3
+    61          6
+    62          5
+    63          3
+    66          1
+    67          2
+    68          4
+    79          1
+    80          1
+    81        134
+    82        999
+    83         56
+    84          2

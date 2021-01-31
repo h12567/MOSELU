@@ -1,0 +1,28 @@
+##TITLE=Library Entry 35618
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Cyanophenyl trifluoromethanesulfonate
+##MOLFORM=C8H4F3NO3S
+##CAS REGISTRY NO=66107-32-2
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    37         80
+    38         49
+    39        140
+    62         49
+    63        158
+    64        168
+    69        999
+    90        340
+   102         49
+   118        110
+   121         50
+   187        240
+   251        170

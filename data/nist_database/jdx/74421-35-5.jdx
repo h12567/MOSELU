@@ -1,0 +1,74 @@
+##TITLE=Library Entry 3528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=1,6-Heptadiene, 2,3,6-trimethyl-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=74421-35-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    24          2
+    25          2
+    26          6
+    27        183
+    28         19
+    29        201
+    30          4
+    33          1
+    36          1
+    38         10
+    39        294
+    40         54
+    41        999
+    42        199
+    43         92
+    50          7
+    51         26
+    52         13
+    53        129
+    54         76
+    55        741
+    56         51
+    57         15
+    62          2
+    63          6
+    64          2
+    65         22
+    66         22
+    67        514
+    68        197
+    69        263
+    70        849
+    71         48
+    75          0
+    77         17
+    78          3
+    79         31
+    80          9
+    81        155
+    82        432
+    83         83
+    84          4
+    91         10
+    92          1
+    93          6
+    94          4
+    95        160
+    96         45
+    97          1
+   105          2
+   107          2
+   108          1
+   109         63
+   110         40
+   111          2
+   123         72
+   124          5
+   138          5

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 60601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Phenyl-3-(3-trifluoromethylphenyl)propane
+##MOLFORM=C16H15F3
+##CAS REGISTRY NO=67081-96-3
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    39        136
+    41         38
+    50         37
+    51        133
+    52         26
+    63         63
+    65        182
+    75         26
+    76         25
+    77        178
+    78        100
+    79        137
+    89         52
+    90         46
+    91        999
+    92        837
+    93        111
+   103        105
+   104        132
+   105        476
+   106         53
+   109         79
+   115         46
+   116          4
+   117         53
+   118         10
+   119         25
+   122         31
+   127         47
+   133         57
+   141         36
+   151         31
+   153         52
+   159        110
+   160        163
+   172         26
+   173         52
+   188         25
+   245         47
+   264        352
+   265         63

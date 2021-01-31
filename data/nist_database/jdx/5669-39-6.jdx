@@ -1,0 +1,40 @@
+##TITLE=Library Entry 30837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=CH3ON(CH3)2
+##MOLFORM=C3H9NO
+##CAS REGISTRY NO=5669-39-6
+##MP= -300
+##BP= -300
+##MW= 75
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         55
+    28         84
+    29        113
+    30         40
+    31        186
+    33         17
+    39          5
+    40         17
+    41         34
+    42        371
+    43        160
+    44         82
+    45        143
+    46          2
+    56          2
+    57          3
+    58          5
+    59        110
+    60        999
+    61         25
+    73          7
+    74         91
+    75        369
+    76         13

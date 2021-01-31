@@ -1,0 +1,32 @@
+##TITLE=Library Entry 114262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. ZINCZUK,FAC. CIENC. EXACTAS,UNIV. NAC. DE LA PLATA,A
+RGENT.
+##NAMES=HP
+##CAS NAME=1-Cyano-3,5-dimethyl-5-phenylhydantoin
+##MOLFORM=C12H11N3O2
+##CAS REGISTRY NO=102617-86-7
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    51         40
+    67         40
+    77        190
+    78         40
+   103        160
+   104        410
+   118         40
+   129        999
+   143         60
+   144        370
+   146         50
+   157         30
+   172         90
+   214        870
+   228         30
+   229        690

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 44000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Scyllo-Inositol, 6TMS derivative
+##MOLFORM=C24H60O6Si6
+##CAS REGISTRY NO=14251-18-4
+##MP= -300
+##BP= -300
+##MW= 612
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    73        999
+    74         36
+   103         73
+   129         70
+   133         79
+   147        455
+   148         45
+   189         19
+   191        446
+   192         54
+   204        295
+   205         36
+   217        661
+   218         71
+   221         36
+   265         72
+   291         32
+   293         61
+   305        652
+   306         80
+   307          9
+   318        893
+   319        107
+   320         18
+   343          7
+   367         32
+   393         69
+   419         11
+   432         22
+   433         22
+   507         26
+   522          1
+   597          1
+   612          4

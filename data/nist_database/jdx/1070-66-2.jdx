@@ -1,0 +1,79 @@
+##TITLE=Library Entry 3841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-n-Butylacrolein
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=1070-66-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1130
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          3
+    25          1
+    26         24
+    27        250
+    29        207
+    30          4
+    31          9
+    37         15
+    38         47
+    39        598
+    40        123
+    41        999
+    42        455
+    43        512
+    44         28
+    45          7
+    49          6
+    50         66
+    51        113
+    52         49
+    53        259
+    54         95
+    55        936
+    56        390
+    57        243
+    58         51
+    59          3
+    61          5
+    62         11
+    63         21
+    64          3
+    65         48
+    66         24
+    67        142
+    68         59
+    69        435
+    70        648
+    71        279
+    72         19
+    73          2
+    74          6
+    75          2
+    77         81
+    78         13
+    79        370
+    80         43
+    81        666
+    82         53
+    83        295
+    84        218
+    85         13
+    86          1
+    91         24
+    92          2
+    93         35
+    94         80
+    95         19
+    97        956
+    98         63
+    99          3
+   109          1
+   111         97
+   112         28
+   113          2

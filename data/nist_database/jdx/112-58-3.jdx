@@ -1,0 +1,70 @@
+##TITLE=Library Entry 9845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3631
+##NAMES=HP
+##CAS NAME=Hexane, 1,1'-oxybis-
+##MOLFORM=C12H26O
+##CAS REGISTRY NO=112-58-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1264
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          1
+    26          3
+    27         81
+    28         18
+    29        115
+    30          4
+    31         11
+    32          1
+    37          1
+    38          1
+    39         41
+    40          9
+    41        194
+    42         99
+    43        999
+    44         35
+    45         21
+    51          1
+    52          1
+    53          9
+    54         10
+    55        140
+    56        341
+    57        164
+    58          9
+    59          4
+    60          1
+    65          1
+    67          9
+    68          5
+    69         90
+    70          9
+    71          9
+    72          2
+    73          8
+    81          2
+    82         10
+    83        142
+    84        194
+    85        794
+    86         53
+    87          3
+    99          2
+   100          1
+   101          9
+   102          1
+   103         13
+   104          1
+   115         24
+   116          2
+   117          2
+   129          1
+   143          2
+   157          1

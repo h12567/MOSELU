@@ -1,0 +1,26 @@
+##TITLE=Library Entry 38568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Methyl-1-(pent-3-yl-carbonyl)-urea
+##MOLFORM=C8H16N2O2
+##CAS REGISTRY NO=82845-38-3
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43        540
+    44         19
+    71        999
+    73         69
+    74         99
+    98        129
+    99        289
+   101         89
+   129         30
+   144        218
+   172        110

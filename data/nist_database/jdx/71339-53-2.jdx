@@ -1,0 +1,33 @@
+##TITLE=Library Entry 37038
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20 459(1981); JUAN C MARTINEZ ET AL
+##NAMES=HP
+##CAS NAME=2(3H)-Furanone, 3-(15-hexadecynylidene)dihydro-4-hydroxy-5-methyl
+-, [4R-(3Z,4.alpha.,5.beta.)]-
+##MOLFORM=C21H34O3
+##CAS REGISTRY NO=71339-53-2
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        700
+    43        600
+    55        300
+    57        220
+    69        300
+    70        999
+    71        100
+    81        400
+    83        150
+    95        250
+    97         60
+   140         50
+   142        120
+   290         30
+   306         10
+   316         10
+   334         30

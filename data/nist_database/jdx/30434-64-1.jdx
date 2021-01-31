@@ -1,0 +1,52 @@
+##TITLE=Library Entry 68457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one, 3,4-dimethyl-
+##MOLFORM=C7H10O
+##CAS REGISTRY NO=30434-64-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=986
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    31         23
+    37          5
+    38         32
+    39        383
+    40        151
+    41        360
+    42         78
+    43         49
+    45         11
+    50         19
+    51         42
+    52         20
+    53         95
+    54         55
+    55         43
+    63         20
+    64          5
+    65         90
+    66         28
+    67        673
+    68         87
+    69         46
+    70          6
+    77         15
+    78          5
+    79         64
+    80          7
+    81         69
+    82        119
+    83         17
+    91          5
+    95        999
+    96         81
+    97          8
+   109         69
+   110        735
+   111         64

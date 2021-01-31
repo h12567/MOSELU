@@ -1,0 +1,44 @@
+##TITLE=Library Entry 8505
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Kurata, Dep. Chem., Hokkaido Univ., Sapporo, Japan
+##NAMES=HP
+##CAS NAME=1,2-Pentanediol, 5-(6-bromodecahydro-2-hydroxy-2,5,5a,8a-tetramet
+hyl-1-naphthalenyl)-3-methylene-, 1,2-diacetate
+##MOLFORM=C24H39BrO5
+##CAS REGISTRY NO=115334-14-0
+##MP= -300
+##BP= -300
+##MW= 486
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        230
+    43        999
+    55        200
+    69        300
+    71        230
+    81        220
+    93        230
+    95        200
+   105        100
+   107        180
+   109        150
+   119        120
+   121        150
+   123        230
+   133        120
+   135        170
+   147        110
+   149         90
+   175        100
+   191         70
+   255         30
+   257         30
+   269         50
+   287         60
+   366         50
+   368         50
+   426         20
+   428         20

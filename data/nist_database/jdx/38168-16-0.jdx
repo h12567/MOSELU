@@ -1,0 +1,50 @@
+##TITLE=Library Entry 87115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T.BAKER JAMES COOK UNIV. TOWNSVILLE, QUEENSLAND, AUST
+RALI
+##NAMES=HP
+##CAS NAME=3H-Indol-3-one, 1,2-dihydro-2,2-bis(phenylthio)-
+##MOLFORM=C20H15NOS2
+##CAS REGISTRY NO=38168-16-0
+##MP= -300
+##BP= -300
+##MW= 349
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        130
+    45         80
+    50        140
+    51        180
+    65        150
+    66        340
+    69        100
+    74         40
+    75         70
+    76        110
+    77        230
+    78         40
+    84        120
+   102         90
+   108         60
+   109        280
+   110        999
+   111         90
+   112         50
+   130        150
+   134         60
+   162         90
+   167         50
+   178        210
+   179         40
+   184         40
+   209         20
+   210        170
+   211        150
+   212         30
+   238        230
+   239        340
+   240         90
+   241         40

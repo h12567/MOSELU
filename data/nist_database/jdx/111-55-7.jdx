@@ -1,0 +1,45 @@
+##TITLE=Library Entry 9974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2007
+##NAMES=HP
+##CAS NAME=1,2-Ethanediol, diacetate
+##MOLFORM=C6H10O4
+##CAS REGISTRY NO=111-55-7
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=994
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    14         12
+    15         73
+    16          2
+    18          1
+    19          1
+    26          7
+    27         12
+    28         16
+    29         28
+    30          4
+    31          7
+    41          4
+    42         45
+    43        999
+    44         29
+    45          9
+    60          1
+    61          6
+    73         56
+    74         15
+    75          1
+    86        157
+    87         11
+    88          3
+   101          2
+   103         36
+   104          5
+   116         65
+   117          4
+   118          1

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 68025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. ANDO,FAC. AGRIC.,TOKYO UNIV. AGRIC. TECHNOL.,TOKYO,J
+APAN
+##NAMES=HP
+##CAS NAME=(7E,9E)-Dodecadienal
+##MOLFORM=C12H20O
+##CAS REGISTRY NO=97475-10-0
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    41        140
+    53         70
+    54         80
+    55        370
+    66         60
+    67        910
+    68        270
+    69        110
+    70        100
+    77        100
+    79        300
+    80        140
+    81        510
+    82        500
+    83        100
+    84         80
+    85         50
+    91        120
+    93        160
+    94        100
+    95        999
+    96        170
+    97        100
+    98        600
+   105         60
+   107        100
+   108         60
+   109        170
+   110         40
+   121         50
+   123         70
+   133         90
+   137         90
+   151         70
+   180        580
+   181         90

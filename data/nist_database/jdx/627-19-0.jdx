@@ -1,0 +1,55 @@
+##TITLE=Library Entry 32357
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2818
+##NAMES=HP
+##CAS NAME=1-Pentyne
+##MOLFORM=C5H8
+##CAS REGISTRY NO=627-19-0
+##MP= -300
+##BP= -300
+##MW= 68
+##$RETENTION INDEX=484
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          3
+    15         11
+    24          1
+    25          6
+    26         42
+    27        328
+    28         38
+    29        243
+    30          6
+    31         12
+    32          6
+    36          5
+    37         49
+    38         97
+    39        548
+    40        611
+    41        226
+    42        222
+    43         13
+    44          2
+    48          2
+    49         14
+    50         64
+    51         84
+    52         36
+    53        439
+    54         20
+    55          4
+    60          5
+    61         17
+    62         24
+    63         31
+    64          5
+    65         66
+    66         41
+    67        999
+    68        152
+    69          7

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 85739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid, 2,2-dimethyl-3-(1-propenyl)-, methyl
+ ester, [1.alpha.,3.beta.(Z)]-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=33383-56-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        197
+    41        300
+    43        193
+    51         44
+    53        106
+    55        277
+    59         42
+    65         33
+    67        391
+    69         62
+    73        155
+    77        108
+    79        106
+    81        155
+    91         93
+    93        195
+    94         57
+    95         57
+   109        999
+   110        100
+   137         71
+   139         22
+   153         84
+   154         31
+   168        160
+   169         22

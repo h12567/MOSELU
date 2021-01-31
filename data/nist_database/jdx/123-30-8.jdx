@@ -1,0 +1,80 @@
+##TITLE=Library Entry 85833
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1627
+##NAMES=HP
+##CAS NAME=Phenol, 4-amino-
+##MOLFORM=C6H7NO
+##CAS REGISTRY NO=123-30-8
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=1290
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          3
+    15          2
+    17          1
+    18          3
+    24          1
+    25          6
+    26         34
+    27         53
+    28         11
+    29          9
+    30          6
+    31          2
+    36          2
+    37         11
+    38         17
+    39         49
+    40         18
+    41         25
+    42         12
+    43          4
+    44         10
+    45          1
+    48          1
+    49          6
+    50         20
+    51         35
+    52        136
+    53        166
+    54         70
+    55         32
+    56          4
+    60          2
+    61          9
+    62         13
+    63         25
+    64         25
+    65         23
+    66          9
+    67          6
+    68         12
+    69          5
+    70          4
+    73          1
+    74          2
+    75          2
+    76          3
+    77          1
+    78          8
+    79         28
+    80        372
+    81        110
+    82         36
+    83          5
+    89          1
+    90          3
+    91          9
+    92          6
+    93          2
+    94          3
+   106          1
+   107        109
+   108        130
+   109        999
+   110         69
+   111          4

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 19507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2,4,6-Tricyclohexyloxy-1,3,5-triazine
+##MOLFORM=C21H33N3O3
+##CAS REGISTRY NO=70102-74-8
+##MP= -300
+##BP= -300
+##MW= 375
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        217
+    41        674
+    42         78
+    43         76
+    44         45
+    50         10
+    51         23
+    53        142
+    54        277
+    55        999
+    56         70
+    57         19
+    65         21
+    67        351
+    68         26
+    69         23
+    70         34
+    77         25
+    78          9
+    79         66
+    81        194
+    82        148
+    83        346
+    84         26
+    85          6
+    87         49
+    94         12
+    97          5
+    98         25
+    99        112
+   100          6
+   112         20
+   113         49
+   114         76
+   115          5
+   130        511
+   131         18
+   140          5
+   166         12
+   167          3
+   194          4
+   195         32
+   196          7
+   211          8
+   212         56
+   213          3
+   277          8
+   294         12

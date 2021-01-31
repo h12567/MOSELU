@@ -1,0 +1,42 @@
+##TITLE=Library Entry 57923
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Ether, bis[2-(ethylthio)ethyl]
+##MOLFORM=C8H18OS2
+##CAS REGISTRY NO=5648-30-6
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    35        104
+    41         39
+    43         19
+    44         18
+    45        130
+    46         59
+    47        152
+    55         53
+    59        125
+    60        380
+    61        734
+    62         88
+    63         95
+    73         17
+    75        198
+    76         13
+    77         15
+    88        999
+    89        934
+    90         88
+    91         47
+    93         38
+   106         43
+   119         10
+   132          8
+   165          7
+   194         17

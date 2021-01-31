@@ -1,0 +1,53 @@
+##TITLE=Library Entry 89625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1,1-Dichloro-3-methyl-1-silacyclobutane
+##MOLFORM=C4H8Cl2Si
+##CAS REGISTRY NO=30681-85-7
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    55        140
+    56        160
+    63        320
+    64         20
+    65        130
+    66         20
+    77         30
+    78         10
+    79         20
+    83         10
+    91         20
+    92         20
+    93         10
+    94         10
+    98         50
+    99         50
+   100         40
+   101         30
+   112        999
+   113        760
+   114         72
+   115         51
+   116        160
+   117        120
+   118         30
+   126        300
+   127         40
+   128        200
+   129         20
+   130         30
+   139         50
+   141         40
+   154         90
+   155          8
+   156         62
+   157          6
+   158         12
+   159          1

@@ -1,0 +1,81 @@
+##TITLE=Library Entry 58378
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzenepropanol, .gamma.-[(2-methoxyethoxy)methoxy]-.beta.-methyl
+-, (R*,s*)-(.+-.)-
+##MOLFORM=C14H22O4
+##CAS REGISTRY NO=97991-46-3
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         11
+    28         15
+    29         44
+    30          5
+    31         68
+    39         15
+    41         25
+    42         11
+    43         19
+    44         25
+    45         63
+    50          5
+    51         17
+    52          5
+    53          3
+    55          5
+    57         12
+    58         15
+    59        735
+    60         25
+    61          3
+    63          5
+    65         13
+    71          3
+    73          9
+    75          5
+    76          6
+    77         65
+    78         15
+    79         21
+    89        999
+    90         52
+    91        294
+    92         32
+   103         11
+   104          4
+   105         53
+   106         14
+   107         62
+   108          5
+   115         19
+   116          7
+   117         41
+   118         36
+   119         29
+   120          8
+   121          3
+   129          2
+   131         30
+   132         11
+   133          4
+   145          1
+   147          4
+   148         12
+   149         38
+   150          5
+   162          1
+   165         19
+   166          2
+   177          2
+   178          3
+   195         82
+   196         10
+   204          0

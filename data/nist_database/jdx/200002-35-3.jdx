@@ -1,0 +1,46 @@
+##TITLE=Library Entry 37290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=4,8-Dioxo-4,8-dihydrofurazano[4,5-f]benzofurazan
+##MOLFORM=C6N4O4
+##CAS REGISTRY NO=200002-35-3
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    40          6
+    42         30
+    43         10
+    44          5
+    50         59
+    52         67
+    54        493
+    55         16
+    57          8
+    62         21
+    64         10
+    66         55
+    68         50
+    70        999
+    71         31
+    76         50
+    78         24
+    83         10
+    85          7
+    88          8
+    93          5
+    94        303
+    95         13
+    96        402
+   112          8
+   149         23
+   150          9
+   167          7
+   192        395
+   193         66
+   194          8

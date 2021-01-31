@@ -1,0 +1,29 @@
+##TITLE=Library Entry 12004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Octanoic acid, 5-(acetyloxy)-, methyl ester
+##MOLFORM=C11H20O4
+##CAS REGISTRY NO=35234-23-2
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=1387
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        149
+    71         29
+    74        171
+    82         25
+    83         25
+    99        179
+   112         75
+   113         51
+   131        398
+   143         77
+   145         99
+   156         25
+   173         39

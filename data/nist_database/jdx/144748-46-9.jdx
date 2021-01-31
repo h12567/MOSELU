@@ -1,0 +1,52 @@
+##TITLE=Library Entry 59742
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=1H-Imidazole-4-carboxamide, 1-benzyl-5-[(chloroacetyl)amino]-
+##MOLFORM=C13H13ClN4O2
+##CAS REGISTRY NO=144748-46-9
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    50         20
+    51         50
+    52         15
+    53         15
+    55         30
+    56         26
+    57         60
+    58         12
+    63         31
+    64         15
+    65        120
+    66         19
+    69         30
+    70         10
+    77         45
+    78         18
+    79         11
+    89         35
+    90         34
+    91        999
+    92         85
+    93         25
+   198         25
+   199         18
+   200         10
+   226         36
+   227         10
+   243         39
+   244          5
+   275         50
+   276          7
+   277         17
+   278          2
+   292         38
+   293         10
+   294         13

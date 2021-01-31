@@ -1,0 +1,79 @@
+##TITLE=Library Entry 37101
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Bromoacetic acid, pentyl ester
+##MOLFORM=C7H13BrO2
+##CAS REGISTRY NO=52034-03-4
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=1170
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    27        100
+    28         24
+    29        172
+    30          7
+    31         16
+    36          5
+    37          4
+    38          9
+    39        106
+    40         15
+    41        288
+    42        569
+    43        567
+    44         36
+    45         10
+    49          2
+    50          5
+    51          9
+    52          2
+    53         16
+    54         12
+    55        372
+    56         28
+    57         45
+    58          3
+    59          4
+    60          5
+    65          3
+    67          6
+    68          6
+    69        101
+    70        999
+    71        141
+    72         13
+    73          5
+    79          5
+    81          6
+    83         13
+    85         11
+    87         13
+    91          4
+    92          5
+    93         99
+    94         11
+    95         91
+    96          3
+    97          2
+   115         13
+   120          9
+   121        209
+   122         17
+   123        202
+   124          5
+   129          5
+   138          3
+   139         70
+   140          3
+   141         67
+   151         13
+   153         16
+   165          3
+   167          3
+   179          5
+   181          4

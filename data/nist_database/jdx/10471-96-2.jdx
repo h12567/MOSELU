@@ -1,0 +1,56 @@
+##TITLE=Library Entry 66148
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 1-ethenyl-1,5-dimethyl-4-hexenyl ester
+##MOLFORM=C15H26O2
+##CAS REGISTRY NO=10471-96-2
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=1510
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    29         28
+    41        147
+    43        159
+    55        139
+    57        419
+    58          7
+    60         79
+    64          7
+    67         59
+    68        199
+    69        412
+    70         19
+    71         28
+    72          7
+    73         19
+    77         28
+    78          7
+    79        159
+    80        739
+    81        331
+    82         59
+    83         68
+    85        439
+    86         28
+    89         19
+    91         89
+    92        412
+    93        999
+    94        299
+    95         79
+   105         39
+   106          7
+   107        199
+   108         39
+   109         19
+   121        459
+   122         59
+   136        239
+   137         89
+   139          7
+   154         19

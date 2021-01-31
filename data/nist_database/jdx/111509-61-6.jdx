@@ -1,0 +1,44 @@
+##TITLE=Library Entry 27242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane-2,3-dicarboxylic acid, 5-oxo-, 2-(1,1-dimet
+hylethyl) ester, (2-exo,3-endo)-
+##MOLFORM=C13H18O5
+##CAS REGISTRY NO=111509-61-6
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        290
+    43        140
+    56        100
+    57        999
+    79        110
+    80          7
+   107         50
+   108          4
+   113        150
+   114         10
+   124        210
+   125         16
+   140        110
+   141         10
+   152        200
+   153         18
+   170         90
+   171          8
+   180        170
+   181        340
+   182         35
+   198        510
+   199         50
+   239         50
+   240          7
+   254         20
+   255          3

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 90302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Ethynyltetrafluorphosphorane
+##MOLFORM=C2HF4P
+##CAS REGISTRY NO=67149-04-6
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    37          6
+    47         88
+    50        443
+    55        191
+    56         49
+    69        862
+    74         38
+    75         36
+    88        618
+    93        161
+    94         55
+   107        998
+   112        190
+   113        999
+   114        140
+   132        784

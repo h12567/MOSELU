@@ -1,0 +1,30 @@
+##TITLE=Library Entry 35302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.G. Morse, Dep. Chem. Biochem., Utah State Univ., Loga
+n, USA
+##NAMES=HP
+##CAS NAME=Propane, 1,1,2,2-tetrakis(difluorophosphino)-
+##MOLFORM=C3H4F8P4
+##CAS REGISTRY NO=119280-19-2
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    38         80
+    39        280
+    41        100
+    50        120
+    65        120
+    69        999
+    71        730
+    89        190
+   109        280
+   159        250
+   178         70
+   247         90
+   316         60
+   317          2

@@ -1,0 +1,76 @@
+##TITLE=Library Entry 39464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-(5-Hydroxy-5-pyridin-4-yl-3-trifluoromethyl-4,5-dihydropyrazol-
+1-yl)-2-methylpropan-1-one
+##MOLFORM=C13H14F3N3O2
+##CAS REGISTRY NO=311796-42-6
+##MP= -300
+##BP= -300
+##MW= 301
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    50         84
+    51        247
+    52         66
+    53         31
+    54         20
+    55         83
+    56         26
+    57         54
+    58         10
+    62         25
+    63         53
+    64         31
+    69        144
+    70        303
+    71        999
+    72         68
+    73         18
+    77         90
+    78        264
+    79        102
+    80         24
+   104        124
+   105        126
+   106        144
+   107         49
+   108         11
+   117         24
+   118         33
+   119         45
+   120         33
+   121         25
+   122          8
+   123         42
+   124          5
+   135         75
+   136         18
+   160          7
+   161         21
+   162        442
+   163         49
+   164          7
+   213         96
+   214         63
+   215         18
+   229          4
+   231        333
+   232        333
+   233         34
+   234          2
+   238          2
+   255          6
+   256          2
+   258         21
+   273         72
+   274         11
+   280          2
+   282          4
+   301         86
+   302         13
+   303          1

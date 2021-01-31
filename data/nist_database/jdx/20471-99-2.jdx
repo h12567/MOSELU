@@ -1,0 +1,54 @@
+##TITLE=Library Entry 36475
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.R.MACKENZIE BROOKHAVEN NAT. LAB., UPTON, N.Y., USA
+##NAMES=HP
+##CAS NAME=Perfluoro-1,1-dimethylcyclopentane
+##MOLFORM=C7F14
+##CAS REGISTRY NO=20471-99-2
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    12          0
+    19          1
+    31        101
+    43          0
+    50         18
+    55          4
+    62          2
+    67          0
+    69        999
+    74         11
+    79          0
+    81          6
+    86          1
+    93         68
+    98          0
+   100        152
+   105          3
+   112         15
+   117          2
+   119         35
+   124         10
+   131        160
+   136          0
+   143         14
+   150         88
+   155          3
+   162        770
+   169          0
+   174          0
+   181         96
+   186          0
+   193          8
+   205          0
+   212          6
+   231         11
+   243         17
+   262          1
+   281          2
+   331          2

@@ -1,0 +1,73 @@
+##TITLE=Library Entry 1452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(2)122(1975); G. PEIFFER
+##NAMES=HP
+##CAS NAME=Phosphonic acid, (3-methyl-2-oxo-3-pentenyl)-, dimethyl ester, (E
+)-
+##MOLFORM=C8H15O4P
+##CAS REGISTRY NO=54543-04-3
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    18        280
+    27         80
+    28        112
+    29        280
+    30         80
+    31        999
+    32        640
+    39         56
+    42         56
+    43        280
+    44         56
+    45        120
+    46         48
+    47         56
+    49         96
+    50          3
+    51         40
+    52          4
+    53         32
+    55         72
+    59        208
+    63         32
+    64         48
+    65          7
+    74         32
+    75         16
+    77         88
+    78         32
+    79        144
+    80         40
+    83         32
+    91         40
+    93         56
+    94        216
+    95         56
+    96        200
+    98         24
+   108         24
+   109        120
+   110        144
+   113          8
+   124         24
+   127         32
+   128         24
+   140         24
+   141         16
+   143         16
+   148         16
+   151         16
+   155         16
+   157         24
+   158         48
+   173         16
+   187         32
+   188        136
+   189         56
+   206         16

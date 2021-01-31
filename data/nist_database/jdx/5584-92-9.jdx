@@ -1,0 +1,41 @@
+##TITLE=Library Entry 51972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=Hydroxy-(3-aminopropyl)butylborane
+##MOLFORM=C7H18BNO
+##CAS REGISTRY NO=5584-92-9
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    29        129
+    31         69
+    39        199
+    41        439
+    42        559
+    43        159
+    53         89
+    54        179
+    55        289
+    56         69
+    59         99
+    66         99
+    67        179
+    68        509
+    69        109
+    70         59
+    82        269
+    83        999
+    84         69
+    85         79
+    86        309
+    95         59
+    96        219
+    97         89
+   125         49

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 27173
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=VERIFIN - Methodology B3-1982
+##NAMES=HP
+##CAS NAME=Acetic acid, (2,4-dichlorophenoxy)-, butyl ester
+##MOLFORM=C12H14Cl2O3
+##CAS REGISTRY NO=94-80-4
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=1849
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    27         60
+    28         80
+    29        320
+    39         40
+    41        420
+    42         50
+    43        110
+    49         10
+    55         40
+    57        999
+    58         20
+    63         60
+    73         60
+    74         60
+    75        110
+    97         20
+   106         10
+   109        130
+   111        210
+   112         50
+   113         40
+   133         50
+   135         70
+   145        290
+   146         20
+   147        250
+   149         60
+   161         60
+   162        490
+   163         50
+   164        330
+   175        620
+   176        110
+   177        400
+   178        100
+   179         80
+   184         20
+   185        840
+   186         70
+   187        290
+   220        300
+   222        210
+   276        750
+   277         90
+   278        500
+   279         70
+   280         60

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 33252
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-one
+##MOLFORM=C6H8O
+##CAS REGISTRY NO=930-68-7
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=920
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         10
+    26         44
+    27        125
+    28         51
+    29         11
+    31         10
+    32          7
+    37         29
+    38         73
+    39        328
+    40        280
+    41         87
+    42        117
+    49          7
+    50         32
+    51         35
+    52         14
+    53         59
+    54         17
+    55         59
+    61         11
+    62         16
+    63         17
+    65         23
+    66         15
+    68        999
+    69         45
+    96        253
+    97         15

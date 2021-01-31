@@ -1,0 +1,35 @@
+##TITLE=Library Entry 61854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. MOLTZEN,DEP. CHEM.,KANSAS STATE UNIV.,MANHATTAN,KANS
+AS,USA
+##NAMES=HP
+##CAS NAME=Trichloromethyl N,N-bis(phenylmethyl)carbamodithioate
+##MOLFORM=C16H14Cl3NS2
+##CAS REGISTRY NO=91631-92-4
+##MP= -300
+##BP= -300
+##MW= 389
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    91        999
+   105        270
+   123        350
+   125        140
+   126         60
+   128         40
+   149         90
+   151         90
+   153         30
+   196         60
+   228        170
+   240         10
+   272         70
+   275         60
+   277         20
+   345         10
+   347         10
+   389          0
+   391          0

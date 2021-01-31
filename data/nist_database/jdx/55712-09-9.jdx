@@ -1,0 +1,72 @@
+##TITLE=Library Entry 23583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., UNIV. CALIF., SANTA BARBARA, CALI
+F., U.
+##NAMES=HP
+##CAS NAME=2,4-Bis(tert-butylcyanomethylene)-7,7,8,8-tetramethyl-6-methoxy-3
+,5-dioxa-1-azabicyclo[4.2.0]octane
+##MOLFORM=C22H33N3O3
+##CAS REGISTRY NO=55712-09-9
+##MP= -300
+##BP= -300
+##MW= 387
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    39        170
+    41        530
+    42        160
+    43         90
+    52         30
+    53        200
+    54         40
+    55        120
+    56         80
+    57        999
+    58        450
+    59         30
+    67         30
+    68         50
+    69        230
+    70        130
+    73        160
+    80         30
+    82         30
+    83         90
+    84        240
+    85         50
+    94         20
+    96         40
+    98         30
+   108        450
+   109         40
+   111         50
+   123        150
+   124         50
+   126        100
+   127         20
+   140         40
+   141        150
+   142         20
+   143         70
+   144         20
+   165         50
+   175         30
+   180         30
+   181         30
+   186         13
+   190         17
+   192         50
+   221         30
+   236         12
+   246         50
+   248        230
+   249         40
+   264          8
+   303         50
+   304          9
+   318         13
+   333          9
+   387          3

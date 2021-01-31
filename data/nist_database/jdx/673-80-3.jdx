@@ -1,0 +1,40 @@
+##TITLE=Library Entry 23648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Butanesulfinic acid, methyl ester
+##MOLFORM=C5H12O2S
+##CAS REGISTRY NO=673-80-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        155
+    40          5
+    41        765
+    42         26
+    43        119
+    44          4
+    55        256
+    56         12
+    57        999
+    58         46
+    59          1
+    65        109
+    66          1
+    67          5
+    79        199
+    80        456
+    81          9
+    82         22
+    83          2
+   105        112
+   106          9
+   136        179
+   137         12
+   138          9
+   139          1

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 78641
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Benzamide, N-hydroxy-
+##MOLFORM=C7H7NO2
+##CAS REGISTRY NO=495-18-1
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         11
+    27         32
+    37         39
+    38         60
+    39         71
+    44         48
+    46         10
+    49         32
+    50        238
+    51        390
+    52         86
+    53         12
+    61         19
+    62         31
+    63         41
+    64         51
+    65         24
+    73         27
+    74         55
+    75         70
+    76        167
+    77        914
+    78         92
+    91         88
+    92         25
+   103        320
+   104         43
+   105        999
+   106         66
+   119        132
+   121        169
+   137         34

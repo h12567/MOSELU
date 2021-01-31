@@ -1,0 +1,86 @@
+##TITLE=Library Entry 76625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzene, (2-chloroethenyl)-
+##MOLFORM=C8H7Cl
+##CAS REGISTRY NO=622-25-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1030
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          2
+    14          2
+    15          9
+    25          6
+    26         47
+    27         51
+    28          1
+    32          1
+    35         12
+    36         12
+    37         47
+    38         75
+    39        102
+    40          5
+    41          1
+    43          1
+    44          1
+    46          1
+    47          5
+    48          8
+    49         48
+    50        260
+    51        426
+    52         55
+    53          8
+    55          0
+    60         12
+    61         44
+    62         66
+    63        113
+    64         10
+    65          3
+    68         10
+    69         32
+    70         10
+    73         45
+    74        115
+    75        132
+    76        111
+    77        412
+    78         77
+    79          4
+    84          6
+    85         11
+    86         15
+    87         22
+    88          4
+    89          7
+    96          1
+    97          8
+    98         17
+    99          9
+   100          1
+   101         52
+   102        195
+   103        999
+   104         84
+   105          3
+   108          1
+   109          1
+   110          1
+   112         18
+   113          1
+   114          5
+   123          1
+   136          4
+   138        586
+   139         59
+   140        198
+   141         15

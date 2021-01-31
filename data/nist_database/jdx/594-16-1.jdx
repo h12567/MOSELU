@@ -1,0 +1,62 @@
+##TITLE=Library Entry 3998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5392
+##NAMES=HP
+##CAS NAME=Propane, 2,2-dibromo-
+##MOLFORM=C3H6Br2
+##CAS REGISTRY NO=594-16-1
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=771
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          5
+    15         19
+    25          5
+    26         28
+    27         52
+    28          3
+    29          1
+    36          4
+    37         24
+    38         49
+    39        285
+    40         33
+    41        999
+    42         61
+    43          7
+    79         35
+    80         23
+    81         34
+    82         23
+    91          1
+    92          1
+    93         21
+    94          1
+    95         20
+    97          1
+   104          3
+   105         30
+   106          6
+   107         30
+   108          4
+   119          3
+   120          9
+   121        727
+   122         33
+   123        700
+   124         24
+   158          2
+   160          4
+   162          1
+   185          8
+   187         12
+   189          7
+   200          2
+   202          4
+   204          2

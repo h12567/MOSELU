@@ -1,0 +1,47 @@
+##TITLE=Library Entry 20657
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Hexene, 2,4-dimethyl-
+##MOLFORM=C8H16
+##CAS REGISTRY NO=82085-14-1
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        132
+    29        109
+    39        155
+    40         22
+    41        356
+    42         34
+    43        113
+    44         15
+    50         11
+    51         22
+    52         11
+    53         64
+    54         11
+    55        999
+    56        102
+    57         37
+    65         15
+    67         45
+    68          7
+    69        166
+    70         49
+    77         15
+    79         22
+    81         41
+    82         11
+    83        746
+    84         53
+    95          7
+    97        166
+    98         11
+   112        204
+   113         18

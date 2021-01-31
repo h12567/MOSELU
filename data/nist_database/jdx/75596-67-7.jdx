@@ -1,0 +1,60 @@
+##TITLE=Library Entry 36439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.Maurer,J.Chromatogr.,530,307(1990)
+##NAMES=HP
+##CAS NAME=5-Ethyl-5-(3-methyl-3-butenyl)-hexahydropyrimidin-2,4,6-trione
+##MOLFORM=C11H16N2O3
+##CAS REGISTRY NO=75596-67-7
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    53         22
+    54         89
+    55         30
+    57        189
+    58          7
+    59          4
+    60          4
+    61          4
+    65         19
+    67         59
+    68         59
+    69        999
+    70        100
+    77         11
+    79         15
+    80         26
+    83         19
+    93         11
+    97         15
+    98         44
+   100         63
+   101          4
+   109         59
+   112         26
+   135        107
+   136          7
+   137          4
+   138         11
+   140          7
+   141        363
+   142         37
+   152         11
+   155         33
+   156        733
+   157        141
+   158         11
+   181         33
+   183         11
+   184          4
+   195        122
+   196          7
+   197         22
+   198         19
+   224         85
+   225         11

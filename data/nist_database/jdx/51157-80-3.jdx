@@ -1,0 +1,43 @@
+##TITLE=Library Entry 94652
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Benzene, (3,3-dichloro-1-propenyl)-, (E)-
+##MOLFORM=C9H8Cl2
+##CAS REGISTRY NO=51157-80-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39        200
+    40        180
+    41        420
+    43        250
+    44        450
+    45        630
+    50        120
+    51        160
+    56        150
+    57        330
+    58        420
+    59        630
+    63        160
+    73        310
+    74        400
+    75        130
+    89        170
+   115        999
+   116        290
+   151        710
+   152         70
+   153        220
+   154         20
+   186        140
+   187         15
+   188         90
+   189         10

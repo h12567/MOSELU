@@ -1,0 +1,45 @@
+##TITLE=Library Entry 54132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.LINDEKE DEPT. OF PHARM., UNIV. OF CALIF., LOS ANGELES
+, USA
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinone, 1-[2-oxo-4-(1-pyrrolidinyl)butyl]-
+##MOLFORM=C12H20N2O2
+##CAS REGISTRY NO=35022-19-6
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         42
+    28         83
+    41        147
+    42        156
+    43        147
+    44         12
+    55         73
+    68         34
+    69         92
+    70        275
+    71         50
+    82         25
+    83        138
+    84        999
+    85         60
+    96         23
+    97         26
+    98        321
+    99         26
+   124         20
+   125         21
+   126         92
+   139         55
+   140         14
+   153         38
+   154         20
+   206         14
+   224         13
+   225          5

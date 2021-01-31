@@ -1,0 +1,56 @@
+##TITLE=Library Entry 60525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 67
+##NAMES=HP
+##CAS NAME=Toluene
+##MOLFORM=C7H8
+##CAS REGISTRY NO=108-88-3
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=763
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         17
+    28          2
+    37         10
+    38         24
+    39        107
+    40         11
+    41         11
+    43          1
+    44          1
+    45         14
+    46          9
+    49          6
+    50         41
+    51         64
+    52         15
+    53          7
+    55          1
+    57          1
+    60          1
+    61         14
+    62         32
+    63         74
+    64         15
+    65        121
+    66         14
+    73          1
+    74          9
+    75          6
+    76          3
+    77          9
+    83          1
+    85          4
+    86          8
+    87          4
+    89         39
+    90         21
+    91        999
+    92        776
+    93         54
+    94          1

@@ -1,0 +1,23 @@
+##TITLE=Library Entry 12568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.R. DIMMEL, THE INST. PAP. CHEM., APPLETON, WIS., USA
+##NAMES=HP
+##CAS NAME=.alpha.,4-Diacetoxy-3-methoxy-1-ethylbenzene
+##MOLFORM=C13H16O5
+##CAS REGISTRY NO=35960-49-7
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    43        999
+    91        100
+   135        100
+   150        220
+   151        320
+   168        100
+   210        320
+   252         40

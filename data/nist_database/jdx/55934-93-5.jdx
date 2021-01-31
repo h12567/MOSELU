@@ -1,0 +1,85 @@
+##TITLE=Library Entry 30471
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=Propanol, [(butoxymethylethoxy)methylethoxy]-
+##MOLFORM=C13H28O4
+##CAS REGISTRY NO=55934-93-5
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          1
+    19          1
+    26          1
+    27         12
+    28          6
+    29         49
+    30          3
+    31         56
+    32          1
+    38          1
+    39         15
+    40          5
+    41        124
+    42         51
+    43         45
+    44          7
+    45         93
+    46          2
+    53          2
+    54          1
+    55         16
+    56         13
+    57        164
+    58         54
+    59        999
+    60         34
+    61          4
+    67          1
+    69          1
+    71          4
+    72         19
+    73         57
+    74          3
+    75          6
+    81          1
+    83          1
+    85          6
+    86          5
+    87         23
+    88          1
+    89          2
+    97          2
+    98          1
+    99         14
+   100          2
+   101          9
+   103         95
+   104          5
+   105          1
+   114         36
+   115         37
+   116          7
+   117        230
+   118         15
+   119          2
+   129          2
+   130          3
+   131          3
+   133          1
+   143          3
+   144          1
+   145          4
+   146          1
+   159          1
+   161         70
+   162          6
+   163          1
+   172         10
+   173          5
+   174          1

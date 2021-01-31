@@ -1,0 +1,37 @@
+##TITLE=Library Entry 96772
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.SUZUKI FAC. OF AGRI., TOHOKU UNIV., SENDAI, JAPAN
+##NAMES=HP
+##CAS NAME=4-Imidazolidinone, 5-(1-methylpropyl)-2-thioxo-
+##MOLFORM=C7H12N2OS
+##CAS REGISTRY NO=56830-83-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        232
+    42         31
+    43         40
+    54         40
+    55         58
+    56         54
+    57        326
+    59         36
+    60         89
+    69         31
+    70         31
+    84         36
+    86         45
+    99         49
+   115         27
+   116        999
+   117         49
+   118         36
+   143         45
+   172        437
+   173         40
+   174         27

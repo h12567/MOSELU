@@ -1,0 +1,53 @@
+##TITLE=Library Entry 23072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Chloro-2-propen-1-ol
+##MOLFORM=C3H5ClO
+##CAS REGISTRY NO=5976-47-6
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          8
+    16         16
+    18         10
+    24         13
+    25         42
+    26        153
+    27        287
+    28        112
+    29        612
+    30         51
+    31        338
+    32         20
+    35         23
+    36         29
+    37         69
+    38         86
+    39        157
+    40         35
+    42          9
+    49         31
+    51          9
+    53         29
+    54         14
+    55        129
+    56          9
+    57        999
+    58         29
+    60         26
+    61         96
+    62         68
+    63         63
+    64         19
+    65         26
+    73          8
+    91         27
+    92        102
+    93         15
+    94         32

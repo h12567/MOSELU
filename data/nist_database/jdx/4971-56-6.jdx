@@ -1,0 +1,49 @@
+##TITLE=Library Entry 5055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,4(3H,5H)-Furandione
+##MOLFORM=C4H4O3
+##CAS REGISTRY NO=4971-56-6
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=833
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          8
+    14         32
+    15         17
+    24          2
+    25         10
+    26         36
+    27         23
+    28         31
+    29        108
+    30         34
+    31          3
+    32          1
+    35          4
+    36          3
+    37          9
+    38          9
+    39          9
+    40          8
+    41         56
+    42        999
+    43        177
+    44         15
+    45          2
+    53          5
+    56          4
+    68          3
+    69         26
+    70          3
+    71          5
+    72         59
+   100        303
+   101         14
+   102          2

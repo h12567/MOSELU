@@ -1,0 +1,51 @@
+##TITLE=Library Entry 14349
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Fluphenazine enanthate
+##MOLFORM=C29H38F3N3O2S
+##CAS REGISTRY NO=2746-81-8
+##MP= -300
+##BP= -300
+##MW= 549
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        464
+    70        584
+    84        236
+    97        252
+    98        410
+   125        421
+   139        224
+   153        402
+   157        155
+   196         32
+   203        115
+   210         40
+   222         35
+   248        298
+   255        139
+   266        465
+   267        126
+   280        670
+   281        122
+   306         79
+   307         66
+   321          6
+   336         24
+   350         26
+   363         27
+   391         17
+   406         84
+   419        264
+   420        178
+   493          8
+   506          8
+   520          6
+   530         14
+   549        275
+   550         95

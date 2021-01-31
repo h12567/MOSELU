@@ -1,0 +1,75 @@
+##TITLE=Library Entry 34302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MPI,E129-G0417,15-FEB-65 (ID=4, PURITY=4)
+##NAMES=HP
+##CAS NAME=1,6-Octadiene, 2,7-dimethyl-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=40195-09-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=1312
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    22          0
+    23          0
+    24          1
+    25          3
+    26          3
+    27         87
+    28         73
+    29         46
+    30          1
+    32          8
+    33          0
+    38          4
+    39         89
+    40         21
+    41        789
+    42         45
+    43         27
+    44          4
+    50          3
+    51         11
+    52          5
+    53         56
+    54          8
+    55         38
+    56          2
+    57          3
+    58          1
+    62          0
+    63          3
+    64          0
+    65          9
+    66          5
+    67         58
+    68         35
+    69        999
+    70        154
+    71          7
+    77         11
+    78          2
+    79          8
+    80          3
+    81         10
+    82         96
+    83          7
+    91          5
+    92          0
+    93          5
+    94         10
+    95         45
+    96          7
+    97          0
+   105          0
+   107          1
+   109          1
+   110          0
+   121          0
+   123         12
+   124          0
+   138         22
+   139          2

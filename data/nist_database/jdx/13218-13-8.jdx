@@ -1,0 +1,40 @@
+##TITLE=Library Entry 17865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Nitroacetonitrile
+##MOLFORM=C2H2N2O2
+##CAS REGISTRY NO=13218-13-8
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    25          6
+    26         33
+    27         73
+    28         39
+    30        590
+    35          8
+    36         31
+    38         57
+    39         13
+    40        325
+    41         14
+    42          5
+    43         14
+    46        999
+    47          8
+    48         20
+    49          1
+    50          2
+    52         14
+    53          7
+    55          9
+    56          1
+    57         10
+    60         85
+    61          8

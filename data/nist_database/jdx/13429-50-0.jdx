@@ -1,0 +1,44 @@
+##TITLE=Library Entry 68713
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.R.DIMMEL DEPT. CHEM., HARQUETTE UNIV., MILWAUKEE, WIS
+C. US
+##NAMES=HP
+##CAS NAME=2,8-Bornanediol, stereoisomer
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=13429-50-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    25        160
+    28        170
+    31        140
+    38        190
+    41        350
+    43        270
+    53        130
+    55        245
+    66        250
+    68        125
+    71         70
+    76        110
+    78        170
+    81        130
+    91         90
+    93        210
+    94        120
+    95        999
+    96        200
+   107        140
+   108         90
+   111         70
+   121        140
+   126        170
+   139        415
+   140         80
+   152         65
+   170         10

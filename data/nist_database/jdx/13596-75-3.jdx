@@ -1,0 +1,57 @@
+##TITLE=Library Entry 48056
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Benzene, (propylsulfonyl)-
+##MOLFORM=C9H12O2S
+##CAS REGISTRY NO=13596-75-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        190
+    40         20
+    41        540
+    42         40
+    43        980
+    44         50
+    45         10
+    50        110
+    51        450
+    52         40
+    53         10
+    65         40
+    66         30
+    73         10
+    74         20
+    75         20
+    76         20
+    77        740
+    78        999
+    79        100
+    91        230
+    92         60
+    93         10
+    94        180
+    97         20
+   105         20
+   117         30
+   118         80
+   119        130
+   120        200
+   121         20
+   125         60
+   126         10
+   141         60
+   142        420
+   143        120
+   144         20
+   156         20
+   184        210
+   185         20

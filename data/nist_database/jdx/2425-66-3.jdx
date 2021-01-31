@@ -1,0 +1,39 @@
+##TITLE=Library Entry 46530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=Propane, 1-chloro-2-nitro-
+##MOLFORM=C3H6ClNO2
+##CAS REGISTRY NO=2425-66-3
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    46         68
+    47         12
+    48         15
+    49        430
+    50          9
+    51        142
+    52          1
+    53          0
+    57          2
+    58          0
+    60          3
+    61         48
+    62          4
+    63         13
+    64          0
+    73          5
+    75         29
+    76        103
+    77        999
+    78         64
+    79        321
+    80          7
+    84          0
+    93          0

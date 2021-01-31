@@ -1,0 +1,64 @@
+##TITLE=Library Entry 15199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8006
+##NAMES=HP
+##CAS NAME=Cyanoacetylurea
+##MOLFORM=C4H5N3O2
+##CAS REGISTRY NO=1448-98-2
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          9
+    14         14
+    15          7
+    16         49
+    17         52
+    18         22
+    24          1
+    25          3
+    26          5
+    27         12
+    28         43
+    29         18
+    30          5
+    31          8
+    32          1
+    38         20
+    39         45
+    40        162
+    41        329
+    42         42
+    43         71
+    44        999
+    45         14
+    46          2
+    51          1
+    52          1
+    53          4
+    54          2
+    55          3
+    56          6
+    58          1
+    59          4
+    60          9
+    61          2
+    66          3
+    67         19
+    68         76
+    69          5
+    70         16
+    84        207
+    85         11
+    86          1
+    87         36
+    88          1
+   100          2
+   102          1
+   127         37
+   128          5

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 72660
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4,6-Dimethyl-3-methylthio-5-thioxo-4,5-dihydro-1,2,4-triazine
+##MOLFORM=C6H9N3S2
+##CAS REGISTRY NO=62764-58-3
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        348
+    42         79
+    43        420
+    45        311
+    46        118
+    47        101
+    57        138
+    71        111
+    72        128
+    83        158
+    84        140
+    99        999
+   146        178
+   172         99
+   187        520

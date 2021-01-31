@@ -1,0 +1,41 @@
+##TITLE=Library Entry 48131
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene
+##MOLFORM=C6H6
+##CAS REGISTRY NO=71-43-2
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=654
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    15         12
+    25          7
+    26         34
+    27         26
+    28         21
+    36          6
+    37         42
+    38         56
+    39        111
+    40          7
+    48          4
+    49         39
+    50        208
+    51        221
+    52        188
+    53          7
+    61         10
+    62         11
+    63         49
+    73         24
+    74         62
+    75         22
+    76         58
+    77        283
+    78        999
+    79         65

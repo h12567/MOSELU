@@ -1,0 +1,42 @@
+##TITLE=Library Entry 7520
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Polzer ET AL.J.Chromatogr.,653,283(1993)
+##NAMES=HP
+##CAS NAME=Hydroperoxide, hexyl
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=4312-76-9
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26         12
+    27        165
+    28         67
+    29        405
+    31        211
+    32         57
+    39        386
+    40         39
+    41        904
+    42        482
+    43        999
+    44        266
+    45         88
+    51         10
+    53         25
+    54         49
+    55        612
+    56        924
+    57        275
+    67         49
+    69        221
+    71         37
+    72         15
+    82         12
+    83         30
+    84         64
+    85         51

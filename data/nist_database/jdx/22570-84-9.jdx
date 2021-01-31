@@ -1,0 +1,30 @@
+##TITLE=Library Entry 97372
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.-J.Bobenrieth ET AL,Org.Mass Spectr.,24,963(1989)
+##NAMES=HP
+##CAS NAME=Benzene, 1-(chloromethyl)-2-ethenyl-
+##MOLFORM=C9H9Cl
+##CAS REGISTRY NO=22570-84-9
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        140
+    50         50
+    51         80
+    58         90
+    63        107
+    65         56
+    89         66
+    91        200
+   102         20
+   115        524
+   116        195
+   117        999
+   118        102
+   152        338
+   154        110

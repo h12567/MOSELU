@@ -1,0 +1,92 @@
+##TITLE=Library Entry 84036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(+-)-2-Bromopropionyl chloride
+##MOLFORM=C3H4BrClO
+##CAS REGISTRY NO=71425-59-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 77
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          1
+    15          4
+    24          6
+    25         39
+    26        226
+    27        648
+    28        108
+    29         16
+    35         39
+    36         18
+    37         37
+    38         23
+    39         18
+    41         17
+    42          4
+    43          2
+    47         10
+    48          5
+    49          8
+    50          2
+    51          1
+    52          5
+    53         33
+    54         11
+    55         95
+    56         73
+    57          2
+    59          1
+    60          6
+    61         11
+    62         10
+    63        220
+    64          6
+    65         70
+    66          1
+    67          3
+    68          3
+    72          2
+    73          3
+    75          1
+    79         85
+    80         16
+    81         84
+    82         17
+    91         10
+    92          8
+    93          8
+    94          9
+    95          1
+   103          1
+   104          5
+   105         18
+   106         18
+   107        999
+   108         35
+   109        940
+   110         22
+   114          6
+   116          8
+   118          2
+   120         12
+   122         12
+   127          6
+   129          8
+   131          2
+   135        939
+   136         34
+   137        896
+   138         30
+   139          2
+   141          1
+   143          2
+   170          6
+   172          8
+   174          2

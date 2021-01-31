@@ -1,0 +1,49 @@
+##TITLE=Library Entry 15774
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-(Pentylamino)ethanol
+##MOLFORM=C7H17NO
+##CAS REGISTRY NO=35161-67-2
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    18         14
+    19          8
+    26         20
+    27        215
+    28        138
+    29         35
+    30        377
+    39        111
+    40         27
+    41        228
+    42        162
+    43        399
+    44        999
+    45        114
+    53         16
+    54         24
+    55         51
+    56        328
+    57         33
+    60         24
+    68          5
+    69         16
+    70         47
+    71         22
+    72         20
+    73          5
+    74        523
+    75         21
+    86         15
+    98         17
+   100        378
+   101         31
+   130          6
+   131         27

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 8314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Tabei ET AL.Org.Mass.Spectrom., 28,412(1993)
+##NAMES=HP
+##CAS NAME=Ethane, 1,1,1-triethoxy-
+##MOLFORM=C8H18O3
+##CAS REGISTRY NO=78-39-7
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    14         65
+    15        116
+    16         15
+    26         75
+    27        345
+    28         20
+    29        558
+    30         45
+    31        186
+    41         16
+    42        236
+    43        999
+    44         35
+    45        167
+    46         16
+    47         26
+    59          7
+    60        157
+    61        966
+    62         18
+    63         58
+    70          7
+    73         16
+    75          7
+    87          7
+    89        280
+    90          7
+    91         28
+   116         39
+   117        562
+   118         39
+   119          7
+   147         48

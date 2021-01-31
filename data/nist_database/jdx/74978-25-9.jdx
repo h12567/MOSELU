@@ -1,0 +1,47 @@
+##TITLE=Library Entry 27622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W.A.OLIVER UNIV. OF SALFORD, SALFORD, LANCASHIRE, UK
+##NAMES=HP
+##CAS NAME=2,5-Cyclohexadien-1-one, 4-[2,6-bis(1,1-dimethylethyl)-4-oxo-2,5-
+cyclohexadien-1-ylidene]-2,6-bis(1,1-dimethylethyl)-
+##MOLFORM=C28H40O2
+##CAS REGISTRY NO=74978-25-9
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        606
+    42         90
+    43        227
+    44         18
+    55        242
+    56        257
+    57        999
+    68         75
+    70        136
+    72        106
+    77         60
+    78         60
+    81         75
+    83         90
+    95         75
+    97        106
+   279         75
+   280        106
+   281         75
+   295         75
+   309        106
+   337         75
+   351        272
+   352        166
+   353         75
+   366        196
+   393        196
+   408        681
+   409        227
+   410        166
+   411         45

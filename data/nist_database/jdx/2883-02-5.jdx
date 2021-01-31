@@ -1,0 +1,79 @@
+##TITLE=Library Entry 52795
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2570
+##NAMES=HP
+##CAS NAME=n-Nonylcyclohexane
+##MOLFORM=C15H30
+##CAS REGISTRY NO=2883-02-5
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1556
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         43
+    28          8
+    29         97
+    30          2
+    36          1
+    39         44
+    40          8
+    41        281
+    42         47
+    43        163
+    44          5
+    51          2
+    52          2
+    53         24
+    54         50
+    55        547
+    56         87
+    57         90
+    58          4
+    65          5
+    66          5
+    67        168
+    68         42
+    69        119
+    70         54
+    71         35
+    72          1
+    77          6
+    78          1
+    79          9
+    80          2
+    81         30
+    82        868
+    83        999
+    84         99
+    85         17
+    86          1
+    91          2
+    93          1
+    95          6
+    96         18
+    97         79
+    98         22
+    99          2
+   109          2
+   110          3
+   111         17
+   112          7
+   113          1
+   124          1
+   125          8
+   126         25
+   127          6
+   138          1
+   139          7
+   140          3
+   153          2
+   154          1
+   167          1
+   168          1
+   182          2
+   210         69
+   211         11

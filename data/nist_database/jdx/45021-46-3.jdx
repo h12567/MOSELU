@@ -1,0 +1,61 @@
+##TITLE=Library Entry 11935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-2-heptanol acetate
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=45021-46-3
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          5
+    15          7
+    27         50
+    28         12
+    29         53
+    31          6
+    32          1
+    39         59
+    40         16
+    41        173
+    42          1
+    43        999
+    44         42
+    45         20
+    51          6
+    52          2
+    53         19
+    54          9
+    55        112
+    56         97
+    57         79
+    58         16
+    59         11
+    60          5
+    61          8
+    65          4
+    67         17
+    68         18
+    69        164
+    70         58
+    71         47
+    72          7
+    73         10
+    83         15
+    84         24
+    85         10
+    86         26
+    87         54
+    97         17
+   101          3
+   112         51
+   113          5
+   115         86
+   116          6
+   129        197
+   130         16

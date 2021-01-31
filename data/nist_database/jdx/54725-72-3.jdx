@@ -1,0 +1,75 @@
+##TITLE=Library Entry 41766
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[4.2.0]oct-3-en-7-one, 8-[(trimethylsilyl)oxy]-
+##MOLFORM=C11H18O2Si
+##CAS REGISTRY NO=54725-72-3
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    41         40
+    43         60
+    44         30
+    45        160
+    46         10
+    47         30
+    50         10
+    51         30
+    52         20
+    53         40
+    55         10
+    57         10
+    58         20
+    59         70
+    61         20
+    65         30
+    66         60
+    67         10
+    72         20
+    73        999
+    74         90
+    75        290
+    76         30
+    77        100
+    78         90
+    79        240
+    80         50
+    81         10
+    89         50
+    90         10
+    91        220
+    92        730
+    93         80
+    94         20
+   101         30
+   102         70
+   103         60
+   104         10
+   105         10
+   107         20
+   108         10
+   113         10
+   116         10
+   129         50
+   130         70
+   137         10
+   138         60
+   139         20
+   147         30
+   149         10
+   151         30
+   165         20
+   166         20
+   167         80
+   168         10
+   181         30
+   182        190
+   183         30
+   195         30

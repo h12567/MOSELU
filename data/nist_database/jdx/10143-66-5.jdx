@@ -1,0 +1,42 @@
+##TITLE=Library Entry 29891
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER UNIV. OF HAMBURG, W.GERMANY
+##NAMES=HP
+##CAS NAME=Butane, 1,3-dimethoxy-
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=10143-66-5
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         79
+    41        184
+    42         55
+    43        168
+    45        850
+    46         30
+    51          9
+    53         25
+    54         20
+    55        114
+    56         54
+    57         28
+    58         75
+    59        999
+    60         48
+    61          6
+    64         11
+    69          6
+    71        355
+    72         23
+    73         38
+    75         22
+    85         28
+    86        405
+    87         39
+    88         30
+   103         46

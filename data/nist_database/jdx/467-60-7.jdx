@@ -1,0 +1,46 @@
+##TITLE=Library Entry 53815
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Pipradrol
+##MOLFORM=C18H21NO
+##CAS REGISTRY NO=467-60-7
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=2147
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    51         63
+    55        102
+    56        279
+    67         27
+    77        225
+    82         44
+    84        999
+    85        142
+    91         23
+   105        168
+   106         17
+   115         17
+   128          7
+   130          6
+   152         19
+   153          7
+   165         34
+   166         10
+   167         17
+   181         13
+   182         30
+   183          8
+   190          5
+   191          5
+   193          4
+   204          3
+   206          8
+   220          2
+   247          6
+   248         24
+   249         19

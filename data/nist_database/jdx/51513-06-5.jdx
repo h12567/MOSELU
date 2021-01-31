@@ -1,0 +1,33 @@
+##TITLE=Library Entry 50411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Naphthalenol, decahydro-5-(5-hydroxy-3-methyl-3-pentenyl)-1,4a-
+dimethyl-6-methylene-, [1R-[1.alpha.,4a.beta.,5.beta.(E),8a.alpha.]]-
+##MOLFORM=C19H32O2
+##CAS REGISTRY NO=51513-06-5
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    71        589
+    81        999
+    93        699
+   107        699
+   119        290
+   121        559
+   133        240
+   135        290
+   139        240
+   177        280
+   189        170
+   207         90
+   220        120
+   241         80
+   259        130
+   274        120
+   292        100

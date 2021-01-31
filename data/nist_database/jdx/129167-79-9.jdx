@@ -1,0 +1,44 @@
+##TITLE=Library Entry 17854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Hydrazine, n-propionyl-N-methyl-
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=129167-79-9
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    14         32
+    15         57
+    17         23
+    18        162
+    26         73
+    27        248
+    29        662
+    30         85
+    31        119
+    42         38
+    43         50
+    44         46
+    45        408
+    46        999
+    55         33
+    56         27
+    57        290
+    58         32
+    59          9
+    60          7
+    69          4
+    72          3
+    73         55
+    74         84
+    75          3
+    87         11
+    91          3
+   102         87
+   103          6

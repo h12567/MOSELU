@@ -1,0 +1,54 @@
+##TITLE=Library Entry 21916
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Butenoic acid, 2-amino-
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=56512-51-7
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    25         30
+    26         74
+    28        533
+    29        136
+    30        123
+    31          4
+    36          2
+    37         11
+    38         20
+    39         96
+    40         15
+    41         39
+    42         12
+    43         11
+    44         51
+    45         42
+    46         15
+    47          1
+    50          2
+    51         12
+    52         37
+    53         10
+    54        127
+    55         54
+    56        999
+    57         82
+    58         46
+    59          3
+    60          0
+    74         43
+    75          1
+    82          4
+    83          9
+    84          4
+    85          4
+   100          2
+   101          5
+   102          9
+   103          0

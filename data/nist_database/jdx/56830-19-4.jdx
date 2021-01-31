@@ -1,0 +1,31 @@
+##TITLE=Library Entry 100686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.DE KIMPE STATE UNIVERSITY OF GHENT, GHENT, BELGIUM
+##NAMES=HP
+##CAS NAME=3-Pentenimidic acid, 3-methyl-N-phenyl-, methyl ester, (3E)-
+##MOLFORM=C13H17NO
+##CAS REGISTRY NO=56830-19-4
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    51        180
+    69        220
+    77        270
+    91        270
+    93         90
+   110        210
+   111        210
+   119        999
+   134        410
+   148        110
+   170         30
+   172         50
+   174         30
+   188        710
+   202        440
+   203        470

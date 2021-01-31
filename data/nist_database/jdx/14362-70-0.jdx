@@ -1,0 +1,42 @@
+##TITLE=Library Entry 31712
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Tetrafluoroformamidine
+##MOLFORM=CF4N2
+##CAS REGISTRY NO=14362-70-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    14        521
+    15          2
+    19        362
+    26        354
+    27          5
+    28        283
+    29          2
+    31        336
+    32          4
+    33        125
+    34          1
+    40         15
+    45        147
+    46          2
+    50         77
+    51          1
+    52        138
+    53          1
+    59         12
+    64        999
+    65         15
+    69         12
+    83         14
+    97         44
+    98          1
+   116         18
+   117          1

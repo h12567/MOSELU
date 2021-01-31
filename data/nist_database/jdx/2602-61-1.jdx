@@ -1,0 +1,64 @@
+##TITLE=Library Entry 92451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GILPIN DOW CHEM. CO., MIDLAND, MICHIGAN, USA
+##NAMES=HP
+##CAS NAME=Decanamide, N,N-diethyl-
+##MOLFORM=C14H29NO
+##CAS REGISTRY NO=2602-61-1
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          3
+    27         40
+    28         40
+    29        130
+    30         30
+    31          1
+    41        110
+    42         50
+    43        130
+    44        160
+    45          5
+    55         90
+    56         40
+    57         80
+    58        540
+    59         40
+    60          3
+    71         50
+    72        240
+    73         80
+    74         50
+    85         20
+    86        100
+    87         80
+    88          5
+    99          1
+   100        400
+   101         30
+   114         20
+   115        999
+   116         70
+   127          2
+   128        330
+   129         50
+   142         70
+   143         10
+   155          7
+   156         20
+   157          6
+   170         40
+   171          6
+   184         20
+   185          4
+   198         20
+   199          8
+   212          7
+   213          1
+   226         10
+   227         60

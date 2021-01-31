@@ -1,0 +1,59 @@
+##TITLE=Library Entry 198
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=CH3CHClCN
+##MOLFORM=C3H4ClN
+##CAS REGISTRY NO=1617-17-0
+##MP= -300
+##BP= -300
+##MW= 89
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12         25
+    13         18
+    14         25
+    15         82
+    24         17
+    25         59
+    26        361
+    27        335
+    28        999
+    29         19
+    35         40
+    36         26
+    37         41
+    38         47
+    39         26
+    42         16
+    44          1
+    47         35
+    48         12
+    49         22
+    50         30
+    51        137
+    52        248
+    53        124
+    54        867
+    55         30
+    59          1
+    60          8
+    61         32
+    62        101
+    63         13
+    64         29
+    73         11
+    74        133
+    75          7
+    76         44
+    77          1
+    86          2
+    87          6
+    88         86
+    89        187
+    90         34
+    91         57
+    92          2

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 59864
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, (phenoxymethyl)-
+##MOLFORM=C13H12O
+##CAS REGISTRY NO=946-80-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1548
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    16          1
+    18          1
+    27         11
+    37          3
+    38         10
+    39         66
+    40          2
+    41         11
+    42          3
+    50         15
+    51         36
+    52          6
+    61          2
+    62         10
+    63         36
+    64         16
+    65        156
+    66         12
+    74          5
+    76          3
+    77         19
+    78          3
+    89         20
+    91        999
+    92         74
+    93          7
+    94          1
+   105          3
+   115          3
+   128          3
+   152          4
+   153          3
+   184        147
+   185         21

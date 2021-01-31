@@ -1,0 +1,53 @@
+##TITLE=Library Entry 1557
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=THE M.W. KELLOGG CO., JERSEY CITY, N.J., USA
+##NAMES=HP
+##CAS NAME=2-Propenenitrile, 2,3,3-trifluoro-
+##MOLFORM=C3F3N
+##CAS REGISTRY NO=433-43-2
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    19         16
+    20         57
+    24         36
+    25          1
+    26         40
+    27          1
+    31        999
+    32         10
+    36          9
+    37          0
+    38         93
+    39          2
+    43         21
+    44          1
+    45          0
+    50         78
+    51          1
+    55          9
+    56          0
+    57        238
+    58          6
+    62         15
+    63          0
+    69         52
+    70          1
+    74          7
+    75          0
+    76         35
+    77          2
+    81         16
+    82          0
+    83          0
+    88        254
+    89          9
+    93          1
+   107        867
+   108         31
+   109          0

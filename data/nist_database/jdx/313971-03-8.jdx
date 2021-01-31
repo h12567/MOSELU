@@ -1,0 +1,46 @@
+##TITLE=Library Entry 13290
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-(4-Acetoxybenzylidene)-2-(4-chloro-3-nitrophenyl)-4,5-dihydro-5
+-oxazolone
+##MOLFORM=C18H11ClN2O6
+##CAS REGISTRY NO=313971-03-8
+##MP= -300
+##BP= -300
+##MW= 386
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    35         46
+    36         65
+    38         23
+    40         87
+    42        167
+    43        999
+    44        103
+    46         25
+    50         87
+    51         20
+    72         44
+    75        261
+    76         63
+    77         49
+    99         13
+   103         16
+   106         10
+   109         14
+   110        123
+   111         64
+   112         71
+   126         25
+   132        116
+   138        240
+   139         69
+   140         32
+   168         32
+   184        780
+   186        355
+   344         59

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 10055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Nonanol, acetate
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=14936-66-4
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1211
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27         21
+    29         41
+    39         41
+    40          9
+    41        160
+    42         84
+    43        999
+    44         29
+    45         27
+    54         16
+    55        197
+    56        183
+    57        100
+    58         98
+    59         45
+    61         51
+    67         25
+    68         19
+    69        142
+    70        149
+    71         78
+    72          8
+    82         42
+    83         85
+    84        110
+    85         36
+    86          8
+    87        382
+    88         17
+    96         14
+    97        107
+    98         52
+    99          8
+   100          4
+   102         44
+   111         32
+   126        117
+   127         24
+   130          4
+   143          9
+   171          1

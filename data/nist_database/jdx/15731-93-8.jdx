@@ -1,0 +1,40 @@
+##TITLE=Library Entry 20931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,4-Dimethyl-isoxazol-5(4H)-one
+##MOLFORM=C5H7NO2
+##CAS REGISTRY NO=15731-93-8
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         39
+    39        199
+    40         59
+    41        210
+    42        289
+    43         90
+    44         81
+    50         19
+    51         30
+    52         30
+    53         89
+    54         49
+    55        999
+    56        169
+    58         29
+    68         69
+    69         70
+    70         49
+    84         20
+    85        450
+    86         29
+   112          9
+   113        348
+   114         30

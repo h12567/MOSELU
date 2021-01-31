@@ -1,0 +1,87 @@
+##TITLE=Library Entry 96737
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=5-Chloro-2-methylbenzonitrile
+##MOLFORM=C8H6ClN
+##CAS REGISTRY NO=50712-70-4
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          2
+    15          6
+    25          1
+    26         14
+    27         20
+    28         12
+    32          1
+    35          4
+    36          5
+    37         36
+    38         42
+    39         88
+    40          6
+    41          4
+    43         15
+    44         11
+    47          6
+    48          4
+    49         27
+    50         70
+    51         49
+    52         15
+    53          2
+    56          8
+    57         48
+    60         11
+    61         49
+    62         79
+    63        126
+    64         38
+    65         14
+    66          2
+    71          2
+    72          9
+    73         39
+    74         25
+    75         51
+    76         26
+    84          8
+    85         17
+    86         27
+    87         47
+    88         59
+    89        231
+    90         31
+    91          2
+    96          3
+    97         15
+    98         10
+    99         20
+   100         13
+   101          4
+   102          3
+   109          2
+   110          4
+   111          4
+   112          3
+   114         53
+   116        999
+   117         86
+   118          4
+   123         52
+   124         47
+   125         24
+   126         16
+   127          2
+   150         88
+   151        381
+   152         60
+   153        119
+   154         10

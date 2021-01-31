@@ -1,0 +1,73 @@
+##TITLE=Library Entry 81836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4463
+##NAMES=HP
+##CAS NAME=2',5'-Benzoxylidide
+##MOLFORM=C15H15NO
+##CAS REGISTRY NO=71114-52-8
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    27          4
+    28          1
+    39          7
+    40          1
+    41          3
+    42          1
+    50          6
+    51         39
+    52          5
+    53          4
+    54          1
+    63          2
+    64          1
+    65          7
+    66          1
+    74          1
+    75          2
+    76          9
+    77        361
+    78         27
+    79          4
+    80          1
+    89          2
+    90          1
+    91         16
+    92          3
+    93          4
+   102          1
+   103          4
+   104          8
+   105        999
+   106         89
+   107          6
+   111          1
+   117          1
+   118          5
+   119          2
+   120        243
+   121         34
+   122         23
+   123          2
+   132          1
+   146          5
+   147          1
+   152          1
+   165          1
+   180          3
+   181          1
+   194          1
+   208          5
+   209          2
+   210          5
+   211          1
+   223          1
+   224          6
+   225        533
+   226         90
+   227          8

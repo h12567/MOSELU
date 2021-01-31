@@ -1,0 +1,61 @@
+##TITLE=Library Entry 46260
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=4,9-Dihydro-1H-naphtho[2,3-d]triazole-4,9-dione
+##MOLFORM=C10H5N3O2
+##CAS REGISTRY NO=3915-98-8
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    37         23
+    38         61
+    39        216
+    44         15
+    50        604
+    51         97
+    52         26
+    53         20
+    57        116
+    61         64
+    62        175
+    63         75
+    64         44
+    65         15
+    67         30
+    69         10
+    73         11
+    74        128
+    75        150
+    76        999
+    77        138
+    85         15
+    86         33
+    87         85
+    88        275
+    89         31
+    99         17
+   100         23
+   102         32
+   103        231
+   104        590
+   105         89
+   114        117
+   115        335
+   116         34
+   126         34
+   127         62
+   130        158
+   131         12
+   143         23
+   154         11
+   171        332
+   172         37
+   199        320
+   200         39

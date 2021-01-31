@@ -1,0 +1,70 @@
+##TITLE=Library Entry 56009
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1419
+##NAMES=HP
+##CAS NAME=2-(2-Diethylaminoethoxy)-ethanol
+##MOLFORM=C8H19NO2
+##CAS REGISTRY NO=140-82-9
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=1162
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    17          1
+    18          4
+    26          3
+    27         33
+    28         42
+    29         51
+    30        110
+    31         17
+    32          1
+    39          2
+    40          1
+    41          9
+    42         51
+    43         11
+    44         53
+    45        100
+    46          2
+    54          4
+    55          3
+    56         39
+    57         14
+    58        146
+    59          7
+    60          1
+    68          1
+    69          1
+    70         10
+    71          7
+    72         23
+    73          5
+    74          2
+    75          5
+    76          2
+    84          8
+    85          3
+    86        999
+    87         58
+    88          3
+    89          3
+    98          1
+    99          2
+   100         36
+   101          5
+   102          9
+   114          1
+   116          1
+   130          9
+   131          1
+   142          1
+   146          9
+   160          3
+   161         16
+   162          1

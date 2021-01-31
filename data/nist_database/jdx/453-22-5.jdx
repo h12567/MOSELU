@@ -1,0 +1,38 @@
+##TITLE=Library Entry 36483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.BRUCE KING SANDFORD RES. INST., MENLO PARK, CALIF., U
+SA
+##NAMES=HP
+##CAS NAME=Methanamine, 1,1,1-trifluoro-N-[2,2,2-trifluoro-1-(trifluoromethy
+l)ethylidene]-
+##MOLFORM=C4F9N
+##CAS REGISTRY NO=453-22-5
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    31         40
+    50         52
+    69        999
+    70         11
+    76         48
+    81          2
+    93          4
+    95          5
+   100          7
+   114         69
+   119          5
+   131          0
+   145         21
+   164        413
+   165         15
+   169          1
+   171          0
+   176          8
+   195         17
+   214        147
+   233          3

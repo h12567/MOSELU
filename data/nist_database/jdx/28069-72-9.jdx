@@ -1,0 +1,85 @@
+##TITLE=Library Entry 3415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=trans,cis-2,6-Nonadien-1-ol
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=28069-72-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1169
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    26          9
+    27        234
+    28         77
+    29         80
+    35         12
+    36         10
+    37          4
+    38          6
+    39        221
+    40         26
+    41        999
+    42         82
+    43        223
+    44         13
+    45          9
+    49          6
+    50          4
+    51         32
+    52         12
+    53        108
+    54        191
+    55        206
+    56         37
+    57        109
+    58         11
+    59          2
+    65         27
+    66         39
+    67        214
+    68        287
+    69        373
+    70        130
+    71         30
+    72          3
+    73          8
+    74          2
+    75          7
+    77         56
+    78         32
+    79        155
+    80         56
+    81         62
+    82         12
+    83         30
+    84         15
+    85         16
+    87          4
+    89          5
+    90          5
+    91         44
+    92         13
+    93         90
+    94         30
+    95         16
+    96          9
+    97         13
+    98          5
+   101          4
+   103          5
+   105          2
+   107         40
+   108          7
+   109         58
+   110          4
+   111          8
+   121          3
+   122         25
+   123         13
+   125          3
+   141          4

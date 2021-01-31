@@ -1,0 +1,60 @@
+##TITLE=Library Entry 83420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=(1H)Imidazole-4-acetonitrile
+##MOLFORM=C5H5N3
+##CAS REGISTRY NO=18502-05-1
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    25         13
+    26         74
+    27         56
+    28        378
+    29         42
+    30         12
+    36          6
+    37         23
+    38         47
+    39         60
+    40        104
+    41         58
+    42         12
+    43         46
+    45          7
+    50         19
+    51        123
+    52        348
+    53        499
+    54         75
+    55         17
+    56          5
+    57         16
+    60          8
+    61          6
+    63          8
+    64          8
+    65          6
+    66         14
+    67         41
+    68          5
+    69          9
+    70          6
+    71          8
+    76         10
+    77         37
+    78         17
+    79        193
+    80        483
+    81        140
+    82         11
+   106        195
+   107        999
+   108         96
+   109          6

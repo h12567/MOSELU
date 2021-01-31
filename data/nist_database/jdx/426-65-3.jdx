@@ -1,0 +1,70 @@
+##TITLE=Library Entry 392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6102
+##NAMES=HP
+##CAS NAME=Propanoic acid, pentafluoro-, ethyl ester
+##MOLFORM=C5H5F5O2
+##CAS REGISTRY NO=426-65-3
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=510
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          7
+    15         24
+    16          1
+    18          2
+    19          1
+    20          2
+    25          1
+    26         23
+    27        207
+    28         79
+    29        999
+    30         21
+    31         36
+    32          3
+    33         20
+    41          1
+    42          4
+    43         16
+    44          5
+    45         10
+    46          1
+    47         11
+    50         15
+    51          5
+    59          2
+    62          1
+    65          1
+    67          1
+    69         97
+    70          1
+    71          1
+    73          4
+    78          3
+    81          4
+    93          1
+    95          7
+    97          7
+    99          1
+   100         19
+   101          1
+   109          1
+   117          4
+   119        162
+   120          4
+   128          3
+   145          2
+   147         39
+   148          2
+   149         22
+   150          1
+   163          7
+   165          2
+   177         10
+   191          4

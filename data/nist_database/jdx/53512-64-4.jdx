@@ -1,0 +1,65 @@
+##TITLE=Library Entry 89339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5,6-Secocholestan-6-oic acid, 1-oxo-, ethyl ester, (10.alpha.)-
+##MOLFORM=C28H48O3
+##CAS REGISTRY NO=53512-64-4
+##MP= -300
+##BP= -300
+##MW= 432
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        109
+    43        148
+    55        166
+    57        116
+    69        102
+    71         68
+    81        122
+    83         79
+    93         73
+    95        101
+   107        100
+   110         40
+   111         67
+   112        999
+   113        120
+   119         40
+   121         46
+   133         74
+   135         60
+   147         34
+   149         26
+   159         14
+   161         13
+   162         13
+   167         33
+   179         26
+   189          7
+   190          7
+   191          7
+   192          7
+   207         27
+   217         19
+   246         26
+   247        114
+   248         33
+   275          6
+   289          6
+   305          6
+   319         60
+   320         27
+   321         13
+   331          7
+   359         20
+   360          6
+   372         20
+   388          7
+   400          6
+   401          6
+   404          7
+   432          7

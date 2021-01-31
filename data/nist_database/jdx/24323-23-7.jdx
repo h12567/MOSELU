@@ -1,0 +1,47 @@
+##TITLE=Library Entry 44720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Decanoic acid, 2-methyl-
+##MOLFORM=C11H22O2
+##CAS REGISTRY NO=24323-23-7
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         54
+    28          7
+    29         80
+    39         61
+    40         22
+    41        217
+    42         55
+    43        145
+    45         56
+    53         21
+    54         16
+    55        163
+    56         59
+    57         87
+    59         30
+    67         17
+    69         81
+    70         20
+    71         28
+    73        118
+    74        999
+    75         34
+    83         28
+    87        375
+    88         24
+    97         16
+    98         18
+   101         34
+   115         18
+   129        104
+   143         83
+   186         19

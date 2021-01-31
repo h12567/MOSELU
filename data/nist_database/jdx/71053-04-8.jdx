@@ -1,0 +1,50 @@
+##TITLE=Library Entry 20288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-n-Hexylthiolane, S,S-dioxide
+##MOLFORM=C10H20O2S
+##CAS REGISTRY NO=71053-04-8
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    53         80
+    54        130
+    55        999
+    56        560
+    57        320
+    67        200
+    68        200
+    69        970
+    70         60
+    71        130
+    81        120
+    82        120
+    83        930
+    84        270
+    92         40
+    95         80
+    96         50
+    97        370
+    98         90
+   109         40
+   110         20
+   111         80
+   112         90
+   120         80
+   133         60
+   134         60
+   138         40
+   140         20
+   147         10
+   169         40
+   187        240
+   188         30
+   204         40
+   205          5
+   206          2

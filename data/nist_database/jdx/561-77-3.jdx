@@ -1,0 +1,42 @@
+##TITLE=Library Entry 71448
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Dihexyverine
+##MOLFORM=C20H35NO2
+##CAS REGISTRY NO=561-77-3
+##MP= -300
+##BP= -300
+##MW= 321
+##$RETENTION INDEX=2315
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    54         11
+    55         60
+    67         15
+    68          9
+    69         18
+    70          9
+    79         14
+    81         25
+    82         20
+    83         32
+    93          5
+    97        216
+    98        999
+   110          5
+   111        464
+   113         41
+   125          3
+   128          4
+   154          4
+   155          3
+   156          2
+   164          4
+   165          5
+   166          2
+   238          3
+   239          4
+   240          3

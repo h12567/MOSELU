@@ -1,0 +1,44 @@
+##TITLE=Library Entry 34408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin,TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid,butyl ester
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=54947-39-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    36         25
+    37         40
+    38         65
+    39        460
+    40        105
+    41        680
+    42        167
+    43        118
+    44         70
+    45        108
+    50          6
+    51          7
+    53          6
+    55        100
+    56        288
+    57         78
+    58         83
+    60          5
+    68         60
+    69        999
+    70         60
+    71         22
+    73         33
+    85        112
+    86         60
+    87        539
+    88         27
+    99         30
+   100          3

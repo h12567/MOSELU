@@ -1,0 +1,73 @@
+##TITLE=Library Entry 32795
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclodecene
+##MOLFORM=C10H18
+##CAS REGISTRY NO=3618-12-0
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14         15
+    15          6
+    16          7
+    26         19
+    27        189
+    28         19
+    29        120
+    37          4
+    39        524
+    40        105
+    41        686
+    42        103
+    43         77
+    44         10
+    50         26
+    51         78
+    52         49
+    53        268
+    54        714
+    55        667
+    56         94
+    57         10
+    62          5
+    63         21
+    65        101
+    66        118
+    67        999
+    68        411
+    69        145
+    70         16
+    71          4
+    77         84
+    78         25
+    79        154
+    80          4
+    81        734
+    82        516
+    83         72
+    84          8
+    91         35
+    92          4
+    93         30
+    94          4
+    95        392
+    96        251
+    97         46
+    98          2
+   103          2
+   104          2
+   107          8
+   109        104
+   110        129
+   111         10
+   121          4
+   123          7
+   136          7
+   138        222
+   139         22

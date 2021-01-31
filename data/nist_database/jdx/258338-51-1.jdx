@@ -1,0 +1,72 @@
+##TITLE=Library Entry 87744
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Thiophene-2-carboxamide, N-(5-chloropyrid-2-yl)-
+##MOLFORM=C10H7ClN2OS
+##CAS REGISTRY NO=258338-51-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    35         15
+    37         38
+    38         98
+    39        329
+    40         64
+    41         19
+    43         13
+    44          4
+    45        132
+    47          9
+    49         37
+    50         68
+    51         33
+    52         14
+    53         37
+    56          4
+    57        107
+    58         21
+    60          9
+    62         16
+    63         22
+    64         89
+    65         21
+    66          8
+    68          6
+    69         10
+    72          5
+    73        156
+    74         24
+    75         42
+    76         38
+    77         16
+    78          6
+    81         58
+    82         67
+    83        140
+    84          7
+    85         13
+    92         38
+   100         60
+   101         14
+   102         13
+   111        999
+   112        100
+   113         60
+   114          4
+   118          3
+   127         42
+   129          3
+   205         61
+   207         18
+   210         83
+   211          4
+   212         28
+   238         85
+   239          8
+   240         32

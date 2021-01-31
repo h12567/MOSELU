@@ -1,0 +1,80 @@
+##TITLE=Library Entry 79199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Pentanone, 1-phenyl-
+##MOLFORM=C11H14O
+##CAS REGISTRY NO=1009-14-9
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=1374
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    13          0
+    14          2
+    15         24
+    16          0
+    26         35
+    27        192
+    28         28
+    29        136
+    30          3
+    31          1
+    37          5
+    39        102
+    40         16
+    41         80
+    42         30
+    43         13
+    50         99
+    51        262
+    52         24
+    53         13
+    54          5
+    55         36
+    56          4
+    57         13
+    58          1
+    61          1
+    62          6
+    63         13
+    64          4
+    65         19
+    66          2
+    69          1
+    74         25
+    75         21
+    77        622
+    78         95
+    79          9
+    85          1
+    86          1
+    87          1
+    89          5
+    91         24
+    92          7
+   101          0
+   102          4
+   103          8
+   104          0
+   105        999
+   106         76
+   107          5
+   115          8
+   116          1
+   117          1
+   120        436
+   121         37
+   122          2
+   127          1
+   128          2
+   129          1
+   131          1
+   133         25
+   134          3
+   144          3
+   162         51
+   163          9

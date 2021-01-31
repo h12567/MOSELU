@@ -1,0 +1,80 @@
+##TITLE=Library Entry 36428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. BUDDRUS, INST. SPEKTROCHEM., DORTMUND, WEST GERMA
+##NAMES=HP
+##CAS NAME=1,2,5-Tris-O-(trifluoracetyl)-3-deoxy-.alpha.-DL-threo-pentofuran
+ose
+##MOLFORM=C11H7F9O7
+##CAS REGISTRY NO=71301-31-0
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    13         20
+    15         30
+    16         10
+    19         10
+    26         20
+    27        120
+    29        170
+    30         10
+    31         50
+    33         10
+    36         10
+    39        120
+    40         40
+    41        270
+    42         40
+    43        100
+    44         30
+    45         20
+    47         30
+    50         40
+    51         30
+    52         20
+    53        320
+    54         40
+    55         60
+    56         20
+    57         60
+    59        180
+    60         10
+    68         30
+    69        999
+    70         30
+    71         30
+    73         50
+    78         30
+    80         20
+    81        220
+    82         30
+    83         30
+    87         50
+    91         30
+    95         10
+    97        150
+    99         80
+   112         20
+   115         20
+   125        100
+   127         20
+   139         20
+   140         30
+   141         10
+   153        350
+   154         30
+   166        200
+   167         70
+   169         10
+   181        350
+   182         30
+   183         20
+   195        120
+   196         20
+   295         50
+   309        100
+   310         20

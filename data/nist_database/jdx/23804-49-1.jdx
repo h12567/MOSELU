@@ -1,0 +1,71 @@
+##TITLE=Library Entry 33610
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octanone, 3,3-dichloro-
+##MOLFORM=C8H10Cl2O
+##CAS REGISTRY NO=23804-49-1
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        151
+    44         10
+    45         10
+    49         10
+    50         10
+    51         70
+    52         20
+    53         90
+    54         70
+    55        333
+    56         10
+    61         10
+    63         20
+    65         70
+    66         50
+    67        232
+    68        999
+    69         60
+    73         10
+    75         20
+    77         60
+    78         20
+    79        121
+    80         60
+    81        474
+    82         30
+    87         20
+    88         80
+    89         10
+    90         20
+    91         40
+    92         10
+    93        111
+    94         20
+    95         70
+   101         20
+   102         10
+   109         20
+   111         10
+   115         10
+   122        292
+   123         20
+   124        191
+   125         10
+   126         20
+   128         10
+   129         70
+   130         10
+   131         20
+   160         10
+   164         10
+   192        121
+   193         10
+   194         70
+   196         10

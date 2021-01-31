@@ -1,0 +1,30 @@
+##TITLE=Library Entry 84845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Aminophenyl trifluoromethanesulfonate
+##MOLFORM=C7H6F3NO3S
+##CAS REGISTRY NO=32578-29-3
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         71
+    41         58
+    50         70
+    51         68
+    52        199
+    53        288
+    54         79
+    64        178
+    69        161
+    78         49
+    79         70
+    80        479
+   107         89
+   108        999
+   241        119

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 85856
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.TREPPENDAHL, INST. CHEM., UNIV. COPENHAGEN, DENMAR
+##NAMES=HP
+##CAS NAME=Diethyl N,N-dichlorophosphoramidate
+##MOLFORM=C4H10Cl2NO3P
+##CAS REGISTRY NO=18368-11-1
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    43         90
+    44        340
+    45        320
+    46         70
+    47         50
+    51         40
+    64         60
+    65         60
+    80        160
+    81        560
+    82         40
+    91        220
+    98        140
+    99         40
+   100         20
+   108         30
+   109        999
+   110         40
+   111         20
+   114         50
+   116         20
+   117         50
+   119         20
+   124         80
+   125         20
+   126        140
+   127         30
+   129         20
+   131         80
+   132         40
+   133         20
+   134         20
+   137        290
+   138         30
+   148         20
+   154         20
+   155         20
+   221         30
+   223         20

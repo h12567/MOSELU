@@ -1,0 +1,64 @@
+##TITLE=Library Entry 2952
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Butanethiol
+##MOLFORM=C4H10S
+##CAS REGISTRY NO=109-79-5
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=717
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    11          0
+    12          1
+    13          5
+    14         16
+    15         66
+    16          0
+    26        142
+    27        603
+    28        198
+    29        403
+    30          9
+    32         16
+    33         41
+    34         35
+    35         84
+    36          6
+    37         24
+    38         57
+    39        260
+    40          6
+    41        999
+    42         64
+    43        114
+    44         18
+    45        180
+    46        126
+    47        370
+    48         65
+    49         32
+    50         28
+    51         23
+    52          8
+    53         27
+    54          8
+    55        253
+    56        959
+    57        170
+    58         57
+    59         49
+    60         41
+    61        191
+    62         13
+    74          0
+    75          2
+    76          0
+    90        486
+    91         27
+    92         22
+    93          1

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 22640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Propanone, propylhydrazone
+##MOLFORM=C6H14N2
+##CAS REGISTRY NO=7423-00-9
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=888
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         99
+    28        155
+    29         80
+    30        127
+    31         17
+    32         11
+    39         71
+    40         25
+    41        127
+    42        120
+    43         56
+    44         15
+    54         30
+    55         21
+    56        999
+    57         69
+    58         39
+    71         21
+    72         56
+    83         13
+    85        915
+    86         56
+    99         15
+   113          6
+   114        268
+   115         34

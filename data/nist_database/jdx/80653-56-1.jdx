@@ -1,0 +1,37 @@
+##TITLE=Library Entry 48459
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. BRINK, HEYMANNSTRASSE, LEVERKUSEN, W. GER.
+##NAMES=HP
+##CAS NAME=N,N-Bis(methylsulfonyl)-O-methylhydroxylamine
+##MOLFORM=C3H9NO5S2
+##CAS REGISTRY NO=80653-56-1
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    29        290
+    30        850
+    45        210
+    48        180
+    63        590
+    64        160
+    65        150
+    79        999
+    80        170
+    81        190
+    92        270
+    94        310
+    95        340
+   110        250
+   111        620
+   124        120
+   125        250
+   126        320
+   143         60
+   158         40
+   188        160
+   203         30

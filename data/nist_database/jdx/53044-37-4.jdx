@@ -1,0 +1,70 @@
+##TITLE=Library Entry 96472
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)111(1974); HARVEY
+##NAMES=HP
+##CAS NAME=Phosphonic acid, [1-[(trimethylsilyl)amino]ethyl]-, bis(trimethyl
+silyl) ester
+##MOLFORM=C11H32NO3PSi3
+##CAS REGISTRY NO=53044-37-4
+##MP= -300
+##BP= -300
+##MW= 341
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         45
+    42         15
+    43         35
+    44         40
+    45         70
+    47         10
+    57         10
+    58         10
+    59         70
+    60         10
+    61         20
+    72         15
+    73        500
+    74         40
+    75         45
+    76          5
+    77         15
+    86         10
+   100         45
+   114         15
+   115         15
+   116        999
+   117        100
+   118         40
+   119         10
+   121         20
+   131         15
+   133         35
+   135         40
+   147         95
+   148         15
+   149         15
+   195         40
+   196          5
+   207         70
+   208         15
+   209         15
+   211         45
+   212         10
+   221          5
+   225         10
+   226         15
+   227         10
+   283         45
+   284         15
+   298        290
+   299         75
+   300         40
+   301         10
+   326         20
+   327          5
+   340          1
+   341         13
+   342          4

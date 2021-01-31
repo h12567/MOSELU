@@ -1,0 +1,60 @@
+##TITLE=Library Entry 33281
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Diazene, bis(3-methylcyclohexyl)-, 1,2-dioxide
+##MOLFORM=C14H26N2O2
+##CAS REGISTRY NO=56052-56-3
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        792
+    42        217
+    43        247
+    44        297
+    50         19
+    51         59
+    52         39
+    53        118
+    54        544
+    55        277
+    56        227
+    57        198
+    60         19
+    65         49
+    66         49
+    67        178
+    68        999
+    69        356
+    70         59
+    71         19
+    77         59
+    78          9
+    79         99
+    80         39
+    81         79
+    82         69
+    83        158
+    84         19
+    91         19
+    92          9
+    93         29
+    94         59
+    95         49
+    96        534
+    97         69
+    98         29
+   106         49
+   107         49
+   108          9
+   109         39
+   110         99
+   111        168
+   112         89
+   127         19

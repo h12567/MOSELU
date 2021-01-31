@@ -1,0 +1,34 @@
+##TITLE=Library Entry 85207
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Bromodichloroacetonitrile
+##MOLFORM=C2BrCl2N
+##CAS REGISTRY NO=60523-73-1
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    35         57
+    47         98
+    49         32
+    79         58
+    81         52
+    82         14
+    84          9
+    91         15
+    93         15
+   108        999
+   109         16
+   110        672
+   112        100
+   126         29
+   128         39
+   130          9
+   152        198
+   154        243
+   156         55

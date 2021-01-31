@@ -1,0 +1,63 @@
+##TITLE=Library Entry 84023
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Tris(p-iodophenoxo)oxovanadium
+##MOLFORM=C18H12I3O4V
+##CAS REGISTRY NO=62449-97-2
+##MP= -300
+##BP= -300
+##MW= 724
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26        139
+    27        231
+    28          2
+    29         92
+    31         25
+    32          0
+    37         69
+    38        185
+    39        464
+    40        279
+    41         45
+    50        185
+    51        279
+    52        116
+    53        255
+    54         45
+    55         69
+    61         69
+    62        185
+    63        442
+    64        116
+    65        279
+    66         69
+    77        395
+    78        116
+    79        279
+    80        162
+    81         45
+    90        116
+    91         92
+    92         10
+    93        209
+    94         22
+   107        999
+   108        883
+   109         92
+   219        535
+   220         45
+   278        188
+   280         92
+   281         22
+   282         22
+   387        765
+   388        185
+   505        116
+   506         22
+   724        209
+   725         69

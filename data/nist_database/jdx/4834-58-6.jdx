@@ -1,0 +1,45 @@
+##TITLE=Library Entry 5551
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Aminoisoxazolidin-3-one
+##MOLFORM=C3H6N2O2
+##CAS REGISTRY NO=4834-58-6
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26         21
+    27        101
+    28        678
+    29        681
+    30        510
+    31         80
+    33         47
+    38          8
+    39         14
+    40         30
+    41         84
+    42        306
+    43        999
+    44         97
+    45         49
+    53          8
+    55         21
+    56         14
+    57         16
+    58         52
+    59        499
+    60         52
+    69          9
+    71          5
+    72         19
+    73          7
+    74        259
+    75         10
+   102        137
+   103          6

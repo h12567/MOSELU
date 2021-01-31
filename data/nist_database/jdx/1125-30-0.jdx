@@ -1,0 +1,85 @@
+##TITLE=Library Entry 22806
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Pyrazole, 4-nitro-1,3,5-trimethyl-
+##MOLFORM=C6H9N3O2
+##CAS REGISTRY NO=1125-30-0
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    13          3
+    14         11
+    15        414
+    16          7
+    17         17
+    18         60
+    25          4
+    26         28
+    27         49
+    28        180
+    29         17
+    30        179
+    37         40
+    38         78
+    39        381
+    40        157
+    41         66
+    42        542
+    43        369
+    44          5
+    46         23
+    49          4
+    50         22
+    51         55
+    52         67
+    53         65
+    54         93
+    55        142
+    56        999
+    57         43
+    58          7
+    61         11
+    62         33
+    63         85
+    64         35
+    65        192
+    66        127
+    67        247
+    68         51
+    69         60
+    70         28
+    71         21
+    76          3
+    77         19
+    78          7
+    79         69
+    80         22
+    81         43
+    82         62
+    83        111
+    84         10
+    93          8
+    94          6
+    95         12
+    96         12
+    97         26
+   107          3
+   108         16
+   109          9
+   110         15
+   120          3
+   123          6
+   124         14
+   125          6
+   126          7
+   138        591
+   139         62
+   140          5
+   155        443
+   156         37

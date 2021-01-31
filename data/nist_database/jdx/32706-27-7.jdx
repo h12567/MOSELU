@@ -1,0 +1,67 @@
+##TITLE=Library Entry 64558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Pteridinamine, N-(phenylmethyl)-4-(trifluoromethyl)-
+##MOLFORM=C14H10F3N5
+##CAS REGISTRY NO=32706-27-7
+##MP= -300
+##BP= -300
+##MW= 305
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    40        110
+    41        100
+    50         90
+    51        180
+    52        220
+    53        110
+    63        120
+    64         30
+    65        490
+    66         60
+    67         50
+    68         60
+    69        180
+    76         50
+    77        230
+    78         90
+    79        180
+    89        120
+    90         70
+    91        999
+    92        120
+    93         30
+   100         30
+   103         40
+   104        270
+   105         50
+   106        480
+   107         50
+   116         30
+   119         30
+   124         30
+   129         30
+   131        230
+   132         30
+   149         50
+   155         40
+   163         50
+   181         50
+   182        270
+   183         30
+   199         50
+   200         80
+   208         40
+   228         80
+   236         50
+   285        170
+   286        130
+   287         80
+   289         30
+   304        180
+   305        999
+   306        180

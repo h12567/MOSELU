@@ -1,0 +1,43 @@
+##TITLE=Library Entry 109033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-(Amino-cyano-methylene)-penta-2,4-dione
+##MOLFORM=C7H8N2O2
+##CAS REGISTRY NO=71616-10-9
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40         55
+    42         28
+    43         23
+    44        955
+    51         86
+    52        165
+    53         94
+    55         47
+    64         48
+    65         99
+    66         94
+    67         71
+    68        373
+    69         81
+    83        486
+    84         79
+    95        413
+    96         48
+   110        277
+   123         23
+   124         28
+   125        999
+   135         28
+   137        106
+   138         24
+   151         23
+   152        210
+   153         37

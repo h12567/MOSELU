@@ -1,0 +1,30 @@
+##TITLE=Library Entry 53937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2-Carbethoxy-N-methylpyrrolidine
+##MOLFORM=C8H15NO2
+##CAS REGISTRY NO=30727-23-2
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    28         42
+    29          3
+    41         11
+    42        116
+    43         11
+    70        376
+    71         11
+    72         19
+    82         32
+    83         11
+    84        999
+    85         63
+    86         11
+   157         23
+   158         11

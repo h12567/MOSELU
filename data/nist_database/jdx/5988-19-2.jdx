@@ -1,0 +1,75 @@
+##TITLE=Library Entry 90114
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6083
+##NAMES=HP
+##CAS NAME=(S)-2,6-Dioxohexahydro-4-pyrimidinecarboxylic acid
+##MOLFORM=C5H6N2O4
+##CAS REGISTRY NO=5988-19-2
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14         10
+    15         19
+    16          5
+    17          1
+    18          3
+    25          2
+    26         19
+    27         48
+    28        285
+    29         14
+    30          4
+    31          3
+    32          1
+    38          5
+    39          9
+    40         40
+    41         53
+    42        109
+    43        441
+    44         87
+    45         44
+    46          3
+    51          2
+    52          3
+    53          6
+    54          5
+    55         47
+    56          5
+    57          2
+    59          2
+    60          3
+    67          3
+    68         14
+    69         27
+    70        557
+    71         27
+    72         12
+    73          4
+    74          3
+    78          1
+    80          1
+    81          1
+    83          1
+    84          2
+    85          2
+    86          6
+    87          1
+    95          1
+    96          3
+    97          4
+    99          2
+   112         25
+   113        999
+   114         64
+   115          7
+   158         47
+   159          4
+   160          1

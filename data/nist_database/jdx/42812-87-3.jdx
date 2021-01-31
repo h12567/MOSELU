@@ -1,0 +1,38 @@
+##TITLE=Library Entry 12783
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.V.FINZI ORG. CHEM. INST., UNIV. OF PAVIA, PAVIA, ITAL
+Y
+##NAMES=HP
+##CAS NAME=Ethanone, 1-(4,5-dihydro-5,5-dimethyl-3-phenyl-4-isoxazolyl)-
+##MOLFORM=C13H15NO2
+##CAS REGISTRY NO=42812-87-3
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        250
+    43        999
+    51        315
+    63         90
+    77        490
+    89         60
+    91        110
+   103        100
+   104         90
+   105         60
+   117        130
+   118        160
+   128        120
+   132         70
+   144        100
+   160        620
+   161        240
+   175        520
+   184         10
+   186         10
+   201         10
+   217        140

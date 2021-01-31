@@ -1,0 +1,24 @@
+##TITLE=Library Entry 15159
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Kloster-Jensen ET AL. Helv. Chim. Acta,53,251(1970)
+##NAMES=HP
+##CAS NAME=Ethyne, fluoro-
+##MOLFORM=C2HF
+##CAS REGISTRY NO=2713-09-9
+##MP= -300
+##BP= -300
+##MW= 44
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    12          7
+    13          8
+    22          7
+    24         19
+    25         75
+    31        157
+    43        100
+    44        999
+    45         24

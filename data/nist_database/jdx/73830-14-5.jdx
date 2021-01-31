@@ -1,0 +1,50 @@
+##TITLE=Library Entry 349
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Methoxycarbonyl(ethoxycarbonyl)methoxyiminomethane
+##MOLFORM=C7H11NO5
+##CAS REGISTRY NO=73830-14-5
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15        502
+    16         45
+    18         43
+    26         42
+    27        162
+    28        345
+    29        999
+    30         82
+    31        203
+    32         43
+    33         45
+    41         43
+    42        305
+    43         67
+    44         65
+    45        124
+    46         42
+    54         87
+    56         43
+    58        102
+    59        183
+    60         47
+    86        204
+    87         53
+   100         32
+   116         62
+   130        143
+   131          6
+   144        146
+   145        142
+   146          7
+   158        134
+   159          7
+   189        141
+   190          6

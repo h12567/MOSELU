@@ -1,0 +1,53 @@
+##TITLE=Library Entry 87045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Amino-3-hydroxypyridine
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=16867-03-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          8
+    17         13
+    18         15
+    25         16
+    26         52
+    27         88
+    28        129
+    29         51
+    30         12
+    36          8
+    37         61
+    38        170
+    39        210
+    40         51
+    41         57
+    42         40
+    43         58
+    44         12
+    50          6
+    51         21
+    52         61
+    53         93
+    54        281
+    55        553
+    56         61
+    63         14
+    64         53
+    65        135
+    66         34
+    67         15
+    68         23
+    80         16
+    81        146
+    82        328
+    83         75
+    93         26
+   110        999
+   111         76

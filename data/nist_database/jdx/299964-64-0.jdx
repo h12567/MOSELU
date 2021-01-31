@@ -1,0 +1,31 @@
+##TITLE=Library Entry 11411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-(2-Acetamido-5-methoxyphenyl)benzo[g]quinoxalin-2(1H)-one
+##MOLFORM=C21H17N3O3
+##CAS REGISTRY NO=299964-64-0
+##MP= -300
+##BP= -300
+##MW= 359
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        999
+    52         28
+    53         39
+    64         20
+    89         15
+   115        118
+   140         77
+   191         17
+   274         16
+   299         53
+   302         56
+   313         29
+   316         68
+   317         33
+   318         30
+   359        103

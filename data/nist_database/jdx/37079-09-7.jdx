@@ -1,0 +1,61 @@
+##TITLE=Library Entry 63760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Dichloroacetic acid, benzyl ester
+##MOLFORM=C9H8Cl2O2
+##CAS REGISTRY NO=37079-09-7
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    35          6
+    36         37
+    38         12
+    39         22
+    41          8
+    48          8
+    50         16
+    51         37
+    52         18
+    62          7
+    63         24
+    64          8
+    65         78
+    66         10
+    74          5
+    76         13
+    77         69
+    78         20
+    79         58
+    83         30
+    85         19
+    89         53
+    90        150
+    91        999
+    92         88
+    93         18
+   103         47
+   104          5
+   105         30
+   106          9
+   107        142
+   108         64
+   109          5
+   112          6
+   125         28
+   127         11
+   139          9
+   183         26
+   184          7
+   185          9
+   207          8
+   218        328
+   219         37
+   220        204
+   221         25
+   222         35

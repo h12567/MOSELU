@@ -1,0 +1,45 @@
+##TITLE=Library Entry 8650
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Vinyl ether
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=109-93-3
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=480
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         25
+    14         83
+    15        171
+    16          6
+    18          0
+    24          7
+    25         43
+    26        222
+    27        573
+    28         31
+    29        172
+    30          4
+    31          2
+    35          1
+    36          2
+    37         10
+    38         15
+    39         78
+    40         54
+    41        263
+    42        680
+    43        999
+    44        383
+    45         10
+    55          5
+    69         63
+    70        686
+    71         30
+    72          2

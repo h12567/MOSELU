@@ -1,0 +1,32 @@
+##TITLE=Library Entry 20654
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Hexyl-2-nitrocyclohexane
+##MOLFORM=C12H23NO2
+##CAS REGISTRY NO=118252-04-3
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39        127
+    41        640
+    43        413
+    55        999
+    57        299
+    67        486
+    69        640
+    81        370
+    83        672
+    95        315
+    97        544
+   109        172
+   111        228
+   125         56
+   127         57
+   165         27
+   167         56

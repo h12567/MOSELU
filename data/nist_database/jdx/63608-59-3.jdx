@@ -1,0 +1,32 @@
+##TITLE=Library Entry 10250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(13)4405(1977); B. M. TROST
+##NAMES=HP
+##CAS NAME=Benzenepropanoic acid, .alpha.-(acetyloxy)-.beta.-butyl-.alpha.-(
+methylthio)-, methyl ester
+##MOLFORM=C17H24O4S
+##CAS REGISTRY NO=63608-59-3
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        999
+    91        930
+   103        180
+   105        250
+   115        250
+   117        150
+   129        110
+   134        430
+   135        500
+   147        560
+   177        300
+   190        180
+   234        120
+   264         50
+   277         10
+   324         30

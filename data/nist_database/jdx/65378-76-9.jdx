@@ -1,0 +1,55 @@
+##TITLE=Library Entry 85763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,2,4,4-Tetramethylcyclopentene
+##MOLFORM=C9H16
+##CAS REGISTRY NO=65378-76-9
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=857
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15         14
+    27         47
+    28         31
+    29         25
+    38         13
+    39        147
+    40         27
+    41        150
+    42         14
+    43         52
+    50         17
+    51         43
+    52         18
+    53         73
+    54         13
+    55        102
+    56          9
+    63         17
+    65         55
+    67        485
+    68         44
+    69         42
+    77         90
+    78         22
+    79         91
+    80         17
+    81        190
+    82         23
+    83         17
+    91         93
+    92         16
+    93         45
+    94         25
+    95         26
+   105         11
+   107         33
+   109        999
+   110         81
+   124        189
+   125         18

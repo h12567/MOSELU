@@ -1,0 +1,70 @@
+##TITLE=Library Entry 96903
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3,4-Secocondyfolan-3-one, 12-[2-(acetyloxy)-1-methoxyethoxy]-16,1
+9-epoxy-2-hydroxy-11-methoxy-4-methyl-, [12(S),14.beta.,16.beta.,19R]-
+##MOLFORM=C25H34N2O8
+##CAS REGISTRY NO=55283-39-1
+##MP= -300
+##BP= -300
+##MW= 490
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         60
+    43        630
+    44        120
+    45         20
+    53         10
+    55         30
+    57         90
+    58        140
+    67         10
+    69         50
+    70         40
+    71         30
+    74         10
+    75         10
+    81         10
+    82         20
+    83         30
+    84         10
+    94         10
+    95         10
+    96         20
+    98         10
+   111         20
+   112         10
+   114         50
+   116         10
+   117        999
+   118         50
+   119         10
+   128         40
+   140         10
+   154         20
+   168         10
+   170         30
+   176         10
+   190         20
+   204         10
+   205         50
+   206         10
+   247         20
+   274         50
+   312         40
+   317        100
+   318         10
+   355         10
+   356         40
+   373         20
+   374         40
+   433        150
+   434         20
+   490         90
+   491         20

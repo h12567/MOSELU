@@ -1,0 +1,33 @@
+##TITLE=Library Entry 82373
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.A. Rodios, Lab. Org. Chem., Univ. Thessaloniki, Thess
+aloniki, Greece
+##NAMES=HP
+##CAS NAME=Phenol, 4-[[(4,5-dimethyl-1H-1,2,3-triazol-1-yl)imino]methyl]-
+##MOLFORM=C11H12N4O
+##CAS REGISTRY NO=113261-28-2
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        330
+    54        950
+    68        350
+    77        400
+    78        810
+    93        250
+   105        290
+   106        999
+   107        100
+   119        230
+   120        380
+   134        290
+   146         60
+   147        110
+   188         17
+   216         60
+   217         10

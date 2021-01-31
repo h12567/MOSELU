@@ -1,0 +1,77 @@
+##TITLE=Library Entry 47747
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hexanal, (2-nitrophenyl)hydrazone
+##MOLFORM=C12H17N3O2
+##CAS REGISTRY NO=55320-78-0
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    41        300
+    42         60
+    43        250
+    44         70
+    50         20
+    51        130
+    52        340
+    53         50
+    54         50
+    55        300
+    56         90
+    57         90
+    63         70
+    64         90
+    65        180
+    67         10
+    68         10
+    69         40
+    76         70
+    77        999
+    78        320
+    79        150
+    80         40
+    81         50
+    82         40
+    83        320
+    90         90
+    91        180
+    92        150
+    93         80
+   103         40
+   104        250
+   105         90
+   106         60
+   107        250
+   108         30
+   117         40
+   118         60
+   119        110
+   120         60
+   121         40
+   130         50
+   131         80
+   132         90
+   133         30
+   134         20
+   135        240
+   136        180
+   137         10
+   138        150
+   145         40
+   148         60
+   151         50
+   158         20
+   161        310
+   162         20
+   178         40
+   179         90
+   193         20
+   235        560
+   236         70

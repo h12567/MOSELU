@@ -1,0 +1,87 @@
+##TITLE=Library Entry 98168
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5439
+##NAMES=HP
+##CAS NAME=3-Phenyl-1-propanol, acetate
+##MOLFORM=C11H14O2
+##CAS REGISTRY NO=122-72-5
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1373
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         34
+    16          1
+    26          3
+    27         27
+    28          9
+    29          6
+    31          7
+    32          1
+    37          1
+    38          6
+    39         52
+    40          5
+    41         25
+    42          9
+    43        397
+    44         10
+    45          3
+    50         17
+    51         53
+    52         13
+    53          7
+    55          2
+    57          7
+    58          3
+    59          1
+    60          1
+    61          4
+    62          7
+    63         22
+    64          6
+    65         73
+    66          6
+    67          1
+    73          3
+    74          6
+    75          5
+    76          5
+    77         63
+    78         47
+    79         34
+    80          2
+    86          1
+    87          6
+    88          1
+    89         15
+    90         11
+    91        389
+    92         55
+    93          3
+    94          1
+   102          6
+   103         53
+   104         21
+   105         92
+   106          9
+   107          5
+   108          1
+   113          1
+   114          1
+   115         36
+   116         20
+   117        799
+   118        999
+   119         98
+   120          5
+   131          1
+   132          1
+   133          2
+   134          2
+   135          2
+   136          2

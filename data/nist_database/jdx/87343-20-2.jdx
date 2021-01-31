@@ -1,0 +1,61 @@
+##TITLE=Library Entry 41444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Shoemaker, St. Louis Online Library of Metabolic
+ Mass Spectra
+##NAMES=HP
+##CAS NAME=3 Hydroxy-2,3-didehydrosebacic acid, tris(trimethylsilyl) derivat
+ive
+##MOLFORM=C19H40O5Si3
+##CAS REGISTRY NO=87343-20-2
+##MP= -300
+##BP= -300
+##MW= 432
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    73        999
+    74         87
+    75        252
+   101         45
+   117         84
+   121         29
+   129         51
+   130         10
+   131         16
+   133         35
+   135         14
+   143         10
+   145          7
+   147        142
+   148         20
+   149         26
+   162         12
+   163         16
+   164          4
+   169          6
+   170          3
+   175          4
+   183          3
+   185          2
+   189         56
+   190          9
+   191         30
+   192         12
+   193          5
+   195         33
+   204         18
+   211          7
+   217         53
+   218          9
+   233        116
+   234         21
+   235          7
+   257          2
+   272         24
+   273          4
+   285          4
+   342          6
+   357          3
+   417          3

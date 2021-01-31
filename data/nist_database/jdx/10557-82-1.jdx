@@ -1,0 +1,31 @@
+##TITLE=Library Entry 88350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Isoxazole, trimethyl-
+##MOLFORM=C6H9NO
+##CAS REGISTRY NO=10557-82-1
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    42        720
+    43        850
+    44         40
+    54        440
+    55        580
+    56         40
+    68        850
+    69         60
+    82        230
+    83         20
+    96        860
+    97        180
+    98         20
+   110        160
+   111        999
+   112         80

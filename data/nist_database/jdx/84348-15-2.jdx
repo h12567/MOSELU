@@ -1,0 +1,30 @@
+##TITLE=Library Entry 82110
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.B. D'ACCORSO, FAC. CIENC., UNIV. BUENOS AIRES, ARGENT
+.
+##NAMES=HP
+##CAS NAME=2,3-Di-O-benzoyl-d,l-glycerononitrile
+##MOLFORM=C17H13NO4
+##CAS REGISTRY NO=84348-15-2
+##MP= -300
+##BP= -300
+##MW= 295
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        128
+    77        431
+   105        999
+   106        140
+   122          5
+   173          4
+   174         44
+   238          7
+   265        197
+   267         24
+   268          3
+   295        688
+   296        131
+   297         16

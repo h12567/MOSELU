@@ -1,0 +1,67 @@
+##TITLE=Library Entry 21721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.SANZ,DEP. ORG. CHEM.,VALENCIA UNIV,BURJASOT (VALENCIA
+),SPAIN
+##NAMES=HP
+##CAS NAME=Dimethyl 9-oxooctadecanedioate
+##MOLFORM=C20H36O5
+##CAS REGISTRY NO=40393-43-9
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        442
+    42        115
+    43        423
+    55        999
+    69        403
+    70         76
+    73         76
+    74        173
+    83        442
+    84        250
+    85         76
+    87        153
+    97        480
+    98        269
+    99         57
+   101         76
+   111        326
+   112         96
+   113         38
+   115         57
+   125        557
+   126        173
+   127        115
+   129         16
+   140        230
+   141         76
+   142        211
+   143        288
+   154         76
+   155         38
+   156        211
+   157        326
+   168        269
+   169         96
+   171        134
+   183         38
+   185        326
+   199        269
+   200        673
+   201        115
+   214        615
+   215         96
+   275         19
+   283         57
+   293        173
+   294         38
+   297         19
+   325        288
+   326         76
+   356         38
+   357         18

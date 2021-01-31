@@ -1,0 +1,42 @@
+##TITLE=Library Entry 62725
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Tolazoline acetate
+##MOLFORM=C12H14N2O
+##CAS REGISTRY NO=35168-94-6
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    51        153
+    63        107
+    65        318
+    77        133
+    85        369
+    86        419
+    89        124
+    91        999
+   102         34
+   103         78
+   104         57
+   116         58
+   117         90
+   118         43
+   130         67
+   131        163
+   132         54
+   144         10
+   157         45
+   159        673
+   160        348
+   185          7
+   187        555
+   188         72
+   201        196
+   202        387
+   203         57

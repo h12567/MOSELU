@@ -1,0 +1,31 @@
+##TITLE=Library Entry 85266
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,3,5-Trismethanesulfonyl-hexahydro-1,3,5-triazine
+##MOLFORM=C6H15N3O6S3
+##CAS REGISTRY NO=34552-98-2
+##MP= -300
+##BP= -300
+##MW= 321
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    30        564
+    42        349
+    57         58
+    63         79
+    76         89
+    79        441
+   107        109
+   108        999
+   122        100
+   135        719
+   162         59
+   186        208
+   214         80
+   242        200
+   321         60
+   322         10

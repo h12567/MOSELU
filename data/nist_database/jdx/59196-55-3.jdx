@@ -1,0 +1,47 @@
+##TITLE=Library Entry 3093
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.A. TSIPIS, DEP. INORG. CHEM., THESSALONIKI UNIV., GRE
+ECE
+##NAMES=HP
+##CAS NAME=Iodobis(N,N-di-isobutyldithiocarbamato)arsine
+##MOLFORM=C18H36AsIN2S4
+##CAS REGISTRY NO=59196-55-3
+##MP= -300
+##BP= -300
+##MW= 610
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        999
+    44        261
+    57        653
+    64        115
+    73        276
+    76        100
+   107         53
+   115        615
+   127         13
+   128         20
+   139         13
+   150         76
+   171         30
+   172         61
+   182         10
+   202          6
+   204         21
+   214         10
+   221          9
+   257         15
+   279          9
+   289         10
+   300         14
+   311         28
+   321         13
+   376          4
+   396         20
+   406          8
+   428         13
+   451          1
+   483         12

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 60325
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Carbonic acid, O(1)-benzyl-O(2)-ethyl(ester)
+##MOLFORM=C10H12O3
+##CAS REGISTRY NO=22768-02-1
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=1340
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          5
+    27         32
+    28          8
+    29         80
+    30          7
+    31          3
+    37          2
+    38          8
+    39         52
+    40          4
+    41         14
+    42          2
+    43          7
+    44          7
+    45         12
+    49          1
+    50         30
+    51         81
+    52         22
+    53          8
+    54          1
+    61          3
+    62         13
+    63         49
+    64         15
+    65        156
+    66          9
+    73          2
+    74          8
+    75          7
+    76         10
+    77        232
+    78         49
+    79        631
+    80         51
+    81          2
+    85          1
+    86          2
+    87          2
+    89        114
+    90        289
+    91        999
+    92        149
+    93          8
+    94          1
+   103          1
+   105         52
+   106         17
+   107        574
+   108        450
+   109         35
+   110          2
+   117          4
+   118          3
+   135         66
+   136         11
+   137          1
+   151          2
+   180        629
+   181         69
+   182          7
+   183          1

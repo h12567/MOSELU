@@ -1,0 +1,39 @@
+##TITLE=Library Entry 72233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phosphoric acid, monoethyl ester
+##MOLFORM=C2H7O4P
+##CAS REGISTRY NO=1623-14-9
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    25         70
+    26         89
+    27        244
+    28        109
+    29        120
+    30         15
+    31        290
+    42         28
+    43        135
+    44         17
+    45        169
+    47        100
+    63        111
+    64         33
+    65         66
+    80         32
+    81        743
+    82        284
+    83         39
+    98         56
+    99        999
+   111        249
+   125         32
+   127        107

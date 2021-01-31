@@ -1,0 +1,46 @@
+##TITLE=Library Entry 62510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Azetidine, 2-methyl-1-[(4-methylphenyl)sulfonyl]-
+##MOLFORM=C11H15NO2S
+##CAS REGISTRY NO=13595-47-6
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         38
+    28        145
+    29          9
+    39         15
+    41         84
+    42        203
+    43          9
+    56        493
+    57         23
+    65        160
+    66         19
+    70         73
+    71          7
+    77         15
+    91        999
+    92        102
+    93          7
+   118         29
+   119         32
+   120         26
+   132         26
+   133         52
+   134          6
+   146        110
+   155        870
+   156         75
+   157         10
+   210         87
+   211         10
+   225         75
+   226         15

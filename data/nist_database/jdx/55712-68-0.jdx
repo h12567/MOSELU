@@ -1,0 +1,56 @@
+##TITLE=Library Entry 57189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetamide, N-[2-[3,4-bis(acetyloxy)phenyl]-2-hydroxyethyl]-N-meth
+yl-
+##MOLFORM=C15H19NO6
+##CAS REGISTRY NO=55712-68-0
+##MP= -300
+##BP= -300
+##MW= 309
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41         25
+    42         95
+    43        475
+    44        829
+    45        225
+    57         25
+    65         50
+    74         67
+    81         25
+    82         20
+    86        300
+    87        999
+    88        125
+    93         80
+   109         25
+   110         30
+   111         20
+   123         25
+   136         42
+   137        112
+   138        190
+   139        250
+   140         32
+   152        100
+   164         37
+   165         57
+   178         17
+   179         17
+   180        162
+   181        529
+   182         60
+   207         45
+   222         30
+   223         42
+   249         25
+   291         12
+   307         12
+   308         10
+   309        240
+   310         42

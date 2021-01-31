@@ -1,0 +1,80 @@
+##TITLE=Library Entry 21519
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MUS63 A. Mujsce, AT&T Bell Labs., Murray Hill, N.J., US
+A
+##NAMES=HP
+##CAS NAME=Butane, 1-bromo-4-iodo-
+##MOLFORM=C4H8BrI
+##CAS REGISTRY NO=89044-65-5
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26        103
+    27        478
+    29        337
+    30         48
+    31         22
+    33         17
+    38         42
+    39        308
+    41        127
+    44         38
+    45         19
+    46         30
+    48         35
+    49         49
+    50         58
+    51         42
+    52         37
+    53         62
+    54         40
+    55        999
+    56         50
+    57         22
+    61         53
+    64         32
+    67         15
+    71         18
+    77         49
+    79         44
+    80         28
+    86         10
+    87         39
+    88         27
+    91         48
+    92         20
+    93         36
+    95         20
+   103         28
+   106         23
+   108         30
+   109        135
+   110         21
+   111         17
+   127        188
+   128         78
+   129         27
+   130         26
+   135        716
+   137        636
+   138         55
+   147          8
+   151          6
+   153         21
+   154         26
+   155         89
+   157         41
+   159         15
+   169         21
+   173         12
+   177         18
+   178         11
+   183         16
+   262         42
+   263         12
+   264         45

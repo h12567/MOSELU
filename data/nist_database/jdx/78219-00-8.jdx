@@ -1,0 +1,106 @@
+##TITLE=Library Entry 83366
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Phosphorothioic acid, S-2,3-diaminopropyl ester
+##MOLFORM=C3H11N2O3PS
+##CAS REGISTRY NO=78219-00-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 90
+##XYDATA=(XY..XY) 1 
+    41         70
+    42        305
+    43        899
+    44        391
+    45         99
+    46         25
+    47         63
+    48         15
+    49          4
+    50          1
+    51          3
+    52          8
+    53          3
+    54         20
+    55          6
+    56         69
+    57         17
+    58         71
+    59        804
+    60         37
+    61         35
+    62          4
+    63          5
+    64          7
+    65          1
+    66          0
+    67          2
+    68          8
+    69         20
+    70          7
+    71         16
+    72        176
+    73        175
+    74          9
+    75         86
+    76        844
+    77         33
+    78         49
+    79          2
+    80         15
+    81         23
+    82         14
+    83         13
+    84          3
+    85          3
+    86          6
+    87          4
+    88         23
+    89         11
+    90        151
+    91          6
+    92          4
+    93          0
+    94          2
+    95          2
+    96          2
+    97         11
+    98         12
+    99          6
+   100          4
+   101          3
+   102          7
+   103          2
+   104          1
+   105          9
+   107        999
+   109         28
+   110          1
+   111          2
+   112          0
+   113          2
+   114          4
+   115          2
+   116          7
+   117         10
+   118          1
+   119          3
+   120          2
+   121          3
+   122          4
+   123          2
+   124          2
+   125          0
+   126          0
+   155          1
+   156          2
+   157          1
+   185          0
+   186          1
+   187          0

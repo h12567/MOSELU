@@ -1,0 +1,32 @@
+##TITLE=Library Entry 80836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(3-Phenylbutyl)-undecafluior-hexanamide
+##MOLFORM=C16H14F11NO
+##CAS REGISTRY NO=77970-70-8
+##MP= -300
+##BP= -300
+##MW= 445
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         30
+    41         40
+    51         50
+    69         98
+    77         99
+    78         49
+    79        100
+    91        119
+   103         90
+   104         50
+   105        999
+   106         99
+   117         49
+   118        546
+   119        119
+   131         19
+   326         20

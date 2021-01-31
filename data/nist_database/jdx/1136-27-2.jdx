@@ -1,0 +1,50 @@
+##TITLE=Library Entry 73871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=2,3,6-Tri-O-methyl-d-galactopyranose
+##MOLFORM=C9H18O6
+##CAS REGISTRY NO=1136-27-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    45        800
+    55         55
+    57         71
+    59         68
+    61         25
+    69         28
+    71        218
+    73        136
+    74         83
+    75        457
+    85         97
+    87        100
+    88        332
+    89         41
+    99         86
+   101        999
+   102         68
+   111         14
+   113         19
+   115         18
+   117         11
+   127         23
+   129         19
+   130         20
+   131         39
+   141          8
+   144          4
+   145         13
+   149          2
+   155          5
+   159         21
+   161         84
+   173         10
+   191          2
+   205          2

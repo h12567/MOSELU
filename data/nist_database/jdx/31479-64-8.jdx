@@ -1,0 +1,46 @@
+##TITLE=Library Entry 66584
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=3-Picolinium, 1-ureido-, hydroxide, inner salt
+##MOLFORM=C7H9N3O
+##CAS REGISTRY NO=31479-64-8
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    49         30
+    50        180
+    51        300
+    52        190
+    53        220
+    54        110
+    61         30
+    62         70
+    63        170
+    64         80
+    65        370
+    66        300
+    67        170
+    68         40
+    77        110
+    78        170
+    79         20
+    80        270
+    81        100
+    82         30
+    92        260
+    93        999
+    94        110
+   107         50
+   108        170
+   109         30
+   135        840
+   136        100
+   150        120
+   151        350
+   152         40

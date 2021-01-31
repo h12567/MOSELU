@@ -1,0 +1,42 @@
+##TITLE=Library Entry 33201
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.V.Takhistov
+##NAMES=HP
+##CAS NAME=p-Chlorophenyl methylethynyl ketone
+##MOLFORM=C10H7ClO
+##CAS REGISTRY NO=39180-27-3
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    38         52
+    39        210
+    50        140
+    51         61
+    57         35
+    62         33
+    63         59
+    66         50
+    67        999
+    68         47
+    74         87
+    75        220
+    76         38
+    89         31
+   111         96
+   113         50
+   114         42
+   115        480
+   116         51
+   139         43
+   149         92
+   150        230
+   151         50
+   152         71
+   178        490
+   179         58
+   180        160

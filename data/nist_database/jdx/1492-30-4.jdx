@@ -1,0 +1,84 @@
+##TITLE=Library Entry 7638
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Hexadecanoic acid, 4-nitrophenyl ester
+##MOLFORM=C22H35NO4
+##CAS REGISTRY NO=1492-30-4
+##MP= -300
+##BP= -300
+##MW= 377
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    12          9
+    17          5
+    18         69
+    19         21
+    26         24
+    27        193
+    28         95
+    29        368
+    30         95
+    37         15
+    38         27
+    39        168
+    41        755
+    42        238
+    43        999
+    44         78
+    45         33
+    50         30
+    51         13
+    52         37
+    53         70
+    55        645
+    56        164
+    57        793
+    58         68
+    59         12
+    63         51
+    64         34
+    65         50
+    67        122
+    68         49
+    69        281
+    70         85
+    71        384
+    72         33
+    75         12
+    76         13
+    79         25
+    80         34
+    81        134
+    82         45
+    83        216
+    84         84
+    85        236
+    86         18
+    91         37
+    92         14
+    93         45
+    94         14
+    95        146
+    96         97
+    97         95
+    99         56
+   107         24
+   109        421
+   110         45
+   111         36
+   113         23
+   121         22
+   123        117
+   124         24
+   125         18
+   137         21
+   139         44
+   140         52
+   181         15
+   239        463
+   240         81
+   241         12

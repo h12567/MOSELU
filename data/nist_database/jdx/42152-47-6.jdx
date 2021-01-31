@@ -1,0 +1,85 @@
+##TITLE=Library Entry 51378
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-5089
+##NAMES=HP
+##CAS NAME=7-Methyl-1,6-octadiene
+##MOLFORM=C9H16
+##CAS REGISTRY NO=42152-47-6
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          4
+    26          7
+    27        148
+    28          9
+    29        118
+    30          3
+    37          2
+    38         10
+    39        277
+    40         49
+    41        885
+    42        102
+    43        129
+    44          5
+    45          1
+    49          1
+    50         14
+    51         40
+    52         18
+    53        172
+    54        360
+    55        893
+    56        196
+    57        143
+    58          6
+    61          1
+    62          3
+    63          9
+    64          2
+    65         40
+    66        121
+    67        802
+    68        335
+    69        952
+    70        140
+    71          9
+    74          2
+    75          2
+    77         37
+    78          9
+    79         90
+    80        112
+    81        724
+    82        999
+    83        199
+    84         10
+    85          1
+    89          1
+    91         17
+    92          3
+    93         13
+    94          6
+    95        121
+    96         64
+    97          6
+   103          1
+   104          1
+   105          3
+   107          8
+   108          3
+   109        216
+   110         19
+   111          1
+   121          1
+   122          1
+   123          2
+   124        278
+   125         27
+   126          1

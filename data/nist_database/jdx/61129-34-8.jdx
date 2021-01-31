@@ -1,0 +1,57 @@
+##TITLE=Library Entry 23600
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=3,4-Octadiene, 7,7-dimethyl-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=61129-34-8
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         45
+    26         22
+    27        260
+    29        377
+    39        342
+    41        766
+    42         42
+    43         75
+    50         25
+    51         77
+    52         42
+    53        134
+    54         39
+    55        117
+    56         34
+    57        999
+    63         27
+    65         75
+    66         35
+    67        508
+    68         36
+    69         36
+    70          9
+    77         91
+    78         18
+    79        118
+    80         18
+    81        232
+    82        267
+    83         19
+    84          2
+    85         44
+    93         23
+    94         10
+    95         94
+   107          7
+   108          4
+   109         75
+   110         11
+   123         95
+   124          9
+   138         11

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 22936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Molina, Dep. Org. Chem., Univ. Murcia, Murcia, Spain
+##NAMES=HP
+##CAS NAME=3,3-Diethyl-1,2,3,4-tetrahydro-1,7-dimethyl-6H-[1,2,4]triazino[4,
+3-b][1,2,4,5]tetrazin-6-one
+##MOLFORM=C10H18N6O
+##CAS REGISTRY NO=116471-33-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    42        220
+    43        140
+    45        130
+    55        120
+    56        999
+    57        120
+    84        170
+   112        160
+   139         50
+   154        110
+   209        620
+   210         60
+   238        100
+   239         13

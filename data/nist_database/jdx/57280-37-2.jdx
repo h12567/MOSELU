@@ -1,0 +1,33 @@
+##TITLE=Library Entry 109777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5-Methyl-thiophene-2-carboxamide
+##MOLFORM=C6H7NOS
+##CAS REGISTRY NO=57280-37-2
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39         30
+    45         78
+    50          9
+    51         29
+    52          9
+    53        187
+    69         40
+    70          9
+    96         20
+    97        139
+   110         20
+   111         30
+   125        999
+   126         78
+   127         60
+   141        677
+   142         60
+   143         40

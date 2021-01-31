@@ -1,0 +1,39 @@
+##TITLE=Library Entry 18191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6764
+##NAMES=HP
+##CAS NAME=Methane-D2-, dichloro-
+##MOLFORM=CCl2D2
+##CAS REGISTRY NO=1665-00-5
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    12          2
+    14          6
+    16          8
+    35         44
+    37         20
+    39          4
+    47        101
+    48          2
+    49         74
+    50          7
+    51        999
+    52         11
+    53        312
+    54          4
+    70          3
+    72          1
+    82          3
+    84         12
+    86        767
+    87          9
+    88        498
+    89          6
+    90         83
+    91          1

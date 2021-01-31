@@ -1,0 +1,37 @@
+##TITLE=Library Entry 60346
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenesulfonamide, N,4-dimethyl-N-(6a,7,10,10a-tetrahydro-3-hydr
+oxy-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-yl)-, (6aR-trans)-
+##MOLFORM=C24H29NO4S
+##CAS REGISTRY NO=40248-04-2
+##MP= -300
+##BP= -300
+##MW= 427
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    69        450
+    82        789
+    91        999
+   105        330
+   119        220
+   133        280
+   150        170
+   188        300
+   204        220
+   216        280
+   229        220
+   272        420
+   280        280
+   295        160
+   322         90
+   344        250
+   363         80
+   412         30
+   427        180
+   428         70
+   429         30

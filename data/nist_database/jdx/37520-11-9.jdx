@@ -1,0 +1,48 @@
+##TITLE=Library Entry 32603
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Ethane, 1,2-dicyclopropyl-
+##MOLFORM=C8H14
+##CAS REGISTRY NO=37520-11-9
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=827
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    26         27
+    27        457
+    28        307
+    29        503
+    38         24
+    39        556
+    40         60
+    41        804
+    42         45
+    43         14
+    44          3
+    50         20
+    51         40
+    52         21
+    53        200
+    54        770
+    55        810
+    56         44
+    65         24
+    66         27
+    67        999
+    68        217
+    69        134
+    70          0
+    77         15
+    78          0
+    79         27
+    80          4
+    81        267
+    82        240
+    83          8
+    95         34

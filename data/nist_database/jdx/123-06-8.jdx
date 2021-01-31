@@ -1,0 +1,52 @@
+##TITLE=Library Entry 588
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanedinitrile, (ethoxymethylene)-
+##MOLFORM=C6H6N2O
+##CAS REGISTRY NO=123-06-8
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    25          8
+    26         56
+    27        402
+    28         80
+    29        999
+    30         27
+    31          6
+    37          6
+    38         83
+    39         50
+    40         21
+    41         13
+    42          9
+    43         22
+    44         15
+    45         10
+    50         10
+    51         43
+    52         25
+    53          4
+    64         25
+    65         32
+    66        500
+    67         55
+    68          8
+    76         10
+    77         27
+    78          7
+    79         16
+    93         11
+    94        372
+    95         47
+    96          4
+   107          4
+   121          5
+   122        308
+   123         36

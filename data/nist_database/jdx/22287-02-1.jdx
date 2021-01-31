@@ -1,0 +1,67 @@
+##TITLE=Library Entry 28196
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Nonanone, 2-methyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=22287-02-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         23
+    16          2
+    18          8
+    26         18
+    27        257
+    28         83
+    29        368
+    30          8
+    31         10
+    38         11
+    39        181
+    40         42
+    41        505
+    42        108
+    43        714
+    44         24
+    45          7
+    50          5
+    51         17
+    52          7
+    53         50
+    54         15
+    55        184
+    56         93
+    57        836
+    58        999
+    59        115
+    67         16
+    69         24
+    70         22
+    71        265
+    72         60
+    77          7
+    79         13
+    81        410
+    82         29
+    83         19
+    84          7
+    85        554
+    86         35
+    95         10
+    97          7
+    99        185
+   100        170
+   101         44
+   109          9
+   113         49
+   114         14
+   127          7
+   141          4
+   156         91
+   157         10

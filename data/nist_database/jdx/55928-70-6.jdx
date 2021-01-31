@@ -1,0 +1,28 @@
+##TITLE=Library Entry 36521
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.S. TOY, STANFORD RES. INST., MENLO PARK, CALIF., USA
+##NAMES=HP
+##CAS NAME=Perfluoro-2,2,8-trimethyl-3,6,9-trioxadodecane
+##MOLFORM=C12F26O3
+##CAS REGISTRY NO=55928-70-6
+##MP= -300
+##BP= -300
+##MW= 686
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    69        999
+    97         42
+   100         70
+   119        322
+   131        127
+   137         30
+   140         25
+   169        873
+   219        113
+   285         77
+   335        359
+   501         14
+   598          4

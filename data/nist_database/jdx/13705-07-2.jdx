@@ -1,0 +1,63 @@
+##TITLE=Library Entry 77871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=S-Triazine, 2-chloro-4-methylthio-6-phenyl-
+##MOLFORM=C10H8ClN3S
+##CAS REGISTRY NO=13705-07-2
+##MP= -300
+##BP= -300
+##MW= 237
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    36         21
+    38         12
+    39         28
+    40         38
+    44         19
+    45         36
+    46         44
+    47         37
+    50         50
+    51         98
+    52         25
+    53         19
+    58         20
+    62         23
+    63         12
+    72         24
+    73        133
+    74         31
+    75         58
+    76        125
+    77        166
+    78         13
+    87         94
+    88         17
+    89         36
+    99         40
+   102         24
+   103        254
+   104        999
+   105         65
+   116         13
+   129        115
+   130         58
+   134         25
+   156         93
+   157         12
+   190         25
+   191         58
+   192         16
+   193         23
+   202         22
+   204         17
+   225         21
+   236         60
+   237        798
+   238        123
+   239        286
+   240         32

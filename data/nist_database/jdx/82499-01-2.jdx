@@ -1,0 +1,69 @@
+##TITLE=Library Entry 100355
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Purine-6-sulfonamide
+##MOLFORM=C5H5N5O2S
+##CAS REGISTRY NO=82499-01-2
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41         20
+    42         17
+    43         61
+    44         27
+    46        117
+    48        541
+    49          7
+    50         26
+    51         23
+    53        406
+    54         93
+    55         32
+    56         14
+    57          7
+    58          6
+    59          7
+    60          2
+    62          2
+    64        815
+    65        490
+    66        242
+    67        200
+    70         44
+    71         15
+    76          7
+    77         47
+    78         12
+    80        264
+    81         52
+    82         16
+    83         20
+    92        752
+    93         80
+    94          2
+   108         85
+   109         13
+   119        999
+   120        167
+   121         12
+   133          3
+   135        861
+   136        342
+   137         21
+   139          3
+   147          2
+   148          9
+   152         10
+   154         14
+   156          4
+   199        523
+   200         78
+   201         27
+   202          4

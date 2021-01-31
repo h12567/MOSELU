@@ -1,0 +1,71 @@
+##TITLE=Library Entry 8143
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7353
+##NAMES=HP
+##CAS NAME=Oxirane, [(1-methylethoxy)methyl]-
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=4016-14-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    13          4
+    14         11
+    15         97
+    16          5
+    17          2
+    18          7
+    24          3
+    25         11
+    26         92
+    27        444
+    28        160
+    29        646
+    30         65
+    31        310
+    32         12
+    33          1
+    36          6
+    37         32
+    38         49
+    39        250
+    40         76
+    41        577
+    42        258
+    43        999
+    44        310
+    45        525
+    46         14
+    47          3
+    51          1
+    52          1
+    53          8
+    54          2
+    55         80
+    56         95
+    57        630
+    58        131
+    59        683
+    60         23
+    61          2
+    67          1
+    69          1
+    70          1
+    71         12
+    72          5
+    73        106
+    74         12
+    75          9
+    83          3
+    85          8
+    86         20
+    87          1
+    88          4
+   101        165
+   102          9
+   103          1
+   115          4

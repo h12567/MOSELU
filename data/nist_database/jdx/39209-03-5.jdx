@@ -1,0 +1,61 @@
+##TITLE=Library Entry 4714
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 3-methyl-, O-methyloxime
+##MOLFORM=C7H13NO
+##CAS REGISTRY NO=39209-03-5
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    39        440
+    40         80
+    41        400
+    42        999
+    43        100
+    44         20
+    45         20
+    50         60
+    51        110
+    52        110
+    53        290
+    54        260
+    55        710
+    56        130
+    57         20
+    58         30
+    59         40
+    65         30
+    66         30
+    67        100
+    68         70
+    69         70
+    70        110
+    71        320
+    72         40
+    77         40
+    78         10
+    79        140
+    80        170
+    81        480
+    82         90
+    84         20
+    85         50
+    86        240
+    87         20
+    94        110
+    95         40
+    96        430
+    97         50
+    98         10
+   112        160
+   113         20
+   126         20
+   127        530
+   128         40

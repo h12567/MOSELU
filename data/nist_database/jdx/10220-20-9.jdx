@@ -1,0 +1,43 @@
+##TITLE=Library Entry 54038
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Piperidine, 1,1'-dithiobis-
+##MOLFORM=C10H20N2S2
+##CAS REGISTRY NO=10220-20-9
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        120
+    40         40
+    41        230
+    42        220
+    43        150
+    44        220
+    50         40
+    51         70
+    52        120
+    53         70
+    54        140
+    55        540
+    56        170
+    57        100
+    64         40
+    67         70
+    68         60
+    69         40
+    70        100
+    71         40
+    79        130
+    80         70
+    81        140
+    82        140
+    83        440
+    84        999
+    85        560
+    86         60

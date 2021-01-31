@@ -1,0 +1,78 @@
+##TITLE=Library Entry 76628
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Chlorostyrene
+##MOLFORM=C8H7Cl
+##CAS REGISTRY NO=2039-87-4
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         16
+    35          1
+    36          2
+    37         16
+    38         24
+    39         40
+    43          1
+    47          2
+    48          1
+    49         24
+    50        161
+    51        247
+    52         35
+    53          8
+    60          6
+    61         29
+    62         46
+    63         85
+    64          6
+    65          2
+    68          8
+    69         21
+    70          6
+    72          5
+    73         35
+    74        116
+    75        171
+    76        103
+    77        287
+    78         28
+    79          1
+    84         10
+    85         15
+    86         14
+    87         23
+    88          3
+    89          7
+    96          1
+    97         10
+    98         20
+    99         14
+   100          7
+   101        103
+   102        263
+   103        999
+   104         87
+   105          3
+   108          1
+   109          1
+   110          2
+   111          4
+   112         40
+   113          4
+   114         13
+   123          4
+   125          1
+   136         10
+   137         28
+   138        817
+   139         80
+   140        271
+   141         23

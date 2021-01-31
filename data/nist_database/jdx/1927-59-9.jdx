@@ -1,0 +1,60 @@
+##TITLE=Library Entry 38760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-tert-Butoxytetrahydrofuran
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=1927-59-9
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         57
+    17          1
+    18          3
+    19          1
+    26         18
+    27        165
+    28         86
+    29        258
+    30         22
+    31         86
+    32          4
+    37          3
+    39        162
+    40         37
+    41        463
+    42        164
+    43        407
+    44         18
+    45         18
+    46          1
+    47         12
+    50          2
+    51          4
+    52          1
+    53          8
+    55         22
+    56        170
+    57        889
+    58         46
+    59         54
+    60          2
+    64          8
+    69         18
+    71        999
+    72         43
+    73          2
+    85          1
+    87         55
+    88         24
+    89        114
+    90          5
+   103          2
+   129         47
+   130          4

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 61522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Propanamine, N-(phenylmethylene)-
+##MOLFORM=C10H13N
+##CAS REGISTRY NO=6852-55-7
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=1270
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        108
+    42          9
+    43         69
+    50         39
+    51        118
+    52         29
+    54         19
+    58          9
+    59          9
+    62         29
+    63         69
+    64         29
+    65         99
+    66          9
+    69          9
+    70         79
+    71          9
+    74         19
+    75         19
+    76         29
+    77        148
+    78        108
+    79         29
+    89        118
+    90         89
+    91        999
+    92         89
+   103         39
+   104        188
+   105         49
+   106         19
+   116         19
+   117         79
+   118        752
+   119        217
+   120         39
+   130         19
+   132         39
+   145         29
+   146        237
+   147        108
+   148         29

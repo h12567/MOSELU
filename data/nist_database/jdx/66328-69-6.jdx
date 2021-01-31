@@ -1,0 +1,45 @@
+##TITLE=Library Entry 18663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazanamine, 4-nitro-
+##MOLFORM=C2H2N4O3
+##CAS REGISTRY NO=66328-69-6
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    33         13
+    34          7
+    38         10
+    40        129
+    41         35
+    42         74
+    43         15
+    44         15
+    46         89
+    48          2
+    50          3
+    53        698
+    54        999
+    55         25
+    57          4
+    58         16
+    66          1
+    67          1
+    69         11
+    70          1
+    74          1
+    76          6
+    82          1
+    84        658
+    85         12
+   103          1
+   104          3
+   130        442
+   131         16
+   132          1

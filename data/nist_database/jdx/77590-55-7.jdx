@@ -1,0 +1,83 @@
+##TITLE=Library Entry 96448
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.S.BANDURSKI MICHIGAN STATE UNIV., EAST LANSING, MICH.
+, USA
+##NAMES=HP
+##CAS NAME=1H-Indole-3-ethanamine, 6-fluoro-.alpha.-methyl-N,1-bis(trimethyl
+silyl)-
+##MOLFORM=C17H29FN2Si2
+##CAS REGISTRY NO=77590-55-7
+##MP= -300
+##BP= -300
+##MW= 336
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    31          3
+    42          3
+    43         18
+    44         28
+    45         63
+    46          4
+    47          4
+    57          2
+    58          9
+    59         39
+    60          4
+    63          1
+    70          3
+    71          1
+    72          8
+    73        481
+    74         42
+    75          1
+    86         11
+    87          2
+   100         43
+   101         11
+   102          3
+   103          1
+   114          6
+   115          5
+   116        999
+   117        111
+   118         37
+   119          2
+   120          1
+   128          3
+   129          2
+   130          1
+   147          1
+   148          4
+   149          1
+   163          4
+   164          1
+   178          3
+   186          2
+   188          1
+   190          4
+   191          1
+   202          2
+   203          1
+   204          4
+   205          2
+   206          2
+   217          1
+   218          3
+   219          1
+   220         35
+   221         41
+   222          6
+   223          1
+   229          4
+   230          1
+   232          1
+   247          2
+   248          1
+   264          1
+   321         10
+   322          3
+   323          1
+   336          1

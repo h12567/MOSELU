@@ -1,0 +1,44 @@
+##TITLE=Library Entry 96029
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Tricyclo[10.2.2.2(5,8)]octadeca-5,7,12,14,15,17-hexaene, 6-methox
+y-
+##MOLFORM=C19H22O
+##CAS REGISTRY NO=24770-02-3
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    91        190
+   105         80
+   106         40
+   115        999
+   117        240
+   118        100
+   119         50
+   121        160
+   128         30
+   129         30
+   130         20
+   131         90
+   132         40
+   133        110
+   134         70
+   135        160
+   136        510
+   137         40
+   144         60
+   145         20
+   147        140
+   148        290
+   149        110
+   150        100
+   165         20
+   266        999
+   267        220
+   268         20

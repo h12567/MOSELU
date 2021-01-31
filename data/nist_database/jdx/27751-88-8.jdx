@@ -1,0 +1,64 @@
+##TITLE=Library Entry 23740
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2,2-dimethyl-, octyl ester
+##MOLFORM=C13H26O2
+##CAS REGISTRY NO=27751-88-8
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    26         18
+    27        115
+    28         19
+    29        225
+    31          6
+    36          6
+    37          3
+    38         19
+    39        118
+    40         19
+    41        398
+    42        111
+    43        189
+    44         27
+    45          8
+    50         11
+    51         19
+    52         21
+    53         21
+    54         16
+    55        121
+    56        139
+    57        999
+    58         38
+    59         25
+    63          6
+    65          9
+    67         13
+    68          9
+    69         67
+    70        115
+    71        129
+    73          6
+    82         13
+    83         29
+    84         59
+    85         88
+    86          6
+    87         13
+    93          9
+    97          6
+   103        272
+   104         18
+   105          6
+   112         91
+   113          8
+   119          1
+   157          1
+   171          2

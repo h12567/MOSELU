@@ -1,0 +1,72 @@
+##TITLE=Library Entry 1594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 263
+##NAMES=HP
+##CAS NAME=1,2-Hydrazinedicarboxamide
+##MOLFORM=C2H6N4O2
+##CAS REGISTRY NO=110-21-4
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          1
+    14          2
+    15          9
+    16         51
+    17         63
+    18         22
+    26          5
+    27         11
+    28         33
+    29         69
+    30         38
+    31        298
+    32        999
+    33          7
+    39          2
+    41          9
+    42         45
+    43        219
+    44        539
+    45         22
+    46          1
+    54          2
+    55          8
+    56          3
+    57          7
+    58         18
+    59          4
+    60          8
+    64          2
+    67          3
+    68          2
+    69          6
+    70          3
+    71          3
+    73          3
+    74          1
+    75        263
+    76          6
+    77          2
+    79          1
+    81          4
+    82          2
+    83          4
+    84          2
+    85          2
+    90          2
+    91          1
+    95          3
+    96          2
+    97          4
+    98          4
+   100          2
+   101        163
+   102          6
+   116          4
+   118          6

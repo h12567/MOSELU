@@ -1,0 +1,73 @@
+##TITLE=Library Entry 45098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=N-Acetyl-dl-penicillamine
+##MOLFORM=C7H13NO3S
+##CAS REGISTRY NO=59-53-0
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41        311
+    42         83
+    43        629
+    44         40
+    45         63
+    46         18
+    47         67
+    49         10
+    51          8
+    52          7
+    53         30
+    54         24
+    55         38
+    56         77
+    57        143
+    58         22
+    59        106
+    60         21
+    61         12
+    68         19
+    69         25
+    70        219
+    71        128
+    72        101
+    73         14
+    74        100
+    75        999
+    76         45
+    77         50
+    82          4
+    83          5
+    84          5
+    85          6
+    86          5
+    87         53
+    88         14
+    89          5
+    98         14
+    99        315
+   100         17
+   102          8
+   103          2
+   104         38
+   112         20
+   113         13
+   114         55
+   115          8
+   116         27
+   117        453
+   118         30
+   130         33
+   131          5
+   140         23
+   146         11
+   158          4
+   174          4
+   190          1
+   191         26

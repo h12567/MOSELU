@@ -1,0 +1,80 @@
+##TITLE=Library Entry 81849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4120
+##NAMES=HP
+##CAS NAME=p-Benzanisidide
+##MOLFORM=C14H13NO2
+##CAS REGISTRY NO=7472-54-0
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    15          2
+    17          1
+    18          3
+    26          2
+    27          5
+    28          8
+    29          1
+    37          1
+    38          4
+    39          9
+    41         11
+    50         17
+    51         63
+    52         24
+    53         11
+    54          1
+    55          1
+    62          3
+    63          9
+    64          8
+    65          8
+    66          1
+    67          2
+    68          1
+    74          5
+    75          5
+    76         11
+    77        316
+    78         27
+    79          9
+    80          9
+    81          2
+    90          2
+    91          2
+    92          3
+    95         25
+    96          2
+   103          2
+   104          4
+   105        999
+   106         81
+   107          7
+   108          3
+   109          2
+   122         32
+   123          6
+   124         18
+   125          1
+   127          1
+   128          1
+   134          3
+   139          2
+   149          2
+   154          3
+   155          1
+   167          2
+   182          1
+   183          2
+   198          1
+   210          1
+   211          1
+   226          5
+   227        510
+   228         81
+   229          8

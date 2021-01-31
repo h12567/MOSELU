@@ -1,0 +1,31 @@
+##TITLE=Library Entry 69245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,8-Dioxa-11-azatetracyclo[4.4.1.0(2,4).0(7,9)]undecane, 11-(phen
+ylsulfonyl)-, (1.alpha.,2.alpha.,4.alpha.,6.alpha.,7.beta.,9.beta.)-
+##MOLFORM=C14H15NO4S
+##CAS REGISTRY NO=50267-12-4
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        320
+    51        180
+    68        360
+    77        619
+    80        220
+    96        999
+   108         60
+   117        210
+   119        190
+   124         70
+   141        140
+   152         90
+   220         70
+   237        150
+   293        260

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 23420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=4-Bromoheptane
+##MOLFORM=C7H15Br
+##CAS REGISTRY NO=998-93-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1037
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         12
+    16          1
+    17          0
+    18          1
+    26         19
+    27        183
+    28         54
+    29        162
+    30          3
+    32          1
+    37          2
+    38         12
+    39        151
+    40         37
+    41        437
+    42         91
+    43        236
+    44          7
+    49          1
+    50          9
+    51         15
+    52          7
+    53         41
+    54         23
+    55        178
+    56        137
+    57        999
+    58         43
+    59          0
+    62          2
+    63          3
+    64          0
+    65          6
+    66          2
+    67         15
+    68          8
+    69         80
+    70         34
+    71         13
+    77          3
+    78          1
+    79          5
+    80          5
+    81          4
+    82          4
+    83          8
+    93          2
+    95          1
+    97          3
+    98         25
+    99        210
+   100         15
+   105          0
+   106          2
+   107          7
+   108          2
+   109          5
+   119          1
+   120          0
+   121          2
+   122          1
+   123          0
+   151          0

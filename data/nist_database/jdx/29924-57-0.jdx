@@ -1,0 +1,46 @@
+##TITLE=Library Entry 79535
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,7-Phenanthroline-8-carbonitrile, 7-benzoyl-7,8-dihydro-
+##MOLFORM=C20H13N3O
+##CAS REGISTRY NO=29924-57-0
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    38         30
+    39         40
+    50        110
+    51        210
+    52         30
+    62         20
+    63         70
+    73         50
+    74         50
+    75         70
+    77        550
+    78         50
+    90         30
+   103         20
+   105        999
+   106         80
+   125         20
+   126         40
+   127         20
+   151         10
+   152         60
+   153        150
+   154         50
+   179         80
+   180        270
+   181         40
+   205         20
+   206         80
+   207         10
+   311         50
+   312         10

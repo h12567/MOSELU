@@ -1,0 +1,39 @@
+##TITLE=Library Entry 57356
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pentanamide, N-ethyl-
+##MOLFORM=C7H15NO
+##CAS REGISTRY NO=54007-33-9
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=1141
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29        510
+    30        410
+    39         30
+    41        180
+    42         50
+    43         70
+    44        510
+    45         50
+    46         70
+    55        120
+    56         40
+    57        300
+    58         20
+    59         40
+    72        780
+    73         30
+    85        110
+    86         30
+    87        999
+    88         40
+   100        160
+   101         20
+   129         10

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 3325
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=3-Penten-1-ol, 4-methyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=763-89-3
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=868
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          4
+    27         61
+    28         15
+    29         66
+    30          3
+    31         67
+    37          4
+    38         13
+    39        191
+    40         30
+    41        999
+    42         59
+    43         72
+    44         10
+    45          7
+    50         16
+    51         21
+    52          9
+    53         78
+    54         16
+    55         87
+    56         50
+    57         77
+    58          5
+    59         12
+    62          1
+    63          3
+    65         12
+    66          6
+    67        123
+    68         17
+    69        537
+    70         53
+    71          5
+    72         55
+    79          7
+    81         12
+    82         18
+    83          4
+   100         56
+   101          3

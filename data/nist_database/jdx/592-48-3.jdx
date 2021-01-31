@@ -1,0 +1,59 @@
+##TITLE=Library Entry 32884
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=C2H5CH=CHCH=CH2
+##MOLFORM=C6H10
+##CAS REGISTRY NO=592-48-3
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=598
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15         24
+    26         34
+    27        180
+    28         36
+    29         32
+    37         18
+    38         51
+    39        372
+    40         73
+    41        367
+    42         38
+    43          6
+    44          2
+    48          1
+    49         11
+    50         71
+    51         87
+    52         44
+    53        128
+    54        163
+    55         41
+    56         10
+    60          1
+    61          7
+    62         17
+    63         25
+    64          1
+    65        150
+    66         35
+    67        999
+    68         48
+    69          1
+    73          3
+    74          8
+    75          2
+    76          1
+    77         40
+    78          9
+    79         74
+    80          1
+    81        110
+    82        386
+    83         27
+    84          1

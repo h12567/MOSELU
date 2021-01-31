@@ -1,0 +1,63 @@
+##TITLE=Library Entry 72235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 1-butyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=5445-30-7
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15         15
+    27        192
+    28        100
+    29        219
+    31         31
+    39        158
+    40         38
+    41        319
+    42         73
+    43        274
+    45         15
+    51         24
+    52         15
+    53        100
+    54         48
+    55        261
+    56         37
+    57        249
+    58        171
+    59         51
+    65         35
+    66         21
+    67        241
+    68         55
+    69         67
+    70         32
+    71        123
+    72         54
+    77         39
+    78         13
+    79        109
+    81        667
+    82         88
+    83         57
+    85         84
+    91         24
+    93         19
+    95        100
+    96         89
+    97         23
+    99        999
+   100        109
+   101         15
+   109         47
+   113        254
+   114         75
+   127         44
+   138         47

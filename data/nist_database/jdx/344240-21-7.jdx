@@ -1,0 +1,58 @@
+##TITLE=Library Entry 170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Methyl-3,4,5,6-tetrahydropyrazine
+##MOLFORM=C5H10N2
+##CAS REGISTRY NO=344240-21-7
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27        340
+    28        999
+    29        605
+    30        347
+    31          6
+    36          1
+    37         17
+    38         46
+    39        179
+    40         89
+    41        361
+    42        790
+    43         78
+    44         22
+    48         20
+    49         10
+    50          1
+    51          8
+    52         25
+    53         15
+    54        106
+    55         69
+    56        349
+    57        185
+    58          7
+    64          1
+    66          4
+    67         11
+    68         94
+    69        429
+    70        105
+    71         89
+    72          3
+    80          9
+    81          9
+    82         27
+    83         33
+    84          1
+    95         34
+    96         41
+    97        179
+    98        466
+    99         31

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 1307
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Methylenediurethane
+##MOLFORM=C7H14N2O4
+##CAS REGISTRY NO=3693-53-6
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    24          0
+    26         11
+    27        119
+    28         67
+    29        559
+    30        999
+    31         25
+    42          7
+    43         22
+    44         36
+    45        200
+    46         27
+    47          4
+    50          0
+    55          0
+    56         55
+    57          4
+    58         51
+    59          2
+    60          0
+    61          3
+    62         90
+    63          0
+    69          0
+    70          0
+    71         17
+    72          5
+    73         11
+    74         43
+    75          5
+    76          0
+    83          0
+    85          0
+    86          0
+    87          0
+    88          3
+    89        157
+    90         42
+    91          1
+    99          2
+   100          1
+   101          2
+   102        499
+   103         28
+   104          3
+   115          1
+   116          3
+   117        627
+   118         31
+   119          3
+   129          2
+   132          0
+   133          1
+   143          1
+   144          0
+   145          4
+   146          0
+   161        364
+   162         23
+   163          3
+   164          0
+   189          9
+   190         38
+   191          6
+   192          0

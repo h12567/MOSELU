@@ -1,0 +1,37 @@
+##TITLE=Library Entry 39693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentane, 1-(1-butenyloxy)-, (E)-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=54004-25-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        120
+    40         20
+    41        250
+    42        130
+    43        880
+    44         40
+    45         10
+    53         40
+    54         50
+    55        250
+    56         20
+    57        800
+    58         30
+    69         40
+    70        100
+    71        110
+    72        999
+    73         40
+    85         20
+    99         40
+   142        280
+   143         40

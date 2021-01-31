@@ -1,0 +1,64 @@
+##TITLE=Library Entry 40274
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=Acetamide, N,N-dimethyl-di(4-chlorophenyl)-
+##MOLFORM=C16H15Cl2NO
+##CAS REGISTRY NO=63953-36-6
+##MP= -300
+##BP= -300
+##MW= 307
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    72        999
+    73        110
+    75         43
+    87         14
+    89         25
+    99         16
+   101         10
+   104         13
+   111        220
+   112         11
+   113         46
+   114         10
+   115         10
+   125         16
+   137         10
+   138         13
+   149         11
+   150         10
+   151         10
+   152         24
+   162         14
+   163        120
+   164        110
+   165        460
+   166         79
+   198         63
+   199        170
+   200         55
+   201         59
+   202         17
+   215          4
+   216          5
+   233          6
+   234          5
+   235        420
+   236         59
+   237        270
+   238         37
+   239         41
+   240          4
+   265          4
+   267          3
+   295          7
+   297          4
+   307         95
+   308         19
+   309         58
+   310         11
+   311          9

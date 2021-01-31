@@ -1,0 +1,26 @@
+##TITLE=Library Entry 42492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. IWASE, CENT. RES. LAB., AJINOMOTO CO. INC., KAWASAKI
+, JPN
+##NAMES=HP
+##CAS NAME=Penicillamine, 3TMS derivative
+##MOLFORM=C14H35NO2SSi3
+##CAS REGISTRY NO=167029-28-9
+##MP= -300
+##BP= -300
+##MW= 365
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    45        177
+    59         64
+    73        999
+    74         84
+    75         94
+   101         58
+   147        204
+   218        145
+   219         63
+   291         64

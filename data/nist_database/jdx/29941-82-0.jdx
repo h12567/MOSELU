@@ -1,0 +1,81 @@
+##TITLE=Library Entry 80
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Ethoxy-2-cyclohexen-1-one
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=29941-82-0
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          3
+    14         17
+    15         66
+    16          0
+    18          4
+    26        156
+    27        999
+    28        186
+    29        541
+    30         15
+    37         18
+    38         55
+    39        438
+    40         79
+    41        271
+    42        167
+    43        195
+    44          9
+    49          4
+    50         37
+    51         53
+    52         28
+    53        144
+    54         58
+    55        946
+    56        301
+    57         60
+    58          8
+    61          3
+    62          6
+    63         12
+    64          3
+    65         41
+    66         66
+    67        140
+    68        212
+    69         93
+    70        237
+    71        109
+    72          6
+    77          8
+    78         18
+    79         22
+    80          3
+    81         62
+    82          3
+    83        368
+    84        207
+    85         13
+    93          4
+    95        321
+    96        429
+    97        136
+    98         22
+    99         11
+   111         71
+   112         44
+   113          5
+   121          2
+   122          8
+   125         46
+   126          4
+   140        288
+   141         25
+   142          1

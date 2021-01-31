@@ -1,0 +1,24 @@
+##TITLE=Library Entry 87618
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.W. THOMAS, THE UPJOHN CO., KALAMAZOO, MICH., USA
+##NAMES=HP
+##CAS NAME=2-(3,3-Diethoxypropyl)-2,5-dihydro-6-methoxypyridine
+##MOLFORM=C13H23NO3
+##CAS REGISTRY NO=101773-78-8
+##MP= -300
+##BP= -300
+##MW= 241
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+   103        739
+   110        999
+   123        547
+   180        299
+   194        391
+   195        373
+   196        748
+   212        337
+   241          3

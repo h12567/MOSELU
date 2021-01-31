@@ -1,0 +1,39 @@
+##TITLE=Library Entry 17835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Methoxybenzene,-4-(4-iodobenzylidenamino)
+##MOLFORM=C14H12INO
+##CAS REGISTRY NO=300686-57-1
+##MP= -300
+##BP= -300
+##MW= 337
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         35
+    41         66
+    42         35
+    43        266
+    44        297
+    45        999
+    55         35
+    57        102
+    58         88
+    59        143
+    64         64
+    71         64
+    72         57
+    73        210
+    77         42
+    87        194
+    88         81
+    89        263
+   133         49
+   166         37
+   167        112
+   171         49
+   322        256
+   337        419

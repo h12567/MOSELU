@@ -1,0 +1,44 @@
+##TITLE=Library Entry 76681
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Benzisothiazole, 3-methoxy-, 1,1-dioxide
+##MOLFORM=C8H7NO3S
+##CAS REGISTRY NO=18712-14-6
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    43         10
+    50        120
+    51         40
+    52         10
+    57         10
+    62         10
+    63         50
+    64         40
+    74         40
+    75         80
+    76        150
+    77         20
+    78         10
+    79         10
+    84         60
+    90        130
+    91         10
+    92         20
+   102         80
+   103        999
+   104         80
+   105         10
+   106         10
+   119        120
+   120         20
+   134         10
+   197        520
+   198         50
+   199         30

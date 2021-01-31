@@ -1,0 +1,79 @@
+##TITLE=Library Entry 7228
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.S. Ahmad, Dep. Chem., Aligarh Muslim Univ., Aligarh,
+ India
+##NAMES=HP
+##CAS NAME=3.beta.-Hydroxy-6-aza-B-homo-5.alpha.-stigmastano[6,7-d]tetrazole
+##MOLFORM=C29H50N4O
+##CAS REGISTRY NO=101046-98-4
+##MP= -300
+##BP= -300
+##MW= 470
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        634
+    57        400
+    67        323
+    69        334
+    79        266
+    81        313
+    91        146
+    95        266
+    97        266
+   105         90
+   107        100
+   109         82
+   111         70
+   119         66
+   121         70
+   130         68
+   132         90
+   133         78
+   134         86
+   145         34
+   147         40
+   149         50
+   151         87
+   152         34
+   159         40
+   161         40
+   163         46
+   165         40
+   175         40
+   177         86
+   179         63
+   191         66
+   201         28
+   205         30
+   206         30
+   233         50
+   245         30
+   288         66
+   289        110
+   290         34
+   302         46
+   303         66
+   304         27
+   314         20
+   315         20
+   316         20
+   329         73
+   330         33
+   345         33
+   357         45
+   358         30
+   359         46
+   371         34
+   372         33
+   385         32
+   386         30
+   427         56
+   442         70
+   452         10
+   455         66
+   470        114
+   471         38

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 19967
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,4,6-Tri-dodecyloxy-s-triazine
+##MOLFORM=C39H75N3O3
+##CAS REGISTRY NO=37163-54-5
+##MP= -300
+##BP= -300
+##MW= 633
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    55        999
+    57        980
+    69        768
+    71        681
+    83        394
+    97        219
+   113         82
+   130        950
+   131        329
+   144        381
+   156        437
+   158        329
+   170        340
+   184        109
+   198         66
+   212         56
+   226         54
+   242         26
+   254         26
+   268         26
+   282         26
+   298        817
+   312        191
+   326        129
+   340         66
+   354         55
+   368         48
+   382         26
+   394         26
+   407         37
+   408         38
+   422         32
+   424         10
+   436         38
+   448         10
+   450         27
+   466        589
+   467         97
+   492         33
+   506         86
+   520         65
+   534         77
+   548         65
+   562         66
+   576         59
+   590         43
+   604         38
+   618         10
+   633         32
+   634        119

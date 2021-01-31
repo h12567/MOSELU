@@ -1,0 +1,63 @@
+##TITLE=Library Entry 98779
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. White & R.E. Lyle, Dept. Chem., Univ. New Hampshire,
+ USA
+##NAMES=HP
+##CAS NAME=3-Pyridinecarbonitrile, 1,6-dihydro-1-methyl-6-(2-methylphenyl)-
+##MOLFORM=C14H14N2
+##CAS REGISTRY NO=27531-42-6
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    38         10
+    39         90
+    41         40
+    42        150
+    50         20
+    51         60
+    52         20
+    53         10
+    62         10
+    63         50
+    64         20
+    65         90
+    66         10
+    74         10
+    75         10
+    76         20
+    77         40
+    78         40
+    89         20
+    90         10
+    91         30
+    92         20
+   102         10
+   103         50
+   104         30
+   105         10
+   115         40
+   116         10
+   117         10
+   118         20
+   119        999
+   127         10
+   128         20
+   129         10
+   139         10
+   140         10
+   141         10
+   152         10
+   153         10
+   166         10
+   167         10
+   192         10
+   193         20
+   195         10
+   209         50
+   210         60
+   211         10

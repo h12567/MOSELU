@@ -1,0 +1,86 @@
+##TITLE=Library Entry 7777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=1-[t-Butyl]-3-[2-hydroxyethyl]-2-thiourea
+##MOLFORM=C7H16N2OS
+##CAS REGISTRY NO=29146-57-4
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    41        609
+    42        372
+    43        999
+    44        334
+    45        268
+    46         21
+    47          4
+    48          3
+    49          4
+    50          3
+    51          9
+    52          6
+    53         28
+    55        134
+    57        813
+    58        455
+    60        805
+    61         27
+    62        218
+    63          4
+    64          3
+    67          5
+    69        123
+    70         23
+    72        119
+    73         11
+    74         23
+    76        121
+    77        696
+    79         56
+    80          1
+    81          1
+    83         14
+    84         10
+    86         84
+    87        158
+    89        110
+    90         82
+    91          6
+    92         20
+    97          3
+    99         36
+   101        121
+   102         46
+   103         20
+   104         16
+   113          1
+   114          1
+   115         18
+   116         29
+   117         42
+   119         53
+   121         23
+   125          3
+   127          5
+   129          4
+   131        126
+   132         12
+   133         18
+   143         16
+   145         11
+   158        241
+   159         22
+   160         11
+   161          4
+   175         37
+   176        742
+   177         61
+   178         29
+   179          7

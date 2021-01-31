@@ -1,0 +1,52 @@
+##TITLE=Library Entry 50403
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A.HEDIN U.S. DEPT. AGRI., STATE COLL., MISS., USA
+##NAMES=HP
+##CAS NAME=3-Cyclohexen-1-ol, 2-(1,5-dimethyl-4-hexenyl)-4-methyl-
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=74810-24-5
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39         80
+    41        550
+    43        180
+    53        130
+    55        310
+    56        170
+    57        150
+    67        260
+    68        180
+    69        440
+    72        310
+    77        150
+    79        160
+    80        180
+    81        999
+    82        330
+    91        160
+    92        100
+    93        610
+    94        160
+    95        140
+   105        160
+   107        180
+   109        100
+   110         90
+   111        380
+   119        400
+   120         80
+   121        390
+   122        210
+   133         50
+   140         80
+   161         70
+   189         30
+   204        230
+   205         50
+   222         20

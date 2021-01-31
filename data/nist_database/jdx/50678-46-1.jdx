@@ -1,0 +1,53 @@
+##TITLE=Library Entry 79831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.GOLDBERG CHEM. PATH., NAT. HOSP., QUEEN SQ., LONDON,
+ UK
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-[benzoyl(2-chlorophenyl)amino]-3-methyl-
+##MOLFORM=C21H16ClNO3
+##CAS REGISTRY NO=50678-46-1
+##MP= -300
+##BP= -300
+##MW= 365
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    50         30
+    51        100
+    52         20
+    55         20
+    63         20
+    65         20
+    69         20
+    75         40
+    76         40
+    77        590
+    78         60
+    89         30
+   105        999
+   106         90
+   111         20
+   122         70
+   147         60
+   151         20
+   152         30
+   178         30
+   179         20
+   180         60
+   181         20
+   206         20
+   208        300
+   209         80
+   214         30
+   223         40
+   238         10
+   242         20
+   243        560
+   244         90
+   245        180
+   246         30
+   330        160
+   331         40
+   365         10

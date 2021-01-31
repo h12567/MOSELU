@@ -1,0 +1,74 @@
+##TITLE=Library Entry 6336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, V. 6, B. H. KENNETT
+ ET AL, DIV. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 2-pentenyl ester, (Z)-
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=74298-89-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26         25
+    27        295
+    28         80
+    29        252
+    38         17
+    39        198
+    40         73
+    41        735
+    42        180
+    43        999
+    44         39
+    45         20
+    51         22
+    53        121
+    54         40
+    55        188
+    56         51
+    57         80
+    58        502
+    59        135
+    60         68
+    61         14
+    65         16
+    66         32
+    67        196
+    68        426
+    69        383
+    70         71
+    71        450
+    72         27
+    73         42
+    81         20
+    82         12
+    83         23
+    84         15
+    85         71
+    86         16
+    87         19
+    94         19
+    95          9
+    96         12
+    97         34
+    98         15
+    99        641
+   100         51
+   110         15
+   112         16
+   115         13
+   116         11
+   117         30
+   127          9
+   128         10
+   141         11
+   142          7
+   155          7
+   168          5
+   169         17
+   184         15

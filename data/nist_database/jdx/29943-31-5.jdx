@@ -1,0 +1,66 @@
+##TITLE=Library Entry 12100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SELVA, C.N.R., IST. CHIM. POLITEC., MILAN, IT
+##NAMES=HP
+##CAS NAME=1-Phenylthio-1-acetoxy-1-methyl-2-propanone
+##MOLFORM=C12H14O3S
+##CAS REGISTRY NO=29943-31-5
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         50
+    18         20
+    27         10
+    28         30
+    39         50
+    41         10
+    42         20
+    43        999
+    44         20
+    45         50
+    50         30
+    51         80
+    52         10
+    58         30
+    59         30
+    60         10
+    63         10
+    65         70
+    66         20
+    69         30
+    74         10
+    75         10
+    76         10
+    77         60
+    78         10
+    82         10
+    83         10
+    84         10
+    89         10
+    90         10
+    91        290
+    92         20
+   108         10
+   109         70
+   110        180
+   111         90
+   112         10
+   121         10
+   134         60
+   135        400
+   136         50
+   137         40
+   152         90
+   153        140
+   154         20
+   155         10
+   178        130
+   179         30
+   180         10
+   195         40
+   238         10

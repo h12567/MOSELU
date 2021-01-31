@@ -1,0 +1,76 @@
+##TITLE=Library Entry 3119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Butenal, 2,3-dimethyl-, diethylhydrazone
+##MOLFORM=C10H20N2
+##CAS REGISTRY NO=25290-27-1
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    29        420
+    30        309
+    31         25
+    39        210
+    40         37
+    41        999
+    42        407
+    43        185
+    44        395
+    51         34
+    52         28
+    53        160
+    54         67
+    55        167
+    56        309
+    57        185
+    58        962
+    59         78
+    65         44
+    67        210
+    68         79
+    69        370
+    70        148
+    71         44
+    72        333
+    73         49
+    74        111
+    79         76
+    80         84
+    81        346
+    82         93
+    83         56
+    84        186
+    85         42
+    86         62
+    87         85
+    94        185
+    95        197
+    96        827
+    97        407
+    98         80
+   108         41
+   109         58
+   110         99
+   111        259
+   112        173
+   113          6
+   122         42
+   123         48
+   124        111
+   125         69
+   136         27
+   137         27
+   138         99
+   139        481
+   140         53
+   153        333
+   154         34
+   168        839
+   169         99

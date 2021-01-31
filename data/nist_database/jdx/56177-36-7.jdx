@@ -1,0 +1,37 @@
+##TITLE=Library Entry 35878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(1)33(1975); T. GRAAFLAND
+##NAMES=HP
+##CAS NAME=Methanesulfonic acid, trifluoro-, [(4-nitrophenyl)sulfonyl]methyl
+ ester
+##MOLFORM=C8H6F3NO7S2
+##CAS REGISTRY NO=56177-36-7
+##MP= -300
+##BP= -300
+##MW= 349
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    36        140
+    43        170
+    44        330
+    48        210
+    50        190
+    64        600
+    69        999
+    75        190
+    76        240
+    92        100
+    99        650
+   106         77
+   122        220
+   163        200
+   170        170
+   186        340
+   255         93
+   285         89
+   319        220
+   320         20
+   349         59

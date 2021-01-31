@@ -1,0 +1,58 @@
+##TITLE=Library Entry 73327
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.Dziwinski ET AL. J.Chromatogr.,367,201(1986)
+##NAMES=HP
+##CAS NAME=Benzyl propyl maleate
+##MOLFORM=C14H16O4
+##CAS REGISTRY NO=105113-85-7
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39         89
+    41        149
+    43        346
+    51         68
+    53         29
+    54         85
+    55        179
+    56         12
+    63         29
+    65        175
+    71         12
+    72         98
+    73          8
+    78         17
+    79        106
+    81         17
+    82        158
+    89         51
+    90        102
+    91        970
+    92         85
+    99        273
+   100        999
+   101         59
+   105         25
+   107         85
+   108         12
+   115         17
+   116          8
+   117         29
+   133         12
+   141         42
+   142        363
+   143         42
+   144         21
+   161         42
+   162         17
+   188         17
+   189         34
+   203         25
+   204         12
+   248         21
+   249         12

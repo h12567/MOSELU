@@ -1,0 +1,61 @@
+##TITLE=Library Entry 1081
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Amino-2,2-dimethyl-1-propanol
+##MOLFORM=C5H13NO
+##CAS REGISTRY NO=26734-09-8
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    15          7
+    18         61
+    19          1
+    26          4
+    27         48
+    28         71
+    29         80
+    30        999
+    31         79
+    32         13
+    37          2
+    38          8
+    39         71
+    40         17
+    41        199
+    42         25
+    43         44
+    44         23
+    45         22
+    46          7
+    48         41
+    50          3
+    51          5
+    52          5
+    53         19
+    54         14
+    55        149
+    56        360
+    57         68
+    58         23
+    59          1
+    60          1
+    61          1
+    67          2
+    68          4
+    69          1
+    70         37
+    71         19
+    72         54
+    73         22
+    74          1
+    84          2
+    85         31
+    86          8
+    99          1
+   103          5

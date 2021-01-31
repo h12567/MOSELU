@@ -1,0 +1,36 @@
+##TITLE=Library Entry 114310
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,1-Dithiophenyl-2-phenyl-cyclobutane
+##MOLFORM=C22H20S2
+##CAS REGISTRY NO=122732-92-7
+##MP= -300
+##BP= -300
+##MW= 348
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    45        119
+    51        121
+    65        128
+    71        140
+    77        140
+    91        420
+   105        208
+   109        119
+   115        179
+   123        161
+   127         99
+   128        348
+   129        999
+   130        171
+   135        118
+   161        168
+   239        509
+   240        109
+   348        218
+   349         50
+   350         30

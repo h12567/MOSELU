@@ -1,0 +1,52 @@
+##TITLE=Library Entry 26730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. UTILIZATION R & D DIV., U.S. DEPT. OF AGRIC., ALBANY
+, CAL.
+##NAMES=HP
+##CAS NAME=Propanethioic acid, S-(1-methylethyl) ester
+##MOLFORM=C6H12OS
+##CAS REGISTRY NO=2432-47-5
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=889
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         92
+    28         33
+    29        248
+    30          7
+    35          4
+    39         61
+    40          9
+    41        190
+    42         30
+    43        263
+    44          7
+    45         23
+    46          5
+    47         27
+    49          7
+    55          9
+    56         46
+    57        999
+    58         49
+    59         50
+    60         21
+    61         40
+    71          6
+    72         27
+    73          7
+    74         45
+    75         22
+    76          8
+    89          4
+    90         50
+    91         14
+   103          4
+   117          2
+   132        275
+   133         15
+   134         13

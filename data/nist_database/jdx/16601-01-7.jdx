@@ -1,0 +1,32 @@
+##TITLE=Library Entry 17434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=S-Benzyl benzenesulfonothioate  #
+##MOLFORM=C13H12O2S2
+##CAS REGISTRY NO=16601-01-7
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    45        999
+    50        138
+    51        550
+    63         89
+    65        279
+    77        712
+    78        139
+    79         90
+    91        980
+    92         79
+    97         29
+   121        129
+   122        621
+   123        579
+   124         79
+   125         50
+   264          4

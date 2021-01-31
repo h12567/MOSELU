@@ -1,0 +1,70 @@
+##TITLE=Library Entry 9542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Glucose propylglycoside tetraacetate
+##MOLFORM=C17H26O10
+##CAS REGISTRY NO=6802-30-8
+##MP= -300
+##BP= -300
+##MW= 390
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         32
+    42         20
+    43        999
+    44         52
+    45         16
+    55          8
+    57         16
+    60         28
+    61         16
+    69         48
+    70         44
+    71         16
+    73         36
+    80          8
+    81        128
+    82          8
+    85         32
+    86         12
+    97         36
+    98         84
+    99         36
+   101          8
+   102        100
+   103         60
+   109         44
+   112         68
+   113         16
+   115        112
+   116         20
+   126          8
+   127         28
+   128          8
+   131         16
+   139         16
+   140         48
+   141         52
+   143          8
+   144         44
+   145         60
+   155         12
+   157        100
+   158         20
+   169         52
+   170          8
+   182          8
+   197         16
+   199         12
+   200         36
+   201          8
+   211          8
+   228          8
+   242         20
+   243         32
+   271          8

@@ -1,0 +1,75 @@
+##TITLE=Library Entry 62001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=7-Ethylidenebicyclo[4.2.1]nona-2,4-diene
+##MOLFORM=C11H14
+##CAS REGISTRY NO=94400-10-9
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    26         14
+    27        170
+    29         25
+    38         20
+    39        280
+    40         48
+    41        140
+    42          7
+    50         50
+    51        140
+    52         52
+    53        130
+    54         14
+    55         35
+    62         22
+    63         83
+    64         38
+    65        190
+    66         44
+    67        170
+    68        160
+    69         15
+    71         36
+    74         10
+    75         17
+    76         14
+    77        220
+    78        120
+    79        240
+    80         40
+    81         16
+    89         35
+    90          8
+    91        999
+    92        420
+    93         50
+   102         19
+   103        100
+   104        130
+   105        470
+   106         47
+   115        260
+   116        190
+   117        660
+   118        120
+   119         27
+   127         28
+   128         83
+   129        130
+   130         61
+   131        880
+   132         99
+   133          5
+   143          8
+   144          5
+   145        110
+   146        740
+   147         96
+   148          5

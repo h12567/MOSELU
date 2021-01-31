@@ -1,0 +1,55 @@
+##TITLE=Library Entry 41322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. D. HENION, CORNELL UNIVERSITY, ITHACA, NY, USA
+##NAMES=HP
+##CAS NAME=Fenoprofen, TMS derivative
+##MOLFORM=C18H22O3Si
+##CAS REGISTRY NO=74810-90-5
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         19
+    43         14
+    45         78
+    47         30
+    51         40
+    61         15
+    63         13
+    65         35
+    73        999
+    74         94
+    75        161
+    76         26
+    77         92
+    78         32
+    89         12
+    91         39
+   102         14
+   103         43
+   104         83
+   105         14
+   115         13
+   117         10
+   151         13
+   152         11
+   153         13
+   165         11
+   167         16
+   179         11
+   181         12
+   195         11
+   196         26
+   197         17
+   255         12
+   269         12
+   270         74
+   271         20
+   299         52
+   300         14
+   314         90
+   315         21

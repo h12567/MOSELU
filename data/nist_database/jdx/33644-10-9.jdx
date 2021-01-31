@@ -1,0 +1,48 @@
+##TITLE=Library Entry 69175
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MYCOTOXINS MASS SPECTRAL DATA BANK, L.R. DUSOLD ET AL,
+ FDA, USA
+##NAMES=HP
+##CAS NAME=Furo[3,4-b]furan-2,6(3H,4H)-dione, 4-ethyldihydro-3-methylene-, [
+3aR-(3a.alpha.,4.beta.,6a.alpha.)]-
+##MOLFORM=C9H10O4
+##CAS REGISTRY NO=33644-10-9
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    38         81
+    39        810
+    40        423
+    41        522
+    42         54
+    43         54
+    44         54
+    50        135
+    51        211
+    52        166
+    53        995
+    54         76
+    55         81
+    57        319
+    58         49
+    65         58
+    66         58
+    67        211
+    68        653
+    69        319
+    77         67
+    79        238
+    81        554
+    82         90
+    95        148
+    96        999
+    97        171
+   109        873
+   110        189
+   125         99
+   138         49

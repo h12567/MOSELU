@@ -1,0 +1,58 @@
+##TITLE=Library Entry 11002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Furanethanol, .alpha.-methyl-, acetate
+##MOLFORM=C9H12O3
+##CAS REGISTRY NO=102422-76-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    26          8
+    27        102
+    29         21
+    31          5
+    36          5
+    37          7
+    38          7
+    39         70
+    40          6
+    41         45
+    42         17
+    43        999
+    44         37
+    45         27
+    50         19
+    51         39
+    52         28
+    53        125
+    54         15
+    55         15
+    57          9
+    63          8
+    65         11
+    66         23
+    67          9
+    68         10
+    69         10
+    77         36
+    78          8
+    79        158
+    80         50
+    81        275
+    82         86
+    83         19
+    87         16
+    94         11
+   105          5
+   107         44
+   108        486
+   109         75
+   110          8
+   124         10
+   125         10

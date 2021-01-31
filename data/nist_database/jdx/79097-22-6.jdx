@@ -1,0 +1,36 @@
+##TITLE=Library Entry 24458
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20(6); 1315(1981); ANIMESH GOSWAMI
+##NAMES=HP
+##CAS NAME=Pentatriacontan-3-one
+##MOLFORM=C35H70O
+##CAS REGISTRY NO=79097-22-6
+##MP= -300
+##BP= -300
+##MW= 506
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    29        170
+    43        830
+    57        999
+    72         60
+    85        330
+    99        110
+   113        110
+   127         80
+   129        280
+   141         60
+   155         60
+   169         60
+   183         60
+   185        110
+   197         60
+   211         60
+   225         60
+   239         60
+   253         60
+   477        330
+   506        110

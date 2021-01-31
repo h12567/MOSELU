@@ -1,0 +1,35 @@
+##TITLE=Library Entry 76052
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Flavors and Fragrances (Eds.B.Lawrence ET AL.),1986
+##NAMES=HP
+##CAS NAME=Methyl 2-ethyldecanoate
+##MOLFORM=C13H26O2
+##CAS REGISTRY NO=20483-47-0
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        170
+    42         27
+    43        149
+    44         28
+    55        157
+    56         20
+    57        104
+    59         66
+    69         74
+    71         37
+    73         25
+    83         26
+    87        528
+   101         53
+   102        999
+   103         32
+   115        229
+   143         37
+   157         52
+   185         29

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 68394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=N-{[(Furan-2-ylformamido)methanethioyl]amino}pyridine-4-carboxami
+de
+##MOLFORM=C12H10N4O3S
+##CAS REGISTRY NO=96715-02-5
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    37         26
+    38         68
+    39        232
+    40         16
+    41          6
+    43          3
+    44         21
+    45          8
+    50         90
+    51        240
+    52         25
+    53          8
+    59         16
+    60         32
+    66          4
+    67         27
+    68         10
+    73          8
+    75          5
+    76          4
+    78        274
+    79         65
+    83          4
+    86          6
+    95        999
+    96         61
+    97         11
+    98         11
+   100          8
+   106        348
+   107         46
+   111         11
+   112         47
+   122         32
+   123         38
+   125          6
+   126         36
+   137         40
+   148          3
+   154         90
+   158          4
+   163         23
+   168         19
+   169          6
+   173         11
+   179          4
+   180         11
+   234          6
+   257         86
+   258         12
+   262         12
+   273          6
+   290        299
+   291         40
+   292         11

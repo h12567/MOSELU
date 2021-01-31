@@ -1,0 +1,36 @@
+##TITLE=Library Entry 49326
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.I. Komendantov, A.A. Zhdanov Leningrad State Univ., L
+eningrad, USSR
+##NAMES=HP
+##CAS NAME=Cyclopentanespiro-2'-bicyclo[1.1.0]butane-4'-spirocyclopentane
+##MOLFORM=C12H18
+##CAS REGISTRY NO=114310-66-6
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        220
+    53        110
+    65        100
+    67        260
+    77        230
+    79        999
+    80        360
+    91        490
+    92        160
+    93        430
+    94        720
+    95        130
+   105        190
+   119        230
+   120        120
+   121        100
+   133        360
+   134        120
+   162        730
+   163         96

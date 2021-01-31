@@ -1,0 +1,52 @@
+##TITLE=Library Entry 97749
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Naphthalen-1,4-imine-9-carboxylic acid, 1,2,3,4-tetrahydro-, ethy
+l ester
+##MOLFORM=C13H15NO2
+##CAS REGISTRY NO=67461-29-4
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    50        120
+    51        260
+    52         60
+    55         49
+    56         59
+    57         61
+    61        148
+    62         90
+    63        220
+    64         70
+    65         89
+    69        120
+    70         69
+    73         59
+    74         60
+    75         89
+    76         68
+    77        149
+    78         69
+    87         49
+    88         59
+    89        248
+    90        187
+    91         99
+   101         59
+   102         99
+   103         49
+   115        221
+   116        269
+   117        999
+   118        120
+   144         60
+   145         60
+   189         40
+   217        289
+   218         50

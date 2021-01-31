@@ -1,0 +1,39 @@
+##TITLE=Library Entry 53251
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.W.ROESKY INORG CHEM INST, UNIV., GOTTINGEN, GERMANY,
+ F.R.G
+##NAMES=HP
+##CAS NAME=Sulfamoyl fluoride, (1-chloro-2,2,2-trifluoroethylidene)-
+##MOLFORM=C2ClF4NO2S
+##CAS REGISTRY NO=28011-03-2
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    31         59
+    32         21
+    35         21
+    37          5
+    48        113
+    50         59
+    51         27
+    61         21
+    63          8
+    64        113
+    67        394
+    69        794
+    76        232
+    83        999
+    85        421
+    87         81
+   144        832
+   146        729
+   178        518
+   194         16
+   196          5
+   213         81
+   215         27

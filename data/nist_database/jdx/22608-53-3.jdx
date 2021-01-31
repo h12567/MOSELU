@@ -1,0 +1,37 @@
+##TITLE=Library Entry 109197
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTECATINI EDISON RES. CENTRE, MILAN, ITALY
+##NAMES=HP
+##CAS NAME=Phosphorodithioic acid, O,S,S-trimethyl ester
+##MOLFORM=C3H9O2PS2
+##CAS REGISTRY NO=22608-53-3
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    15         81
+    31         59
+    44        101
+    45        398
+    46        241
+    47        893
+    48        277
+    61         68
+    62        130
+    63         50
+    64         29
+    77         38
+    79        971
+    94        146
+    95         65
+   111         20
+   125        999
+   126        448
+   141        135
+   142         68
+   157        125
+   172        598

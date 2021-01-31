@@ -1,0 +1,66 @@
+##TITLE=Library Entry 3264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Propen-1-amine, N-2-propenyl-
+##MOLFORM=C6H11N
+##CAS REGISTRY NO=124-02-7
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=660
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          9
+    25          2
+    26         28
+    27         82
+    28        238
+    29         31
+    30         85
+    31          1
+    37         18
+    38         47
+    39        430
+    40         56
+    41        999
+    42        170
+    43        109
+    44          9
+    46          3
+    50          3
+    51         11
+    52         32
+    53         22
+    54        152
+    55         82
+    56        263
+    57         16
+    58          1
+    62          1
+    63          2
+    64          2
+    65         14
+    66          5
+    67         76
+    68        766
+    69        103
+    70        706
+    71         34
+    77         16
+    78          3
+    79         33
+    80         91
+    81         62
+    82        607
+    83         34
+    92          1
+    93          4
+    94         52
+    95          6
+    96        228
+    97        170
+    98         16

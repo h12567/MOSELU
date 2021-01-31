@@ -1,0 +1,50 @@
+##TITLE=Library Entry 249
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,4-Dioxane
+##MOLFORM=C4H8O2
+##CAS REGISTRY NO=123-91-1
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=675
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14         30
+    15         91
+    16          4
+    17          1
+    18          2
+    19          3
+    24          1
+    26         96
+    27        190
+    28        999
+    29        410
+    30        145
+    31        191
+    32          5
+    39          4
+    40          2
+    41          9
+    42         35
+    43        171
+    44         68
+    45         60
+    46          1
+    55          2
+    57        131
+    58        408
+    59         20
+    60          1
+    61          1
+    69          1
+    87         61
+    88        520
+    89         22
+    90          3

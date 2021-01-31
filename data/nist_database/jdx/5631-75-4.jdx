@@ -1,0 +1,63 @@
+##TITLE=Library Entry 65465
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DR. C. C. VAN DE SANDE, STATE UNIVERSITY OF GENT, BELGI
+UM
+##NAMES=HP
+##CAS NAME=4H-1-Benzopyran-4-one, 2,3-dihydro-2-methyl-
+##MOLFORM=C10H10O2
+##CAS REGISTRY NO=5631-75-4
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    37         48
+    38        162
+    39        370
+    40         42
+    41        130
+    42         38
+    43         38
+    50         12
+    51         90
+    52         22
+    53         85
+    55         19
+    61         35
+    62        110
+    63        390
+    64        370
+    65        195
+    66         39
+    69         23
+    74         49
+    75         40
+    76         55
+    77         69
+    78         18
+    79         10
+    89         40
+    90         35
+    91         70
+    92        999
+    93        115
+    94         26
+   113         10
+   114         10
+   115         26
+   117         10
+   118         10
+   119         17
+   120        530
+   121        152
+   122         13
+   133         20
+   134         13
+   147        110
+   148         12
+   161         10
+   162        140
+   163         20

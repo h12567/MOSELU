@@ -1,0 +1,45 @@
+##TITLE=Library Entry 67240
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.A.PAWSON HOFFMANN-LA ROCHE INC., NUTLEY, NEW JERSEY,
+ USA
+##NAMES=HP
+##CAS NAME=3-Cyclohexene-1-ethanol, .beta.,4-dimethyl-, [R-(R*,R*)]-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=13835-30-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        270
+    43        100
+    53        120
+    55        190
+    65         50
+    67        350
+    68        380
+    69         90
+    77        140
+    79        430
+    80        100
+    81        380
+    91        180
+    92        130
+    93        800
+    94        999
+    95        630
+    96         70
+   105         70
+   107        660
+   108        150
+   121        790
+   122        110
+   123        450
+   124         50
+   136        510
+   137         60
+   154        660
+   155         80

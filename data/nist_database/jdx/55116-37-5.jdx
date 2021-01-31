@@ -1,0 +1,37 @@
+##TITLE=Library Entry 40141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Acetamide, N-(1-benzoylethyl)-N-ethyl-
+##MOLFORM=C13H17NO2
+##CAS REGISTRY NO=55116-37-5
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    51        153
+    56         53
+    69        135
+    70         91
+    72        999
+    73         51
+    76         40
+    77        258
+    78         58
+    79         48
+    86         43
+    87         60
+    89         44
+   105         81
+   106         25
+   114        408
+   130         20
+   133         21
+   134         19
+   155         14
+   156         14
+   160         14

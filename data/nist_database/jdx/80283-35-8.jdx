@@ -1,0 +1,55 @@
+##TITLE=Library Entry 48943
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. FONT, DEP. QUIM. ORG., UNIV. AUTONOMA BARCELONA, SPA
+IN
+##NAMES=HP
+##CAS NAME=Dimethyl (2Z-E,4E)-6,6-ethylenedioxy-2-methyl-2,4-heptadienylphos
+phonate
+##MOLFORM=C12H21O5P
+##CAS REGISTRY NO=80283-35-8
+##MP= -300
+##BP= -300
+##MW= 276
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    39        120
+    41        100
+    43        710
+    55        110
+    65        130
+    67        130
+    73        160
+    77        310
+    79        999
+    80        300
+    87        840
+    91        300
+    93        390
+    94        300
+    95        250
+    99        200
+   105        280
+   107        440
+   109        560
+   110        170
+   118        360
+   119        130
+   121        180
+   122        390
+   123        140
+   124        140
+   133        190
+   136        150
+   151        430
+   153        130
+   166        330
+   167        120
+   189        500
+   214        300
+   215        130
+   217        330
+   261        250
+   276        200

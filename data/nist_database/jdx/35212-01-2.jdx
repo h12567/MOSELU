@@ -1,0 +1,59 @@
+##TITLE=Library Entry 58733
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Yinon ET AL. Biomed. Mass Spectrom.,11,594(1984)
+##NAMES=HP
+##CAS NAME=4,4',6,6'-Tetranitro-2,2'-azoxytoluene
+##MOLFORM=C14H10N6O9
+##CAS REGISTRY NO=35212-01-2
+##MP= -300
+##BP= -300
+##MW= 406
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    86         34
+    87         92
+    88        129
+    89        999
+    90        178
+    91        135
+    92        135
+    93        145
+    94        108
+    95         43
+    96         18
+   102         18
+   103         62
+   104         83
+   105         55
+   106         52
+   107         46
+   108         31
+   109         28
+   118         12
+   119         22
+   120         40
+   121         25
+   122         18
+   134         49
+   135         40
+   149         31
+   164         34
+   165         22
+   166        120
+   180         55
+   181         62
+   194         22
+   195         22
+   197         22
+   210         58
+   371         28
+   372         40
+   373         25
+   389        194
+   390         40
+   391        311
+   392         43
+   406         71

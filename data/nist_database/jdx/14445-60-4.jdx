@@ -1,0 +1,38 @@
+##TITLE=Library Entry 15973
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phosphorocyanidic diamide, tetramethyl-
+##MOLFORM=C5H12N3OP
+##CAS REGISTRY NO=14445-60-4
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=1246
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    28         90
+    29         20
+    41         30
+    42        219
+    43         79
+    44        999
+    45        118
+    47         61
+    58         41
+    70         30
+    71         30
+    76         30
+    90         51
+    91         50
+    92        299
+    93         30
+   108         20
+   117        210
+   118         30
+   135         40
+   160         30
+   161        140
+   162         20

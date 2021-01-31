@@ -1,0 +1,62 @@
+##TITLE=Library Entry 18307
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Mecrylate
+##MOLFORM=C5H5NO2
+##CAS REGISTRY NO=137-05-3
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          5
+    15         89
+    24          5
+    25         24
+    26         73
+    27         17
+    29         77
+    30         18
+    31         51
+    32          2
+    36          5
+    37         21
+    38         26
+    39         36
+    40         19
+    41         31
+    42         14
+    43          7
+    44         18
+    45        103
+    50         40
+    51        309
+    52        999
+    53        189
+    54         42
+    55         73
+    56         11
+    59        619
+    60         14
+    61          3
+    64          3
+    65          4
+    66        379
+    67         48
+    68         17
+    78          4
+    79          4
+    80        751
+    81         64
+    82         24
+    83        274
+    84         17
+    93         13
+   105          2
+   110         71
+   111         60
+   112          5

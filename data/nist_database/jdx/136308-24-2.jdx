@@ -1,0 +1,49 @@
+##TITLE=Library Entry 109305
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Plaziak ET AL. Org.Mass Spectrom.,26,849 (1991)
+##NAMES=HP
+##CAS NAME=1-Methyl-4-n-propylaminocytosine
+##MOLFORM=C8H13N3O
+##CAS REGISTRY NO=136308-24-2
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    53         82
+    54        210
+    55        167
+    56        179
+    57         15
+    58         70
+    66         35
+    67         46
+    68         78
+    69         74
+    70         97
+    79         27
+    80         78
+    81        332
+    82        367
+    83        500
+    84         46
+    95        742
+    96        125
+    97         39
+   109        242
+   110         93
+   124         39
+   125        999
+   126         70
+   136         35
+   137         15
+   138        742
+   139        234
+   152        414
+   153         19
+   166         70
+   167        582
+   168         66

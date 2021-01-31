@@ -1,0 +1,68 @@
+##TITLE=Library Entry 20038
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=10-Dodecenol
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=35237-63-9
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1478
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    39        156
+    40          4
+    41        646
+    42        156
+    43        117
+    44          3
+    52          7
+    53         78
+    54        323
+    55        999
+    56        147
+    57        107
+    58          4
+    65          4
+    66         49
+    67        441
+    68        696
+    69        431
+    70         29
+    71         19
+    72          1
+    80         38
+    81        382
+    82        411
+    83        127
+    84         39
+    85          2
+    94         22
+    95        225
+    96        186
+    97         88
+    98         10
+   108          7
+   109         78
+   110         98
+   111         12
+   122          6
+   123         58
+   124         39
+   125         19
+   126          2
+   136          2
+   137         29
+   138         39
+   139          4
+   140         19
+   141          2
+   166         49
+   167         19
+   168          2
+   183          2
+   184         29
+   185          3

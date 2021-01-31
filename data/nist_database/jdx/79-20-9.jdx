@@ -1,0 +1,40 @@
+##TITLE=Library Entry 9262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Acetic acid, methyl ester
+##MOLFORM=C3H6O2
+##CAS REGISTRY NO=79-20-9
+##MP= -300
+##BP= -300
+##MW= 74
+##$RETENTION INDEX=526
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         12
+    15         65
+    16          1
+    25          1
+    26          4
+    27          4
+    29         68
+    30          9
+    31         19
+    33          1
+    40          2
+    41         15
+    42        125
+    43        999
+    44         36
+    45         18
+    56          1
+    59        112
+    60          3
+    73          2
+    74        253
+    75         10
+    76          1

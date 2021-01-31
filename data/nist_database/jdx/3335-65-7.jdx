@@ -1,0 +1,32 @@
+##TITLE=Library Entry 58358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S. Chizhov, N.D. Zelinskii Inst. Org. Chem., Acad. Sc
+i., Moscow, USSR
+##NAMES=HP
+##CAS NAME=2-Butanamine, N-nitro-
+##MOLFORM=C4H10N2O2
+##CAS REGISTRY NO=3335-65-7
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    30        103
+    39        131
+    41        337
+    42        227
+    43        200
+    44        275
+    45        123
+    46         51
+    55        138
+    56        270
+    57        120
+    59        687
+    72        146
+    89        999
+   103         51
+   118          5

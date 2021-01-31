@@ -1,0 +1,87 @@
+##TITLE=Library Entry 76742
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6161
+##NAMES=HP
+##CAS NAME=Benzenemethanamine, 2-methyl-
+##MOLFORM=C8H11N
+##CAS REGISTRY NO=89-93-0
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    15          3
+    16          1
+    26          3
+    27         23
+    28         77
+    29         17
+    30        178
+    31          3
+    37          5
+    38         12
+    39         63
+    40          7
+    41         14
+    42          7
+    43          3
+    44          3
+    45          3
+    46          6
+    47          1
+    49          2
+    50         20
+    51         47
+    52         16
+    53         15
+    54          6
+    55          2
+    56          1
+    57          3
+    58         10
+    59         28
+    60          4
+    61          6
+    62         12
+    63         33
+    64          9
+    65         56
+    66          8
+    67          3
+    68          1
+    73          2
+    74          7
+    75          6
+    76          6
+    77        119
+    78         89
+    79         83
+    80          9
+    85          1
+    86          3
+    87          2
+    88          1
+    89         23
+    90         15
+    91        139
+    92         34
+    93        119
+    94         10
+    98          1
+   101          1
+   102          9
+   103         87
+   104        999
+   105        159
+   106        127
+   107          9
+   116         10
+   117         26
+   118         27
+   119         11
+   120        147
+   121         64
+   122          5

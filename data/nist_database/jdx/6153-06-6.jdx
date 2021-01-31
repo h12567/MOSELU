@@ -1,0 +1,44 @@
+##TITLE=Library Entry 50434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2-Penten-4-yn-1-ol, 3-methyl-, (E)-
+##MOLFORM=C6H8O
+##CAS REGISTRY NO=6153-06-6
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    31         15
+    39        620
+    40         40
+    41        735
+    42         35
+    43        260
+    44         15
+    50         75
+    51        105
+    52         55
+    53        660
+    54         40
+    57        155
+    58         50
+    63        160
+    64         20
+    65        230
+    66         20
+    67        530
+    68        205
+    69         20
+    77        160
+    78        100
+    81        999
+    82         85
+    95        865
+    96        600
+    97         37
+    98          1

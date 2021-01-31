@@ -1,0 +1,75 @@
+##TITLE=Library Entry 85090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Inst.Petrochem.Synth.,RAS,Moscow
+##NAMES=HP
+##CAS NAME=Bromoacetic acid, 2-methylphenyl ester
+##MOLFORM=C9H9BrO2
+##CAS REGISTRY NO=63353-49-1
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         31
+    27         39
+    28          2
+    29         16
+    39         94
+    40         15
+    41         42
+    42         51
+    43         28
+    54          4
+    55          9
+    57          9
+    60          2
+    61          5
+    62         10
+    63         26
+    64         13
+    65         30
+    66          5
+    67          4
+    68          3
+    69         10
+    70          3
+    73         14
+    74         13
+    75         18
+    76          8
+    77        150
+    78         97
+    81         14
+    82         12
+    83         13
+    85          2
+    89          5
+    90         42
+    91         49
+    92          9
+    96          3
+    97          2
+    99         11
+   100          3
+   101          8
+   103          2
+   104          2
+   105         10
+   106         10
+   107        162
+   108        999
+   109         84
+   110          9
+   120          5
+   121         34
+   122          5
+   123         39
+   126          2
+   228         32
+   229          4
+   230         39
+   231          4

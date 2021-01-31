@@ -1,0 +1,61 @@
+##TITLE=Library Entry 9440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.ECKHARDT ORG. CHEM. INST., UNIV. OF BONN, BONN, F.R.G
+##NAMES=HP
+##CAS NAME=Tricyclo[3.3.1.1(3,7)]decanone, 4-(acetyloxy)-, (1.alpha.,3.beta.
+,4.alpha.,5.alpha.,7.beta.)-
+##MOLFORM=C12H16O3
+##CAS REGISTRY NO=56782-73-1
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    40        433
+    41        272
+    42         56
+    43        999
+    44        228
+    53        106
+    54         50
+    55        183
+    57         67
+    65         67
+    66        111
+    67        189
+    68         50
+    70        106
+    71         67
+    77        161
+    78        472
+    79        800
+    80        211
+    81        122
+    83         78
+    91        250
+    92        250
+    93        128
+    94         89
+    95        133
+    96        467
+    97         72
+   104         78
+   105        122
+   106         78
+   107         67
+   109        106
+   119        106
+   120        550
+   121        111
+   123        122
+   137         83
+   138        350
+   148        456
+   149         61
+   165        594
+   166        672
+   167         78
+   208        362

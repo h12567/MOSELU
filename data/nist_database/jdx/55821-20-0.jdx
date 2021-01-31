@@ -1,0 +1,37 @@
+##TITLE=Library Entry 35025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4-Dioxabicyclo[3.2.1]octane, 6,7-dimethyl-3-(4-nitrophenyl)-
+##MOLFORM=C14H17NO4
+##CAS REGISTRY NO=55821-20-0
+##MP= -300
+##BP= -300
+##MW= 263
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        450
+    43        150
+    51        100
+    55        739
+    59        190
+    67        160
+    68        170
+    69        999
+    70        160
+    77        130
+    79        100
+    81        170
+    83        270
+    95        699
+    97        160
+   100        170
+   107        170
+   150        170
+   163        150
+   179        210
+   262        190
+   263        350

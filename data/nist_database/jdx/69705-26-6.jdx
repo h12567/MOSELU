@@ -1,0 +1,33 @@
+##TITLE=Library Entry 35612
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Q.C. MIR, 2330, S KEARNEY 217, DENVER, COLO., US
+##NAMES=HP
+##CAS NAME=(2-Bromo-3,3,3-trifluoro-1-propenyl)pentafluorosulfur
+##MOLFORM=C3HBrF8S
+##CAS REGISTRY NO=69705-26-6
+##MP= -300
+##BP= -300
+##MW= 300
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    31        120
+    51        250
+    69        999
+    70        140
+    75        300
+    89        520
+    93         90
+    94         90
+   113        270
+   127        300
+   173        490
+   175        490
+   192        290
+   194        290
+   281         80
+   283         80
+   300        300
+   302        300

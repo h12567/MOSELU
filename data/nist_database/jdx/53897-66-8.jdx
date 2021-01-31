@@ -1,0 +1,71 @@
+##TITLE=Library Entry 58285
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Disulfide, methyl 1-(methylthio)propyl
+##MOLFORM=C5H12S3
+##CAS REGISTRY NO=53897-66-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1265
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27          6
+    29          4
+    35          4
+    37          2
+    38          3
+    39         48
+    40          4
+    41        389
+    42         14
+    44          3
+    45        152
+    46         35
+    47         81
+    48         11
+    49         62
+    50          1
+    51          3
+    53          3
+    55         20
+    56          9
+    57          3
+    59         24
+    60          5
+    61        243
+    62          7
+    63          9
+    64         28
+    65          4
+    66          3
+    69          7
+    70          2
+    71         23
+    72         13
+    73        104
+    74         33
+    75          8
+    76          6
+    77          6
+    78          3
+    79         92
+    80          9
+    81         12
+    87          3
+    88         10
+    89        999
+    90         48
+    91         53
+    92          6
+    93          5
+    94          3
+   111          2
+   121          9
+   132          2
+   139          6
+   168          5
+   170          1

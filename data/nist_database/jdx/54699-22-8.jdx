@@ -1,0 +1,55 @@
+##TITLE=Library Entry 23756
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Propane, 1-[[[(1,1-dimethylethyl)thio]methyl]thio]-2,2-dimethyl-
+##MOLFORM=C10H22S2
+##CAS REGISTRY NO=54699-22-8
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        290
+    42         10
+    43        220
+    45         70
+    46         20
+    47         40
+    51         10
+    53         20
+    55         70
+    56         40
+    57        999
+    58         50
+    59         20
+    60         10
+    61         70
+    69         10
+    70         50
+    71        230
+    72         10
+    73         10
+    78         30
+    79         10
+    80         20
+    94         90
+   101         20
+   103        210
+   104         30
+   105         10
+   116         10
+   117        250
+   118         30
+   119         20
+   135         10
+   149         10
+   150         80
+   151         10
+   206        220
+   207         20
+   208         10

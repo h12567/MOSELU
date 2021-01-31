@@ -1,0 +1,48 @@
+##TITLE=Library Entry 15373
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Cohen, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=4-Fluorohistamine
+##MOLFORM=C5H8FN3
+##CAS REGISTRY NO=49872-60-8
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41         68
+    42         69
+    43        171
+    44        999
+    45        100
+    46         80
+    50          7
+    51         28
+    52         22
+    53         10
+    54         11
+    55         39
+    56         17
+    57         38
+    58         24
+    59         18
+    60        141
+    67          6
+    69         19
+    70         15
+    71          7
+    72          8
+    73         41
+    74         18
+    77         51
+    78         74
+    81         17
+    97          6
+    99         97
+   100        113
+   101          7
+   129         27
+   130          6

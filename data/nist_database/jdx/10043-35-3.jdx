@@ -1,0 +1,39 @@
+##TITLE=Library Entry 17136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Boric acid
+##MOLFORM=BH3O3
+##CAS REGISTRY NO=10043-35-3
+##MP= -300
+##BP= -300
+##MW= 62
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    22          0
+    26          2
+    27         18
+    28         39
+    29          1
+    39          0
+    41          0
+    42          4
+    43         54
+    44        552
+    45        999
+    46          3
+    47          6
+    51          0
+    53          0
+    55          0
+    56          0
+    57          1
+    59          0
+    60          1
+    61        225
+    62        826
+    63         16
+    64          5

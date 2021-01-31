@@ -1,0 +1,71 @@
+##TITLE=Library Entry 25356
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methylpentatriacontane
+##MOLFORM=C36H74
+##CAS REGISTRY NO=78692-70-3
+##MP= -300
+##BP= -300
+##MW= 506
+##$RETENTION INDEX=3575
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    29         32
+    41        148
+    42         37
+    43        451
+    44         18
+    54         20
+    55        220
+    56        390
+    57        999
+    58         43
+    67         43
+    68         40
+    69        221
+    70        155
+    71        712
+    72         37
+    81         26
+    82         50
+    83        206
+    84         57
+    85        443
+    86         28
+    96         27
+    97        164
+    98         35
+    99        139
+   100         12
+   110         17
+   111        100
+   112         21
+   113        104
+   125         53
+   126         14
+   127         81
+   139         17
+   140          9
+   141         53
+   155         41
+   167          8
+   169         27
+   183         28
+   197         16
+   211         18
+   225         13
+   239         13
+   253         14
+   323          7
+   337          8
+   435          4
+   448         12
+   449         21
+   476         63
+   477        236
+   478         86
+   479         14
+   491         10

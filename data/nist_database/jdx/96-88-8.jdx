@@ -1,0 +1,72 @@
+##TITLE=Library Entry 71119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Mepivacaine
+##MOLFORM=C15H22N2O
+##CAS REGISTRY NO=96-88-8
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=2055
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    14          2
+    27          8
+    28         28
+    29          6
+    30          6
+    32          4
+    39         17
+    40          4
+    41         25
+    42         98
+    43          7
+    44         22
+    50          2
+    51          8
+    52          6
+    53         10
+    54          9
+    55         26
+    56         12
+    57          7
+    63          4
+    65         15
+    66          3
+    67          7
+    68         27
+    69          3
+    70        165
+    71          8
+    77         35
+    78          9
+    79         12
+    80          6
+    81          5
+    82         10
+    83          4
+    84          7
+    89          2
+    91         23
+    92          6
+    93          5
+    94          8
+    95          2
+    96         41
+    97          2
+    98        999
+    99         67
+   103          8
+   104          5
+   105          9
+   106          4
+   117          2
+   118          6
+   119          4
+   120         11
+   121          4
+   132          2
+   148          2

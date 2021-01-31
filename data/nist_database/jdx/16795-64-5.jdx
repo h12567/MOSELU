@@ -1,0 +1,72 @@
+##TITLE=Library Entry 12951
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=.alpha.-d-Galactopyranose, 1,2:3,4-bis-O-(1-methylethylidene)-, d
+imethylcarbamothioate
+##MOLFORM=C15H25NO6S
+##CAS REGISTRY NO=16795-64-5
+##MP= -300
+##BP= -300
+##MW= 347
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        100
+    28        375
+    29         65
+    31         35
+    32         25
+    39         75
+    40         40
+    41        140
+    42        140
+    43        999
+    44        110
+    45         30
+    53         30
+    55         70
+    56         20
+    57         45
+    58        135
+    59        190
+    60         30
+    64         20
+    68         20
+    69        100
+    71         50
+    72        400
+    73         55
+    81         70
+    83         40
+    84         20
+    85         90
+    88        150
+    97        210
+    98         40
+    99         35
+   100         35
+   106         60
+   109         45
+   111         30
+   113         45
+   114         25
+   126         45
+   127         65
+   129         20
+   155         90
+   169        750
+   170         85
+   184        340
+   185         50
+   214         30
+   227         65
+   242        260
+   243         40
+   271         30
+   347        170
+   348         25
+   349         10

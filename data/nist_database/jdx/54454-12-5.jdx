@@ -1,0 +1,85 @@
+##TITLE=Library Entry 96736
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Chloro-2-methylbenzonitrile
+##MOLFORM=C8H6ClN
+##CAS REGISTRY NO=54454-12-5
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          3
+    17          1
+    18          3
+    25          4
+    26         23
+    27         20
+    28         14
+    35          7
+    36         12
+    37         66
+    38         80
+    39        125
+    40          9
+    41          1
+    43         16
+    44         17
+    47          7
+    48          6
+    49         39
+    50         96
+    51         88
+    52         24
+    57          9
+    58         56
+    60         16
+    61         67
+    62        129
+    63        168
+    64         59
+    65         23
+    66          3
+    71          2
+    72         12
+    73         46
+    74         26
+    75         63
+    76         33
+    77          3
+    84         11
+    85         23
+    86         34
+    87         61
+    88        109
+    89        250
+    90         38
+    96          2
+    97         15
+    98          9
+    99         20
+   100         12
+   101          4
+   110          4
+   111          5
+   112          4
+   113          2
+   114        100
+   115        204
+   116        999
+   117         87
+   118          4
+   123         43
+   124         43
+   125         20
+   126         13
+   150         66
+   151        430
+   152         59
+   153        141
+   154         13

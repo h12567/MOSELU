@@ -1,0 +1,56 @@
+##TITLE=Library Entry 5710
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propanesulfonic acid, methyl ester
+##MOLFORM=C4H10O3S
+##CAS REGISTRY NO=2819-09-2
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15        125
+    26         39
+    27        265
+    28         26
+    29         84
+    30         39
+    31         52
+    32         19
+    33         75
+    37         28
+    38         37
+    39        144
+    40         47
+    41        417
+    42        168
+    43        999
+    44         62
+    45         28
+    46         13
+    47         15
+    48         56
+    49         28
+    50         37
+    58         30
+    59        153
+    60         22
+    64         37
+    65         49
+    66         28
+    73         24
+    74         22
+    79         75
+    80         47
+    81         22
+    95         28
+    96         15
+    97        161
+    98         15
+    99         28
+   122         15
+   123         21

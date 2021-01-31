@@ -1,0 +1,71 @@
+##TITLE=Library Entry 42278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Ribo-Hexonic acid, 3-deoxy-2,5,6-tris-O-(trimethylsilyl)-, lact
+one
+##MOLFORM=C15H34O5Si3
+##CAS REGISTRY NO=55570-78-0
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=1791
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    73        999
+    74        139
+    75        222
+   101         69
+   103        188
+   117        130
+   129        314
+   130         91
+   131        109
+   133        116
+   147        182
+   148         75
+   149        106
+   155        150
+   189         95
+   191         52
+   205        153
+   206         57
+   219         90
+   245         95
+   246        183
+   247        115
+   273        192
+   274         45
+   275         21
+   276          3
+   291          1
+   292        117
+   293         32
+   294         17
+   295          3
+   305          6
+   306          1
+   307          6
+   308          1
+   317          6
+   318          2
+   319          1
+   322         35
+   323         10
+   324          5
+   325         13
+   333          6
+   334          1
+   335         10
+   336          3
+   337          1
+   363         45
+   364         14
+   365          7
+   366          1
+   378         76
+   379         25
+   380         12
+   381          3

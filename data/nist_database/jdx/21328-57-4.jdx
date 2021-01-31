@@ -1,0 +1,86 @@
+##TITLE=Library Entry 22345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclooctane, 1,5-dimethyl-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=21328-57-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1049
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    22          9
+    26         65
+    27         95
+    29        211
+    30          9
+    33          3
+    37          4
+    39        147
+    40         14
+    41        506
+    42        234
+    43        314
+    45         10
+    48          4
+    49          2
+    50         13
+    51         11
+    52          8
+    53         57
+    54         43
+    55        876
+    56        999
+    57        631
+    58         33
+    59          5
+    63         10
+    65         11
+    66         16
+    67         70
+    68         80
+    69        632
+    70        468
+    71         70
+    74          3
+    76          9
+    77         11
+    79          4
+    81         41
+    82         62
+    83        263
+    84        308
+    85         86
+    86          3
+    88          3
+    90          3
+    91          3
+    93          4
+    95         28
+    96         73
+    97        373
+    98        167
+    99         27
+   100          3
+   101          4
+   103          7
+   105          7
+   110         15
+   111         68
+   112        147
+   113         27
+   115          4
+   123         10
+   124          3
+   125        188
+   126         17
+   131          3
+   132          4
+   137          5
+   139          3
+   140         44

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 3910
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MALMBERG, DEP. CHEM., UNIV. AGRIC. SCI., UPPSALA, SW
+EDEN
+##NAMES=HP
+##CAS NAME=Solavetivone
+##MOLFORM=C15H22O
+##CAS REGISTRY NO=54878-25-0
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=1838
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        660
+    40        190
+    41        999
+    43        170
+    51        130
+    53        300
+    55        290
+    57        100
+    65        240
+    66        150
+    67        530
+    68        520
+    69        210
+    77        370
+    78        120
+    79        500
+    80        260
+    81        190
+    82        200
+    91        490
+    92        100
+    93        470
+    94        130
+    95        270
+   105        310
+   106        160
+   107        400
+   108        680
+   109        390
+   119        250
+   120        340
+   121        350
+   122        100
+   133        400
+   134        200
+   135        220
+   136        200
+   137        330
+   147        370
+   148        230
+   149        180
+   161        320
+   162        170
+   175        240
+   176        310
+   190        240
+   203        140
+   204         30
+   218        250
+   219         60

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 7284
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.BORTOLOTTO, UNIT CHIM. BIOORG., UNIV. BRUSSELS, BELGI
+U
+##NAMES=HP
+##CAS NAME=24-Methylenecholestane-3.beta.,5.alpha.,6.beta.-triol-3.beta.,6.b
+eta.-diacetate
+##MOLFORM=C32H52O5
+##CAS REGISTRY NO=59048-84-9
+##MP= -300
+##BP= -300
+##MW= 516
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        780
+    69        750
+    81        680
+    83        470
+    93        370
+    95        600
+   105        250
+   107        350
+   109        390
+   119        230
+   121        260
+   123        440
+   133        200
+   145        130
+   147        150
+   149        140
+   157        200
+   211        260
+   212        140
+   213        160
+   225        170
+   226        200
+   251        140
+   279        110
+   281        190
+   294        240
+   312        190
+   354        180
+   363         90
+   372        140
+   389        140
+   390         90
+   396         40
+   417         60
+   423         20
+   432         10
+   438         20
+   456         10
+   483         10
+   501         40
+   516         10

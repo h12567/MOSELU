@@ -1,0 +1,46 @@
+##TITLE=Library Entry 15690
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4988
+##NAMES=HP
+##CAS NAME=Acetamide, 2,2,2-trifluoro-
+##MOLFORM=C2H2F3NO
+##CAS REGISTRY NO=354-38-1
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=675
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    12          3
+    14          1
+    15          3
+    16         52
+    17          3
+    26          1
+    27          9
+    28         16
+    29          7
+    31         22
+    32          1
+    42          5
+    43         33
+    44        999
+    45         17
+    46          9
+    47          5
+    50         33
+    51        132
+    52          1
+    65          2
+    66          5
+    69        137
+    70          1
+    76          2
+    77          2
+    78          5
+    94         23
+    96          1
+   113         12
+   114          2

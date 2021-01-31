@@ -1,0 +1,47 @@
+##TITLE=Library Entry 59969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Tricyclo[4.2.1.0(2,5)]non-7-en-3-one
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=35150-63-1
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        224
+    39        481
+    40        147
+    41        138
+    43        148
+    51        195
+    52         95
+    53         95
+    55        126
+    63         86
+    65        274
+    66        715
+    67        178
+    68        376
+    77        229
+    78        386
+    79        363
+    80         52
+    81         74
+    82         44
+    91        999
+    92        289
+    93         49
+   103         40
+   105        156
+   106        325
+   107         46
+   116         25
+   119         38
+   133         74
+   134        187
+   135         22

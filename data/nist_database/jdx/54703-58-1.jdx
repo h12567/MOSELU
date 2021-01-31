@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32748
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.J. JAMES, DEP. CHEM., GLAMORGAN POLY., PONTYPRIDD, WA
+LES, UK
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-(4-cycloocten-1-yl)-
+##MOLFORM=C11H18O
+##CAS REGISTRY NO=54703-58-1
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    39        500
+    40        100
+    41        540
+    42         90
+    43        270
+    44        100
+    50         50
+    51        120
+    52         70
+    53        200
+    54        210
+    55        290
+    57        500
+    58        100
+    65        110
+    66        170
+    67        999
+    68        220
+    69         80
+    70        100
+    77        190
+    78         90
+    79        710
+    80        460
+    81        190
+    82         70
+    83         80
+    85        100
+    87         60
+    91        170
+    92         50
+    93        460
+    94        180
+    95        100
+    96         50
+    97         60
+    98        230
+   105         50
+   107         80
+   108        180
+   109        380
+   110         50
+   119        120
+   136        580
+   137        180
+   166         10

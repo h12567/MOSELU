@@ -1,0 +1,57 @@
+##TITLE=Library Entry 75177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Takeoka ET AL,J.Agric.Food Chem.,39,1848(1991)
+##NAMES=HP
+##CAS NAME=Methyl 3-(methylthio)-(Z)-2-propenoate
+##MOLFORM=C5H8O2S
+##CAS REGISTRY NO=15904-84-4
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1076
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39         84
+    41         46
+    45        684
+    46        141
+    47        186
+    48         27
+    51         19
+    53         81
+    54         23
+    55         46
+    56         25
+    57        154
+    58        476
+    59        145
+    60         34
+    61         42
+    68         14
+    69         42
+    71         66
+    72        268
+    73        625
+    74         87
+    75         51
+    77         25
+    85        266
+    86         35
+    87         57
+    89         55
+    99         39
+   100        459
+   101        999
+   102         89
+   103         60
+   105         24
+   106         15
+   115         34
+   117        610
+   118         39
+   119         35
+   132        751
+   133         51
+   134         35

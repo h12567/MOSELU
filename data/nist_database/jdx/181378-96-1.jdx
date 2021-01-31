@@ -1,0 +1,82 @@
+##TITLE=Library Entry 71530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Daly, M. Garraffo, T. Spande, LBC, NIDDK, NIH, Bethe
+sda, MD 20892
+##NAMES=HP
+##CAS NAME=(2S,6R)-2-Methyl-6-((Z)-non-4-en-1-yl)piperidine
+##MOLFORM=C15H29N
+##CAS REGISTRY NO=181378-96-1
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    51          1
+    52          1
+    53         11
+    54         18
+    55         55
+    56         39
+    57          8
+    58          4
+    65          5
+    66          2
+    67         34
+    68         15
+    69         20
+    70         35
+    71          6
+    72          1
+    77          6
+    78          1
+    79         14
+    80          5
+    81         32
+    82         32
+    83          9
+    84         16
+    85          2
+    86          2
+    91          5
+    92          1
+    93          7
+    95         11
+    98        999
+    99         70
+   100          3
+   105          1
+   106          1
+   108          3
+   109          3
+   110         26
+   111        238
+   112         25
+   113          6
+   121          1
+   124        343
+   125         43
+   126          7
+   127          1
+   136          1
+   138         17
+   139          5
+   140          1
+   152          9
+   153          8
+   154          3
+   166         15
+   167          5
+   168          1
+   180         61
+   181         11
+   182          1
+   194         15
+   195          2
+   208         32
+   209          5
+   222         17
+   223         22
+   224          4

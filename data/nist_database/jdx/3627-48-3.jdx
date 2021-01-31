@@ -1,0 +1,44 @@
+##TITLE=Library Entry 38931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Isonipecotic acid, 1-methyl-4-phenyl-
+##MOLFORM=C13H17NO2
+##CAS REGISTRY NO=3627-48-3
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    42        381
+    43        358
+    44        261
+    57        478
+    58         50
+    70        847
+    71        999
+    77         67
+    86         29
+    87         50
+    91        112
+    96        151
+   103        111
+   115         58
+   116         31
+   117         18
+   127         49
+   128         40
+   131         51
+   141         59
+   144         10
+   172         48
+   173         30
+   174         58
+   191         10
+   204         31
+   218        374
+   219        431
+   220         59

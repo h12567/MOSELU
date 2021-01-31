@@ -1,0 +1,73 @@
+##TITLE=Library Entry 32400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Bicyclo[5.1.0]octane
+##MOLFORM=C8H14
+##CAS REGISTRY NO=286-43-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=885
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         26
+    27        299
+    28         34
+    29        139
+    30          2
+    32          0
+    35          0
+    37          7
+    38         27
+    39        452
+    40         81
+    41        817
+    42         65
+    43         30
+    44          0
+    45          3
+    46          0
+    47          0
+    48          0
+    49          2
+    50         27
+    51         56
+    52         25
+    53        191
+    54        735
+    55        263
+    56        120
+    57          4
+    58          0
+    61          5
+    62          3
+    63         13
+    64          3
+    65         52
+    66         72
+    67        999
+    68        378
+    69        168
+    70          8
+    74          2
+    75          2
+    76          1
+    77         35
+    78          9
+    79         63
+    80         32
+    81        526
+    82        585
+    83         35
+    91         10
+    93          5
+    94          3
+    95        228
+    96         15
+   109          6
+   110        169
+   111         14

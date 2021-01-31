@@ -1,0 +1,60 @@
+##TITLE=Library Entry 70310
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Ethane, 1,1,1-trichloro-
+##MOLFORM=C2H3Cl3
+##CAS REGISTRY NO=71-55-6
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=641
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          1
+    15          3
+    24          5
+    25         27
+    26         88
+    27         59
+    35         62
+    36         13
+    37         21
+    38          4
+    47         34
+    48          6
+    49         14
+    50          2
+    51          1
+    59         13
+    60         96
+    61        480
+    62         67
+    63        164
+    64         12
+    70          4
+    72          3
+    82         27
+    83          2
+    84         18
+    85          1
+    86          3
+    94          3
+    95         22
+    96         25
+    97        999
+    98         42
+    99        717
+   100         20
+   101        134
+   102          3
+   117        172
+   119        165
+   120          2
+   121         54
+   122          1
+   123          6

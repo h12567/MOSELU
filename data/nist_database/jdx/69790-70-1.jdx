@@ -1,0 +1,26 @@
+##TITLE=Library Entry 40077
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. JACOB, INST. KLIN. CHEM., UNIV. MUNICH, MUNICH, W. G
+ERMAN
+##NAMES=HP
+##CAS NAME=N-(Dimethylthiophosphinyl)-2-butylamine
+##MOLFORM=C6H16NPS
+##CAS REGISTRY NO=69790-70-1
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    55         80
+    56         60
+    65         60
+    72        999
+    76         70
+    93        380
+    94        540
+   132        120
+   136         50
+   165        200

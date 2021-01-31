@@ -1,0 +1,54 @@
+##TITLE=Library Entry 27699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Ethoxyethyl,diethylamine
+##MOLFORM=C8H19NO
+##CAS REGISTRY NO=28343-47-7
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    30        430
+    35         32
+    37         19
+    38         23
+    39         38
+    40         23
+    41        105
+    42        134
+    43         98
+    44        259
+    45         51
+    47         49
+    48         20
+    49         14
+    50         22
+    55         57
+    56        116
+    58        999
+    60        278
+    70         29
+    72        258
+    73         87
+    74         27
+    83        176
+    85        120
+    86        180
+    87         35
+    94         24
+   100        142
+   102         53
+   105         33
+   116        122
+   117         65
+   119         66
+   120         33
+   121         14
+   130        364
+   131         24
+   145        147

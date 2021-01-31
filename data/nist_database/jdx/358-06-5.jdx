@@ -1,0 +1,54 @@
+##TITLE=Library Entry 68585
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Silane, diethyldifluoro-
+##MOLFORM=C4H10F2Si
+##CAS REGISTRY NO=358-06-5
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39          1
+    40          3
+    42          1
+    43         16
+    44          8
+    47         26
+    48          1
+    49          2
+    58          7
+    59          1
+    66         12
+    67        301
+    68         11
+    69         13
+    73          1
+    75          2
+    76          8
+    77         25
+    78          1
+    79          1
+    80         19
+    81         12
+    82          1
+    83          9
+    85          5
+    91         18
+    92          2
+    93         62
+    94         31
+    95        999
+    96        150
+    97         68
+    98          1
+   105         42
+   106          3
+   107          1
+   124        471
+   125         43
+   126         17

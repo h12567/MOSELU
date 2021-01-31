@@ -1,0 +1,42 @@
+##TITLE=Library Entry 22826
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(2,2-Dichlorovinyl)methyl-bis(isopropylideneaminooxy)silane
+##MOLFORM=C9H16Cl2N2O2Si
+##CAS REGISTRY NO=170954-93-5
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    56        999
+    57         42
+    73         30
+   105         77
+   107         30
+   132        108
+   150        718
+   151         87
+   152        246
+   153         31
+   187         77
+   207         50
+   209         19
+   210         96
+   211         25
+   212         70
+   213         19
+   214         31
+   247        232
+   248         38
+   249         81
+   250          8
+   267         30
+   269          7
+   282         60
+   283          6
+   284         39

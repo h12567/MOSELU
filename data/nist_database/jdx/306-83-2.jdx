@@ -1,0 +1,47 @@
+##TITLE=Library Entry 52854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Thomas J.Bruno
+##NAMES=HP
+##CAS NAME=Ethane, 2,2-dichloro-1,1,1-trifluoro-
+##MOLFORM=C2HCl2F3
+##CAS REGISTRY NO=306-83-2
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=482
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    31        427
+    35        359
+    37        113
+    43         27
+    44         87
+    47        227
+    48        274
+    49         83
+    50        203
+    51        100
+    63         29
+    64          1
+    66         32
+    67        222
+    69        400
+    78         10
+    83        999
+    85        653
+    87        105
+    97         17
+    98         59
+   100         18
+   101          9
+   116          6
+   117         33
+   119          9
+   133        138
+   135         88
+   137         12
+   152         59
+   153          1
+   154         36

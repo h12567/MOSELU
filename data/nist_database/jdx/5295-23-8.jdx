@@ -1,0 +1,39 @@
+##TITLE=Library Entry 9709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=s-Triazole, 3-acetamido-
+##MOLFORM=C4H6N4O
+##CAS REGISTRY NO=5295-23-8
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         20
+    40         29
+    41         64
+    42        335
+    43        999
+    44        135
+    53         40
+    54         48
+    55         25
+    56         23
+    57        136
+    59         24
+    67         10
+    68         11
+    69         14
+    83          9
+    84        642
+    85         37
+    97          9
+   109         13
+   110         10
+   111         13
+   126         99
+   127          9

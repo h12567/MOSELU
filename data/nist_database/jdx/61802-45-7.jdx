@@ -1,0 +1,43 @@
+##TITLE=Library Entry 71679
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, ATLAS OF MS OF ORG. CMPDS.,VOL3
+##NAMES=HP
+##CAS NAME=2-(.beta.-Pentamethylenaminopropionyl)-5,7-dimethyl-1,2,3,4-tetra
+hydropyrimido(3,4-a)indole
+##MOLFORM=C21H29N3O
+##CAS REGISTRY NO=61802-45-7
+##MP= -300
+##BP= -300
+##MW= 339
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    55        122
+    56         56
+    57         79
+    58         59
+    69        121
+    70         59
+    71         59
+    84         32
+    85         55
+    86         56
+    98        999
+    99         61
+   115         21
+   128         15
+   130         10
+   143         31
+   144         41
+   157         64
+   158        124
+   171        500
+   172         35
+   198         56
+   199        999
+   200        123
+   241         72
+   311         21
+   339        593

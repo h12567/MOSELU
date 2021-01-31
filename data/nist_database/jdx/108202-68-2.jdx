@@ -1,0 +1,35 @@
+##TITLE=Library Entry 90571
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=O-Methyl,O-isopropyl,O-1,2,2-trimethylpropyl phosphate
+##MOLFORM=C10H23O4P
+##CAS REGISTRY NO=108202-68-2
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         69
+    41        283
+    43        183
+    55         59
+    57         91
+    69        121
+    84         51
+    85         71
+    95         70
+    96        171
+   113        999
+   137          9
+   138          9
+   139        872
+   140        511
+   141        119
+   155         80
+   181        109
+   182        249
+   223         10

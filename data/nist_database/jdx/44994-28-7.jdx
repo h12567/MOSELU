@@ -1,0 +1,24 @@
+##TITLE=Library Entry 28639
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.G.GIUMANINI, CENT. GASCHROM-MASS SPEC., UNIV. BOLOGNA
+, ITA
+##NAMES=HP
+##CAS NAME=N,N,N',N'-Tetramethyl-1,5-pentanediamine
+##MOLFORM=C9H22N2
+##CAS REGISTRY NO=44994-28-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    42        153
+    44         71
+    58        999
+    84        155
+    98         69
+   113         56
+   114         52
+   158          3

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 39573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH. EPA-PTSEL 2480
+##NAMES=HP
+##CAS NAME=Dimetilan
+##MOLFORM=C10H16N4O3
+##CAS REGISTRY NO=644-64-4
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14         23
+    15        285
+    16         11
+    17          2
+    18        116
+    26          6
+    27         36
+    28         69
+    29         18
+    30          3
+    36          7
+    38         11
+    39         48
+    40         48
+    41         24
+    42        153
+    43         53
+    44         75
+    45          6
+    50          1
+    51          5
+    52          4
+    53          2
+    54          8
+    56         66
+    57          6
+    58          6
+    67          4
+    68          7
+    72        999
+    73        163
+    74         12
+    77          3
+   109          5
+   110          1
+   111          7
+   112          6
+   115          5
+   143          9
+   152         19
+   166          8
+   168          5
+   169         37
+   170         42
+   171          1
+   198          3
+   225         15
+   235          4
+   240        232
+   241         29

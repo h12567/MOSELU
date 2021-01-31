@@ -1,0 +1,39 @@
+##TITLE=Library Entry 18224
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Isoflurane
+##MOLFORM=C3H2ClF5O
+##CAS REGISTRY NO=26675-46-7
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=454
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    29        119
+    31         25
+    44          4
+    47          8
+    48         13
+    50         17
+    51        999
+    52         10
+    67        106
+    69         73
+    79         70
+    80         14
+    87         55
+    89         19
+    95         12
+    97          6
+    98          3
+   115        151
+   116          4
+   117        212
+   118          3
+   119         50
+   149        250
+   150          7

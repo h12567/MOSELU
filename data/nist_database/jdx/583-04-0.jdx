@@ -1,0 +1,65 @@
+##TITLE=Library Entry 79124
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2856
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-propenyl ester
+##MOLFORM=C10H10O2
+##CAS REGISTRY NO=583-04-0
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=1254
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26          2
+    27          7
+    28          4
+    29          2
+    37          2
+    38          5
+    39         31
+    40          4
+    41         36
+    42          1
+    49          1
+    50         23
+    51         75
+    52          5
+    53          1
+    55          1
+    57          8
+    62          1
+    63          1
+    65          1
+    73          1
+    74          8
+    75          6
+    76         12
+    77        283
+    78         23
+    79          6
+    91          4
+   103          1
+   104          2
+   105        999
+   106         84
+   107          5
+   115          5
+   116          3
+   117         31
+   118          4
+   122          6
+   123          5
+   125          2
+   133          1
+   134          1
+   139          3
+   141          1
+   144          1
+   145          1
+   147          5
+   161          2
+   162         66
+   163          7

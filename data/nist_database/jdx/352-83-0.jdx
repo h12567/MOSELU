@@ -1,0 +1,35 @@
+##TITLE=Library Entry 89277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=.beta.-GBA
+##MOLFORM=C5H11N3O2
+##CAS REGISTRY NO=352-83-0
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    42        476
+    43        571
+    44        160
+    45         23
+    56         40
+    57         34
+    58          9
+    68         12
+    69        112
+    70        184
+    84        124
+    85         10
+    86         58
+    88         10
+    95         58
+    98          9
+   112        999
+   113         60
+   126         31
+   127        241

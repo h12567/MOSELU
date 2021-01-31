@@ -1,0 +1,63 @@
+##TITLE=Library Entry 44179
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=(o-Methoxy-benzoyl)-tris(trimethylsilyl)-silane
+##MOLFORM=C17H34O2Si4
+##CAS REGISTRY NO=81671-45-6
+##MP= -300
+##BP= -300
+##MW= 382
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    57         89
+    58          7
+    73        999
+    74         85
+    75         36
+    76          1
+    92         87
+    93          6
+   107         99
+   108          7
+   120        123
+   121         11
+   131         45
+   132          7
+   133          3
+   134          1
+   135         53
+   136          8
+   137          4
+   138          1
+   147         79
+   148         13
+   149          6
+   150          1
+   173         54
+   174         12
+   175          7
+   176          1
+   204         43
+   205         10
+   206          4
+   207          1
+   279        490
+   280        142
+   281         70
+   282         14
+   283          3
+   367        535
+   368        206
+   369        111
+   370         29
+   371          8
+   372          2
+   373          1
+   382         19
+   383          8
+   384          4
+   385          1

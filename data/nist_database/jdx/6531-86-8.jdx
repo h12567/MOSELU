@@ -1,0 +1,75 @@
+##TITLE=Library Entry 51271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Cyclohexylcyclohexanol
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=6531-86-8
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         93
+    28         29
+    29        132
+    31         29
+    39        188
+    40         46
+    41        478
+    42         56
+    43         91
+    44         39
+    50          9
+    51         35
+    52         25
+    53        145
+    54        166
+    55        637
+    56         51
+    57        173
+    58         17
+    63         12
+    65         67
+    66         76
+    67        827
+    68        159
+    69        104
+    70         47
+    71         19
+    77        114
+    78         46
+    79        337
+    80        206
+    81        602
+    82        999
+    83        502
+    84         34
+    91         78
+    92         17
+    93        159
+    94        113
+    95        161
+    96        264
+    97        188
+    98         43
+    99         10
+   104          8
+   105         14
+   107         92
+   108         92
+   109         78
+   110         11
+   121        115
+   122         86
+   123         23
+   125         10
+   135         95
+   136         32
+   149         32
+   164        340
+   165         45

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 73555
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(3)1050(1978); A. GUGGISBERG ET AL
+##NAMES=HP
+##CAS NAME=Hexanamide, 6-[acetyl[3-[acetyl[3-(acetylamino)propyl]amino]propy
+l]amino]-N-[3-(acetylamino)propyl]-
+##MOLFORM=C23H43N5O5
+##CAS REGISTRY NO=67370-66-5
+##MP= -300
+##BP= -300
+##MW= 469
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    70        170
+    86        110
+   100        999
+   117        130
+   129        180
+   143        140
+   155        500
+   171        140
+   185         70
+   199        200
+   213        170
+   228         70
+   242        300
+   256        300
+   268        400
+   285        150
+   298        210
+   312        230
+   341         70
+   355        130
+   367        190
+   384         60
+   397        150
+   408         30
+   426        300
+   451         20
+   454         20
+   469         30

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 36949
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Cyclobutaphosphane, tetrakis(trifluoromethyl)-
+##MOLFORM=C4F12P4
+##CAS REGISTRY NO=393-02-2
+##MP= -300
+##BP= -300
+##MW= 400
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    31         50
+    32          1
+    50         41
+    51          1
+    55         18
+    62        131
+    63          2
+    69        999
+    70         11
+    74         27
+    81         45
+    82          1
+    93        536
+    94          3
+   100         41
+   105         53
+   106          1
+   112         36
+   119        158
+   120          2
+   124        153
+   125          1
+   131        239
+   132          4
+   143        495
+   144          7
+   181        176
+   182          2
+   193        153
+   194          4
+   231        149
+   232          3
+   281        167
+   282          4
+   331        185
+   332          6
+   400        639
+   401         29
+   402          1

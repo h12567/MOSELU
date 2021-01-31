@@ -1,0 +1,56 @@
+##TITLE=Library Entry 84303
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.MACAK, DEP. COKE GAS TECH., PRAGUE INST. CHEM. TECH.,
+ CZECIV
+##NAMES=HP
+##CAS NAME=Phenol, 4-(2-methylpropyl)-
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=4167-74-2
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1283
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         20
+    39        100
+    40         20
+    41         50
+    43         40
+    49         20
+    50         20
+    51         50
+    52         30
+    53         40
+    55         30
+    62         10
+    63         30
+    64         10
+    65         50
+    66         20
+    75         10
+    77        130
+    78         40
+    79         30
+    81         10
+    89         10
+    91         20
+    93         30
+    94         20
+   103         10
+   105         10
+   106         10
+   107        999
+   108        110
+   109         10
+   115         10
+   121         60
+   122         50
+   123         20
+   133         10
+   135         10
+   149         20
+   150        170
+   151         20

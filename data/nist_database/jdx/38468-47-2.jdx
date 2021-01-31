@@ -1,0 +1,32 @@
+##TITLE=Library Entry 89503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Ethyl-5-propylcyclopentanone
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=38468-47-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    53        120
+    54         50
+    55        771
+    56        301
+    57        101
+    67         98
+    68         71
+    69        220
+    70        231
+    83        429
+    84        819
+    97         99
+   111         69
+   112        999
+   125         49
+   126         19
+   154        150

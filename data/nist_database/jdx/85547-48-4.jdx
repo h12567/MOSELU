@@ -1,0 +1,39 @@
+##TITLE=Library Entry 57776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLER-SCHIERLEIN, ORG.-CHEM. LAB., ETH-Z, ZURICH, S
+WITZ.
+##NAMES=HP
+##CAS NAME=(2S,4S)-2,4-Dimethylundecanedioic acid dimethyl ester
+##MOLFORM=C15H28O4
+##CAS REGISTRY NO=85547-48-4
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29        150
+    41        350
+    43        190
+    55        440
+    57        130
+    59        250
+    69        480
+    73        130
+    74        150
+    83        210
+    87        150
+    88        999
+    97        270
+    98        130
+   101        190
+   111        130
+   112        150
+   126        270
+   129        130
+   153        190
+   185        250
+   213        130
+   241         40

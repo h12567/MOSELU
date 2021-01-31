@@ -1,0 +1,88 @@
+##TITLE=Library Entry 61421
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Organic Synthesis Lab, MSU, Moscow.TRC 610
+##NAMES=HP
+##CAS NAME=(10S*,11R*)-(.+-.)-1.alpha.,4.alpha.,4a.alpha.,4b.beta..,5.alpha.
+,8.alpha.,8b.beta.,9a.alpha.-octahydro-10,11-diphenoxy-1,4:5,8-dimethano-9H-
+fluoren-9-one
+##MOLFORM=C27H24O3
+##CAS REGISTRY NO=118375-33-0
+##MP= -300
+##BP= -300
+##MW= 396
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    32         46
+    39        269
+    40         39
+    41         36
+    50         26
+    51        187
+    52         43
+    53         52
+    55         62
+    63         66
+    65        501
+    66         83
+    67         27
+    77        427
+    78        104
+    79        101
+    89         87
+    91        999
+    92         76
+    93         66
+    94         99
+   102         32
+   103        113
+   104         43
+   105         85
+   107         69
+   115        678
+   116        222
+   117        378
+   118         69
+   127        192
+   128        129
+   129        113
+   131        115
+   133         43
+   141         80
+   143        401
+   144        148
+   145        373
+   146         41
+   152         71
+   153        120
+   154         39
+   155         87
+   157         52
+   158         69
+   159         36
+   165        222
+   166        241
+   167        106
+   168         34
+   178         43
+   179         97
+   180         62
+   181        436
+   182         90
+   183         36
+   191         80
+   192         26
+   194         57
+   208        108
+   209        590
+   221         34
+   236         27
+   237         78
+   238         34
+   275         29
+   303        187
+   304         36
+   396         15
+   397          4

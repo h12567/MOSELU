@@ -1,0 +1,29 @@
+##TITLE=Library Entry 546
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyanic acid, ethyl ester
+##MOLFORM=C3H5NO
+##CAS REGISTRY NO=627-48-5
+##MP= -300
+##BP= -300
+##MW= 71
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    26        109
+    27        605
+    28        387
+    29        999
+    30         31
+    40         28
+    41         24
+    42         77
+    43        137
+    44         24
+    56        640
+    70         45
+    71        394
+    72         24

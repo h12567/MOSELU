@@ -1,0 +1,60 @@
+##TITLE=Library Entry 18829
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 948
+##NAMES=HP
+##CAS NAME=2-Propenoyl chloride
+##MOLFORM=C3H3ClO
+##CAS REGISTRY NO=814-68-6
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          4
+    14          3
+    18          1
+    24         15
+    25         67
+    26        203
+    27        669
+    28         44
+    29         12
+    35         30
+    36         30
+    37         20
+    38         13
+    39          6
+    40          2
+    41          6
+    42          2
+    43          4
+    44          3
+    47          8
+    48          3
+    49          4
+    52          9
+    53         30
+    54         10
+    55        999
+    56         32
+    57          4
+    59          2
+    60          5
+    61          7
+    62         89
+    63         59
+    64         27
+    65         18
+    69          2
+    71          1
+    72          3
+    73          2
+    89          2
+    90          5
+    91         12
+    92          2
+    93          4

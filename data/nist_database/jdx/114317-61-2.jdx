@@ -1,0 +1,46 @@
+##TITLE=Library Entry 81877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z. Saatov, Inst. Chem. Plant Subst., Uzbek SSR Acad. Sc
+i., Tashkent, USSR
+##NAMES=HP
+##CAS NAME=2-Deoxy-.alpha.-ecdysone, 22-O-benzoate
+##MOLFORM=C34H48O6
+##CAS REGISTRY NO=114317-61-2
+##MP= -300
+##BP= -300
+##MW= 552
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    51        100
+    69        590
+    77        590
+    81        590
+    99        590
+   105        999
+   122        220
+   233        820
+   234        660
+   284        660
+   285        410
+   303         20
+   331        110
+   332         70
+   351        100
+   361         40
+   369        110
+   379        110
+   384        410
+   394        240
+   397        240
+   402        220
+   412        230
+   430         30
+   476         17
+   506        160
+   519         40
+   524        150
+   534         70
+   552         40

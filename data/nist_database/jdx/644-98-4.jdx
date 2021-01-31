@@ -1,0 +1,60 @@
+##TITLE=Library Entry 82556
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pyridine, 2-(1-methylethyl)-
+##MOLFORM=C8H11N
+##CAS REGISTRY NO=644-98-4
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15         12
+    26         10
+    27         39
+    28          9
+    37          9
+    38         19
+    39         74
+    40         13
+    41         32
+    42          5
+    43          5
+    49          7
+    50         74
+    51        176
+    52        135
+    53         66
+    54         17
+    58         12
+    62         12
+    63         28
+    64         12
+    65         33
+    66         13
+    67          6
+    74         11
+    75         11
+    76         18
+    77         83
+    78        268
+    79        196
+    80         70
+    89          5
+    90          5
+    91         18
+    92         77
+    93        250
+    94         18
+   104         46
+   106        999
+   107         73
+   117         10
+   118         24
+   120        245
+   121        132
+   122         10

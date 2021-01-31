@@ -1,0 +1,40 @@
+##TITLE=Library Entry 1419
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. SMITH, LA TROBE UNIVERSITY, AUSTRALIA
+##NAMES=HP
+##CAS NAME=4-Benzofurazan-1-ol, 5,7-dinitro-
+##MOLFORM=C6H2N4O6
+##CAS REGISTRY NO=22714-03-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    30        999
+    37         90
+    45         10
+    46         10
+    49         60
+    51         60
+    52         60
+    53        160
+    54        150
+    61         50
+    62         60
+    63         90
+    64         50
+    69        100
+    70        100
+    75        230
+    76        120
+    77         90
+   102         60
+   103         50
+   105         70
+   166         70
+   196        120
+   226        350
+   227         50

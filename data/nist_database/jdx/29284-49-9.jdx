@@ -1,0 +1,67 @@
+##TITLE=Library Entry 6900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Acetamide, N,N',N''-methylidynetris-
+##MOLFORM=C7H13N3O3
+##CAS REGISTRY NO=29284-49-9
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    33          1
+    34          0
+    36          0
+    38          5
+    39          7
+    40         17
+    43        999
+    44        158
+    45        272
+    46          9
+    48          0
+    50          0
+    51          0
+    52          1
+    53          1
+    54          1
+    55          2
+    58         72
+    59        109
+    60        148
+    61          3
+    62          0
+    64          0
+    65          0
+    67          0
+    69          3
+    71         91
+    72          3
+    73          1
+    74          0
+    75          0
+    85         49
+    87        235
+    88          4
+    89          0
+    97          0
+   100         29
+   102         62
+   103          1
+   104          0
+   113         28
+   114          0
+   115          0
+   128         24
+   129         41
+   130          1
+   131          0
+   144        194
+   145          6
+   146          0
+   186          0
+   187          0

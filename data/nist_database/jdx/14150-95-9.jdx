@@ -1,0 +1,74 @@
+##TITLE=Library Entry 87106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3075
+##NAMES=HP
+##CAS NAME=2-Pyridinamine, 1-oxide
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=14150-95-9
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          2
+    16          1
+    25          2
+    26         15
+    27         32
+    28        113
+    29         12
+    30         12
+    36          2
+    37         21
+    38         78
+    39        191
+    40         45
+    41         86
+    42         14
+    43          9
+    44         13
+    46          9
+    47          2
+    48          1
+    49          9
+    50         42
+    51         67
+    52        135
+    53         56
+    54         83
+    55        136
+    56         17
+    57          4
+    61          1
+    62          4
+    63          8
+    64         37
+    65        222
+    66        198
+    67         90
+    68         26
+    69          2
+    70         15
+    75          4
+    76          7
+    77          2
+    78         21
+    79         14
+    80          9
+    81         11
+    82         21
+    83        110
+    84          6
+    91          8
+    92        202
+    93         52
+    94         59
+    95          4
+   109          7
+   110        999
+   111         65
+   112          4

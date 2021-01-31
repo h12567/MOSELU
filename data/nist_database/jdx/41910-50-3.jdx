@@ -1,0 +1,57 @@
+##TITLE=Library Entry 88225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinone, 3,3,4,4,5,5-hexachloro-1-(4-chlorophenyl)-
+##MOLFORM=C10H4Cl7NO
+##CAS REGISTRY NO=41910-50-3
+##MP= -300
+##BP= -300
+##MW= 399
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    63        160
+    76        150
+    77        809
+    78        200
+    85        110
+    87        140
+   111        999
+   112         40
+   113        320
+   153        190
+   157        360
+   159        325
+   161        125
+   172        599
+   174        430
+   176         60
+   196        120
+   198         70
+   211        120
+   213        200
+   215        120
+   219        100
+   221         90
+   266        100
+   268        120
+   270         60
+   294        200
+   296        240
+   298        140
+   300         10
+   329         40
+   331         10
+   364        420
+   366        719
+   368        699
+   370        330
+   372        120
+   399         25
+   401         50
+   403         80
+   405         20
+   407         10

@@ -1,0 +1,67 @@
+##TITLE=Library Entry 94044
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Thiopyran, tetrahydro-2-methyl-3-propyl-
+##MOLFORM=C9H18S
+##CAS REGISTRY NO=55320-23-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        455
+    42         29
+    43         79
+    44         29
+    45        118
+    46          9
+    47         79
+    51          9
+    52          9
+    53         79
+    54          9
+    55        415
+    56         29
+    57         29
+    58         29
+    59         89
+    60         19
+    61         79
+    65         19
+    67        108
+    68          9
+    69        217
+    70         49
+    71          9
+    73         79
+    74          9
+    75          9
+    77         19
+    79         29
+    81        188
+    82         19
+    83         19
+    85         19
+    87        336
+    88         29
+    89         19
+    91          9
+    93          9
+    95         89
+    96          9
+    97          9
+   101         29
+   115        999
+   116         79
+   117         49
+   129        693
+   130         59
+   131         39
+   158        257
+   159         29
+   160         19

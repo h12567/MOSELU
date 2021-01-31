@@ -1,0 +1,66 @@
+##TITLE=Library Entry 36203
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2(1H)-Naphthalenone, 4a,5,6,7,8,8a-hexahydro-8a-methyl-, trans-
+##MOLFORM=C11H16O
+##CAS REGISTRY NO=54410-78-5
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        716
+    42         33
+    43         53
+    44         18
+    50         38
+    51        155
+    52         91
+    53        313
+    54         67
+    55        302
+    56         18
+    57         16
+    63         27
+    65        169
+    66         89
+    67        581
+    68        162
+    69        999
+    70         40
+    77        290
+    78         84
+    79        579
+    80        193
+    81        259
+    82        140
+    83         13
+    84         18
+    91        224
+    92         47
+    93        135
+    94        302
+    95        581
+    96         86
+   103         16
+   105         55
+   106         18
+   107        397
+   108        106
+   109        106
+   110         16
+   117         16
+   119         18
+   121        310
+   122        980
+   123         91
+   131         24
+   135         64
+   136        118
+   149         64
+   164        244
+   165         24

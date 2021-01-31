@@ -1,0 +1,75 @@
+##TITLE=Library Entry 1830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DR. C. C. VAN DE SANDE, STATE UNIVERSITY OF GENT, BELGI
+UM
+##NAMES=HP
+##CAS NAME=1-Cyclohexene-1-methanol
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=4845-04-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1732
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    36         10
+    37        100
+    38        170
+    39        999
+    40        150
+    41        635
+    42        170
+    43        220
+    44         40
+    45         10
+    48         10
+    49         45
+    50        300
+    51        415
+    52        200
+    53        460
+    54        120
+    55        400
+    56         90
+    57        160
+    58         20
+    60         10
+    61         40
+    62         60
+    63        120
+    64         25
+    65        140
+    66        180
+    67        240
+    68        140
+    69        115
+    70        150
+    71         45
+    73         10
+    74         40
+    75         20
+    76         20
+    77        280
+    78         90
+    79        800
+    80        160
+    81        650
+    82         90
+    83        200
+    84         80
+    89         10
+    91         80
+    92         20
+    93         80
+    94        250
+    95         65
+    96         15
+    97         85
+    98         10
+   109         15
+   110         10
+   111         20
+   112        250
+   113         20

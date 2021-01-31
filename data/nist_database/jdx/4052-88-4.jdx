@@ -1,0 +1,85 @@
+##TITLE=Library Entry 28914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.A.BLAZER, DU PONT, GIBBSTOWN, N.J., USA
+##NAMES=HP
+##CAS NAME=Benzenemethanamine, N,N,4-trimethyl-
+##MOLFORM=C10H15N
+##CAS REGISTRY NO=4052-88-4
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15        160
+    26          9
+    27         84
+    28         21
+    29         16
+    30         41
+    35          3
+    37          3
+    38         13
+    39         97
+    40          6
+    41         35
+    42        269
+    43         41
+    44        117
+    45          3
+    47          9
+    48          3
+    49          2
+    50         30
+    51         74
+    52         26
+    53         29
+    54          3
+    55          2
+    56         42
+    57         71
+    58        999
+    59         36
+    62          9
+    63         38
+    64          9
+    65         50
+    66          7
+    72          3
+    74         13
+    75          6
+    76          8
+    77        143
+    78         49
+    79         80
+    80          4
+    87          3
+    89         30
+    90         16
+    91        119
+    92         11
+    99          3
+   102         17
+   103         83
+   104         68
+   105        832
+   106        140
+   107          8
+   116          9
+   117         11
+   118         11
+   119          4
+   120          2
+   130          3
+   131          5
+   132         42
+   133          7
+   134         34
+   135          2
+   146         11
+   147         11
+   148        475
+   149        563
+   150         57

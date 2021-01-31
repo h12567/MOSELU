@@ -1,0 +1,42 @@
+##TITLE=Library Entry 1807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-(Prop-2-ynyl)-3,3-bis(trifluoromethyl)diaziridine
+##MOLFORM=C6H4F6N2
+##CAS REGISTRY NO=83391-92-8
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    38          6
+    39        999
+    40         40
+    41         30
+    42         20
+    43         80
+    51         60
+    52        160
+    53         50
+    69        200
+    70          6
+    96         80
+   100         30
+   101         80
+   102         30
+   121         30
+   122         40
+   131         50
+   149        110
+   150          8
+   159          5
+   178         30
+   179          3
+   198         30
+   199          3
+   218         34
+   219          3

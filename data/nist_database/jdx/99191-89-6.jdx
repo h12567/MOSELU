@@ -1,0 +1,56 @@
+##TITLE=Library Entry 48620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=1-Hexen-3-yne, 2-tert-butyl-
+##MOLFORM=C10H16
+##CAS REGISTRY NO=99191-89-6
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15        105
+    26         21
+    27        387
+    29        536
+    39        620
+    41        941
+    42         29
+    43        146
+    50         84
+    51        259
+    52        117
+    53        249
+    55        222
+    56         59
+    57        996
+    62         13
+    63        126
+    64         21
+    65        167
+    66         17
+    67        163
+    69        653
+    77        653
+    78        138
+    79        999
+    80        176
+    81         92
+    91        594
+    92         46
+    93        577
+    94         33
+    95         13
+   105        247
+   106        105
+   107        255
+   119        186
+   120         19
+   121        682
+   122         67
+   136        591
+   137         42

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 53630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 4-amino-
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=1118-66-7
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          7
+    14         35
+    15        165
+    16          6
+    17          8
+    18         15
+    25          7
+    26         43
+    27         95
+    28        414
+    29         74
+    30        151
+    32          4
+    36          2
+    37         23
+    38         44
+    39        113
+    40         70
+    41        211
+    42        794
+    43        309
+    44         70
+    49          4
+    50         16
+    51         27
+    52         43
+    53         26
+    54         74
+    55         30
+    56         19
+    57          7
+    58          3
+    61          2
+    62          2
+    63          4
+    65          7
+    66         11
+    67         20
+    68         29
+    69          2
+    70         20
+    71          2
+    80          2
+    84        999
+    85         48
+    86          4
+    99        459
+   100         27
+   101          0

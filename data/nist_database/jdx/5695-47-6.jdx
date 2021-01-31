@@ -1,0 +1,43 @@
+##TITLE=Library Entry 42304
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. AULINGER INSTITUTE FOR SPECTROCHEMISTRY, DORTMUND, G
+ERMANY
+##NAMES=HP
+##CAS NAME=Silane, dimethylbis[(trimethylsilyl)methyl]-
+##MOLFORM=C10H28Si3
+##CAS REGISTRY NO=5695-47-6
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    28         20
+    29          6
+    31         13
+    43         33
+    44         12
+    45        111
+    59        109
+    71          9
+    73        999
+    74         69
+    75         31
+    85         25
+    99         17
+   101         46
+   113         29
+   115         23
+   129        936
+   130        134
+   131         73
+   145        330
+   146         53
+   147         24
+   185         10
+   201         24
+   217        486
+   218        123
+   219         62

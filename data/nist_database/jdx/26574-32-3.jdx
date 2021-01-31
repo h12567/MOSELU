@@ -1,0 +1,32 @@
+##TITLE=Library Entry 40767
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sydnone, 3-(2-carboxyethyl)-
+##MOLFORM=C5H6N2O4
+##CAS REGISTRY NO=26574-32-3
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        220
+    42        110
+    43        450
+    44        600
+    45        840
+    46         30
+    55        530
+    56         20
+    58        110
+    72        240
+    73        999
+    74         60
+   100        450
+   101         10
+   128         50
+   158        420
+   159         10

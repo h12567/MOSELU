@@ -1,0 +1,53 @@
+##TITLE=Library Entry 30139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.A.GILPIN DOW CHEM. CO., MIDLAND, MICHIGAN, USA
+##NAMES=HP
+##CAS NAME=Heptanamide, 4-ethyl-5-methyl-
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=54789-40-1
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15          2
+    27         40
+    28         20
+    29         90
+    30          8
+    31          2
+    41        160
+    42         30
+    43        180
+    44        150
+    45          7
+    55        170
+    56         20
+    57        150
+    58         10
+    59        999
+    60         80
+    71         90
+    72        460
+    73        100
+    74          6
+    85          2
+    86         20
+    87          2
+    88          1
+    99          2
+   100         40
+   101          3
+   114        270
+   115         30
+   116         10
+   127          1
+   128          2
+   142         20
+   143          2
+   156          4
+   169          1
+   171          7

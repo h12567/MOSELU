@@ -1,0 +1,35 @@
+##TITLE=Library Entry 96802
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-(4-Bromophenyl)ethenyl)-pyrrolidin-2,5-dione
+##MOLFORM=C12H10BrNO2
+##CAS REGISTRY NO=181827-93-0
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    51        211
+    56        256
+    82        180
+    88         68
+    89        198
+   103        281
+   104         40
+   113         19
+   115        622
+   116        999
+   117         30
+   127         40
+   143        238
+   144        189
+   146        229
+   170        119
+   172        121
+   200        370
+   223        760
+   225        759

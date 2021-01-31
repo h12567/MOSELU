@@ -1,0 +1,62 @@
+##TITLE=Library Entry 10523
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Pentylamine, N-acetyl-1-cyano-
+##MOLFORM=C8H14N2O
+##CAS REGISTRY NO=27395-08-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        136
+    42        109
+    43        999
+    44         94
+    51         16
+    52         24
+    53         70
+    54         82
+    55         97
+    56        237
+    57         51
+    58         13
+    59         20
+    60        108
+    64          3
+    66         15
+    67         24
+    68         27
+    69         73
+    70         33
+    71         22
+    72         23
+    80         21
+    81         33
+    82          9
+    83         16
+    84         33
+    85         40
+    86        187
+    87         23
+    94         21
+    95         56
+    96         76
+    98        825
+    99         28
+   100         12
+   110          8
+   111        232
+   112         58
+   114         47
+   125         36
+   127          4
+   128         17
+   139         60
+   154         19
+   155          3

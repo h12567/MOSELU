@@ -1,0 +1,38 @@
+##TITLE=Library Entry 426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,4-Trioxolane
+##MOLFORM=C2H4O3
+##CAS REGISTRY NO=289-14-5
+##MP= -300
+##BP= -300
+##MW= 76
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         14
+    28        540
+    29        999
+    30        708
+    31         83
+    32         50
+    39          3
+    41          1
+    42          1
+    43          2
+    44        323
+    45         73
+    46        120
+    47         67
+    48          6
+    58          2
+    60          3
+    62          2
+    75         64
+    76        315
+    77          8
+    78          3

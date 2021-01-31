@@ -1,0 +1,51 @@
+##TITLE=Library Entry 6141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Nonenenitrile
+##MOLFORM=C9H15N
+##CAS REGISTRY NO=29127-83-1
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=1194
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        500
+    42        230
+    43        999
+    44         40
+    51         40
+    52         50
+    53        120
+    54        300
+    55        440
+    56        270
+    57         50
+    64         10
+    65         30
+    66         80
+    67        500
+    68         80
+    69        440
+    70         90
+    71         60
+    79         50
+    80        170
+    81        140
+    82         70
+    83        120
+    84         40
+    93         10
+    94        160
+    95         60
+    96         40
+   108        180
+   109         60
+   122        110
+   136         60
+   137         10

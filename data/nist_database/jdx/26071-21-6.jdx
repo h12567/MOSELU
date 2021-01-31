@@ -1,0 +1,44 @@
+##TITLE=Library Entry 36249
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Fluoro-2,2-bis(trifluoromethyl)aziridine
+##MOLFORM=C4H2F7N
+##CAS REGISTRY NO=26071-21-6
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    28         64
+    33        739
+    34          8
+    40         48
+    44          9
+    64         93
+    65         15
+    69        999
+    70         42
+    71         11
+    78        192
+    79          7
+    90         38
+    91          8
+    95         58
+    96          9
+   108         26
+   109        227
+   110          8
+   128        765
+   129         29
+   148          4
+   158         38
+   159        122
+   160          5
+   178        486
+   179         24
+   197         83
+   198          4

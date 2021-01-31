@@ -1,0 +1,54 @@
+##TITLE=Library Entry 21953
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Butanol
+##MOLFORM=C4H10O
+##CAS REGISTRY NO=71-36-3
+##MP= -300
+##BP= -300
+##MW= 74
+##$RETENTION INDEX=659
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          8
+    14         30
+    15        104
+    16          3
+    17          2
+    18          2
+    19         44
+    20          0
+    22          0
+    26        136
+    27        570
+    28        196
+    29        384
+    30          0
+    31        981
+    32         21
+    33         90
+    34          2
+    37         25
+    38         63
+    39        254
+    40          2
+    41        876
+    42        432
+    43        684
+    44         49
+    45         77
+    46          6
+    55        279
+    56        999
+    57         76
+    58          2
+    59          1
+    70          0
+    71          1
+    73         15
+    74          7
+    75          0

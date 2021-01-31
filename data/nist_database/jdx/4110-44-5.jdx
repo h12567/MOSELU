@@ -1,0 +1,55 @@
+##TITLE=Library Entry 38435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Octane, 3,3-dimethyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=4110-44-5
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=932
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14          3
+    15          3
+    27         75
+    28          7
+    29        117
+    30          2
+    39         90
+    41        260
+    42         56
+    43        412
+    44         17
+    50          2
+    51          8
+    52          4
+    53         38
+    54          2
+    55        196
+    56        114
+    57        408
+    58         18
+    65          6
+    66          2
+    67         15
+    68          6
+    69         57
+    70        373
+    71        999
+    72         58
+    77          4
+    79          3
+    83          7
+    84         18
+    85         81
+    86          5
+    97          7
+   112         76
+   113        161
+   114         15
+   127         27
+   128          2

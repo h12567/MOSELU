@@ -1,0 +1,84 @@
+##TITLE=Library Entry 83622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl mandelate
+##MOLFORM=C9H10O3
+##CAS REGISTRY NO=4358-87-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=1309
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         13
+    26          2
+    27         10
+    28          2
+    29         23
+    30          4
+    31          4
+    33          2
+    37          2
+    38          7
+    39         27
+    40          3
+    41          1
+    42          1
+    43          1
+    44          2
+    45          4
+    49          3
+    50         43
+    51        117
+    52         34
+    53         25
+    55          3
+    59         20
+    60          1
+    61          5
+    62         13
+    63         29
+    64          6
+    65          5
+    66          2
+    67          1
+    68          1
+    73          3
+    74         15
+    75          9
+    76         13
+    77        482
+    78         90
+    79        692
+    80         50
+    81          2
+    85          1
+    86          3
+    87          3
+    88          1
+    89         25
+    90         18
+    91          9
+    92          1
+    93          1
+    94          1
+   105        107
+   106         29
+   107        999
+   108         96
+   109          6
+   118          8
+   119          1
+   121          4
+   122          1
+   132          1
+   133          1
+   149          3
+   150          1
+   166        142
+   167         15
+   168          2

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 1763
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3-Butadiene
+##MOLFORM=C4H6
+##CAS REGISTRY NO=106-99-0
+##MP= -300
+##BP= -300
+##MW= 54
+##$RETENTION INDEX=389
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+     2          1
+    12          4
+    13          3
+    14          5
+    15          3
+    16          1
+    19          1
+    24          2
+    25         25
+    26        154
+    27        494
+    28        341
+    29          8
+    36          9
+    37         44
+    38         58
+    39        999
+    40         35
+    41          2
+    48         15
+    49         81
+    50        268
+    51        253
+    52        114
+    53        708
+    54        951
+    55         43
+    56          1

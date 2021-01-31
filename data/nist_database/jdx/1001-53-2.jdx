@@ -1,0 +1,43 @@
+##TITLE=Library Entry 995
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-Acetylethylenediamine
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=1001-53-2
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    13         14
+    14         14
+    15         69
+    16          6
+    18         24
+    26          4
+    28        227
+    29         49
+    30        999
+    31        114
+    32         16
+    34          6
+    39          3
+    40          6
+    41         22
+    42        161
+    43        791
+    44         71
+    45         94
+    52          8
+    53         12
+    56          4
+    58         59
+    59         36
+    60         44
+    70          9
+    73        361
+    74         14

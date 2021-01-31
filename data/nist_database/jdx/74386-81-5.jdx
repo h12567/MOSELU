@@ -1,0 +1,28 @@
+##TITLE=Library Entry 1649
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S. Chizhov, Zelinskii Inst. Org. Chem., Acad. Sci., M
+oscow w, USSR
+##NAMES=HP
+##CAS NAME=2-Propen-1-amine, N-nitro-
+##MOLFORM=C3H6N2O2
+##CAS REGISTRY NO=74386-81-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    27        650
+    28        976
+    30        919
+    39        999
+    40        294
+    41        646
+    44        317
+    45         42
+    46        130
+    54        545
+    55        618
+    75         65

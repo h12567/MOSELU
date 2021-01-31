@@ -1,0 +1,58 @@
+##TITLE=Library Entry 63066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=L-Phenylalanine, N-(trifluoroacetyl)-, 1-methylpropyl ester
+##MOLFORM=C15H18F3NO3
+##CAS REGISTRY NO=58072-44-9
+##MP= -300
+##BP= -300
+##MW= 317
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41          4
+    42          5
+    43         26
+    44         85
+    45         26
+    49          4
+    50         56
+    51         84
+    52         25
+    58          5
+    59          9
+    63         14
+    65        137
+    69         82
+    73         25
+    76          5
+    77        120
+    78         68
+    89         53
+    90         32
+    91        999
+    92        105
+    96          3
+   102         65
+   103        132
+   104         82
+   117         19
+   118         33
+   119         81
+   120         20
+   128          5
+   130         10
+   131        210
+   132         23
+   146         18
+   147         26
+   148        101
+   175          7
+   176        419
+   177         63
+   198         12
+   216         62

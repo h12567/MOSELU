@@ -1,0 +1,60 @@
+##TITLE=Library Entry 67358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(Trichlorovinyl)methyldichlorosilane
+##MOLFORM=C3H3Cl5Si
+##CAS REGISTRY NO=18083-46-0
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    63        398
+    64         37
+    65        139
+    94        999
+    95         70
+    96        676
+    97         26
+    98        128
+   113        718
+   114         62
+   115        486
+   116         51
+   117        121
+   118         18
+   133        532
+   134         58
+   135        533
+   136         58
+   137        186
+   138         17
+   157        180
+   158         39
+   159        181
+   160         18
+   161         59
+   207         31
+   209         39
+   211         20
+   213          7
+   226         18
+   227        157
+   228         29
+   229        279
+   230         38
+   231        180
+   232         16
+   233         72
+   241         19
+   242        157
+   243         30
+   244        278
+   245         39
+   246        191
+   247         18
+   248         67

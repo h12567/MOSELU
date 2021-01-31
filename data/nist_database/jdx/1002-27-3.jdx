@@ -1,0 +1,64 @@
+##TITLE=Library Entry 48728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,3,6-Heptatriene
+##MOLFORM=C7H10
+##CAS REGISTRY NO=1002-27-3
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=729
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          7
+    15         15
+    16          0
+    25          5
+    26         46
+    27        256
+    28         36
+    29         24
+    31          3
+    37         29
+    38         80
+    39        536
+    40        102
+    41        226
+    42         19
+    43          6
+    44          5
+    45         11
+    46         10
+    49         13
+    50         86
+    51        130
+    52         76
+    53        145
+    54         57
+    55         19
+    61         17
+    62         41
+    63         67
+    64         19
+    65        185
+    66        327
+    67         97
+    68          6
+    74         10
+    75          5
+    77        697
+    78        130
+    79        999
+    80         61
+    85          3
+    86          5
+    87          3
+    89          5
+    91        220
+    92         24
+    93         86
+    94        242
+    95         20

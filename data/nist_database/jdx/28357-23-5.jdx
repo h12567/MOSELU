@@ -1,0 +1,54 @@
+##TITLE=Library Entry 70361
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 3-methyl-2-(1-methylethyl)-, cis-trans
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=28357-23-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        643
+    42        153
+    43        416
+    44         74
+    53         86
+    54         20
+    55        643
+    56        480
+    57         86
+    65         20
+    67         80
+    68         50
+    69        520
+    70         78
+    71         24
+    77         24
+    79         42
+    81         60
+    82         22
+    83        807
+    84        167
+    85         24
+    91         14
+    93         40
+    94          8
+    95        131
+    96         42
+    97        999
+    98        207
+    99         10
+   110         16
+   111        940
+   112        631
+   113         40
+   121         24
+   125         18
+   139        191
+   154        201
+   155         20

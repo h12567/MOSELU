@@ -1,0 +1,43 @@
+##TITLE=Library Entry 75993
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=Tyramine, 2TMS derivative
+##MOLFORM=C14H27NOSi2
+##CAS REGISTRY NO=54965-31-0
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=1653
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         85
+    41          8
+    43         27
+    44         11
+    45         75
+    58         32
+    59         55
+    72          6
+    73        517
+    74         47
+    75         78
+    77         20
+    86          8
+    91         17
+   102        999
+   103        109
+   104         37
+   147         15
+   149         39
+   163         26
+   165         38
+   177          7
+   179         53
+   180         44
+   192         21
+   266        106
+   267         25

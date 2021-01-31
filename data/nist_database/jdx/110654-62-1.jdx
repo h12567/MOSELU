@@ -1,0 +1,27 @@
+##TITLE=Library Entry 98645
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Trichloromethyl-3,4(1H)-dihydro-2,3-benzothiazine 2,2-dioxide
+##MOLFORM=C9H8Cl3NO2S
+##CAS REGISTRY NO=110654-62-1
+##MP= -300
+##BP= -300
+##MW= 299
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    57         58
+    63         60
+    64         59
+    89        130
+    90         98
+    91        168
+   117        269
+   118        999
+   128         69
+   130         60
+   164         60
+   182        410

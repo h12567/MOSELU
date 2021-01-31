@@ -1,0 +1,40 @@
+##TITLE=Library Entry 100759
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.A. CORRAL, DIV. QUIM. ORG., UNIV. NAC. LA PLATA, ARGE
+N
+##NAMES=HP
+##CAS NAME=1-Methyl-3-phenyl-2,4,5-trioxoimidazolidine
+##MOLFORM=C10H8N2O3
+##CAS REGISTRY NO=16935-46-9
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    40         20
+    41         30
+    44         30
+    50         30
+    51         40
+    52         20
+    56         30
+    57         20
+    62         10
+    63         50
+    64         60
+    65         30
+    70         20
+    74         10
+    75         10
+    76         10
+    77         20
+    89         10
+    90         20
+    91        210
+    92         20
+   119        999
+   120         90
+   204        550

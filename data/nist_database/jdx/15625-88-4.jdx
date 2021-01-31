@@ -1,0 +1,54 @@
+##TITLE=Library Entry 6575
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-[1,2,4]Triazol-1-ylethanone
+##MOLFORM=C4H5N3O
+##CAS REGISTRY NO=15625-88-4
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    25          2
+    26          4
+    27         17
+    28        124
+    29         17
+    38          6
+    39          9
+    40         30
+    41         33
+    42        320
+    43        999
+    44         23
+    45         16
+    51          1
+    52          1
+    53          4
+    54          1
+    55          6
+    56          8
+    57          3
+    60         16
+    65          1
+    66          1
+    67          1
+    68          1
+    69        170
+    70        235
+    71          8
+    76          1
+    77          1
+    81          1
+    82         10
+    83        219
+    84          7
+    85          1
+    94          1
+    96          2
+   111        200
+   112         13

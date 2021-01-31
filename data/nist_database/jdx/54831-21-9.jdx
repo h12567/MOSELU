@@ -1,0 +1,42 @@
+##TITLE=Library Entry 68711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptane-7-methanol, 2-hydroxy-1,7-dimethyl-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=54831-21-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26         84
+    29         86
+    31         70
+    39         96
+    41        172
+    43        134
+    53         66
+    55        120
+    67        124
+    69         64
+    71         36
+    77         56
+    79         85
+    81         66
+    91         48
+    93        102
+    94         60
+    95        999
+    96         96
+   108         68
+   109         48
+   111         36
+   121         71
+   126         85
+   139        208
+   140         41
+   152         36

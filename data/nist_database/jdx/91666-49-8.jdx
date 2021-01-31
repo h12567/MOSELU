@@ -1,0 +1,65 @@
+##TITLE=Library Entry 61797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.Warnke ET AL,Biomed.Mass Spectrom.,11,230,(1984)
+##NAMES=HP
+##CAS NAME=.alpha.-Aminooxy-.beta.-phenylpropionic acid, methyl ester
+##MOLFORM=C10H13NO3
+##CAS REGISTRY NO=91666-49-8
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    30         34
+    33        381
+    39         58
+    40          9
+    41         28
+    42         14
+    43         37
+    44         79
+    45         11
+    50         26
+    51         62
+    52         14
+    59         91
+    63          9
+    64         45
+    65         14
+    66        155
+    67         13
+    75         11
+    76         14
+    77         16
+    78        100
+    79         51
+    80         25
+    89         45
+    90         38
+    91        999
+    92        133
+    93         29
+   102         29
+   103        195
+   104        119
+   105         45
+   106         24
+   117         28
+   118         67
+   119         52
+   120         39
+   121        779
+   122         73
+   131        203
+   132         25
+   135         46
+   136         74
+   161         21
+   162         93
+   163        200
+   164         19
+   178         19
+   195          3

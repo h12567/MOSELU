@@ -1,0 +1,77 @@
+##TITLE=Library Entry 90138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-[2-(3-Chloro-phenoxy)-ethyl]-4-methyl-piperazine
+##MOLFORM=C13H19ClN2O
+##CAS REGISTRY NO=337312-00-2
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    35          4
+    36         30
+    38         16
+    40          3
+    42        183
+    43         88
+    44         16
+    53          1
+    54         28
+    55         45
+    56        137
+    57         26
+    58         25
+    62          4
+    63         29
+    64         12
+    65          9
+    68          4
+    70        449
+    71         41
+    72         11
+    73         18
+    74          3
+    75         46
+    76         14
+    77          2
+    79         13
+    80         31
+    81         15
+    82         37
+    83          9
+    84         41
+    85         12
+    91         26
+    92          4
+    95          3
+    97         16
+    98         86
+    99        128
+   100          8
+   101         24
+   102          1
+   111        144
+   113        999
+   114         65
+   119          8
+   120          4
+   125         16
+   126         96
+   127        433
+   128         55
+   129          5
+   130          9
+   132          4
+   141          9
+   153          4
+   154          4
+   155          8
+   175         40
+   182          2
+   254         28
+   256          3

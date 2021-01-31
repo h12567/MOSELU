@@ -1,0 +1,47 @@
+##TITLE=Library Entry 17909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Thiodiglycolic anhydride
+##MOLFORM=C4H4O3S
+##CAS REGISTRY NO=3261-87-8
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    12         19
+    13         61
+    14        179
+    15         12
+    17          1
+    25         17
+    27         38
+    28         59
+    29         50
+    32         14
+    33         20
+    34         15
+    40         15
+    41         54
+    42        535
+    43        205
+    44        136
+    45        585
+    46        999
+    47         58
+    48         54
+    56          9
+    57         19
+    58         51
+    59        158
+    60        835
+    61         43
+    62         46
+    88         24
+   132        526
+   133         27
+   134         31

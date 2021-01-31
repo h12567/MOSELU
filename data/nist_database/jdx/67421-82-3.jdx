@@ -1,0 +1,35 @@
+##TITLE=Library Entry 23450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. GUPTA, DEP. CHEM., GOV. COLL., AMJER, INDIA
+##NAMES=HP
+##CAS NAME=Isopropyl isobutyl disulfide
+##MOLFORM=C7H16S2
+##CAS REGISTRY NO=67421-82-3
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1118
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        210
+    29        350
+    39        200
+    40         50
+    41        700
+    42        100
+    43        600
+    45         80
+    46         30
+    47         50
+    55         60
+    56         60
+    57        999
+    58         50
+    59         50
+    66         50
+    76         30
+   108        110
+   122        140
+   164        230

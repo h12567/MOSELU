@@ -1,0 +1,57 @@
+##TITLE=Library Entry 19478
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Hallstrom ET.AL.Biomed.Mass Spectrom.,8,514(1981)
+##NAMES=HP
+##CAS NAME=2,5-Pyrrolidinedione, 1-penta-3,4-dienyl-
+##MOLFORM=C9H11NO2
+##CAS REGISTRY NO=81068-32-8
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    38        109
+    39        453
+    40        242
+    41        955
+    42        397
+    43        255
+    44        848
+    45         47
+    50         49
+    51        111
+    52        102
+    53        224
+    54        200
+    55        999
+    56        656
+    57         88
+    65        111
+    66        597
+    67        167
+    68        222
+    69        329
+    70        134
+    71         59
+    72        122
+    80         98
+    81        242
+    82        261
+    83        118
+    84        334
+    85         87
+    97        109
+    98         48
+    99        397
+   100        918
+   101         44
+   112         93
+   113         64
+   122         64
+   124         46
+   136         59
+   137        107
+   165        133

@@ -1,0 +1,84 @@
+##TITLE=Library Entry 1997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-Trifluoroacetylimidazole
+##MOLFORM=C5H3F3N2O
+##CAS REGISTRY NO=1546-79-8
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=830
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    12         16
+    13         22
+    14          6
+    19          9
+    20          2
+    24          3
+    25         17
+    26         70
+    27         31
+    28        134
+    31         25
+    32          2
+    33          3
+    34          3
+    36          1
+    38         98
+    39        198
+    40        999
+    41         75
+    42          6
+    44          5
+    46          3
+    47          4
+    50        116
+    51         31
+    52         22
+    53          5
+    54          5
+    55          2
+    57          1
+    60          6
+    62          1
+    63          4
+    64          4
+    65          5
+    66         25
+    67         69
+    68        391
+    69        714
+    70         20
+    71          3
+    72          8
+    75          1
+    76          3
+    77          1
+    78         25
+    79          1
+    81          2
+    82         15
+    85          4
+    86         15
+    89         18
+    90         53
+    91          3
+    93          1
+    95        255
+    96         22
+    97          9
+   108          5
+   109         16
+   110          1
+   115          1
+   116          6
+   117          7
+   135          4
+   136          2
+   164        418
+   165         28
+   166          1

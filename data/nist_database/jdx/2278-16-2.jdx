@@ -1,0 +1,53 @@
+##TITLE=Library Entry 32841
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=3H-v-Triazolo(4,5-d)pyrimidine-5,7(4H,6H)-dione, 3,4,6-trimethyl-
+##MOLFORM=C7H9N5O2
+##CAS REGISTRY NO=2278-16-2
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    39         39
+    40        179
+    41        279
+    42        299
+    43        159
+    51         79
+    52         79
+    53        299
+    54        149
+    55        109
+    56         89
+    57          9
+    58         39
+    65          9
+    66         69
+    67        999
+    68         69
+    69        389
+    70        129
+    77          9
+    79          9
+    80         49
+    81        789
+    82        749
+    83        149
+    94         19
+    95         49
+    96          9
+   109        209
+   110        389
+   111         39
+   124          9
+   138         59
+   152         49
+   166          9
+   167         19
+   195        139
+   196         19

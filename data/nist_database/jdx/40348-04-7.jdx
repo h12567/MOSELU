@@ -1,0 +1,60 @@
+##TITLE=Library Entry 41497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.M. RUBOTTOM, DEP. CHEM., UNIV. IDAHO, MOSCOW, L
+##NAMES=HP
+##CAS NAME=Pentamethyleneketene bis(trimethylsilyl) acetal
+##MOLFORM=C13H28O2Si2
+##CAS REGISTRY NO=40348-04-7
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    40         53
+    41         95
+    43         57
+    44         45
+    45        187
+    47         45
+    53         41
+    54         30
+    55        114
+    59         41
+    61         38
+    67         49
+    69         22
+    72         30
+    73        999
+    74         87
+    75        427
+    76         22
+    77         34
+    79         30
+    81        141
+    82         80
+    83         38
+   109         72
+   110         87
+   117         61
+   129         30
+   131         22
+   133         22
+   145         22
+   147        274
+   148         41
+   149         26
+   155         22
+   156         19
+   185        305
+   186         41
+   187         15
+   190         41
+   200         68
+   204         41
+   217         45
+   243         49
+   257         19
+   272        248

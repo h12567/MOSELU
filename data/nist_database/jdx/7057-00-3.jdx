@@ -1,0 +1,45 @@
+##TITLE=Library Entry 87084
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propan-1-one, 2-amino-1-(2-thienyl)-
+##MOLFORM=C7H9NOS
+##CAS REGISTRY NO=7057-00-3
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    50         37
+    52         26
+    54         19
+    55         41
+    56        157
+    57        696
+    58         30
+    61         18
+    65         13
+    67         11
+    69        105
+    71         33
+    73          9
+    76         14
+    80         20
+    81         61
+    82        287
+    83        260
+    84        143
+    91         47
+    97          7
+   100          6
+   110        999
+   111        111
+   112         61
+   138        195
+   139         32
+   140         51
+   155        231
+   157         15

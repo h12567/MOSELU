@@ -1,0 +1,65 @@
+##TITLE=Library Entry 70071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-(2-Ethyl-1,2,4-triazol-3-yl)ethanamine
+##MOLFORM=C6H12N4
+##CAS REGISTRY NO=1015846-51-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27         39
+    28         20
+    29        143
+    30         98
+    39         10
+    40         15
+    41         25
+    42         68
+    43         50
+    44        136
+    45          3
+    51          1
+    52         15
+    53         17
+    54         36
+    55         75
+    56         34
+    57         10
+    66          8
+    67         15
+    68         28
+    69         57
+    70        866
+    71         75
+    72          4
+    81          5
+    82         34
+    83         27
+    84         19
+    94          6
+    95         22
+    96        132
+    97        999
+    98        123
+    99          4
+   101          1
+   108         27
+   109         14
+   110          7
+   111         99
+   112          9
+   122         10
+   123        116
+   124         29
+   125        670
+   126         48
+   127          1
+   139         13
+   140         60
+   141          6

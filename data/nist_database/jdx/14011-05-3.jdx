@@ -1,0 +1,30 @@
+##TITLE=Library Entry 17428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Cyano-N-fluoroformimidoyl fluoride (anti)
+##MOLFORM=C2F2N2
+##CAS REGISTRY NO=14011-05-3
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    26        281
+    27          4
+    31        772
+    32          8
+    45        999
+    46         15
+    52        201
+    53          6
+    57        112
+    58          3
+    71        352
+    72         11
+    90        921
+    91         28
+    92          2

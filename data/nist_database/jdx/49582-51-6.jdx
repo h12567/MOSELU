@@ -1,0 +1,42 @@
+##TITLE=Library Entry 22614
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenal, 3-(dimethylamino)-3-(methylamino)-
+##MOLFORM=C6H12N2O
+##CAS REGISTRY NO=49582-51-6
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         50
+    40        100
+    41        310
+    42        569
+    43        110
+    44        829
+    45        140
+    46        120
+    54        170
+    55        300
+    56        999
+    57         80
+    58         90
+    68        140
+    69        120
+    70        300
+    71        150
+    72        100
+    82        420
+    83        130
+    84        999
+    85         90
+    98         50
+   100        170
+   102         50
+   111        529
+   128        699

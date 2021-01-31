@@ -1,0 +1,30 @@
+##TITLE=Library Entry 63030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Selva, CNR, Cent. Stud. Nat. Org. Subst., Dep. Chem.
+, Politech. Milan, Italy
+##NAMES=HP
+##CAS NAME=1-(p-Toluenesulfonyl)-2-pyrrolidinone
+##MOLFORM=C11H13NO3S
+##CAS REGISTRY NO=10019-95-1
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    56         90
+    65        260
+    86         60
+    89         70
+    91        999
+   120         75
+   139         30
+   155        150
+   174        150
+   175        700
+   176         80
+   184          2
+   211          3
+   239          3

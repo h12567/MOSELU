@@ -1,0 +1,52 @@
+##TITLE=Library Entry 51932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KENTTAEMAA, DEP. CHEM., HELSINKI UNIV., FINLAND
+##NAMES=HP
+##CAS NAME=4-Isopropyl-2,6,7-trioxa-1-phosphabicyclo[2.2.2]octane 1-selenide
+##MOLFORM=C7H13O3PSe
+##CAS REGISTRY NO=77414-33-6
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        310
+    28         70
+    29        200
+    39        410
+    41        980
+    42         60
+    43        620
+    44         80
+    47        210
+    53        250
+    55        940
+    56         70
+    57        270
+    65         60
+    67        560
+    68         60
+    69        170
+    70         20
+    71         40
+    79        260
+    81        100
+    82        500
+    83        999
+    93         70
+    95        300
+   109         30
+   131         70
+   145         40
+   146        120
+   175         10
+   176         60
+   252        100
+   253         90
+   254        320
+   256        700
+   257         30
+   258        110

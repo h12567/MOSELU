@@ -1,0 +1,55 @@
+##TITLE=Library Entry 3390
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Pentene, 3-methyl-, (Z)-
+##MOLFORM=C6H12
+##CAS REGISTRY NO=922-62-3
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=609
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14         23
+    15         60
+    16          8
+    18          4
+    26         44
+    27        311
+    28        245
+    29        158
+    30          4
+    31          4
+    32         58
+    37         11
+    38         38
+    39        342
+    40         79
+    41        999
+    42        122
+    43         61
+    49          6
+    50         54
+    51         75
+    52         31
+    53        141
+    54         57
+    55        415
+    56        218
+    57         10
+    61          4
+    62          9
+    63         15
+    65         25
+    66         10
+    67         94
+    68          4
+    69        730
+    70         40
+    77          7
+    79          5
+    84        360
+    85         22

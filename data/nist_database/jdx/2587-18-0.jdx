@@ -1,0 +1,31 @@
+##TITLE=Library Entry 70568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Spiro[bicyclo[3.1.0]hexane-6,3'(2'H)-as-indacen]-2-one, decahydro
+-6'-hydroxy-5,5'a-dimethyl-, acetate, stereoisomer
+##MOLFORM=C21H30O3
+##CAS REGISTRY NO=2587-18-0
+##MP= -300
+##BP= -300
+##MW= 330
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    97        999
+   117        100
+   119        108
+   131         97
+   132         83
+   133        197
+   145        131
+   146        112
+   147        141
+   148        131
+   159        166
+   174        222
+   234         89
+   288          6
+   330          6

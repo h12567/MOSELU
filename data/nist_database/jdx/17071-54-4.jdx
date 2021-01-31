@@ -1,0 +1,53 @@
+##TITLE=Library Entry 9874
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Hexyl octyl ether
+##MOLFORM=C14H30O
+##CAS REGISTRY NO=17071-54-4
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        105
+    28         23
+    29        209
+    31         23
+    39        108
+    41        587
+    42        241
+    43        999
+    44         55
+    45         31
+    53         41
+    54         50
+    55        444
+    56        609
+    57        847
+    58         36
+    67         65
+    68        117
+    69        444
+    70        238
+    71        664
+    72         41
+    73         10
+    81         18
+    82        116
+    83        392
+    84        477
+    85        962
+    86         53
+    87          9
+    97         25
+   101          9
+   103         38
+   111         84
+   112         96
+   113         50
+   115         16
+   143          7

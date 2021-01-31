@@ -1,0 +1,44 @@
+##TITLE=Library Entry 6464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. S. WAIGHT, IMPERIAL COLLEGE, LONDON
+##NAMES=HP
+##CAS NAME=Azuleno[4,5-b]furan-2,8(3H,4H)-dione, 3a,5,6,6a,7,9b-hexahydro-6-
+hydroxy-3,6,9-trimethyl-, [3S-(3.alpha.,3a.alpha.,6.alpha.,6a.alpha.,9b.beta
+.)]-
+##MOLFORM=C15H20O4
+##CAS REGISTRY NO=1618-98-0
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39        190
+    41        340
+    43        999
+    53        100
+    55        230
+    57        100
+    65        100
+    67        115
+    69        120
+    77        120
+    79        100
+    81        100
+    91        180
+    95        130
+    96        100
+    97        100
+   105        135
+   107        100
+   123        115
+   124        150
+   126        125
+   133        140
+   147        100
+   149        120
+   169        130
+   193        190
+   264        310

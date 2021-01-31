@@ -1,0 +1,47 @@
+##TITLE=Library Entry 6506
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentane, 2-methyl-
+##MOLFORM=C6H14
+##CAS REGISTRY NO=107-83-5
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=570
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+     2          1
+    12          1
+    13          1
+    14          5
+    15         48
+    16          2
+    26         16
+    27        234
+    28         27
+    29        160
+    30          4
+    32          1
+    39        134
+    40         23
+    41        290
+    42        540
+    43        999
+    44         32
+    53         11
+    54          3
+    55         50
+    56         42
+    57        101
+    58          4
+    69          5
+    70         64
+    71        267
+    72         14
+    84          1
+    85          7
+    86         33
+    87          2

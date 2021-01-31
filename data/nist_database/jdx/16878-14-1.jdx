@@ -1,0 +1,70 @@
+##TITLE=Library Entry 65605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. BRUCK, MAGYAR TUDOMANYOS AKADEMIA, HUNGARY
+##NAMES=HP
+##CAS NAME=4H-Pyrido[1,2-a]pyrimidine-3-carboxylic acid, 9-methyl-4-oxo-, et
+hyl ester
+##MOLFORM=C12H12N2O3
+##CAS REGISTRY NO=16878-14-1
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    39        192
+    41         35
+    43         15
+    44         27
+    50         23
+    51         85
+    52         73
+    53        192
+    54         15
+    63         46
+    64         85
+    65        442
+    66         81
+    67         15
+    76         31
+    77        135
+    78         77
+    79         23
+    80         12
+    90         13
+    91         81
+    92        999
+    93        231
+    94         10
+   102         15
+   103         27
+   104        108
+   105         35
+   118         65
+   119        327
+   120         23
+   129         19
+   130         23
+   131        127
+   132        500
+   133         46
+   158         46
+   159        231
+   160        846
+   161         85
+   175         23
+   176        231
+   177         19
+   186         23
+   187        769
+   188         92
+   189         15
+   203          8
+   204         69
+   205          4
+   231          4
+   232        865
+   233        115
+   234         10

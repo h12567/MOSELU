@@ -1,0 +1,72 @@
+##TITLE=Library Entry 41226
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=N-Hexadecylacetamide
+##MOLFORM=C18H37NO
+##CAS REGISTRY NO=14303-96-9
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         49
+    29        115
+    30        604
+    31         14
+    39         39
+    41        325
+    42        100
+    43        632
+    44        149
+    45         62
+    54         32
+    55        276
+    56        110
+    57        218
+    58         53
+    60        276
+    67         47
+    68         29
+    69        152
+    70         56
+    71         85
+    72        688
+    73        999
+    74         49
+    81         47
+    83        101
+    84         32
+    85         51
+    86        381
+    87        192
+    88         32
+    89         27
+    97         72
+    98         54
+   100        348
+   101        150
+   111         34
+   114        399
+   115         77
+   128        183
+   129         69
+   142        130
+   143         31
+   156        130
+   170         87
+   184         65
+   185         24
+   198         55
+   212         45
+   226         47
+   227         13
+   240         56
+   241         19
+   254         26
+   268         91
+   283        100
+   284         24

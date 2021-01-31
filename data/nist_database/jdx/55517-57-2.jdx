@@ -1,0 +1,88 @@
+##TITLE=Library Entry 42727
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=Pentaric acid, 2,3-dideoxy-4-O-(trimethylsilyl)-3-[[(trimethylsil
+yl)oxy]carbonyl]-, bis(trimethylsilyl) ester
+##MOLFORM=C18H40O7Si4
+##CAS REGISTRY NO=55517-57-2
+##MP= -300
+##BP= -300
+##MW= 480
+##$RETENTION INDEX=1840
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    43         20
+    44         30
+    45        110
+    46         10
+    47         15
+    55         55
+    58         10
+    59         20
+    61         10
+    67         15
+    72         35
+    73        999
+    74         85
+    75        140
+    76         10
+    83         40
+    95         15
+   113         10
+   116         15
+   117         20
+   129         40
+   131         25
+   133         50
+   134         10
+   143         25
+   147        415
+   148         65
+   149         60
+   150         10
+   157         15
+   161         10
+   191         20
+   203         10
+   204         45
+   205         15
+   207         10
+   211         25
+   213         10
+   217         30
+   219         10
+   221         25
+   245        190
+   246         40
+   247         15
+   259         10
+   272         10
+   273        325
+   274         65
+   275         30
+   285         20
+   303         10
+   305         30
+   306         10
+   318         10
+   319         85
+   320         25
+   321         15
+   347         55
+   348         15
+   349         10
+   363         75
+   364         20
+   365         15
+   375         90
+   376         25
+   377         15
+   390         10
+   465         85
+   466         35
+   467         20
+   480         10

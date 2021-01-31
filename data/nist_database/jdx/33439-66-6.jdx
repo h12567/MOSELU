@@ -1,0 +1,77 @@
+##TITLE=Library Entry 52235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. CLERC
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 2-methyl-, 2,3,3a,4,5,7,9a,9b-octahydro-3,6,9-tr
+imethyl-2,7-dioxoazuleno[4,5-b]furan-3,4-diyl ester, [3R-[3.alpha.(Z),3a.bet
+a.,4.beta.(Z),9a.beta.,9b.alpha.]]-
+##MOLFORM=C25H30O7
+##CAS REGISTRY NO=33439-66-6
+##MP= -300
+##BP= -300
+##MW= 442
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    29        285
+    39        178
+    41        100
+    43        678
+    45         35
+    53        157
+    54        157
+    55        964
+    56        142
+    61         42
+    69         78
+    71         42
+    77         35
+    79         28
+    82        285
+    83        999
+    84        250
+    85         71
+    91        121
+    99         71
+   100         71
+   101         71
+   105         71
+   107         35
+   115         35
+   117         35
+   119         35
+   128         71
+   129        107
+   141         35
+   143        107
+   144         57
+   145         78
+   146        157
+   155         57
+   157         57
+   158        107
+   159         85
+   169         71
+   171        257
+   172        164
+   173        107
+   185         71
+   186        200
+   187         71
+   189         71
+   196         92
+   197        107
+   199        264
+   213         71
+   214        142
+   215         71
+   224         78
+   225         35
+   227         57
+   242        642
+   243        607
+   244        107
+   342         35
+   442         42

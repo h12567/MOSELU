@@ -1,0 +1,77 @@
+##TITLE=Library Entry 12140
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Isopulegol acetate
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=57576-09-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1285
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         19
+    27         64
+    28         15
+    29         71
+    31          8
+    39        146
+    40         42
+    41        294
+    42          8
+    43        999
+    44         26
+    45         12
+    50          9
+    51         29
+    52         22
+    53        124
+    54         32
+    55        189
+    56         39
+    57         32
+    61          8
+    65         55
+    66         25
+    67        222
+    68        118
+    69        175
+    70         28
+    71         60
+    77         85
+    78         29
+    79        250
+    80        136
+    81        413
+    82         60
+    83         56
+    84         41
+    85         32
+    91         89
+    92         97
+    93        415
+    94        225
+    95        155
+    96         35
+    97         58
+    98         19
+   105         30
+   107        328
+   108        127
+   109        106
+   110         23
+   111         35
+   112         16
+   119         19
+   121        356
+   122         41
+   123         25
+   134         11
+   136        425
+   137         52
+   138         26
+   139         26

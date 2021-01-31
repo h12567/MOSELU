@@ -1,0 +1,26 @@
+##TITLE=Library Entry 76937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K-H. ONGANIA, INST. ORG. PHARM., INNSBRUCK UNIV., AUSTR
+IA
+##NAMES=HP
+##CAS NAME=4-(Hydroxymethyl)-1-phenyl-2-azetidinone
+##MOLFORM=C10H11NO2
+##CAS REGISTRY NO=65837-49-2
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    39         80
+    51        240
+    64         80
+    77        610
+    91        220
+   104        999
+   106        200
+   119        450
+   135        180
+   177        410

@@ -1,0 +1,27 @@
+##TITLE=Library Entry 15539
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PSSCBG, 9( )305(1978); J. ROUCHAUD ET AL.
+##NAMES=HP
+##CAS NAME=Piperazine, 1-(aminoacetyl)-
+##MOLFORM=C6H13N3O
+##CAS REGISTRY NO=77808-88-9
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    42        880
+    43        680
+    44        999
+    45        750
+    56        980
+    57        910
+    71        110
+    85        830
+    86        750
+    98         50
+   114        240
+   143         50

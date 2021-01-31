@@ -1,0 +1,31 @@
+##TITLE=Library Entry 32189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(5)1755(1978); C. WENTRUP
+##NAMES=HP
+##CAS NAME=Tetrazolo[1,5-a]pyrazine
+##MOLFORM=C4H3N5
+##CAS REGISTRY NO=13349-87-6
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    38        160
+    39        430
+    40        190
+    41         88
+    42         16
+    51         50
+    52        100
+    53        180
+    65         60
+    66        999
+    67         60
+    92         30
+    93        440
+    94         26
+   121         50
+   122         10

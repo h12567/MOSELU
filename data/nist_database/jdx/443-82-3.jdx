@@ -1,0 +1,89 @@
+##TITLE=Library Entry 86319
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Fluoro-o-xylene
+##MOLFORM=C8H9F
+##CAS REGISTRY NO=443-82-3
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          2
+    16          4
+    26          2
+    27         18
+    28         12
+    29          2
+    31          3
+    32          1
+    37          3
+    38          9
+    39         24
+    40          0
+    44          3
+    45          3
+    49          3
+    50         27
+    51         58
+    52          8
+    53          6
+    56          4
+    57         35
+    58          3
+    59          4
+    60          8
+    61         11
+    62         13
+    63         31
+    64          4
+    65          4
+    68          5
+    69          8
+    70         14
+    71          4
+    73          4
+    74         17
+    75         31
+    76         11
+    77         91
+    78         15
+    79          4
+    80          2
+    81         16
+    82          2
+    83         68
+    84          5
+    85          3
+    86          4
+    87          5
+    89         10
+    91          6
+    92          2
+    93          3
+    94          8
+    95         21
+    96         42
+    97         25
+    98          7
+    99          2
+   100          5
+   101         38
+   102         21
+   103         61
+   104          6
+   105          3
+   107         18
+   109        999
+   110         66
+   120          9
+   121         26
+   122         35
+   123        229
+   124        421
+   125         34

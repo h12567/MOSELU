@@ -1,0 +1,87 @@
+##TITLE=Library Entry 71781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Hexanoic acid, cyclopentyl ester
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=5413-59-2
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    25          7
+    26         59
+    27        331
+    28         30
+    29        321
+    30          9
+    31         17
+    35          8
+    36          9
+    37         17
+    38         41
+    39        341
+    40         79
+    41        655
+    42        278
+    43        597
+    44         82
+    45         47
+    49          8
+    50         21
+    51         38
+    52         21
+    53         85
+    54         12
+    55        268
+    56         93
+    57         91
+    58         21
+    59         18
+    60        271
+    61         85
+    62         13
+    63         13
+    65          9
+    66         21
+    67        197
+    68        362
+    69        466
+    70        111
+    71        368
+    72         27
+    73        142
+    74         21
+    76          9
+    78          9
+    79         12
+    80         12
+    81         11
+    82         11
+    83         19
+    84         41
+    85        108
+    86         11
+    87         66
+    88          9
+    89         19
+    91         15
+    94          7
+    95          9
+    97         18
+    98         31
+    99        999
+   100        109
+   101         18
+   113         52
+   114         79
+   115         25
+   116        148
+   117        479
+   118         39
+   127         71
+   129          9

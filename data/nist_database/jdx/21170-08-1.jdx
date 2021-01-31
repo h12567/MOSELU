@@ -1,0 +1,80 @@
+##TITLE=Library Entry 20710
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Fales, LC, NHLBI, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=1-Methylbicyclo[3.3.0]octane-3,7-dione
+##MOLFORM=C9H12O2
+##CAS REGISTRY NO=21170-08-1
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    41        449
+    42         99
+    43         30
+    45          3
+    46          2
+    47          5
+    48          2
+    49         15
+    50         20
+    51         46
+    52         25
+    53        139
+    54         79
+    55        999
+    56         72
+    57          4
+    58          0
+    60          1
+    61          1
+    62          7
+    63         15
+    65         49
+    66         30
+    67        297
+    68        406
+    69        379
+    70         19
+    73          1
+    74          2
+    75          1
+    77         28
+    78          1
+    79         46
+    80         14
+    81        157
+    82        369
+    83        787
+    84         59
+    86         25
+    88          3
+    91         10
+    93         13
+    95        107
+    96         86
+    97         50
+    98          3
+   105          1
+   106          4
+   107          5
+   109         73
+   110         72
+   111         41
+   112          1
+   119          1
+   121          0
+   123          5
+   124         78
+   125          5
+   134          0
+   135          1
+   137         43
+   138          1
+   152        272
+   153         39
+   154          1

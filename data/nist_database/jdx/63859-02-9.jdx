@@ -1,0 +1,53 @@
+##TITLE=Library Entry 17694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-2-carbomethoxy-2-carbamoylaziridine
+##MOLFORM=C6H10N2O4
+##CAS REGISTRY NO=63859-02-9
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    40        197
+    41        445
+    42        235
+    43        161
+    44        555
+    45        999
+    46         37
+    54        161
+    55        268
+    56         54
+    58        375
+    59        465
+    60         36
+    68        393
+    69        143
+    70         54
+    71        125
+    72         54
+    73         11
+    98         89
+    99        340
+   100         72
+   110         11
+   111        232
+   112         54
+   113         72
+   114         13
+   126        410
+   127         36
+   128          9
+   142        143
+   143         36
+   144          9
+   157        570
+   158         54
+   159         27
+   160          7
+   175          3

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 49434
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Chloroethyl,4-nitrophenyl phosphoramidate
+##MOLFORM=C8H10ClN2O5P
+##CAS REGISTRY NO=119401-66-0
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    62        108
+    63        959
+    64        272
+    65        430
+    74         69
+    75        152
+    76        119
+    80        999
+    81        141
+    92         70
+    93        192
+    94         60
+    98         60
+   100         20
+   106         88
+   108         59
+   109        401
+   116        132
+   118         39
+   122         99
+   123        192
+   138         59
+   139        862
+   142        718
+   144        239
+   155        109
+   171         49
+   201        351
+   218        370
+   219        190
+   231        240
+   244         69
+   245        742
+   280        453
+   282        150

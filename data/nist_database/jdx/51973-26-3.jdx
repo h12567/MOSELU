@@ -1,0 +1,58 @@
+##TITLE=Library Entry 97405
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.LLOYD PFLUG,FRANK J.SEILER RES.LAB.,USAF ACADEMY,CO 8
+0840,USA
+##NAMES=HP
+##CAS NAME=3,6-Bis(4-methylphenyl)-tetrazine
+##MOLFORM=C16H14N4
+##CAS REGISTRY NO=51973-26-3
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27          6
+    37          4
+    38          9
+    39         49
+    40          9
+    41          3
+    49          2
+    50         22
+    51         45
+    52         17
+    53          8
+    61          6
+    62         25
+    63         81
+    64         53
+    65         32
+    66          9
+    74          7
+    75         23
+    76         21
+    77         14
+    78          6
+    86          3
+    87          8
+    88         19
+    89        234
+    90        324
+    91         45
+    92          1
+    99          1
+   100          2
+   102          4
+   114          8
+   115          8
+   116        345
+   117        999
+   118        124
+   119          7
+   260          2
+   262         72
+   263         17
+   264          3

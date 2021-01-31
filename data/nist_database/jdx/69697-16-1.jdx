@@ -1,0 +1,47 @@
+##TITLE=Library Entry 27720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Thiacyclooctane-5-ol
+##MOLFORM=C7H14OS
+##CAS REGISTRY NO=69697-16-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        882
+    42        840
+    45        433
+    46        281
+    47        361
+    55        463
+    56         77
+    57        460
+    58        999
+    59        539
+    60         77
+    61        615
+    62         62
+    69        154
+    70         75
+    71        693
+    73        114
+    74        286
+    75        100
+    76        121
+    85        308
+    86        420
+    87        560
+    88        100
+    89        286
+    99        190
+   100        154
+   128        152
+   144        306
+   145        284
+   146        613
+   147         38

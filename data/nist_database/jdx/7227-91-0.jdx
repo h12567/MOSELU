@@ -1,0 +1,70 @@
+##TITLE=Library Entry 46999
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1-Triazene, 3,3-dimethyl-1-phenyl-
+##MOLFORM=C8H11N3
+##CAS REGISTRY NO=7227-91-0
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         12
+    26          2
+    27         10
+    28          2
+    29          1
+    30          1
+    37          5
+    38         12
+    39         18
+    40          5
+    41          8
+    42         66
+    43         53
+    44         37
+    45          7
+    49          3
+    50         59
+    51        243
+    52         19
+    53          1
+    58          1
+    61          2
+    62          5
+    63         18
+    64         18
+    65          7
+    66          1
+    73          2
+    74         14
+    75         11
+    76         20
+    77        999
+    78         84
+    79          7
+    80          1
+    87          1
+    88          1
+    90          2
+    91         10
+    92          2
+    93          1
+    94          1
+   103          2
+   104          7
+   105        357
+   106         31
+   107          1
+   118          2
+   119          1
+   120          7
+   121          2
+   149        137
+   150         13
+   151          1

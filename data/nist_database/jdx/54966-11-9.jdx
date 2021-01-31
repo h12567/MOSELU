@@ -1,0 +1,33 @@
+##TITLE=Library Entry 52928
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1H,5H-Pyrrolo[1',2':3,4]imidazo[1,5-a]pyridine, octahydro-
+##MOLFORM=C10H18N2
+##CAS REGISTRY NO=54966-11-9
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        210
+    42        190
+    44        120
+    54         90
+    55        360
+    68         80
+    69        170
+    70         80
+    82         90
+    83        999
+    84        120
+    96        130
+    97        830
+    98         70
+   165        270
+   166        270
+   167         30

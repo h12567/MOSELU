@@ -1,0 +1,41 @@
+##TITLE=Library Entry 23274
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.OLSSON INST. OF ORG. CHEM., GOTEBORG 5, SWEDEN
+##NAMES=HP
+##CAS NAME=Benzene, 1,3-dibromo-2,4,6-tris(2,2-dimethylpropyl)-5-nitro-
+##MOLFORM=C21H33Br2NO2
+##CAS REGISTRY NO=40572-24-5
+##MP= -300
+##BP= -300
+##MW= 489
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    29        140
+    39         20
+    41        190
+    43         40
+    55         20
+    56         20
+    57        999
+    58         50
+   305         20
+   306         20
+   323         20
+   360         50
+   362         90
+   364         40
+   377         20
+   379         40
+   381         20
+   416         20
+   418         30
+   420         20
+   433         20
+   435         40
+   437         20
+   489          1
+   491          2
+   493          1

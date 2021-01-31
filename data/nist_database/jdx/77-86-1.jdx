@@ -1,0 +1,65 @@
+##TITLE=Library Entry 58756
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1766
+##NAMES=HP
+##CAS NAME=Tromethamine
+##MOLFORM=C4H11NO3
+##CAS REGISTRY NO=77-86-1
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=1645
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15         53
+    16          2
+    17          5
+    18         12
+    26          6
+    27         41
+    28         30
+    29         57
+    30        332
+    31        151
+    32          3
+    38          2
+    39         10
+    40         12
+    41         50
+    42        351
+    43         31
+    44        120
+    45         29
+    46         13
+    47          1
+    52          2
+    53          2
+    54          9
+    55         10
+    56         14
+    57         12
+    58         14
+    59         28
+    60        491
+    61         12
+    62          1
+    67          2
+    68          4
+    69          5
+    70          2
+    71          9
+    72        221
+    73         45
+    74          3
+    81          2
+    82          1
+    83          3
+    84          2
+    85          4
+    86          1
+    89          1
+    90        999
+    91         38
+    92          5

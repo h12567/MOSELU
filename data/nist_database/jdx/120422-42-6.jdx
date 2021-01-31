@@ -1,0 +1,39 @@
+##TITLE=Library Entry 47145
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Forchiassin, Dep. Chem. Sci., Univ. Trieste, Trieste
+, Italy
+##NAMES=HP
+##CAS NAME=1H-Cyclopenta[e]-1,2,4-triazin-3(2H)-one, 4,4a,5,6,7,7a-hexahydro
+-4a-methoxy-1-phenyl-
+##MOLFORM=C13H17N3O2
+##CAS REGISTRY NO=120422-42-6
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    55        400
+    65        200
+    67        400
+    77        999
+    82        500
+    93        400
+    97        200
+    98        300
+   104        300
+   107        700
+   108        400
+   117        200
+   118        200
+   130        300
+   132        300
+   169        300
+   171        200
+   172        200
+   215        450
+   247        400
+   248         60
+   249         10

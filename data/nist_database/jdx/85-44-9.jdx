@@ -1,0 +1,51 @@
+##TITLE=Library Entry 76879
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Phthalic anhydride
+##MOLFORM=C8H4O3
+##CAS REGISTRY NO=85-44-9
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=1313
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14          0
+    16          0
+    25          5
+    26         16
+    29          2
+    36         11
+    37         80
+    38        111
+    39         14
+    40          0
+    44          7
+    45          5
+    48          8
+    49         64
+    50        425
+    51         29
+    52         49
+    53         19
+    60          8
+    61         27
+    62         16
+    63         13
+    65          3
+    66          5
+    72          7
+    73         58
+    74        198
+    75        122
+    76        890
+    77         85
+    78          3
+   104        999
+   105         74
+   106          4
+   148        343
+   149         28

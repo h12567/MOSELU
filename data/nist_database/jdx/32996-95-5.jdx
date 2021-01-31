@@ -1,0 +1,39 @@
+##TITLE=Library Entry 90947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=2-Diisopropylaminoethyl ethyl ether
+##MOLFORM=C10H23NO
+##CAS REGISTRY NO=32996-95-5
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        280
+    42        246
+    43        359
+    44        248
+    45        195
+    54         48
+    56        131
+    58         75
+    70        197
+    72        925
+    73         94
+    84         36
+    86         80
+    91         21
+    98         31
+   112         57
+   113         12
+   114        999
+   115        112
+   116         45
+   123         17
+   126         17
+   128         18
+   173         39

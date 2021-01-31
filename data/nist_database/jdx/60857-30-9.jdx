@@ -1,0 +1,40 @@
+##TITLE=Library Entry 23883
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (8)837(1978); J. M. VERNON ET AL.
+##NAMES=HP
+##CAS NAME=1H-Benzo[3,4]cyclobuta[1,2-b]pyrrole, 4,5,6,7-tetrachloro-1-(1,1-
+dimethylethyl)-3a,7b-dihydro-
+##MOLFORM=C14H13Cl4N
+##CAS REGISTRY NO=60857-30-9
+##MP= -300
+##BP= -300
+##MW= 335
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        920
+    57        999
+    58        170
+    92        120
+   194        180
+   196        120
+   217        280
+   219        260
+   221         80
+   251        150
+   252         90
+   253        250
+   254        120
+   255        150
+   256         60
+   264        170
+   266        230
+   268        110
+   279        660
+   281        860
+   283        430
+   335        200
+   337        270
+   339        140

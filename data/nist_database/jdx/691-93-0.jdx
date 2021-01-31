@@ -1,0 +1,67 @@
+##TITLE=Library Entry 59147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Propanoic acid, 3-chloro-, 1-methylethyl ester
+##MOLFORM=C6H11ClO2
+##CAS REGISTRY NO=691-93-0
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=945
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         21
+    27        148
+    28          6
+    29         21
+    31          7
+    39         51
+    40         12
+    41        142
+    42        134
+    43        456
+    44         34
+    45         26
+    46          1
+    49          5
+    55         53
+    56          6
+    57          2
+    58          2
+    59        123
+    60          5
+    61          7
+    62         11
+    63        328
+    64         10
+    65         98
+    66          2
+    72          1
+    73         53
+    74          4
+    75          3
+    76          2
+    87          1
+    89          3
+    90          1
+    91        999
+    92         27
+    93        279
+    94          9
+    99         26
+   100          1
+   108        102
+   109        386
+   110         44
+   111        116
+   112          3
+   113          5
+   115          2
+   135        114
+   136          6
+   137         38
+   138          2

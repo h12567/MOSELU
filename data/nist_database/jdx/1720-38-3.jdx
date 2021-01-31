@@ -1,0 +1,61 @@
+##TITLE=Library Entry 60260
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,9-Decadiyne
+##MOLFORM=C10H14
+##CAS REGISTRY NO=1720-38-3
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        179
+    28          6
+    29         59
+    37         19
+    38         68
+    39        542
+    40         96
+    41        447
+    42         28
+    43         30
+    49          6
+    50         85
+    51        171
+    52         91
+    53        323
+    54        141
+    55        373
+    56         16
+    61          6
+    62         20
+    63         46
+    64          6
+    65        193
+    66        113
+    67        455
+    68         33
+    69          8
+    74          7
+    77        373
+    78        197
+    79        656
+    80        138
+    81         74
+    82         27
+    91        999
+    92        154
+    93        162
+    94         27
+    95         70
+   103         25
+   105        227
+   106         40
+   115          9
+   117         27
+   119         33

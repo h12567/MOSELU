@@ -1,0 +1,30 @@
+##TITLE=Library Entry 3482
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[3.2.0]heptan-3-one, 1,4,4-trimethyl-, oxime
+##MOLFORM=C10H17NO
+##CAS REGISTRY NO=55760-17-3
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        999
+    53        240
+    55        320
+    68        200
+    69        739
+    79        230
+    81        210
+   109        240
+   122        400
+   124        569
+   125        380
+   138        150
+   150        350
+   152        380
+   167         70

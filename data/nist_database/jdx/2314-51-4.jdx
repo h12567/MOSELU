@@ -1,0 +1,36 @@
+##TITLE=Library Entry 5709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORNER, FUCHS MINERALOELWERKE GMBH, MANNHEIM, W. GN
+##NAMES=HP
+##CAS NAME=Diisopropyl carbonotrithioate
+##MOLFORM=C7H14S3
+##CAS REGISTRY NO=2314-51-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        783
+    39        710
+    41        942
+    42        594
+    43        999
+    45        434
+    47        355
+    59        326
+    61        370
+    66         16
+    75        587
+    76        725
+    77        158
+   103         35
+   108         18
+   110        149
+   119         96
+   150         38
+   151         69
+   152         66
+   194        149

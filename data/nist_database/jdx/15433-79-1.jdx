@@ -1,0 +1,37 @@
+##TITLE=Library Entry 88258
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=2-Furanmethanol, 5-[(dimethylamino)methyl]-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=15433-79-1
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    36        354
+    42        482
+    44        242
+    53        185
+    55        763
+    58        620
+    65        248
+    69        199
+    81        161
+    83        882
+    94        171
+   110        137
+   111        999
+   112         60
+   124        621
+   125         40
+   137         16
+   138         32
+   154        237
+   155        815
+   156         68

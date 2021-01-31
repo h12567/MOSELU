@@ -1,0 +1,80 @@
+##TITLE=Library Entry 25943
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MYCOTOXINS MASS SPECTRAL DATA BANK, L.R. DUSOLD ET AL,
+ FDA, USA
+##NAMES=HP
+##CAS NAME=Trichothec-9-ene-3,4,8,15-tetrol, 12,13-epoxy-, 15-acetate 8-(3-m
+ethylbutanoate), (3.alpha.,4.beta.,8.alpha.)-
+##MOLFORM=C22H32O8
+##CAS REGISTRY NO=26934-87-2
+##MP= -300
+##BP= -300
+##MW= 424
+##$RETENTION INDEX=2809
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    53         79
+    55        135
+    57        999
+    67        101
+    69         90
+    77        141
+    79        141
+    81         67
+    83        107
+    85        655
+    91        259
+    92         56
+    93        141
+    95        169
+    97         62
+   104         62
+   105        395
+   107        118
+   109         96
+   111         56
+   115         62
+   117         84
+   119        113
+   120        113
+   121        536
+   122        310
+   123         96
+   124        158
+   125        214
+   128         73
+   129         84
+   131        107
+   133         84
+   135         62
+   138        113
+   142        107
+   143        101
+   145        180
+   147         96
+   157        169
+   158         62
+   159        146
+   161        130
+   171         67
+   172         67
+   173        192
+   174         73
+   175        226
+   177         56
+   180        175
+   185        220
+   187         84
+   189        101
+   201         73
+   203        451
+   204        271
+   205        124
+   221         67
+   233         84
+   249         67
+   263        197
+   322         62
+   424         11

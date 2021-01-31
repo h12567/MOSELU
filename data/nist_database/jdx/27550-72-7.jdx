@@ -1,0 +1,41 @@
+##TITLE=Library Entry 19857
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, chloromethyl ester
+##MOLFORM=C4H5ClO2
+##CAS REGISTRY NO=27550-72-7
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39          2
+    41         69
+    43          5
+    48          5
+    49         89
+    51         30
+    55        999
+    56        119
+    57         10
+    58          0
+    65          2
+    70          8
+    74          1
+    75          2
+    76          2
+    78          3
+    84          6
+    85         60
+    86          3
+    90          9
+    91         15
+    92          2
+   102         50
+   104         15
+   119          1
+   120          2

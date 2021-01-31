@@ -1,0 +1,53 @@
+##TITLE=Library Entry 996
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Butanamide, N-(2-hydroxyethyl)-3-oxo-
+##MOLFORM=C6H11NO3
+##CAS REGISTRY NO=24309-97-5
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        109
+    28        165
+    29        121
+    30        999
+    31        171
+    39         49
+    41         57
+    42        197
+    43        967
+    44        110
+    45         81
+    54         21
+    55         27
+    56         26
+    58         64
+    59         20
+    60         79
+    69         46
+    70         65
+    71         12
+    72         78
+    73         16
+    84         13
+    85        278
+    86         20
+    87         24
+    88         16
+   101          6
+   102        226
+   103         14
+   114        121
+   115        171
+   116         12
+   127         45
+   128          7
+   145          6
+   146         23
+   147          2

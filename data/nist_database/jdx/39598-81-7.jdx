@@ -1,0 +1,85 @@
+##TITLE=Library Entry 95700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 2,3,5,6-tetra-O-acetyl-D-galactofuranoside
+##MOLFORM=C15H22O10
+##CAS REGISTRY NO=39598-81-7
+##MP= -300
+##BP= -300
+##MW= 362
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    55         53
+    57         73
+    59         81
+    69        179
+    70        119
+    71         56
+    73         92
+    74         61
+    75         16
+    81        159
+    83         60
+    84         44
+    85        299
+    86        119
+    87        169
+    95         21
+    97         99
+    98        239
+    99         78
+   101         20
+   102         19
+   103         20
+   109         69
+   110         16
+   111         21
+   112        169
+   113         32
+   114         13
+   115        999
+   116         83
+   117         28
+   125         13
+   126         37
+   127        109
+   128         65
+   129         78
+   138         17
+   139         22
+   140        109
+   141         99
+   142         11
+   143         15
+   144         11
+   145        179
+   146         15
+   155         12
+   156          8
+   157        209
+   158         52
+   168         32
+   169         85
+   170         17
+   171         17
+   175         10
+   182         12
+   183         21
+   187         13
+   188         20
+   189         19
+   200         74
+   201         15
+   211         23
+   212         12
+   217        329
+   218         36
+   229          8
+   242         24
+   243         21
+   289          4
+   331         21

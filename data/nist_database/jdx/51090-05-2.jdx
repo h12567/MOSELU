@@ -1,0 +1,34 @@
+##TITLE=Library Entry 22341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=GCITA9,106(9-10)879(1976);Z4A; A. M. CAPORUSSO, UNIVERS
+ITA DI PISA, ITALY
+##NAMES=HP
+##CAS NAME=4-Nonene, 2-methyl-, (Z)-
+##MOLFORM=C10H20
+##CAS REGISTRY NO=51090-05-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    27        150
+    29        130
+    39        140
+    41        510
+    43        490
+    55        950
+    56        999
+    57        390
+    67        110
+    69        540
+    70        230
+    83        120
+    84        160
+    97         90
+    98         70
+   112         40
+   125         20
+   140        220

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 1657
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=Furfurylideniminosulphur pentafluoride
+##MOLFORM=C5H4F5NOS
+##CAS REGISTRY NO=90598-15-5
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    29        350
+    37        278
+    38        578
+    39        999
+    51        114
+    66        343
+    67        150
+    69        114
+    70         57
+    85        342
+    86        428
+    89        200
+    93        114
+    94        543
+   127        257
+   202         28
+   221        143

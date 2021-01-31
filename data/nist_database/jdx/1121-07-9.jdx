@@ -1,0 +1,62 @@
+##TITLE=Library Entry 264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,5-Pyrrolidinedione, 1-methyl-
+##MOLFORM=C5H7NO2
+##CAS REGISTRY NO=1121-07-9
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=1117
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         10
+    14         44
+    15         65
+    16          2
+    18          2
+    24          2
+    25         22
+    26        177
+    27        322
+    28        999
+    29        104
+    30         32
+    31          5
+    32          1
+    36          2
+    37          8
+    38          9
+    39         10
+    40         13
+    41         26
+    42        103
+    43         40
+    44          7
+    50          1
+    51          6
+    52         11
+    53         22
+    54         22
+    55        131
+    56        438
+    57         89
+    58         96
+    59          2
+    66          1
+    67          1
+    68         14
+    69          4
+    70         16
+    71          2
+    82          1
+    84         26
+    85         41
+    86          2
+   113        450
+   114         26
+   115          0

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 15435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N-Dimethylethanesulfonamide
+##MOLFORM=C4H11NO2S
+##CAS REGISTRY NO=6338-68-7
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    13          3
+    14         19
+    15        203
+    16          4
+    17          3
+    18        169
+    19          3
+    26         62
+    27        289
+    28        194
+    29        478
+    30         67
+    32          5
+    33          2
+    34          2
+    38          3
+    39          5
+    40         29
+    41         41
+    42        405
+    43        163
+    44        999
+    45        603
+    46         19
+    47          3
+    48         28
+    49         10
+    50          5
+    56          6
+    58        135
+    59          4
+    60          8
+    61          4
+    63          3
+    64         12
+    65         19
+    66         69
+    67          6
+    68          4
+    70          2
+    72         22
+    73          4
+    76          6
+    77          8
+    78          5
+    91          5
+    92         52
+    93          4
+    94          8
+    95         16
+   108         76
+   109          4
+   110          3
+   136         20
+   137         83
+   138          6
+   139          4

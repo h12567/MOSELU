@@ -1,0 +1,64 @@
+##TITLE=Library Entry 57336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,3-Dimethyl-3-decanol
+##MOLFORM=C12H26O
+##CAS REGISTRY NO=219667-42-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    16          3
+    18         10
+    27        180
+    28         84
+    29        213
+    30          7
+    31         25
+    32         18
+    39        115
+    41        531
+    42         89
+    43        653
+    44         33
+    45        255
+    51          7
+    53         48
+    55        447
+    56         57
+    57        251
+    58         89
+    59         57
+    65         10
+    67         54
+    69        916
+    70        138
+    71        180
+    72         13
+    73         20
+    77          8
+    79         11
+    81         24
+    83        424
+    84        112
+    85         46
+    86          8
+    87        999
+    88         58
+    95          9
+    97         60
+    98          9
+    99          9
+   111          9
+   125         14
+   143        331
+   144         30
+   168         26
+   171         43

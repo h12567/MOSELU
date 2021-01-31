@@ -1,0 +1,57 @@
+##TITLE=Library Entry 34232
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pentanenitrile, 2,2,4-trimethyl-
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=69462-10-8
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    37          3
+    38         13
+    39        187
+    40         71
+    41        476
+    42        136
+    43        213
+    44         15
+    50          5
+    51         10
+    52         17
+    53         34
+    54        101
+    55        126
+    56        307
+    57        246
+    58         13
+    63          1
+    64          3
+    65          7
+    66         12
+    67         26
+    68        262
+    69        999
+    70         44
+    71          3
+    73          1
+    77          3
+    80          3
+    81          6
+    82         48
+    83        145
+    84          9
+    93          8
+    94          8
+    95          2
+    96          3
+    97          4
+   108          1
+   110         70
+   111          5
+   124          6

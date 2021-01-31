@@ -1,0 +1,52 @@
+##TITLE=Library Entry 90801
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AIR PRODUCTS & CHEMICALS, INC BOX 538, ALLENTOWN, PA 18
+105, D M PAREES
+##NAMES=HP
+##CAS NAME=2-Pentanamine, N-(1-methylbutyl)-
+##MOLFORM=C10H23N
+##CAS REGISTRY NO=40221-44-1
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         45
+    29         56
+    30         47
+    39         25
+    41         81
+    42         50
+    43        132
+    44        605
+    45         20
+    53          6
+    55         25
+    56         21
+    57         13
+    58         18
+    59         27
+    67          6
+    68          6
+    69         10
+    70         39
+    71         31
+    72        112
+    73          7
+    84          8
+    86         27
+    87          5
+    94         11
+    98         17
+   114        999
+   115         96
+   116          7
+   117          7
+   142         97
+   143         11
+   156          6
+   157          9
+   158          2

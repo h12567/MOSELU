@@ -1,0 +1,70 @@
+##TITLE=Library Entry 81213
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Benzimidazole, 1-[2-O-benzoylribofuranosyl]-5,6-dimethyl-
+##MOLFORM=C21H22N2O5
+##CAS REGISTRY NO=16054-86-7
+##MP= -300
+##BP= -300
+##MW= 382
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        382
+    42         43
+    43        383
+    44        171
+    45        160
+    50         98
+    51        179
+    52         52
+    53         22
+    55        167
+    56         58
+    57        203
+    60         29
+    61         52
+    65         61
+    68         20
+    69        114
+    71         76
+    73         95
+    76         60
+    77        494
+    78        167
+    79         58
+    81         64
+    83         64
+    85         22
+    89         23
+    91        132
+    97         74
+   103         50
+   105        999
+   106        121
+   116         24
+   117         20
+   118         24
+   122         88
+   123         29
+   124         48
+   131        251
+   132         52
+   144         21
+   145        250
+   146        804
+   147        211
+   159        103
+   174         79
+   175         68
+   189         22
+   201         29
+   237         71
+   238         27
+   278        160
+   279         37
+   382        152
+   383         31

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 69999
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.ARDREY HOME OFFICE, RES. EST., ALDERMASTON, BERKS.,
+ U.K.
+##NAMES=HP
+##CAS NAME=Phosphetane, 2,2,3,4,4-pentamethyl-1-(2-methylpropoxy)-, 1-oxide
+##MOLFORM=C12H25O2P
+##CAS REGISTRY NO=53079-04-2
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    29        100
+    39         70
+    41        300
+    42        100
+    43        130
+    47         60
+    53         50
+    55        360
+    57        890
+    59        400
+    65        130
+    69        250
+    70        160
+    71        110
+    83         90
+    89         50
+    90         80
+    97        999
+   106        710
+   107         90
+   108        360
+   109         70
+   111        100
+   112        210
+   120        160
+   121         70
+   133         30
+   134         50
+   141         40
+   143         30
+   145         20
+   147        120
+   159         70
+   160         40
+   161        630
+   162        150
+   163         50
+   175         80
+   176        220
+   177        500
+   189         20
+   203         20
+   217        280
+   231         40
+   232        100

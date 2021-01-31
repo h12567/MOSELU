@@ -1,0 +1,24 @@
+##TITLE=Library Entry 69425
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JCPRB4, (1)15(1979); S. I. MILLER ET AL.
+##NAMES=HP
+##CAS NAME=1H-1,2,3-Triazole-4-carboxaldehyde
+##MOLFORM=C3H3N3O
+##CAS REGISTRY NO=16681-68-8
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    29        120
+    40        250
+    41        120
+    42        250
+    68        100
+    69        270
+    96        999
+    97        900
+    98         60

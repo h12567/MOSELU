@@ -1,0 +1,63 @@
+##TITLE=Library Entry 10782
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanoic acid, 3-(acetyloxy)-2-[(acetyloxy)methyl]-, ethyl ester
+##MOLFORM=C10H16O6
+##CAS REGISTRY NO=125476-45-1
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         65
+    28         15
+    29         86
+    31         11
+    39         16
+    40          7
+    41         24
+    42         30
+    43        999
+    44         24
+    45         15
+    54          8
+    55         79
+    56         14
+    57         22
+    58         22
+    59          6
+    61         26
+    69          6
+    71         12
+    73         49
+    82          5
+    83         20
+    84         17
+    85         36
+    86         21
+    89         10
+    99         14
+   100         39
+   101        166
+   102         13
+   103          7
+   112         41
+   113          7
+   115          9
+   116          9
+   117         19
+   118          5
+   127        141
+   128         10
+   129        104
+   130         73
+   131          8
+   145         24
+   160         16
+   172         23
+   187         17

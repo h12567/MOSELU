@@ -1,0 +1,42 @@
+##TITLE=Library Entry 35611
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sulfur, pentafluoro(trifluoromethyl)-, (OC-6-21)-
+##MOLFORM=CF8S
+##CAS REGISTRY NO=373-80-8
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          1
+    19          6
+    31         33
+    32         18
+    34          1
+    44          3
+    50         20
+    51         45
+    53          2
+    63          7
+    69        999
+    70         64
+    71          1
+    72          3
+    82          4
+    89        341
+    90          3
+    91         16
+   101          1
+   108         14
+   110          1
+   120          1
+   127        106
+   128          1
+   129          5
+   196          1

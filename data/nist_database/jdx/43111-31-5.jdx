@@ -1,0 +1,88 @@
+##TITLE=Library Entry 72496
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Chlorophenoxyacetonitrile
+##MOLFORM=C8H6ClNO
+##CAS REGISTRY NO=43111-31-5
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    12         16
+    13         44
+    14         20
+    18          2
+    25         12
+    26         40
+    27          5
+    28          2
+    30          1
+    35         12
+    36         15
+    37        103
+    38        210
+    39        216
+    40        221
+    41          6
+    46          2
+    47         22
+    48          9
+    49         55
+    50        120
+    51         74
+    52          9
+    53         38
+    54          8
+    55          5
+    60         19
+    61         72
+    62        120
+    63        325
+    64         69
+    65         10
+    66          3
+    71          3
+    72         33
+    73        345
+    74         51
+    75        220
+    76         34
+    77         32
+    78          4
+    84         11
+    85         16
+    86          4
+    87          5
+    89          2
+    92         12
+    96          3
+    97          8
+    99        999
+   100         60
+   101        317
+   102         41
+   103          3
+   104          4
+   111         28
+   112          5
+   113         11
+   114          1
+   127        682
+   128         47
+   129        208
+   130         13
+   131          1
+   132         31
+   133          3
+   138          2
+   139          5
+   141          3
+   167        296
+   168         28
+   169         92
+   170          8

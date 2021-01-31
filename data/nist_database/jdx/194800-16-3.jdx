@@ -1,0 +1,68 @@
+##TITLE=Library Entry 32975
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Pentylcyclopentanol
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=194800-16-3
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          9
+    27         88
+    29         97
+    31          8
+    39        141
+    40         37
+    41        253
+    42         35
+    43        107
+    50          9
+    51         36
+    52         26
+    53        113
+    54         51
+    55        157
+    56         25
+    57        118
+    58         98
+    59         17
+    63         11
+    65         70
+    66         99
+    67        999
+    68        106
+    69         31
+    70         17
+    71         61
+    72         32
+    77         70
+    78         22
+    79        169
+    80         49
+    81        193
+    82        297
+    83         83
+    84         17
+    85        278
+    86         16
+    91         24
+    93         25
+    95        248
+    96         43
+    97          9
+    98          9
+    99         51
+   100         31
+   109         26
+   110          9
+   113         51
+   114         22
+   127         46
+   138        131
+   139         15

@@ -1,0 +1,25 @@
+##TITLE=Library Entry 23371
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,112(6)2158(1979); W. LUTZ AND W. SUNDERMEYER
+##NAMES=HP
+##CAS NAME=Carbamic acid, (trifluoromethyl)-, 1,1-dimethylethyl ester
+##MOLFORM=C6H10F3NO2
+##CAS REGISTRY NO=63689-57-6
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    31        100
+    39        150
+    41        530
+    43        120
+    44        150
+    57        999
+    65         70
+    69        140
+   112         20
+   170         20

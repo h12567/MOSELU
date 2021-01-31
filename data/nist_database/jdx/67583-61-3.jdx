@@ -1,0 +1,51 @@
+##TITLE=Library Entry 59974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2-(Hydroxymethyl)norbornadiene
+##MOLFORM=C8H10O
+##CAS REGISTRY NO=67583-61-3
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    50         69
+    51        133
+    52         50
+    53         61
+    61         15
+    62         52
+    63        126
+    64         38
+    65        285
+    66        731
+    67        138
+    68         35
+    69          9
+    74         20
+    76         16
+    77        364
+    78        238
+    79        253
+    80         67
+    81         50
+    89         58
+    91        999
+    92        259
+    93        175
+    94         61
+    95        120
+    96         72
+   102         21
+   103        127
+   104        149
+   105         46
+   107         67
+   121         31
+   122        392
+   123         30

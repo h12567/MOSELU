@@ -1,0 +1,51 @@
+##TITLE=Library Entry 4682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1-Dimethylamino-2-nitroethylene
+##MOLFORM=C4H8N2O2
+##CAS REGISTRY NO=1190-92-7
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    13          9
+    15        126
+    18         29
+    26         56
+    27         11
+    28         96
+    30        250
+    38         20
+    39         49
+    40         64
+    41        149
+    42        999
+    43        167
+    44        102
+    46         43
+    51         17
+    52         49
+    53         24
+    54        101
+    55        317
+    56         46
+    57         37
+    58         74
+    68        168
+    69        241
+    70         60
+    71         71
+    83         44
+    84         22
+    85         43
+    86         31
+    87        102
+    99         45
+   100         14
+   116        247
+   117         19

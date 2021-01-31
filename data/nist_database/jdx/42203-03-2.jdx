@@ -1,0 +1,55 @@
+##TITLE=Library Entry 48822
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1-Hexanone, 1-(2-pyridinyl)-
+##MOLFORM=C11H15NO
+##CAS REGISTRY NO=42203-03-2
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    40         10
+    41         80
+    42         30
+    43        202
+    50         30
+    51        141
+    52        121
+    53         30
+    55         40
+    65         20
+    71         20
+    77         20
+    78        666
+    79        999
+    80        181
+    93        101
+   106        222
+   107        121
+   108         20
+   109         60
+   117         10
+   118         10
+   120        131
+   121        212
+   122         70
+   130         20
+   133         20
+   134        585
+   135        111
+   136         20
+   146         20
+   148        141
+   149         80
+   150         20
+   160         20
+   162         20
+   176         40
+   177        272
+   178         40

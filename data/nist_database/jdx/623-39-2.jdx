@@ -1,0 +1,60 @@
+##TITLE=Library Entry 16889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2950
+##NAMES=HP
+##CAS NAME=1,2-Propanediol, 3-methoxy-
+##MOLFORM=C4H10O3
+##CAS REGISTRY NO=623-39-2
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=977
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          9
+    15        211
+    16          3
+    17          5
+    18         21
+    19          4
+    26          9
+    27         48
+    28         45
+    29        137
+    30         13
+    31        223
+    32         10
+    33        107
+    34          5
+    38          2
+    39          6
+    40          2
+    41          8
+    42         26
+    43        429
+    44        328
+    45        999
+    46         39
+    47         50
+    55         10
+    56         14
+    57         31
+    58         24
+    59         13
+    60         67
+    61        214
+    62          5
+    63         19
+    71         10
+    72          3
+    73          6
+    74         41
+    75        356
+    76         84
+    77          4
+    86          2
+    87         10
+    88         45
+    89          6

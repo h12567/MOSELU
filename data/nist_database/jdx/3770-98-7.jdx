@@ -1,0 +1,70 @@
+##TITLE=Library Entry 6704
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=1,1,1-Tribromopropanone
+##MOLFORM=C3H3Br3O
+##CAS REGISTRY NO=3770-98-7
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    36          3
+    37         10
+    38         12
+    39         10
+    40          2
+    41          5
+    42         47
+    43        999
+    44         50
+    52          1
+    53          4
+    54          1
+    79         24
+    80         13
+    81         26
+    82         12
+    91         35
+    92          6
+    93         38
+    94          5
+   103          1
+   104          3
+   105         13
+   106         10
+   107         16
+   108          7
+   109          2
+   120          2
+   121         19
+   122          2
+   123         18
+   158          1
+   160          2
+   170         15
+   171         11
+   172         30
+   173         23
+   174         14
+   175         11
+   185          7
+   187         12
+   189          6
+   198          2
+   200          4
+   202          2
+   213          6
+   214         10
+   215         11
+   216         18
+   217          6
+   218          9
+   249          6
+   251         21
+   253         20
+   255          6

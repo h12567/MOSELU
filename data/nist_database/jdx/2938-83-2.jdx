@@ -1,0 +1,53 @@
+##TITLE=Library Entry 72362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. DJERASSI
+##NAMES=HP
+##CAS NAME=Boric acid (H3BO3), triheptyl ester
+##MOLFORM=C21H45BO3
+##CAS REGISTRY NO=2938-83-2
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         70
+    43         40
+    44         20
+    54         30
+    55         60
+    56        480
+    57        340
+    58         20
+    68        110
+    69        200
+    70        550
+    71         50
+    78         30
+    83         50
+    96         50
+    97        160
+    98        570
+    99        999
+   100         90
+   112         10
+   143         10
+   158         20
+   159         40
+   160         70
+   161        270
+   162         30
+   241         30
+   256         20
+   257         80
+   258         90
+   259        290
+   260         50
+   271         20
+   285         20
+   355         30
+   356         90
+   357         20

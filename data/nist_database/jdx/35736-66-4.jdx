@@ -1,0 +1,31 @@
+##TITLE=Library Entry 49313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. NAGASAWA, LAB. CHEM., NAGOYA GAKUIN UNIV., OSAKA, JA
+P
+##NAMES=HP
+##CAS NAME=(-)-1R-8-Hydroxy-p-menth-4-en-3-one
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=35736-66-4
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1264
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        630
+    43        650
+    55        270
+    59        160
+    69        420
+    79        999
+    80        690
+    97        250
+   107        380
+   111         80
+   125        150
+   135        710
+   150        960
+   153        550
+   168         40

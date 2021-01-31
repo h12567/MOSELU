@@ -1,0 +1,52 @@
+##TITLE=Library Entry 976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Butanamide, N-hexyl-
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=10264-17-2
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=1434
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27        200
+    28         70
+    29        150
+    30        999
+    31         10
+    39         80
+    41        330
+    42         80
+    43        810
+    44        330
+    45         30
+    55         80
+    56         60
+    57         40
+    58         70
+    59         20
+    69         30
+    70         10
+    71        430
+    72         70
+    73        140
+    85         30
+    86         90
+    87         70
+    88        110
+   100        190
+   101        200
+   102         10
+   114         60
+   115         10
+   128        200
+   129         10
+   142         40
+   143         50
+   156         30
+   171         70

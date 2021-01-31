@@ -1,0 +1,45 @@
+##TITLE=Library Entry 8694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3,3-Dimethyl-2-pentanol
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=19781-24-9
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         15
+    27        139
+    28         24
+    29        135
+    31         24
+    39        188
+    40         41
+    41        392
+    42        114
+    43        999
+    44         70
+    45        610
+    46         15
+    50         14
+    51         23
+    53         60
+    55        384
+    56         45
+    57        130
+    59        134
+    65         10
+    67         23
+    69        224
+    70        892
+    71        859
+    72         52
+    83         91
+    87        117
+    98         27
+   101         54

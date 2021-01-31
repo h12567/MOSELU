@@ -1,0 +1,53 @@
+##TITLE=Library Entry 91013
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mandelbaum ET AL, J.Mass Spectrom., 32, 750(1997)
+##NAMES=HP
+##CAS NAME=1-Methoxy-3-dimethylaminocyclohexane (trans)
+##MOLFORM=C9H19NO
+##CAS REGISTRY NO=194720-35-9
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    42        121
+    43         45
+    44         73
+    45         51
+    46         16
+    53         11
+    55         36
+    56         73
+    57          7
+    58        113
+    67          5
+    68          9
+    69          5
+    70         71
+    71        405
+    72         67
+    79         22
+    81         38
+    82         45
+    83          7
+    84        714
+    85         77
+    96          7
+    97         18
+    98         58
+   100          9
+   110         14
+   112         22
+   114        999
+   115         50
+   124         22
+   126        200
+   127         45
+   142        317
+   143         29
+   156         11
+   157        415
+   158         31

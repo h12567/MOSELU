@@ -1,0 +1,39 @@
+##TITLE=Library Entry 10072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Michavila, Inst. Org. Chim., CSIC, Madrid, Spain
+##NAMES=HP
+##CAS NAME=1-Naphthalenepropanol, .alpha.-ethenyldecahydro-2,4-dihydroxy-.al
+pha.,2,5,5,8a-pentamethyl-, [1R-(1.alpha.(R*),2.beta.,4.alpha.,4a.beta.,8a.a
+lpha.)]-
+##MOLFORM=C20H36O3
+##CAS REGISTRY NO=109189-32-4
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        500
+    69        660
+    71        420
+    81        400
+    87        710
+    93        230
+    95        480
+   107        180
+   109        350
+   121        200
+   123        460
+   135        150
+   137        110
+   150        220
+   153         80
+   165        120
+   191        170
+   205         60
+   255         16
+   273         12
+   291         17

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 50185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,4-Octadiene
+##MOLFORM=C8H14
+##CAS REGISTRY NO=13643-08-8
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=818
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         11
+    26         21
+    27        138
+    28         46
+    29         67
+    38         30
+    39        281
+    40         60
+    41        288
+    42         29
+    43         11
+    50         53
+    51        106
+    52         58
+    53        327
+    54         57
+    55        133
+    56         15
+    62         18
+    63         42
+    65        117
+    66         89
+    67        464
+    68        639
+    69         46
+    74         10
+    77        160
+    79        553
+    81        999
+    82         77
+    91         40
+    93         28
+    95        146
+   110        438
+   111         39

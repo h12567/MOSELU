@@ -1,0 +1,23 @@
+##TITLE=Library Entry 56204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHARLTON/CAVELL UNIVERSITY OF ALBERTA, CANADA.
+##NAMES=HP
+##CAS NAME=Phosphonic difluoride
+##MOLFORM=F2HOP
+##CAS REGISTRY NO=14939-34-5
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    31         30
+    47        180
+    50         40
+    66        250
+    67        210
+    69        480
+    85        260
+    86        999

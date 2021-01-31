@@ -1,0 +1,65 @@
+##TITLE=Library Entry 73739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinethione
+##MOLFORM=C4H7NS
+##CAS REGISTRY NO=2295-35-4
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15         35
+    26         43
+    27         95
+    28         22
+    29         24
+    30         92
+    31          7
+    32         15
+    33         14
+    37         22
+    38         38
+    39        180
+    40         99
+    41        423
+    42        309
+    43         82
+    44         40
+    45        180
+    46         97
+    47         23
+    48         12
+    49         12
+    50         30
+    51          8
+    52         14
+    53          8
+    54         76
+    55         10
+    56         34
+    57         21
+    58         62
+    59         93
+    60        111
+    61         12
+    62          8
+    66          8
+    67         83
+    68         86
+    69         45
+    70         21
+    71        142
+    72        147
+    73        160
+    74         31
+    75          7
+    86         37
+   100        311
+   101        999
+   102         74
+   103         47

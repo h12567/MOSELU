@@ -1,0 +1,38 @@
+##TITLE=Library Entry 12253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=p-Chlorophenylmethanediol diacetate
+##MOLFORM=C11H11ClO4
+##CAS REGISTRY NO=13086-93-6
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    42         20
+    43        999
+    44         19
+    45         10
+    50         40
+    51         39
+    75         70
+    76         20
+    77         99
+   111        108
+   112         19
+   113         59
+   139        587
+   140        110
+   141        396
+   142         49
+   143         79
+   183         19
+   185          9
+   199         79
+   200         10
+   201         29
+   242         10

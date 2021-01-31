@@ -1,0 +1,38 @@
+##TITLE=Library Entry 50965
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Xylometazoline metabolite
+##MOLFORM=C16H22N2
+##CAS REGISTRY NO=5146-50-9
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    57         79
+    65         30
+    73         39
+    81        999
+    82        117
+    91        129
+    92        101
+   100        200
+   105         79
+   115        130
+   128        120
+   129        100
+   145         81
+   161        121
+   171        199
+   185        251
+   186        200
+   197         49
+   211         79
+   227        600
+   228         50
+   242        799
+   243         99

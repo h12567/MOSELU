@@ -1,0 +1,91 @@
+##TITLE=Library Entry 41804
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=trans-4-Hydroxycyclohexanecarboxylic acid
+##MOLFORM=C7H12O3
+##CAS REGISTRY NO=3685-26-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    15         10
+    26         21
+    27        232
+    28         78
+    29        244
+    30          8
+    31         98
+    35          2
+    36         34
+    37          8
+    38         39
+    39        352
+    40         54
+    41        434
+    42        293
+    43        322
+    44        418
+    45        225
+    46          8
+    47         23
+    48          1
+    49          2
+    50         28
+    51         60
+    52         33
+    53        163
+    54        230
+    55        708
+    56        106
+    57        419
+    58         27
+    59          5
+    60        431
+    61         10
+    62          2
+    63          6
+    65         26
+    66         19
+    67        151
+    68         60
+    69        195
+    70        774
+    71         75
+    73        999
+    74         35
+    75          3
+    77         54
+    78         13
+    79        149
+    80        316
+    81        354
+    82         40
+    83        110
+    84         27
+    85         16
+    86         33
+    87         26
+    88        652
+    89         27
+    95         13
+    96          6
+    97        196
+    98        790
+    99         59
+   100          3
+   101         32
+   108        437
+   109         34
+   110          1
+   111         42
+   116        162
+   117          6
+   125         17
+   126        709
+   127         62
+   128          4

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 5479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3409
+##NAMES=HP
+##CAS NAME=Acetyl chloride
+##MOLFORM=C2H3ClO
+##CAS REGISTRY NO=75-36-5
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=542
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    12         13
+    13         43
+    14        101
+    15        483
+    16          6
+    18          2
+    21          1
+    24         10
+    25         29
+    26         37
+    27         16
+    28         48
+    29         74
+    30          2
+    35         78
+    36         50
+    37         26
+    38         15
+    40         22
+    41         98
+    42        247
+    43        999
+    44         35
+    45          9
+    47         27
+    48         40
+    49         39
+    50         12
+    51         10
+    59          7
+    60         21
+    61         10
+    62         11
+    63        282
+    64          5
+    65         93
+    66          1
+    78          5
+    79          1
+    80          2
+    81          1

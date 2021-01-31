@@ -1,0 +1,44 @@
+##TITLE=Library Entry 58790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J.BROWN, CHEM. DEPT., TASMANIA UNIV., TASMANIA, AUSTR
+ALIA
+##NAMES=HP
+##CAS NAME=s-Triazole-3-carboxaldehyde, 5-phenyl-
+##MOLFORM=C9H7N3O
+##CAS REGISTRY NO=26899-64-9
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    50         60
+    51         70
+    61         60
+    62        140
+    63        330
+    64         60
+    74         80
+    75        130
+    76        390
+    77        520
+    78         60
+    86         60
+    87         60
+    88         80
+    89        320
+    90        999
+    91        350
+    92        130
+    93         50
+   104        320
+   105         70
+   116         80
+   117        280
+   118        100
+   128         50
+   145        150
+   173        470
+   174         60

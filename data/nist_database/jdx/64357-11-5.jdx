@@ -1,0 +1,32 @@
+##TITLE=Library Entry 46878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzoin methyl ether phenyl hydrazone
+##MOLFORM=C21H20N2O
+##CAS REGISTRY NO=64357-11-5
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    77        999
+    79         95
+    92        925
+    93        185
+   104        158
+   105        709
+   121        602
+   178        263
+   179        757
+   180        211
+   193         25
+   194         41
+   195        104
+   207         67
+   283        210
+   284        288
+   316        367

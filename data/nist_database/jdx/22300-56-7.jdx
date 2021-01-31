@@ -1,0 +1,73 @@
+##TITLE=Library Entry 63533
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Methyl-2-phenyl-2H-1,2,3-triazole-5-carboxylic acid
+##MOLFORM=C10H9N3O2
+##CAS REGISTRY NO=22300-56-7
+##MP= -300
+##BP= -300
+##MW= 203
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15         14
+    17          6
+    18          7
+    26         35
+    27         37
+    28         16
+    37         25
+    38         79
+    39        120
+    40         37
+    41         59
+    42         32
+    44          8
+    45         75
+    46          6
+    49          7
+    50        103
+    51        356
+    52         97
+    53         31
+    54         24
+    61          7
+    62         25
+    63        140
+    64        300
+    65         90
+    66         12
+    73          4
+    74          1
+    75         23
+    76          1
+    77        559
+    78         42
+    88          7
+    89          6
+    91        999
+    92         77
+    93          8
+    98          7
+   102         10
+   103         40
+   105        233
+   106         16
+   117         13
+   128          9
+   130          7
+   132         19
+   158          6
+   163          5
+   165         18
+   166         10
+   185        413
+   186         70
+   187          7
+   203        742
+   204         91
+   205          7
+   210          6

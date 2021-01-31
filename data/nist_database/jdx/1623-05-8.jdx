@@ -1,0 +1,31 @@
+##TITLE=Library Entry 36508
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=Propane, 1,1,1,2,2,3,3-heptafluoro-3-[(trifluoroethenyl)oxy]-
+##MOLFORM=C5F10O
+##CAS REGISTRY NO=1623-05-8
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29         16
+    40         90
+    44         51
+    47         68
+    50         61
+    69        999
+    78         63
+    81         94
+    97         47
+   100         57
+   119        169
+   131         44
+   147         41
+   169        321
+   266         71

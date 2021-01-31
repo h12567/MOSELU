@@ -1,0 +1,41 @@
+##TITLE=Library Entry 8976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=3,3-Dimethyl-2,4-pentane dione
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=3142-58-3
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         54
+    29         52
+    39        121
+    40         22
+    41        157
+    42         70
+    43        999
+    44         36
+    53         24
+    55         14
+    57         92
+    58         75
+    59         15
+    67         26
+    69         16
+    70         13
+    71        835
+    72         53
+    85         54
+    86        532
+    87         35
+    99         29
+   113          7
+   114         10
+   128          4
+   129          2

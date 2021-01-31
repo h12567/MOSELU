@@ -1,0 +1,32 @@
+##TITLE=Library Entry 56873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.V. VARLAMOV,PEOPLES FRIENDSHIP UNIV. P. LUMUMBA,MOSCO
+W,USSR
+##NAMES=HP
+##CAS NAME=9-[5-(Diethylamino)pentanamido]-10,10-dimethyl-9,10-dihydro-10-si
+la-2-azaanthracene
+##MOLFORM=C23H33N3OSi
+##CAS REGISTRY NO=92973-67-6
+##MP= -300
+##BP= -300
+##MW= 395
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    86        999
+    87        100
+   209        140
+   210         70
+   224        610
+   225        330
+   226        110
+   239        220
+   240         60
+   324         70
+   358        100
+   366        170
+   380         70
+   395        230
+   396         70

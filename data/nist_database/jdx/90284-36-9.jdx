@@ -1,0 +1,40 @@
+##TITLE=Library Entry 81796
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SAEED, DEP. CHEM., COLL. SCI., BASRAH UNIV., BASRAH,
+ IRAQ
+##NAMES=HP
+##CAS NAME=1,2-Dihydro-4H-2-(.alpha.-thienyl)-3,1-benzoxazine
+##MOLFORM=C12H11NOS
+##CAS REGISTRY NO=90284-36-9
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        140
+    40         70
+    45         70
+    51        150
+    52         80
+    65         60
+    77        240
+    78        380
+    85         60
+    91         90
+    97        690
+    98         60
+   104        640
+   105        999
+   106        110
+   111        120
+   112        100
+   120        200
+   132        110
+   184        100
+   216         70
+   217        700
+   218         90
+   219         60

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 310
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.SKUJINS UNIV. OF SURREY, GUILDFORD, UK
+##NAMES=HP
+##CAS NAME=Cyclobuta[b]quinoxaline-1,2-dione, 5-chloro-3,8-dihydro-
+##MOLFORM=C10H5ClN2O2
+##CAS REGISTRY NO=20420-54-6
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    28        999
+    74         95
+   100        642
+   102        214
+   110        142
+   137        261
+   139         95
+   164        142
+   166         47
+   192        261
+   194         95
+   220        857
+   221        119
+   222        380

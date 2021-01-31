@@ -1,0 +1,67 @@
+##TITLE=Library Entry 1573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.C.MAIRE ORGANO-METALLIC LAB., UNIV., MARSEILLES, FRAN
+CE
+##NAMES=HP
+##CAS NAME=Cyclodisilazane-2,2,4,4-tetramine, N,N,N',N'-tetramethyl-1,3-bis[
+tris(methylamino)silyl]-
+##MOLFORM=C10H40N12Si4
+##CAS REGISTRY NO=34665-55-9
+##MP= -300
+##BP= -300
+##MW= 440
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    31        999
+    41         50
+    42         84
+    43         63
+    44         30
+    55         42
+    56         10
+    57         30
+   203         32
+   204         10
+   205         30
+   232         29
+   233         19
+   234         31
+   259         20
+   260         11
+   261         39
+   262         31
+   263         21
+   276         30
+   277         18
+   290         42
+   291         11
+   292         14
+   315         40
+   316         15
+   317         20
+   318         30
+   319         45
+   320         35
+   321         15
+   322         20
+   346        152
+   347        330
+   348        213
+   349        122
+   350         40
+   365         35
+   377         50
+   378        412
+   379        210
+   380        131
+   381         35
+   382         45
+   384         30
+   385         10
+   439        930
+   440        341
+   441        170
+   442         30

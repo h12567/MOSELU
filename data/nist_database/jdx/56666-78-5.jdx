@@ -1,0 +1,35 @@
+##TITLE=Library Entry 21001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=Tricyclo[4.2.0.0(2,4)]oct-7-en-5-one
+##MOLFORM=C8H8O
+##CAS REGISTRY NO=56666-78-5
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        160
+    28         90
+    38         50
+    39        170
+    40         45
+    50         50
+    51         85
+    52         60
+    55        999
+    56         30
+    63         40
+    65        115
+    66         50
+    77         35
+    78         80
+    91        530
+    92        125
+   119         20
+   120        220
+   121         15

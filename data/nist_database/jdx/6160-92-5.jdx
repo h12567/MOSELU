@@ -1,0 +1,67 @@
+##TITLE=Library Entry 49359
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Xylopyranoside, methyl 4-azido-4-deoxy-, 2,3-dimethanesulfonate,
+ .alpha.-D-
+##MOLFORM=C8H15N3O8S2
+##CAS REGISTRY NO=6160-92-5
+##MP= -300
+##BP= -300
+##MW= 345
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41         92
+    42         82
+    43         29
+    44         22
+    45        107
+    46          4
+    54         44
+    55         26
+    56         16
+    57         48
+    58          4
+    59         10
+    60          3
+    61         20
+    63         32
+    65         25
+    69         51
+    70        106
+    71         55
+    72         32
+    73         55
+    74         69
+    79        999
+    80         16
+    81         24
+    82         32
+    84         18
+    85         52
+    86          2
+    87         41
+    88          3
+   100         11
+   101         18
+   102          4
+   110         13
+   111         16
+   112          9
+   120          4
+   139          9
+   151         23
+   163         74
+   164          4
+   180          4
+   206        116
+   207          9
+   218          2
+   243          8
+   266         11
+   303          5
+   314          1
+   345          1

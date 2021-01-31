@@ -1,0 +1,75 @@
+##TITLE=Library Entry 50068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=p-Menthane-3,8-diol, cis-1,3,trans-1,4-
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=3564-98-5
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=1301
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    27         20
+    29         38
+    31         36
+    39         64
+    40         12
+    41        171
+    42         24
+    43        295
+    44         17
+    45         12
+    50          2
+    51          9
+    52          6
+    53         42
+    54        248
+    55        194
+    56         38
+    57         54
+    58         12
+    59        800
+    61         12
+    65         17
+    66         16
+    67        203
+    68        197
+    69        129
+    70         34
+    71         56
+    72          7
+    77         62
+    78          5
+    79         48
+    80         15
+    81        999
+    82         76
+    83         27
+    84         25
+    85          8
+    92          4
+    93         28
+    94         14
+    95        136
+    96        432
+    97         54
+    98         14
+   107         11
+   110         21
+   111         36
+   112         19
+   121         58
+   122          6
+   123          7
+   136         14
+   139         80
+   140          7
+   153          2
+   154         11
+   155          2
+   157         25
+   158          3

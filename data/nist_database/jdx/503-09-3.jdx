@@ -1,0 +1,62 @@
+##TITLE=Library Entry 17850
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Oxirane, (fluoromethyl)-
+##MOLFORM=C3H5FO
+##CAS REGISTRY NO=503-09-3
+##MP= -300
+##BP= -300
+##MW= 76
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          5
+    14         18
+    15         42
+    16          1
+    19          1
+    20          1
+    24          3
+    25         19
+    26        136
+    27        313
+    28        410
+    29        298
+    30         53
+    31        176
+    32         24
+    33        230
+    34          4
+    36          5
+    37         25
+    38         30
+    39         42
+    40          6
+    41         11
+    42         96
+    43        256
+    44         80
+    45        236
+    46        999
+    47        181
+    48          4
+    49         14
+    52          1
+    53          5
+    54          1
+    55         15
+    56          7
+    57         28
+    58          4
+    59         18
+    60         13
+    61         46
+    62          1
+    73          9
+    75         24
+    76         17
+    77          1

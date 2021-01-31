@@ -1,0 +1,92 @@
+##TITLE=Library Entry 16202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Tox21 Consortium/NIST Mass Spectrometry Data Center, 20
+12
+##NAMES=HP
+##CAS NAME=Methyl 4-(dimethylsulfamoyl)benzoate
+##MOLFORM=C10H13NO4S
+##CAS REGISTRY NO=58804-17-4
+##MP= -300
+##BP= -300
+##MW= 243
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    15         31
+    18         23
+    27          6
+    28         33
+    31          5
+    38          7
+    39         23
+    41         16
+    42        211
+    43        184
+    44        999
+    45         49
+    50        167
+    51         45
+    52          6
+    53         12
+    59         56
+    60         10
+    62          6
+    63         28
+    64         21
+    65         18
+    69          9
+    70         11
+    73          6
+    74         48
+    75        130
+    76        266
+    77        142
+    78         14
+    79         17
+    91         31
+    92        116
+    93         16
+    94          7
+    95         11
+    96         10
+    97          5
+   103        228
+   104        226
+   105        126
+   106         13
+   107         25
+   108         30
+   118          8
+   119         74
+   120        131
+   121         42
+   123          7
+   124         19
+   125         33
+   132          9
+   134          7
+   135        827
+   136         90
+   137         13
+   140          5
+   141         21
+   148         58
+   149          7
+   152         33
+   153          8
+   169         14
+   178         28
+   179         37
+   183         21
+   184         11
+   199         83
+   200         12
+   201         26
+   212         68
+   213          8
+   242         30
+   243        269
+   244         33
+   245         16

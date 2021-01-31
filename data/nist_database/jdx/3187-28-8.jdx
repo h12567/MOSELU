@@ -1,0 +1,80 @@
+##TITLE=Library Entry 33100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclohexan-1-ethanol, 1-hydroxymethyl-
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=3187-28-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    33          3
+    37          1
+    39        216
+    40         56
+    41        372
+    42         46
+    43        132
+    44         20
+    45         20
+    46          1
+    47          1
+    50          8
+    51         25
+    53        130
+    54         95
+    55        391
+    56         35
+    57         48
+    58          6
+    59          2
+    62          0
+    63          6
+    65         55
+    67        999
+    68        146
+    69         86
+    70         27
+    71         13
+    72          0
+    73          0
+    75          1
+    77         61
+    78         29
+    79        179
+    81        740
+    82        195
+    83         93
+    84         11
+    85          3
+    86          2
+    91         35
+    93         92
+    94         54
+    95        158
+    96         55
+    97         17
+    98          3
+    99          2
+   104          0
+   105          4
+   107         47
+   109        898
+   110        544
+   111         50
+   112         22
+   113          4
+   122         39
+   123          4
+   124          0
+   126         30
+   127         36
+   128          4
+   138          0
+   140         16
+   141          2

@@ -1,0 +1,77 @@
+##TITLE=Library Entry 42024
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Fructose oxime, hexakis(trimehylsilyl)
+##MOLFORM=C24H61NO6Si6
+##CAS REGISTRY NO=120788-24-1
+##MP= -300
+##BP= -300
+##MW= 627
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    45         32
+    52         12
+    59         24
+    72         12
+    73        999
+    74         72
+    75         84
+    79         12
+    84         24
+    89         12
+   103        652
+   104         52
+   105         24
+   114         12
+   117         52
+   129         32
+   131         12
+   133         32
+   147        312
+   148         44
+   149         32
+   158         12
+   172         12
+   189         44
+   190         12
+   191         64
+   192         12
+   201         12
+   202         24
+   204         44
+   205        104
+   206         12
+   207         12
+   217        612
+   218        124
+   219         52
+   221         12
+   231         32
+   244         12
+   277         84
+   278         24
+   279         12
+   291         12
+   305         12
+   307        624
+   308        184
+   309         84
+   310         12
+   319         12
+   320         44
+   321         44
+   322         12
+   358         24
+   393         12
+   422         64
+   423         24
+   424         12
+   434         12
+   448         12
+   522         12
+   612         32

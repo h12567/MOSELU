@@ -1,0 +1,30 @@
+##TITLE=Library Entry 107968
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS 20(11) 2521(1981); R GMELIN ET AL
+##NAMES=HP
+##CAS NAME=1,2,4,5,7,8-Hexathiocyclononane
+##MOLFORM=C3H6S6
+##CAS REGISTRY NO=81531-38-6
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    45        670
+    46        380
+    60        160
+    64        100
+    78        850
+    92         10
+    96         20
+   110        120
+   124        999
+   138         30
+   142        100
+   156        130
+   170         10
+   188         50
+   234         10

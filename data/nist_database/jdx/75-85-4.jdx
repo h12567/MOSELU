@@ -1,0 +1,59 @@
+##TITLE=Library Entry 30150
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8469
+##NAMES=HP
+##CAS NAME=Amylene hydrate
+##MOLFORM=C5H12O
+##CAS REGISTRY NO=75-85-4
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=615
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         29
+    17          2
+    18          7
+    26         10
+    27         92
+    28         19
+    29        106
+    30          3
+    31        263
+    32          3
+    33          1
+    37          2
+    38          6
+    39         66
+    40          8
+    41        154
+    42         35
+    43        277
+    44         10
+    45         92
+    46          2
+    50          4
+    51          6
+    52          2
+    53         16
+    54          3
+    55        401
+    56         19
+    57         15
+    58         12
+    59        999
+    60         32
+    61          2
+    63          1
+    65          1
+    67          1
+    69          6
+    70         22
+    71         55
+    72          3
+    73        576
+    74         26
+    75          1

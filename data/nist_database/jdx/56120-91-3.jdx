@@ -1,0 +1,39 @@
+##TITLE=Library Entry 30647
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. HOEFLER, INST. ANORG. CHEM. TECH. HOCHSCH., GRAZ, AU
+STRIA
+##NAMES=HP
+##CAS NAME=Tris(trimethoxysilyl)methoxysilane
+##MOLFORM=C10H30O10Si4
+##CAS REGISTRY NO=56120-91-3
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    59        999
+    91        420
+   105        130
+   121        450
+   135        180
+   152         50
+   165        810
+   181        130
+   197        400
+   211        440
+   227        630
+   240        190
+   255        290
+   257        160
+   270        240
+   301        100
+   317        270
+   333         60
+   345         20
+   360         20
+   391         30
+   407         10
+   422          1

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 66609
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-Pyridylacetamide
+##MOLFORM=C7H8N2O
+##CAS REGISTRY NO=3724-16-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27         20
+    38         58
+    39        280
+    40         42
+    41         43
+    43         35
+    44        290
+    63        109
+    64         58
+    65        301
+    66        185
+    67        101
+    69         30
+    78         20
+    80         11
+    81         17
+    83         14
+    91         45
+    92        373
+    93        999
+    94        115
+    95         13
+    97         12
+   111          8
+   118         16
+   119          8
+   136        434
+   137         54
+   138          5
+   139          2

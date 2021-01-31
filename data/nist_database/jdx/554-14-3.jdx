@@ -1,0 +1,52 @@
+##TITLE=Library Entry 70259
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DC-24-1
+##NAMES=HP
+##CAS NAME=Thiophene, 2-methyl-
+##MOLFORM=C5H6S
+##CAS REGISTRY NO=554-14-3
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=775
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         10
+    26         20
+    27         70
+    28         10
+    37         40
+    38         50
+    39        130
+    40         10
+    44         10
+    45        220
+    46         10
+    47         20
+    48         10
+    49         30
+    50         10
+    51         20
+    52         10
+    53         70
+    54         10
+    57         30
+    58         60
+    59         50
+    61         10
+    62         10
+    63         10
+    65         10
+    68         10
+    69         50
+    70         20
+    71         30
+    72         10
+    81         10
+    82         10
+    97        999
+    98        560
+    99         70
+   100         20

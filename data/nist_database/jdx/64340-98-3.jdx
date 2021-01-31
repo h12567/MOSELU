@@ -1,0 +1,24 @@
+##TITLE=Library Entry 18969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(13)4372(1977); 17; R. G. SALOMON
+##NAMES=HP
+##CAS NAME=Cyclopropane, [(1-propenyloxy)methyl]-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=64340-98-3
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    39        340
+    41        160
+    53        130
+    55        999
+    56        120
+    57        130
+    58        190
+    70        290
+   112        330

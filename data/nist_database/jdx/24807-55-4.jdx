@@ -1,0 +1,41 @@
+##TITLE=Library Entry 90714
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J.BROWNE UNIV. OF TASMANIA, HOBART, TASMANIA
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 3-nitro-
+##MOLFORM=C2H2N4O2
+##CAS REGISTRY NO=24807-55-4
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         20
+    26         20
+    27         70
+    28        250
+    29        360
+    30        610
+    38         40
+    39         60
+    40         70
+    41         90
+    42         50
+    43         10
+    46        180
+    53         40
+    55         10
+    67         20
+    68         50
+    69        160
+    70         10
+    71         10
+    84         10
+    86         90
+    98         50
+   114        999
+   115         40

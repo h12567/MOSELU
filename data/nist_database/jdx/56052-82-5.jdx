@@ -1,0 +1,51 @@
+##TITLE=Library Entry 24109
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V P. MORIZUR
+##NAMES=HP
+##CAS NAME=2-Hexene, 1-(pentyloxy)-, (E)-
+##MOLFORM=C11H22O
+##CAS REGISTRY NO=56052-82-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39        150
+    40         20
+    41        500
+    42        120
+    43        880
+    44        100
+    45         20
+    51         10
+    52         10
+    53         50
+    54        100
+    55        510
+    56        120
+    57        999
+    58         80
+    59         10
+    65         10
+    67        120
+    68         20
+    69         75
+    70         80
+    71        230
+    72         60
+    81         25
+    82        300
+    83        250
+    84         40
+    85         10
+    99         40
+   100         90
+   101         10
+   127        120
+   128         10
+   141         10
+   170         60
+   171         10

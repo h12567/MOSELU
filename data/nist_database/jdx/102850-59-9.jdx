@@ -1,0 +1,44 @@
+##TITLE=Library Entry 75577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. E. Elvebak II et. al. Carbohydrate Research 269 (199
+5) 1-15
+##NAMES=HP
+##CAS NAME=1,5-Anhydro-2,3,4,6-tetra-O-methyl-D-galactitol
+##MOLFORM=C10H20O5
+##CAS REGISTRY NO=102850-59-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=1398
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         43
+    43         32
+    45        156
+    55         19
+    58         63
+    59         37
+    71        210
+    73         88
+    74         18
+    75        127
+    83         19
+    85         86
+    87         46
+    88        178
+    89         46
+    99         79
+   101        999
+   102         79
+   103         14
+   111         28
+   115        106
+   131         16
+   143        104
+   157         54
+   175        334
+   176         28
+   188         10
+   220          9

@@ -1,0 +1,77 @@
+##TITLE=Library Entry 3564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Trans-2-heptenoic acid
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=10352-88-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    13         12
+    14         15
+    15         64
+    16         13
+    17         13
+    26        101
+    27        666
+    28        127
+    29        392
+    30         10
+    31         36
+    32          9
+    37         27
+    38        106
+    39        691
+    40        160
+    41        999
+    42        245
+    43        573
+    44         58
+    45        271
+    46         13
+    50         57
+    51         91
+    52         39
+    53        236
+    54         84
+    55        418
+    56        606
+    57        113
+    58         32
+    59          7
+    60         63
+    61         14
+    62         12
+    63         18
+    65         29
+    67        131
+    68        538
+    69        223
+    70         19
+    71        121
+    73        877
+    74         82
+    75          9
+    77         20
+    79         37
+    81         97
+    82        137
+    83         41
+    85         35
+    86        238
+    87        141
+    88         13
+    95         23
+    97         20
+    99        393
+   100         38
+   110        141
+   111         29
+   113         23
+   128         31

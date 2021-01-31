@@ -1,0 +1,44 @@
+##TITLE=Library Entry 97845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 1244
+##NAMES=HP
+##CAS NAME=Pyridine, 4-(4,5-dihydro-2-oxazolyl)-
+##MOLFORM=C8H8N2O
+##CAS REGISTRY NO=54120-68-2
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    40         80
+    41        100
+    42         60
+    43         10
+    50         80
+    51        430
+    52        520
+    53        330
+    54         50
+    62         50
+    63        100
+    64        140
+    65        130
+    66        110
+    67         10
+    76         80
+    77        110
+    78        110
+    79        320
+    80         30
+    91         50
+    92        110
+    93         60
+   105         50
+   118        999
+   119        170
+   120         20
+   148        240
+   149         20

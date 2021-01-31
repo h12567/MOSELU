@@ -1,0 +1,40 @@
+##TITLE=Library Entry 10833
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 3-hydroxy-, methyl ester
+##MOLFORM=C6H12O3
+##CAS REGISTRY NO=56009-31-5
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1546
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         80
+    29        280
+    31        290
+    33         80
+    39         50
+    41        200
+    42        110
+    43        999
+    44        100
+    45         50
+    55        120
+    57        360
+    59        620
+    61        450
+    71        860
+    72         80
+    74        720
+    75         50
+    83         80
+    99         50
+   101        230
+   103        960
+   104         50
+   114         50

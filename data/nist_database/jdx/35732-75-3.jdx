@@ -1,0 +1,36 @@
+##TITLE=Library Entry 23172
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-[5-methyl-3-(5-nitro-2-furanyl)-1H-1,2,4-triazol-1
+-yl]-
+##MOLFORM=C10H10N4O4
+##CAS REGISTRY NO=35732-75-3
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27        190
+    28        240
+    29        819
+    41         60
+    42        120
+    50         90
+    51         70
+    56        230
+    57        999
+    64         70
+    65        100
+    79         90
+    91        130
+   110         80
+   120         90
+   136         80
+   164        250
+   194        809
+   195        569
+   250        150

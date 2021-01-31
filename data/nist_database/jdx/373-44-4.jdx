@@ -1,0 +1,80 @@
+##TITLE=Library Entry 1022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1,8-Diaminooctane
+##MOLFORM=C8H20N2
+##CAS REGISTRY NO=373-44-4
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=1273
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          0
+    15          6
+    16          1
+    27         31
+    28         75
+    30        999
+    31         31
+    39         28
+    40          7
+    41         68
+    42         53
+    43         41
+    44        125
+    45         51
+    46          1
+    47          3
+    50          0
+    51          2
+    52          1
+    53          8
+    54         11
+    55         65
+    56        115
+    57         14
+    58          8
+    59         26
+    60          1
+    65          2
+    66          1
+    67         12
+    68          8
+    69         30
+    70         41
+    71          1
+    72         41
+    73         11
+    74          0
+    77          0
+    79          2
+    80          0
+    81          4
+    82          4
+    83          8
+    84         12
+    85          0
+    86         49
+    87         10
+    88          0
+    95          1
+    96          0
+    97          1
+    98          8
+   100         25
+   101          5
+   109          0
+   110          1
+   112          1
+   114         13
+   115         71
+   116          6
+   126          6
+   128         54
+   129          4
+   144          0
+   145          3

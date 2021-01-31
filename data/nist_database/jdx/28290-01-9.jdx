@@ -1,0 +1,28 @@
+##TITLE=Library Entry 20336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 2,3,3-trimethyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=28290-01-9
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        430
+    40         10
+    41        770
+    42        450
+    43         10
+    55        999
+    56        760
+    57         40
+    70        890
+    71         50
+    84         50
+    97         20
+   112         40

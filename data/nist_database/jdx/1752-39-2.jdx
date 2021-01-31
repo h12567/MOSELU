@@ -1,0 +1,55 @@
+##TITLE=Library Entry 5152
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hydrazinecarbothioamide, 2-(1-methylbutylidene)-
+##MOLFORM=C6H13N3S
+##CAS REGISTRY NO=1752-39-2
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    38         20
+    39        150
+    40        110
+    41        400
+    42        999
+    43        190
+    44         60
+    47         10
+    48         10
+    53         10
+    55         50
+    56         20
+    57        470
+    58         30
+    59         10
+    60        140
+    68         60
+    69         20
+    70        160
+    71         40
+    72        160
+    74         10
+    75         80
+    82         10
+    83         10
+    84         40
+    85         80
+    89         40
+    96         10
+    97         10
+   102         30
+   116        490
+   117        120
+   118         20
+   127         10
+   144         80
+   159        460
+   160         40
+   161         10

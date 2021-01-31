@@ -1,0 +1,87 @@
+##TITLE=Library Entry 44958
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5122
+##NAMES=HP
+##CAS NAME=1-Propene, 1,2-dichloro-
+##MOLFORM=C3H4Cl2
+##CAS REGISTRY NO=563-54-2
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          2
+    14          5
+    15         11
+    24          3
+    25         10
+    26         28
+    27         58
+    28          2
+    29          3
+    35         17
+    36         36
+    37         93
+    38         99
+    39        551
+    40         23
+    41         13
+    42          3
+    43          9
+    44          3
+    45          1
+    47         44
+    48         12
+    49        125
+    50          5
+    51         37
+    53          1
+    54          2
+    55          2
+    56          2
+    58          2
+    59          3
+    60         19
+    61         15
+    62         16
+    63         26
+    64          7
+    65          7
+    67          2
+    70          3
+    71          8
+    72         23
+    73         91
+    74         49
+    75        999
+    76         47
+    77        321
+    78         11
+    79          1
+    80          1
+    81         13
+    82         28
+    83         73
+    84         18
+    85         51
+    86          3
+    87          8
+    91          1
+    94          1
+    95          4
+    96          2
+    97          3
+    99          1
+   107          5
+   108          2
+   109         81
+   110        388
+   111         61
+   112        245
+   113         17
+   114         40
+   115          1

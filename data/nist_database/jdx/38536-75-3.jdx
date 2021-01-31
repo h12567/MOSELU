@@ -1,0 +1,40 @@
+##TITLE=Library Entry 31353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Tungsten, [1,2-bis(methylthio)ethane-S,S']tetracarbonyl-, (OC-6-2
+2)-
+##MOLFORM=C8H10O4S2W
+##CAS REGISTRY NO=38536-75-3
+##MP= -300
+##BP= -300
+##MW= 418
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    61        999
+    74        194
+    75        378
+    79         38
+   102         24
+   107          9
+   122        684
+   153          1
+   184          2
+   211          8
+   212          2
+   228         15
+   229          9
+   248          3
+   263          5
+   276          4
+   278          3
+   291          2
+   306          4
+   319          1
+   334          3
+   362          2
+   390          2
+   418          4

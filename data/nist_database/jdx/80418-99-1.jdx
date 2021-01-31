@@ -1,0 +1,65 @@
+##TITLE=Library Entry 6014
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 3-chlorododecanoate
+##MOLFORM=C13H24Cl2O2
+##CAS REGISTRY NO=80418-99-1
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=1836
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        196
+    41        941
+    42        208
+    43        999
+    49         88
+    53        111
+    54        157
+    55        913
+    56        348
+    57        595
+    67        331
+    68        227
+    69        533
+    70        350
+    71        196
+    72         29
+    73         39
+    79         90
+    81        491
+    82        259
+    83        479
+    84        297
+    85        147
+    93         60
+    94         40
+    95        300
+    96        389
+    97        379
+    98        260
+    99         40
+   108         50
+   109        138
+   110        120
+   111        129
+   112         70
+   119         59
+   121         90
+   123         88
+   124         30
+   136         50
+   137         79
+   138        279
+   139         29
+   162          9
+   163         79
+   180         60
+   181        846
+   182        100
+   217         89
+   247        568

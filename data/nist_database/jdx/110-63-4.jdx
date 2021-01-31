@@ -1,0 +1,58 @@
+##TITLE=Library Entry 4616
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1,4-Butanediol
+##MOLFORM=C4H10O2
+##CAS REGISTRY NO=110-63-4
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=900
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         10
+    18          1
+    19         10
+    25          1
+    26         23
+    27        132
+    28         27
+    29        181
+    30         19
+    31        611
+    32         15
+    33          9
+    37          7
+    38         16
+    39        137
+    40         61
+    41        423
+    42        999
+    43        279
+    44        858
+    45         56
+    46          3
+    47          6
+    49         10
+    50          6
+    51          7
+    53         29
+    54         20
+    55         29
+    56          3
+    57        268
+    58         14
+    59         11
+    60         51
+    61          6
+    62         35
+    69          3
+    70          1
+    71        283
+    72         67
+    73          4
+    89          2

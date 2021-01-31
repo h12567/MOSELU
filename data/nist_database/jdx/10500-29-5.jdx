@@ -1,0 +1,59 @@
+##TITLE=Library Entry 60846
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(9)878(1974); NIBBERING
+##NAMES=HP
+##CAS NAME=Benzenepropanoyl bromide
+##MOLFORM=C9H9BrO
+##CAS REGISTRY NO=10500-29-5
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    37          7
+    38         16
+    39        136
+    40         12
+    41         22
+    42         10
+    49         20
+    50        260
+    51        564
+    52        152
+    53         30
+    54         16
+    55        110
+    56          7
+    57          3
+    61         21
+    62         66
+    63        163
+    64         61
+    65        170
+    66         32
+    67          2
+    73         16
+    74         97
+    75        142
+    76         90
+    77        503
+    78        575
+    79        240
+    80        167
+    81         72
+    82        150
+    89         55
+    90         23
+    91        999
+    92         78
+    93          1
+   101         11
+   102        101
+   103        653
+   104        800
+   105        797
+   106         20
+   107          5

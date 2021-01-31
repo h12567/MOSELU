@@ -1,0 +1,39 @@
+##TITLE=Library Entry 417
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Ethyl-3,3-bis(trifluoromethyl)diaziridine
+##MOLFORM=C5H6F6N2
+##CAS REGISTRY NO=32770-47-1
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27        250
+    28        300
+    29        999
+    30         50
+    42        260
+    43         60
+    44        220
+    45          8
+    51        150
+    52         10
+    69        150
+    70          2
+    96        150
+    97         10
+   111        130
+   112         80
+   113          5
+   139         67
+   180        180
+   181          9
+   193        230
+   194         15
+   208        120
+   209          8

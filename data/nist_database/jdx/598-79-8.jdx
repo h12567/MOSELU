@@ -1,0 +1,71 @@
+##TITLE=Library Entry 52
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=.alpha.-Chloroacrylic acid
+##MOLFORM=C3H3ClO2
+##CAS REGISTRY NO=598-79-8
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    11          6
+    12         32
+    13         37
+    14         63
+    15         34
+    16         10
+    17         42
+    18         11
+    24         93
+    25        333
+    26        999
+    27        868
+    28         85
+    29         82
+    30          6
+    31         17
+    35         87
+    36         54
+    37         37
+    38          8
+    40         14
+    41         28
+    42        121
+    43         44
+    44         95
+    45        494
+    46         13
+    47         34
+    48         12
+    49         17
+    51         10
+    52         48
+    53        175
+    54         43
+    55          4
+    59         36
+    60        198
+    61        833
+    62        502
+    63        265
+    64        135
+    71        498
+    72         25
+    76          9
+    77          8
+    78         30
+    80         12
+    87          5
+    89        182
+    90          6
+    91         64
+    92          2
+   106        795
+   107         27
+   108        260
+   109          9

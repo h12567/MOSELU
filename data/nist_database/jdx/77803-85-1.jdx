@@ -1,0 +1,85 @@
+##TITLE=Library Entry 7568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1R-acetamido-4-cis-acetoxy-2,3-cis-epoxy-
+##MOLFORM=C10H15NO4
+##CAS REGISTRY NO=77803-85-1
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    38          1
+    39         36
+    40         76
+    41         47
+    42         53
+    43        999
+    44        119
+    45          3
+    46         18
+    51          4
+    53         16
+    54         12
+    55         38
+    56        246
+    57        129
+    58         23
+    59         23
+    60        191
+    61         10
+    63          1
+    65         10
+    66         42
+    67         84
+    68         99
+    69         30
+    70         25
+    71         17
+    72         49
+    73         22
+    77          3
+    80          8
+    81         21
+    82         87
+    83         71
+    84        140
+    85        202
+    86         49
+    87          2
+    88          2
+    93         25
+    94        159
+    95         70
+    96         13
+    97         65
+    98         27
+    99         20
+   100         12
+   101         27
+   102         16
+   109          6
+   110         39
+   111         78
+   112        239
+   113         23
+   114          6
+   115          3
+   124          9
+   125          3
+   126          1
+   127         55
+   128         28
+   136          6
+   142          1
+   152          5
+   153         25
+   154        180
+   155         17
+   170          9
+   171          2
+   213         21

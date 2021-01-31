@@ -1,0 +1,86 @@
+##TITLE=Library Entry 56005
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1481
+##NAMES=HP
+##CAS NAME=1,4-Pentanediamine, N1,N1-diethyl-
+##MOLFORM=C9H22N2
+##CAS REGISTRY NO=140-80-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15          9
+    26          3
+    27         28
+    28         50
+    29         49
+    30        146
+    31          2
+    32          1
+    38          1
+    39          9
+    40          3
+    41         52
+    42         70
+    43         23
+    44        107
+    45          4
+    50          2
+    52          1
+    53          3
+    54          7
+    55         12
+    56         51
+    57         33
+    58        168
+    59          7
+    60          3
+    64          5
+    65          1
+    67          6
+    68          8
+    69         34
+    70         40
+    71         24
+    72         76
+    73         54
+    74         11
+    80          2
+    81          2
+    82          6
+    83          7
+    84        118
+    85         12
+    86        999
+    87         59
+    88          1
+    94          1
+    95          2
+    96          4
+    97          2
+    98         17
+    99         11
+   100          8
+   101         18
+   102          1
+   108          1
+   109          1
+   110          3
+   111          2
+   112         38
+   113          8
+   114          3
+   115          1
+   126         10
+   127          1
+   129         14
+   130          2
+   140          3
+   142          3
+   143          5
+   158         46
+   159          5

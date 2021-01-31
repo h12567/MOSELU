@@ -1,0 +1,43 @@
+##TITLE=Library Entry 70014
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.-F.Rontani ET AL, Org. Mass Spectr.,24,967(1989)
+##NAMES=HP
+##CAS NAME=3-(But-3-enyl)-cyclohexanone
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=3636-03-1
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    65         41
+    66         58
+    67        548
+    68        135
+    69        174
+    70         41
+    77         38
+    78         13
+    79        185
+    80         52
+    81        354
+    82        285
+    83         83
+    84         22
+    90          2
+    91         41
+    93         77
+    94         66
+    95        227
+    96         49
+    97        999
+    98         99
+   109        113
+   110        365
+   111         36
+   123         74
+   137         30
+   152         44

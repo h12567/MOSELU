@@ -1,0 +1,48 @@
+##TITLE=Library Entry 30886
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Phosphoric triamide, N,N',N''-tris(hydrazinocarbonyl)-
+##MOLFORM=C3H12N9O4P
+##CAS REGISTRY NO=14795-54-1
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         50
+    42         99
+    43        179
+    44        817
+    45         19
+    47        116
+    48         58
+    49         13
+    50         25
+    51          2
+    55          6
+    56         16
+    57          7
+    58          7
+    59          3
+    60        999
+    61        110
+    69          1
+    70          5
+    75         70
+    76          5
+    82         10
+    83         26
+    84          6
+    85         47
+    86          4
+    87          8
+    88         64
+    99         11
+   100         37
+   101          5
+   114         10

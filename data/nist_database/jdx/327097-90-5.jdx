@@ -1,0 +1,64 @@
+##TITLE=Library Entry 76031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-(4-Bromophenyl)-2-[3(2H)-oxo-5-phenyl-2-pyrazolyl]-6-phenylpyri
+midine
+##MOLFORM=C25H17BrN4O
+##CAS REGISTRY NO=327097-90-5
+##MP= -300
+##BP= -300
+##MW= 468
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         60
+    39        207
+    40        279
+    41         66
+    42         46
+    43         71
+    44        116
+    50        271
+    51        337
+    52        123
+    55         41
+    62         57
+    63        116
+    74        137
+    75        234
+    76        399
+    77        436
+    78         57
+    79         43
+    80         61
+    81         42
+    82         56
+    88         54
+    89         77
+   100         56
+   102        999
+   103        234
+   104        142
+   105         42
+   115         50
+   127        110
+   128        146
+   129        218
+   130         39
+   155         59
+   166         45
+   167        163
+   181         49
+   189         66
+   203         71
+   204         48
+   229        119
+   230         72
+   231        153
+   467         64
+   468        205
+   469         93
+   470        194

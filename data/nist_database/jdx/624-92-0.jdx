@@ -1,0 +1,56 @@
+##TITLE=Library Entry 67124
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Disulfide, dimethyl
+##MOLFORM=C2H6S2
+##CAS REGISTRY NO=624-92-0
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=746
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          5
+    15         20
+    27          2
+    32         16
+    33          6
+    34          2
+    35          3
+    44         28
+    45        478
+    46        250
+    47        193
+    48         90
+    49         31
+    50          4
+    51          1
+    57          2
+    58          2
+    59          2
+    60          3
+    61        149
+    62          5
+    63          7
+    64        115
+    65          5
+    66         11
+    76          5
+    77          6
+    78         33
+    79        570
+    80         21
+    81         54
+    82          1
+    83          1
+    91          1
+    94        999
+    95         45
+    96        103
+    97          3
+    98          3

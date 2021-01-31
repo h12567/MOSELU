@@ -1,0 +1,78 @@
+##TITLE=Library Entry 70525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8814
+##NAMES=HP
+##CAS NAME=3-Thiopheneacetic acid
+##MOLFORM=C6H6O2S
+##CAS REGISTRY NO=6964-21-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    18          1
+    26          3
+    27         15
+    28         10
+    29          2
+    32          3
+    34          1
+    37          4
+    38          9
+    39         29
+    40          1
+    41          3
+    42          2
+    43          2
+    44          8
+    45        168
+    46          6
+    47         11
+    48          9
+    49          3
+    50         13
+    51         20
+    52          8
+    53         86
+    54          4
+    55          4
+    57          9
+    58         12
+    59          3
+    60          3
+    61          3
+    62          4
+    63          8
+    64          1
+    65          2
+    68          2
+    69         33
+    70         16
+    71         14
+    72          2
+    73          2
+    80          1
+    81          5
+    82          6
+    83          1
+    84          1
+    85          7
+    87          1
+    93          3
+    95          9
+    96         12
+    97        999
+    98         69
+    99         46
+   100          4
+   113          2
+   114          5
+   124          8
+   125          1
+   142        450
+   143         34
+   144         23
+   145          2

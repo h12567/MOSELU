@@ -1,0 +1,90 @@
+##TITLE=Library Entry 61799
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzene, 1-(chloromethyl)-2-methoxy-
+##MOLFORM=C8H9ClO
+##CAS REGISTRY NO=7035-02-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         16
+    15        120
+    26         28
+    27         38
+    28         15
+    29         26
+    30          7
+    31          2
+    32          0
+    35          9
+    36          8
+    37         25
+    38         61
+    39        154
+    40         10
+    41         15
+    42          3
+    43          8
+    44          2
+    45          7
+    48          2
+    49         22
+    50        133
+    51        272
+    52        136
+    53         29
+    54          4
+    55          5
+    60          3
+    61         21
+    62         52
+    63        119
+    64         27
+    65        176
+    66         14
+    73         15
+    74         29
+    75         27
+    76         23
+    77        238
+    78        197
+    79         18
+    84          2
+    85          8
+    86         12
+    87         10
+    88          2
+    89        100
+    90          2
+    91        999
+    92         81
+    93        128
+    94         11
+    99         11
+   101          4
+   105         15
+   106         12
+   107          3
+   112          6
+   113          9
+   114          2
+   115          2
+   119          4
+   121        836
+   122         71
+   123          4
+   125         17
+   127          5
+   141         21
+   143          5
+   156        247
+   157         22
+   158         81
+   159          7

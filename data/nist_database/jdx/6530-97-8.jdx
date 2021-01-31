@@ -1,0 +1,29 @@
+##TITLE=Library Entry 47178
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.YAMADA CHIBA UNIVERSITY, YAYOI-CHO, CHIBA, JAPAN
+##NAMES=HP
+##CAS NAME=Diazene, (4-chlorophenyl)phenyl-, (Z)-
+##MOLFORM=C12H9ClN2
+##CAS REGISTRY NO=6530-97-8
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        121
+    75        285
+    77        999
+   105        402
+   111        825
+   113        275
+   139        492
+   141        164
+   151         79
+   152        206
+   153         37
+   188         10
+   216        714
+   218        238

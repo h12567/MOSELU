@@ -1,0 +1,61 @@
+##TITLE=Library Entry 50902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Perhydrophenalene, (3a.alpha., 6a.alpha., 9a.alpha., 9b.beta.)-
+##MOLFORM=C13H22
+##CAS REGISTRY NO=40250-64-4
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    39        327
+    40         50
+    41        800
+    42         90
+    43         90
+    53        221
+    54        125
+    55        370
+    65        125
+    66        102
+    67        850
+    68        123
+    69        137
+    77        280
+    78         90
+    79         61
+    80        225
+    81        999
+    82        180
+    83         57
+    91        280
+    92         70
+    93        435
+    94        280
+    95        680
+    96        121
+   105         80
+   106         40
+   107        220
+   108        110
+   109        140
+   120         30
+   121        365
+   122        175
+   123        103
+   135        810
+   136        300
+   137        920
+   138        120
+   149         67
+   150         50
+   163         23
+   177         75
+   178        970
+   179        138
+   180          9

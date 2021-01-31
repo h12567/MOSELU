@@ -1,0 +1,32 @@
+##TITLE=Library Entry 46367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(6)293(1979); C. KASCHERES AND R. VAN FOSSEN
+ BRAVO
+##NAMES=HP
+##CAS NAME=Benzenesulfonic acid, 3-nitro-, hydrazide
+##MOLFORM=C6H7N3O4S
+##CAS REGISTRY NO=6655-77-2
+##MP= -300
+##BP= -300
+##MW= 217
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    31        150
+    50        624
+    75        350
+    76        999
+    77        300
+   122         75
+   123        949
+   124        200
+   138          5
+   139         17
+   153        624
+   170         50
+   186         20
+   187         50
+   188         15
+   217         25

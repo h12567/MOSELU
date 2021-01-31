@@ -1,0 +1,32 @@
+##TITLE=Library Entry 87393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphonic acid, (2-hydroxybicyclo[2.2.1]hept-2-yl)-, dimethyl es
+ter, exo-
+##MOLFORM=C9H17O4P
+##CAS REGISTRY NO=27109-26-8
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55        210
+    56         10
+    66        170
+    67        310
+    68         20
+    79        300
+    80        210
+    93        170
+    94         10
+    95        150
+    96         10
+   109        140
+   110        999
+   111        390
+   112         30
+   220         30

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 71492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H.WILLIAMS CHEMISTRY DEPT., UNIVERSITY OF CAMBRIDGE
+##NAMES=HP
+##CAS NAME=3-Penten-2-one, 4-(methylamino)-
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=14092-14-9
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    26         20
+    27         50
+    29         30
+    30        130
+    31        310
+    38         20
+    39         70
+    40         30
+    41         70
+    42         90
+    43        170
+    44         20
+    51         20
+    52         30
+    53         34
+    54         60
+    55         64
+    56        520
+    57         40
+    58         73
+    67         20
+    68         32
+    69         30
+    70         50
+    71         20
+    82         30
+    84         20
+    96         60
+    97         20
+    98        999
+    99         80
+   113        760
+   114         75

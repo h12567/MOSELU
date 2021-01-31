@@ -1,0 +1,54 @@
+##TITLE=Library Entry 20330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1329
+##NAMES=HP
+##CAS NAME=2-Butene, 2-methyl-
+##MOLFORM=C5H10
+##CAS REGISTRY NO=513-35-9
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=514
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         11
+    26         17
+    27        155
+    28         20
+    29        208
+    30          4
+    36          1
+    37         10
+    38         23
+    39        237
+    40         37
+    41        336
+    42        312
+    43         67
+    44          2
+    45          1
+    49          4
+    50         22
+    51         28
+    52         10
+    53         93
+    54         28
+    55        999
+    56         53
+    57         25
+    58          2
+    61          4
+    62          6
+    63          6
+    65          6
+    66          3
+    67         31
+    68          7
+    69         45
+    70        442
+    71         26
+    72          3
+    73          1

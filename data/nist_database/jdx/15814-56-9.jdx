@@ -1,0 +1,43 @@
+##TITLE=Library Entry 6661
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-D-Mannopyranoside, methyl 3,6-anhydro-
+##MOLFORM=C7H12O5
+##CAS REGISTRY NO=15814-56-9
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        607
+    28        595
+    29        738
+    30        178
+    31        607
+    32        202
+    33         59
+    36        220
+    39        404
+    40        202
+    41        654
+    42        547
+    43        999
+    44        821
+    45        416
+    55        547
+    56        238
+    57        714
+    60        404
+    61        238
+    69        476
+    73        238
+    74        226
+    85         68
+    97        282
+   102         68
+   115        119
+   145         39

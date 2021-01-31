@@ -1,0 +1,52 @@
+##TITLE=Library Entry 45167
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Heptane, 1,1-dimethoxy-
+##MOLFORM=C9H20O2
+##CAS REGISTRY NO=10032-05-0
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=1072
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    26          9
+    27         62
+    39         35
+    41        131
+    42         14
+    43         72
+    44          5
+    45        142
+    47         89
+    52          2
+    53          9
+    54          5
+    55        162
+    56         12
+    57         11
+    58         57
+    59         11
+    67         14
+    68          8
+    69         23
+    70          6
+    71        107
+    72          7
+    73          3
+    75        999
+    76         33
+    77          4
+    81          9
+    85         15
+    96          4
+    97         67
+    98          5
+    99          2
+   128          5
+   129         67
+   130          6
+   159          3

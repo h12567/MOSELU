@@ -1,0 +1,64 @@
+##TITLE=Library Entry 1035
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N'-di-n-Butylurea
+##MOLFORM=C9H20N2O
+##CAS REGISTRY NO=1792-17-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          0
+    15          7
+    18         13
+    27         93
+    28         93
+    29        183
+    30        999
+    31         26
+    32          2
+    39         57
+    41        176
+    42         38
+    43         64
+    44        351
+    45         13
+    53          9
+    54          8
+    55         33
+    56         62
+    57        118
+    58         34
+    59          4
+    60          8
+    61          8
+    69          2
+    70          8
+    72         64
+    73         55
+    74        133
+    75          5
+    85         10
+    86          6
+    87         71
+    88         30
+   100         90
+   101         91
+   102          7
+   115          5
+   116          4
+   117         10
+   129         87
+   130         78
+   131          5
+   143         38
+   144          4
+   157         25
+   172        187
+   173         24

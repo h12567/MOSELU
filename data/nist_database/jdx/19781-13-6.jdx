@@ -1,0 +1,58 @@
+##TITLE=Library Entry 57248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Octanol, 4,7-dimethyl-
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=19781-13-6
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=1066
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27        136
+    28         20
+    29        142
+    31         26
+    39        181
+    40         60
+    41        540
+    42         70
+    43        463
+    45        388
+    51         24
+    52         13
+    53        100
+    55        937
+    56        492
+    57        207
+    58         76
+    59         48
+    65         27
+    66         12
+    67         84
+    69        547
+    70         85
+    71         88
+    72         13
+    73         16
+    77         21
+    79         30
+    81         53
+    82         13
+    83         90
+    84        205
+    85         73
+    87        999
+    88         57
+    95         10
+    97        517
+    98         44
+   115        278
+   116         22
+   140        129
+   141         16
+   143         65

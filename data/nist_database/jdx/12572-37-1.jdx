@@ -1,0 +1,40 @@
+##TITLE=Library Entry 18065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.R.TAILBY MONASH UNIVERSITY, CLAYTON, VICTORIA, AUSTRA
+LIA.
+##NAMES=HP
+##CAS NAME=Cobalt, decacarbonyl[(pentafluorophenyl)phenylacetylene]tetra-
+##MOLFORM=C24H5Co4F5O10
+##CAS REGISTRY NO=12572-37-1
+##MP= -300
+##BP= -300
+##MW= 784
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    50        999
+    59        970
+    61        120
+    62        190
+    69        210
+   118        810
+   209        140
+   210        140
+   240        110
+   268        780
+   327        200
+   355         30
+   386        130
+   414        120
+   442         40
+   470         20
+   498         20
+   504         20
+   526         20
+   532         20
+   560         20
+   588         20
+   616         20
+   644         20

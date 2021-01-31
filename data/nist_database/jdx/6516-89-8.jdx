@@ -1,0 +1,68 @@
+##TITLE=Library Entry 100474
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-1,5-Benzodiazepine, 2,3,4,5-tetrahydro-
+##MOLFORM=C9H12N2
+##CAS REGISTRY NO=6516-89-8
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    37         27
+    38         39
+    39        134
+    40         23
+    41         59
+    42         39
+    49         23
+    50         59
+    51        111
+    52         91
+    53         31
+    54         23
+    59          7
+    62         27
+    63         79
+    64         55
+    65        214
+    66         79
+    67          7
+    72         15
+    73         19
+    74         27
+    75         27
+    76         31
+    77        103
+    78         71
+    79         47
+    80         43
+    89         27
+    90         39
+    91         67
+    92        182
+    93         79
+    94         19
+   103         23
+   104         39
+   105         27
+   106         39
+   107         47
+   117         47
+   118         87
+   119        999
+   120        182
+   121         19
+   130        166
+   131         79
+   132         91
+   133         63
+   145         35
+   146         27
+   147        107
+   148        523
+   149         67

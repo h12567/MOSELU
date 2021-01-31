@@ -1,0 +1,68 @@
+##TITLE=Library Entry 32701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=(1R,2R,5R)-5-Methyl-2-(prop-1-en-2-yl)cyclohexanol
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=21290-09-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    27         91
+    29        160
+    31         44
+    39        374
+    40        154
+    41        743
+    42        100
+    43        271
+    44         90
+    45         33
+    52         33
+    53        364
+    54         68
+    55        705
+    56        475
+    57        232
+    65        106
+    66         71
+    67        999
+    68        689
+    69        806
+    70        250
+    71        726
+    72         93
+    77        189
+    79        337
+    80        174
+    81        771
+    82        181
+    83        430
+    84        614
+    85        190
+    91        134
+    93        542
+    94        184
+    95        507
+    96        116
+    97        305
+    98        207
+   107        252
+   108         94
+   109        350
+   110        273
+   111        432
+   112        216
+   121        775
+   122         72
+   123        113
+   126         13
+   136        306
+   139        223
+   154         82
+   155         17

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 47076
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. TAKAHASHI, FAC. PHARMACEUT. SCI., UNIV. KANAZAWA, JA
+PAN
+##NAMES=HP
+##CAS NAME=1,1-Diphenylethane-1,2-diol
+##MOLFORM=C14H14O2
+##CAS REGISTRY NO=4217-62-3
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    31        100
+    39        140
+    51        590
+    76        230
+    77        999
+    78        380
+    91        320
+   105        840
+   106        380
+   152        240
+   165        510
+   183        750
+   184        610
+   196         40
+   214         30

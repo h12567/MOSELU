@@ -1,0 +1,37 @@
+##TITLE=Library Entry 69997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AC73-347-2A
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 3-(3,3-dimethylbutyl)-
+##MOLFORM=C12H22O
+##CAS REGISTRY NO=40564-94-1
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=1727
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        176
+    42         21
+    43         60
+    55        136
+    56         39
+    57        495
+    58         26
+    79         23
+    81         34
+    82         15
+    83        191
+    84         39
+    93         28
+    95         26
+    96         15
+    97        999
+    98        265
+    99         26
+   139         52
+   140         13
+   182         63
+   183         15

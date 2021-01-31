@@ -1,0 +1,58 @@
+##TITLE=Library Entry 49574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octanone, 3-methyl-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=26051-25-2
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        210
+    42         20
+    43         40
+    50         10
+    51         20
+    52         10
+    53         60
+    54        170
+    55        130
+    56         30
+    57         20
+    58         20
+    59         10
+    60         10
+    65         10
+    66         20
+    67        210
+    68        230
+    69        110
+    70         10
+    77         20
+    78         50
+    79         80
+    80        999
+    81        410
+    82         80
+    83         10
+    84         20
+    91         20
+    94         10
+    95        190
+    96         30
+    97         10
+   105         10
+   107         10
+   109         40
+   110         20
+   120         10
+   123         20
+   138        380
+   139         40
+   140         10

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 10156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Acetyl 2-formylethyl sulfide
+##MOLFORM=C5H8O2S
+##CAS REGISTRY NO=53943-93-4
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27         97
+    29         91
+    35         26
+    42         37
+    43        999
+    44         42
+    45         48
+    47         22
+    56         17
+    57         43
+    58         24
+    59         25
+    61         67
+    69         48
+    70          4
+    73         21
+    88         23
+    89        130
+    90         22
+    91         10
+    99          7
+   104         69
+   105          5
+   106          4
+   132         60
+   133          5
+   134          3

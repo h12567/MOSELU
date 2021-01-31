@@ -1,0 +1,48 @@
+##TITLE=Library Entry 32207
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.A. HOHORST, ALLIED CHEMICAL, IDAHO FALLS, IDAHO, U
+##NAMES=HP
+##CAS NAME=cis-Tetrafluoro(trifluoromethoxy)(trifluoromethylhydroperoxidato)
+sulfur
+##MOLFORM=C2F10O3S
+##CAS REGISTRY NO=41938-43-6
+##MP= -300
+##BP= -300
+##MW= 294
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    31         25
+    32         11
+    44        178
+    47        452
+    48         19
+    50         25
+    51         19
+    65         19
+    66        999
+    67        108
+    69        662
+    70         32
+    83         25
+    85         32
+    86        134
+    88         19
+    89        115
+    91         76
+    92         19
+   102         38
+   105        707
+   107         45
+   121         64
+   124         45
+   127        198
+   129         19
+   171         38
+   187         57
+   193         32
+   209        115
+   212         13
+   225         19

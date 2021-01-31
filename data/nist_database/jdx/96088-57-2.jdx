@@ -1,0 +1,49 @@
+##TITLE=Library Entry 48626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. BRINK, HEYMANNSTRASSE, LEVERKUSEN, W. GER.
+##NAMES=HP
+##CAS NAME=1,2-Bis(methylsulfonyl)-1,2-dimethoxyhydrazine
+##MOLFORM=C4H12N2O6S2
+##CAS REGISTRY NO=96088-57-2
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    29        770
+    30        560
+    31        610
+    32        490
+    43        130
+    45        280
+    46         90
+    47        340
+    48        340
+    59        930
+    60         80
+    63        300
+    64        350
+    65        300
+    79        999
+    80        430
+    81        280
+    91        160
+    94        130
+    95        110
+   105         30
+   109         50
+   111        130
+   125        190
+   137         30
+   139         20
+   142         50
+   143         70
+   145         20
+   158         20
+   169        100
+   202         10
+   217         20
+   233         30

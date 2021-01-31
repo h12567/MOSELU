@@ -1,0 +1,64 @@
+##TITLE=Library Entry 21812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Chloro-7-oxo-B-homo-5a-cholestan-6-one
+##MOLFORM=C27H45ClO2
+##CAS REGISTRY NO=63866-19-3
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41        580
+    43        878
+    55        999
+    57        806
+    67        673
+    69        716
+    79        648
+    81        957
+    93        833
+    95        976
+   106        509
+   107        496
+   122        644
+   136        271
+   137        907
+   149        647
+   157        530
+   159        662
+   175        118
+   177        235
+   205        119
+   216        147
+   247        318
+   252        630
+   261        999
+   262        853
+   282        128
+   283        141
+   297        116
+   304        111
+   309         75
+   323        175
+   324         58
+   334        117
+   351        257
+   352         82
+   391         59
+   400        276
+   401        265
+   402         65
+   406        545
+   407        146
+   408        206
+   418         71
+   420         35
+   421        105
+   423         53
+   436        405
+   438        147

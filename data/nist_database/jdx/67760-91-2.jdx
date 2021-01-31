@@ -1,0 +1,47 @@
+##TITLE=Library Entry 22295
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,5-Dimethyl-5-hexen-3-ol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=67760-91-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    15         32
+    27        286
+    28        153
+    29        318
+    31         82
+    32         21
+    39        367
+    40         94
+    41        684
+    42         76
+    43        491
+    44         56
+    45        153
+    50         20
+    51         39
+    53         74
+    55        802
+    56        999
+    57        474
+    58         23
+    67         94
+    68         22
+    69         58
+    70         93
+    71        276
+    72         90
+    73        617
+    74         25
+    83         21
+    84         17
+    85        153
+    95         54

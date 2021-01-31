@@ -1,0 +1,49 @@
+##TITLE=Library Entry 79837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=1-Naphthalenol, benzoate
+##MOLFORM=C17H12O2
+##CAS REGISTRY NO=607-55-6
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    31         20
+    39         11
+    45          9
+    46         11
+    50         16
+    51         57
+    62          8
+    63         22
+    64          5
+    65         12
+    74          8
+    75         11
+    76         16
+    77        330
+    78         25
+    88          8
+    89         29
+   105        999
+   106        111
+   113         10
+   114         14
+   115        148
+   116         19
+   126          8
+   127         17
+   128         81
+   129          9
+   143         14
+   144          7
+   165          4
+   189          7
+   248        183
+   249         33
+   250          4

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 80255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-N-benzoyl-1,1-dimethyl-2-carbomethoxyethylamine
+##MOLFORM=C14H19NO4
+##CAS REGISTRY NO=78190-93-9
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        251
+    42         53
+    43        171
+    44        283
+    45         22
+    55        153
+    56        345
+    57         72
+    58        113
+    59          9
+    83        732
+    84         92
+    85         15
+   105        999
+   106        141
+   107         28
+   114        281
+   115         21
+   136        121
+   137          9
+   151         41
+   152          9
+   162         43
+   163          7
+   188         53
+   189          7
+   192         21
+   203         71
+   204          6
+   234         22
+   235         43
+   236          7
+   265         73
+   266         12
+   267          2

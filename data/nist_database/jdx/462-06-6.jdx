@@ -1,0 +1,53 @@
+##TITLE=Library Entry 69234
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 529
+##NAMES=HP
+##CAS NAME=Benzene, fluoro-
+##MOLFORM=C6H5F
+##CAS REGISTRY NO=462-06-6
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=666
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26          4
+    27          4
+    31          8
+    36          2
+    37         12
+    38         16
+    39         31
+    44          2
+    45          2
+    46          4
+    47          1
+    48         16
+    49          9
+    50         72
+    51         35
+    52          9
+    56          2
+    57         27
+    61          6
+    62          6
+    63         23
+    68         16
+    69         24
+    70        172
+    71          7
+    73          6
+    74         22
+    75         49
+    76         17
+    77         11
+    81          8
+    92          3
+    93          4
+    94         15
+    95         64
+    96        999
+    97         65
+    98          1

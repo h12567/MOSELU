@@ -1,0 +1,84 @@
+##TITLE=Library Entry 34174
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=Cyclopentane, hexyl-
+##MOLFORM=C11H22
+##CAS REGISTRY NO=4457-00-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1136
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          2
+    25          1
+    26         10
+    27        183
+    28         40
+    29        283
+    30          5
+    37          1
+    38          2
+    39        172
+    40         37
+    41        850
+    42        201
+    43        416
+    44         12
+    50          2
+    51          7
+    52          5
+    53         74
+    54        109
+    55        800
+    56        516
+    57        200
+    58          7
+    63          1
+    64          0
+    65         15
+    66         15
+    67        218
+    68        750
+    69        999
+    70        366
+    71         69
+    72          3
+    77          9
+    78          2
+    79         14
+    80          4
+    81         80
+    82        189
+    83        433
+    84        250
+    85         46
+    86          2
+    91          3
+    92          0
+    93          2
+    94          0
+    95          7
+    96         42
+    97        216
+    98        103
+    99          9
+   100          0
+   109          0
+   110         14
+   111        103
+   112         45
+   113          4
+   124          5
+   125         45
+   126         63
+   127          6
+   139          1
+   152          0
+   153          1
+   154         86
+   155          9
+   156          0

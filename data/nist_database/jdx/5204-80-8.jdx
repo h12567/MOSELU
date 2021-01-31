@@ -1,0 +1,56 @@
+##TITLE=Library Entry 2747
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.CORNU ATOMIC ENERGY COMMISSION, GRENOBLE, FRANCE
+##NAMES=HP
+##CAS NAME=4-Pentenal, 2-ethyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=5204-80-8
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=1034
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         86
+    26         58
+    27        389
+    28        132
+    29        417
+    30         54
+    31        111
+    38         45
+    39        460
+    40         74
+    41        999
+    42        194
+    43        202
+    44         19
+    45          4
+    50         25
+    51         32
+    52         12
+    53         98
+    54         33
+    55        970
+    56        289
+    57        524
+    58         63
+    65         26
+    66         11
+    67         63
+    68         87
+    69         88
+    70        256
+    71         34
+    77         17
+    80          5
+    81         31
+    82          7
+    83        294
+    84        232
+    85         17
+    97         30
+   111          4
+   112          3

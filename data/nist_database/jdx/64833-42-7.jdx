@@ -1,0 +1,26 @@
+##TITLE=Library Entry 90027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT,99(21)6924(1977);11; T.H. KOCH
+##NAMES=HP
+##CAS NAME=2H-Pyrrol-2-one, 5-ethoxy-3,4-dihydro-3,4-dimethyl-, trans-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=64833-42-7
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    41        350
+    43        240
+    55        350
+    56        760
+    69        210
+    70        410
+    84        240
+   113        999
+   127        350
+   140        240
+   155        290

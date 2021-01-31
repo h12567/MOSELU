@@ -1,0 +1,39 @@
+##TITLE=Library Entry 62414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N M M. NIBBERING
+##NAMES=HP
+##CAS NAME=Adenine, N-[4-(benzyloxy)-3-[(benzyloxy)methyl]butyl]-
+##MOLFORM=C24H27N5O2
+##CAS REGISTRY NO=33498-85-0
+##MP= -300
+##BP= -300
+##MW= 417
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    28         60
+    30         90
+    39         60
+    41         60
+    43        140
+    65        110
+    77         60
+    79         50
+    91        999
+    92        130
+   119        110
+   120         50
+   135        130
+   136        130
+   148        440
+   149        110
+   160         70
+   162        280
+   163         70
+   190        110
+   202         60
+   205         90
+   220         80
+   326        130

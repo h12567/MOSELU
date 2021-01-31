@@ -1,0 +1,67 @@
+##TITLE=Library Entry 26343
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methylhexyl 2-methylbutanoate
+##MOLFORM=C12H24O2
+##CAS REGISTRY NO=850309-46-5
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=1307
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         33
+    29        112
+    30          4
+    31         16
+    39         55
+    41        255
+    42         76
+    43        131
+    47          7
+    49         26
+    53          7
+    55        152
+    56        234
+    57        999
+    58         54
+    59         59
+    61          8
+    62          7
+    63          4
+    67         18
+    68         32
+    69        273
+    70        658
+    71         20
+    72          6
+    74         56
+    75          9
+    80          5
+    81         12
+    83         31
+    84         28
+    85        270
+    86         36
+    87         22
+    92          5
+    95          8
+    96          9
+    98        304
+    99         50
+   100          5
+   101         36
+   102          6
+   103        666
+   104         20
+   105         13
+   113          5
+   115         24
+   116          5
+   135          7
+   141          6
+   143         35
+   172         14

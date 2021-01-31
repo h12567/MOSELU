@@ -1,0 +1,44 @@
+##TITLE=Library Entry 109341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Pyrazole, 3-(trimethylsilyl)-
+##MOLFORM=C6H12N2Si
+##CAS REGISTRY NO=24602-40-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    31         18
+    42         24
+    43        140
+    44         36
+    45         85
+    53         36
+    54         18
+    55         45
+    56         15
+    57         24
+    58         18
+    59         42
+    67         18
+    68         48
+    69         21
+    70         42
+    73         79
+    82         21
+    83         21
+    84         54
+    97         15
+    98        609
+    99         70
+   100         24
+   125        999
+   126        125
+   127         33
+   140        231
+   141         30

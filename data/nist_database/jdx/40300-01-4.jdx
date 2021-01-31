@@ -1,0 +1,72 @@
+##TITLE=Library Entry 80411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=2-Methyl-3-nitrophenyl .beta.-phenylpropionate
+##MOLFORM=C16H15NO4
+##CAS REGISTRY NO=40300-01-4
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41          8
+    42          3
+    43          4
+    50         20
+    51         75
+    52         43
+    53         14
+    54          2
+    55         10
+    62          4
+    63         22
+    64          8
+    65         66
+    66          7
+    67          2
+    68          0
+    74          3
+    75          4
+    76          9
+    77        131
+    78         60
+    79         75
+    80          7
+    81          1
+    83          0
+    87          0
+    89         17
+    91        813
+    92         47
+    93          1
+    94          3
+    95          0
+   101          1
+   102          7
+   103         56
+   105        999
+   106         40
+   107          5
+   108          2
+   109          1
+   119          1
+   121          2
+   123          1
+   124          2
+   131         19
+   133        522
+   134         46
+   135          1
+   136          7
+   137          3
+   150          0
+   152          2
+   153          1
+   163          0
+   167          0
+   285          2
+   286          0

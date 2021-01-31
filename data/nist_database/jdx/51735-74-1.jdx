@@ -1,0 +1,48 @@
+##TITLE=Library Entry 35180
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Butanesulfinic acid, 1,1,2,2,3,3,4,4,4-nonafluoro-, anhydride
+##MOLFORM=C8F18O3S2
+##CAS REGISTRY NO=51735-74-1
+##MP= -300
+##BP= -300
+##MW= 550
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    31        170
+    32         50
+    48         80
+    50         70
+    63        579
+    64        230
+    69        999
+    82         80
+    94         50
+   100        190
+   101         80
+   113        120
+   119        310
+   131        290
+   150         20
+   163         40
+   169        190
+   201         10
+   213         30
+   219        330
+   233        140
+   251         15
+   264         20
+   283         70
+   301         30
+   315         50
+   333         30
+   383          5
+   483         80
+   502        110
+   518          6
+   534         20
+   550          2

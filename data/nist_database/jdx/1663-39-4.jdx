@@ -1,0 +1,64 @@
+##TITLE=Library Entry 19941
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=tert-Butyl acrylate
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=1663-39-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          1
+    14          0
+    15         46
+    17          1
+    18          8
+    25          6
+    26         60
+    27        267
+    28          0
+    29        161
+    30          4
+    31         19
+    36          1
+    37          5
+    38         14
+    39        122
+    40         30
+    41        362
+    42         30
+    43         97
+    44          5
+    45          5
+    49          1
+    50          7
+    51          7
+    52          3
+    53         17
+    54          1
+    55        999
+    56        429
+    57        668
+    58         32
+    59         17
+    60          0
+    68          1
+    69          1
+    71          0
+    73         91
+    74          3
+    82          5
+    83          1
+    86          0
+   110          8
+   111          1
+   113        132
+   114          8
+   115          0
+   128          0

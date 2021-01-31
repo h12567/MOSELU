@@ -1,0 +1,46 @@
+##TITLE=Library Entry 73007
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,4-Bis(morpholinoacetyl)piperazine
+##MOLFORM=C16H28N4O4
+##CAS REGISTRY NO=22764-36-9
+##MP= -300
+##BP= -300
+##MW= 340
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         65
+    42        111
+    43         44
+    44         72
+    45          6
+    51          3
+    54         18
+    56        191
+    57         18
+    58          2
+    68          5
+    69         13
+    70         42
+    71          9
+    72         17
+    77          3
+    83          5
+    85          6
+    86         13
+    87          1
+    91          1
+    97          8
+    98         39
+   100        999
+   101         41
+   102         10
+   103          2
+   105          2
+   310          1
+   340         34
+   341          4

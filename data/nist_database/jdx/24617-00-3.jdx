@@ -1,0 +1,46 @@
+##TITLE=Library Entry 50701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.TAMM INST. FOR ORG. CHEM., BASLE UNIV., BASLE, SWITZE
+RLAND
+##NAMES=HP
+##CAS NAME=2(1H)-Pyridinone, 1-[2-deoxy-3,5-bis-O-(4-methylbenzoyl)-.beta.-D
+-erythro-pentofuranosyl]-
+##MOLFORM=C26H25NO6
+##CAS REGISTRY NO=24617-00-3
+##MP= -300
+##BP= -300
+##MW= 447
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         12
+    28         31
+    39         26
+    41         15
+    51         10
+    53         16
+    63          6
+    65         43
+    67         19
+    78         18
+    81        999
+    82         63
+    89         10
+    90         16
+    91        185
+    92         20
+    95         32
+    96         53
+    97         20
+   118         11
+   119        664
+   120         64
+   136         25
+   216         14
+   217          8
+   353         55
+   354         13
+   447          0
+   448          0

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 36989
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5569
+##NAMES=HP
+##CAS NAME=(S)-(+)-2-Pyrrolidinemethanol
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=23356-96-9
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         14
+    18          1
+    26          6
+    27         38
+    28        202
+    29         14
+    30         62
+    31         27
+    37          2
+    38          5
+    39         37
+    40          9
+    41         96
+    42         40
+    43        149
+    44         19
+    45          2
+    50          2
+    51          3
+    52          3
+    53         11
+    54         15
+    55         73
+    56         17
+    57          6
+    58          5
+    59          1
+    60          1
+    65          2
+    66          1
+    67          8
+    68         55
+    69         11
+    70        999
+    71         55
+    72          6
+    73          4
+    77          1
+    79          2
+    80          3
+    81          2
+    82          9
+    83          8
+    84          3
+    97          2
+    98          1
+   100          8
+   101          7
+   102          1

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 48119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2,3-Bis(hydroxyimine)succinonitrile
+##MOLFORM=C4H2N4O2
+##CAS REGISTRY NO=4320-81-4
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26         75
+    27         64
+    29         57
+    30        510
+    38        179
+    41        168
+    43        133
+    44        561
+    52        799
+    53        254
+    54        103
+    58         43
+    64         85
+    68        188
+    69        207
+    77        389
+    78        999
+    79         71
+    81        124
+    86         67
+    90         83
+    91         46
+    93         35
+    95         47
+    96         20
+   108        186
+   111        118
+   120         46
+   121         43
+   122         28
+   123         21
+   138        634
+   139         60
+   140          8

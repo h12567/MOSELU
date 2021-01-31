@@ -1,0 +1,43 @@
+##TITLE=Library Entry 58321
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Glucose, 2,3,5,6-tetra-O-methyl-
+##MOLFORM=C10H20O6
+##CAS REGISTRY NO=13554-83-1
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    45        889
+    55        110
+    58        569
+    59        659
+    71        270
+    73         60
+    83        150
+    85        260
+    87        789
+    88        200
+    89        999
+   101        849
+   114        170
+   115        340
+   116        150
+   117        100
+   126         90
+   129         60
+   130         90
+   131         60
+   141        819
+   142        190
+   159        120
+   172         60
+   175         30
+   186         90
+   191         10
+   218          3

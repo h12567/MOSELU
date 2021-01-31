@@ -1,0 +1,24 @@
+##TITLE=Library Entry 66389
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Silabenzene,1-methyl-
+##MOLFORM=C6H8Si
+##CAS REGISTRY NO=63878-65-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    26        435
+    39        358
+    43        431
+    53        350
+    55        187
+    67        512
+    93        999
+   107        117
+   108        624

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 28757
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.H. AUE, DEP. CHEM., CALIF. UNIV., SANTA BARBARA, CALI
+F., USA
+##NAMES=HP
+##CAS NAME=Methyl 3-methyl-N-(p-toluenesulfonylaminocarbonyl)-3-aminobutanoa
+te
+##MOLFORM=C14H20N2O5S
+##CAS REGISTRY NO=55222-44-1
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39         80
+    41         70
+    42        170
+    43         60
+    51         30
+    55         40
+    56         60
+    57         40
+    58        999
+    59         60
+    63         30
+    65        130
+    73         70
+    74         30
+    83         40
+    84        140
+    91        780
+    92         60
+   107         80
+   108        120
+   114         30
+   115         40
+   116        420
+   117         30
+   155        350
+   156         30
+   157         80
+   171         30
+   197        150
+   198         20
+   215         30
+   217         20
+   232         20
+   255        130
+   256         20
+   264         50
+   297         40
+   313         20
+   328          1

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 76574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.F.CLIFFORD VA. POLYTECHNIC INST., BLACKSBURG, VA., US
+A
+##NAMES=HP
+##CAS NAME=Pentafluorosulfanylamine
+##MOLFORM=F5H2NS
+##CAS REGISTRY NO=15192-28-6
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14         14
+    15          5
+    16         23
+    17         65
+    18        241
+    19         69
+    20         79
+    26          9
+    27          9
+    28         42
+    30          5
+    32        157
+    33         14
+    34          9
+    35         46
+    36        199
+    37         14
+    38         69
+    39          5
+    43          5
+    44         28
+    46        231
+    47         28
+    48         51
+    49         58
+    51        153
+    63         65
+    64         28
+    65        282
+    66         23
+    67         11
+    70        351
+    72         14
+    81          5
+    84        417
+    85         65
+    86         37
+    87         14
+    89        625
+    91         28
+    95          9
+    97          9
+   103        999
+   104        236
+   105         46
+   106          9
+   124         65
+   127        102
+   143         69
+   145          2

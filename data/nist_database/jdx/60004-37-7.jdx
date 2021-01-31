@@ -1,0 +1,37 @@
+##TITLE=Library Entry 11865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(5)1565(1978); H. FLOHR ET AL.
+##NAMES=HP
+##CAS NAME=Propanedioic acid, (bromomethyl)methyl-, bis(5,6-dioxoheptyl) est
+er
+##MOLFORM=C19H27BrO8
+##CAS REGISTRY NO=60004-37-7
+##MP= -300
+##BP= -300
+##MW= 462
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    43        999
+    55        270
+    69        530
+   101        130
+   126         60
+   127        970
+   128        160
+   147         70
+   149         60
+   151         50
+   152         50
+   319         30
+   321         30
+   402         10
+   404         10
+   419         30
+   421         30
+   444         10
+   446         10
+   462         10
+   464         10

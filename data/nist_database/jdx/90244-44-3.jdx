@@ -1,0 +1,60 @@
+##TITLE=Library Entry 93108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Methyl 2,3,5-tri-O-acetyl-L-arabinofuranoside
+##MOLFORM=C12H18O8
+##CAS REGISTRY NO=90244-44-3
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    55         84
+    56         49
+    57        139
+    58         49
+    60         89
+    61        259
+    69        369
+    71         69
+    73         99
+    74         89
+    83         89
+    85        679
+    86        349
+    87        379
+    97        209
+    99        119
+   100         59
+   101         44
+   102         29
+   103        239
+   104         29
+   111         54
+   115        999
+   116         69
+   127         59
+   128        679
+   129        179
+   139        159
+   140         15
+   142         15
+   143         20
+   145        169
+   156         59
+   157        309
+   158         28
+   170        319
+   171         59
+   175          8
+   187         31
+   188         30
+   198         33
+   217        199
+   218         41
+   230          1
+   259         47

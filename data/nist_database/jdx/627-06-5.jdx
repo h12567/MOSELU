@@ -1,0 +1,24 @@
+##TITLE=Library Entry 1163
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Urea, propyl-
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=627-06-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    27         21
+    30        999
+    41         84
+    43         19
+    44        479
+    73        569
+    77          4
+    87        264
+   102        173

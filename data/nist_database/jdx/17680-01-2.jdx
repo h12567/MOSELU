@@ -1,0 +1,33 @@
+##TITLE=Library Entry 72113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Trimethyl(1-propenyl)silane
+##MOLFORM=C6H14Si
+##CAS REGISTRY NO=17680-01-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41          7
+    43         90
+    45        116
+    46         29
+    58         61
+    59        648
+    60         59
+    61         37
+    73        636
+    74         68
+    75         39
+    83         37
+    86          8
+    99        999
+   100        101
+   101         57
+   114        158
+   115         17

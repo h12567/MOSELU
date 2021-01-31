@@ -1,0 +1,30 @@
+##TITLE=Library Entry 34843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Diphosphorous tetrafluoride
+##MOLFORM=F4OP2
+##CAS REGISTRY NO=13812-07-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    16          4
+    19         12
+    25          4
+    31         59
+    47        277
+    48         12
+    50        168
+    51         12
+    66         43
+    69        999
+    85         33
+    88         25
+   135         26
+   154        204
+   155          1

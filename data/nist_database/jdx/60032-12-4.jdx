@@ -1,0 +1,38 @@
+##TITLE=Library Entry 31910
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-Acetylcyclopentadiene
+##MOLFORM=C7H8O
+##CAS REGISTRY NO=60032-12-4
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26         12
+    27         25
+    37         45
+    38         74
+    39        282
+    42         23
+    43        578
+    50         66
+    51         59
+    61         49
+    62         77
+    63        160
+    64         64
+    65        999
+    66        114
+    77         67
+    78         12
+    79         41
+    92         22
+    93        445
+    94         36
+   108        697
+   109         72

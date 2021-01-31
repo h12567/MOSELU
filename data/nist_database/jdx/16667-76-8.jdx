@@ -1,0 +1,71 @@
+##TITLE=Library Entry 30998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.B.WESTMORE DEPT. CHEM., UNIV., WINNIPEG, MANITOBA, CA
+NADA
+##NAMES=HP
+##CAS NAME=Furo[2',3':4,5]thiazolo[3,2-g]purine-8-methanol, 4-amino-6.alpha.
+,7,8,9a-tetrahydro-7-hydroxy-, [6aS-(6a.alpha.,7.alpha.,8.beta.,9a.alpha.)]-
+##MOLFORM=C10H11N5O3S
+##CAS REGISTRY NO=16667-76-8
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    54        110
+    55        260
+    56        230
+    57        300
+    58        150
+    59         80
+    60        999
+    61         90
+    71        140
+    72         70
+    73        140
+    79        280
+    80        710
+    81        290
+    82        680
+    83         90
+    84        110
+    85        130
+    86        240
+    87         90
+    95         60
+    96         60
+    97        100
+    98         50
+    99         40
+   100         80
+   101         70
+   111         50
+   112         50
+   113         30
+   114         30
+   115         50
+   135         70
+   140         30
+   167        190
+   168         70
+   169         70
+   178         30
+   179         20
+   180         50
+   191        100
+   192        160
+   193         30
+   194         30
+   204         30
+   205         60
+   206         20
+   222         20
+   232         50
+   233        130
+   234         40
+   281        410
+   282         60
+   283         20

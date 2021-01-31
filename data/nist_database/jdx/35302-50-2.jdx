@@ -1,0 +1,54 @@
+##TITLE=Library Entry 81924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.H. HUANG, CHIN. ACAD. SCI., SHANGHAI, CHINA
+##NAMES=HP
+##CAS NAME=12-Hydroxydaphnetoxin
+##MOLFORM=C27H30O9
+##CAS REGISTRY NO=35302-50-2
+##MP= -300
+##BP= -300
+##MW= 498
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+   105        999
+   109        530
+   121        470
+   122        610
+   123        500
+   135        360
+   149        310
+   163        390
+   175        380
+   187        390
+   198        360
+   213        480
+   215        380
+   225        440
+   241        690
+   253        590
+   265        290
+   269        470
+   271        470
+   281        490
+   287        240
+   294        240
+   299        230
+   311        280
+   313        100
+   317         60
+   322        110
+   327        130
+   329        160
+   340        140
+   358         80
+   360         30
+   375        110
+   376         50
+   449         80
+   462         60
+   467         50
+   480         40
+   498        230

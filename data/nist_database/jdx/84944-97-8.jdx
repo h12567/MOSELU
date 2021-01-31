@@ -1,0 +1,57 @@
+##TITLE=Library Entry 52562
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3,5-Diiodobenzene-1,4-diol, 1-[.beta.-methyl-2-butenoate] ester
+##MOLFORM=C11H10I2O3
+##CAS REGISTRY NO=84944-97-8
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    44          2
+    49          8
+    50         20
+    51         15
+    52          6
+    53         93
+    54         11
+    55        129
+    56          5
+    61          2
+    62          8
+    63          3
+    67          6
+    69          2
+    77          2
+    79         34
+    80          2
+    82         19
+    83        999
+    84         52
+    85          2
+    91          2
+   108          4
+   127         18
+   128          7
+   152          7
+   177          5
+   178          7
+   205         14
+   206          7
+   207          2
+   233         11
+   234          7
+   254         10
+   261         10
+   318          5
+   333         10
+   361         14
+   362         72
+   363          2
+   444        117
+   445         15

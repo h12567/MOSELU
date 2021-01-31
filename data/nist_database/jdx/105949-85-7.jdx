@@ -1,0 +1,31 @@
+##TITLE=Library Entry 8309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.GRIESBAUM,DEP.PETROCHEM.ORG.TECHNOL.,UNIV.KARLSRUHE,W
+.GER.
+##NAMES=HP
+##CAS NAME=3-(1-Chloroethenyl)-3-methyl-1,2,4-trioxolane
+##MOLFORM=C5H7ClO3
+##CAS REGISTRY NO=105949-85-7
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    42         90
+    43        999
+    53        140
+    61        230
+    63         80
+    83         40
+    84         60
+    86         40
+    89        160
+   117         24
+   119          9
+   135          7
+   137          3
+   150          8
+   152          3

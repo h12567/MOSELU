@@ -1,0 +1,52 @@
+##TITLE=Library Entry 66912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methylpyridazine
+##MOLFORM=C5H6N2
+##CAS REGISTRY NO=1120-88-3
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=1045
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          8
+    14          8
+    15         25
+    17          1
+    18          2
+    24          3
+    25         18
+    26         54
+    27         46
+    28         67
+    32         12
+    36         18
+    37        145
+    38        243
+    39        804
+    40        422
+    41         15
+    48          5
+    49         29
+    50         93
+    51        169
+    52         35
+    53          7
+    60          2
+    61         24
+    62         42
+    63         67
+    64         46
+    65        483
+    66        111
+    67          6
+    76          2
+    77          2
+    94        999
+    95         69
+    96          1

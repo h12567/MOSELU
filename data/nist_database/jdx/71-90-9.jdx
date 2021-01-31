@@ -1,0 +1,88 @@
+##TITLE=Library Entry 70973
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1918
+##NAMES=HP
+##CAS NAME=dl-.alpha.-Methylglutamic acid
+##MOLFORM=C6H11NO4
+##CAS REGISTRY NO=71-90-9
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    12          2
+    14          7
+    15         41
+    16          7
+    17          9
+    18         39
+    25          2
+    26         25
+    27         84
+    28        113
+    29         27
+    30         70
+    31          3
+    32          5
+    36          2
+    37          4
+    38          7
+    39         36
+    40         17
+    41         66
+    42        248
+    43         48
+    44         74
+    45         23
+    46          1
+    49          1
+    50          5
+    51          8
+    52         11
+    53         33
+    54         52
+    55        279
+    56         44
+    57          9
+    58          2
+    60          3
+    66          1
+    67          4
+    68         10
+    69         33
+    70        107
+    71          9
+    72          4
+    73          3
+    74          2
+    79          2
+    80         14
+    81         17
+    82         23
+    83          9
+    84          5
+    85          4
+    86          2
+    87          3
+    88         19
+    89          1
+    95          9
+    96          5
+    97         57
+    98        999
+    99         63
+   100         10
+   101          1
+   107          1
+   110          1
+   111          1
+   112          1
+   115          2
+   116         20
+   117          2
+   125          1
+   128          9
+   129          1

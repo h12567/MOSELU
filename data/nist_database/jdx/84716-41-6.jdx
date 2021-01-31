@@ -1,0 +1,59 @@
+##TITLE=Library Entry 37734
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=1,2-Dimethyl-5-(2-cyanoethyl)piperid-4-one
+##MOLFORM=C10H16N2O
+##CAS REGISTRY NO=84716-41-6
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    28         76
+    32         39
+    42        189
+    43        126
+    44         72
+    55         79
+    56        135
+    57        326
+    58         53
+    59         53
+    70        999
+    71        117
+    82         35
+    83         62
+    84        189
+    85         79
+    96         89
+    97         35
+   107         35
+   110         44
+   112        772
+   113         62
+   114         62
+   123         35
+   125        335
+   126         99
+   127        662
+   128         62
+   131         53
+   136         29
+   137         35
+   139         62
+   140        335
+   141         44
+   145         29
+   146         62
+   147         72
+   148         29
+   149         44
+   165        226
+   166         35
+   178         35
+   180        208

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 72085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Butane, 1,1-bis(ethenyloxy)-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=102-68-1
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    26         58
+    27        323
+    28        125
+    29        356
+    31        117
+    39        141
+    41        205
+    42        120
+    43        563
+    44        112
+    45        111
+    53         37
+    55        759
+    56         44
+    57        770
+    58         31
+    69         83
+    70         32
+    71         45
+    73         55
+    79         23
+    81        154
+    83         21
+    98          7
+    99        999
+   100         77
+   101          7
+   141          5
+   142          1

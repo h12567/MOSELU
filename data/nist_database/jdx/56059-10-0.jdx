@@ -1,0 +1,44 @@
+##TITLE=Library Entry 62564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. MARUNAKA, RES. LAB., TAIHO PHARM. CO., TOKUSHIMA, JA
+PAN
+##NAMES=HP
+##CAS NAME=1-(p-Toluenesulfonyl)-5-fluorouracil
+##MOLFORM=C11H9FN2O4S
+##CAS REGISTRY NO=56059-10-0
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39         99
+    41         58
+    50         33
+    51         58
+    58         66
+    63         83
+    64         33
+    65        298
+    77         46
+    87         29
+    89         99
+    90         66
+    91        999
+    92         18
+   107         50
+   108         25
+   130         33
+   139         50
+   148         33
+   155        926
+   156        140
+   157         99
+   176         25
+   177         25
+   220        264
+   221         58
+   284         99
+   285         25

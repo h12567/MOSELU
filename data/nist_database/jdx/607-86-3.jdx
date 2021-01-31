@@ -1,0 +1,46 @@
+##TITLE=Library Entry 99369
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-7807
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-methyl-, anhydride
+##MOLFORM=C16H14O3
+##CAS REGISTRY NO=607-86-3
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    17          1
+    18          8
+    27          1
+    28          2
+    38          1
+    39         13
+    40          1
+    41          4
+    50          2
+    51          6
+    52          1
+    62          2
+    63         10
+    64          4
+    65         59
+    66          3
+    77          2
+    89         15
+    90         13
+    91        209
+    92         16
+   118        130
+   119        999
+   120         87
+   121          5
+   136          4
+   195          9
+   196          1
+   209          2
+   254         13
+   255          2

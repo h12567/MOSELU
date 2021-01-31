@@ -1,0 +1,59 @@
+##TITLE=Library Entry 3845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanediol, cyclic sulfite, cis-
+##MOLFORM=C6H10O3S
+##CAS REGISTRY NO=19456-18-9
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    40        140
+    41        999
+    42        660
+    43        290
+    44        170
+    45         30
+    47         10
+    48        170
+    49         30
+    50         20
+    51         50
+    52         20
+    53        150
+    54        350
+    55        620
+    56         50
+    57        490
+    58         50
+    63         10
+    65         20
+    66         90
+    67        570
+    68         70
+    69        900
+    70        510
+    71         60
+    77         30
+    78         20
+    79        670
+    80        260
+    81        140
+    83        150
+    85         40
+    94         10
+    95         60
+    96         20
+    97        910
+    98        170
+   113         10
+   114         20
+   116         10
+   144         10
+   162         20

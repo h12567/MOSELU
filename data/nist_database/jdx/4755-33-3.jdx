@@ -1,0 +1,61 @@
+##TITLE=Library Entry 21020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Swigar, R.Silverstein, Monoterpenes,1981
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]heptane, 2,6,6-trimethyl-, [1S-(1.alpha.,2.beta.,5.
+alpha.)]-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=4755-33-3
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    38         30
+    39        362
+    40         81
+    41        959
+    42         77
+    43        180
+    50         26
+    51         84
+    52         41
+    53        208
+    54         90
+    55        999
+    56        101
+    57         88
+    63         24
+    65         71
+    66         51
+    67        608
+    68        452
+    69        670
+    70        116
+    77        120
+    78         43
+    79        139
+    80         88
+    81        548
+    82         71
+    83        750
+    84        118
+    91         75
+    92         28
+    93         81
+    94        120
+    95        991
+    96        400
+    97         77
+   105         41
+   107         28
+   109        116
+   110         56
+   121         28
+   123        280
+   124         45
+   138         86
+   139         23

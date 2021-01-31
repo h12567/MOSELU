@@ -1,0 +1,30 @@
+##TITLE=Library Entry 18777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutane, 2-ethenyl-1,1,4-trifluoro-
+##MOLFORM=C6H7F3
+##CAS REGISTRY NO=56196-28-2
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    53         22
+    54        999
+    55         48
+    59          6
+    64         54
+    72         74
+    77         16
+    90        360
+    95         11
+    96          4
+    97          8
+   103          2
+   115          2
+   116          4
+   136          9

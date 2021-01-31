@@ -1,0 +1,51 @@
+##TITLE=Library Entry 42552
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. Herrmann, Res. Inst. Synth. Resins Lacquers, Pardubi
+ce, Czechoslovakia
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanedicarboxylic acid, 2TMS derivative
+##MOLFORM=C14H28O4Si2
+##CAS REGISTRY NO=106450-30-0
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    53         40
+    54         30
+    55         80
+    59         40
+    61         30
+    67         30
+    72         40
+    73        999
+    74         90
+    75        250
+    79         50
+    80         60
+    81        310
+    82         70
+   108         20
+   109         50
+   110         40
+   117         60
+   133         30
+   147        510
+   148         90
+   149         60
+   154         40
+   183         60
+   198         90
+   204         20
+   217         20
+   226        100
+   227         30
+   243         20
+   257         20
+   272         30
+   301        120
+   302         30
+   316         15

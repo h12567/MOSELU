@@ -1,0 +1,76 @@
+##TITLE=Library Entry 4574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Methylthiomorpholine-1,1-dioxide
+##MOLFORM=C5H11NO2S
+##CAS REGISTRY NO=25343-91-3
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          8
+    15        161
+    16          2
+    17          2
+    18          8
+    26         68
+    27        195
+    28        343
+    29         76
+    30         73
+    32          1
+    33          3
+    34          2
+    38          2
+    39         20
+    40         26
+    41         86
+    42        999
+    43        557
+    44         35
+    45          9
+    46          6
+    47          5
+    48         37
+    49          7
+    50          5
+    51          3
+    52         10
+    53          6
+    54         84
+    55         65
+    56        127
+    57        120
+    58         19
+    60          2
+    63          2
+    64         18
+    65         19
+    66          3
+    67          8
+    68         15
+    69         15
+    70        139
+    71        116
+    72          9
+    77          3
+    79          2
+    82        227
+    83        375
+    84         60
+    85          8
+    86          4
+    88          5
+   107          2
+   120          9
+   132          5
+   148         21
+   149        106
+   150          8
+   151          5

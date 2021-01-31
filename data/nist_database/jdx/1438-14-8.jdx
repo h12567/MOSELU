@@ -1,0 +1,43 @@
+##TITLE=Library Entry 21976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.F.DIAMOND SHELL RESEARCH LIMITED THORNTON RESEARCH CE
+NTRE
+##NAMES=HP
+##CAS NAME=Oxirane, (1-methylethyl)-
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=1438-14-8
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=613
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26         16
+    27        126
+    28        110
+    29         82
+    30          9
+    31         19
+    37         10
+    38         22
+    39        204
+    40         47
+    41        832
+    42         42
+    43         65
+    44          8
+    45          9
+    50         12
+    51         12
+    52          5
+    53         27
+    54         18
+    55        119
+    56        999
+    57         51
+    58          5
+    71         90
+    85         11
+    86          4

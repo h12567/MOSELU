@@ -1,0 +1,67 @@
+##TITLE=Library Entry 37091
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Propanal, 2-methyl-, oxime
+##MOLFORM=C4H9NO
+##CAS REGISTRY NO=151-00-8
+##MP= -300
+##BP= -300
+##MW= 87
+##$RETENTION INDEX=746
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          9
+    14         27
+    15         96
+    16         17
+    17         17
+    18         75
+    19         18
+    25         11
+    26        116
+    27        408
+    28        508
+    29        115
+    30        114
+    31         38
+    32         21
+    36          6
+    37         48
+    38         86
+    39        366
+    40         88
+    41        523
+    42        555
+    43        281
+    44        118
+    45         43
+    46         58
+    47          4
+    49          7
+    50         15
+    51         55
+    52         74
+    53         47
+    54        157
+    55        150
+    56         44
+    57          8
+    58         74
+    59         70
+    60          4
+    63          4
+    64          9
+    66          6
+    68        195
+    70        999
+    71         66
+    72        264
+    73          8
+    83          3
+    86         76
+    87         37
+    88          3

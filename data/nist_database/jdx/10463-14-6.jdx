@@ -1,0 +1,59 @@
+##TITLE=Library Entry 24969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, (2,4-dichlorophenoxy)-, 2-butoxypropyl ester
+##MOLFORM=C15H20Cl2O4
+##CAS REGISTRY NO=10463-14-6
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    36         20
+    38         10
+    39         50
+    40         10
+    41        340
+    42        140
+    43        130
+    44         10
+    45         40
+    55         20
+    56         50
+    57        999
+    58        579
+    59        170
+    63         20
+    71         10
+    73         30
+    74         10
+    75         30
+    77         10
+    85         10
+    87         20
+   100         10
+   109         30
+   111         50
+   112         10
+   113         10
+   114        100
+   115         10
+   133         10
+   145         30
+   147         30
+   149         10
+   162         30
+   164         20
+   175        130
+   176         10
+   177         80
+   179         10
+   220         10
+   222         10
+   261         10
+   263         10
+   334         10

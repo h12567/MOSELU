@@ -1,0 +1,65 @@
+##TITLE=Library Entry 61449
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Phenylpropanol
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=122-97-4
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1232
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    15          7
+    26          9
+    27         67
+    28         17
+    29         28
+    31         64
+    38         14
+    39        126
+    40         12
+    41         30
+    43         13
+    45         15
+    50         46
+    51        144
+    52         33
+    53         21
+    55          6
+    57         17
+    58         15
+    62         16
+    63         55
+    64         15
+    65        182
+    66         15
+    74         13
+    75         16
+    76         15
+    77        188
+    78        132
+    79        132
+    80         10
+    89         38
+    90         39
+    91        999
+    92        592
+    93         44
+   102         20
+   103        119
+   104         42
+   105        176
+   106         18
+   107         11
+   115         47
+   116        113
+   117        755
+   118        660
+   119         63
+   134         17
+   136        302
+   137         30

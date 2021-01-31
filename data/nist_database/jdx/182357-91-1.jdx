@@ -1,0 +1,91 @@
+##TITLE=Library Entry 13436
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=8-Acetamido-6-chloro-5-nitroquinoline
+##MOLFORM=C11H8ClN3O3
+##CAS REGISTRY NO=182357-91-1
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    43        999
+    44         11
+    46         11
+    49         16
+    50         21
+    51         27
+    52         27
+    53          9
+    61         18
+    62         53
+    63         52
+    64         21
+    65          7
+    73         13
+    74         24
+    75         32
+    76         25
+    77         11
+    78          6
+    84         16
+    86         44
+    87         53
+    88         36
+    89          6
+    90          2
+    96          2
+    97          6
+    98          2
+    99         11
+   100         11
+   102         30
+   103         13
+   104          5
+   111          2
+   112          9
+   114        125
+   115         51
+   116          2
+   123         17
+   126          8
+   129         21
+   130          8
+   136          3
+   140          5
+   141         51
+   142        115
+   143         12
+   150         15
+   152          3
+   155          5
+   157         16
+   165         40
+   167         12
+   169         20
+   175          2
+   176          4
+   177        101
+   178          9
+   179         23
+   193        325
+   194          9
+   195        141
+   196         11
+   204         32
+   206         14
+   207         18
+   209          2
+   223        287
+   225        131
+   226          9
+   250         17
+   252          5
+   265        118
+   266         19
+   267         40

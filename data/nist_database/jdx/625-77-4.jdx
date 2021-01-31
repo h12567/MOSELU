@@ -1,0 +1,48 @@
+##TITLE=Library Entry 8195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2917
+##NAMES=HP
+##CAS NAME=Diacetamide
+##MOLFORM=C4H7NO2
+##CAS REGISTRY NO=625-77-4
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          4
+    14         27
+    15        137
+    16          3
+    17          1
+    18          3
+    25          1
+    26          2
+    27          6
+    28         17
+    29          9
+    30          9
+    31         11
+    32          1
+    38          4
+    39          6
+    40         17
+    41         36
+    42        111
+    43        999
+    44         67
+    45          6
+    58          4
+    59        287
+    60         61
+    61          2
+    70          2
+    73        163
+    74          7
+    86          1
+   101         38
+   102          2

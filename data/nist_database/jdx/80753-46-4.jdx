@@ -1,0 +1,32 @@
+##TITLE=Library Entry 42780
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. BREUNIG,FAC. BIOL./CHEM.,ANORG. CHEM.,BREMEN UNIV.,W
+. GER.
+##NAMES=HP
+##CAS NAME=Pentacarbonyltris(trimethylsilyl)stibinemolybdenum
+##MOLFORM=C14H27MoO5SbSi3
+##CAS REGISTRY NO=80753-46-4
+##MP= -300
+##BP= -300
+##MW= 578
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    73        999
+   147        700
+   252         50
+   330        150
+   340        200
+   345        150
+   350        200
+   365        300
+   393        350
+   421        300
+   494        250
+   503         30
+   522        300
+   550        150
+   563         10
+   578        300

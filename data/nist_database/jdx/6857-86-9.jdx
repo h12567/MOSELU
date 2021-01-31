@@ -1,0 +1,39 @@
+##TITLE=Library Entry 72479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Spiro[1,3-dioxolane-2,2'(1'H)-naphthalene], octahydro-, trans-
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=6857-86-9
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         23
+    41         47
+    42         20
+    43         20
+    54         26
+    55         10
+    56        107
+    67         53
+    81         30
+    86        114
+    87         47
+    99        999
+   100         57
+   112         23
+   113         30
+   114         23
+   125        275
+   126         26
+   134         23
+   139         23
+   153         47
+   167         53
+   196        134
+   197         20

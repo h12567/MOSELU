@@ -1,0 +1,23 @@
+##TITLE=Library Entry 87462
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Methoxy-14-azadispiro(5,1,5,2)pentadec-9-ene-7,11,15-trione
+##MOLFORM=C15H19NO4
+##CAS REGISTRY NO=95854-81-2
+##MP= -300
+##BP= -300
+##MW= 277
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+   110        999
+   136        330
+   140         30
+   177         20
+   190         50
+   218         20
+   246         29
+   249        140

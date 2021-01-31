@@ -1,0 +1,42 @@
+##TITLE=Library Entry 68599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Imidazole-5-carboxylic amide, N-methyl-
+##MOLFORM=C5H7N3O
+##CAS REGISTRY NO=53525-55-6
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41         42
+    42         41
+    43         31
+    44         14
+    45         10
+    51          9
+    52         20
+    53         31
+    54         12
+    55         15
+    56         10
+    57          7
+    66          6
+    67        212
+    68        301
+    69         26
+    70          9
+    77          4
+    78          6
+    84          3
+    95        999
+    96         70
+    97          3
+   110          9
+   111          3
+   125        414
+   126         35

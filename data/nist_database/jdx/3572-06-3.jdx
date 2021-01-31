@@ -1,0 +1,64 @@
+##TITLE=Library Entry 83392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-(p-Acetoxyphenyl)-2-butanone
+##MOLFORM=C12H14O3
+##CAS REGISTRY NO=3572-06-3
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         21
+    27         16
+    28         14
+    32          7
+    38          8
+    39         49
+    40         12
+    41         13
+    42          7
+    43        543
+    44         16
+    50         18
+    51         45
+    52         28
+    53         21
+    55         20
+    62         12
+    63         39
+    64         13
+    65         60
+    66         13
+    77        128
+    78         47
+    79         14
+    89         15
+    91         88
+    92         12
+    94        246
+    95         20
+   102          7
+   103         35
+   104          6
+   105         10
+   106          6
+   107        999
+   108         77
+   119         19
+   120         39
+   121        148
+   122         15
+   131         24
+   145          8
+   147         16
+   149         80
+   150         10
+   164        483
+   165         57
+   206         38

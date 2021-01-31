@@ -1,0 +1,70 @@
+##TITLE=Library Entry 7848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=3-Hexanone
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=589-38-8
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=784
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    21          0
+    23          1
+    24          0
+    26         44
+    27        364
+    28         41
+    29        505
+    30         11
+    31          7
+    33          0
+    36          0
+    37          7
+    38         13
+    39        124
+    40         15
+    41        258
+    42         65
+    43        999
+    44         30
+    45          3
+    49          0
+    50          5
+    51          5
+    52          4
+    53         16
+    54          3
+    55         35
+    56         19
+    57        834
+    58         26
+    59          3
+    62          1
+    63          1
+    65          1
+    67          5
+    68          0
+    69          6
+    70          6
+    71        507
+    72         54
+    73          2
+    77          0
+    79          0
+    81          0
+    82          0
+    83          1
+    84          0
+    85         22
+    86          1
+    98          0
+    99          0
+   100        235
+   101         26
+   102          1

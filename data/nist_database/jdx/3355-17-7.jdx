@@ -1,0 +1,27 @@
+##TITLE=Library Entry 18510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2-Butyne, 1-chloro-
+##MOLFORM=C4H5Cl
+##CAS REGISTRY NO=3355-17-7
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=723
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39        389
+    49         70
+    50        209
+    51        369
+    52        179
+    53        999
+    54         42
+    88        609
+    89         27
+    90        189
+    91          9

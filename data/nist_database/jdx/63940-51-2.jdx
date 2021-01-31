@@ -1,0 +1,104 @@
+##TITLE=Library Entry 16261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Tox21 Consortium/NIST Mass Spectrometry Data Center, 20
+12
+##NAMES=HP
+##CAS NAME=N-Methyl-3-(2-methylphenoxy)-3-phenylpropan-1-amine
+##MOLFORM=C17H21NO
+##CAS REGISTRY NO=63940-51-2
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 88
+##XYDATA=(XY..XY) 1 
+    15          1
+    18          4
+    26          1
+    27          6
+    28         10
+    29          2
+    30          4
+    38          1
+    39         17
+    40          2
+    41          6
+    42         43
+    43         18
+    44        999
+    45         26
+    50          6
+    51         20
+    52         10
+    53          9
+    54          2
+    55          1
+    56          5
+    57          1
+    58          1
+    62          2
+    63          8
+    64          3
+    65         25
+    66          2
+    68          2
+    70          6
+    74          1
+    75          2
+    76          3
+    77         59
+    78         32
+    79         18
+    80          4
+    81          1
+    87          1
+    89          9
+    90          6
+    91         48
+    92          4
+   101          1
+   102          4
+   103         24
+   104         45
+   105         10
+   106          1
+   107         26
+   108         36
+   109          3
+   115         17
+   116          4
+   117         12
+   118         14
+   119          4
+   120          2
+   121          1
+   128          1
+   129          1
+   130          2
+   131          2
+   132          5
+   133          1
+   141          1
+   144          4
+   145          1
+   146         13
+   147          3
+   148         72
+   149         16
+   150          2
+   151         37
+   152          5
+   153          1
+   154          2
+   164          1
+   165          1
+   167          1
+   169          2
+   178          1
+   179          1
+   195          1
+   197          2
+   255         12
+   256          3

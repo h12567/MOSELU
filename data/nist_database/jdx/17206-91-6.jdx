@@ -1,0 +1,72 @@
+##TITLE=Library Entry 11219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=1,4-Diacetoxybicyclo[2.2.2]oct-2-ene
+##MOLFORM=C12H16O4
+##CAS REGISTRY NO=17206-91-6
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    14         12
+    15         95
+    28         13
+    29         55
+    30         17
+    39         84
+    40         20
+    41         51
+    42         24
+    43        999
+    44         23
+    50         10
+    51         28
+    52         14
+    53         27
+    54         11
+    55         52
+    63         11
+    65         45
+    66         47
+    67         25
+    68         13
+    69         17
+    77         60
+    78         21
+    79        159
+    80         94
+    81         20
+    82         30
+    83         31
+    84         11
+    91         31
+    93         47
+    94        167
+    95         36
+    96         11
+    97         53
+   105         22
+   107         83
+   111         48
+   112        867
+   113         74
+   121         52
+   122        674
+   123         69
+   124         14
+   136         42
+   139         33
+   140         33
+   154        136
+   155         15
+   164        182
+   165         20
+   181         21
+   196         11
+   224          6

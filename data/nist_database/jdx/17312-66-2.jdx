@@ -1,0 +1,48 @@
+##TITLE=Library Entry 24460
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Decane, 3-ethyl-3-methyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=17312-66-2
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    21          3
+    26          2
+    27         84
+    28        215
+    29        196
+    39         48
+    40          4
+    41        286
+    42         39
+    43        988
+    44         47
+    53         14
+    55        188
+    56         35
+    57        999
+    58         47
+    67          8
+    69         93
+    70         73
+    71        510
+    72         21
+    83         22
+    84        235
+    85        935
+    86         59
+    99        109
+   100          4
+   113         39
+   125         15
+   154         27
+   155        164
+   156         14

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 3394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pentane, 2-chloro-2-methyl-
+##MOLFORM=C6H13Cl
+##CAS REGISTRY NO=4325-48-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=785
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         32
+    26         23
+    27        189
+    28         20
+    29        117
+    35         19
+    36         43
+    37         20
+    38         66
+    39        404
+    40        102
+    41        999
+    42        123
+    43        495
+    44         19
+    49         21
+    50         38
+    51         61
+    52         20
+    53        113
+    54         32
+    55        250
+    56        624
+    57        125
+    61         15
+    62         15
+    63         62
+    65         38
+    66         11
+    67         65
+    69        907
+    70         49
+    76        278
+    77        551
+    78        105
+    79        177
+    84        507
+    85        510
+    86         32
+    91         18
+   105         30

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 57187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Butanamide, N-ethyl-
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=13091-16-2
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=1044
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29        574
+    30        732
+    31          9
+    39         89
+    41        257
+    42        128
+    43        831
+    44        970
+    45         49
+    46        128
+    54          9
+    55        148
+    56          9
+    57          9
+    58         49
+    59         59
+    69         19
+    70         39
+    71        346
+    72        910
+    73         49
+    86         29
+    87        999
+    88         49
+   100        237
+   101          9
+   114         29
+   115        158
+   116         19

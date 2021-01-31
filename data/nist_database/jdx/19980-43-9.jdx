@@ -1,0 +1,30 @@
+##TITLE=Library Entry 41461
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-(Trimethylsilyloxy)cyclopentene
+##MOLFORM=C8H16OSi
+##CAS REGISTRY NO=19980-43-9
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    53        100
+    55        175
+    56         20
+    59         25
+    73        999
+    74         40
+    75        500
+    76         30
+   141        160
+   142         20
+   155        295
+   156        400
+   157         62
+   158         16
+   159          1

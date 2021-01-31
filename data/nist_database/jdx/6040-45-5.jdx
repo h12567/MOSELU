@@ -1,0 +1,30 @@
+##TITLE=Library Entry 50735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. Iwanami et al., J. Agric. Food Chem. 1997, 45, 463-4
+66
+##NAMES=HP
+##CAS NAME=photocitral B
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=6040-45-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        410
+    41        699
+    55        500
+    67        400
+    69        799
+    79        400
+    81        999
+    83        649
+    84        400
+    95        450
+   109        699
+   123        849
+   137        749
+   152         50

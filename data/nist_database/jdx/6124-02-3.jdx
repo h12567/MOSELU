@@ -1,0 +1,43 @@
+##TITLE=Library Entry 100745
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA,
+##NAMES=HP
+##CAS NAME=Selenourea, phenyl-
+##MOLFORM=C7H8N2Se
+##CAS REGISTRY NO=6124-02-3
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        100
+    43        110
+    50         60
+    51        230
+    52         50
+    63         50
+    64         50
+    65        160
+    66        230
+    77        510
+    78        120
+    91        160
+    92        140
+    93        440
+   104         50
+   108         50
+   118        190
+   119        999
+   120        140
+   156         40
+   158         80
+   196        120
+   197        120
+   198        290
+   199         70
+   200        590
+   201         60
+   202        110

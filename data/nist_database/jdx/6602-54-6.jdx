@@ -1,0 +1,74 @@
+##TITLE=Library Entry 76626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Chloronicotinoitrile
+##MOLFORM=C6H3ClN2
+##CAS REGISTRY NO=6602-54-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    12          1
+    24          2
+    25          6
+    26         50
+    27         16
+    35          9
+    36         11
+    37         47
+    38         53
+    39         28
+    40          3
+    47         20
+    48         13
+    49         55
+    50        130
+    51        117
+    52         52
+    53          4
+    55          1
+    59          1
+    60         14
+    61         12
+    62         32
+    63         21
+    64         23
+    65          1
+    69          9
+    70          3
+    71          1
+    72          1
+    73          3
+    74         21
+    75        160
+    76        316
+    77         53
+    78          2
+    83          1
+    84          7
+    85         36
+    86         12
+    87         17
+    88          4
+    89          2
+    91          2
+    98          5
+   100         10
+   101         17
+   103        999
+   104         74
+   105          2
+   109          1
+   110         11
+   111          6
+   112          5
+   113          2
+   138        845
+   139         64
+   140        284
+   141         20

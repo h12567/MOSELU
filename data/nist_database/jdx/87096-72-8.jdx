@@ -1,0 +1,77 @@
+##TITLE=Library Entry 30212
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VENTURA, CAMILLO CORVI, STRADONE FARNESE, PIACENZA,
+ ITALY
+##NAMES=HP
+##CAS NAME=5-Hydroxy-4-hydroxymethyl-1-(1-hydroxy-1-isopropyl)cyclohex-3-ene
+##MOLFORM=C10H18O3
+##CAS REGISTRY NO=87096-72-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    51         50
+    52         30
+    53        130
+    54         80
+    55        160
+    56         30
+    57         80
+    58         30
+    59        999
+    60         60
+    63         10
+    65         60
+    66         70
+    67        180
+    68        110
+    69        180
+    70         60
+    71         70
+    72         20
+    73         10
+    75         10
+    77        170
+    78        110
+    79        470
+    80         80
+    81        270
+    82        100
+    83         30
+    85         20
+    91        210
+    92        220
+    93        110
+    94         40
+    95        460
+    96         90
+    97         50
+    98         10
+    99         20
+   105         30
+   106         40
+   107        140
+   108        150
+   109         90
+   110        100
+   111         20
+   113        110
+   114         10
+   115         10
+   117         20
+   119         20
+   121         30
+   122         40
+   123         10
+   125         40
+   135        140
+   136         20
+   137         80
+   150        100
+   151         20
+   153         30
+   168         20

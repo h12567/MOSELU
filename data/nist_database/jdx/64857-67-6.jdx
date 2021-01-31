@@ -1,0 +1,23 @@
+##TITLE=Library Entry 81908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,2-Bis(3,5-dimethylphenyl)-diazene 1-oxide
+##MOLFORM=C16H18N2O
+##CAS REGISTRY NO=64857-67-6
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+   105        999
+   119          9
+   133         70
+   193         10
+   208         10
+   226          9
+   238         99
+   254         10

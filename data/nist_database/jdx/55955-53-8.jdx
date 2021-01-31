@@ -1,0 +1,57 @@
+##TITLE=Library Entry 71551
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-one, 4-hydroxy-3-methyl-6-(1-methylethyl)-, trans-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=55955-53-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1432
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    31         20
+    32         20
+    38         20
+    39        210
+    40         50
+    41        350
+    42        140
+    43        120
+    52         20
+    53         50
+    55        100
+    56         20
+    57         20
+    59         20
+    65         30
+    67         30
+    68         20
+    69        280
+    70        260
+    77         40
+    79         40
+    80         20
+    81         30
+    82         20
+    83         80
+    84         60
+    91         40
+    95         40
+    97         80
+    98        999
+   107         20
+   108         40
+   109        130
+   110         60
+   111        190
+   124        460
+   125        230
+   126        599
+   135         70
+   150         20
+   153         50
+   168        170

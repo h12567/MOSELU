@@ -1,0 +1,63 @@
+##TITLE=Library Entry 23079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1,5-Hexadien-3-ol
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=924-41-4
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         10
+    19          1
+    25          2
+    26         27
+    27        130
+    28         33
+    29        298
+    30         10
+    31         76
+    32          0
+    37         11
+    38         27
+    39        150
+    40         23
+    41         85
+    42         41
+    43         37
+    44          4
+    49          2
+    50         16
+    51         22
+    52         10
+    53         21
+    54          9
+    55         72
+    56          2
+    57        999
+    58         33
+    59          3
+    61          2
+    62          2
+    63          2
+    65          5
+    66          3
+    67          5
+    68          3
+    69         16
+    70          8
+    71          3
+    74          2
+    77         12
+    78          2
+    79         14
+    80          8
+    81          3
+    83          9
+    97          3

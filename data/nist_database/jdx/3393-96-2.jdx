@@ -1,0 +1,65 @@
+##TITLE=Library Entry 79827
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4329
+##NAMES=HP
+##CAS NAME=4'-Nitrobenzanilide
+##MOLFORM=C13H10N2O3
+##CAS REGISTRY NO=3393-96-2
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26          1
+    27          5
+    28          7
+    29          5
+    30         17
+    32          2
+    37          2
+    38          6
+    39          8
+    40          1
+    41          1
+    49          1
+    50         19
+    51         66
+    52          9
+    53          2
+    61          1
+    62          4
+    63         12
+    64          9
+    65          5
+    74          5
+    75          6
+    76         14
+    77        369
+    78         26
+    79          1
+    80          1
+    89          1
+    90          3
+    91          3
+    92          1
+    93          1
+   103          1
+   104          4
+   105        999
+   106         73
+   107          6
+   115          1
+   139          2
+   140          1
+   166          2
+   167          3
+   195          3
+   196          1
+   212          3
+   226          1
+   242        109
+   243         16
+   244          2

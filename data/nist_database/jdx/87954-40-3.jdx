@@ -1,0 +1,86 @@
+##TITLE=Library Entry 21318
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3,3,5-Trimethylcyclohexyl acrylate
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=87954-40-3
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         24
+    17          3
+    26         45
+    27        423
+    28         44
+    29        155
+    30          2
+    31          6
+    37          1
+    39        164
+    40         33
+    41        428
+    42         47
+    43        112
+    44         12
+    45          7
+    50          3
+    51         14
+    52          7
+    53         71
+    55        999
+    56        101
+    57         64
+    58          3
+    59          1
+    63          3
+    64          1
+    65         20
+    67        235
+    68        278
+    69        249
+    70         22
+    71          9
+    72          3
+    73         24
+    74          1
+    77         23
+    78          6
+    79         28
+    80         21
+    81        152
+    82        261
+    83        139
+    84         13
+    85          6
+    91         16
+    93         24
+    95        202
+    96         40
+    97          9
+    98          2
+    99          1
+   105          3
+   106          1
+   107         11
+   109        865
+   110         82
+   111          8
+   112          1
+   113          2
+   121          2
+   124        353
+   125         50
+   126          2
+   136          2
+   137          1
+   139          3
+   140          1
+   141          5
+   181          1

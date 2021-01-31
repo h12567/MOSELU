@@ -1,0 +1,35 @@
+##TITLE=Library Entry 5559
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. KOJIMA, DEP. CHEM., NATL. DEF. ACAD., YOKOSUKA-SHI,
+ JAPAN
+##NAMES=HP
+##CAS NAME=2,4,6-Trimethyl-1-nonene
+##MOLFORM=C12H24
+##CAS REGISTRY NO=55771-40-9
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1080
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    27        580
+    28        540
+    29        850
+    39        260
+    41        830
+    42        130
+    43        999
+    44        110
+    55        470
+    56        140
+    57        440
+    69        260
+    70        260
+    71        180
+    84        100
+    85         10
+   112         10
+   113         10
+   168          0

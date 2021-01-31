@@ -1,0 +1,44 @@
+##TITLE=Library Entry 9373
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. FONT, DEP. QUIM. ORG., UNIV. AUTONOMA BARCELONA, SPA
+IN
+##NAMES=HP
+##CAS NAME=6-Methyl-8-phenyl-3,5,7-octatrien-2-one
+##MOLFORM=C15H16O
+##CAS REGISTRY NO=80283-32-5
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        220
+    41        150
+    43        999
+    50        120
+    51        290
+    63        140
+    65        180
+    76        100
+    77        470
+    78        120
+    79        140
+    82        150
+    87        120
+    89        120
+    91        420
+   103        100
+   105        380
+   115        220
+   128        190
+   129        130
+   141        170
+   152        130
+   153        140
+   154        190
+   167        170
+   169        310
+   197         90
+   212        110

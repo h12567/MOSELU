@@ -1,0 +1,29 @@
+##TITLE=Library Entry 70450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 2-(diethoxymethyl)-
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=13750-84-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1091
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    40         60
+    41        130
+    42        140
+    47        100
+    68        360
+    69        190
+    95         70
+    96        100
+    97        999
+    98         70
+   124         90
+   125        450
+   126        210
+   170         20

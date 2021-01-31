@@ -1,0 +1,70 @@
+##TITLE=Library Entry 15806
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Urea, 1-ethyl-3-(phenylsulfonyl)-2-thio-
+##MOLFORM=C9H12N2O2S2
+##CAS REGISTRY NO=6171-12-6
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         30
+    43        121
+    44        999
+    45         30
+    47         10
+    48         20
+    50         40
+    51        181
+    52         10
+    55         10
+    56         10
+    59         30
+    60         80
+    61         10
+    63         10
+    64         10
+    65         10
+    66         20
+    69         10
+    70         10
+    71        505
+    72         10
+    74         20
+    75         10
+    76         60
+    77        585
+    78         80
+    79         10
+    87         40
+    88         10
+    91         10
+    93         20
+    94         10
+    97         10
+   102         10
+   103        262
+   104         20
+   105         10
+   109         20
+   110        222
+   111         20
+   112         10
+   125         20
+   126         10
+   141        191
+   142         20
+   143         10
+   157         20
+   180        141
+   181         20
+   182         10
+   210         30
+   244         20

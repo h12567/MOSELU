@@ -1,0 +1,76 @@
+##TITLE=Library Entry 27961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Nonadecanone
+##MOLFORM=C19H38O
+##CAS REGISTRY NO=629-66-3
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=2101
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    27         33
+    29         76
+    39         34
+    41        278
+    42         82
+    43        831
+    44         26
+    45          9
+    53         22
+    54         32
+    55        268
+    56         71
+    57        253
+    58        999
+    59        716
+    60         26
+    66          6
+    67         56
+    68         44
+    69        120
+    70         57
+    71        446
+    72         34
+    79         11
+    80          7
+    81         50
+    82         90
+    83         79
+    84         30
+    85        151
+    86         12
+    95         52
+    96        105
+    97         67
+    98         18
+    99         19
+   100         25
+   109         26
+   110         31
+   111         35
+   112         11
+   113         21
+   114         13
+   123         12
+   124         16
+   125         15
+   126          7
+   127         27
+   137          6
+   138          9
+   139          7
+   152          7
+   166          6
+   180          8
+   222         17
+   224         14
+   239          7
+   264          9
+   267         18
+   282         34
+   283          8

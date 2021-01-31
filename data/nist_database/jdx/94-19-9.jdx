@@ -1,0 +1,47 @@
+##TITLE=Library Entry 65656
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Sulfaethidole
+##MOLFORM=C10H12N4O2S2
+##CAS REGISTRY NO=94-19-9
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    44        128
+    45        106
+    64         83
+    65        551
+    70        114
+    73        109
+    80         40
+    91         40
+    92        999
+    93        257
+   106        338
+   108        561
+   109        146
+   123         21
+   124         20
+   125         20
+   129         41
+   132         19
+   140         86
+   150         37
+   156        697
+   157         60
+   158         39
+   161         39
+   165         10
+   176         68
+   219         30
+   220        199
+   221         30
+   284        948
+   285        172
+   286         90

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 1874
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=2-Chloro-3-methylmaleic anhydride
+##MOLFORM=C5H3ClO3
+##CAS REGISTRY NO=57547-55-4
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    35         16
+    36         53
+    37        301
+    38        316
+    39        999
+    40         41
+    41         18
+    42         34
+    43        194
+    44        174
+    45         45
+    47         76
+    48          7
+    53         40
+    54         56
+    55         72
+    57         79
+    58         25
+    59         94
+    61          9
+    62         16
+    66         42
+    67        669
+    68         30
+    69         46
+    71         40
+    72        111
+    73         72
+    74        591
+    75         51
+    76        204
+    77         17
+    78          4
+    81          3
+    82         21
+    84         46
+    87         79
+    89          5
+    91         26
+    97         14
+    98          2
+    99         21
+   101         12
+   102        774
+   103         98
+   104        264
+   146        548
+   148        157

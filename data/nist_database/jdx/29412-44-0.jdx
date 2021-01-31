@@ -1,0 +1,61 @@
+##TITLE=Library Entry 48979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,2,4-Methenopentalene, 5-chlorooctahydro-
+##MOLFORM=C9H11Cl
+##CAS REGISTRY NO=29412-44-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    34          6
+    38         41
+    39        274
+    40        263
+    41        173
+    44         11
+    49         16
+    50         60
+    51        136
+    52         48
+    53         71
+    58          7
+    62         19
+    63         60
+    65        118
+    66        145
+    67          5
+    73          5
+    75         28
+    76         10
+    77        292
+    78        185
+    79        999
+    80         68
+    87          6
+    89         26
+    90          6
+    91        367
+    92         76
+   100         38
+   102         14
+   103         26
+   104          5
+   105         82
+   112         26
+   113         60
+   114         13
+   115         92
+   116         14
+   117        166
+   118        189
+   119        278
+   120         30
+   154        162
+   155         10
+   156         52

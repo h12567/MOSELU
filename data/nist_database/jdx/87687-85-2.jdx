@@ -1,0 +1,39 @@
+##TITLE=Library Entry 58136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methoxy-N-acetyl-1-methyl-1-carbomethoxyethylamine
+##MOLFORM=C8H15NO4
+##CAS REGISTRY NO=87687-85-2
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        101
+    44         19
+    56         55
+    57         14
+    58         14
+    59         18
+    72         18
+    73         36
+    74          9
+    87         36
+    88        999
+    89         55
+    90          9
+   100         25
+   101         32
+   102         36
+   103         18
+   130         36
+   131          8
+   147        237
+   148         18
+   158         14
+   189          5
+   190          1

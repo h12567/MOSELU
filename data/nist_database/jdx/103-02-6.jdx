@@ -1,0 +1,54 @@
+##TITLE=Library Entry 65503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-Propanone, phenylhydrazone
+##MOLFORM=C9H12N2
+##CAS REGISTRY NO=103-02-6
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         79
+    29         48
+    38         74
+    39        316
+    41        110
+    42         96
+    43        149
+    51        194
+    52         87
+    56        214
+    57         78
+    63         88
+    64        101
+    65        551
+    66        138
+    74         48
+    76         21
+    77        201
+    78        139
+    79         39
+    80         18
+    90         17
+    91        124
+    92        999
+    93        419
+    94         44
+   105         19
+   106        195
+   107         47
+   108         19
+   130         24
+   131         16
+   132         28
+   133        167
+   134         20
+   147         58
+   148        892
+   149        108
+   150          7

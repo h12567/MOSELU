@@ -1,0 +1,43 @@
+##TITLE=Library Entry 11985
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,4,4,6-Tetramethyl-3,7,9-trioxabicyclo[4.2.1]nonane  #
+##MOLFORM=C10H18O3
+##CAS REGISTRY NO=62759-60-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39         90
+    41        170
+    43        999
+    55         90
+    56        150
+    57         79
+    58        150
+    59         59
+    61         59
+    67         49
+    70        100
+    71        110
+    72        169
+    83         79
+    85         29
+    95         90
+    97         40
+    99        130
+   100        248
+   112         99
+   113        109
+   114         10
+   115         79
+   129         19
+   130        250
+   141         80
+   171         10
+   186         60

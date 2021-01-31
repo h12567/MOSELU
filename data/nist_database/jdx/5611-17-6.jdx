@@ -1,0 +1,47 @@
+##TITLE=Library Entry 13309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.KAWAMURA, DEP. CHEM., WOODS HOLE OCEANOGR. INST., MAS
+S., USA
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2-(4-bromophenyl)-2-oxoethyl ester
+##MOLFORM=C12H13BrO3
+##CAS REGISTRY NO=5611-17-6
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    39        150
+    41        297
+    43        999
+    50        136
+    51         41
+    55         31
+    63         23
+    71        446
+    75        185
+    76        156
+    89         39
+    90         55
+    91          8
+   104         35
+   105          8
+   115          2
+   141          2
+   149          2
+   155        113
+   157        114
+   158          3
+   169         18
+   171         14
+   183        721
+   185        760
+   186         54
+   196         10
+   198         13
+   205          1
+   284          5
+   286          6

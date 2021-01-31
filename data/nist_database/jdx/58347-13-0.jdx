@@ -1,0 +1,38 @@
+##TITLE=Library Entry 9357
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.F. SCHRODER, FACHBER. CHEM., PHILIPPS-UNIV., MARBURG,
+ W.GE1
+##NAMES=HP
+##CAS NAME=Dimethylphosphinic azide
+##MOLFORM=C2H6N3OP
+##CAS REGISTRY NO=58347-13-0
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    14         64
+    15        128
+    27         48
+    28        960
+    29         96
+    42         64
+    43        999
+    44         48
+    45         48
+    46         32
+    47        320
+    49        145
+    59         24
+    61         20
+    62         24
+    76         32
+    77        999
+    78         40
+    79         24
+    81         48
+   104        270
+   119        420

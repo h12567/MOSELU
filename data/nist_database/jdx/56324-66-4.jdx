@@ -1,0 +1,50 @@
+##TITLE=Library Entry 85736
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclopentane, 2-ethylidene-1,1-dimethyl-
+##MOLFORM=C9H16
+##CAS REGISTRY NO=56324-66-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        380
+    42         30
+    43        140
+    50         10
+    51         50
+    52         30
+    53        130
+    54         30
+    55        200
+    56         30
+    63         10
+    65         50
+    66         20
+    67        510
+    68         70
+    69         70
+    70         10
+    77         60
+    78         10
+    79         80
+    80         10
+    81        250
+    82         50
+    83         10
+    91         40
+    93         30
+    94         10
+    95         50
+    96         30
+   107         20
+   109        999
+   110         90
+   124        160
+   125         10

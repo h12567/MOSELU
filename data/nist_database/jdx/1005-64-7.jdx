@@ -1,0 +1,70 @@
+##TITLE=Library Entry 97360
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=(E)-1-Phenyl-1-butene
+##MOLFORM=C10H12
+##CAS REGISTRY NO=1005-64-7
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1076
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         12
+    26         10
+    27         38
+    28         71
+    29          7
+    32         21
+    38         15
+    39        102
+    40         11
+    41         14
+    50         69
+    51        145
+    52         32
+    53         24
+    54         21
+    58         23
+    61          9
+    62         35
+    63         98
+    64         44
+    65        118
+    66         10
+    73          4
+    74         33
+    75         34
+    76         42
+    77        114
+    78         92
+    79         13
+    86          9
+    87         16
+    89         69
+    91        347
+    92         28
+    98          6
+   101          8
+   102         48
+   103         50
+   104         50
+   105         15
+   113          5
+   115        490
+   116        137
+   117        999
+   118         97
+   119          4
+   126          5
+   127         22
+   128         44
+   129         41
+   130         12
+   131        104
+   132        374
+   133         38

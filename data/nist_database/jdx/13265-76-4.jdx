@@ -1,0 +1,50 @@
+##TITLE=Library Entry 80761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Glucitol, 2,4:3,5-di-O-benzylidene-, D-
+##MOLFORM=C20H22O6
+##CAS REGISTRY NO=13265-76-4
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+   105        999
+   106         18
+   107        846
+   122        100
+   123        138
+   124         23
+   149        227
+   150         46
+   161         92
+   162         18
+   175         30
+   177         38
+   179        300
+   180         61
+   191        203
+   192        230
+   193         58
+   210         46
+   211        138
+   219         18
+   220          7
+   221         43
+   237         12
+   238         10
+   251         15
+   252         38
+   253         69
+   281         27
+   297         12
+   298         10
+   320         24
+   327         43
+   357        123
+   358        161
+   359         50

@@ -1,0 +1,85 @@
+##TITLE=Library Entry 84126
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.V. BROWN, CSIRO, BLACK MOUNTAIN, CANBERRA CITY, AUSTR
+ALIA
+##NAMES=HP
+##CAS NAME=2-(1-Ethylpropyl)pyrazine
+##MOLFORM=C9H14N2
+##CAS REGISTRY NO=40790-26-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1121
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    37          7
+    38         19
+    39        150
+    40         30
+    41        165
+    42         61
+    43         60
+    44         21
+    45          4
+    49          7
+    50         15
+    51         39
+    52        127
+    53        123
+    54         54
+    55         40
+    56          9
+    57         21
+    59          4
+    60          4
+    62          4
+    63         10
+    64         13
+    65         43
+    66         75
+    67         55
+    68         18
+    69         19
+    70          6
+    71         13
+    77         15
+    78         28
+    79         97
+    80         64
+    81         46
+    82         10
+    83          9
+    84          4
+    85          6
+    91          9
+    92         15
+    93        296
+    94        526
+    95         52
+    96          6
+    97          7
+   105         19
+   106         39
+   107        999
+   108        129
+   109         12
+   111          4
+   118         16
+   119        105
+   120         30
+   121        706
+   122        751
+   123         66
+   124          4
+   131          6
+   132          4
+   133         18
+   134          4
+   135        203
+   136         22
+   147          4
+   149         30
+   150        210
+   151         27

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 54598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Epstein ET AL.J.Chem.Eng.Data,21,500(1976)
+##NAMES=HP
+##CAS NAME=2,7-Dimethyl-2,6-octadien-4-ol
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=37665-99-9
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1149
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        381
+    42         23
+    43        167
+    51         32
+    52         13
+    53         68
+    54         13
+    55        161
+    56         19
+    57        163
+    65         49
+    67        133
+    69         61
+    70        104
+    77         42
+    79         49
+    80         19
+    81         13
+    83         42
+    85        999
+    86         49
+    91         51
+    92         15
+    93         70
+   105         23
+   121         30
+   136         23
+   137          2
+   154          2

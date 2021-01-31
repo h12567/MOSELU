@@ -1,0 +1,63 @@
+##TITLE=Library Entry 23325
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Butane, 1-chloro-2-methyl-
+##MOLFORM=C5H11Cl
+##CAS REGISTRY NO=616-13-7
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=708
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    14          9
+    15         40
+    26         59
+    27        290
+    28         72
+    29        458
+    30         11
+    31          3
+    32          2
+    35          3
+    36          4
+    37         19
+    38         45
+    39        295
+    40         79
+    41        899
+    42        157
+    43         55
+    44          2
+    47          2
+    48          5
+    49         60
+    50         25
+    51         48
+    52         10
+    53         46
+    54          2
+    55        277
+    56        444
+    57        999
+    58         43
+    61          7
+    62          7
+    63         23
+    64          2
+    65          7
+    67          3
+    69         22
+    70        110
+    71          6
+    73          5
+    75          7
+    76         12
+    77         22
+    78          4
+    79          7
+    91          2
+   106          4

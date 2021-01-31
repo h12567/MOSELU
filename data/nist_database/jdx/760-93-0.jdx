@@ -1,0 +1,55 @@
+##TITLE=Library Entry 34065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methacrylic anhydride
+##MOLFORM=C8H10O3
+##CAS REGISTRY NO=760-93-0
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          3
+    15         25
+    16          0
+    25          3
+    26         21
+    27         18
+    29          8
+    31          1
+    37         32
+    38        100
+    39        582
+    40        115
+    41        787
+    42         31
+    43          2
+    44          2
+    45          4
+    49          0
+    50          1
+    51          0
+    53          9
+    54          3
+    55          1
+    58          1
+    59          1
+    67          8
+    69        999
+    70         46
+    71          3
+    82          4
+    83          2
+    85          1
+    86          1
+    95          9
+    98         74
+    99          4
+   109          1
+   126          5

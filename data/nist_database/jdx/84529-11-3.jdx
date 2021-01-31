@@ -1,0 +1,66 @@
+##TITLE=Library Entry 98598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=N-Methyl-.alpha.-methylamino-o-toluidine
+##MOLFORM=C9H14N2
+##CAS REGISTRY NO=84529-11-3
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41         16
+    42         77
+    43          6
+    44         75
+    50          9
+    51         48
+    52         25
+    53          9
+    59         21
+    60          8
+    63         23
+    64         13
+    65         89
+    66         29
+    67         19
+    68         18
+    74         35
+    75         46
+    76         15
+    77         72
+    78         69
+    79         21
+    80          6
+    89         19
+    90         20
+    91        270
+    92         48
+    93         45
+    94         31
+   103          6
+   104         25
+   105          6
+   106        132
+   107         25
+   108         16
+   116         10
+   117         47
+   118        999
+   119        459
+   120        320
+   121         86
+   131          6
+   132          6
+   133         57
+   134         13
+   135        162
+   136         17
+   147          8
+   149         13
+   150        687
+   151         69

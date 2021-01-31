@@ -1,0 +1,41 @@
+##TITLE=Library Entry 43302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=Methyl hydroxy(2-methoxyphenyl)acetate, TMS derivative
+##MOLFORM=C13H20O4Si
+##CAS REGISTRY NO=55590-94-8
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    43         97
+    44         79
+    45        300
+    47         61
+    51         88
+    58         70
+    59        185
+    73        999
+    74        132
+    75        168
+    76         61
+    77        115
+    89        274
+    90         88
+    91        132
+    92         70
+   103         70
+   105         79
+   135        159
+   179         97
+   209        884
+   210        168
+   211         88
+   225        106
+   253         88

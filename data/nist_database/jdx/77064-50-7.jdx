@@ -1,0 +1,34 @@
+##TITLE=Library Entry 78267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=4,5-Dihydro-5,5-dimethyl-4,4-pentamethylene-2-phenyl-1,3-oxazin-6
+-one
+##MOLFORM=C17H21NO2
+##CAS REGISTRY NO=77064-50-7
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41        270
+    42        203
+    43         12
+    51         62
+    55         59
+    70        702
+    71         35
+    77        599
+    78         28
+    81        101
+    82          9
+   105        999
+   106         95
+   168        172
+   169         20
+   202        433
+   203         75
+   271          9

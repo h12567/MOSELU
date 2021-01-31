@@ -1,0 +1,88 @@
+##TITLE=Library Entry 37817
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.J.W.BROOKS CHEM. DEPT., THE UNIVERSITY GLASGOW, U.K.
+##NAMES=HP
+##CAS NAME=Butyric acid, 3-hydroxy-, monoanhydride with 1-butaneboronic acid
+, cyclic ester
+##MOLFORM=C8H15BO3
+##CAS REGISTRY NO=31767-20-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    30          4
+    31          7
+    32          5
+    37          7
+    38         10
+    39        153
+    40         35
+    41        440
+    42        590
+    43        620
+    44        102
+    50        300
+    51         12
+    52         20
+    53         42
+    54         33
+    55         39
+    56        220
+    57        310
+    58        110
+    59         15
+    67          5
+    68         17
+    69         40
+    70        999
+    71        140
+    72        195
+    73         65
+    74        230
+    75          7
+    77         10
+    78          7
+    79         50
+    80          8
+    81          9
+    82         25
+    83         57
+    84        145
+    85        190
+    86        220
+    87         50
+    96          7
+    97         15
+    98         35
+    99        100
+   100         91
+   101         94
+   102          7
+   110         20
+   111         74
+   112        160
+   113        650
+   114        150
+   115        205
+   116         10
+   125         11
+   126         40
+   127         45
+   128        230
+   129        710
+   130         40
+   131          7
+   140         45
+   141        235
+   142        174
+   143         15
+   152          5
+   154          8
+   155         35
+   156          4
+   169          4
+   171          8

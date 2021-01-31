@@ -1,0 +1,62 @@
+##TITLE=Library Entry 30642
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(12)1164(1975); E. D. MORGAN
+##NAMES=HP
+##CAS NAME=Silane, dimethyl[(pentafluorophenyl)methyl]-
+##MOLFORM=C9H9F5Si
+##CAS REGISTRY NO=58751-80-7
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15        230
+    18        370
+    28        400
+    31        460
+    39        130
+    42        420
+    43        400
+    44        200
+    45        160
+    47        310
+    49        350
+    51        110
+    53         90
+    55        100
+    57        290
+    58        290
+    59        999
+    60        540
+    61        420
+    62        100
+    63        520
+    69        180
+    74        140
+    75        460
+    77        670
+    81        420
+    85         80
+    87        120
+    92         80
+    93        380
+    99        310
+   112        120
+   117         80
+   119        270
+   123        130
+   125        240
+   131         70
+   137         60
+   138         50
+   139         60
+   143        400
+   144        290
+   161        180
+   162        700
+   181        240
+   225         70
+   240        460

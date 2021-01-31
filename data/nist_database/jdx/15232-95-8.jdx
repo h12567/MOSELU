@@ -1,0 +1,84 @@
+##TITLE=Library Entry 50256
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.A. Rang et al., IR & MS of Unsatd. Hydrocarbons, 1977
+##NAMES=HP
+##CAS NAME=Cyclohexene,3-(2-propenyl)-
+##MOLFORM=C9H14
+##CAS REGISTRY NO=15232-95-8
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=923
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    25          0
+    26          5
+    27         81
+    28          4
+    29         22
+    30          0
+    31          1
+    37          1
+    38          5
+    39        133
+    40         16
+    41        149
+    42          7
+    43          2
+    45          2
+    49          0
+    50          8
+    51         32
+    52         20
+    53        133
+    54         15
+    55         29
+    56          1
+    57          0
+    58          0
+    59          0
+    60          0
+    61          0
+    62          1
+    63          7
+    64          2
+    65         36
+    66         24
+    67         27
+    68          4
+    69          0
+    73          2
+    74          1
+    75          3
+    76          1
+    77         85
+    78         21
+    79        246
+    80         76
+    81        999
+    82         64
+    83          2
+    87          0
+    89          1
+    90          0
+    91         24
+    92          3
+    93         12
+    94          5
+    95          1
+    96          0
+    97          0
+   102          0
+   103          1
+   105          2
+   106          0
+   107          5
+   108          0
+   119          0
+   120          0
+   121          1
+   122         54
+   123          4
+   124          0

@@ -1,0 +1,24 @@
+##TITLE=Library Entry 66699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=4-Amino-2-bromopyridine
+##MOLFORM=C5H5BrN2
+##CAS REGISTRY NO=7598-35-8
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    40         14
+    41         14
+    52         31
+    66        296
+    67         31
+    93        999
+    94         14
+   172        583
+   174        534

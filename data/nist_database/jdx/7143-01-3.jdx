@@ -1,0 +1,53 @@
+##TITLE=Library Entry 48445
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7879
+##NAMES=HP
+##CAS NAME=Methanesulfonic anhydride
+##MOLFORM=C2H6O5S2
+##CAS REGISTRY NO=7143-01-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    14          5
+    15        296
+    16          3
+    32          4
+    33          3
+    34          3
+    44          3
+    45         10
+    46          4
+    47          2
+    48         30
+    49          4
+    50          2
+    62          1
+    63         13
+    64         16
+    65         27
+    66          3
+    67          1
+    76          1
+    78         17
+    79        999
+    80         53
+    81         67
+    82          2
+    83          1
+    94          9
+    95          3
+    96         57
+    97          2
+    98          2
+   109          3
+   111          2
+   159          8
+   161          1
+   174         29
+   175          3
+   176          3

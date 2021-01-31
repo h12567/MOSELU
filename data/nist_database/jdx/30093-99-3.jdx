@@ -1,0 +1,62 @@
+##TITLE=Library Entry 4828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4,4-Dimethyl-2-oxazoline
+##MOLFORM=C5H9NO
+##CAS REGISTRY NO=30093-99-3
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14         39
+    15        114
+    16          4
+    17          2
+    18          2
+    19          2
+    20          1
+    24          2
+    26         78
+    27        272
+    28        444
+    29        342
+    30         39
+    31         14
+    32         13
+    33          1
+    36          2
+    37         31
+    38         61
+    39        302
+    40        110
+    41        380
+    42        999
+    43         75
+    44          2
+    46          2
+    49          3
+    50         10
+    51         20
+    52         24
+    53         15
+    54         29
+    55         28
+    56         97
+    57        263
+    58         15
+    64          1
+    69        692
+    70         46
+    71          2
+    72          1
+    84        562
+    85         28
+    86          2
+    99        222
+   100         12
+   101          1

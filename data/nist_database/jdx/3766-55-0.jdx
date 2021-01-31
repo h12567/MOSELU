@@ -1,0 +1,80 @@
+##TITLE=Library Entry 2096
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH. ALDRICH A03590
+-9
+##NAMES=HP
+##CAS NAME=Hydrazinecarbothioamide, N-2-propenyl-
+##MOLFORM=C4H9N3S
+##CAS REGISTRY NO=3766-55-0
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15         21
+    16         22
+    26         29
+    27         79
+    28        327
+    29         65
+    30        103
+    31        195
+    32        676
+    33         14
+    34         16
+    36          0
+    37         17
+    38         29
+    39        279
+    40         36
+    41        999
+    42         63
+    43         61
+    44         28
+    45        117
+    46         25
+    47         27
+    48         23
+    51          3
+    52         23
+    53         13
+    54         63
+    55         92
+    56        237
+    57         38
+    58         32
+    59         50
+    60        177
+    61         24
+    62         20
+    67         30
+    68         25
+    69         11
+    71         27
+    72         33
+    73         25
+    74         20
+    75         37
+    76          7
+    81         88
+    82         13
+    84          9
+    86         18
+    87        116
+    88          6
+    89          1
+    97          8
+    99         23
+   100         46
+   101         19
+   102          1
+   104         61
+   113          3
+   114        174
+   115        256
+   116         49
+   117         32
+   131         31

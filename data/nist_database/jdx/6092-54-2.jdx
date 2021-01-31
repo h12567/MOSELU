@@ -1,0 +1,80 @@
+##TITLE=Library Entry 22329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Hexyl chloroformate
+##MOLFORM=C7H13ClO2
+##CAS REGISTRY NO=6092-54-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1055
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    15          4
+    16          1
+    26         11
+    27        106
+    28         42
+    29        119
+    30          5
+    31          4
+    35          4
+    36          3
+    37          4
+    38          9
+    39        126
+    40         28
+    41        399
+    42        342
+    43        456
+    44         69
+    45          5
+    49          2
+    50          6
+    51         11
+    52          4
+    53         31
+    54         43
+    55        526
+    56        999
+    57         89
+    58          3
+    61          1
+    63        206
+    64          4
+    65         71
+    66          2
+    67         20
+    68         11
+    69        421
+    70         26
+    71          5
+    72          1
+    75          1
+    76          1
+    77          3
+    78          1
+    79          2
+    81          5
+    82          2
+    83         11
+    84         88
+    85         34
+    86          2
+    91         10
+    92          1
+    93         21
+    94          1
+    95          6
+   106          1
+   107          5
+   108          1
+   109          2
+   121         16
+   122          1
+   123          5
+   129          1
+   135          1

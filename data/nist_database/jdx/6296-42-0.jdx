@@ -1,0 +1,70 @@
+##TITLE=Library Entry 1162
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4964
+##NAMES=HP
+##CAS NAME=.beta.-Chloroethylurea
+##MOLFORM=C3H7ClN2O
+##CAS REGISTRY NO=6296-42-0
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14          9
+    15         53
+    16         16
+    17         39
+    18         12
+    26         11
+    27         85
+    28        111
+    29         37
+    30        999
+    31         16
+    35         12
+    36        120
+    37          4
+    38         36
+    39          3
+    40         11
+    41         23
+    42         88
+    43         78
+    44        160
+    45          4
+    48          3
+    49         18
+    50          1
+    51          5
+    53          2
+    54          1
+    55         26
+    56         73
+    57         10
+    59          3
+    60         30
+    61          2
+    62          4
+    63         25
+    64          1
+    65          8
+    73        509
+    74         15
+    75          1
+    76          2
+    77          2
+    78         24
+    79          1
+    80          7
+    85         71
+    86         81
+    87         17
+   122         86
+   123          4
+   124         30
+   125          2

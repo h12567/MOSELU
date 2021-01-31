@@ -1,0 +1,55 @@
+##TITLE=Library Entry 2843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Ethyl 3-cyclopropylpropanoate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=62021-36-7
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        340
+    43        240
+    44         30
+    45        160
+    53        160
+    54        250
+    55        960
+    56         90
+    57        100
+    58        120
+    59        440
+    60        160
+    67        200
+    68        700
+    69        760
+    70        280
+    71        220
+    72         60
+    73        260
+    74         40
+    81         80
+    85        110
+    86         80
+    87         40
+    88        640
+    89         50
+    95         50
+    96        120
+    97        360
+    98         60
+    99        220
+   100         30
+   101        140
+   114        110
+   115        370
+   116        100
+   127         60
+   142        120
+   143         10

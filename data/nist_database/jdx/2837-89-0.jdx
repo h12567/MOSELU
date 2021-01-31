@@ -1,0 +1,47 @@
+##TITLE=Library Entry 32544
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.J. Bruno, Cent. Chem. Technol., NIST, Boulder, CO 803
+03, USA
+##NAMES=HP
+##CAS NAME=Ethane, 2-chloro-1,1,1,2-tetrafluoro-
+##MOLFORM=C2HClF4
+##CAS REGISTRY NO=2837-89-0
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    19         22
+    24         12
+    25         15
+    31        485
+    35        100
+    36         10
+    37         32
+    43         15
+    47         51
+    48         59
+    49         22
+    50        129
+    51        523
+    63         13
+    67        999
+    68         11
+    69        282
+    70          6
+    82         41
+    85         14
+    87          4
+   101        395
+   102          8
+   117        155
+   118          5
+   119         46
+   120          1
+   136         29
+   137          0
+   138          9
+   139          0

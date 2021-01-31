@@ -1,0 +1,48 @@
+##TITLE=Library Entry 82406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenyl 4-hydroxy-8-methylcoumaryl-3-ketoxime
+##MOLFORM=C17H13NO4
+##CAS REGISTRY NO=65623-54-3
+##MP= -300
+##BP= -300
+##MW= 295
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    29         81
+    39        361
+    50        372
+    51        556
+    52        190
+    53        110
+    63        248
+    64        158
+    65        240
+    74        140
+    75        118
+    76        158
+    77        632
+    78        261
+    79         89
+    89        148
+    91        228
+    92        180
+   103        191
+   105        448
+   106        999
+   125        380
+   127         99
+   134        500
+   135        188
+   143        130
+   151        239
+   166         40
+   176        239
+   277         29
+   278         30
+   279         30
+   295         10

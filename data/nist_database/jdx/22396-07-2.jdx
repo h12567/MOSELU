@@ -1,0 +1,63 @@
+##TITLE=Library Entry 94906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, 1-cyclopropyl-3-nitro-
+##MOLFORM=C9H9NO2
+##CAS REGISTRY NO=22396-07-2
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27         30
+    38         20
+    39        340
+    40         10
+    41        120
+    42         10
+    50        100
+    51        170
+    52         30
+    53         20
+    62         50
+    63        180
+    64         20
+    65        170
+    67         30
+    69        100
+    70         10
+    71         50
+    74         20
+    75         30
+    76         40
+    77        130
+    78         40
+    79         40
+    81         50
+    82         10
+    83         40
+    85         30
+    89        120
+    90         30
+    91        450
+    92         30
+    95         30
+    97         50
+   102         50
+   103         10
+   105         30
+   109         20
+   111         30
+   115        999
+   116        480
+   117        320
+   118         40
+   146        130
+   147         10
+   163        620
+   164         50
+   165         10

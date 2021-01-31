@@ -1,0 +1,61 @@
+##TITLE=Library Entry 49345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=(8R,8aS)-8,8a-Dimethyl-3,4,6,7,8,8a-hexahydronaphthalen-2(1H)-one
+##MOLFORM=C12H18O
+##CAS REGISTRY NO=39850-88-9
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1440
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41        347
+    42        101
+    50         48
+    51        116
+    52         52
+    53        198
+    55        253
+    63         62
+    65        118
+    66         76
+    67        208
+    68         92
+    69         86
+    77        335
+    78         91
+    79        999
+    80        132
+    81        135
+    91        409
+    92         84
+    93        644
+    94        396
+    95        183
+    96         90
+   103         61
+   105        392
+   106         62
+   107        463
+   108        254
+   109        117
+   110         93
+   119        145
+   120        338
+   121        362
+   122        316
+   123        113
+   135        162
+   136        550
+   137        101
+   145        167
+   149         67
+   150         99
+   163        441
+   164         39
+   178        747
+   179        120

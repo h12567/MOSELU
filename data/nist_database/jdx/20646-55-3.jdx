@@ -1,0 +1,32 @@
+##TITLE=Library Entry 65020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(4-Bromophenylsulfonyl)-1H-azepine
+##MOLFORM=C12H10BrNO2S
+##CAS REGISTRY NO=20646-55-3
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    38         50
+    39        376
+    40         20
+    41         39
+    50        108
+    51         30
+    63         70
+    64         50
+    65        760
+    66         60
+    74         49
+    75        129
+    76        140
+    92        999
+    93         49
+   155         59
+   157         49

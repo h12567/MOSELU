@@ -1,0 +1,65 @@
+##TITLE=Library Entry 18966
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 832
+##NAMES=HP
+##CAS NAME=1-Propene, 3-chloro-2-methyl-
+##MOLFORM=C4H7Cl
+##CAS REGISTRY NO=563-47-3
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=612
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15          7
+    25          4
+    26         37
+    27        191
+    28         58
+    29        228
+    30          5
+    35          4
+    36         11
+    37         31
+    38         54
+    39        452
+    40         55
+    41        191
+    42          8
+    43          6
+    44          1
+    47          4
+    48          4
+    49         37
+    50         56
+    51         54
+    52         17
+    53        181
+    54        266
+    55        999
+    56         48
+    57          5
+    60          2
+    61          6
+    62         45
+    63          8
+    64         14
+    65          2
+    70          1
+    71          1
+    72          1
+    73          6
+    74          3
+    75        103
+    76          4
+    77         33
+    78          1
+    89          9
+    90        315
+    91         16
+    92         99
+    93          5

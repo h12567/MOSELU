@@ -1,0 +1,41 @@
+##TITLE=Library Entry 45022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-mercapto-2-methyl-
+##MOLFORM=C4H8O2S
+##CAS REGISTRY NO=4695-31-2
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         95
+    39        320
+    41        712
+    42         83
+    43        110
+    45        241
+    47        156
+    53         16
+    57         28
+    58         78
+    59        516
+    60         30
+    61         27
+    69         44
+    73         21
+    74        118
+    75        999
+    76         58
+    77         53
+    86         25
+    87        108
+    92         25
+   102         50
+   120        314
+   121         20
+   122         17

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 80996
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Valeric acid, .alpha.-methylbenzyl ester
+##MOLFORM=C13H18O2
+##CAS REGISTRY NO=3460-43-3
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=1418
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27          5
+    29         10
+    39         17
+    41         18
+    42          6
+    50         11
+    51         46
+    52          9
+    57        179
+    59          7
+    60          6
+    62          6
+    63         12
+    64          4
+    74          6
+    75          4
+    76         12
+    77        181
+    78         99
+    79         82
+    80          7
+    83          6
+    85        118
+    86          9
+    89          8
+    90          1
+    91          6
+   102          9
+   103        126
+   104        567
+   105        999
+   106         86
+   107         59
+   121         39
+   122        806
+   123         68
+   124          4
+   139          3
+   143          2
+   145          2
+   151         10
+   153          2
+   206         80
+   207         12
+   208          1

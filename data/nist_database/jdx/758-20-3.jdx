@@ -1,0 +1,32 @@
+##TITLE=Library Entry 72353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. COHEN F.M.C. CORPORATION, PRINCETON, N.J., USA
+##NAMES=HP
+##CAS NAME=Imidosulfurous difluoride, methyl-
+##MOLFORM=CH3F2NS
+##CAS REGISTRY NO=758-20-3
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         92
+    46        396
+    49         56
+    50         75
+    51        223
+    60        283
+    61        110
+    70        313
+    71         62
+    77        120
+    78         71
+    79         84
+    80        291
+    98        746
+    99        999
+   100         56
+   101         47

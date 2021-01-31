@@ -1,0 +1,50 @@
+##TITLE=Library Entry 64105
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-Benzylindole-2-carboxylic acid
+##MOLFORM=C16H13NO2
+##CAS REGISTRY NO=17017-71-9
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    37          5
+    38          6
+    39         88
+    40          6
+    43          8
+    45         49
+    50          8
+    51         53
+    55          6
+    62         13
+    63         47
+    64          4
+    65        138
+    66          4
+    67          5
+    77         27
+    78          4
+    89         54
+    90          4
+    91        999
+    92         55
+    93          5
+   117          9
+   118          6
+   142          4
+   143         12
+   144          5
+   160          4
+   206          5
+   207          5
+   233          4
+   234          5
+   251        167
+   252         25
+   253          2

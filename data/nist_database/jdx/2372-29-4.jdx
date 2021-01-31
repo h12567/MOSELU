@@ -1,0 +1,47 @@
+##TITLE=Library Entry 28694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Diethylvinylsilane
+##MOLFORM=C6H14Si
+##CAS REGISTRY NO=2372-29-4
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         51
+    42         44
+    43        173
+    44        259
+    45         71
+    50         64
+    51         65
+    52         75
+    53         78
+    54         37
+    56        163
+    57        126
+    58        999
+    59        351
+    60        238
+    61         30
+    64         57
+    70         40
+    71         30
+    72         85
+    73         47
+    74         30
+    83         81
+    84         51
+    85        797
+    86        828
+    87         40
+    88         30
+   113         27
+   114        211
+   115         25
+   116          8

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 50283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.Budzikiewicz ET AL.Org.Mass Spectr.,27,489 (1992)
+##NAMES=HP
+##CAS NAME=2-n-Butylthiophene-1,1-dioxide
+##MOLFORM=C8H12O2S
+##CAS REGISTRY NO=142076-56-0
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    41        231
+    42        157
+    43        259
+    44        180
+    45         85
+    48         51
+    50         57
+    51         78
+    52         67
+    53        166
+    54         30
+    55        139
+    63         87
+    64         65
+    65        147
+    66        107
+    67         67
+    68         73
+    69         19
+    71         25
+    75         19
+    77        255
+    78        113
+    79        563
+    80         78
+    81        999
+    82        173
+    85         87
+    87         38
+    91        197
+    93        103
+    94         38
+    95        140
+    97         86
+   103         46
+   105         69
+   106         60
+   107         94
+   108         20
+   113         46
+   123         34
+   124         31
+   130        550
+   131         52
+   132         41
+   137         27
+   139         31
+   155        132
+   156         10
+   157          4
+   172        316
+   173         28
+   174          9

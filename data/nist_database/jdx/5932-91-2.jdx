@@ -1,0 +1,44 @@
+##TITLE=Library Entry 8966
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hexanal, 4,4-dimethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=5932-91-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         99
+    28         29
+    29        148
+    39         79
+    41        257
+    42         19
+    43        999
+    44         29
+    53         39
+    55        227
+    56         29
+    57         79
+    58          9
+    68         29
+    69        217
+    70        188
+    71        643
+    72         39
+    79         29
+    81        594
+    82         39
+    95        237
+    96         29
+    99        148
+   100         19
+   110         19
+   113         19
+   128         19

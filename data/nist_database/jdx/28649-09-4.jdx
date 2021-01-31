@@ -1,0 +1,80 @@
+##TITLE=Library Entry 21991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=n-Butyl-8-[[diphenylmethyl]amino]-2,3-bis[3,4,5-trimethoxyphenyl]
+pyrido[2,3-b]pyrazine-6-carbamate
+##MOLFORM=C43H45N5O8
+##CAS REGISTRY NO=28649-09-4
+##MP= -300
+##BP= -300
+##MW= 759
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    41        781
+    42        355
+    43        678
+    45         98
+    46          3
+    47          1
+    49         16
+    50          9
+    51         16
+    53         13
+    55        169
+    56        999
+    57         50
+    59          7
+    67          1
+    69          7
+    70          9
+    71          3
+    73         15
+    74          6
+    77          8
+    78          5
+    82          3
+    83          4
+    84          8
+    86          8
+    88          1
+    91          1
+    97          1
+    98          1
+   103          3
+   104          7
+   106          6
+   115          3
+   128          4
+   132          2
+   141          3
+   149          1
+   150          1
+   151          2
+   152         44
+   153          3
+   162          1
+   164          1
+   165         54
+   166          2
+   167        270
+   168         33
+   178          4
+   180          8
+   182         39
+   183          4
+   208          1
+   209          8
+   297          3
+   343         11
+   504          1
+   518          3
+   608          1
+   685         41
+   686         20
+   687          6
+   759          1

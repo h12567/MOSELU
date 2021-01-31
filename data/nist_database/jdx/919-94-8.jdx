@@ -1,0 +1,41 @@
+##TITLE=Library Entry 30255
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.QUAYLE SHELL LTD., THORNTON RES. CENT., CHESTER, CHES
+., UK
+##NAMES=HP
+##CAS NAME=Butane, 2-ethoxy-2-methyl-
+##MOLFORM=C7H16O
+##CAS REGISTRY NO=919-94-8
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=728
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27         66
+    29        100
+    31         65
+    39         46
+    41         91
+    42         40
+    43        249
+    44         12
+    45         42
+    53         17
+    55        278
+    56         16
+    57         14
+    58         14
+    59        999
+    60         40
+    70         58
+    71        211
+    72         17
+    73        437
+    74         29
+    87        758
+    88         43
+   101        110
+   102         12

@@ -1,0 +1,73 @@
+##TITLE=Library Entry 98659
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Penn State Mass Spectrom.Center
+##NAMES=HP
+##CAS NAME=Benzophenone, methylimine
+##MOLFORM=C14H13N
+##CAS REGISTRY NO=13280-16-5
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    29         27
+    31          7
+    39         27
+    40         53
+    41         19
+    42          6
+    43         14
+    44         27
+    50         13
+    51         78
+    52         11
+    55          7
+    56          8
+    57         15
+    63         12
+    65         63
+    66          5
+    69         12
+    75          4
+    76         32
+    77        469
+    78         56
+    79          4
+    89         29
+    90         17
+    91        276
+    92         91
+    93          4
+    94          8
+   102          9
+   103         39
+   104          8
+   115         11
+   116         39
+   117         25
+   118        999
+   119         92
+   120          4
+   139         12
+   151          9
+   152         25
+   153          8
+   154          5
+   163         14
+   164         21
+   165        134
+   166         26
+   167          8
+   178         11
+   179         15
+   180         67
+   181          9
+   192          6
+   193         21
+   194        748
+   195        608
+   196         91
+   197          7

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 20356
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,4-Dioxane-2,5-dione, 3,6-diethyl-
+##MOLFORM=C8H12O4
+##CAS REGISTRY NO=4374-57-6
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    26        250
+    28        250
+    31        250
+    39        200
+    41        250
+    42        200
+    55        999
+    56         40
+    57        260
+    58         90
+    59        580
+    60         20
+    69        120
+    70        960
+    71        100
+   144        500
+   145         40

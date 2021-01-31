@@ -1,0 +1,48 @@
+##TITLE=Library Entry 9006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. UTILIZATION R & D DIV., U.S. DEPT. OF AGRIC., ALBANY
+, CAL.
+##NAMES=HP
+##CAS NAME=Hexanethioic acid, S-methyl ester
+##MOLFORM=C7H14OS
+##CAS REGISTRY NO=2432-77-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1063
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         67
+    28         37
+    29         94
+    35          4
+    39         56
+    40          8
+    41        250
+    42         64
+    43        999
+    44         23
+    45         25
+    46         10
+    47         61
+    48         11
+    49          6
+    53         13
+    55        172
+    56         12
+    57         10
+    61         14
+    69         15
+    70         18
+    71        535
+    72         21
+    75         65
+    81         10
+    90         15
+    99        468
+   100         17
+   103          3
+   131        209
+   146          5

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 17183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Tris(trifluoromethylthio)methane
+##MOLFORM=C4HF9S3
+##CAS REGISTRY NO=691-69-0
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    31         28
+    32         85
+    44         21
+    45        999
+    46         19
+    47         42
+    50         16
+    63         43
+    64         14
+    69        863
+    70          8
+    76         84
+    77         80
+    78          7
+    79          7
+    82         36
+   101         19
+   109         20
+   111          4
+   133         13
+   145         12
+   146         73
+   147          4
+   148          6
+   215        343
+   216         15
+   217         28
+   247          2
+   316          2

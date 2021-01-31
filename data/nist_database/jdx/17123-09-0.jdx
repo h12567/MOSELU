@@ -1,0 +1,43 @@
+##TITLE=Library Entry 71195
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.JAKOBSEN, INST. FOR CHEMISTRY, UNIV. COPENHAGEN, DENM
+ARK
+##NAMES=HP
+##CAS NAME=Phosphoramidic acid, dipropyl ester
+##MOLFORM=C6H16NO3P
+##CAS REGISTRY NO=17123-09-0
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        200
+    42         90
+    43        220
+    45         20
+    47         10
+    59         20
+    64         20
+    80        260
+    81         70
+    82         20
+    98        999
+   110         40
+   111         20
+   112         20
+   122        180
+   123         10
+   124         60
+   138         20
+   139         20
+   140        260
+   141         20
+   149         10
+   152         30
+   166         10
+   180          2
+   181          1

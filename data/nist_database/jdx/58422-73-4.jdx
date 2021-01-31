@@ -1,0 +1,25 @@
+##TITLE=Library Entry 80914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(5)1536(1977); D. S. WATT ET AL.
+##NAMES=HP
+##CAS NAME=Ethaneperoxoic acid, 1-cyano-1-phenylpentyl ester
+##MOLFORM=C14H17NO3
+##CAS REGISTRY NO=58422-73-4
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+   105        999
+   120        310
+   130         60
+   131        110
+   132         50
+   145         70
+   172        110
+   173        130
+   174         20
+   189         10

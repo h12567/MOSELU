@@ -1,0 +1,67 @@
+##TITLE=Library Entry 78248
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Geranyl benzoate
+##MOLFORM=C17H22O2
+##CAS REGISTRY NO=94-48-4
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=1964
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         66
+    28         13
+    29         37
+    39        103
+    41        566
+    42         27
+    43         34
+    44          3
+    50         38
+    51        134
+    52         21
+    53        114
+    54         11
+    55         39
+    56          3
+    57          4
+    63          5
+    65         32
+    67        228
+    68        534
+    69        772
+    70         45
+    71          3
+    74          8
+    75          8
+    77        419
+    78         39
+    79         66
+    80        265
+    81         58
+    82         10
+    83          4
+    84          3
+    85          4
+    91         44
+    92        133
+    93        398
+    94         97
+    95         27
+   105        999
+   106         84
+   107         73
+   108         23
+   109          7
+   119          6
+   121        206
+   122         29
+   123         38
+   124          4
+   136        184
+   137         22
+   189         12

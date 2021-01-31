@@ -1,0 +1,44 @@
+##TITLE=Library Entry 46932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. SAEED, DEP. CHEM., COLL. SCI., BASRAH UNIV., BASRAH,
+ IRAQ
+##NAMES=HP
+##CAS NAME=2,2-Dianilinoacetophenone
+##MOLFORM=C20H18N2O
+##CAS REGISTRY NO=66749-88-0
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    38         80
+    39        230
+    40         70
+    41         70
+    47        170
+    50        210
+    51        540
+    52        100
+    54         60
+    63         90
+    64         50
+    65        290
+    66        420
+    67         60
+    74         50
+    75         50
+    76        120
+    77        999
+    78        270
+    92        200
+    93        960
+    94        160
+   104        990
+   105        500
+   106         70
+   197         50
+   209        580
+   210        140

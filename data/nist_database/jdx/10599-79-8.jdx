@@ -1,0 +1,45 @@
+##TITLE=Library Entry 37187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ethanamine, N-(1-propylbutylidene)-
+##MOLFORM=C9H19N
+##CAS REGISTRY NO=10599-79-8
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    40         49
+    41        594
+    42        237
+    43        693
+    44        128
+    51         19
+    52         19
+    53         39
+    54        108
+    55         79
+    56         29
+    57         29
+    67         19
+    68         29
+    69         29
+    70        999
+    71         59
+    82          9
+    84         59
+    85        277
+    86         19
+    98        386
+    99         29
+   112         19
+   113         69
+   126        108
+   140          9
+   141         49
+   142         19

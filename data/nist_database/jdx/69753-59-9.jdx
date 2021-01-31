@@ -1,0 +1,24 @@
+##TITLE=Library Entry 83036
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. ODA, MIN. AGRIC. CHEM. INSP. STN., TOKYO, JAPAN
+##NAMES=HP
+##CAS NAME=4-Ethylformanilide
+##MOLFORM=C9H11NO
+##CAS REGISTRY NO=69753-59-9
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    77        250
+    91        120
+   106        999
+   107        200
+   120        100
+   121         30
+   132         30
+   134        590
+   149        700

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 54239
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(11)946(1975); R.G.COOKS
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazol-3-amine, 1-propyl-
+##MOLFORM=C5H10N4
+##CAS REGISTRY NO=58661-95-3
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         63
+    40         16
+    41        190
+    42        135
+    43        452
+    44        119
+    54         32
+    55         32
+    56         48
+    57        294
+    70        714
+    71         63
+    84        999
+    85         63
+    97        857
+    98        452
+    99         24
+   125         56
+   126        897
+   127         79

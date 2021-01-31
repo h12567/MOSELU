@@ -1,0 +1,32 @@
+##TITLE=Library Entry 44946
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S. Chizhov, N.D. Zelinskii Inst. Org. Chem., Acad. Sc
+i., Moscow, USSR
+##NAMES=HP
+##CAS NAME=1-Pentanamine, N-nitro-
+##MOLFORM=C5H12N2O2
+##CAS REGISTRY NO=72884-67-4
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=841
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    28        187
+    29        809
+    30        990
+    39        441
+    41        793
+    42        846
+    43        752
+    44        161
+    46        362
+    55        736
+    56        203
+    57        224
+    69        374
+    70        414
+    71         81
+    75        999

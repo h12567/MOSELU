@@ -1,0 +1,32 @@
+##TITLE=Library Entry 51630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyrrolo[1,2-b][1,2,4]oxadiazole-2(1H)-thione, 1-(4-fluorophenyl)t
+etrahydro-5,5-dimethyl-
+##MOLFORM=C13H15FN2OS
+##CAS REGISTRY NO=50455-86-2
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    57        180
+    62        120
+    63        130
+    69        579
+    81        180
+    82        999
+    89        190
+    95        120
+    96        170
+    97        220
+   109        819
+   129        100
+   137        659
+   191         70
+   206         30
+   266         10

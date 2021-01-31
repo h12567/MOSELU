@@ -1,0 +1,54 @@
+##TITLE=Library Entry 43141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O A MAMER, MCGILL UNIVERSITY, MONTRE
+##NAMES=HP
+##CAS NAME=2-Phenyl-1,2-propanediol, 2TMS derivative
+##MOLFORM=C15H28O2Si2
+##CAS REGISTRY NO=294847-15-7
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15         24
+    28         38
+    39         15
+    41         16
+    43         63
+    44         31
+    45        138
+    47         31
+    51         18
+    52         23
+    58         18
+    59         37
+    61         20
+    73        999
+    74         88
+    75        177
+    76         16
+    77         31
+    78         18
+    79         28
+    91         36
+   103         31
+   105         15
+   115         25
+   117         39
+   118         17
+   131         23
+   133         39
+   135         16
+   147        262
+   148         43
+   149         31
+   163         15
+   177         31
+   193        976
+   194        170
+   195         50
+   267         14
+   281         22

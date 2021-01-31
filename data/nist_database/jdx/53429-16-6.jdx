@@ -1,0 +1,57 @@
+##TITLE=Library Entry 998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetamide, N-(5-phenylpentyl)-
+##MOLFORM=C13H19NO
+##CAS REGISTRY NO=53429-16-6
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    30        999
+    31         50
+    32         70
+    39        120
+    41        110
+    42         70
+    43        859
+    44        200
+    45         50
+    51         90
+    55         70
+    56         60
+    59         50
+    60        170
+    65        150
+    72        470
+    73        569
+    74        120
+    77        100
+    78         70
+    79         60
+    80        320
+    86        300
+    87        160
+    91        739
+    92        180
+    93         50
+   100         70
+   101        360
+   103         50
+   104        450
+   105        120
+   114        370
+   115         60
+   116        110
+   117        120
+   118         50
+   122         60
+   146        110
+   162         60
+   205        689
+   206         90

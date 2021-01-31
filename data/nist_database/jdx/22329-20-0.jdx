@@ -1,0 +1,60 @@
+##TITLE=Library Entry 90267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. LOVETT - D. LIPKIN
+##NAMES=HP
+##CAS NAME=6,9-Epoxy-2H,6H-pyrimido[2,1-b][1,3]oxazocin-2-one, 7,8,9,10-tetr
+ahydro-7,8-dihydroxy-, [6R-(6.alpha.,7.alpha.,8.alpha.,9.alpha.)]-
+##MOLFORM=C9H10N2O5
+##CAS REGISTRY NO=22329-20-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    69        240
+    70        190
+    71        100
+    72         10
+    73        110
+    78         10
+    79         10
+    81         20
+    82         60
+    83         30
+    84         20
+    85         50
+    86         30
+    87         10
+    94         20
+    95        220
+    96        400
+    97         90
+    98         50
+   108         10
+   109         10
+   110         30
+   111         10
+   112        200
+   113        999
+   114        130
+   115         20
+   125         20
+   126         10
+   133         30
+   137        140
+   138        210
+   139         20
+   141         10
+   146         10
+   151         30
+   152         10
+   166         10
+   167         50
+   179         20
+   180         10
+   197         20
+   226        280
+   227         30

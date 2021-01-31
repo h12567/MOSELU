@@ -1,0 +1,73 @@
+##TITLE=Library Entry 90733
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,7-Nonadienoic acid, 3,8-dimethyl-, methyl ester, (Z)-
+##MOLFORM=C12H20O2
+##CAS REGISTRY NO=55283-30-2
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41        643
+    42         29
+    43         79
+    45          9
+    51         19
+    52          9
+    53        138
+    54         39
+    55        267
+    56         19
+    59         69
+    60          9
+    65         29
+    66         19
+    67        267
+    68         49
+    69        316
+    70         29
+    71          9
+    73         19
+    77         39
+    78         19
+    79         49
+    80         29
+    81        108
+    82        415
+    83        603
+    84         49
+    85         79
+    91         29
+    93         49
+    94          9
+    95        148
+    96         39
+    97         29
+    99         59
+   106         19
+   107         19
+   109         29
+   111         29
+   114        999
+   115         79
+   121         19
+   122         29
+   123         19
+   125         49
+   126         19
+   127        128
+   128         29
+   136         29
+   137         79
+   140         29
+   153         39
+   154         19
+   164         29
+   165         39
+   196         59

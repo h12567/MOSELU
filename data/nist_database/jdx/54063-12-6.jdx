@@ -1,0 +1,66 @@
+##TITLE=Library Entry 45019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Heptane, 2-(methylthio)-
+##MOLFORM=C8H18S
+##CAS REGISTRY NO=54063-12-6
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          6
+    27        125
+    28         32
+    29        237
+    32         25
+    35         12
+    39        119
+    40         21
+    41        683
+    42        124
+    43        342
+    44          5
+    45         44
+    46         17
+    47        152
+    48         74
+    49         94
+    53         46
+    54         56
+    55        344
+    56        536
+    57        664
+    58         40
+    59         42
+    60         25
+    61        239
+    62         14
+    63         11
+    65         10
+    67         23
+    68         33
+    69        346
+    70        370
+    71         31
+    73         14
+    74         25
+    75        999
+    76         92
+    77         65
+    81         14
+    83         87
+    89        189
+    90         27
+    91         12
+    97         28
+    98        546
+    99         50
+   103         73
+   117        144
+   131        140
+   146        500

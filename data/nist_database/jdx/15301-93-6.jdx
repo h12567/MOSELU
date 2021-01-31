@@ -1,0 +1,40 @@
+##TITLE=Library Entry 15648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Tofenacin
+##MOLFORM=C17H21NO
+##CAS REGISTRY NO=15301-93-6
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    43         52
+    44        999
+    55         30
+    57         29
+    58         29
+    59        286
+    65         19
+    77         43
+    78         10
+    81         10
+    89          9
+    91         32
+   115         19
+   139         10
+   141         10
+   152         19
+   153          9
+   165        140
+   166         92
+   167         19
+   178         51
+   179         50
+   180         20
+   181         61
+   197         10

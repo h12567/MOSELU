@@ -1,0 +1,51 @@
+##TITLE=Library Entry 48642
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Bicyclo(3.2.1)oct-2-ene
+##MOLFORM=C8H12
+##CAS REGISTRY NO=823-02-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14          8
+    26         14
+    27         81
+    28         23
+    29         11
+    32          2
+    37          7
+    38         28
+    39        208
+    40         37
+    41        111
+    50         55
+    51        107
+    52         61
+    53         67
+    54        106
+    55         12
+    62         12
+    63         32
+    65        115
+    66        482
+    67        251
+    68         16
+    74         11
+    75          7
+    77        304
+    78        194
+    79        999
+    80        369
+    81         22
+    91        123
+    93        198
+    94         13
+   105          7
+   108        252
+   109         21

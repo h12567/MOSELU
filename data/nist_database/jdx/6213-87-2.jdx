@@ -1,0 +1,25 @@
+##TITLE=Library Entry 55501
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 18(4)617(1979); F. X. WOOLARD ET AL.
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-bromo-, methyl ester, (E)-
+##MOLFORM=C4H5BrO2
+##CAS REGISTRY NO=6213-87-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    59        290
+    85        999
+   105        560
+   107        560
+   119         20
+   121         20
+   133        999
+   135        999
+   164        240
+   166        240

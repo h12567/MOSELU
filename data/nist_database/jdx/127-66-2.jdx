@@ -1,0 +1,83 @@
+##TITLE=Library Entry 18536
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Phenyl-3-butyn-2-ol
+##MOLFORM=C10H10O
+##CAS REGISTRY NO=127-66-2
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    14          6
+    15         31
+    18          3
+    25          5
+    26         20
+    27         40
+    28          6
+    29         10
+    37         11
+    38         29
+    39         93
+    40         10
+    41         11
+    42          5
+    43        176
+    44          6
+    49         16
+    50        133
+    51        269
+    52          6
+    53        999
+    54         30
+    55          7
+    58          4
+    61         15
+    62         37
+    63         72
+    64         17
+    65         30
+    68          3
+    69         24
+    72          5
+    73          9
+    74         57
+    75         53
+    76         60
+    77        250
+    78         70
+    79          9
+    85          6
+    86         13
+    87         17
+    88          8
+    89         12
+    91         25
+    98          8
+   101         15
+   102         73
+   103        186
+   104         23
+   105         45
+   113          8
+   114          5
+   115         33
+   116          7
+   117         11
+   120          5
+   126         14
+   127         40
+   128         61
+   129         25
+   130          5
+   131        805
+   132         71
+   133          4
+   145         35
+   146         36
+   147          5

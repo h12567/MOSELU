@@ -1,0 +1,52 @@
+##TITLE=Library Entry 80983
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Benzoic acid
+##MOLFORM=C7H6O2
+##CAS REGISTRY NO=65-85-0
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=1170
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         13
+    29          5
+    37         22
+    38         40
+    39         50
+    40          6
+    44          2
+    45         35
+    47         11
+    49         24
+    50        193
+    51        330
+    52         55
+    53         11
+    55          2
+    61         11
+    62         11
+    63         13
+    65         23
+    66         19
+    73         20
+    74         79
+    75         37
+    76         59
+    77        665
+    78         61
+    79          2
+    94         26
+   104         11
+   105        999
+   106         76
+   107          1
+   121          5
+   122        831
+   123         67
+   124          5

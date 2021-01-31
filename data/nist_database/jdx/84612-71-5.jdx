@@ -1,0 +1,50 @@
+##TITLE=Library Entry 10735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Methyl-3-hexanol acetate
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=84612-71-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         13
+    26          8
+    27         67
+    28          8
+    29         97
+    31         12
+    39         70
+    41        185
+    43        999
+    44         27
+    45         32
+    53         23
+    54         11
+    55         98
+    56         53
+    57        133
+    58         20
+    59         40
+    61         11
+    67         15
+    69        299
+    70         75
+    71         14
+    72         97
+    73         21
+    83         29
+    85         18
+    87         12
+    98         82
+    99         12
+   100         50
+   101        314
+   102         20
+   129         20
+   130         15

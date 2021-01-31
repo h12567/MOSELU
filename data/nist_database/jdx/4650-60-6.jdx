@@ -1,0 +1,76 @@
+##TITLE=Library Entry 49894
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Furfuryl isothiocyanate
+##MOLFORM=C6H5NOS
+##CAS REGISTRY NO=4650-60-6
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+     4          0
+    13          3
+    14          5
+    15          1
+    25          4
+    26         30
+    27        152
+    28         18
+    29         38
+    31          2
+    32         21
+    36          4
+    37         27
+    38         51
+    39         70
+    40         12
+    41          8
+    42         13
+    44         20
+    45         27
+    46          4
+    47          1
+    48          2
+    49         14
+    50         74
+    51        122
+    52         79
+    53        459
+    54         24
+    55         10
+    57          7
+    58         24
+    59          9
+    60          5
+    61          2
+    62          2
+    63          3
+    64          6
+    66          3
+    67          2
+    68          3
+    70         17
+    71         11
+    72         22
+    73          1
+    75          3
+    76          3
+    77          2
+    78         10
+    79          9
+    80          1
+    81        999
+    82         55
+    83         15
+    84          8
+   106          2
+   107          5
+   139        125
+   140         10
+   141          6
+   142          0

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 64461
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.S.Plaziak ET AL, Org. Mass Spectr.,24,871(1989)
+##NAMES=HP
+##CAS NAME=5-Benzyl-5-acetylamino-6-imino-1,2,5,6-tetrahydro-2-thioxopyrimid
+in-4(3H)-one
+##MOLFORM=C13H14N4O2S
+##CAS REGISTRY NO=130030-08-9
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    86         20
+    89         20
+    90         23
+    91        999
+    92         98
+    98        105
+   103         20
+   110         17
+   117         27
+   118         44
+   119         20
+   128         17
+   129         23
+   145         30
+   152         20
+   157        201
+   158         27
+   171         27
+   186         17
+   188         27
+   189         23
+   190         30
+   200         20
+   201         20
+   216         34
+   229         30
+   230         47
+   231         51
+   232         23
+   247         64
+   248        133
+   249         20
+   290        276
+   291         34
+   292         17

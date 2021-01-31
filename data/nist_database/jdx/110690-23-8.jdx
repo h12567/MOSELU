@@ -1,0 +1,74 @@
+##TITLE=Library Entry 21428
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-1-(But-2-en-1-yl)-2-(sec-butyl)disulfane
+##MOLFORM=C8H16S2
+##CAS REGISTRY NO=110690-23-8
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=1240
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         44
+    28          8
+    29         96
+    30          2
+    35          4
+    37          2
+    38          3
+    39         68
+    40          5
+    41        156
+    42          7
+    43          7
+    45         72
+    46          6
+    47         45
+    49          3
+    50          7
+    51         15
+    52          5
+    53        128
+    54         14
+    55        999
+    56         72
+    57        190
+    58         35
+    59        180
+    60         26
+    61         36
+    62          1
+    64          7
+    66          4
+    71         64
+    72         11
+    73         14
+    74          3
+    75          5
+    82          4
+    85         45
+    86         41
+    87        103
+    88         28
+    89         12
+    90          3
+    92         39
+   111          3
+   117          5
+   119          8
+   120        615
+   121         35
+   122         59
+   124          2
+   126          4
+   147          2
+   176        401
+   177         41
+   178         40
+   179          3
+   180          1

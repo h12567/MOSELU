@@ -1,0 +1,51 @@
+##TITLE=Library Entry 10333
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2-Furanpropanoic acid, 3-methylbutyl ester
+##MOLFORM=C12H18O3
+##CAS REGISTRY NO=7779-67-1
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1415
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26          9
+    29         22
+    41         65
+    42         21
+    43        999
+    44         49
+    47          8
+    53         18
+    54         18
+    55        183
+    63         18
+    65          7
+    66          7
+    67         83
+    68         83
+    69         72
+    70         72
+    71        631
+    72         49
+    81        609
+    82        121
+    83          7
+    94        649
+    95        238
+    96         39
+    97        309
+    98         19
+   123        211
+   124         52
+   139        209
+   140        461
+   141        103
+   142         59
+   153          9
+   210        249
+   211         59

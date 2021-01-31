@@ -1,0 +1,63 @@
+##TITLE=Library Entry 3353
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=COMPAGNIE FRANCAISE DE RAFFINAGE, FRANCE.
+##NAMES=HP
+##CAS NAME=2-Butene, 2-chloro-3-methyl-
+##MOLFORM=C5H9Cl
+##CAS REGISTRY NO=17773-65-8
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=699
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26         36
+    27        251
+    28         31
+    29         57
+    30          2
+    31         17
+    35          4
+    36         27
+    37         27
+    38         53
+    39        304
+    40         84
+    41        999
+    42         86
+    43         29
+    49         33
+    50         60
+    51        105
+    52         31
+    53        495
+    54         29
+    55        100
+    56         11
+    57         21
+    61         31
+    62         25
+    63         50
+    64          7
+    65         43
+    66         18
+    67        194
+    68         61
+    69        956
+    70         58
+    71          2
+    75         41
+    76         30
+    77         15
+    78         10
+    87          5
+    88          2
+    89        256
+    90         12
+    91         84
+   103          7
+   104        485
+   105         30
+   106        160

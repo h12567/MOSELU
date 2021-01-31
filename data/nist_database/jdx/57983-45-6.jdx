@@ -1,0 +1,72 @@
+##TITLE=Library Entry 21641
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=.beta.-Alanine, N-(trifluoroacetyl)-, 1-methylbutyl ester
+##MOLFORM=C10H16F3NO3
+##CAS REGISTRY NO=57983-45-6
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    40         13
+    41        157
+    42        159
+    43        569
+    44         68
+    45         63
+    46          3
+    47          7
+    50          4
+    51          3
+    53         11
+    54          1
+    55        999
+    56         57
+    57          5
+    58          3
+    60          8
+    66          3
+    67          1
+    69        127
+    70        245
+    71        144
+    72         34
+    73         10
+    74          5
+    78         48
+    79          4
+    86          4
+    87        103
+    88         14
+    92          4
+    96          6
+    97          7
+    98         32
+    99          1
+   100          1
+   106          1
+   107          1
+   114          4
+   116         26
+   126        126
+   127         10
+   139         62
+   140          9
+   141         21
+   142          1
+   146          2
+   154          5
+   166         30
+   167         25
+   168        697
+   169         39
+   170          5
+   185         21
+   186         51
+   187          1

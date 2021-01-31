@@ -1,0 +1,25 @@
+##TITLE=Library Entry 18266
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Nitrogen trifluoride
+##MOLFORM=F3N
+##CAS REGISTRY NO=7783-54-2
+##MP= -300
+##BP= -300
+##MW= 71
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    14         88
+    15          1
+    19         61
+    26          1
+    33        380
+    34          1
+    52        999
+    53          4
+    71        328
+    72          1

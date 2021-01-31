@@ -1,0 +1,50 @@
+##TITLE=Library Entry 28766
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-6-benzyloxyhexylamine
+##MOLFORM=C15H25NO
+##CAS REGISTRY NO=71126-72-2
+##MP= -300
+##BP= -300
+##MW= 235
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    30         46
+    39         12
+    41         23
+    42         30
+    43         13
+    44         30
+    45         30
+    46          8
+    51          6
+    55         13
+    56          9
+    57         12
+    58        999
+    59         40
+    65         19
+    70          6
+    71          7
+    72          5
+    77          9
+    79          8
+    84         17
+    91        122
+    92         17
+   100          9
+   105          5
+   114          6
+   116          7
+   128         20
+   129         12
+   142          6
+   144        115
+   145         11
+   234          2
+   235          6
+   236          1

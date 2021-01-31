@@ -1,0 +1,45 @@
+##TITLE=Library Entry 82070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Methyl 2-phenyl-2,3-epoxyindan-1-one-3-carboxylate
+##MOLFORM=C17H12O4
+##CAS REGISTRY NO=93328-01-9
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    76         10
+    77        220
+    78         30
+    88         10
+    89         10
+   104         30
+   105        999
+   106         70
+   115         10
+   139         10
+   152         10
+   163         30
+   164         30
+   165        110
+   166         10
+   176         10
+   193         40
+   194         40
+   203         10
+   209         70
+   210         10
+   221         30
+   222         10
+   237         70
+   249         30
+   252         50
+   279         20
+   280        400
+   281         74
+   282          6

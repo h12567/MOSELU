@@ -1,0 +1,60 @@
+##TITLE=Library Entry 38538
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Meidani ET.AL. JAOCS, 54,496(1977)
+##NAMES=HP
+##CAS NAME=Heptano-dibutyrin
+##MOLFORM=C18H32O6
+##CAS REGISTRY NO=65235-13-4
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26        158
+    27         91
+    28         25
+    29         97
+    31          2
+    39         59
+    40         29
+    41        268
+    42         99
+    43        850
+    44         49
+    45         17
+    55        167
+    56         34
+    57         87
+    60         17
+    69         13
+    70         49
+    71        999
+    72         68
+    73         19
+    74          2
+    77          2
+    83          4
+    84         46
+    85        662
+    86         48
+    87          8
+    89         15
+   112          6
+   113        511
+   114         48
+   132         13
+   143         34
+   144         21
+   145         74
+   186         15
+   199         34
+   200         13
+   201         15
+   214         55
+   215        118
+   216          8
+   243         11
+   257         11

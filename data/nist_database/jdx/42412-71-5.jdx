@@ -1,0 +1,53 @@
+##TITLE=Library Entry 32969
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. FUJIWARA, KYOTO COLL. PHARMACY, KYOTO, JA
+##NAMES=HP
+##CAS NAME=3.beta.-Methyl-trans-hexahydrophthalide
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=42412-71-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        150
+    28         40
+    29         67
+    39        215
+    40         45
+    41        290
+    42         31
+    43        211
+    51         36
+    53        114
+    54        284
+    55        120
+    65         33
+    66        140
+    67        999
+    68        340
+    69        117
+    77         38
+    79         69
+    80         39
+    81        432
+    82        530
+    83         43
+    93         51
+    95        208
+    96         21
+   108         13
+   109         15
+   110        235
+   111         37
+   125          4
+   126          2
+   139         13
+   140          3
+   153          3
+   154         34
+   155          6
+   156          1

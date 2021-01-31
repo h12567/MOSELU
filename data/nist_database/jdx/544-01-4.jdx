@@ -1,0 +1,67 @@
+##TITLE=Library Entry 8688
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 828
+##NAMES=HP
+##CAS NAME=Diisoamyl ether
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=544-01-4
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=988
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          1
+    26          1
+    27         81
+    28         30
+    29        115
+    30          7
+    31         15
+    38          1
+    39         57
+    40          9
+    41        184
+    42         85
+    43        999
+    44         33
+    45         87
+    46          2
+    50          1
+    51          2
+    52          1
+    53         15
+    54          6
+    55        189
+    56         51
+    57         31
+    58          3
+    59         13
+    60          1
+    65          1
+    67          3
+    68          3
+    69        447
+    70        946
+    71        857
+    72         43
+    73          6
+    79          1
+    83          2
+    84          2
+    85          6
+    86          1
+    87          6
+    91          1
+    97          1
+    98          1
+    99          1
+   100          1
+   101        204
+   102         13
+   103          7
+   115          1
+   129          1

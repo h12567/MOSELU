@@ -1,0 +1,42 @@
+##TITLE=Library Entry 77191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Phenethyl tetradecanoate
+##MOLFORM=C22H36O2
+##CAS REGISTRY NO=72934-11-3
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=2486
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27          4
+    29         13
+    39          8
+    41         45
+    42         11
+    43         67
+    51          5
+    55         36
+    56          7
+    57         41
+    63          2
+    65          8
+    69          9
+    71         20
+    77         19
+    78         12
+    79         18
+    85         10
+    91         18
+    92          5
+   102          1
+   103         22
+   104        999
+   105        307
+   106         23
+   211          8
+   212          1

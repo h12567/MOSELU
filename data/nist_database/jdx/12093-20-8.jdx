@@ -1,0 +1,89 @@
+##TITLE=Library Entry 32568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Iron, tricarbonyl[(1,2,5,6-.eta.)-1,5-cyclooctadiene]-
+##MOLFORM=C11H12FeO3
+##CAS REGISTRY NO=12093-20-8
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    27        546
+    29        263
+    37         15
+    38         45
+    39        852
+    40         85
+    41        683
+    42        100
+    43         14
+    49          2
+    50         93
+    51        177
+    52        103
+    53        231
+    54        958
+    55        131
+    56        291
+    57        502
+    58         14
+    62         12
+    63         46
+    64          2
+    65        152
+    66        257
+    67        999
+    68         52
+    69         12
+    70         69
+    71        117
+    74          6
+    75         15
+    76          1
+    77        330
+    78        142
+    79        886
+    80        605
+    81         45
+    82         34
+    83         15
+    84         35
+    85        139
+    86          2
+    89          2
+    91        204
+    92         15
+    93        375
+    94         22
+    95         11
+    96         14
+    98         10
+    99         27
+   103          4
+   105         11
+   107         22
+   108        275
+   109         19
+   110        303
+   111         12
+   121         16
+   122          5
+   128         22
+   132          2
+   134         89
+   135          5
+   136         37
+   160          2
+   162         39
+   164        239
+   165         17
+   190          2
+   192         64
+   193          0
+   220         47

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 43755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-(Trimethylsiloxy)-2-methoxy-4-(1-trimethylsiloxyethenyl)-benzen
+e
+##MOLFORM=C15H26O3Si2
+##CAS REGISTRY NO=54619-52-2
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    73        999
+   175         19
+   177         30
+   179         29
+   190         50
+   191         49
+   193         30
+   205         40
+   206         49
+   221        218
+   222         40
+   223         29
+   236         19
+   237         19
+   253         40
+   265         99
+   266         20
+   267         49
+   279        616
+   280        159
+   281         60
+   295        407
+   296         89
+   297         29
+   309        289
+   310        387
+   311         99
+   312         29

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 632
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORNER, FUCHS MINERALOELWERKE GMBH, MANNHEIM, W. Gio-
+##NAMES=HP
+##CAS NAME=Carbonotrithioic acid, diethyl ester
+##MOLFORM=C5H10S3
+##CAS REGISTRY NO=2314-49-0
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    29        999
+    45         97
+    46         43
+    47         56
+    61        120
+    62         45
+    66         29
+    75          6
+    76        148
+    77        249
+    94         14
+   105        204
+   110          6
+   122         19
+   137          5
+   138         24
+   166        147

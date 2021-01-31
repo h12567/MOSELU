@@ -1,0 +1,59 @@
+##TITLE=Library Entry 73066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=Oxazolidine, 3-ethyl-2-phenyl-
+##MOLFORM=C11H15NO
+##CAS REGISTRY NO=1741-81-7
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15         21
+    27         50
+    29         63
+    30         16
+    39         29
+    41         39
+    42         89
+    43         38
+    44        151
+    50         20
+    51         65
+    52         14
+    54         14
+    56        248
+    57         12
+    63         21
+    65         32
+    70         41
+    71         16
+    72         62
+    77        115
+    78         21
+    79         13
+    89         34
+    90         35
+    91        142
+    92         22
+   100        999
+   101         58
+   104         15
+   105        110
+   106         14
+   117         15
+   118         30
+   119         16
+   146        107
+   147         16
+   148         10
+   162         35
+   163          4
+   176        174
+   177         83
+   178         10

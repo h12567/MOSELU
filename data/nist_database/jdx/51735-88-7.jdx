@@ -1,0 +1,38 @@
+##TITLE=Library Entry 36158
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphorimidic trichloride, [(nonafluorobutyl)sulfinyl]-
+##MOLFORM=C4Cl3F9NOPS
+##CAS REGISTRY NO=51735-88-7
+##MP= -300
+##BP= -300
+##MW= 417
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    31        440
+    32        130
+    35        190
+    36        270
+    47        420
+    48         80
+    50        150
+    63        829
+    67        689
+    69        999
+    82        460
+   100        499
+   101        150
+   113        130
+   117        989
+   131        599
+   152        230
+   163         80
+   167         60
+   169        120
+   219        270
+   232         40
+   251         60

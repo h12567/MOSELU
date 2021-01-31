@@ -1,0 +1,30 @@
+##TITLE=Library Entry 77521
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-p-Methylbenzoyl-2-anilthioaceticacid anilide
+##MOLFORM=C22H18N2OS
+##CAS REGISTRY NO=51040-02-9
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    77        643
+    91        419
+   104        999
+   109         88
+   119        915
+   135         59
+   136        208
+   207         20
+   223         79
+   239         49
+   255         19
+   330         40
+   358        228
+   359         80
+   360         29

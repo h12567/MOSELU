@@ -1,0 +1,52 @@
+##TITLE=Library Entry 48374
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Benzotriazole, 1-[(4-nitrophenyl)methyl]-
+##MOLFORM=C13H10N4O2
+##CAS REGISTRY NO=27799-81-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    39        210
+    40         10
+    44         80
+    45        220
+    46        100
+    50        130
+    51        210
+    52        140
+    53         10
+    63        220
+    64        100
+    65         10
+    76        160
+    77        400
+    78        999
+    79         80
+    89        400
+    90        580
+    91         60
+   104         60
+   106        610
+   107         50
+   136        420
+   137         30
+   151         60
+   152        110
+   153         10
+   167         50
+   179        820
+   180        340
+   181         30
+   225        740
+   226        110
+   227         10
+   254        740
+   255        130
+   256         20

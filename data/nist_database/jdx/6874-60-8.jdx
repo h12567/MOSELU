@@ -1,0 +1,47 @@
+##TITLE=Library Entry 69469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=Phosphonic acid, decyl-
+##MOLFORM=C10H23O3P
+##CAS REGISTRY NO=6874-60-8
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        120
+    42         33
+    43         87
+    53          7
+    55        117
+    56         33
+    57         52
+    65         16
+    67         14
+    69         71
+    70         17
+    71          7
+    81         47
+    82        101
+    83         51
+    84         13
+    96        999
+    97         48
+   109        414
+   110        180
+   123        150
+   124         42
+   137        133
+   138         25
+   151        177
+   152         23
+   165         90
+   167         10
+   179         59
+   193         33
+   222         35
+   223         12

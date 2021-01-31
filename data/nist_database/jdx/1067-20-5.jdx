@@ -1,0 +1,68 @@
+##TITLE=Library Entry 24049
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentane, 3,3-diethyl-
+##MOLFORM=C9H20
+##CAS REGISTRY NO=1067-20-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=880
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    25          1
+    26          6
+    27        113
+    28         16
+    29        201
+    30          5
+    38          1
+    39         54
+    40          8
+    41        241
+    42         24
+    43        253
+    44          9
+    45          1
+    50          1
+    51          4
+    52          2
+    53         21
+    54          5
+    55         86
+    56         17
+    57        999
+    58         45
+    59          1
+    63          1
+    64          1
+    65          3
+    66          1
+    67          7
+    68          3
+    69         47
+    70         14
+    71         20
+    72          1
+    77          1
+    78          1
+    79          1
+    80          1
+    81          1
+    82          1
+    83          8
+    84          2
+    85          1
+    91          1
+    95          1
+    97          1
+    98        113
+    99        192
+   100         14
+   101          1
+   112          1
+   113          1
+   128          1

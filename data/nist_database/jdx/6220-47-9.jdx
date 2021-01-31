@@ -1,0 +1,40 @@
+##TITLE=Library Entry 109138
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Org.Mass.Spectrom.,23(9)654(1988);A.S.Plaziak ET AL
+##NAMES=HP
+##CAS NAME=4N-Methylcytosine
+##MOLFORM=C5H7N3O
+##CAS REGISTRY NO=6220-47-9
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    51         20
+    52         60
+    53         50
+    54         80
+    55         90
+    56        120
+    57         40
+    66         50
+    67         50
+    68        220
+    69         80
+    71         20
+    81        140
+    82         50
+    83        170
+    84         30
+    95        100
+    96        160
+    97         60
+   109        100
+   110         20
+   112         30
+   124         90
+   125        999
+   126         80

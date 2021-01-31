@@ -1,0 +1,71 @@
+##TITLE=Library Entry 61097
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 48
+##NAMES=HP
+##CAS NAME=p-Xylene
+##MOLFORM=C8H10
+##CAS REGISTRY NO=106-42-3
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=865
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          1
+    18          2
+    26          3
+    27         34
+    28          8
+    29          1
+    32          2
+    37          4
+    38         11
+    39         79
+    40          7
+    41         12
+    43          1
+    49          4
+    50         39
+    51         85
+    52         33
+    53         27
+    54          1
+    55          2
+    57          2
+    61          7
+    62         15
+    63         46
+    64          9
+    65         55
+    66          7
+    67          1
+    69          1
+    73          2
+    74         12
+    75          8
+    76          8
+    77        118
+    78         57
+    79         70
+    80          4
+    83          1
+    85          1
+    86          4
+    87          4
+    89         18
+    90          7
+    91        999
+    92         74
+    93          2
+    97          1
+    98          1
+   101          2
+   102         10
+   103         58
+   104         28
+   105        288
+   106        658
+   107         57
+   108          1

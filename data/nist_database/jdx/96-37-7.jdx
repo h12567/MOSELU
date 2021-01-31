@@ -1,0 +1,60 @@
+##TITLE=Library Entry 22064
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1064
+##NAMES=HP
+##CAS NAME=Cyclopentane, methyl-
+##MOLFORM=C6H12
+##CAS REGISTRY NO=96-37-7
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=631
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          7
+    26         11
+    27         99
+    28          9
+    29         71
+    30          2
+    31          1
+    37          4
+    38         11
+    39        139
+    40         35
+    41        494
+    42        246
+    43        111
+    44          3
+    49          1
+    50         10
+    51         14
+    52          6
+    53         27
+    54         31
+    55        230
+    56        999
+    57         60
+    58          1
+    61          2
+    62          2
+    63          3
+    65          7
+    66          3
+    67         22
+    68         40
+    69        353
+    70         18
+    71          1
+    73          1
+    74          1
+    77          3
+    79          3
+    81          3
+    83          8
+    84        174
+    85         11
+    86          2

@@ -1,0 +1,66 @@
+##TITLE=Library Entry 22729
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. MITERA
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane, 2-methyl-
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=5261-65-4
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        149
+    28        149
+    29        119
+    30         50
+    31         40
+    38         10
+    39        129
+    40         30
+    41        218
+    42        416
+    43         50
+    44         40
+    45         20
+    50         10
+    51         20
+    52         20
+    53         60
+    54         80
+    55        218
+    56        999
+    57         89
+    58         20
+    59         20
+    65         20
+    66         10
+    67         40
+    68         79
+    69        149
+    70         69
+    71        109
+    72         10
+    74         20
+    79         10
+    80         20
+    81         30
+    82        149
+    83         89
+    84        168
+    93          5
+    94         15
+    95         20
+    96        317
+    97        139
+    98         20
+   108         10
+   110        515
+   111         50
+   124         99
+   125        356
+   126         40

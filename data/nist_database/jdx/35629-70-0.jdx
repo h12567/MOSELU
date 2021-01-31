@@ -1,0 +1,40 @@
+##TITLE=Library Entry 5028
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Amino-4-methyl-oxazole
+##MOLFORM=C4H6N2O
+##CAS REGISTRY NO=35629-70-0
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27        241
+    28        307
+    29        219
+    30         10
+    32         19
+    38          9
+    39         50
+    40         79
+    41        129
+    42        999
+    43        231
+    44         30
+    51          9
+    52         19
+    53         10
+    54         29
+    55         49
+    56          9
+    67         10
+    68          9
+    69         29
+    70        149
+    71         10
+    98        499
+    99         70

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 71464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=5-Heptyl-1H-[1,2,4]triazol-3-ylamine
+##MOLFORM=C9H18N4
+##CAS REGISTRY NO=20586-95-2
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    53          7
+    54         19
+    55         53
+    56         38
+    57         96
+    58         38
+    60         21
+    61          2
+    67         11
+    68          9
+    69         20
+    70          5
+    73         14
+    74          6
+    81          5
+    82          4
+    83          7
+    84          6
+    85          8
+    87          2
+    95          1
+    97         62
+    98        999
+    99         48
+   101          3
+   110         16
+   111        458
+   112        129
+   113          5
+   123          3
+   124          2
+   125         68
+   126         19
+   127          2
+   137          3
+   138          1
+   139         73
+   140         28
+   141          2
+   153        148
+   154         11
+   155          1
+   167         19
+   168          3
+   181         13
+   182        128
+   183         16

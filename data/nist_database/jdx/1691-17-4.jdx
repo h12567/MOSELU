@@ -1,0 +1,28 @@
+##TITLE=Library Entry 526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Thomas J.Bruno
+##NAMES=HP
+##CAS NAME=1,1,1',1'-Tetrafluorodimethyl ether
+##MOLFORM=C2H2F4O
+##CAS REGISTRY NO=1691-17-4
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    28        195
+    29        999
+    31        935
+    32        408
+    40         28
+    47        431
+    48        955
+    51        999
+    52        114
+    66         41
+    71        109
+    99         29
+   117         96

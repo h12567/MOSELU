@@ -1,0 +1,82 @@
+##TITLE=Library Entry 100338
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3981
+##NAMES=HP
+##CAS NAME=Benzene, 1,2,3,5-tetramethyl-
+##MOLFORM=C10H14
+##CAS REGISTRY NO=527-53-7
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=1117
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          1
+    27         23
+    28          3
+    29          5
+    37          1
+    38          5
+    39         49
+    40          6
+    41         46
+    42          2
+    50         10
+    51         32
+    52         10
+    53         23
+    54          1
+    55          5
+    57          6
+    58          5
+    59          1
+    61          2
+    62          6
+    63         17
+    64         11
+    65         37
+    66         13
+    67          6
+    74          4
+    75          5
+    76          3
+    77         56
+    78         16
+    79         26
+    80          2
+    86          1
+    87          2
+    89          6
+    90          2
+    91        110
+    92         11
+    93         12
+    94          2
+   101          1
+   102          6
+   103         27
+   104         18
+   105         31
+   106          6
+   107          2
+   114          1
+   115         42
+   116         16
+   117         55
+   118         19
+   119        999
+   120         99
+   121          4
+   127          2
+   128          4
+   129          3
+   130          1
+   131          6
+   132          6
+   133        100
+   134        570
+   135         61
+   136          3

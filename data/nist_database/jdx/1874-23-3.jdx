@@ -1,0 +1,91 @@
+##TITLE=Library Entry 89834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Nitro-2-furancarboxylic acid methyl ester
+##MOLFORM=C6H5NO5
+##CAS REGISTRY NO=1874-23-3
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          2
+    15        131
+    16          3
+    24          1
+    25         12
+    26         99
+    27         50
+    29         66
+    30        434
+    31         15
+    32          3
+    36         12
+    37        139
+    38        498
+    39        107
+    40         20
+    41         27
+    42          7
+    43         15
+    44         15
+    45          4
+    46         17
+    48          1
+    49          5
+    50         13
+    51         51
+    52        119
+    53        124
+    54        234
+    55         25
+    56          2
+    57          6
+    59        420
+    60          8
+    61          1
+    63          1
+    64          2
+    65         26
+    66        226
+    67         56
+    68        103
+    69         55
+    70          4
+    78          1
+    80        119
+    81         18
+    82        154
+    83         15
+    84          1
+    85        136
+    86          5
+    93         19
+    94         59
+    95         44
+    96        278
+    97         16
+    98          2
+   110          2
+   111          4
+   113        999
+   114         55
+   115          7
+   124         18
+   125          5
+   126          1
+   127          2
+   140        350
+   141         33
+   142          4
+   155         26
+   156          1
+   171        374
+   172         27
+   173          4

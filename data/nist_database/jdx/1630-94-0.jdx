@@ -1,0 +1,42 @@
+##TITLE=Library Entry 18962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1,1-dimethyl-
+##MOLFORM=C5H10
+##CAS REGISTRY NO=1630-94-0
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=459
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    15         50
+    26         50
+    27        245
+    28         29
+    29        219
+    30          5
+    37         27
+    38         67
+    39        438
+    40         78
+    41        338
+    42        267
+    43         23
+    49          9
+    50         45
+    51         48
+    52         18
+    53        142
+    54          9
+    55        999
+    56         48
+    62          6
+    63          6
+    65          6
+    67         17
+    70        420
+    71         22

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 48330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-Hydrazinyl-3-chloropyridine
+##MOLFORM=C5H6ClN3
+##CAS REGISTRY NO=22841-92-5
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         49
+    31         45
+    37         53
+    38        135
+    39        193
+    40         63
+    50         78
+    51        183
+    52        193
+    53        162
+    54         73
+    64         96
+    65         76
+    66         31
+    72         29
+    73         36
+    76         50
+    78        999
+    79        154
+    80         83
+    91         36
+    92         76
+    99         20
+   100        104
+   102         37
+   106        311
+   107         75
+   113         18
+   126         14
+   127         41
+   128         22
+   129         16
+   143        890
+   144         78
+   145        323
+   146         27

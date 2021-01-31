@@ -1,0 +1,64 @@
+##TITLE=Library Entry 65160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Benzene, 1,1'-[oxybis(methylene)]bis-
+##MOLFORM=C14H14O
+##CAS REGISTRY NO=103-50-4
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1650
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          3
+    17          1
+    18          3
+    26          3
+    27         19
+    28          3
+    29         11
+    32          3
+    37          3
+    38         13
+    39         88
+    40          8
+    41         21
+    42          1
+    44          0
+    50         32
+    51        100
+    52         24
+    53         11
+    61          2
+    62         11
+    63         49
+    64         18
+    65        222
+    66         13
+    74          7
+    75          6
+    77        151
+    78         29
+    79        172
+    80         13
+    86          1
+    87          1
+    89         43
+    91        919
+    92        999
+    93         74
+    94          3
+    99          3
+   105         26
+   107        140
+   108         13
+   119         10
+   120         12
+   128          1
+   152          4
+   165          7
+   166          3
+   167          3

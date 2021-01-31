@@ -1,0 +1,63 @@
+##TITLE=Library Entry 78415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,3-Pyridinedicarboxylic anhydride
+##MOLFORM=C7H3NO3
+##CAS REGISTRY NO=699-98-9
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    13          1
+    24          3
+    25          9
+    26         91
+    27          7
+    28         12
+    29          4
+    30          1
+    36         11
+    37         57
+    38        147
+    39         34
+    40          2
+    42          1
+    44         19
+    45          4
+    48         18
+    49        120
+    50        446
+    51        138
+    52         83
+    53         31
+    54          5
+    60          5
+    61          7
+    62          6
+    63          9
+    64          7
+    65          3
+    66          4
+    67          2
+    68          2
+    74         17
+    75        109
+    76        216
+    77        945
+    78         65
+    79          2
+    91          1
+   102          2
+   103          1
+   104          8
+   105        999
+   106         67
+   107          5
+   149         79
+   150          6
+   151          1

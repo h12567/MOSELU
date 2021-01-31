@@ -1,0 +1,63 @@
+##TITLE=Library Entry 7632
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-(2-Bromophenyl)-5-(4-heptylcinnamamido)-1,3,4-thiadiazole
+##MOLFORM=C24H26BrN3OS
+##CAS REGISTRY NO=304448-82-6
+##MP= -300
+##BP= -300
+##MW= 483
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    33        399
+    36         20
+    39        170
+    40        206
+    41        460
+    43        999
+    50         58
+    51         49
+    52         17
+    53         22
+    55        144
+    57        522
+    62         25
+    63         33
+    65         26
+    69         37
+    71         17
+    74         42
+    75         51
+    76         51
+    77         56
+    79         29
+    80         37
+    81         21
+    82         31
+    89         38
+    90         26
+    91         63
+    93         19
+   102         72
+   103         86
+   106         18
+   115        359
+   116        133
+   117         73
+   120         91
+   127         28
+   128         63
+   129         50
+   131        281
+   132         22
+   143         37
+   144        100
+   157         31
+   199         41
+   201         43
+   229        457
+   231         76

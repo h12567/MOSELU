@@ -1,0 +1,40 @@
+##TITLE=Library Entry 22522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Furan, 3-butyltetrahydro-2-methyl-, trans-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=36712-20-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        630
+    42        520
+    43        450
+    45        160
+    53         10
+    54         50
+    55        890
+    56        999
+    57        240
+    58         10
+    67         20
+    68         70
+    69        400
+    70        920
+    71         40
+    83         50
+    85        100
+    96         10
+    97         10
+    98        110
+   127        320
+   139         10
+   140         10
+   141         10

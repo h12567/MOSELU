@@ -1,0 +1,56 @@
+##TITLE=Library Entry 27551
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,3,5,7-Tetraethyl-1,3,5,7-tetrabutoxycyclotetrasiloxane
+##MOLFORM=C24H56O8Si4
+##CAS REGISTRY NO=110991-13-4
+##MP= -300
+##BP= -300
+##MW= 584
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    29        350
+    41        374
+    42         49
+    43         15
+    57        999
+    58         45
+    73         77
+   301         50
+   302         23
+   303          9
+   304          5
+   313        999
+   314        348
+   315        114
+   316         75
+   317         11
+   325        546
+   326        243
+   327        160
+   331        131
+   332         57
+   333         58
+   334         15
+   343         21
+   344         10
+   345          5
+   381         34
+   382         10
+   409         50
+   410         16
+   425        112
+   426         69
+   427         24
+   469         31
+   470          9
+   511        118
+   512         34
+   513          9
+   555         46
+   556         10
+   557          5

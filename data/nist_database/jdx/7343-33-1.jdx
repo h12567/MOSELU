@@ -1,0 +1,50 @@
+##TITLE=Library Entry 5262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 3-bromo-
+##MOLFORM=C2H2BrN3
+##CAS REGISTRY NO=7343-33-1
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    36          5
+    38        246
+    39        286
+    40        252
+    41        407
+    42        999
+    43         49
+    45          7
+    53         26
+    55          6
+    67         17
+    68         28
+    79        466
+    80         49
+    81        450
+    82         52
+    91        224
+    92         70
+    93        223
+    94         56
+    95          3
+   105         16
+   106         52
+   107         15
+   108         49
+   118         25
+   119         95
+   120        335
+   121         95
+   122        332
+   146          6
+   147        899
+   148         34
+   149        892
+   150         30

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 90577
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Humboldt-Universitat zu Berlin, Department of Chemistry
+, Analytical Group
+##NAMES=HP
+##CAS NAME=5'-Brom-uridine
+##MOLFORM=C9H11BrN2O5
+##CAS REGISTRY NO=19556-55-9
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15        270
+    26        156
+    27        260
+    28        217
+    29        322
+    31        333
+    39        229
+    40        177
+    41        968
+    42        312
+    43        395
+    44        166
+    45        229
+    55        229
+    57        895
+    60        135
+    68        166
+    69        843
+    70        437
+    73        677
+    87        677
+    96        156
+    98        375
+   112        260
+   113        999
+   124         72
+   125         31
+   135        125
+   137        125
+   141        979
+   151         62
+   154         10
+   155        114
+   171        416
+   195        427
+   197        427
+   209        114
+   227         83
+   271         52
+   273         52
+   288        114
+   290        114
+   306         31
+   308         31

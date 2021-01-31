@@ -1,0 +1,54 @@
+##TITLE=Library Entry 53678
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4(3H,5H)-Furandione, 3-acetyl-5,5-dimethyl-
+##MOLFORM=C8H10O4
+##CAS REGISTRY NO=22884-84-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    26         30
+    27         80
+    28        170
+    29         50
+    31         40
+    37         20
+    38         30
+    39        170
+    40         50
+    41        110
+    42         90
+    43        870
+    44         20
+    45         10
+    51         10
+    53         20
+    54         10
+    55         60
+    56         30
+    58         20
+    59        580
+    60         20
+    66         20
+    67         40
+    68         20
+    69        300
+    70         10
+    84        999
+    85        480
+    86         30
+    87         20
+   112         10
+   113         20
+   127         30
+   142        160
+   143         20
+   155         30
+   170        260
+   171         40

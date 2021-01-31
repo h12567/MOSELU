@@ -1,0 +1,51 @@
+##TITLE=Library Entry 81303
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-(methylamino)-, 2-methylpropyl ester
+##MOLFORM=C12H17NO2
+##CAS REGISTRY NO=65505-24-0
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=1617
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    28          7
+    29        104
+    30        104
+    41         86
+    43          7
+    57         64
+    73         39
+    77        112
+    78        123
+    79         85
+    83        173
+    85          7
+    91         32
+    92         19
+   100          7
+   103        144
+   104        409
+   105        999
+   106        284
+   107         29
+   110        162
+   116         29
+   117        183
+   118         19
+   120          7
+   123          7
+   132        313
+   133        591
+   134        439
+   135         49
+   149          7
+   150         39
+   151        819
+   152         85
+   207        599
+   208         86

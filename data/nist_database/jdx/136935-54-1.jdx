@@ -1,0 +1,59 @@
+##TITLE=Library Entry 30262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=1-Dimethylethylsilyl-3-(dimethyl-n-pentylsilyl)propane
+##MOLFORM=C14H34Si2
+##CAS REGISTRY NO=136935-54-1
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    40         20
+    41         13
+    42         12
+    43        134
+    44         27
+    45         87
+    55         27
+    56          7
+    57         20
+    58         67
+    59        999
+    60         94
+    61         40
+    71         34
+    72         87
+    73        443
+    74         40
+    75         27
+    85         94
+    86         67
+    87        510
+    88         65
+    89         20
+    99        225
+   100         67
+   101         34
+   113        127
+   114         54
+   115         47
+   117         13
+   128         20
+   129        470
+   130         60
+   131         27
+   143         67
+   145         13
+   187        188
+   188         40
+   189         13
+   229         94
+   230         20
+   243         11
+   258          3
+   259          1

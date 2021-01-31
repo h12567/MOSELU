@@ -1,0 +1,30 @@
+##TITLE=Library Entry 47905
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(8)606(1975); A. SELVA
+##NAMES=HP
+##CAS NAME=3,5-Pyrazolidinedione, 1,2-diphenyl-4-propylidene-
+##MOLFORM=C18H16N2O2
+##CAS REGISTRY NO=2810-68-6
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        100
+    43        100
+    51        180
+    64         80
+    77        999
+    91        100
+    93        400
+   105        130
+   119        180
+   143        120
+   144        150
+   172        160
+   183        100
+   200        270
+   292        510

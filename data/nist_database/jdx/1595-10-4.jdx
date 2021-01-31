@@ -1,0 +1,44 @@
+##TITLE=Library Entry 80717
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1-Methyl-2-n-hexylbenzene
+##MOLFORM=C13H20
+##CAS REGISTRY NO=1595-10-4
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=1332
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    51         16
+    53         16
+    55         21
+    63         19
+    65         31
+    77         77
+    78         28
+    79         64
+    80         10
+    89         17
+    90         12
+    91        140
+    92        107
+    93         11
+   103         55
+   104         46
+   105        999
+   106        331
+   107         31
+   115         30
+   116         18
+   117         23
+   118         16
+   119         44
+   120         15
+   131         14
+   133         19
+   176        250
+   177         47

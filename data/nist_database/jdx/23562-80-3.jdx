@@ -1,0 +1,57 @@
+##TITLE=Library Entry 56870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Phenol, 2-[(dibutylamino)methyl]-4-methoxy-
+##MOLFORM=C16H27NO2
+##CAS REGISTRY NO=23562-80-3
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         21
+    42         16
+    43        129
+    50          7
+    51         14
+    52          8
+    53          9
+    54          6
+    55         19
+    56         15
+    57         63
+    65         53
+    66         12
+    67          6
+    70         10
+    72         17
+    77         23
+    78         45
+    79         25
+    83          6
+    84         15
+    86        999
+    87         57
+    90         39
+    93          6
+    94         10
+   100         17
+   107          7
+   108         37
+   109         12
+   111         10
+   128         58
+   129         42
+   136        168
+   137        311
+   138         33
+   208          9
+   222        388
+   223         57
+   265        225
+   266         41

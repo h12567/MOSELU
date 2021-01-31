@@ -1,0 +1,56 @@
+##TITLE=Library Entry 28604
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Benzenemethanol, .alpha.-[1-(methylamino)ethyl]-, [S-(R*,S*)]-
+##MOLFORM=C10H15NO
+##CAS REGISTRY NO=321-98-2
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         12
+    29          9
+    30         47
+    38          6
+    39         17
+    42        100
+    50         48
+    51         64
+    52         29
+    53          5
+    54          6
+    56         89
+    57         46
+    58        999
+    59         38
+    61          2
+    62          4
+    63         11
+    65          5
+    70          1
+    74         17
+    75          2
+    76          9
+    77        297
+    78         37
+    79         27
+    89          3
+    91         10
+   103          4
+   104          1
+   105        253
+   106        240
+   107         21
+   115          3
+   117         12
+   118          4
+   130          4
+   131          5
+   132          6
+   146         14

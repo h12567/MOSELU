@@ -1,0 +1,49 @@
+##TITLE=Library Entry 1692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Furanmethanol, 5-nitro-
+##MOLFORM=C5H5NO4
+##CAS REGISTRY NO=2493-04-1
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    37        183
+    39        999
+    41        777
+    42        100
+    43         46
+    44          9
+    46         35
+    49         16
+    50        178
+    51        217
+    52        234
+    53         59
+    54         51
+    55         60
+    57        137
+    58          5
+    66         26
+    69        700
+    70         20
+    80        117
+    81          9
+    82          9
+    83          9
+    84         23
+    85         38
+    96        155
+    97        102
+    98         27
+   114         96
+   125          4
+   126         10
+   127          7
+   143        222
+   144         12

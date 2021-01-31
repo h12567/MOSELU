@@ -1,0 +1,47 @@
+##TITLE=Library Entry 51961
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=Acetoxy-(3-aminopropyl)butylborane
+##MOLFORM=C9H20BNO2
+##CAS REGISTRY NO=5674-76-0
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    29        409
+    30         79
+    31        129
+    37         99
+    38         69
+    39        519
+    41        859
+    42        939
+    43        889
+    45        569
+    51         79
+    53        109
+    54        149
+    55        399
+    56        339
+    57         69
+    60        119
+    65        129
+    66        219
+    67        269
+    68        659
+    69        119
+    70         59
+    82        269
+    83        999
+    84         59
+    94         59
+    95         99
+    96        239
+    97        109
+   125        239

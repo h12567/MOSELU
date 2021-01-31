@@ -1,0 +1,30 @@
+##TITLE=Library Entry 27904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.M. ORTUNO, DEP. QUIM. ORG., BARCELONA UNIV., SPAIN
+##NAMES=HP
+##CAS NAME=(-)-3,4-Di-O-methyl-2-deoxy-D-ribono-1,5-lactone
+##MOLFORM=C7H12O4
+##CAS REGISTRY NO=85921-57-9
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29        750
+    30        190
+    31        270
+    39        250
+    42        310
+    43        800
+    45        690
+    55        300
+    58        999
+    59        240
+    83        320
+    98        380
+   101        250
+   129        190
+   130        100

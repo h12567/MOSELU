@@ -1,0 +1,57 @@
+##TITLE=Library Entry 19794
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Chloromethyl)cyclopropane
+##MOLFORM=C4H7Cl
+##CAS REGISTRY NO=5911-08-0
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          3
+    25          5
+    26         51
+    27        168
+    28         19
+    29         92
+    30          2
+    35          7
+    36          7
+    37         29
+    38         44
+    39        295
+    40         22
+    41        173
+    42          6
+    47          4
+    48          6
+    49         53
+    50         66
+    51         78
+    52         19
+    53        147
+    54        300
+    55        999
+    56         51
+    60          4
+    61         14
+    62        251
+    63         14
+    64         78
+    65          3
+    72          1
+    73          9
+    74          1
+    75         73
+    76          2
+    77         23
+    89          2
+    90         19
+    91          1
+    92          6

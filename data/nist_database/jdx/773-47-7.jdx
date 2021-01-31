@@ -1,0 +1,94 @@
+##TITLE=Library Entry 60869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=Phosphonic acid, (phenylmethyl)-, dimethyl ester
+##MOLFORM=C9H13O3P
+##CAS REGISTRY NO=773-47-7
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=1530
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 79
+##XYDATA=(XY..XY) 1 
+    15         27
+    26          1
+    27          3
+    28          2
+    29         10
+    30          2
+    31          8
+    33          1
+    37          1
+    38          7
+    39         61
+    40          6
+    41         15
+    45          3
+    47         29
+    48          4
+    49          4
+    50         12
+    51         33
+    52          9
+    53          2
+    57          1
+    61          2
+    62         16
+    63         65
+    64         16
+    65        170
+    66          9
+    69          1
+    74          2
+    75          2
+    76          3
+    77         21
+    78         11
+    79        117
+    80          3
+    81          1
+    83          1
+    86          3
+    87          2
+    89         65
+    91        999
+    92        130
+    93         35
+    94         11
+    95          3
+    96          3
+   102          1
+   104        398
+   105        221
+   106         22
+   107         24
+   109        168
+   110          4
+   111          1
+   118         66
+   119         21
+   120          2
+   121          6
+   136          2
+   137          2
+   140          1
+   150          1
+   153         26
+   154          2
+   155          5
+   156          1
+   167          5
+   168         27
+   169          5
+   181          1
+   182          3
+   183          1
+   185         21
+   186          1
+   199         33
+   200        237
+   201         23
+   202          2

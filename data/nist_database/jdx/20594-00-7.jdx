@@ -1,0 +1,63 @@
+##TITLE=Library Entry 89701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AV39-433-1F
+##NAMES=HP
+##CAS NAME=Cytidine, 3'-O-methyl-
+##MOLFORM=C10H15N3O5
+##CAS REGISTRY NO=20594-00-7
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27         25
+    29         71
+    31         71
+    33         37
+    39         20
+    40         20
+    41         60
+    42         51
+    43         43
+    45         48
+    52         25
+    53         14
+    54         14
+    55         23
+    56         23
+    57         51
+    58          8
+    59         23
+    67         20
+    68         57
+    69         80
+    70         28
+    71         77
+    73          8
+    75         23
+    79          8
+    81          8
+    83         23
+    84         20
+    85         40
+    87        114
+    94         31
+    95         48
+    96         28
+    97         20
+    99          8
+   111        126
+   112        999
+   113         51
+   140        238
+   141         14
+   151         74
+   152         14
+   154         51
+   170        235
+   171          8
+   178         28
+   196         20

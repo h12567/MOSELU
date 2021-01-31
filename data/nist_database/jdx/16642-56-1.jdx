@@ -1,0 +1,44 @@
+##TITLE=Library Entry 68216
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. J. TODD
+##NAMES=HP
+##CAS NAME=1-Cycloheptene-1-acetic acid, .alpha.,.alpha.-dimethyl-
+##MOLFORM=C11H18O2
+##CAS REGISTRY NO=16642-56-1
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        152
+    28         98
+    29         89
+    39        256
+    41        386
+    43         92
+    44         65
+    51         69
+    53        166
+    55        276
+    65         96
+    67        469
+    69        207
+    77        193
+    79        248
+    81        690
+    88        290
+    91        166
+    93        221
+    95        999
+   105         55
+   107         69
+   109         55
+   121         97
+   123        103
+   137        228
+   149         83
+   167        641
+   182        172

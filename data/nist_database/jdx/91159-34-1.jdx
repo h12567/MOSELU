@@ -1,0 +1,39 @@
+##TITLE=Library Entry 17076
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethane, 1-(2-chloroethyl)thio-2-methoxy-
+##MOLFORM=C5H11ClOS
+##CAS REGISTRY NO=91159-34-1
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    25        218
+    26         99
+    27        240
+    29         89
+    30         62
+    31         39
+    43        132
+    45        999
+    46         87
+    47        105
+    58        669
+    59        151
+    60        157
+    61         73
+    62         70
+    63        165
+    69         53
+    72        133
+    73        140
+    75         76
+    87         60
+   109        198
+   111         77
+   118        348

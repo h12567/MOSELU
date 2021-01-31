@@ -1,0 +1,85 @@
+##TITLE=Library Entry 98147
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,5-Dimethylbenzyl cyanide
+##MOLFORM=C10H11N
+##CAS REGISTRY NO=16213-85-7
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    18          1
+    26          6
+    27         52
+    28         14
+    37         13
+    38         37
+    39        184
+    40         30
+    41         23
+    46          1
+    50         86
+    51        168
+    52         63
+    53         39
+    54          4
+    58         51
+    61         14
+    62         42
+    63         99
+    64         39
+    65         87
+    66         12
+    67          2
+    71          7
+    72         18
+    73          7
+    75         36
+    76         44
+    77        196
+    78         74
+    79         83
+    80          6
+    85          4
+    86          8
+    87         14
+    88         10
+    89         55
+    90         23
+    91        108
+    92         14
+    93          2
+    97          1
+    98          4
+    99          3
+   100          3
+   101         16
+   102         60
+   103        220
+   105        494
+   106         41
+   107          2
+   113          5
+   115        146
+   116         54
+   117        304
+   118        999
+   119        104
+   120          5
+   127          7
+   128         18
+   130        252
+   131         28
+   140          7
+   141          3
+   142         13
+   143         18
+   144         82
+   145        473
+   146         55
+   147          3

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 19630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 4-chlorododecanoate
+##MOLFORM=C13H24Cl2O2
+##CAS REGISTRY NO=80419-00-7
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=1861
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    36        118
+    39        139
+    41        767
+    42        231
+    43        810
+    49         79
+    53         99
+    54        187
+    55        999
+    56        371
+    57        459
+    67        328
+    68        279
+    69        499
+    70        247
+    71        160
+    72        387
+    73         60
+    79        100
+    81        357
+    82        249
+    83        587
+    84        299
+    85        536
+    93         40
+    94         49
+    95        228
+    96        489
+    97        417
+    98        270
+    99         40
+   108        647
+   109        190
+   110         99
+   111        119
+   112         39
+   119         90
+   121        169
+   123        130
+   124         40
+   136         99
+   137         69
+   138        249
+   139         78
+   162         69
+   163         90
+   180         69
+   181        119
+   217         40

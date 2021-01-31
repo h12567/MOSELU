@@ -1,0 +1,74 @@
+##TITLE=Library Entry 41008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Humboldt-Universitat zu Berlin, Department of Chemistry
+, Analytical Group
+##NAMES=HP
+##CAS NAME=5-Fluoro-1-(.beta.-d-xylofuranosyl)-uracil
+##MOLFORM=C9H11FN2O6
+##CAS REGISTRY NO=3803-28-9
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    19        120
+    27        184
+    28        155
+    29        324
+    31        507
+    39         93
+    40         67
+    41        275
+    42        124
+    43        390
+    44        317
+    45        422
+    55        188
+    56        100
+    57        746
+    58        182
+    59        159
+    60        332
+    61        306
+    68         58
+    69        240
+    70         98
+    71        448
+    72        101
+    73        999
+    74        215
+    82         17
+    85        375
+    86        187
+    87        466
+    88        137
+    97        246
+    98         32
+   100         68
+   101         84
+   102         60
+   103         48
+   105         75
+   114        186
+   115        485
+   130        558
+   131        453
+   133        590
+   143         27
+   155         34
+   156         21
+   159         19
+   160          4
+   173         53
+   182         20
+   185         16
+   187         11
+   189         11
+   203          6
+   213         24
+   231          4
+   244         17
+   262         40

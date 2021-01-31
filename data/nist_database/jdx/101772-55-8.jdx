@@ -1,0 +1,33 @@
+##TITLE=Library Entry 55230
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.K. CARTLEDGE, DEP. CHEM., LA. STATE UNIV., BATON ROUG
+E, USA
+##NAMES=HP
+##CAS NAME=cis-1,1,2,6-Tetramethylsilacyclohexane
+##MOLFORM=C9H20Si
+##CAS REGISTRY NO=101772-55-8
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    58        120
+    59        390
+    72        180
+    73        390
+    81        230
+    85        999
+    86        830
+    87        180
+    97        120
+    99        640
+   100        650
+   101        200
+   113        360
+   114        610
+   115        120
+   141        230
+   156        530

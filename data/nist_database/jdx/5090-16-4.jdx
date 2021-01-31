@@ -1,0 +1,78 @@
+##TITLE=Library Entry 19622
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Hepten-2-one, 5-methyl-
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=5090-16-4
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    15         20
+    26         20
+    27        140
+    28         55
+    29         91
+    37          7
+    38         27
+    39        249
+    40         49
+    41        390
+    42          7
+    43        944
+    44         35
+    45          8
+    49          4
+    50         44
+    51         73
+    52         32
+    53        153
+    54          4
+    55        999
+    56         89
+    57         19
+    58         36
+    59          4
+    62          8
+    63         15
+    64          4
+    65         37
+    66         16
+    67        106
+    68         45
+    69        260
+    70         17
+    71         50
+    72          4
+    73          4
+    74          4
+    77         41
+    78          7
+    79         50
+    80          7
+    81         56
+    82         51
+    83        212
+    84         32
+    85          4
+    91         25
+    93         59
+    94          7
+    95         19
+    96          4
+    97        249
+    98         20
+   105          2
+   106          2
+   108        105
+   109         33
+   111        313
+   112         23
+   124          8
+   126        124
+   127         11

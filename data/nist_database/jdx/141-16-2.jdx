@@ -1,0 +1,67 @@
+##TITLE=Library Entry 3347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTRA OF ORGANIC COMPOUNDS, V. 5, B. H. KENNETT
+ ET AL, DIV. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Citronellyl butyrate
+##MOLFORM=C14H26O2
+##CAS REGISTRY NO=141-16-2
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1530
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        250
+    29        190
+    31         20
+    39        170
+    40         60
+    41        999
+    42        150
+    43        760
+    45         10
+    51         10
+    53        110
+    54         50
+    55        460
+    56        140
+    57        140
+    60         10
+    65         10
+    66         20
+    67        420
+    68        350
+    69        800
+    70        110
+    71        480
+    72         30
+    73         10
+    77         20
+    79         40
+    80         60
+    81        740
+    82        560
+    83        160
+    84         10
+    85         10
+    89         60
+    91         20
+    93         20
+    94         40
+    95        600
+    96        150
+    97         20
+    99         10
+   109        220
+   110         60
+   111         10
+   121         10
+   123        410
+   124         40
+   137         20
+   138        200
+   139         30

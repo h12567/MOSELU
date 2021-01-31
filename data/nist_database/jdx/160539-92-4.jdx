@@ -1,0 +1,68 @@
+##TITLE=Library Entry 85345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Pyrimidine, 2-[4-(3-pyridinylmethyl)-1-piperazinyl]-
+##MOLFORM=C14H17N5
+##CAS REGISTRY NO=160539-92-4
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    39        255
+    40        128
+    41         78
+    42        238
+    43         92
+    44          3
+    51          2
+    52         14
+    53        137
+    54        105
+    55         72
+    56        375
+    57        163
+    65        286
+    66        120
+    68          3
+    69          3
+    79         99
+    80        223
+    81        103
+    92        284
+    93        851
+    94        299
+    95         20
+    96          3
+   106         54
+   107          5
+   108        999
+   109        356
+   118          7
+   119        298
+   120        343
+   121        281
+   122        174
+   123         53
+   131          0
+   132         43
+   133        294
+   134        356
+   135        896
+   136        495
+   137         70
+   146          1
+   147        902
+   148        375
+   149         55
+   160        182
+   161         44
+   162         59
+   163        951
+   164        277
+   255        118
+   256         41

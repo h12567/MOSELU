@@ -1,0 +1,73 @@
+##TITLE=Library Entry 57443
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethyl hydrogen malonate
+##MOLFORM=C5H8O4
+##CAS REGISTRY NO=1071-46-1
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          6
+    14         36
+    15         83
+    16          3
+    17          2
+    18          3
+    19         12
+    25          3
+    26         36
+    27        185
+    28         19
+    29        412
+    30         16
+    31        107
+    35          1
+    36          2
+    38          1
+    39          1
+    40          4
+    41         35
+    42        351
+    43        525
+    44         64
+    45        299
+    46         13
+    47          3
+    55         18
+    56          1
+    57          1
+    58          3
+    59         13
+    60        314
+    61         70
+    62          2
+    63          1
+    69         43
+    70         28
+    71          4
+    72          1
+    73         10
+    74          1
+    75          2
+    85          1
+    86         57
+    87        999
+    88         83
+    89         13
+   104         43
+   105        582
+   106         23
+   107          5
+   114         41
+   115         10
+   117         11
+   131          1
+   132          7
+   133          1

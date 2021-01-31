@@ -1,0 +1,37 @@
+##TITLE=Library Entry 90709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.M.ACHESON DEPT. BIOCHEM., OXFORD UNIV., OXFORD, UK
+##NAMES=HP
+##CAS NAME=Benzo[f]cyclopenta[a]quinolizine-6,7,7a,8,9,10(8H)-hexacarboxylic
+ acid, 6,7-dihydro-4-methyl-, hexamethyl ester
+##MOLFORM=C29H29NO12
+##CAS REGISTRY NO=49679-09-6
+##MP= -300
+##BP= -300
+##MW= 583
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    59        150
+    85        250
+   101         25
+   113        999
+   114        175
+   202        140
+   258         80
+   288        120
+   302         50
+   316        225
+   320        240
+   348        650
+   364         35
+   376         85
+   380        150
+   408         90
+   439        999
+   524         70
+   552         60
+   568        210
+   583         75

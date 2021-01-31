@@ -1,0 +1,43 @@
+##TITLE=Library Entry 48339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Rasala, Inst. Chem., Pedagogical Univ., Kielce, Pola
+nd
+##NAMES=HP
+##CAS NAME=2-Pyridinecarboxylic acid, 3-nitro-, methyl ester
+##MOLFORM=C7H6N2O4
+##CAS REGISTRY NO=103698-08-4
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    50        430
+    51        290
+    52        290
+    53        400
+    59        210
+    64         70
+    65        250
+    66        110
+    75         70
+    76        230
+    77        310
+    78        999
+    79         60
+    80         30
+    92         60
+    93        210
+    94        160
+   108        450
+   122         60
+   123         50
+   135         20
+   136         30
+   151        730
+   152         70
+   153         30
+   166          3
+   182         60

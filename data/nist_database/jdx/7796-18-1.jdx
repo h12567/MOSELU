@@ -1,0 +1,40 @@
+##TITLE=Library Entry 72457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,6-Hentriacontanediol
+##MOLFORM=C31H64O2
+##CAS REGISTRY NO=7796-18-1
+##MP= -300
+##BP= -300
+##MW= 468
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    64        164
+    65        175
+    66        131
+    76        180
+    77        162
+    79         17
+    80         65
+    98        274
+    99        999
+   101         98
+   115         30
+   116         33
+   117        868
+   119         65
+   121         13
+   379         54
+   380         22
+   381        241
+   432         65
+   433         22
+   434         22
+   448         11
+   449         11
+   450         52
+   451         22

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 77798
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Methetoin
+##MOLFORM=C12H14N2O2
+##CAS REGISTRY NO=5696-06-0
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    50         68
+    51        203
+    56         93
+    58         65
+    65         32
+    76         63
+    77        374
+    78         44
+    89         18
+    91         55
+   103         83
+   104        999
+   105         98
+   115         45
+   116         12
+   117         29
+   130          6
+   132         56
+   133          7
+   142          4
+   146          3
+   159          1
+   160          7
+   161          6
+   174          1
+   175          0
+   189        819
+   190         94
+   191          8
+   218         23
+   219          3

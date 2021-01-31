@@ -1,0 +1,50 @@
+##TITLE=Library Entry 41457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3'-O-tert-butyldimethylsilyl-thymidine
+##MOLFORM=C16H28N2O5Si
+##CAS REGISTRY NO=40733-27-5
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=2587
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    59        137
+    69        222
+    73        999
+    74        112
+    75        889
+    76         83
+    81        263
+    89        110
+    99        473
+   101        182
+   103         92
+   105        111
+   115        332
+   116         82
+   117        503
+   126        140
+   127        613
+   129        251
+   131        261
+   143        194
+   145        110
+   147        417
+   153        723
+   155        140
+   171         71
+   173        332
+   183        166
+   187        221
+   201        417
+   202         72
+   213         56
+   231        417
+   232         82
+   299        250
+   300         55

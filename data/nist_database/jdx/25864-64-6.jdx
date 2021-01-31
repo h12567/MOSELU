@@ -1,0 +1,75 @@
+##TITLE=Library Entry 13766
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.WOLINSKY DEPT. CHEM., PURDUE UNIV., LAFAYETTE, IND.,
+ USA
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]oct-2-ene-2,3-dicarboxylic acid, 1-hydroxy-8,8-dime
+thyl-5-oxo-, dimethyl ester, acetate
+##MOLFORM=C16H20O7
+##CAS REGISTRY NO=25864-64-6
+##MP= -300
+##BP= -300
+##MW= 324
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41        100
+    43        999
+    55         70
+    57        160
+    77        190
+    79        140
+    91        250
+    93        110
+   105        120
+   107        110
+   117        100
+   119        140
+   133        100
+   135         60
+   137        100
+   145         80
+   146         70
+   147        100
+   148         50
+   149        150
+   161         80
+   163        170
+   165         80
+   175        270
+   176        170
+   177        210
+   189        100
+   190        110
+   191        270
+   193        600
+   194        390
+   195        150
+   203        390
+   204        140
+   205        160
+   206        390
+   207         80
+   208        810
+   209        200
+   217        900
+   218        160
+   219        260
+   221        330
+   226        100
+   232        180
+   233        110
+   235        830
+   236        150
+   240         80
+   249        790
+   250        530
+   251        160
+   264        520
+   265         80
+   267         40
+   277         40
+   293        220
+   294         35

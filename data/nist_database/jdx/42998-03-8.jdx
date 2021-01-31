@@ -1,0 +1,88 @@
+##TITLE=Library Entry 1548
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanoic acid, 3-hydroxy-2-methyl-, methyl ester
+##MOLFORM=C5H10O3
+##CAS REGISTRY NO=42998-03-8
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=860
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    23          0
+    25          2
+    26         53
+    27        214
+    28         88
+    29        284
+    30         27
+    31        999
+    33         60
+    34          1
+    36          0
+    37          2
+    38          7
+    39         68
+    40         21
+    41        250
+    42         60
+    43         47
+    44          5
+    45         66
+    46          0
+    47          2
+    50          0
+    51          0
+    52          0
+    53          6
+    54          2
+    55        192
+    56        404
+    57        655
+    58         66
+    59        403
+    60         26
+    61         22
+    62          0
+    63          0
+    67          0
+    68         13
+    69        113
+    70          6
+    71         47
+    72          2
+    73          2
+    74          0
+    75          0
+    77         10
+    78          1
+    81          0
+    82          0
+    83          1
+    84          0
+    85         65
+    86         11
+    87        332
+    88        831
+    89         34
+    90          4
+    91          0
+    99          2
+   100         56
+   101          6
+   103         36
+   104          2
+   105          0
+   107          0
+   108          0
+   114          0
+   115          1
+   117          1
+   118          0
+   119          4
+   120          0
+   121          0

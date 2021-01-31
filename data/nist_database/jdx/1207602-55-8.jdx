@@ -1,0 +1,57 @@
+##TITLE=Library Entry 7549
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-(3-Aminopiperidin-1-yl)ethanone
+##MOLFORM=C7H14N2O
+##CAS REGISTRY NO=1207602-55-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    33          2
+    36          4
+    37          2
+    38         12
+    39         50
+    40         28
+    41        141
+    42        303
+    43        999
+    44        440
+    45         36
+    53          8
+    54         34
+    55         48
+    56        576
+    57        262
+    58         48
+    67          8
+    68         56
+    69        555
+    70        350
+    71         47
+    72         20
+    73          6
+    74         25
+    80          6
+    82        104
+    83        140
+    84         22
+    85          5
+    86         30
+    87         27
+    97          5
+    99         24
+   100         14
+   109          5
+   113         19
+   125        132
+   126         13
+   142        249
+   143         26
+   144          2

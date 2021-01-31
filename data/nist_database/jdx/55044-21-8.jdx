@@ -1,0 +1,40 @@
+##TITLE=Library Entry 36319
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.A.SINGER UNIV. OF CHICAGO, ILL, USA
+##NAMES=HP
+##CAS NAME=Propanenitrile, 2-[(2,2-dimethyl-4,4-diphenyl-3-oxetanylidene)ami
+no]-2-methyl-
+##MOLFORM=C21H22N2O
+##CAS REGISTRY NO=55044-21-8
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    68        167
+    69        999
+    70         60
+    77        178
+   105        213
+   109         83
+   136        465
+   137         48
+   152         24
+   163         24
+   165        214
+   166        131
+   167         24
+   182         36
+   183         48
+   190         60
+   191         36
+   192         83
+   193         60
+   219         24
+   224         24
+   260         36
+   275         48
+   318         12

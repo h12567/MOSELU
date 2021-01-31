@@ -1,0 +1,40 @@
+##TITLE=Library Entry 87384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pregn-17(20)-en-3-one, 20,21-[(methylborylene)bis(oxy)]-, (5.alph
+a.)-
+##MOLFORM=C22H33BO3
+##CAS REGISTRY NO=31012-60-9
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    53         40
+    55        100
+    67         70
+    68         30
+    69         30
+    77         40
+    79         60
+    81         80
+    91         60
+    93         50
+    95         40
+    97         30
+   105         40
+   107         30
+   109        270
+   110        999
+   111        100
+   119         30
+   121         30
+   123         50
+   124        110
+   355         40
+   356        140
+   357         30

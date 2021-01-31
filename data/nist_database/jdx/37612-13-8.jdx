@@ -1,0 +1,54 @@
+##TITLE=Library Entry 71579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Encainide
+##MOLFORM=C22H28N2O2
+##CAS REGISTRY NO=37612-13-8
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    42         28
+    44         16
+    55          8
+    70         72
+    77         43
+    82          8
+    92         23
+    96         15
+    97         42
+    98        999
+    99         78
+   106         13
+   107         19
+   111         16
+   112         24
+   118          4
+   130         10
+   132         14
+   135        118
+   136          9
+   146          1
+   159          0
+   162          0
+   176          0
+   180          0
+   184          0
+   186          1
+   189          0
+   200          0
+   208          0
+   210          0
+   215          0
+   236          0
+   238          0
+   281          0
+   337          3
+   338          0
+   352         10
+   353          2

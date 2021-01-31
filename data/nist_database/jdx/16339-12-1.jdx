@@ -1,0 +1,30 @@
+##TITLE=Library Entry 1118
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Methanamine, N-methoxy-N-nitroso-
+##MOLFORM=C2H6N2O2
+##CAS REGISTRY NO=16339-12-1
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    30        999
+    31        153
+    32         31
+    33        157
+    41         16
+    42         24
+    43         32
+    44         61
+    45        327
+    49         11
+    58         11
+    59        124
+    60        589
+    61         23

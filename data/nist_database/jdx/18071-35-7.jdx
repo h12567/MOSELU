@@ -1,0 +1,64 @@
+##TITLE=Library Entry 4830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=di-n-Propylaminoacetonitrile
+##MOLFORM=C8H16N2
+##CAS REGISTRY NO=18071-35-7
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         78
+    16          1
+    27        366
+    28        125
+    29         58
+    30         53
+    37          8
+    39        181
+    40        127
+    41        529
+    42        999
+    43        455
+    44         18
+    50          1
+    51          2
+    52          8
+    53          8
+    54         31
+    55         20
+    56         40
+    57         10
+    58          3
+    66         13
+    67         54
+    69        686
+    70         93
+    71          6
+    72          7
+    80          2
+    81          3
+    82         15
+    83         73
+    84         15
+    85          1
+    86          4
+    95          3
+    96          2
+    97          4
+    98          2
+   107          1
+   109          9
+   111        607
+   112         47
+   113          2
+   114         15
+   115          1
+   140         50
+   141          4

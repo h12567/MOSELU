@@ -1,0 +1,61 @@
+##TITLE=Library Entry 46781
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=KA69-801
+##NAMES=HP
+##CAS NAME=Silanamine, N-phenyl-
+##MOLFORM=C6H9NSi
+##CAS REGISTRY NO=5578-85-8
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          3
+    15         10
+    25         10
+    26         80
+    27          7
+    28         34
+    29         20
+    30         12
+    31         18
+    36        100
+    37        200
+    38        150
+    39        290
+    40         60
+    41         80
+    42         20
+    43         10
+    44         50
+    45        110
+    46         20
+    47         30
+    49         20
+    50        140
+    51        160
+    52        150
+    53         20
+    54         40
+    63         30
+    65         90
+    66        180
+    67         50
+    72        180
+    73        400
+    74        130
+    75        559
+    76        380
+    77        999
+    78        400
+    79         70
+    91         10
+    92         20
+    93        250
+   103          6
+   121          4
+   123         10

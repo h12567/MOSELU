@@ -1,0 +1,86 @@
+##TITLE=Library Entry 68022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8667
+##NAMES=HP
+##CAS NAME=4,7-Methano-1H-indene, octahydro-
+##MOLFORM=C10H16
+##CAS REGISTRY NO=6004-38-2
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    15          4
+    18          1
+    26          5
+    27         85
+    28         16
+    29         35
+    37          2
+    38          9
+    39        176
+    40         36
+    41        258
+    42         18
+    43          7
+    50         11
+    51         40
+    52         22
+    53         99
+    54         65
+    55         72
+    56          3
+    57          1
+    58          2
+    61          1
+    62          3
+    63         12
+    64          4
+    65         68
+    66        278
+    67        708
+    68        381
+    69         60
+    70          3
+    74          2
+    75          2
+    76          1
+    77        109
+    78         43
+    79        328
+    80        231
+    81        132
+    82         83
+    83          6
+    84          1
+    89          2
+    90          1
+    91         83
+    92         15
+    93        224
+    94        471
+    95        999
+    96         78
+    97          3
+   102          1
+   103          5
+   104          1
+   105         10
+   106          5
+   107        167
+   108        166
+   109         15
+   110          1
+   115          2
+   117          1
+   119          1
+   121        289
+   122         28
+   123          1
+   135         14
+   136        408
+   137         45
+   138          2

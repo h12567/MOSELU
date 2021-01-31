@@ -1,0 +1,53 @@
+##TITLE=Library Entry 5278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4(1H,3H)-Pyrimidinedione, 3-ethyl-6-methyl-
+##MOLFORM=C7H10N2O2
+##CAS REGISTRY NO=1006-24-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15        180
+    27        250
+    29        130
+    30         70
+    39        160
+    40        150
+    41        120
+    42        999
+    43         70
+    44        200
+    45         20
+    54        150
+    55        100
+    56        100
+    57        140
+    68        320
+    69         20
+    70        160
+    71         10
+    83        550
+    84        600
+    85         60
+    96         90
+    97         40
+    98         90
+   110        280
+   111        120
+   112         70
+   125         40
+   126        630
+   127        140
+   128         10
+   139        100
+   140         10
+   153         50
+   154        900
+   155        110
+   156         10

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 3947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=2H-Azepine, 3,4,5,6-tetrahydro-7-methoxy-
+##MOLFORM=C7H13NO
+##CAS REGISTRY NO=2525-16-8
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         18
+    38         58
+    39        534
+    40         81
+    41        999
+    42        613
+    43        137
+    44        111
+    45        141
+    50         26
+    51         46
+    52         58
+    53         99
+    54        442
+    55        564
+    56        678
+    57        223
+    58        280
+    59          7
+    65         26
+    66         22
+    67        606
+    68        376
+    69        520
+    70        164
+    71        106
+    72         96
+    73         28
+    79          5
+    80         24
+    81         11
+    82        120
+    83         32
+    84        381
+    85         38
+    86         17
+    94         40
+    95          5
+    96        197
+    97         40
+    98        430
+    99        401
+   100         36
+   112        870
+   113         65
+   126        286
+   127        600
+   128         75

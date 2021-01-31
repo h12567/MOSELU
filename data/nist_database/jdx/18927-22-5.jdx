@@ -1,0 +1,50 @@
+##TITLE=Library Entry 71252
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1,2-Butanediol, 1-(2-furyl)-2,3-dimethyl-
+##MOLFORM=C10H16O3
+##CAS REGISTRY NO=18927-22-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39        160
+    40         10
+    41        410
+    42        110
+    43        390
+    44         10
+    45        260
+    51         20
+    52         10
+    53         30
+    55         50
+    57         40
+    67         10
+    69        410
+    70        160
+    71         90
+    72         10
+    81         40
+    84         10
+    85         10
+    86         10
+    87        870
+    88         40
+    95        110
+    96         10
+    97        270
+    98        999
+    99         50
+   100         10
+   102         10
+   123        190
+   124         40
+   125         10
+   184         20

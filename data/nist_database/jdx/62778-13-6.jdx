@@ -1,0 +1,47 @@
+##TITLE=Library Entry 28653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Ethanedithioamide, N,N'-bis[3-(dimethylamino)propyl]-
+##MOLFORM=C12H26N4S2
+##CAS REGISTRY NO=62778-13-6
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    30         43
+    41         35
+    42        120
+    43         28
+    44         74
+    45         17
+    46         12
+    56         32
+    57         29
+    58        999
+    59         45
+    60          2
+    68          4
+    70         32
+    71         21
+    72         76
+    84        270
+    85         23
+    86         66
+    87         27
+    88          3
+   113          2
+   127          2
+   145        161
+   146         17
+   161         35
+   187         26
+   206         30
+   219        147
+   220         10
+   221          2
+   232         26

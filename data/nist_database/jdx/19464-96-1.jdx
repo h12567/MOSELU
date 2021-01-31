@@ -1,0 +1,55 @@
+##TITLE=Library Entry 61089
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Glycidamide, 3-phenyl-, trans-
+##MOLFORM=C9H9NO2
+##CAS REGISTRY NO=19464-96-1
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41         60
+    44        275
+    45         10
+    50        155
+    51        308
+    52         55
+    57         73
+    61         33
+    62         80
+    63        203
+    64         88
+    65        208
+    66         10
+    74         38
+    75         45
+    76         28
+    77        278
+    78         80
+    79        305
+    80         20
+    89        365
+    90        470
+    91        999
+    92        203
+   103         25
+   104          5
+   105        125
+   106        620
+   107        258
+   108         23
+   118        128
+   119         50
+   120        125
+   134          8
+   135          5
+   146         50
+   147          3
+   162          5
+   163        130
+   164         13

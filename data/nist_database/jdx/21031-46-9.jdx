@@ -1,0 +1,67 @@
+##TITLE=Library Entry 32021
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Butenenitrile, 3-chloro-
+##MOLFORM=C4H4ClN
+##CAS REGISTRY NO=21031-46-9
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    24          2
+    25         12
+    26         69
+    27         46
+    28          6
+    30         11
+    33         51
+    34          2
+    35          6
+    36         37
+    37        214
+    38        242
+    39        409
+    40        150
+    41        155
+    43         58
+    44          5
+    47         14
+    48          9
+    49         73
+    50         12
+    51         46
+    52         25
+    53          8
+    54          2
+    56          5
+    57          2
+    58          2
+    60         18
+    62         33
+    63        137
+    64         86
+    65        108
+    66        999
+    67         54
+    70          2
+    73         10
+    74         17
+    75         16
+    76          8
+    77          7
+    78          1
+    82          1
+    85          0
+    86          0
+    88          2
+    98          2
+   100          6
+   101        315
+   102         17
+   103         91
+   104          2

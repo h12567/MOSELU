@@ -1,0 +1,38 @@
+##TITLE=Library Entry 73407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. DAVI,DEP. MET. PHARM.,CENT. RECH. CLIN-MIDY,MONTPELL
+IER,FR.
+##NAMES=HP
+##CAS NAME=3-(2-Morpholinoethylamino)-4-methyl-6-(2-hydroxyphenyl)pyridazine
+##MOLFORM=C17H22N4O2
+##CAS REGISTRY NO=86663-23-2
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    36        125
+    55         70
+    79        193
+    80        362
+    81        176
+    82        547
+    93        141
+    94        293
+    95         90
+    96        127
+    98         70
+   100        999
+   101         70
+   112         20
+   113        555
+   114         90
+   115         50
+   201        352
+   202        208
+   203         30
+   214         90
+   314         20

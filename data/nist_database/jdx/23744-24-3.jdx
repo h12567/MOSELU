@@ -1,0 +1,46 @@
+##TITLE=Library Entry 71673
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.Ardrey ET AL.Pharmaceutical Mass Spectra,L.,1985
+##NAMES=HP
+##CAS NAME=Pipoxolan
+##MOLFORM=C22H25NO3
+##CAS REGISTRY NO=23744-24-3
+##MP= -300
+##BP= -300
+##MW= 351
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         10
+    29         30
+    30         20
+    39         10
+    40         10
+    41         50
+    42         70
+    43         20
+    44         30
+    51         20
+    55         70
+    56         30
+    57         20
+    69         30
+    70         30
+    77         60
+    84         20
+    85         30
+    96         20
+    98        999
+    99         60
+   105         50
+   112         10
+   140         50
+   157         70
+   164         10
+   165         60
+   166         90
+   167         20
+   194        200
+   195         40

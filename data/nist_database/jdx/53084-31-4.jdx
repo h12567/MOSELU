@@ -1,0 +1,52 @@
+##TITLE=Library Entry 513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Ethoxy-2-carbomethoxyaziridine
+##MOLFORM=C6H11NO3
+##CAS REGISTRY NO=53084-31-4
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        409
+    28        462
+    29        999
+    30        130
+    31        143
+    32         21
+    41        423
+    42        247
+    43        260
+    44         91
+    45        728
+    46         52
+    47         11
+    55        572
+    56        176
+    57        221
+    58        351
+    59        481
+    60         19
+    73         33
+    74        260
+    75         52
+    76         15
+    85        559
+    86        409
+    87        422
+    88         33
+   100        221
+   101         13
+   113        416
+   114         78
+   115          9
+   117         39
+   118          7
+   145        104
+   146          6
+   147          1

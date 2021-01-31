@@ -1,0 +1,30 @@
+##TITLE=Library Entry 84598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM, 112(5)1571(1979); W. GRAMLICH AND H. PLIENINGER
+##NAMES=HP
+##CAS NAME=2-Oxaspiro[4.5]dec-6-ene-3-carboxylic acid, 3-ethoxy-1,8-dioxo-9-
+(phenylseleno)-, ethyl ester
+##MOLFORM=C20H22O6Se
+##CAS REGISTRY NO=67136-04-3
+##MP= -300
+##BP= -300
+##MW= 438
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+   107        999
+   134        245
+   135        220
+   158        311
+   181         92
+   208        181
+   209        130
+   236        101
+   238         73
+   254        140
+   263        210
+   294        221
+   365        170
+   438        580

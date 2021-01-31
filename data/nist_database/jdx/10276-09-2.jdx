@@ -1,0 +1,29 @@
+##TITLE=Library Entry 34474
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. J. TODD
+##NAMES=HP
+##CAS NAME=3-Butenoic acid, 2,2-dimethyl-
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=10276-09-2
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39         83
+    41        659
+    43        110
+    53         78
+    55         55
+    56         59
+    59         91
+    69        999
+    73         44
+    81         15
+    88         24
+    96         24
+    99        278
+   114        105

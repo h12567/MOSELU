@@ -1,0 +1,65 @@
+##TITLE=Library Entry 94543
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3,5-Dicyclopropylphenyl trifluoromethanesulfonate
+##MOLFORM=C13H13F3O3S
+##CAS REGISTRY NO=41381-28-6
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        512
+    41        663
+    48        230
+    50         89
+    51        289
+    52        111
+    53        269
+    55         81
+    63        169
+    64        108
+    65        307
+    67        247
+    69        320
+    75         59
+    77        564
+    78        230
+    79        329
+    89         88
+    91        856
+    92         69
+   102         80
+   103        269
+   104        109
+   105        685
+   106         59
+   115        999
+   116        260
+   117        830
+   118         90
+   127        248
+   128        539
+   129        676
+   130        630
+   131        470
+   132        139
+   141        160
+   142         60
+   143        129
+   144         79
+   145        897
+   146        110
+   149         50
+   153         49
+   155        109
+   156         59
+   157        158
+   158        110
+   173        568
+   174         89
+   306        698

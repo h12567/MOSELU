@@ -1,0 +1,29 @@
+##TITLE=Library Entry 31114
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Trifluoroguanidine
+##MOLFORM=CH2F3N3
+##CAS REGISTRY NO=37950-72-4
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    27        421
+    28        812
+    29         12
+    41        165
+    42        723
+    43         14
+    46        401
+    47          6
+    56         17
+    61        999
+    62         19
+    75         12
+   113         18
+   114          1

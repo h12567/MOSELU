@@ -1,0 +1,50 @@
+##TITLE=Library Entry 89371
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(23)7601(1977); B. M. TROST
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 2-(2,6-dimethylheptyl)-
+##MOLFORM=C13H24O
+##CAS REGISTRY NO=65147-64-0
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        180
+    41        520
+    42        120
+    43        540
+    44         80
+    53         70
+    55        580
+    56        280
+    57        730
+    67         90
+    68         80
+    69        270
+    70        290
+    71        470
+    77         50
+    81         80
+    82         70
+    83        280
+    84        170
+    85         50
+    91         70
+    94         70
+    95         60
+    97        190
+    98         80
+   109         70
+   111        120
+   112        999
+   113        100
+   117         50
+   124         70
+   125         50
+   126         60
+   154         80
+   196         50

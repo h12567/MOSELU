@@ -1,0 +1,49 @@
+##TITLE=Library Entry 26062
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(2,2-Dimethyl)propanoyl benzylphosphine
+##MOLFORM=C12H17OP
+##CAS REGISTRY NO=54096-52-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39         80
+    40         30
+    41        566
+    42        100
+    43        138
+    44         50
+    45         40
+    51         49
+    52          9
+    53         19
+    55         40
+    56         80
+    57        999
+    58        118
+    59         29
+    63         20
+    64         10
+    65        139
+    77         79
+    78        100
+    79         59
+    85        150
+    86        210
+    87         30
+    91        896
+    92        168
+   121         59
+   122         19
+   123        298
+   124        299
+   125         49
+   171         19
+   180         20
+   208         20

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 17962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Acetic acid, mercapto-, ethyl ester
+##MOLFORM=C4H8O2S
+##CAS REGISTRY NO=623-51-8
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+     4          1
+    13          5
+    14         32
+    15         49
+    16          4
+    19          8
+    25          5
+    26         50
+    27        248
+    28         67
+    29        602
+    30         25
+    31         33
+    32         15
+    33         26
+    34          6
+    35          2
+    40          3
+    41         30
+    42        185
+    43         76
+    44         36
+    45        322
+    46        331
+    47        999
+    48        104
+    49         45
+    50          5
+    57          3
+    58          4
+    59          9
+    60         13
+    61         75
+    62          3
+    63         19
+    64         15
+    72          4
+    74        460
+    75        221
+    76         33
+    77         18
+    92        121
+    93          5
+    94          7
+   102          6
+   105          9
+   120        484
+   121         27
+   122         23

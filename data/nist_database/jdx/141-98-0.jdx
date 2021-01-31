@@ -1,0 +1,43 @@
+##TITLE=Library Entry 39777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. LOZYNSKI, POZNAN TECH. UNIV., POZNAN, POLAND
+##NAMES=HP
+##CAS NAME=Ethylcarbamothioic acid, O-isopropyl ester
+##MOLFORM=C6H13NOS
+##CAS REGISTRY NO=141-98-0
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        610
+    28        350
+    29        620
+    30        190
+    39        300
+    40         70
+    41        510
+    42        220
+    43        630
+    44        810
+    56         60
+    58         49
+    59         88
+    60        420
+    61         63
+    71         28
+    72        999
+    73         44
+    76         93
+    88        290
+    89         42
+    90         65
+   104        240
+   105        330
+   106        270
+   147        730
+   148         59
+   149         37

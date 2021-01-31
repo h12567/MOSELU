@@ -1,0 +1,52 @@
+##TITLE=Library Entry 35031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,2,4-Trimethyl-3-hexene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=59643-72-0
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15         22
+    27         94
+    28         49
+    29        102
+    39        201
+    41        455
+    42         34
+    43         84
+    50         16
+    51         46
+    52         22
+    53        118
+    55        657
+    56         43
+    57        158
+    63         14
+    65         45
+    66         15
+    67        110
+    69        999
+    70         99
+    71         15
+    77         47
+    78         13
+    79         58
+    80         11
+    81         41
+    82         12
+    83         93
+    91         17
+    95         28
+    97        641
+    98         49
+   111        273
+   112         24
+   126        200
+   127         20

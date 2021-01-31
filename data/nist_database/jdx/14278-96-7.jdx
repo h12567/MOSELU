@@ -1,0 +1,39 @@
+##TITLE=Library Entry 51902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(11)1124(1974); GAY
+##NAMES=HP
+##CAS NAME=Propanenitrile, 3-[(2-methylpropyl)amino]-
+##MOLFORM=C7H14N2
+##CAS REGISTRY NO=14278-96-7
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26         13
+    27         53
+    28         82
+    29         55
+    30        188
+    39         47
+    40         10
+    41         86
+    42        125
+    43         52
+    44         45
+    52         12
+    53         10
+    54        185
+    55         25
+    56         38
+    57         43
+    70         52
+    82         10
+    83        999
+    84         67
+    86         80
+   111         10
+   126         23

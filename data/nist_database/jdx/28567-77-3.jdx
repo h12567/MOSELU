@@ -1,0 +1,51 @@
+##TITLE=Library Entry 77900
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, ATLAS OF MS OF ORG. CMPDS., ED. 2
+##NAMES=HP
+##CAS NAME=2-Oxo-5-phenoxy-4,6-diphenyl-1,2,3,4-tetrahydropyrimidine
+##MOLFORM=C22H18N2O2
+##CAS REGISTRY NO=28567-77-3
+##MP= -300
+##BP= -300
+##MW= 342
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    71        120
+    73         60
+    76         80
+    77        870
+    78        220
+    79        100
+    81         80
+    83        100
+    85         70
+    89        120
+    90        100
+    91        170
+    94        180
+    95         80
+   102         80
+   103        100
+   104        999
+   105        280
+   106        200
+   128        100
+   129         80
+   132        160
+   171         90
+   178         70
+   179         60
+   180        150
+   206         60
+   247         90
+   248         60
+   249        830
+   250        170
+   263         60
+   265        930
+   266        190
+   342        680
+   343        190

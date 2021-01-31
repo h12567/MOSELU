@@ -1,0 +1,32 @@
+##TITLE=Library Entry 53447
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. KLOPOTEK, DEP. CHEM., NORBERT COLL., WISCONSIN, U
+##NAMES=HP
+##CAS NAME=2,3,4,5-Tetrahydropyridazine
+##MOLFORM=C4H8N2
+##CAS REGISTRY NO=694-06-4
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    26        176
+    27        470
+    28        851
+    29        568
+    30        294
+    39        186
+    41        304
+    42        245
+    43        201
+    44         88
+    54        147
+    55        410
+    56        397
+    57        235
+    69        180
+    83        340
+    84        999

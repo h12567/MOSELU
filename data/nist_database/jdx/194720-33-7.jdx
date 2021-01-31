@@ -1,0 +1,48 @@
+##TITLE=Library Entry 54329
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mandelbaum ET AL, J.Mass Spectrom., 32, 750(1997)
+##NAMES=HP
+##CAS NAME=1-Butyl-1-methoxy-3-dimethylaminocyclohexane (cis)
+##MOLFORM=C13H27NO
+##CAS REGISTRY NO=194720-33-7
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    42         99
+    43         55
+    44         79
+    53         22
+    55         51
+    56         60
+    58         33
+    67         35
+    70         46
+    71        433
+    72        195
+    77         18
+    79         36
+    81         48
+    84        999
+    85         94
+    98         57
+   124        269
+   126         31
+   138         40
+   140         79
+   156        830
+   157         70
+   166         29
+   170        766
+   171         64
+   180         24
+   182        258
+   183        387
+   184         48
+   198         18
+   213         27
+   214          3

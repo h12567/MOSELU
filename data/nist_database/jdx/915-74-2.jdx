@@ -1,0 +1,70 @@
+##TITLE=Library Entry 64912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Mazepa, Phys.-Chem.Institute, Odessa, Ukraine
+##NAMES=HP
+##CAS NAME=5,5'-Di(benzyloxycarbonyl)-3,3',4,4'-tetramethyl-2,2'-dipyrrylmet
+hane
+##MOLFORM=C29H30N2O4
+##CAS REGISTRY NO=915-74-2
+##MP= -300
+##BP= -300
+##MW= 470
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    51          3
+    60          2
+    61         13
+    64          6
+    65         43
+    66          3
+    77          7
+    78          1
+    79          9
+    89          1
+    91        999
+    92         69
+    94          1
+   105          3
+   106          4
+   107          7
+   108          9
+   122          2
+   134          3
+   135          2
+   149          1
+   151          1
+   152          2
+   183          2
+   184         16
+   185         15
+   186          2
+   196          2
+   197          2
+   198         18
+   199          3
+   225          2
+   227         18
+   228         42
+   229         14
+   240          7
+   241         72
+   242         42
+   243          4
+   269          2
+   271         21
+   273         10
+   317          6
+   318          3
+   319          2
+   335          3
+   336          2
+   361          5
+   362         32
+   363          3
+   469          9
+   470        435
+   471        133
+   472          9

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 78220
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Univ. Joensuu, Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=1,3-Oxathiolane, 2-methyl-2-phenyl-
+##MOLFORM=C10H12OS
+##CAS REGISTRY NO=5684-32-2
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    15         18
+    26         12
+    27         45
+    34          6
+    35          5
+    38          7
+    39         34
+    42          5
+    43        431
+    44         15
+    45        105
+    46          8
+    47          6
+    50         50
+    51        159
+    52         22
+    53          5
+    57          6
+    58         29
+    59        172
+    60        902
+    61         56
+    62         48
+    63         21
+    64          6
+    65         21
+    69          6
+    74         16
+    75         13
+    76         26
+    77        428
+    78         75
+    79          8
+    89          7
+    91         28
+   102         14
+   103         80
+   104         29
+   105        999
+   106         79
+   107          5
+   109          6
+   115          5
+   120         83
+   121        509
+   122         46
+   123          5
+   133         12
+   134          7
+   135          8
+   136          7
+   149         11
+   165        331
+   166         36
+   167         17
+   180        258
+   181         30
+   182         14

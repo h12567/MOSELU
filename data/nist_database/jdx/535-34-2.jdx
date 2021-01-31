@@ -1,0 +1,63 @@
+##TITLE=Library Entry 16780
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=dl-Cystathionine
+##MOLFORM=C7H14N2O4S
+##CAS REGISTRY NO=535-34-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    42        950
+    43        435
+    44        820
+    45        999
+    46        349
+    47        307
+    48         37
+    49         19
+    50         18
+    51         58
+    52         59
+    54        121
+    55        133
+    56        567
+    57        180
+    58        110
+    59        112
+    60         62
+    61        105
+    63         18
+    65         48
+    68         64
+    69         49
+    70         57
+    71         41
+    73         51
+    74        175
+    75         70
+    76         27
+    77         39
+    85         25
+    86         90
+    88         72
+    89         46
+    90        107
+    91        173
+   101         20
+   102         31
+   114         32
+   116         20
+   117         93
+   131         17
+   132         39
+   133         30
+   148         38
+   149         18
+   177         25
+   222         18

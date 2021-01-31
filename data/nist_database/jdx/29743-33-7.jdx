@@ -1,0 +1,24 @@
+##TITLE=Library Entry 61074
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,6-Octadiyn-3-one, 2-methyl-
+##MOLFORM=C9H10O
+##CAS REGISTRY NO=29743-33-7
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    43        130
+    63        140
+    64         10
+    91        999
+    92         80
+   105         60
+   106        200
+   107         20
+   134         60

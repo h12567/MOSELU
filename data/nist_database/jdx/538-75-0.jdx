@@ -1,0 +1,78 @@
+##TITLE=Library Entry 20694
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. KELLY UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=Dicyclohexylcarbodiimide
+##MOLFORM=C13H22N2
+##CAS REGISTRY NO=538-75-0
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    27        140
+    29        175
+    39        192
+    40         34
+    41        693
+    42         67
+    43        653
+    44         17
+    51         23
+    52         19
+    53        116
+    54        164
+    55        999
+    56        127
+    57         22
+    65         20
+    66         22
+    67        235
+    68        101
+    69         71
+    70         27
+    77         25
+    78         11
+    79         56
+    80         27
+    81        540
+    82        321
+    83        743
+    84         52
+    94         11
+    95        109
+    96        134
+    97         45
+    98         19
+   107          7
+   108          9
+   109         67
+   110         15
+   121          5
+   122          6
+   123         77
+   124        423
+   125        289
+   126         19
+   135          6
+   136         17
+   137         20
+   138         13
+   149         43
+   150         29
+   151         88
+   152         57
+   163        444
+   164        248
+   165         54
+   177        160
+   178         60
+   191         73
+   192         10
+   205         79
+   206        234
+   207         37

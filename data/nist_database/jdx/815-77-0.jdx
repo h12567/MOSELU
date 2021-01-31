@@ -1,0 +1,81 @@
+##TITLE=Library Entry 40606
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8802
+##NAMES=HP
+##CAS NAME=2,5-Dimethyl-4-hydroxy-3-hexanone
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=815-77-0
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    15          6
+    17          1
+    18          3
+    26          4
+    27         97
+    28         20
+    29         55
+    30          6
+    31         49
+    32          1
+    37          1
+    38          3
+    39         54
+    40          8
+    41        156
+    42         28
+    43        615
+    44         22
+    45         72
+    46          1
+    47          1
+    51          1
+    53          9
+    54          2
+    55        408
+    56         34
+    57         54
+    58          9
+    59          7
+    60          3
+    67          2
+    68          1
+    69         46
+    70         18
+    71        218
+    72        220
+    73        999
+    74         44
+    75          3
+    83         11
+    84         11
+    85         10
+    86          4
+    87         84
+    88         12
+    89          3
+    91          1
+    97          2
+    99          2
+   100          1
+   101          4
+   102         40
+   103          2
+   111          2
+   112          1
+   113          2
+   115          5
+   125          1
+   126          1
+   127          6
+   128          1
+   129          1
+   130          1
+   142          3
+   143          2
+   144          3

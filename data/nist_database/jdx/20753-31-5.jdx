@@ -1,0 +1,38 @@
+##TITLE=Library Entry 29040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. LOZYNSKI, POZNAN TECH. UNIV., POZNAN, POLAND
+##NAMES=HP
+##CAS NAME=Methylcarbamothioic acid, O-isopropyl ester
+##MOLFORM=C5H11NOS
+##CAS REGISTRY NO=20753-31-5
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    27        140
+    28        110
+    29         34
+    30        240
+    39        130
+    40         31
+    41        270
+    42        130
+    43        280
+    47         37
+    58        999
+    60         55
+    61         26
+    62         20
+    74        300
+    75         64
+    76         39
+    91        390
+    92        210
+    98         25
+   133        590
+   134         40
+   135         29

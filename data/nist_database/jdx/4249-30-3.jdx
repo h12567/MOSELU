@@ -1,0 +1,70 @@
+##TITLE=Library Entry 40031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Leucine, N-[N-[N-(N-acetyl-L-alanyl)-L-valyl]glycyl]-, methyl est
+er, L-
+##MOLFORM=C19H34N4O6
+##CAS REGISTRY NO=4249-30-3
+##MP= -300
+##BP= -300
+##MW= 414
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    18         13
+    28         76
+    30         72
+    42         98
+    43        501
+    55         94
+    56         52
+    69         90
+    70         58
+    71         54
+    72        999
+    73        200
+    86        666
+    87        154
+    98         52
+    99         33
+   114        415
+   115         43
+   126         45
+   127        107
+   145        313
+   146         31
+   155         23
+   157         35
+   169         54
+   185        284
+   186        137
+   203         64
+   213        239
+   214         35
+   241         11
+   243         33
+   245         15
+   258         13
+   270        321
+   271         78
+   286        147
+   287         27
+   301          9
+   312          5
+   328         78
+   329         29
+   355         33
+   356          7
+   358         25
+   359          4
+   372         11
+   373          2
+   397          3
+   398          1
+   399          8
+   400          1
+   414         26
+   415          8

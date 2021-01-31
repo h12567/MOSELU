@@ -1,0 +1,49 @@
+##TITLE=Library Entry 18596
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4040
+##NAMES=HP
+##CAS NAME=Carbonocyanidic acid, ethyl ester
+##MOLFORM=C4H5NO2
+##CAS REGISTRY NO=623-49-4
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=750
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          2
+    14         12
+    15         41
+    16          2
+    25          2
+    26         66
+    27        213
+    28        847
+    29        750
+    30         25
+    31          4
+    38          1
+    39          1
+    40          4
+    41         10
+    42         19
+    43         87
+    44         24
+    45         81
+    46          3
+    53          1
+    54        999
+    55         46
+    56          7
+    70         10
+    72         64
+    73          2
+    84        566
+    85         20
+    86          2
+    98         72
+    99          4
+   100          1

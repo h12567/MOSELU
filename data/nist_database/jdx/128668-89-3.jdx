@@ -1,0 +1,42 @@
+##TITLE=Library Entry 100822
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Himottu ET AL, Org. Mass Spectr.,25,277(1990)
+##NAMES=HP
+##CAS NAME=cis-3-Phenyl-perhydrocyclopenta[d]pyrimidin-2,4-dione
+##MOLFORM=C13H14N2O2
+##CAS REGISTRY NO=128668-89-3
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    27         70
+    39        100
+    40         30
+    41        150
+    43        150
+    51         40
+    53         30
+    54         80
+    55         80
+    56         50
+    64         60
+    65         50
+    67        240
+    68        130
+    77         60
+    82         70
+    83         90
+    91        150
+    93        480
+    95         50
+   119        999
+   120         95
+   148         40
+   188         40
+   189          4
+   230        600
+   231         60

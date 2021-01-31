@@ -1,0 +1,79 @@
+##TITLE=Library Entry 50031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. RYHAGE KAROLINSKA INSTITUTET, STOCKHOLM
+##NAMES=HP
+##CAS NAME=Cyclohexaneethanol, 4-methyl-.beta.-methylene-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=5502-99-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    18         21
+    27         13
+    28         56
+    29         32
+    31         10
+    39         15
+    41        141
+    42         28
+    43        197
+    44         14
+    52         10
+    53         30
+    54         79
+    55        915
+    56         99
+    57        141
+    58        183
+    59         18
+    65         14
+    66         34
+    67        380
+    68        310
+    69        211
+    70         46
+    71         49
+    73         10
+    77         38
+    78         20
+    79        324
+    80        141
+    81        999
+    82        169
+    83         75
+    84         92
+    85         23
+    91         46
+    92         61
+    93        282
+    94        253
+    95        686
+    96        211
+    97        535
+    98         82
+    99         14
+   105         35
+   106         21
+   107        239
+   108        141
+   109         31
+   110        113
+   111         25
+   112         10
+   113        211
+   114         17
+   119         20
+   121        225
+   122         38
+   123        183
+   124         24
+   125         18
+   136        155
+   137         24
+   148         10
+   154         23

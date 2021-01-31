@@ -1,0 +1,41 @@
+##TITLE=Library Entry 54938
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=5,6-Decanedione
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=5579-73-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         78
+    28         42
+    29        203
+    39         56
+    40         16
+    41        279
+    42         40
+    43         35
+    55         71
+    56         16
+    57        845
+    58         66
+    67         16
+    69         14
+    71         23
+    72         16
+    73         16
+    85        999
+    86         75
+    87         19
+    99          9
+   113         16
+   127         19
+   141         16
+   170         66
+   171         14

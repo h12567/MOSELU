@@ -1,0 +1,43 @@
+##TITLE=Library Entry 44204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. BIRKOFER
+##NAMES=HP
+##CAS NAME=L-Proline, 1-(trifluoroacetyl)-4-[(trifluoroacetyl)oxy]-, trimeth
+ylsilyl ester, trans-
+##MOLFORM=C12H15F6NO5Si
+##CAS REGISTRY NO=52558-88-0
+##MP= -300
+##BP= -300
+##MW= 395
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    68         31
+    73        999
+    74         79
+    75         78
+    77         64
+    96         21
+   117         76
+   121         17
+   142         21
+   143         23
+   145        173
+   146         15
+   164        168
+   165        136
+   170         39
+   211         25
+   237         16
+   238         53
+   266         20
+   282        111
+   283         23
+   351        358
+   352         64
+   353         17
+   380        585
+   381        104
+   382         35

@@ -1,0 +1,82 @@
+##TITLE=Library Entry 85390
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N,O-Di[methane sulfonyl]-2-aminophenol
+##MOLFORM=C8H11NO5S2
+##CAS REGISTRY NO=71270-62-7
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    41          5
+    42          1
+    43          0
+    45          8
+    46          2
+    47          1
+    48          6
+    49          4
+    50         22
+    51         98
+    52        261
+    53         47
+    54          3
+    55          2
+    62          1
+    63         18
+    64          9
+    65         21
+    66          1
+    67          4
+    68          1
+    69          0
+    75          0
+    76          2
+    77         11
+    78         20
+    79        272
+    80        186
+    81         11
+    83          0
+    84          1
+    86          1
+    90          0
+    91          4
+    92         10
+    94         20
+    95          9
+    96          1
+    97          1
+    98          0
+   106         43
+   108        999
+   109         22
+   110          1
+   120          3
+   121          1
+   122          4
+   124          7
+   138          3
+   154          1
+   155          1
+   158          1
+   169          5
+   170          1
+   184          3
+   186        520
+   187         59
+   188         30
+   189          1
+   248          1
+   262          0
+   264          1
+   265        142
+   266         18
+   267         16
+   268          2

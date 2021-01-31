@@ -1,0 +1,58 @@
+##TITLE=Library Entry 22346
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Tridecane, 7-methylene-
+##MOLFORM=C14H28
+##CAS REGISTRY NO=19780-80-4
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27        151
+    28         67
+    29        287
+    32         14
+    39        184
+    40         61
+    41        667
+    42        120
+    43        337
+    44         14
+    51         19
+    52         17
+    53        130
+    54         79
+    55        690
+    56        999
+    57        459
+    58         20
+    65         33
+    66         23
+    67        201
+    68        178
+    69        677
+    70        308
+    71        111
+    77         32
+    79         61
+    80         12
+    81         73
+    82         61
+    83        267
+    84        170
+    85         50
+    95         24
+    97         89
+    98        161
+    99         14
+   110         59
+   111        333
+   112         54
+   126         52
+   127         17
+   196         56

@@ -1,0 +1,30 @@
+##TITLE=Library Entry 16957
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Alvarez, Dep. Org. Chem. Pharm., Univ. Barcelona, Ba
+rcelona, Spain
+##NAMES=HP
+##CAS NAME=1,6-Hexanediamine, 1-[(2-methoxyphenyl)methyl]-
+##MOLFORM=C14H24N2O
+##CAS REGISTRY NO=135980-10-8
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    45        999
+    46        960
+    56        180
+    91        580
+    98        370
+   115        160
+   121        880
+   122        220
+   136        490
+   150        220
+   185         40
+   218         30
+   235         40
+   236         10

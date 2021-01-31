@@ -1,0 +1,45 @@
+##TITLE=Library Entry 8062
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=2-Heptanone, 7,7-dichloro-
+##MOLFORM=C7H12Cl2O
+##CAS REGISTRY NO=66241-43-8
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    36         20
+    38         20
+    39         40
+    40         10
+    41         70
+    42         30
+    43        999
+    44         30
+    45         10
+    49         10
+    51         10
+    53         20
+    55         20
+    58        650
+    59         20
+    63         20
+    67         50
+    68         10
+    71         40
+    75         30
+    77         10
+    83         10
+    89         10
+    95         10
+   103         20
+   105         10
+   110         10
+   111         10
+   131         10

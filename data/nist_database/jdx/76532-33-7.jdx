@@ -1,0 +1,85 @@
+##TITLE=Library Entry 16229
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=N-Methyl-2-naphthalenemethylamine
+##MOLFORM=C12H13N
+##CAS REGISTRY NO=76532-33-7
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    42        764
+    44        999
+    50         69
+    51        108
+    52         35
+    53          8
+    54          2
+    56          3
+    58         57
+    61         12
+    62         57
+    63        112
+    64          9
+    65         24
+    69          3
+    70          4
+    71         14
+    74         46
+    75         40
+    76         30
+    77         84
+    78         21
+    79          2
+    83         15
+    85         33
+    86          8
+    87         40
+    88         20
+    89         67
+    90          4
+    91         10
+    92          2
+    98         22
+    99         13
+   100          4
+   101         41
+   102         24
+   103          2
+   104          2
+   113         22
+   115        522
+   116         55
+   117          2
+   125          5
+   126        155
+   127        288
+   128        141
+   129         50
+   130         12
+   131          2
+   133          3
+   137          2
+   139        115
+   141        898
+   142        491
+   143         61
+   144         19
+   151          7
+   152         18
+   153         42
+   154         36
+   155        193
+   156         50
+   157          8
+   168         11
+   169         57
+   170        553
+   171        352
+   172         23

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 69339
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1-Propanoic acid, 1H-1,2,4-triazolyl-
+##MOLFORM=C5H7N3O2
+##CAS REGISTRY NO=76686-84-5
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    38         33
+    39         68
+    40         61
+    41        140
+    42        288
+    43         51
+    45        347
+    46          4
+    47          0
+    51          2
+    53         51
+    55        494
+    56         67
+    57          5
+    58          1
+    60        248
+    61          3
+    64          0
+    66          0
+    68         76
+    69        289
+    70        153
+    71         11
+    72          1
+    73         28
+    76          0
+    82        593
+    83         20
+    85          8
+    86         15
+    87         37
+    88          0
+    94          0
+    95        316
+    96        999
+    97         60
+    98          4
+   113          0
+   114         12
+   123        221
+   124         28
+   125          0
+   141        486
+   142         30
+   143          2

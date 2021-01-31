@@ -1,0 +1,86 @@
+##TITLE=Library Entry 59128
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Decen-2-one, 10-phenyl-, (E)-
+##MOLFORM=C16H22O
+##CAS REGISTRY NO=55282-83-2
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    41        108
+    43        990
+    44         29
+    50          9
+    51         29
+    52          9
+    53         39
+    54         19
+    55        118
+    63          9
+    65         89
+    66          9
+    67         49
+    68          9
+    69         29
+    71         89
+    77         69
+    78         29
+    79         59
+    80         59
+    81        118
+    82          9
+    83         19
+    84         89
+    85          9
+    89          9
+    91        999
+    92        118
+    93         19
+    94          9
+    95         69
+    97        396
+    98         29
+   103         29
+   104        287
+   105        108
+   106          9
+   108          9
+   111         19
+   115         29
+   116          9
+   117        178
+   118         39
+   121         19
+   124         49
+   128          9
+   129         39
+   130         89
+   131         89
+   132         19
+   139         19
+   141          9
+   143         29
+   144         59
+   145         19
+   155          9
+   156         19
+   157         19
+   169         19
+   170         59
+   171          9
+   172         99
+   173         39
+   179          9
+   183         19
+   197         19
+   212         29
+   228          9
+   230        148
+   231         29

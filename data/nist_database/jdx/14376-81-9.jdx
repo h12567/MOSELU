@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32312
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclopentane, 1,2-dichloro-, trans-
+##MOLFORM=C5H8Cl2
+##CAS REGISTRY NO=14376-81-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         19
+    27         48
+    28          6
+    31          4
+    35          5
+    36          7
+    37         24
+    38         48
+    39        198
+    40         43
+    41        176
+    42         22
+    48          5
+    49         34
+    50         20
+    51         36
+    52          8
+    53         29
+    55          5
+    60          4
+    61         24
+    62         82
+    63         36
+    64         26
+    65         83
+    66          4
+    67        999
+    68         72
+    73         15
+    75         90
+    76        109
+    77         31
+    78         33
+    87          4
+    89         20
+    91          5
+    96         17
+    98         10
+   102        145
+   103         18
+   104         46
+   105          5
+   109          4
+   110          7
+   112          5
+   138          9
+   140          6

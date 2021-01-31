@@ -1,0 +1,57 @@
+##TITLE=Library Entry 84309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-(4-Hydroxyphenyl)propanal
+##MOLFORM=C9H10O2
+##CAS REGISTRY NO=20238-83-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1490
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    29          9
+    38          4
+    39         36
+    41         10
+    50         14
+    51         37
+    52         14
+    53         27
+    55         27
+    62         14
+    63         31
+    64         10
+    65         60
+    66         21
+    67          9
+    75          8
+    76          4
+    77        192
+    78         37
+    79         29
+    89          8
+    90          5
+    91         69
+    92          9
+    94        251
+    95         27
+   102          6
+   103         40
+   104          6
+   105         19
+   107        999
+   108        109
+   119         21
+   120         28
+   121         47
+   122          7
+   131         27
+   132         11
+   133          9
+   149         15
+   150        333
+   151         30

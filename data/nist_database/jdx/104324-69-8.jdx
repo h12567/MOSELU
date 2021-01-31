@@ -1,0 +1,60 @@
+##TITLE=Library Entry 17533
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=(Z)-Allyl(prop-1-en-1-yl)sulfane
+##MOLFORM=C6H10S
+##CAS REGISTRY NO=104324-69-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=888
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         45
+    29         40
+    37         34
+    38         65
+    39        608
+    41        722
+    42         24
+    45        999
+    46         75
+    47        137
+    50         31
+    53         84
+    54         37
+    55         90
+    57         57
+    58         76
+    59        100
+    60         62
+    61         29
+    65        105
+    66         46
+    67         87
+    68        139
+    69        128
+    71        339
+    72        461
+    73        534
+    74        100
+    75         26
+    77         30
+    79        251
+    80        134
+    81        700
+    82         32
+    83         20
+    85        206
+    86         33
+    87         17
+    99        891
+   100         47
+   101         15
+   113         71
+   114        926
+   115         62
+   116         63

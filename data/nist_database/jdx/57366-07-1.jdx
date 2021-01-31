@@ -1,0 +1,79 @@
+##TITLE=Library Entry 49634
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. TURECEK,HEYROVSKY INST PHYS CHEM & ELECTROCHEM,PRAGU
+E,CZECH
+##NAMES=HP
+##CAS NAME=trans-anti-trans-Tricyclo[7.3.0.0(2,6)]-7-dodecene
+##MOLFORM=C12H18
+##CAS REGISTRY NO=57366-07-1
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    38         10
+    39        250
+    40         40
+    41        360
+    42         20
+    50         20
+    51         90
+    52         40
+    53        130
+    54         20
+    55        110
+    56         10
+    57         20
+    58         10
+    63         30
+    64         20
+    65        150
+    66         80
+    67        310
+    68         10
+    69         20
+    76         10
+    77        270
+    78        110
+    79        860
+    80        999
+    81        620
+    82         40
+    83         20
+    89         20
+    91        920
+    92        330
+    93        380
+    94        330
+    95        130
+    96         30
+   102         10
+   103         40
+   104         30
+   105        290
+   106        160
+   115         70
+   116         20
+   117        120
+   118         40
+   119        960
+   120        410
+   121        310
+   122         30
+   127         10
+   128         30
+   129         20
+   131         30
+   132         10
+   133        790
+   134        770
+   135         90
+   147         70
+   148         10
+   161        110
+   162        860
+   163        110
+   164         10

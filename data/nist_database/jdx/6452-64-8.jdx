@@ -1,0 +1,45 @@
+##TITLE=Library Entry 62092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=Phenol, 4-[(dimethylamino)methyl]-3,5-dimethyl-, methylcarbamate
+ (ester)
+##MOLFORM=C13H20N2O2
+##CAS REGISTRY NO=6452-64-8
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         27
+    42         84
+    43         35
+    44        629
+    45        225
+    46         59
+    50         16
+    51        105
+    52         16
+    53         10
+    58         36
+    62          4
+    63         38
+    65         95
+    66         28
+    77         72
+    78         12
+    79         23
+    91        999
+    92         27
+   103          4
+   105        126
+   106        106
+   107          1
+   133          2
+   134        831
+   135        328
+   136          7
+   179         34

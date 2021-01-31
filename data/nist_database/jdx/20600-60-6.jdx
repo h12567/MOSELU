@@ -1,0 +1,46 @@
+##TITLE=Library Entry 45010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, (propylthio)-
+##MOLFORM=C5H10O2S
+##CAS REGISTRY NO=20600-60-6
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        530
+    28         70
+    29        120
+    31        120
+    39        310
+    40         30
+    41        860
+    42        140
+    43        820
+    44         60
+    45        470
+    46        320
+    47        860
+    48         60
+    58         70
+    59        150
+    60        250
+    61         20
+    73         60
+    74        230
+    75        999
+    76         70
+    77        340
+    78         30
+    89        200
+    90         20
+    92        130
+    93         10
+   105         60
+   134        360
+   135         60

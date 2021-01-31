@@ -1,0 +1,65 @@
+##TITLE=Library Entry 5530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Homopiperazine
+##MOLFORM=C5H12N2
+##CAS REGISTRY NO=505-66-8
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=1525
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    13          3
+    14         19
+    15        123
+    16          2
+    17          8
+    18         57
+    26         41
+    27        153
+    28        570
+    29        125
+    30        517
+    31         13
+    32         22
+    33          1
+    36          1
+    37          3
+    38         13
+    39         90
+    40         41
+    41        197
+    42        366
+    43        999
+    44        567
+    45         35
+    46          3
+    49          1
+    50          2
+    51          1
+    52          7
+    53          2
+    54         19
+    55         15
+    56        146
+    57        148
+    58        241
+    59         10
+    67          3
+    68         29
+    69        107
+    70        178
+    71         61
+    72          4
+    81          1
+    83          1
+    85         26
+    95          1
+    97          2
+    99        305
+   100         87
+   101          7

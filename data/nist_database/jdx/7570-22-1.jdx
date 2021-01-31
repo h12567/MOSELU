@@ -1,0 +1,30 @@
+##TITLE=Library Entry 6811
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M.BELLAMA UNIV. OF MARYLAND, COLLEGE PARK, MARYLAND,
+ USA
+##NAMES=HP
+##CAS NAME=Silane, (iodomethyl)-
+##MOLFORM=CH5ISi
+##CAS REGISTRY NO=7570-22-1
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    28        750
+    29        250
+    30        190
+    31        200
+    41        220
+    42        310
+    43        999
+    44        340
+    45        940
+   127        150
+   155        610
+   157        140
+   171        750
+   172        130

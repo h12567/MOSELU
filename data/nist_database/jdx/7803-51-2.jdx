@@ -1,0 +1,21 @@
+##TITLE=Library Entry 1618
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphine
+##MOLFORM=H3P
+##CAS REGISTRY NO=7803-51-2
+##MP= -300
+##BP= -300
+##MW= 34
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 6
+##XYDATA=(XY..XY) 1 
+    16          5
+    17          3
+    31        321
+    32        127
+    33        331
+    34        999

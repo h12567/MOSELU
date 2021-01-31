@@ -1,0 +1,64 @@
+##TITLE=Library Entry 55863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=7-Bromo-6-(2-diethylaminoethoxy)-2,3-dihydro-1H-benzothieno[2,3-D
+]pyrrolo[1,2-a]pyrimidin-10-one
+##MOLFORM=C19H22BrN3O2S
+##CAS REGISTRY NO=299962-65-5
+##MP= -300
+##BP= -300
+##MW= 435
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    35         13
+    36         49
+    38         27
+    39         22
+    40         43
+    41         85
+    42         69
+    44        114
+    51          4
+    52          4
+    54         15
+    56        106
+    57         44
+    58         48
+    66          5
+    67          6
+    68         19
+    69         15
+    70         33
+    71         17
+    72         25
+    73          3
+    77          6
+    79          4
+    80          7
+    81          6
+    82          8
+    84         34
+    86        999
+    87         49
+    88          4
+    93          6
+    98          4
+   100         62
+   101          5
+   106          4
+   132          5
+   133          5
+   134          4
+   144          4
+   211          4
+   212          4
+   239          4
+   240          5
+   256          3
+   307          4
+   309          4
+   356         11

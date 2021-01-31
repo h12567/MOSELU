@@ -1,0 +1,65 @@
+##TITLE=Library Entry 84707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl decanoate
+##MOLFORM=C11H21ClO2
+##CAS REGISTRY NO=67317-62-8
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=1480
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41        632
+    43        734
+    49         95
+    51         23
+    55        811
+    56        184
+    57        476
+    58         17
+    67         89
+    68         96
+    69        357
+    70        151
+    71        359
+    72        627
+    73         79
+    81        115
+    82         65
+    83        246
+    84        238
+    85        366
+    86         12
+    95         60
+    97        174
+    98        477
+    99         41
+   108        999
+   109        137
+   110        425
+   111        190
+   112        311
+   121        405
+   122         30
+   123        132
+   135         70
+   136         59
+   137         11
+   149         30
+   151          5
+   154        179
+   155        537
+   156         59
+   163         41
+   165          5
+   177        222
+   178         18
+   179         71
+   191         17
+   193          5
+   220         59
+   222         11

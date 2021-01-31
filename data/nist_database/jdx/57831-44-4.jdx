@@ -1,0 +1,36 @@
+##TITLE=Library Entry 76975
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=1,1-Dichloro-1-silaindane
+##MOLFORM=C8H8Cl2Si
+##CAS REGISTRY NO=57831-44-4
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    63         30
+    65         10
+    77         90
+    78        430
+    79         30
+   102         20
+   103         50
+   104        999
+   105         90
+   106         10
+   131         50
+   166        320
+   167         60
+   168        110
+   169         20
+   202        390
+   203         60
+   204        270
+   205         40
+   206         50
+   207         10

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 47268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Quinoline, 5-(phenylazo)-
+##MOLFORM=C15H11N3
+##CAS REGISTRY NO=25117-46-8
+##MP= -300
+##BP= -300
+##MW= 233
+##$RETENTION INDEX=2393
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    63        140
+    64        100
+    74        170
+    75        340
+    76        130
+    77        999
+    78         80
+   100         40
+   101        270
+   102        150
+   105         70
+   127         40
+   128        400
+   129         60
+   156         10
+   233        200
+   234         60

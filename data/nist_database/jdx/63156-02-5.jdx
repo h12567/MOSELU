@@ -1,0 +1,55 @@
+##TITLE=Library Entry 24669
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=1-Octen-3-yl-n-propionate
+##MOLFORM=C11H20O2
+##CAS REGISTRY NO=63156-02-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1181
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27          7
+    29        189
+    39          7
+    41        114
+    42         19
+    43         89
+    53          7
+    54        309
+    55        219
+    56         48
+    57        999
+    58         39
+    59          7
+    66          7
+    67        119
+    68        159
+    69        299
+    70         19
+    71         39
+    72        159
+    73         19
+    75         28
+    77         19
+    81        159
+    82         79
+    83          7
+    85         39
+    86         28
+    95         39
+    99        119
+   100          7
+   109         19
+   110         79
+   111         39
+   113        219
+   114         39
+   127         48
+   128        209
+   129         19
+   155         19

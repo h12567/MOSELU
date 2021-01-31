@@ -1,0 +1,87 @@
+##TITLE=Library Entry 936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2333
+##NAMES=HP
+##CAS NAME=1-Dodecanamine
+##MOLFORM=C12H27N
+##CAS REGISTRY NO=124-22-1
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=1436
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    15          1
+    17          4
+    18          4
+    26          1
+    27         26
+    28         10
+    29         45
+    30        999
+    31         19
+    32          1
+    39         19
+    40          3
+    41         91
+    42         23
+    43         72
+    44         63
+    45         78
+    46          2
+    51          1
+    53          6
+    54          7
+    55         56
+    56         34
+    57         26
+    58          4
+    59         22
+    67          6
+    68          6
+    69         28
+    70         14
+    71          6
+    72         20
+    73          9
+    77          1
+    79          1
+    81          2
+    82          9
+    83         18
+    84          9
+    85          3
+    86         51
+    87          7
+    95          1
+    96          7
+    97         16
+    98          7
+    99          1
+   100         24
+   101          3
+   110          6
+   111          7
+   112          4
+   114         10
+   115          2
+   124          4
+   125          2
+   126          2
+   128          8
+   129          1
+   138          3
+   139          1
+   140          2
+   142          9
+   143          1
+   152          1
+   156          8
+   157          1
+   168          1
+   170          3
+   184          7
+   185         16
+   186          2

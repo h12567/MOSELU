@@ -1,0 +1,42 @@
+##TITLE=Library Entry 47412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzenesulfonothioic acid,S-(4-nitrophenyl) ester
+##MOLFORM=C12H9NO4S2
+##CAS REGISTRY NO=1150-28-3
+##MP= -300
+##BP= -300
+##MW= 295
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    77        999
+    78        103
+    97         37
+   108         93
+   109         42
+   124         22
+   125         78
+   126         20
+   141        642
+   142         50
+   143         33
+   152         30
+   184        135
+   185         44
+   186         15
+   201         28
+   203          6
+   231        184
+   232         28
+   233         13
+   262          6
+   263         13
+   264          6
+   265          6
+   266          6
+   295         67
+   297         16

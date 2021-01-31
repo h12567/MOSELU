@@ -1,0 +1,64 @@
+##TITLE=Library Entry 23592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octane-2,3-dicarboxylic acid, 5-oxo-, 2-tert-butyl
+ ester, (R1,trans-2,trans-3,cis-4)-
+##MOLFORM=C14H20O5
+##CAS REGISTRY NO=111545-02-9
+##MP= -300
+##BP= -300
+##MW= 268
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39        260
+    41        870
+    43        330
+    55        260
+    56        210
+    57        999
+    59        710
+    60        270
+    67        150
+    68          8
+    77        190
+    78         10
+    79        600
+    80        530
+    81        160
+    82         10
+    93        300
+    94         10
+    95        190
+    96        530
+    97        130
+    98         10
+   107        230
+   108         15
+   118        220
+   119         14
+   124        230
+   125        220
+   126         15
+   138        490
+   139        260
+   140         24
+   152        160
+   153        260
+   154         27
+   166        460
+   167         45
+   184        190
+   185         20
+   194        320
+   195        380
+   196         39
+   212        410
+   213        100
+   214         10
+   253         10
+   268          3

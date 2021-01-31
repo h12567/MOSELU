@@ -1,0 +1,42 @@
+##TITLE=Library Entry 67999
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3-Thiabicyclo[3.3.1]nonane S-oxide
+##MOLFORM=C8H14OS
+##CAS REGISTRY NO=87947-23-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    51         50
+    53        170
+    54        120
+    55        450
+    61        150
+    62        100
+    63        150
+    65        100
+    67        800
+    68         30
+    79        560
+    80         20
+    81        350
+    82         15
+    85        150
+    93        350
+    94        300
+    95        999
+    96         15
+   140        400
+   141        460
+   142        300
+   143         30
+   158        250
+   159         24
+   160         12
+   161          1

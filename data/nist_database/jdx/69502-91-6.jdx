@@ -1,0 +1,48 @@
+##TITLE=Library Entry 74620
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Galactose, 2,3,4,5-tetra-O-methyl-
+##MOLFORM=C10H20O6
+##CAS REGISTRY NO=69502-91-6
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    29         76
+    31         31
+    41         31
+    42         41
+    44        369
+    56         22
+    58         47
+    59         47
+    71         66
+    73         66
+    75        114
+    85         57
+    87         22
+    88        398
+    89         73
+   100         25
+   101        999
+   102         54
+   115         19
+   116         22
+   117         25
+   118         19
+   119         12
+   120         22
+   127         15
+   128         19
+   129         31
+   130        117
+   140          2
+   160          3
+   173         22
+   190         18
+   218          2

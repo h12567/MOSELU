@@ -1,0 +1,38 @@
+##TITLE=Library Entry 77574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Gal, ET AL.Canadian J.Chem., 51,132 (1973)
+##NAMES=HP
+##CAS NAME=N-Ethylbenzimidoyl bromide
+##MOLFORM=C9H10BrN
+##CAS REGISTRY NO=41182-87-0
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26         40
+    27        120
+    28         30
+    29         90
+    38         40
+    39         80
+    50        190
+    51        300
+    52         80
+    62         50
+    63         70
+    64         30
+    74         60
+    75         70
+    76        250
+    77        370
+    78         50
+    91         50
+   103        490
+   104        999
+   105        110
+   132        750
+   133        100

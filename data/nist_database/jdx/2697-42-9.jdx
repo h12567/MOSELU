@@ -1,0 +1,28 @@
+##TITLE=Library Entry 68313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phosphoramidic acid, dimethyl ester
+##MOLFORM=C2H8NO3P
+##CAS REGISTRY NO=2697-42-9
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    46        180
+    47         56
+    63         20
+    64         74
+    65         60
+    79        140
+    80        186
+    94        374
+    95        999
+    96         20
+   109         34
+   125        334
+   126         30

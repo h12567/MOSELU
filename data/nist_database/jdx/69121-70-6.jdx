@@ -1,0 +1,72 @@
+##TITLE=Library Entry 45617
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl 3-methoxydecanoate
+##MOLFORM=C12H24O3
+##CAS REGISTRY NO=69121-70-6
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=1446
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         35
+    29         80
+    31         13
+    32         26
+    39         40
+    41        161
+    42         28
+    43        114
+    45        107
+    53         35
+    54         19
+    55        175
+    56         31
+    57         44
+    58         80
+    59        114
+    67         44
+    68         45
+    69        344
+    70         14
+    71        104
+    72         32
+    74         35
+    75        999
+    76         24
+    77          9
+    78         18
+    79         27
+    81         47
+    82         27
+    85         20
+    87         42
+    88          9
+    91         17
+    96         22
+    97         13
+   101         30
+   110         35
+   111         47
+   113         16
+   115          9
+   117        419
+   118         25
+   124         11
+   127         79
+   128         24
+   129         23
+   135          9
+   141        103
+   143        131
+   144         11
+   152         18
+   153         28
+   184         19
+   186         28
+   201        105
+   202         14

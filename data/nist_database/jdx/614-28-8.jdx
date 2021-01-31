@@ -1,0 +1,29 @@
+##TITLE=Library Entry 79735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Benzamide, N-benzoyl-
+##MOLFORM=C14H11NO2
+##CAS REGISTRY NO=614-28-8
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39         40
+    50        100
+    51        300
+    76         60
+    77        650
+    78         60
+    94         30
+   104         50
+   105        999
+   106         90
+   148         20
+   197        100
+   225        380
+   226         80

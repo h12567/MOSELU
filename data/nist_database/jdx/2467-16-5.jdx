@@ -1,0 +1,55 @@
+##TITLE=Library Entry 52598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Boric acid, tricyclohexyl ester
+##MOLFORM=C18H33BO3
+##CAS REGISTRY NO=2467-16-5
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         52
+    27        238
+    28        263
+    29        240
+    31         76
+    39        278
+    41        630
+    42        115
+    43        209
+    44        264
+    53        111
+    54        209
+    55        736
+    56        151
+    57        776
+    58         72
+    67        371
+    71        113
+    79         75
+    81        335
+    82        684
+    83        999
+    84         85
+    99         85
+   100         57
+   101         47
+   127         63
+   141         45
+   142        153
+   143        421
+   144         61
+   145         48
+   183         73
+   224         58
+   225        224
+   226        116
+   265         38
+   307         11
+   308         35
+   309          7

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 36722
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=Perfluoro(dibutylmethylamine)
+##MOLFORM=C9F21N
+##CAS REGISTRY NO=514-03-4
+##MP= -300
+##BP= -300
+##MW= 521
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    69        999
+    70          5
+    96          6
+   100        110
+   113          5
+   114        358
+   119         97
+   131        511
+   132         15
+   150         19
+   164          7
+   169         17
+   176          9
+   201          7
+   214         13
+   219        984
+   220         34
+   246         13
+   264        305
+   265         13
+   314         10
+   333         28
+   352        492
+   353         29
+   395          7
+   414        177
+   415         11
+   502          7

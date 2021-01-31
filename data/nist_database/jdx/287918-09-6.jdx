@@ -1,0 +1,64 @@
+##TITLE=Library Entry 39991
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Diethylcarbamoyl-2,3-dihydro-3,5-diphenyl-2-phenyliminothiazole
+##MOLFORM=C26H25N3OS
+##CAS REGISTRY NO=287918-09-6
+##MP= -300
+##BP= -300
+##MW= 427
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    38         28
+    39        101
+    42        521
+    44        647
+    45         31
+    50        149
+    51        435
+    52         46
+    54         36
+    56        382
+    57         69
+    58         55
+    63        104
+    64         29
+    65         27
+    69         19
+    70         82
+    72        999
+    73         40
+    74         42
+    75         56
+    76        200
+    77        955
+    78         91
+    88         39
+    89        418
+    90         68
+    91         33
+   100        568
+   101         44
+   103        318
+   104         76
+   105         45
+   115         21
+   120         44
+   121        715
+   122         68
+   123         27
+   129         37
+   135        238
+   136         29
+   165         31
+   177         19
+   192         26
+   193         43
+   194         23
+   195         27
+   427         38
+   429          3

@@ -1,0 +1,88 @@
+##TITLE=Library Entry 80601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Univ. Joensuu, Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=1,2-Dihydro-4H-2-phenyl-3,1-benzoxazine
+##MOLFORM=C14H13NO
+##CAS REGISTRY NO=82085-86-7
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14         10
+    27         32
+    29         11
+    30         11
+    38          9
+    39         68
+    41          8
+    43          8
+    50         46
+    51        176
+    52         69
+    53         18
+    62          9
+    63         41
+    64         18
+    65         60
+    66          7
+    74         11
+    75         17
+    76         44
+    77        412
+    78        390
+    79         86
+    83         12
+    89         53
+    90         35
+    91        274
+    92         42
+    93          7
+    95          8
+    97         12
+   102          9
+   103         14
+   104        779
+   105        999
+   106        241
+   107         23
+   115          6
+   116         10
+   117          6
+   120        137
+   121         12
+   127          7
+   128          5
+   132         86
+   133         29
+   134        174
+   135         16
+   151         11
+   152         33
+   153         11
+   154          6
+   165         28
+   166         32
+   167         22
+   168         19
+   178          8
+   179          8
+   180         60
+   181         15
+   182         94
+   183         68
+   184          9
+   192          8
+   193         27
+   194         33
+   195         10
+   209          8
+   210        112
+   211        636
+   212        103
+   213          9

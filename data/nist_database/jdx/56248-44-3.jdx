@@ -1,0 +1,44 @@
+##TITLE=Library Entry 44854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=D-Glucopyranoside, methyl 3-O-methyl-
+##MOLFORM=C8H16O6
+##CAS REGISTRY NO=56248-44-3
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        108
+    42         64
+    43        189
+    45        318
+    55         52
+    56         72
+    57        161
+    58         64
+    59        149
+    60         48
+    61        161
+    69         84
+    71        185
+    73        189
+    74        999
+    75        685
+    85         72
+    87        500
+    88         56
+   101         72
+   103         28
+   115         72
+   116        693
+   117        116
+   143        237
+   144        145
+   146        145
+   159         48
+   177         36

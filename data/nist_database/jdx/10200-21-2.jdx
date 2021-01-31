@@ -1,0 +1,60 @@
+##TITLE=Library Entry 71843
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2(3H)-Furanone, dihydro-5-methyl-5-(2-methylpropyl)-
+##MOLFORM=C9H16O2
+##CAS REGISTRY NO=10200-21-2
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27         99
+    28         90
+    29         56
+    31          2
+    38          1
+    39         71
+    40         11
+    41        156
+    42         24
+    43        665
+    44         28
+    45         10
+    51          4
+    53         16
+    54          4
+    55         70
+    56         86
+    57         76
+    58         13
+    59         14
+    67         14
+    68          9
+    69         53
+    70         25
+    71         74
+    72          2
+    77          2
+    79          4
+    81         20
+    82          1
+    83         30
+    84          2
+    85         22
+    95         12
+    96         11
+    97          5
+    98         14
+    99        999
+   100         65
+   101         39
+   111          4
+   114          6
+   139         36
+   141         46
+   142          1

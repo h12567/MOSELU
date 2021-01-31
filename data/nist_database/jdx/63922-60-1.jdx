@@ -1,0 +1,35 @@
+##TITLE=Library Entry 57157
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(3)743(1977);29; H. EICHENBERGER
+##NAMES=HP
+##CAS NAME=1,4-Dioxane, 2-[3-[3,3-dimethyl-2-(1-methylethyl)oxiranyl]-1-meth
+ylene-2-propynyl]-
+##MOLFORM=C15H22O3
+##CAS REGISTRY NO=63922-60-1
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    41        180
+    43        480
+    59        100
+    77        120
+    79        100
+    87        999
+    91        150
+   105        140
+   119        120
+   121        100
+   147        360
+   149        160
+   163        100
+   177        100
+   179         60
+   191        100
+   207        100
+   219        140
+   235         10

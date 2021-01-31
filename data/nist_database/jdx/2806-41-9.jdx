@@ -1,0 +1,59 @@
+##TITLE=Library Entry 33265
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=But-1-ene-3-yne, 1-ethoxy-
+##MOLFORM=C6H8O
+##CAS REGISTRY NO=2806-41-9
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    24          1
+    25          4
+    26         50
+    27        364
+    29        611
+    30         15
+    31          7
+    36          6
+    37         80
+    38        196
+    39        832
+    40        921
+    41         97
+    42         19
+    43         26
+    44          9
+    45         26
+    46          1
+    48          2
+    49         22
+    50        130
+    51        164
+    52         13
+    53         18
+    55          1
+    57          1
+    61          0
+    62          1
+    63          1
+    64          0
+    65         15
+    66         25
+    67         25
+    68        999
+    69         45
+    70          2
+    77          0
+    79          1
+    80          0
+    81          7
+    82          0
+    95          6
+    96        909
+    97         62

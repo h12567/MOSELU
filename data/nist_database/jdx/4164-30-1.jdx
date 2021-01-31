@@ -1,0 +1,46 @@
+##TITLE=Library Entry 37199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=Diethylamine, 1,1'-dimethyl-N-nitro-
+##MOLFORM=C6H14N2O2
+##CAS REGISTRY NO=4164-30-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    31         15
+    38         11
+    39         86
+    40         33
+    41        256
+    42        366
+    43        426
+    44        233
+    45         15
+    46         10
+    54         16
+    55         11
+    56         41
+    57         13
+    58        243
+    59         18
+    61         21
+    68         21
+    69         10
+    70        999
+    71         50
+    84         93
+    85        330
+    86         54
+    89         43
+    99         11
+   101          9
+   131        193
+   132         13
+   146         80

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 50407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Naphthalenepropanol, .alpha.-ethenyldecahydro-8a-(hydroxymethyl
+)-.alpha.,5-dimethyl-2-methylene-
+##MOLFORM=C19H32O2
+##CAS REGISTRY NO=55649-42-8
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    71        749
+    81        999
+    93        929
+   107        260
+   119        220
+   121        629
+   133        190
+   135        220
+   139        150
+   147        110
+   148         20
+   161        260
+   173         60
+   175         60
+   189        150
+   201         30
+   206         30
+   216         40
+   231         20
+   232         20
+   241         60
+   246         70
+   259         70
+   274         40
+   292          0

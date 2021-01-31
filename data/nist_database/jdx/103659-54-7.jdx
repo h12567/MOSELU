@@ -1,0 +1,45 @@
+##TITLE=Library Entry 6540
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=cis-2-Chlorovinylacetate
+##MOLFORM=C4H5ClO2
+##CAS REGISTRY NO=103659-54-7
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    35          7
+    36          1
+    37          2
+    40          2
+    41         17
+    42        125
+    43        999
+    44         54
+    45         12
+    47         11
+    48         28
+    49        111
+    50         10
+    51         34
+    52          1
+    60         10
+    61         66
+    62          5
+    63         21
+    76         13
+    77          1
+    78         90
+    80         26
+    85          5
+   105          3
+   107          1
+   120        110
+   121          5
+   122         34
+   123          2

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 71320
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-n-Propyl-2-pyrazolin-5-one
+##MOLFORM=C6H10N2O
+##CAS REGISTRY NO=29211-70-9
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         16
+    27        101
+    29         89
+    30         13
+    31         13
+    32          8
+    37         12
+    38         32
+    39        283
+    40         66
+    41        355
+    42         61
+    43         55
+    44         26
+    45          5
+    50         22
+    51         34
+    52         26
+    53         67
+    54         34
+    55        116
+    56         47
+    57          8
+    58          4
+    61          4
+    62          6
+    63         10
+    64          3
+    65         17
+    66         19
+    67        164
+    68         37
+    69         81
+    70         26
+    71          4
+    75          3
+    77          5
+    79          7
+    80          9
+    81         19
+    82         10
+    83         28
+    84         21
+    85          8
+    95          8
+    97        785
+    98        999
+    99         53
+   109          9
+   110          6
+   111        135
+   112          8
+   125         22
+   126        538
+   127         39

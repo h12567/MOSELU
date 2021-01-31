@@ -1,0 +1,39 @@
+##TITLE=Library Entry 89837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. LUIJTEN, GORLAEUS LAB., LEIDEN UNIV., NETHERL> ;
+##NAMES=HP
+##CAS NAME=Pyrazole, 3-nitro-
+##MOLFORM=C3H3N3O2
+##CAS REGISTRY NO=26621-44-3
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         60
+    39         60
+    40        320
+    41         60
+    42         20
+    43         20
+    44         20
+    46         80
+    50         10
+    51         30
+    52         40
+    53         20
+    54         30
+    55         10
+    66         80
+    67         10
+    68         30
+    83        260
+    84         10
+    96         20
+    97         40
+   113        999
+   114         60

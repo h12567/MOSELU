@@ -1,0 +1,41 @@
+##TITLE=Library Entry 40102
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Urea, N,N-diethyl-N'-methyl-N'-nitroso-
+##MOLFORM=C6H13N3O2
+##CAS REGISTRY NO=50285-72-8
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    30        188
+    39         22
+    40         32
+    41         62
+    42        377
+    43        107
+    44        433
+    45         18
+    55         16
+    56        235
+    57         94
+    58         90
+    59         11
+    60         11
+    66          9
+    70         28
+    71         22
+    72        999
+    73         75
+    87         16
+    94         24
+   100        848
+   101         71
+   102         11
+   159          5

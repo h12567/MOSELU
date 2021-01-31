@@ -1,0 +1,36 @@
+##TITLE=Library Entry 77626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S. ANISIMOVA, MOSCOW INST. FINE CHEM. TECHNOL., MOSCO
+W, USSR
+##NAMES=HP
+##CAS NAME=Ethyl cis-2,3-dimethyl-3-phenyloxirane-2-carboxylate
+##MOLFORM=C13H16O3
+##CAS REGISTRY NO=59070-00-7
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    43        880
+    51        130
+    77        390
+    78        470
+    91        200
+   103        660
+   104        999
+   105        230
+   119        150
+   121        610
+   131         90
+   132         80
+   146        920
+   147        390
+   149        120
+   173         30
+   174         70
+   178         50
+   219         40
+   220         20

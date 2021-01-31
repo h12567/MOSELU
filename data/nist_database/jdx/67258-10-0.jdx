@@ -1,0 +1,33 @@
+##TITLE=Library Entry 48564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(3)1200(1978); F. ROESSLER ET AL
+##NAMES=HP
+##CAS NAME=Benzoic acid, 3-methoxy-4-[(methylsulfonyl)oxy]-
+##MOLFORM=C9H10O6S
+##CAS REGISTRY NO=67258-10-0
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    51        570
+    52        150
+    53        150
+    62        110
+    63        170
+    65        110
+    68        180
+    77        180
+    79        999
+    81        170
+    95        190
+    96        180
+   111        370
+   121        180
+   139        150
+   167        550
+   168        140
+   246        280

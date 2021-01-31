@@ -1,0 +1,86 @@
+##TITLE=Library Entry 61431
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,2-Propanediol, 3-benzyloxy-1,2-diacetyl-
+##MOLFORM=C14H18O5
+##CAS REGISTRY NO=13754-10-4
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    26          0
+    27          2
+    29          4
+    30          2
+    31          3
+    38          0
+    39         17
+    40          1
+    41         10
+    42          0
+    43        153
+    44          0
+    50          1
+    51         10
+    52          3
+    53          0
+    57         42
+    58          0
+    60          0
+    61         12
+    62          1
+    63          8
+    64          2
+    65         75
+    66          3
+    69          0
+    73          1
+    74          0
+    75          5
+    76          0
+    77         20
+    78          5
+    79         25
+    80          1
+    88          0
+    89         12
+    90         10
+    91        999
+    92         95
+    93          3
+    99          3
+   100          5
+   101          3
+   103          1
+   104         10
+   105         16
+   106          3
+   107         43
+   108         19
+   109          0
+   115          1
+   116          0
+   117        396
+   118         23
+   119          4
+   131          0
+   133          1
+   146          0
+   147          3
+   148          3
+   149          1
+   163          0
+   165          0
+   167          2
+   181          9
+   182          0
+   193         14
+   194          1
+   207          0
+   223         18
+   224          1

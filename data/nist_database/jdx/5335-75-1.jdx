@@ -1,0 +1,82 @@
+##TITLE=Library Entry 66594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Butyl pyridine
+##MOLFORM=C9H13N
+##CAS REGISTRY NO=5335-75-1
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=1124
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    11          1
+    14          2
+    15          8
+    17          0
+    26         19
+    27         88
+    28         29
+    29         29
+    31          0
+    37          5
+    38         20
+    39        143
+    40         23
+    41        104
+    42          8
+    43         79
+    44          4
+    45          1
+    49          4
+    50         41
+    51         99
+    52         45
+    53         23
+    54         16
+    55          4
+    56          1
+    59          3
+    61          2
+    62          8
+    63         28
+    64         18
+    65        100
+    66         55
+    67         42
+    68          2
+    73          1
+    74          4
+    75          4
+    76          9
+    77         56
+    78         54
+    79         31
+    80         13
+    87          1
+    89          4
+    90          4
+    91         22
+    92        150
+    93        999
+    94         75
+    95          2
+   102          2
+   103          3
+   104         14
+   105         13
+   106         72
+   107         10
+   108          5
+   117          8
+   118         13
+   119          6
+   120          9
+   130          2
+   132          2
+   135        297
+   136         32
+   137          1

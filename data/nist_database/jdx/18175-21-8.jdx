@@ -1,0 +1,36 @@
+##TITLE=Library Entry 114873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Buten-2-one, 4-(4-iodophenyl)-
+##MOLFORM=C10H9IO
+##CAS REGISTRY NO=18175-21-8
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    51        310
+    52        116
+    74        213
+    75        230
+    76        464
+    77         99
+   101         76
+   102        790
+   103        114
+   127        130
+   128        132
+   130        999
+   131        152
+   144         53
+   145        767
+   146        115
+   257        184
+   258         30
+   271         54
+   272        199
+   273         30

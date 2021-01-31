@@ -1,0 +1,29 @@
+##TITLE=Library Entry 51277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Octanoic acid, 3-hexenyl ester, (Z)-
+##MOLFORM=C14H26O2
+##CAS REGISTRY NO=61444-41-5
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=1562
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29          7
+    41         48
+    43         89
+    54         19
+    55        159
+    57        279
+    58          7
+    67        399
+    68         19
+    81         19
+    82        999
+    83        129
+   127        129
+   128          7

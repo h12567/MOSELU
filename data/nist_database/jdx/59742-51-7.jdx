@@ -1,0 +1,63 @@
+##TITLE=Library Entry 8880
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2,4-dimethyl-3-oxo-, methyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=59742-51-7
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26         13
+    27         99
+    28         17
+    29         96
+    31         13
+    39         42
+    40          7
+    41        119
+    42         24
+    43        999
+    44         22
+    45          6
+    53          5
+    55         43
+    56         55
+    57        219
+    58         18
+    59        103
+    60          5
+    67          3
+    69          8
+    70         24
+    71        434
+    72         30
+    73          7
+    83         19
+    85         55
+    86         12
+    87         63
+    88         83
+    89          8
+    99         10
+   100         11
+   101          4
+   102         13
+   103          3
+   113         11
+   114          8
+   115         72
+   116          4
+   126          4
+   127         23
+   128          6
+   141          4
+   142          3
+   143          6
+   158         20
+   159          2

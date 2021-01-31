@@ -1,0 +1,32 @@
+##TITLE=Library Entry 18041
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=3,4-Dichlorobutane nitrile
+##MOLFORM=C4H5Cl2N
+##CAS REGISTRY NO=34362-21-5
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    38         57
+    47         58
+    48         74
+    49        999
+    51        329
+    75        377
+    77        125
+    87          1
+   102         50
+   104         16
+   110        390
+   111         35
+   112        274
+   114         39
+   137        143
+   139         75
+   141         14

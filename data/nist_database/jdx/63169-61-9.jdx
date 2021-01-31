@@ -1,0 +1,58 @@
+##TITLE=Library Entry 72186
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 2-methyl-, anhydride
+##MOLFORM=C12H22O3
+##CAS REGISTRY NO=63169-61-9
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=1348
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          2
+    27         39
+    28         18
+    29         54
+    30          2
+    31          1
+    38          1
+    39         39
+    40          8
+    41        113
+    42         53
+    43        423
+    44         16
+    45          6
+    50          1
+    51          2
+    52          1
+    53         11
+    54          3
+    55         70
+    56         39
+    57          4
+    59          2
+    65          1
+    67          2
+    68          1
+    69         15
+    70         12
+    71        613
+    72         33
+    73          3
+    74          8
+    83          1
+    86          1
+    87          2
+    97          1
+    99        999
+   100         68
+   101          5
+   115          1
+   117          3
+   143          1

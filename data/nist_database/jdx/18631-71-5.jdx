@@ -1,0 +1,46 @@
+##TITLE=Library Entry 87982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Butenal, (1-methylethyl)hydrazone
+##MOLFORM=C7H14N2
+##CAS REGISTRY NO=18631-71-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26        295
+    27        295
+    28        180
+    29         98
+    30         84
+    39        328
+    40         51
+    41        607
+    42        361
+    43        270
+    44        869
+    45         25
+    53         79
+    54         49
+    55        131
+    56        213
+    57         36
+    58         64
+    67         62
+    68        295
+    69        279
+    70         66
+    81         23
+    82         90
+    83        559
+    84         46
+   111        999
+   112         72
+   126        599
+   127         51

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 4627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=Ethanamine, N-ethyl-N-nitro-
+##MOLFORM=C4H10N2O2
+##CAS REGISTRY NO=7119-92-8
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29        328
+    30        185
+    31         12
+    39         16
+    40         47
+    41         95
+    42        999
+    43         57
+    44        838
+    45         27
+    46         19
+    52         10
+    54         22
+    55         14
+    56        352
+    57        761
+    58         95
+    61         17
+    70         32
+    71        109
+    72         31
+    73         35
+   102         41
+   103        581
+   104         29
+   118        333
+   119         19

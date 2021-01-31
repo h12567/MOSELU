@@ -1,0 +1,32 @@
+##TITLE=Library Entry 94563
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.A. ZVEZDINA, SCI. RES. INST., ROSTOV STATE UNIV., USS
+R
+##NAMES=HP
+##CAS NAME=3-Phenyl-5-benzoylmethyl-2-pyrazoline-1-carbothioamide
+##MOLFORM=C18H17N3OS
+##CAS REGISTRY NO=106916-03-4
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    51         60
+    77        710
+    91        180
+   105        680
+   115        999
+   144        390
+   145        940
+   159        100
+   178         70
+   204        770
+   218        150
+   233         40
+   271         30
+   290         30
+   305         10
+   323        120

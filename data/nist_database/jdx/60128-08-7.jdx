@@ -1,0 +1,64 @@
+##TITLE=Library Entry 57333
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin,TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Cyclopropanecarboxylic acid,pentadecyl ester
+##MOLFORM=C19H36O2
+##CAS REGISTRY NO=60128-08-7
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    36         39
+    38         18
+    39        138
+    40         20
+    41        480
+    42        105
+    43        410
+    44         40
+    45         20
+    50          6
+    51          7
+    53         25
+    54         60
+    55        302
+    56        163
+    57        248
+    58         18
+    67         50
+    68         82
+    69        710
+    70        162
+    71        115
+    81         25
+    82         85
+    83        195
+    84        105
+    85         63
+    86         35
+    87        999
+    88         36
+    95         13
+    96         30
+    97        132
+    98         40
+    99         17
+   110         10
+   111         70
+   112         40
+   113          6
+   125         30
+   126         20
+   139          7
+   140         13
+   142         17
+   154         11
+   182         27
+   183          5
+   210         45
+   211          9

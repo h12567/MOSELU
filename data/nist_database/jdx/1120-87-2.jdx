@@ -1,0 +1,64 @@
+##TITLE=Library Entry 48345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9267
+##NAMES=HP
+##CAS NAME=4-Bromopyridine
+##MOLFORM=C5H4BrN
+##CAS REGISTRY NO=1120-87-2
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         13
+    27          6
+    28          2
+    39          8
+    40          3
+    48          4
+    49         42
+    50        196
+    51        418
+    52         30
+    53          1
+    61          1
+    62          2
+    63          1
+    65          8
+    66          8
+    74          3
+    75         16
+    76         32
+    77          7
+    78        999
+    79         60
+    80          6
+    81          9
+    82          5
+    91          1
+   104          6
+   105          2
+   106          7
+   107          1
+   113         11
+   114          1
+   115          4
+   116          1
+   117          5
+   118          1
+   119          4
+   128          1
+   129          8
+   130          4
+   131          7
+   132          3
+   156          4
+   157        955
+   158         71
+   159        935
+   160         66
+   161          2

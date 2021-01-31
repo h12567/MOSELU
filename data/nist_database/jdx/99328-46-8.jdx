@@ -1,0 +1,45 @@
+##TITLE=Library Entry 17345
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Methyl-1-hepten-4-ol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=99328-46-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         23
+    26         24
+    27        213
+    28        119
+    29        277
+    30         13
+    31         85
+    32         17
+    39        234
+    41        565
+    42         79
+    43        385
+    45        999
+    46         21
+    51         17
+    53         45
+    54         14
+    55         64
+    56         31
+    57        221
+    58         40
+    59         13
+    67         24
+    69        418
+    70         54
+    71        164
+    81         14
+    85         14
+    87        570
+    88         32

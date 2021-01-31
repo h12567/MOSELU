@@ -1,0 +1,65 @@
+##TITLE=Library Entry 37254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pyridine, 1-acetyl-5-(1-acetyl-2-pyrrolidinyl)-1,2,3,4-tetrahydro
+-
+##MOLFORM=C13H20N2O2
+##CAS REGISTRY NO=54966-17-5
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        220
+    42        100
+    43        710
+    44         80
+    55        130
+    56         60
+    57         90
+    67         90
+    68         90
+    69         80
+    70        999
+    71        110
+    80         60
+    81         90
+    82        140
+    83         90
+    84        170
+    85        100
+    94         80
+    95         70
+    96        170
+   108        100
+   109        100
+   110         70
+   112        210
+   113        150
+   114         50
+   122        180
+   123        190
+   124         60
+   126        110
+   127         50
+   149        130
+   150         50
+   151        270
+   152         50
+   165        110
+   166         70
+   175        100
+   176         30
+   177         20
+   193        420
+   194         70
+   207         60
+   218        160
+   219         30
+   236        130
+   237         20

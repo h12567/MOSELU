@@ -1,0 +1,62 @@
+##TITLE=Library Entry 50000
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Methyl-6-hepten-3-ol
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=78631-45-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26         35
+    27        234
+    28         34
+    29        293
+    30         34
+    31        233
+    32          8
+    38         43
+    39        394
+    40        105
+    41        567
+    42        159
+    43        737
+    44         92
+    45         36
+    50         24
+    51         62
+    52         33
+    53        231
+    54        122
+    55        842
+    56        152
+    57        450
+    58         56
+    59        452
+    65         39
+    67        355
+    68        499
+    69        155
+    70        329
+    71        129
+    72        737
+    73        128
+    77         32
+    79        207
+    81        999
+    82         98
+    83         21
+    84         21
+    85         38
+    93         33
+    95        578
+    96         50
+    99         85
+   109         14
+   110         81
+   113         23

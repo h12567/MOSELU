@@ -1,0 +1,42 @@
+##TITLE=Library Entry 97863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Oxirane, 2-(chloromethyl)-2-cyclobutyl-
+##MOLFORM=C7H11ClO
+##CAS REGISTRY NO=121505-36-0
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        290
+    41        390
+    43        110
+    49        110
+    51        220
+    52        190
+    53        800
+    54        270
+    55        260
+    65        130
+    67        640
+    69        980
+    77        380
+    79        540
+    81        290
+    83        260
+    88        540
+    90        180
+    97        420
+   111        130
+   117        140
+   118        999
+   119        110
+   120        340
+   145         20
+   147         10

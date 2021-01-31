@@ -1,0 +1,50 @@
+##TITLE=Library Entry 28664
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ehyl 2-carbamimidoylacetate
+##MOLFORM=C5H10N2O2
+##CAS REGISTRY NO=50551-10-5
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    37          9
+    38          6
+    39         26
+    40        146
+    41        261
+    42        455
+    43        750
+    44        350
+    45         68
+    46         19
+    55         37
+    56         24
+    57         22
+    58        999
+    59         39
+    60        109
+    61         31
+    64          4
+    67         14
+    68        472
+    69         47
+    70         20
+    73         12
+    74         12
+    84         50
+    85        808
+    86         81
+    87          5
+    88         27
+   102         25
+   114          5
+   115         13
+   116          4
+   130        422
+   131         18

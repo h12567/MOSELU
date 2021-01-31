@@ -1,0 +1,44 @@
+##TITLE=Library Entry 58317
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Chloromethyl n-propyl sulfide
+##MOLFORM=C4H9ClS
+##CAS REGISTRY NO=42330-15-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    45        595
+    46        502
+    47        432
+    49        196
+    51         56
+    58         41
+    59         85
+    60         43
+    61        206
+    63         17
+    71         13
+    73         28
+    75         65
+    80         11
+    81         23
+    82         31
+    83         17
+    88         38
+    89        999
+    90         54
+    91         41
+    95        258
+    96          9
+    97         87
+   109          6
+   124        326
+   125         21
+   126        108
+   127          7

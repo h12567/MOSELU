@@ -1,0 +1,91 @@
+##TITLE=Library Entry 5322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Amino-1-phenyl-2-pyrazolin-5-one
+##MOLFORM=C9H9N3O
+##CAS REGISTRY NO=4149-06-8
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         26
+    16          1
+    18          1
+    26          3
+    27         16
+    29          4
+    30          2
+    37          9
+    38         27
+    39         43
+    40         28
+    41        190
+    42        999
+    43         38
+    44          1
+    49          3
+    50         53
+    51        158
+    52         24
+    53          4
+    54          1
+    55         13
+    56          3
+    60          1
+    61          4
+    62         10
+    63         43
+    64         71
+    65         29
+    66          3
+    67          3
+    68         14
+    69          2
+    70          7
+    74         14
+    75          9
+    76         13
+    77        236
+    78         88
+    79         54
+    80          5
+    82          1
+    87         22
+    89          1
+    90          8
+    91        216
+    92         25
+    93          8
+   102          3
+   103          5
+   104         26
+   105         29
+   106          7
+   107          8
+   108          8
+   117          3
+   118          4
+   119          8
+   120          1
+   129          1
+   130          8
+   131          1
+   132          4
+   133          4
+   134          1
+   141          1
+   146          3
+   147          6
+   158         31
+   159          3
+   160          1
+   174          9
+   175        874
+   176         96
+   177          7

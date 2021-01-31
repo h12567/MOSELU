@@ -1,0 +1,46 @@
+##TITLE=Library Entry 44522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=CH3CH2CH2SCH2CH=CH2
+##MOLFORM=C6H12S
+##CAS REGISTRY NO=27817-67-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=871
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         62
+    38         29
+    39        320
+    40         25
+    41        750
+    42         42
+    43        100
+    45        369
+    46         97
+    47        139
+    53         84
+    55         17
+    58         33
+    59        119
+    60         14
+    61         31
+    67         21
+    71         65
+    72         44
+    73        292
+    74        999
+    75        141
+    76         44
+    83          7
+    85         83
+    87        269
+    88         20
+    89         18
+   116        658
+   117         43
+   118         29

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 6532
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.W.ROESKY, GOTTINGEN UNIV., GOTTINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=Phosphorodifluoridothioic hydrazide, 1-(difluorophosphinothioyl)-
+2,2-dimethyl-
+##MOLFORM=C2H6F4N2P2S2
+##CAS REGISTRY NO=36267-51-3
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    28        140
+    42        930
+    43        999
+    44        910
+    46         70
+    59        100
+    69        550
+   101        130
+   115         80
+   120         50
+   159        210
+   217        170
+   260        210

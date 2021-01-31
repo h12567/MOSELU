@@ -1,0 +1,59 @@
+##TITLE=Library Entry 87229
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,4-Ethanonaphthalene-5,8-dione, 1,4,4a,8a-tetrahydro-1-methoxy-
+##MOLFORM=C13H14O3
+##CAS REGISTRY NO=91910-07-5
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26         21
+    27         22
+    28          3
+    39         41
+    40          7
+    41         42
+    45         15
+    50          7
+    51         25
+    52         14
+    53         17
+    54         80
+    55         23
+    63         10
+    65         55
+    66         16
+    67         64
+    77         63
+    78         49
+    79         62
+    80         21
+    81          8
+    82        255
+    83         12
+    91         26
+    93         11
+    94         17
+    95        122
+    96         11
+   103         12
+   105          8
+   108        211
+   109        133
+   110        999
+   111         94
+   121         15
+   131          5
+   136          8
+   147          5
+   149          7
+   161          4
+   175          5
+   190         33
+   218          4

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 2631
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[5.2.0]nonane, 1,7-dimethyl-, cis-
+##MOLFORM=C11H20
+##CAS REGISTRY NO=20130-83-0
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26         70
+    27        599
+    28        220
+    29        529
+    30         20
+    32         20
+    37         30
+    39        569
+    40        200
+    41        999
+    42        100
+    43        150
+    44         20
+    50         20
+    51         70
+    53        280
+    54        160
+    55        719
+    56        170
+    57         70
+    63         10
+    65         50
+    66         40
+    67        380
+    68        400
+    69         80
+    70         80
+    77         60
+    78         20
+    79         70
+    80         30
+    81        599
+    82        450
+    83         80
+    84         10
+    91         20
+    93         20
+    94         10
+    95        350
+    96        300
+    97         50
+   108         10
+   109         10
+   110        260
+   111         60
+   123         10
+   124        250
+   125         50
+   137         50
+   152         10

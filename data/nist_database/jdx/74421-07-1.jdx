@@ -1,0 +1,87 @@
+##TITLE=Library Entry 75999
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Neopentylamine, TMS derivative
+##MOLFORM=C8H21NSi
+##CAS REGISTRY NO=74421-07-1
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    26          5
+    27         28
+    28         52
+    29         42
+    30         68
+    31         13
+    32          1
+    37          3
+    38          3
+    39         27
+    40          7
+    41         89
+    42         35
+    43         56
+    44         36
+    45         80
+    46         12
+    47          6
+    50          3
+    51          6
+    53         10
+    54          4
+    55         22
+    56         21
+    57         23
+    58         27
+    59         83
+    60         17
+    61          3
+    62          1
+    64          3
+    66          0
+    67          4
+    68          9
+    69          6
+    70          7
+    71          6
+    72         25
+    73        806
+    74         88
+    75         39
+    76          3
+    77          2
+    78          0
+    82          1
+    84          3
+    85          2
+    86         18
+    87         12
+    88          8
+    96          0
+    98          2
+   101          5
+   102        999
+   103        102
+   104         38
+   105          1
+   112          1
+   114          4
+   127          1
+   128          4
+   129          3
+   140          2
+   142          3
+   143          0
+   144        193
+   145         24
+   146          7
+   147          0
+   158          3
+   159          5

@@ -1,0 +1,79 @@
+##TITLE=Library Entry 81690
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH EPA-PTSEL 0575
+##NAMES=HP
+##CAS NAME=Benzoximate
+##MOLFORM=C18H18ClNO5
+##CAS REGISTRY NO=29104-30-1
+##MP= -300
+##BP= -300
+##MW= 363
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15         20
+    27          0
+    28         18
+    29          5
+    30         24
+    40          8
+    44          6
+    50         25
+    51         61
+    52          4
+    53          8
+    62          1
+    63          7
+    64          7
+    65          1
+    66          3
+    73         10
+    74          3
+    75         19
+    76         25
+    77        311
+    78         35
+    79          0
+    85          1
+    87          0
+    88          4
+    90          0
+    91          2
+    99          0
+   104         34
+   105        999
+   106        106
+   107          6
+   110          1
+   111          6
+   112          0
+   113         13
+   119          0
+   122         14
+   126         16
+   127          6
+   128          2
+   139          0
+   140          1
+   141         39
+   142          1
+   143         16
+   150          3
+   154         18
+   155          9
+   156         13
+   170          8
+   172          1
+   184         42
+   185          2
+   186         25
+   197         21
+   198         20
+   199        736
+   200         78
+   201        245
+   202         32
+   213         22
+   215          5

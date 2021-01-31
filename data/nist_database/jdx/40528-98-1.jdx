@@ -1,0 +1,62 @@
+##TITLE=Library Entry 100979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,4,4,5,5-Pentamethyl-2-(4-bromophenyl)-1,3-dioxasilolane
+##MOLFORM=C13H19BrO2Si
+##CAS REGISTRY NO=40528-98-1
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    58        132
+    59        879
+    61         64
+    76        486
+    78         50
+    85        133
+    91        178
+    99        228
+   101         99
+   102        586
+   104         96
+   116        284
+   117         97
+   118         88
+   119        999
+   120        139
+   121         90
+   134         37
+   135         68
+   136         51
+   181        178
+   183        189
+   194        620
+   196         88
+   197        758
+   198         96
+   199         87
+   200        113
+   213        346
+   215        337
+   218         95
+   220         51
+   240        171
+   241        177
+   255        234
+   256        315
+   257        228
+   258        190
+   299        759
+   300        120
+   301        794
+   302         50
+   314        883
+   315        164
+   316        898
+   317        169
+   318         51

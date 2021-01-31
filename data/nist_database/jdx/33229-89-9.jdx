@@ -1,0 +1,44 @@
+##TITLE=Library Entry 27881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1038
+##NAMES=HP
+##CAS NAME=Glycine, N,N-dimethyl-, ethyl ester
+##MOLFORM=C6H13NO2
+##CAS REGISTRY NO=33229-89-9
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         31
+    18          2
+    19          1
+    26          3
+    27         17
+    28          8
+    29         27
+    30         44
+    31          7
+    40          3
+    41          9
+    42         84
+    43         16
+    44         30
+    45          5
+    55          1
+    56          7
+    57         22
+    58        999
+    59         39
+    60          2
+    72          7
+    74          6
+   100          3
+   102          4
+   130          2
+   131         66
+   132          5

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 32712
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.1]oct-2-ene
+##MOLFORM=C8H12
+##CAS REGISTRY NO=16544-26-6
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26         16
+    27        199
+    28         91
+    29         35
+    37          4
+    38         23
+    39        444
+    40         63
+    41        502
+    42         24
+    43          4
+    45          2
+    50         34
+    51        105
+    52         56
+    53         98
+    54        208
+    55         25
+    56          2
+    57         37
+    62          7
+    63         31
+    64          4
+    65        229
+    66        476
+    67        999
+    68         73
+    69          2
+    74          2
+    75          3
+    76          2
+    77        259
+    78        138
+    79        735
+    80        406
+    81         36
+    89          3
+    91        164
+    92         20
+    93        382
+    94         33
+    99          2
+   103          6
+   105         13
+   106          1
+   107         20
+   108         88
+   109          8

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 9309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Propanone, 1-(ethylthio)-
+##MOLFORM=C5H10OS
+##CAS REGISTRY NO=20996-62-7
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    25          1
+    26         44
+    27        265
+    29        295
+    30          4
+    31          2
+    33          2
+    34          7
+    35         41
+    37          2
+    38          1
+    39         24
+    41        158
+    42         78
+    43        999
+    44         39
+    45        183
+    46         86
+    47        731
+    48         49
+    49         28
+    50          0
+    57         15
+    58        150
+    59        157
+    60         88
+    61        130
+    62          8
+    63          3
+    64          2
+    71         11
+    72          7
+    73         14
+    74          1
+    75        838
+    76        130
+    77         35
+    78          3
+    85          1
+    90          0
+   118        311
+   119         16
+   120         12

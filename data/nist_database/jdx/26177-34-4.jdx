@@ -1,0 +1,50 @@
+##TITLE=Library Entry 946
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Methyl-3,3-pentamethylenediaziridine
+##MOLFORM=C7H14N2
+##CAS REGISTRY NO=26177-34-4
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    28        160
+    29        120
+    30        999
+    31         80
+    32         50
+    39        120
+    40        300
+    41        480
+    42        310
+    43        120
+    44        100
+    45        200
+    46        220
+    47         19
+    53        100
+    54        380
+    55        400
+    56        120
+    57        100
+    58          9
+    67        200
+    68        140
+    69         11
+    94         40
+    95         20
+    96        120
+    97        440
+    98        250
+    99         19
+   110        130
+   111        110
+   112         10
+   125        160
+   126        110
+   127         10

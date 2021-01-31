@@ -1,0 +1,40 @@
+##TITLE=Library Entry 38579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Methane, bis(neopentyloxy)-
+##MOLFORM=C11H24O2
+##CAS REGISTRY NO=4457-17-4
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        200
+    42         40
+    43        720
+    44         80
+    45         10
+    47         10
+    53         20
+    54         10
+    55        110
+    56        110
+    57        160
+    58         10
+    59         10
+    70         10
+    71        999
+    72         80
+    73         10
+    85         10
+   101        240
+   102         30
+   103         70
+   104         10
+   131         30
+   158         20

@@ -1,0 +1,28 @@
+##TITLE=Library Entry 24776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CORINA, DEP. BIOCHEM., SOUTHAMPTON UNIV., SOUTHAMPTO
+N, U.K.
+##NAMES=HP
+##CAS NAME=Cyclohexanemethyl propanoate
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=2890-67-7
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    29        210
+    41        580
+    54        230
+    55        800
+    57        999
+    67        430
+    68        270
+    71        160
+    74         21
+    81        750
+    96        430
+    97         95

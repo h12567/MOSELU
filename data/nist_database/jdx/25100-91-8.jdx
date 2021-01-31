@@ -1,0 +1,35 @@
+##TITLE=Library Entry 40376
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B R. WEBSTER
+##NAMES=HP
+##CAS NAME=Thiazole, 2-(4-chlorophenyl)-4-methyl-
+##MOLFORM=C10H8ClNS
+##CAS REGISTRY NO=25100-91-8
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    45        170
+    50         56
+    51         37
+    69         37
+    71        611
+    72        999
+    73         93
+    74         56
+    75         93
+    76         37
+   102         56
+   111         37
+   137         37
+   138         74
+   139         17
+   140         28
+   209        833
+   210        111
+   211        333
+   212         37

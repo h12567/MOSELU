@@ -1,0 +1,65 @@
+##TITLE=Library Entry 664
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH EPA-PTSEL 3420
+##NAMES=HP
+##CAS NAME=Dixanthogen
+##MOLFORM=C6H10O2S4
+##CAS REGISTRY NO=502-55-6
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=1693
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    14         12
+    15         39
+    26         43
+    27        409
+    28         95
+    29        999
+    30         61
+    31         55
+    32         83
+    33         17
+    34         18
+    35         24
+    38          8
+    42          2
+    43         37
+    44         60
+    45         77
+    46         17
+    47         14
+    59         13
+    60         74
+    61        129
+    62         14
+    64         85
+    65         52
+    66        287
+    67          5
+    68         24
+    75          4
+    76        216
+    77         33
+    78         30
+    79          8
+    89        432
+    90         18
+    91         19
+    93        177
+    94        295
+    95         26
+    96         24
+   108          8
+   121         28
+   122         16
+   125         16
+   149          8
+   154         31
+   242         22
+   243          2
+   244          4
+   245          0

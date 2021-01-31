@@ -1,0 +1,64 @@
+##TITLE=Library Entry 35487
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Tetradecene, 2,3,4-trimethyl-
+##MOLFORM=C17H34
+##CAS REGISTRY NO=55103-81-6
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        455
+    42         49
+    43        396
+    53         59
+    54         29
+    55        584
+    56         79
+    57        326
+    58          9
+    65          9
+    67        178
+    68         59
+    69        999
+    70        227
+    71        198
+    72          9
+    77         19
+    79         29
+    80          9
+    81        108
+    82         79
+    83        623
+    84         49
+    85         69
+    91          9
+    93          9
+    94         89
+    95         29
+    96        445
+    97         69
+    98         19
+   109         49
+   110          9
+   111        287
+   112         49
+   113         19
+   123         19
+   124          9
+   125        128
+   126         19
+   139         49
+   166          9
+   167          9
+   193         29
+   194         99
+   195         29
+   237         99
+   238         19

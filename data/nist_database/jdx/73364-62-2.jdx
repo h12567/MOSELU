@@ -1,0 +1,49 @@
+##TITLE=Library Entry 13462
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. YALPANI, B.C. RES., 3650 WESBROOK MALL, VANCOUVER, C
+AN.
+##NAMES=HP
+##CAS NAME=(4-Benzoylphenyl)aminocarbonylmethyl 2,3,4,6-tetra-O-acetyl-1-thi
+o-.alpha.-D-glucopyranoside
+##MOLFORM=C29H31NO11S
+##CAS REGISTRY NO=73364-62-2
+##MP= -300
+##BP= -300
+##MW= 601
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    43        999
+    45        650
+    77        800
+   105        770
+   169        770
+   196        820
+   197        680
+   198        750
+   199        440
+   210        380
+   211        400
+   223        400
+   224        420
+   229        320
+   238        310
+   239        540
+   240        350
+   271        460
+   272        350
+   273        660
+   274        430
+   275        500
+   276        330
+   331        370
+   366        380
+   367        290
+   379        380
+   380        340
+   408        330
+   421        370
+   422        300
+   601        160

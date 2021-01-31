@@ -1,0 +1,64 @@
+##TITLE=Library Entry 11533
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 2-methylene-3-(1-methylethenyl)-, acetate, cis-
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=54824-09-8
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=1284
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41        158
+    42         20
+    43        999
+    44         20
+    51         22
+    52          6
+    53         58
+    54          6
+    55         78
+    56          8
+    57         20
+    65         26
+    66          6
+    67         66
+    68          4
+    69         24
+    70        120
+    77         78
+    78         24
+    79        126
+    80          8
+    81         64
+    82         40
+    83         24
+    84         10
+    91        186
+    92        102
+    93        138
+    94         38
+    95         44
+    96         20
+    97         18
+   105        140
+   106        148
+   107        128
+   108         18
+   109         42
+   112         22
+   119        272
+   120         24
+   121         26
+   123         24
+   133         18
+   134        264
+   135         44
+   136         22
+   137         20
+   151         12
+   152         24

@@ -1,0 +1,67 @@
+##TITLE=Library Entry 31301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2825
+##NAMES=HP
+##CAS NAME=Ethanol, 2-(methylthio)-
+##MOLFORM=C3H8OS
+##CAS REGISTRY NO=5271-38-5
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=843
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          9
+    15         34
+    16          1
+    17          1
+    18          5
+    19         11
+    25          1
+    26         12
+    27        149
+    28         50
+    29         44
+    30          3
+    31         74
+    32         11
+    33          4
+    34          4
+    35        147
+    36          3
+    37          6
+    39          4
+    41         19
+    42         13
+    43         80
+    44        107
+    45        158
+    46        125
+    47        222
+    48         89
+    49         79
+    50          5
+    51          3
+    56          1
+    57          7
+    58         21
+    59         45
+    60         10
+    61        999
+    62        113
+    63         48
+    64          4
+    73          6
+    74         23
+    75         22
+    76          7
+    77          3
+    79          1
+    90          4
+    91          8
+    92        511
+    93         22
+    94         24

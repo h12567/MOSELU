@@ -1,0 +1,40 @@
+##TITLE=Library Entry 81668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Diphenyl phthalane
+##MOLFORM=C20H16O
+##CAS REGISTRY NO=7449-50-5
+##MP= -300
+##BP= -300
+##MW= 272
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    51         59
+    63         40
+    77        219
+    78         29
+    89         30
+    99         59
+   105        999
+   106         80
+   139         50
+   152         99
+   163         49
+   164         60
+   165        511
+   166        131
+   167        248
+   168         40
+   177         59
+   178         60
+   193        119
+   194        700
+   195        298
+   196         39
+   271        171
+   272        361
+   273         70

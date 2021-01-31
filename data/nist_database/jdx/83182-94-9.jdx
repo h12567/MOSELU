@@ -1,0 +1,51 @@
+##TITLE=Library Entry 85406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C.Fenselau, JAOAC,59,1028(1976)
+##NAMES=HP
+##CAS NAME=Phosphoramide mustard, dimethyl deriv.
+##MOLFORM=C6H15Cl2N2O2P
+##CAS REGISTRY NO=83182-94-9
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    91         37
+    92        257
+    94         89
+    96         26
+    97         42
+    99         21
+   100         37
+   105        105
+   107         26
+   108        999
+   109         72
+   118         37
+   119         63
+   120         37
+   122         44
+   124         30
+   132        152
+   133         23
+   134         33
+   137         42
+   149        199
+   150         26
+   155         42
+   163        348
+   167         23
+   168         21
+   170         86
+   172         16
+   178         21
+   185         19
+   199        991
+   200        103
+   201        348
+   202         30
+   212         35
+   214         12

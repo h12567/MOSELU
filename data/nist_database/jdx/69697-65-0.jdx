@@ -1,0 +1,57 @@
+##TITLE=Library Entry 79115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=5-Phenyl-6,8-dioxa-3-thiabicyclo(3,2,1)octane 3,3-dioxide
+##MOLFORM=C11H12O4S
+##CAS REGISTRY NO=69697-65-0
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         12
+    43         40
+    44         11
+    45          8
+    46         11
+    50          8
+    51         40
+    52         16
+    57         20
+    60         24
+    63         20
+    64         19
+    65         19
+    73         19
+    74         19
+    75         19
+    76         15
+    77        147
+    78         19
+    79         19
+    89         12
+    90         12
+    91         39
+    97         39
+   102         20
+   103         43
+   104          8
+   105        999
+   106         78
+   107         19
+   115         11
+   117         47
+   118         15
+   120          7
+   147          3
+   149          7
+   157         11
+   161         20
+   162         39
+   163         15
+   240         39

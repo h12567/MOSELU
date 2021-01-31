@@ -1,0 +1,46 @@
+##TITLE=Library Entry 17630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=2-Hydroxyethyl ethyl disulfide
+##MOLFORM=C4H10OS2
+##CAS REGISTRY NO=4151-67-1
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    45        999
+    46        230
+    47        221
+    48         31
+    57         21
+    58        125
+    59        151
+    61        163
+    62         64
+    64        272
+    66        320
+    67         20
+    75         15
+    76         29
+    78         48
+    79        234
+    81         37
+    82         11
+    91         34
+    92         43
+    93         98
+    94        344
+    96         56
+   107         37
+   109          7
+   121        139
+   122         17
+   138        509
+   139         13
+   140         77
+   141          4

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 20045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 118, K.E. MURRAY & COLLEAGUES, DIV
+. OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=3-Penten-1-ol, (Z)-
+##MOLFORM=C5H10O
+##CAS REGISTRY NO=764-38-5
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=725
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    26         63
+    27        474
+    28        161
+    29        577
+    30         20
+    31        496
+    32          7
+    37         23
+    38         54
+    39        526
+    40        105
+    41        708
+    42         79
+    43         98
+    44        175
+    45         34
+    49         12
+    50         55
+    51         70
+    52         31
+    53        285
+    54        146
+    55        999
+    56        905
+    57        182
+    58         36
+    61          6
+    62          9
+    63         12
+    64          1
+    65         22
+    66         29
+    67        241
+    68        934
+    69         57
+    70          6
+    71         22
+    80          2
+    81         15
+    82         25
+    83         16
+    84         18
+    85          7
+    86         55
+    87          2

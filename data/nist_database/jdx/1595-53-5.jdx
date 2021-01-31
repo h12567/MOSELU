@@ -1,0 +1,41 @@
+##TITLE=Library Entry 1833
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Penten-4-yne, 2-methyl-
+##MOLFORM=C6H8
+##CAS REGISTRY NO=1595-53-5
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    37        203
+    38        320
+    39        999
+    40        134
+    41        287
+    42          9
+    43          1
+    50        308
+    51        318
+    52        301
+    53        146
+    54         48
+    55          2
+    61         94
+    62        141
+    63        236
+    65        327
+    66         11
+    67          1
+    73         17
+    74         39
+    75         11
+    77        464
+    79        677
+    80        716
+    81         43

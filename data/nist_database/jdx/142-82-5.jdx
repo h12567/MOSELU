@@ -1,0 +1,59 @@
+##TITLE=Library Entry 5803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Heptane
+##MOLFORM=C7H16
+##CAS REGISTRY NO=142-82-5
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=700
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+     2          6
+    12          0
+    13          1
+    14          9
+    15         67
+    16          2
+    25          1
+    26         43
+    27        458
+    28         95
+    29        485
+    30         11
+    39        229
+    40         39
+    41        563
+    42        256
+    43        999
+    44         34
+    45          0
+    50          7
+    51         12
+    52          4
+    53         23
+    54          8
+    55        119
+    56        265
+    57        474
+    58         21
+    62          1
+    63          2
+    65          2
+    66          1
+    67          3
+    68          0
+    69          7
+    70        178
+    71        451
+    72         25
+    84          2
+    85         20
+    86          1
+   100        126
+   101          9

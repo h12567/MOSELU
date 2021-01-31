@@ -1,0 +1,59 @@
+##TITLE=Library Entry 50272
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Allylidenecyclohexane
+##MOLFORM=C9H14
+##CAS REGISTRY NO=5664-10-8
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          9
+    26         15
+    27        109
+    28         42
+    29         27
+    38         28
+    39        267
+    40         45
+    41        198
+    42         12
+    50         46
+    51        109
+    52         57
+    53        198
+    54         53
+    55         60
+    58          6
+    62         17
+    63         43
+    65        129
+    66         69
+    67        153
+    68         54
+    74          8
+    77        273
+    78        103
+    79        887
+    80        257
+    81        999
+    82         62
+    89         10
+    91        192
+    92         33
+    93        209
+    94         79
+    95         11
+   103          9
+   105         22
+   107        168
+   108         14
+   115          9
+   117          8
+   122        270
+   123         26

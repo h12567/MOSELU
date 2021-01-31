@@ -1,0 +1,38 @@
+##TITLE=Library Entry 29739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclopentanemethanol, .alpha.,.alpha.-dimethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=1462-06-2
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        192
+    40         42
+    41        272
+    42         42
+    43        302
+    44         80
+    51         52
+    53         70
+    55        182
+    58         60
+    59        999
+    65         30
+    66         40
+    67        300
+    68         78
+    69        110
+    81         50
+    83        120
+    91         58
+    95        200
+    97         40
+   100         80
+   113         92

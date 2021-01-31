@@ -1,0 +1,47 @@
+##TITLE=Library Entry 65923
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phenol, 4-(4-amino-3-furazanylazo)-
+##MOLFORM=C8H7N5O2
+##CAS REGISTRY NO=306746-98-5
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    44        828
+    45        118
+    49         41
+    50         22
+    51        194
+    52        401
+    53        550
+    54        366
+    55        218
+    59        114
+    61        130
+    62        114
+    63        293
+    64        135
+    65        980
+    66        137
+    69         25
+    77         90
+    78         85
+    79         41
+    80        303
+    84         45
+    93        999
+    94        142
+   107         42
+   112          7
+   122        499
+   123         53
+   134        181
+   148         27
+   205        422
+   206        153

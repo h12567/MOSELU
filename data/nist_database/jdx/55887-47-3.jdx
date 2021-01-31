@@ -1,0 +1,40 @@
+##TITLE=Library Entry 75995
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MO-8
+##NAMES=HP
+##CAS NAME=Silanamine, N-[2-[2-methoxy-4-[(trimethylsilyl)oxy]phenyl]ethyl]-
+1,1,1-trimethyl-
+##MOLFORM=C15H29NO2Si2
+##CAS REGISTRY NO=55887-47-3
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    30         22
+    43         20
+    44         16
+    45         68
+    58         19
+    59         56
+    72         16
+    73        463
+    74         43
+    75         30
+    86         13
+    87         10
+    89         10
+   102        999
+   103        104
+   104         43
+   133         15
+   149         16
+   179         37
+   180         22
+   209         24
+   210         39
+   296         37
+   297         10

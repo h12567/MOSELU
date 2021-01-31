@@ -1,0 +1,81 @@
+##TITLE=Library Entry 20994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9671
+##NAMES=HP
+##CAS NAME=Butane, 1-bromo-4-chloro-
+##MOLFORM=C4H8BrCl
+##CAS REGISTRY NO=6940-78-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=989
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          3
+    25          1
+    26         23
+    27        204
+    28         35
+    29        176
+    30          4
+    31          1
+    35          1
+    36          9
+    37          4
+    38          8
+    39        103
+    40          8
+    41        158
+    42         12
+    43          1
+    47          1
+    48          1
+    49         31
+    50          9
+    51         17
+    52          3
+    53         51
+    54         22
+    55        999
+    56         56
+    57          1
+    60          1
+    61          6
+    62         61
+    63         78
+    64         20
+    65         24
+    67          1
+    71          1
+    73          1
+    75         22
+    76          1
+    77          8
+    79          4
+    80          8
+    81          4
+    82          8
+    89          5
+    90         41
+    91        716
+    92         44
+    93        235
+    94          9
+    95         13
+   105          3
+   106         18
+   107         46
+   108         19
+   109         42
+   110          1
+   119          3
+   121          3
+   134         18
+   135          6
+   136         18
+   137          5
+   170          1
+   172          1

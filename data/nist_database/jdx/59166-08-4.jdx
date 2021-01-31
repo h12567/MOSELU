@@ -1,0 +1,46 @@
+##TITLE=Library Entry 76293
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Phenyl-7,10-dimethyl-4,9-dioxo-4,8,9,10-tetrahydro-1,2,4-triazi
+no(4,3-b)[1,2,4]-triazepine
+##MOLFORM=C14H13N5O2
+##CAS REGISTRY NO=59166-08-4
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    40         60
+    41         78
+    42         98
+    43        983
+    53         60
+    54        100
+    55        481
+    56        118
+    62         80
+    63        221
+    76        160
+    77        181
+    81        561
+    82         80
+    83         60
+    89        161
+   103        999
+   104        259
+   109        159
+   144         80
+   172         59
+   181         50
+   184         60
+   200         81
+   212        120
+   213         99
+   241        120
+   254         50
+   255        260
+   283        541

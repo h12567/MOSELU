@@ -1,0 +1,52 @@
+##TITLE=Library Entry 56998
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2853
+##NAMES=HP
+##CAS NAME=1,3-Dioxane
+##MOLFORM=C4H8O2
+##CAS REGISTRY NO=505-22-6
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=707
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          6
+    15         13
+    16          1
+    17          3
+    18         10
+    25          2
+    26         42
+    27        120
+    28        519
+    29        176
+    30         94
+    31        448
+    32          9
+    33          2
+    37          2
+    38          4
+    39         24
+    40          6
+    41         76
+    42          9
+    43         13
+    44          8
+    45         16
+    47          2
+    53          1
+    55          9
+    56          3
+    57        127
+    58        159
+    59        126
+    60          5
+    61          1
+    70          2
+    87        999
+    88         46
+    89          6

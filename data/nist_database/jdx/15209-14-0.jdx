@@ -1,0 +1,59 @@
+##TITLE=Library Entry 87231
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Pyrrole-2,5-dione, 1,1'-[oxybis(methylene)]bis-
+##MOLFORM=C10H8N2O5
+##CAS REGISTRY NO=15209-14-0
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    26        540
+    27        180
+    28        340
+    29        100
+    30         40
+    38         10
+    39         40
+    40         70
+    41         30
+    42         30
+    43         40
+    44         70
+    51         10
+    52         60
+    53        270
+    54        540
+    55        340
+    56        480
+    57         40
+    63         10
+    66         20
+    68         20
+    69         30
+    70        120
+    71         20
+    80        250
+    81         30
+    82        560
+    83        380
+    84         20
+    96         30
+    97         30
+    98        180
+    99         20
+   110        999
+   111        560
+   112        160
+   113         20
+   125         30
+   126        240
+   127         20
+   139        250
+   140         20
+   236          1

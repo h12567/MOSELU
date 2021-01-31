@@ -1,0 +1,71 @@
+##TITLE=Library Entry 40400
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=[Bis(diethylamino)methylenimino]sulfur pentafluoride
+##MOLFORM=C9H20F5N3S
+##CAS REGISTRY NO=81439-14-7
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    42         92
+    43        109
+    44        118
+    55        121
+    56        161
+    57         30
+    58         63
+    65         35
+    69        109
+    70         49
+    71        187
+    72        999
+    73        129
+    74         80
+    83        152
+    85        118
+    87         36
+    89         60
+    90         24
+    92         17
+    93         47
+    94         37
+    97        106
+    98        129
+    99        575
+   100         60
+   101         72
+   103         45
+   104         63
+   111         16
+   116         22
+   122        161
+   127        121
+   131         26
+   133         20
+   135         43
+   136         24
+   137         15
+   147         23
+   149         95
+   151         46
+   153         29
+   169        225
+   170        263
+   171         32
+   177        101
+   181         26
+   193         16
+   197        164
+   225        600
+   226         43
+   227         29
+   267         16
+   269         12
+   278         24
+   298          6

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 48470
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropane, ethenylmethylene-
+##MOLFORM=C6H8
+##CAS REGISTRY NO=19995-92-7
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         69
+    27        287
+    29          3
+    31          2
+    34          0
+    36          6
+    37         56
+    38        106
+    39        604
+    40         69
+    41        110
+    42          3
+    48          3
+    49         22
+    50        150
+    51        212
+    52        198
+    53        149
+    54         50
+    55          1
+    60          3
+    61         14
+    62         21
+    63         40
+    64          6
+    65         95
+    66          5
+    67          0
+    72          0
+    73          6
+    74         18
+    75         17
+    76          6
+    77        500
+    78         87
+    79        999
+    80        252
+    81         13
+    82          0

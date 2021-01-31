@@ -1,0 +1,66 @@
+##TITLE=Library Entry 57261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.Ahmad ET.AL. JAOCS, 55,491(1978)
+##NAMES=HP
+##CAS NAME=Methyl 4-hydroxy-trans-2-hexadecenoate
+##MOLFORM=C17H32O3
+##CAS REGISTRY NO=67373-90-4
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    55        692
+    57        464
+    59        109
+    61         77
+    67        161
+    69        257
+    71        189
+    79         77
+    80         85
+    81        174
+    83        288
+    84        374
+    85        119
+    87        999
+    88         96
+    91         42
+    93         70
+    94         57
+    95        125
+    96         51
+    97        182
+    98        202
+    99         53
+   107         46
+   108         44
+   109         83
+   111        175
+   112         55
+   113         97
+   115        607
+   116        295
+   130        198
+   139         65
+   140         80
+   141         41
+   143         82
+   192        119
+   193         58
+   197         53
+   206         43
+   210         95
+   211         94
+   223         29
+   224         37
+   225         15
+   252         29
+   253         56
+   255        267
+   256         51
+   266         27
+   284         40

@@ -1,0 +1,55 @@
+##TITLE=Library Entry 7686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4071
+##NAMES=HP
+##CAS NAME=Heptane, 2-methyl-
+##MOLFORM=C8H18
+##CAS REGISTRY NO=592-27-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=765
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    15          8
+    26          6
+    27        126
+    28          5
+    29        167
+    30          4
+    37          1
+    38          4
+    39         86
+    40         16
+    41        304
+    42        395
+    43        999
+    44         34
+    50          3
+    51          6
+    52          2
+    53         13
+    54          6
+    55        108
+    56         79
+    57        860
+    58         40
+    63          1
+    65          2
+    67          4
+    68          1
+    69         13
+    70        194
+    71        149
+    72          8
+    83          1
+    84          7
+    85         17
+    86          1
+    98         40
+    99        148
+   100         12
+   114         40
+   115          4

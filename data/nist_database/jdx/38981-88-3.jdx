@@ -1,0 +1,72 @@
+##TITLE=Library Entry 76745
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.C.MOFFAT BAYLOR UNIVERSITY, HOUSTON, TEXAS, USA
+##NAMES=HP
+##CAS NAME=Benzeneacetamide, 2,3,4,5,6-pentafluoro-N-(2-phenylethyl)-
+##MOLFORM=C16H12F5NO
+##CAS REGISTRY NO=38981-88-3
+##MP= -300
+##BP= -300
+##MW= 329
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    30        420
+    31         13
+    39         29
+    40          9
+    41         10
+    42          4
+    44          8
+    50          8
+    51         33
+    52          8
+    57          5
+    62          5
+    63         16
+    64          5
+    65         70
+    66          5
+    69         22
+    75          8
+    77         65
+    78         31
+    79         44
+    80          5
+    81          8
+    89         13
+    90          8
+    91        200
+    92         28
+    93          9
+   103         45
+   104        999
+   105        233
+   106         15
+   111          3
+   112          7
+   117          5
+   118          7
+   119          7
+   120         14
+   130          6
+   131         14
+   143          7
+   148          6
+   150          5
+   155          8
+   161         32
+   162         10
+   163          5
+   180         14
+   181        350
+   182         29
+   183          1
+   208          8
+   226          3
+   238          3
+   329        137
+   330         27
+   331          3

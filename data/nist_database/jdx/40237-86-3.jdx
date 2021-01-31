@@ -1,0 +1,46 @@
+##TITLE=Library Entry 25600
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=6-Ethyldecan-3-one
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=40237-86-3
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        280
+    42         60
+    43        400
+    44         20
+    53         40
+    55        260
+    56         60
+    57        999
+    58         30
+    67         40
+    69        160
+    70        260
+    71        180
+    72        440
+    73        120
+    81        140
+    83         80
+    84         30
+    85        440
+    86         60
+    95        160
+    97         20
+   111         20
+   112        260
+   113         25
+   137        160
+   138         20
+   155        160
+   156         20
+   184         40
+   185          5

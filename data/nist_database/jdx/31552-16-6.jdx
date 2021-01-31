@@ -1,0 +1,43 @@
+##TITLE=Library Entry 89630
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.BLESSINGTON UNIV. OF BRADFORD, BRADFORD, UK
+##NAMES=HP
+##CAS NAME=Proline, 1-isopropyl-, isopropyl ester, L-
+##MOLFORM=C11H21NO2
+##CAS REGISTRY NO=31552-16-6
+##MP= -300
+##BP= -300
+##MW= 199
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    40        180
+    41        600
+    43        450
+    44        600
+    47        450
+    48        240
+    49        170
+    67        720
+    68        600
+    69        200
+    70        800
+    71        220
+    87        220
+    92        170
+    93        170
+    95        550
+    96        550
+   107        150
+   109        530
+   110        410
+   111        350
+   112        999
+   113        930
+   142        790
+   156        140
+   157        600
+   184        140
+   199        560

@@ -1,0 +1,90 @@
+##TITLE=Library Entry 81206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8406
+##NAMES=HP
+##CAS NAME=3-Methyl-2-(O-methylbenzyl)butanenitrile
+##MOLFORM=C13H17N
+##CAS REGISTRY NO=29107-37-7
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          1
+    27         36
+    28          6
+    29          4
+    30          4
+    38          3
+    39         40
+    40          4
+    41         30
+    42          2
+    43         19
+    44          1
+    50          7
+    51         23
+    52          9
+    53         12
+    54          4
+    55          3
+    62          3
+    63         16
+    64          6
+    65         32
+    66          4
+    67          1
+    68          1
+    71          1
+    74          2
+    75          4
+    76          5
+    77         78
+    78         27
+    79         64
+    80          4
+    82          2
+    87          1
+    88          1
+    89         11
+    90          4
+    91         49
+    92         11
+    93          1
+   101          2
+   102          7
+   103         45
+   104         33
+   105        999
+   106         96
+   107          4
+   113          1
+   114          1
+   115         25
+   116         11
+   117         12
+   118          5
+   119         15
+   120          1
+   127          4
+   128          8
+   129          5
+   130          8
+   131          3
+   140          2
+   141          1
+   142          2
+   143          4
+   144         33
+   145        110
+   146         12
+   155          1
+   170          1
+   172          5
+   173          1
+   187         35
+   188          5

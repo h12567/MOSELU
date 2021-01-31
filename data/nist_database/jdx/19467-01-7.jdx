@@ -1,0 +1,67 @@
+##TITLE=Library Entry 30833
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Ethyl .alpha.-d-glucopyranoside
+##MOLFORM=C8H16O6
+##CAS REGISTRY NO=19467-01-7
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    42        427
+    43        400
+    44         81
+    45        210
+    47        247
+    49          5
+    51          5
+    53         17
+    55        123
+    56         98
+    57        249
+    60        999
+    61        143
+    62          6
+    69         65
+    70         56
+    71        146
+    73        339
+    74        160
+    75        211
+    76          8
+    77          3
+    81          9
+    83          6
+    85         53
+    86         15
+    87         36
+    88        111
+    89         21
+    91         14
+    97         46
+    98         49
+    99         14
+   101         17
+   103          4
+   109          3
+   113          4
+   115          4
+   116         22
+   117         17
+   118         17
+   127         15
+   130         18
+   131         22
+   135         11
+   144         35
+   145         27
+   147          8
+   159          7
+   163          8
+   177          5
+   208          4

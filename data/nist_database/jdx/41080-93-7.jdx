@@ -1,0 +1,74 @@
+##TITLE=Library Entry 27408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.OLSSON INST. OF ORG. CHEM., GOTEBORG 5, SWEDEN
+##NAMES=HP
+##CAS NAME=Benzenemethanol, 2,4,6-tris(2,2-dimethylpropyl)-, acetate
+##MOLFORM=C24H40O2
+##CAS REGISTRY NO=41080-93-7
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    29        100
+    36         20
+    39         60
+    40         20
+    41        330
+    42         20
+    43        210
+    44         20
+    53         20
+    55         50
+    56         50
+    57        999
+    58         30
+    69         20
+    71        100
+    91         40
+   105         20
+   115         30
+   116         20
+   117         20
+   119         30
+   128         20
+   129         30
+   130         20
+   131         70
+   132        150
+   133         40
+   134         30
+   141         20
+   142         20
+   143         30
+   157         40
+   171         30
+   172         20
+   173        100
+   174         40
+   187        220
+   188        450
+   189         90
+   190         20
+   205         20
+   213         20
+   219         40
+   220         20
+   243        190
+   244        500
+   245        120
+   261         80
+   262         20
+   285        110
+   286         30
+   300        210
+   301         80
+   302         20
+   303         20
+   345         20
+   360         19
+   361          5
+   362          1

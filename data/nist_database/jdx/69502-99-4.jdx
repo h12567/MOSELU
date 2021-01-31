@@ -1,0 +1,61 @@
+##TITLE=Library Entry 53196
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JOCRAM,143(1)117(1977); J. P. KAMERLING, UNIVERSITY OF
+ UTRECHT, THE NETHERLANDS
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2,3-bis(acetyloxy)-, 5-methyl-2-(1-methylethyl)cy
+clohexyl ester
+##MOLFORM=C17H28O6
+##CAS REGISTRY NO=69502-99-4
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    55        270
+    56         50
+    57        330
+    58         40
+    67        120
+    68         60
+    69        270
+    70         50
+    71         70
+    77         40
+    79         50
+    80        140
+    81        610
+    82        220
+    83        999
+    84        110
+    85         50
+    86        150
+    87         30
+    93         50
+    94        110
+    95        600
+    96        150
+    97        150
+    98         50
+   103        270
+   104         10
+   109         70
+   110         50
+   112         20
+   123        210
+   124         50
+   131        220
+   132         10
+   137         40
+   138        660
+   139        260
+   140         50
+   145         30
+   149         30
+   155         10
+   173         60
+   191         20
+   328          1

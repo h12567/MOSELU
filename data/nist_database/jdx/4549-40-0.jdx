@@ -1,0 +1,59 @@
+##TITLE=Library Entry 950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Ethenamine, N-methyl-N-nitroso-
+##MOLFORM=C3H6N2O
+##CAS REGISTRY NO=4549-40-0
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    30        999
+    31         44
+    32         11
+    33          5
+    35          5
+    36          5
+    37          5
+    38         39
+    39         73
+    40        129
+    41        190
+    42        938
+    43         44
+    44         44
+    45          5
+    47         22
+    48         11
+    49          5
+    50         11
+    51         28
+    52         44
+    53         39
+    54        106
+    55        140
+    56        252
+    57        275
+    58         11
+    59         11
+    66         16
+    67        112
+    68         73
+    69         44
+    70          5
+    78          5
+    79          5
+    80         50
+    81         67
+    82         11
+    83         78
+    84          5
+    85         44
+    86        151
+    87         11

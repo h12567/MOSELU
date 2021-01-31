@@ -1,0 +1,63 @@
+##TITLE=Library Entry 32302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. Vainiotalo, Dep. Chem., Joensuu Univ., Joensuu, Finl
+and
+##NAMES=HP
+##CAS NAME=3-Azabicyclo[3.2.1]octan-2-one
+##MOLFORM=C7H11NO
+##CAS REGISTRY NO=16994-00-6
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15         30
+    26         35
+    27        299
+    29         85
+    30        835
+    31         22
+    37         14
+    38         41
+    39        441
+    40        119
+    41        596
+    42         95
+    43         91
+    44         39
+    50         23
+    51         43
+    52         31
+    53        154
+    54        343
+    55        645
+    56         95
+    57         12
+    58         75
+    59        231
+    60         28
+    63         16
+    65         66
+    66        108
+    67        999
+    68        744
+    69        102
+    77         37
+    78         13
+    79        106
+    80        249
+    81        113
+    82         35
+    84         60
+    94         14
+    95         12
+    96        337
+    97         82
+   110         25
+   111          2
+   124         33
+   125        463
+   126         41

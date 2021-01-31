@@ -1,0 +1,36 @@
+##TITLE=Library Entry 10288
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. SAINT-JALM, DEP. BIOL. CHIM., SEITA, PARIS, FR.
+##NAMES=HP
+##CAS NAME=6-(3-Methyl-3-cyclohexenyl)-2-methyl-2,6-heptadienol
+##MOLFORM=C15H24O
+##CAS REGISTRY NO=18681-09-9
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        320
+    41        720
+    43        999
+    53        290
+    55        390
+    68        300
+    71        590
+    77        390
+    79        700
+    81        330
+    83        340
+    91        460
+    92        250
+    93        800
+    94        270
+    95        230
+   105        290
+   107        280
+   119        410
+   134        300
+   152        210

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 60403
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, (2-isothiocyanatopropyl)-
+##MOLFORM=C10H11NS
+##CAS REGISTRY NO=16220-05-6
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         56
+    28         38
+    39        111
+    41         83
+    50         38
+    51         85
+    52         28
+    59         38
+    60         49
+    62         19
+    63         58
+    65        145
+    77         62
+    78         36
+    84         17
+    85         15
+    86        687
+    87         43
+    88         41
+    89         36
+    90         17
+    91        999
+    92        115
+   103         23
+   104         21
+   115         41
+   117         47
+   119         56
+   134         19
+   135         51
+   140          2
+   177        427
+   178         56
+   179         24

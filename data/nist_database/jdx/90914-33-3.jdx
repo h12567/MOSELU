@@ -1,0 +1,76 @@
+##TITLE=Library Entry 80189
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-Cyano-1-[2,3,5-tri-O-benzoyl-.beta.-d-ribofuranosyl]pyrazolo[3,
+4-d]pyrimidin-4(5H)-one
+##MOLFORM=C32H23N5O8
+##CAS REGISTRY NO=90914-33-3
+##MP= -300
+##BP= -300
+##MW= 605
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    41          6
+    42          4
+    43          9
+    44          6
+    45         31
+    47          1
+    49         11
+    50         47
+    51        106
+    52         12
+    53          7
+    55          6
+    61          1
+    62          5
+    63          4
+    65          5
+    66          3
+    67          6
+    68          5
+    69         10
+    73          4
+    74         21
+    75         11
+    76         27
+    77        356
+    78         35
+    79          3
+    81          9
+    84          1
+    89          4
+    94          3
+    97          4
+   104          9
+   105        999
+   106         75
+   107          4
+   122         79
+   123          4
+   131          2
+   145          1
+   160          1
+   161         26
+   162          4
+   198          1
+   201         98
+   202         13
+   219          3
+   240         10
+   256         10
+   257          2
+   319          2
+   322         25
+   323          5
+   361         11
+   362          3
+   378          2
+   445        112
+   446         28
+   447          4

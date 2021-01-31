@@ -1,0 +1,39 @@
+##TITLE=Library Entry 71234
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Piperidinosulfonyl-1-methyl-pyrrolidin-2-ylideneimine
+##MOLFORM=C10H19N3O2S
+##CAS REGISTRY NO=110793-41-4
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         58
+    40         36
+    41        235
+    42        395
+    43        121
+    44         60
+    55        149
+    56        110
+    57         48
+    68         42
+    69        517
+    70        391
+    82         23
+    83         58
+    84        989
+    85         72
+    97        181
+    98        999
+    99        302
+   145         89
+   161        570
+   244         41
+   245        120
+   246         24

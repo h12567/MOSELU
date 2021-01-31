@@ -1,0 +1,39 @@
+##TITLE=Library Entry 90924
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Chloro-10-(2-morpholinopropionyl)phenothiazine
+##MOLFORM=C19H19ClN2O2S
+##CAS REGISTRY NO=83568-08-5
+##MP= -300
+##BP= -300
+##MW= 374
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    56        811
+    70        990
+    85        313
+   101        638
+   114        999
+   127        110
+   153        292
+   188        323
+   196        653
+   197        712
+   198        390
+   200        322
+   225        121
+   232        963
+   233        937
+   234        896
+   235        360
+   253         91
+   260         39
+   289         90
+   323        119
+   374        170
+   375         60
+   376         80

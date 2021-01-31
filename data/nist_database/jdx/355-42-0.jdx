@@ -1,0 +1,52 @@
+##TITLE=Library Entry 36181
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3362
+##NAMES=HP
+##CAS NAME=Hexane, tetradecafluoro-
+##MOLFORM=C6F14
+##CAS REGISTRY NO=355-42-0
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    31         43
+    32          0
+    50         13
+    55          2
+    62          2
+    69        999
+    70         11
+    74          5
+    81          5
+    93         27
+    94          1
+   100         83
+   101          2
+   105          1
+   112          6
+   119        366
+   120          9
+   124          3
+   125          1
+   131        174
+   132          6
+   143          3
+   150         17
+   162          4
+   169        268
+   170          9
+   181         57
+   182          3
+   193          2
+   200          1
+   219         48
+   220          2
+   231         33
+   232          2
+   269          1
+   281          3
+   319          1

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 24832
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4579
+##NAMES=HP
+##CAS NAME=Pentane, 2,2,4,4-tetramethyl-
+##MOLFORM=C9H20
+##CAS REGISTRY NO=1070-87-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=773
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          4
+    26          2
+    27         27
+    28          6
+    29         81
+    30          2
+    37          1
+    38          2
+    39         39
+    40          7
+    41        170
+    42          9
+    43         56
+    44          2
+    46          1
+    47          2
+    48          3
+    49          1
+    50          2
+    51          3
+    52          1
+    53          9
+    54          2
+    55         30
+    56        256
+    57        999
+    58         46
+    59          1
+    65          1
+    67          4
+    69          3
+    70          6
+    71         21
+    72          1
+    77          1
+    79          2
+    81          2
+    83          2
+    97          1
+   113         16
+   114          2

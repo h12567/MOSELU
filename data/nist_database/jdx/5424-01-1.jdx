@@ -1,0 +1,51 @@
+##TITLE=Library Entry 68715
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Aminopyrazine-2-carboxylic acid
+##MOLFORM=C5H5N3O2
+##CAS REGISTRY NO=5424-01-1
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14         13
+    17         12
+    26         56
+    27         48
+    28        295
+    29         25
+    38         73
+    39        132
+    40        341
+    41        223
+    42        176
+    43        129
+    44         69
+    45         69
+    51         46
+    52        108
+    53         97
+    54         22
+    65         30
+    66        182
+    67        355
+    68        487
+    69         28
+    79         20
+    85         24
+    92         29
+    93        135
+    94        207
+    95        999
+    96         60
+   119         35
+   121         47
+   128         15
+   137         21
+   139        592
+   140         39

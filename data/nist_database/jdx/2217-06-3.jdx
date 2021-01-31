@@ -1,0 +1,43 @@
+##TITLE=Library Entry 1320
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Benzene, 1,1'-thiobis[2,4,6-trinitro-
+##MOLFORM=C12H4N6O12S
+##CAS REGISTRY NO=2217-06-3
+##MP= -300
+##BP= -300
+##MW= 456
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    30        999
+    46         50
+    50         30
+    53         60
+    80         70
+   106         60
+   120        200
+   150        100
+   168         60
+   180         40
+   228         30
+   229         40
+   230         30
+   244         50
+   254         40
+   258         30
+   270         50
+   287         20
+   299         50
+   316        110
+   332         10
+   362         10
+   364          6
+   379         10
+   410         16
+   456         50
+   457          8
+   458          3

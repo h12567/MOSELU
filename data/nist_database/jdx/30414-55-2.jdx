@@ -1,0 +1,29 @@
+##TITLE=Library Entry 25928
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Hexanoic acid, 5-methyl-3-oxo-, methyl ester
+##MOLFORM=C8H14O3
+##CAS REGISTRY NO=30414-55-2
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    41        480
+    42        200
+    43        529
+    57        999
+    59        340
+    69        330
+    74        230
+    84        260
+    85        979
+   101        569
+   116        499
+   127         70
+   143        140
+   158        160

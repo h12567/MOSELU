@@ -1,0 +1,31 @@
+##TITLE=Library Entry 11086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N. STEINEROVA,INST. MICROBIOL.,CZECH. ACAD. SCI.,PRAGUE
+,CZEC
+##NAMES=HP
+##CAS NAME=5-(2',3',4',6'-Tetra-O-acetyl-.beta.-D-glucopyranosyloxy)-1,4-nap
+hthoquinone
+##MOLFORM=C24H24O12
+##CAS REGISTRY NO=76768-53-1
+##MP= -300
+##BP= -300
+##MW= 504
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        999
+   105         90
+   109        630
+   118        210
+   127        270
+   146        170
+   169        570
+   174        350
+   187         80
+   211         70
+   229         70
+   271         60
+   331         50
+   504          4

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 33098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexane, butylidene-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=2272-03-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        360
+    42         10
+    43         50
+    53        160
+    54        160
+    55        480
+    56         10
+    65         10
+    66         10
+    67        999
+    68        180
+    69         30
+    77         30
+    79         70
+    80         20
+    81        600
+    82        320
+    83         30
+    95        130
+    96        410
+    97         20
+   109        650
+   110         40
+   138        220
+   139         10

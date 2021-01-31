@@ -1,0 +1,80 @@
+##TITLE=Library Entry 98156
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. Kirk, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Oxazolidin-2,4-dione, 3-[(2-hydroxy-1-methyl-2-phenyl)ethyl]-5-ph
+enyl-
+##MOLFORM=C18H17NO4
+##CAS REGISTRY NO=96930-53-9
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41         26
+    42         73
+    43         44
+    44         58
+    45          6
+    49          6
+    50         52
+    51        146
+    52         33
+    53         31
+    54          8
+    55         21
+    56          7
+    57         11
+    62         11
+    63         53
+    64         21
+    65         28
+    66          3
+    70         87
+    71          5
+    73          4
+    74          7
+    75         12
+    77        444
+    78         72
+    79        393
+    80         24
+    89        120
+    90        243
+    91         75
+    92          6
+   102          4
+   103         11
+   104          9
+   105        201
+   106         53
+   107        621
+   108         46
+   109          3
+   115         18
+   116          6
+   117          5
+   118        999
+   119         83
+   120          5
+   130          7
+   131          4
+   132         53
+   133         28
+   134        139
+   135         14
+   144          7
+   146          3
+   152          3
+   160          9
+   161        110
+   162         10
+   178          4
+   205        195
+   206         25
+   293          7
+   311         46
+   312          7

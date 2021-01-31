@@ -1,0 +1,60 @@
+##TITLE=Library Entry 2242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Bromo-2-nitropropane
+##MOLFORM=C3H6BrNO2
+##CAS REGISTRY NO=5447-97-2
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          3
+    14          5
+    15         47
+    16          8
+    17          1
+    18          3
+    19          1
+    25          7
+    26         36
+    27         91
+    28         48
+    30        386
+    31          5
+    32          3
+    36          5
+    37         37
+    38         89
+    39        486
+    40         88
+    41        999
+    42         98
+    43         39
+    44          1
+    45          2
+    46         56
+    51          2
+    52          3
+    55          1
+    57          2
+    59          1
+    72          2
+    73          1
+    79         38
+    80         12
+    81         36
+    82         12
+    93         25
+    95         23
+   105         11
+   106          2
+   107         11
+   121        477
+   123        470
+   124         17

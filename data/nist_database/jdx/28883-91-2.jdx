@@ -1,0 +1,55 @@
+##TITLE=Library Entry 98448
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Isoxazole, 5-amino-3-p-tolyl-
+##MOLFORM=C10H10N2O
+##CAS REGISTRY NO=28883-91-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        110
+    42         50
+    43         80
+    44        200
+    50        250
+    51        400
+    52        170
+    53        100
+    55         50
+    57         40
+    61         60
+    62        170
+    63        370
+    64        110
+    65        320
+    66         40
+    74        100
+    75        140
+    76        160
+    77        360
+    78        100
+    87         70
+    88         50
+    89        200
+    90        100
+    91        350
+    92         70
+   101         50
+   102        140
+   103        480
+   104         70
+   115         20
+   116        100
+   117        100
+   118        999
+   119        780
+   120        120
+   130        320
+   146        180
+   174         70

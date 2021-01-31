@@ -1,0 +1,52 @@
+##TITLE=Library Entry 85624
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=STC 0001
+##NAMES=HP
+##CAS NAME=3,5-Heptadien-2-one, 6-methyl-, (E)-
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=16647-04-4
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=1103
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    27        158
+    29         30
+    38         48
+    39        296
+    40          1
+    41        350
+    42         32
+    43        557
+    44         41
+    50         36
+    51         90
+    52         45
+    53        273
+    54         31
+    55         95
+    61         14
+    62         15
+    63         45
+    65         70
+    66         53
+    67         40
+    77         82
+    78         20
+    79        240
+    80         48
+    81        556
+    82         64
+    91         52
+    94         15
+    95         18
+   107         20
+   109        999
+   110         93
+   122         22
+   123         16
+   124        198
+   125         20

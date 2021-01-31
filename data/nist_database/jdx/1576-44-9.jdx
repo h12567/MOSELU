@@ -1,0 +1,78 @@
+##TITLE=Library Entry 65653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4-Nitrobenzenesulfonanilide
+##MOLFORM=C12H10N2O4S
+##CAS REGISTRY NO=1576-44-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    41          8
+    45          3
+    46          2
+    50         73
+    51         21
+    52         16
+    53          5
+    62          8
+    63         50
+    64         56
+    65        389
+    66         27
+    69          5
+    70          5
+    74         19
+    75         49
+    76         73
+    77         16
+    78          1
+    79          3
+    89          0
+    90          5
+    91         40
+    92        999
+    93         80
+    94          4
+    95          4
+    96          3
+   106          4
+   108          2
+   115          5
+   122         27
+   123          1
+   139         12
+   140          8
+   141          3
+   152          0
+   154          1
+   156          1
+   166         14
+   167         37
+   168         16
+   169          0
+   170          7
+   171          3
+   181          0
+   183          6
+   184         11
+   186          7
+   187          3
+   196          9
+   197         15
+   198          3
+   213         14
+   214          7
+   232          2
+   246          5
+   277         24
+   278        644
+   279         90
+   280         39
+   281          4

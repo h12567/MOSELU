@@ -1,0 +1,42 @@
+##TITLE=Library Entry 3144
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Acrylonitrylaziridine
+##MOLFORM=C5H6N2
+##CAS REGISTRY NO=2407-61-6
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    26        221
+    27        443
+    28        541
+    29         72
+    30          9
+    39        551
+    40        307
+    41        999
+    42        673
+    43        145
+    44         11
+    51         83
+    52        574
+    53        121
+    54         71
+    55          9
+    64         62
+    65         63
+    66        725
+    67        461
+    68         82
+    69         11
+    79        225
+    80         22
+    93        221
+    94         14
+    95          1

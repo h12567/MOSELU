@@ -1,0 +1,50 @@
+##TITLE=Library Entry 68010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,2-Cyclohexanedimethanol
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=3971-29-7
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        275
+    29        192
+    31         57
+    39        308
+    40         66
+    41        429
+    42         52
+    43         62
+    51         36
+    53        159
+    54        322
+    55        419
+    57         31
+    65         31
+    66         38
+    67        534
+    68        286
+    69         74
+    77         38
+    79         93
+    80         35
+    81        495
+    82         63
+    83         40
+    91         19
+    93         60
+    95        999
+    96        192
+    97         27
+   107         20
+   108        147
+   109         33
+   125         21
+   126         20
+   144          3

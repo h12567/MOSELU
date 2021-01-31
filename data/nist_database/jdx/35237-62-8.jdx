@@ -1,0 +1,68 @@
+##TITLE=Library Entry 2799
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=9-Dodecenol, trans
+##MOLFORM=C12H24O
+##CAS REGISTRY NO=35237-62-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1470
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    39        178
+    40          5
+    41        999
+    42        148
+    43        217
+    44          6
+    52          8
+    53         99
+    54        346
+    55        950
+    56        138
+    57         79
+    58          2
+    65          6
+    66         69
+    67        584
+    68        623
+    69        425
+    70         99
+    71         59
+    72          4
+    80         43
+    81        435
+    82        524
+    83        198
+    84         99
+    85          8
+    94         25
+    95        257
+    96        237
+    97         59
+    98          5
+   108         10
+   109        108
+   110         99
+   111         12
+   122          5
+   123         59
+   124         29
+   125         19
+   126          2
+   136          2
+   137         29
+   138         19
+   139          2
+   140          9
+   141          1
+   166         49
+   167         19
+   168          2
+   183          3
+   184         29
+   185          4

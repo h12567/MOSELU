@@ -1,0 +1,87 @@
+##TITLE=Library Entry 45816
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Ethyl(dimethyl)silyloxycyclohexane
+##MOLFORM=C10H22OSi
+##CAS REGISTRY NO=135561-86-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    31         25
+    38          8
+    39        105
+    40         20
+    41         95
+    42         45
+    43        100
+    44         20
+    45        110
+    46          7
+    47         55
+    50          8
+    51         20
+    52         10
+    53         40
+    54         50
+    55         80
+    56         25
+    57         20
+    58         38
+    59        270
+    60         40
+    61        195
+    62          8
+    63         10
+    65         10
+    66          5
+    67         65
+    68          5
+    69          8
+    71         50
+    73         30
+    74         15
+    75        999
+    76         70
+    77         60
+    78          8
+    79         30
+    80          8
+    81         35
+    82         20
+    83         20
+    85         18
+    87        150
+    88         20
+    89        215
+    90         18
+    91         19
+    93         18
+    99         18
+   101         40
+   102          8
+   103          7
+   105          5
+   107          8
+   108          8
+   113         18
+   115         35
+   129          8
+   133          8
+   141          5
+   143         80
+   144          5
+   145          5
+   156          5
+   157        610
+   158         80
+   159         50
+   161          8
+   171         70
+   172         10
+   173          6

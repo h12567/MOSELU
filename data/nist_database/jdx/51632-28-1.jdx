@@ -1,0 +1,85 @@
+##TITLE=Library Entry 114905
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Ethylphenylacetonitrile
+##MOLFORM=C10H11N
+##CAS REGISTRY NO=51632-28-1
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         36
+    26         19
+    27        119
+    28         33
+    29         20
+    37         12
+    38         39
+    39        186
+    40         27
+    41         30
+    43          2
+    50        112
+    51        171
+    52         64
+    53         25
+    54          3
+    57         29
+    58         19
+    61         20
+    62         60
+    63        156
+    64         41
+    65         68
+    66          9
+    71         16
+    72          5
+    73          6
+    74         37
+    75         47
+    76         67
+    77        268
+    78         88
+    79         76
+    80          5
+    85          6
+    86         12
+    87         15
+    88         19
+    89        122
+    90         58
+    91         81
+    92          5
+    98          4
+    99          3
+   100          4
+   101         21
+   102         78
+   103        332
+   104        121
+   105        918
+   106         82
+   113          7
+   114         12
+   115         80
+   116        114
+   117        112
+   118         30
+   119          8
+   127          5
+   128         23
+   130        999
+   131         94
+   132          3
+   140          6
+   142          7
+   143          5
+   145        410
+   146         47
+   147          2

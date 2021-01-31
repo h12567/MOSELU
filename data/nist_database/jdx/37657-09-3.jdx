@@ -1,0 +1,44 @@
+##TITLE=Library Entry 18271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=5-Isopropyl-5-azabicyclo(2.2.0)hex-2-ene-6-one
+##MOLFORM=C8H11NO
+##CAS REGISTRY NO=37657-09-3
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        173
+    28         86
+    39        270
+    41        240
+    43        177
+    50         73
+    51        131
+    52        999
+    53         81
+    55          8
+    64          9
+    65         13
+    66         39
+    67        244
+    68         29
+    70         11
+    78         46
+    79         15
+    80          6
+    93          9
+    94         22
+    95         93
+    96         57
+   104          5
+   109          4
+   122          7
+   136          6
+   137         87
+   138         12

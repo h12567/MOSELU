@@ -1,0 +1,65 @@
+##TITLE=Library Entry 60376
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2(2'-Phenyl-3'-oxo-butyl)-cyclopentanone
+##MOLFORM=C15H18O2
+##CAS REGISTRY NO=55110-09-3
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        108
+    43        400
+    51         79
+    54         81
+    65         80
+    67         60
+    77        119
+    81         30
+    82          9
+    83         89
+    84        842
+    85         59
+    89         39
+    90         20
+    91        999
+    92        128
+    93         10
+    96         59
+   102         39
+   103        141
+   104        180
+   105         59
+   108        100
+   109         40
+   114        159
+   115         59
+   116        120
+   117         50
+   118         19
+   126        527
+   127         60
+   128        109
+   129         89
+   130         49
+   131         80
+   134        338
+   135         39
+   141        159
+   142         40
+   143         79
+   146         30
+   147         80
+   155         30
+   156         30
+   169        219
+   170        158
+   184         30
+   187         70
+   212         79
+   230         39

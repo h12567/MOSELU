@@ -1,0 +1,71 @@
+##TITLE=Library Entry 109892
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH EPA-PTSEL 6320
+##NAMES=HP
+##CAS NAME=Sulphenone
+##MOLFORM=C12H9ClO2S
+##CAS REGISTRY NO=80-00-2
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=2033
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27         33
+    28         10
+    32         10
+    36          2
+    37         11
+    38         22
+    39         58
+    45         19
+    50        193
+    51        377
+    52         18
+    53         10
+    61          1
+    62          4
+    63         31
+    65         47
+    69         16
+    73         21
+    74         72
+    75        209
+    76         75
+    77        435
+    78         36
+    81         10
+    85         19
+    94         28
+    95          7
+    97        118
+    98          2
+    99         39
+   101          8
+   108         10
+   109         13
+   111        140
+   112         12
+   113         44
+   125        999
+   126         79
+   127         75
+   129          1
+   131         50
+   133         18
+   141          1
+   151         15
+   152         74
+   153         19
+   159        442
+   160         33
+   161        162
+   162          5
+   188          5
+   251          4
+   252        295
+   253         44
+   254        109
+   255         10

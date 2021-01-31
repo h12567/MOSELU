@@ -1,0 +1,78 @@
+##TITLE=Library Entry 17663
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,2-Di((E)-prop-1-en-1-yl)disulfane
+##MOLFORM=C6H10S2
+##CAS REGISTRY NO=23838-23-5
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1129
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          9
+    27         32
+    29         28
+    37         14
+    38         33
+    39        289
+    40         20
+    41        251
+    42         12
+    45        999
+    46         48
+    47        148
+    49          6
+    54          7
+    55         17
+    57         32
+    58         98
+    59        184
+    60         20
+    61         61
+    64         42
+    65         16
+    66         12
+    67        183
+    68         23
+    69        180
+    70         21
+    71        296
+    72        189
+    73        383
+    74        323
+    75         40
+    76         11
+    77         18
+    78         19
+    79         61
+    80         12
+    81         43
+    82        215
+    83         14
+    85         53
+    86         15
+    87         14
+    97         24
+    98         22
+   101         78
+   102          6
+   103         36
+   105         25
+   106         23
+   111         23
+   112         11
+   113        447
+   114         36
+   115         24
+   117         44
+   119          6
+   131         38
+   146        794
+   147         71
+   148         81
+   149          6
+   150          3

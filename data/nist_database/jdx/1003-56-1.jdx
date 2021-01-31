@@ -1,0 +1,43 @@
+##TITLE=Library Entry 85832
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2(1H)-Pyridinone, 3-methyl-
+##MOLFORM=C6H7NO
+##CAS REGISTRY NO=1003-56-1
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=2030
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        174
+    29         27
+    37         31
+    38         61
+    39        176
+    40         34
+    41         44
+    50         72
+    51         99
+    52         97
+    53        266
+    54         86
+    63         36
+    64         29
+    65         29
+    66         17
+    67          8
+    75          7
+    78         17
+    79         23
+    80        957
+    81        162
+    82         18
+    91         90
+    92         21
+   108         59
+   109        999
+   110         74

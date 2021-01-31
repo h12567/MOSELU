@@ -1,0 +1,44 @@
+##TITLE=Library Entry 83904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 18(4)617(1979); F. X. WOOLARD ET AL.
+##NAMES=HP
+##CAS NAME=Oxirane, 2,2-dibromo-3-(bromomethyl)-
+##MOLFORM=C3H3Br3O
+##CAS REGISTRY NO=77809-07-5
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    79        160
+    80         70
+    81        170
+    82         70
+   105        990
+   107        999
+   133         70
+   134         40
+   135         60
+   137         40
+   157         10
+   159         30
+   161         10
+   171         60
+   173        120
+   175         70
+   184         70
+   185        230
+   186        150
+   187        370
+   188         80
+   189        190
+   213        280
+   215        490
+   217        220
+   292          6
+   294         10
+   296         10
+   298          4

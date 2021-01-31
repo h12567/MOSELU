@@ -1,0 +1,44 @@
+##TITLE=Library Entry 29365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Levomepromazine sulfoxide
+##MOLFORM=C19H24N2O2S
+##CAS REGISTRY NO=124751-18-4
+##MP= -300
+##BP= -300
+##MW= 344
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    42         43
+    44         52
+    56         17
+    57         17
+    58        999
+    59         41
+    70         24
+    74         97
+    84         74
+    85         19
+    86         22
+    98         47
+   100         33
+   153         17
+   167         37
+   185         56
+   186         18
+   209         13
+   210         79
+   227         33
+   228         65
+   229        157
+   242        539
+   243         89
+   244         31
+   282         51
+   299         24
+   327         22
+   328         40

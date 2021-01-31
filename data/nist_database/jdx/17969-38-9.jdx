@@ -1,0 +1,60 @@
+##TITLE=Library Entry 38720
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B R. WEBSTER
+##NAMES=HP
+##CAS NAME=4-Thiazoleacetic acid, 2-(4-chlorophenyl)-, methyl ester
+##MOLFORM=C12H10ClNO2S
+##CAS REGISTRY NO=17969-38-9
+##MP= -300
+##BP= -300
+##MW= 267
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    39         62
+    45        889
+    47         49
+    50         74
+    51         62
+    59        222
+    62         25
+    63         25
+    69        222
+    70        160
+    71        999
+    72        148
+    73         86
+    74         49
+    75        209
+    76         99
+    85         37
+    86         37
+    87         37
+    98         31
+    99         19
+   100         25
+   101         31
+   102        198
+   103         25
+   111         99
+   113         31
+   137        111
+   138        209
+   139         62
+   140         68
+   155         25
+   172         37
+   173         25
+   188         19
+   208        556
+   209        160
+   210        209
+   211         62
+   222         49
+   224         25
+   235         25
+   267        444
+   268         74
+   269        185

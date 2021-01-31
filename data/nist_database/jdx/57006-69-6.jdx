@@ -1,0 +1,75 @@
+##TITLE=Library Entry 9414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=trans,trans-Hexa-2,4-dienyl acetate
+##MOLFORM=C8H12O2
+##CAS REGISTRY NO=57006-69-6
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          4
+    14         24
+    15        113
+    16          4
+    18          4
+    26         27
+    27        156
+    28         29
+    29         56
+    30          3
+    31          7
+    36          1
+    37         12
+    38         32
+    39        227
+    40         40
+    41        273
+    43        999
+    44         28
+    45         23
+    49          6
+    50         45
+    51         69
+    52         51
+    53         96
+    54         21
+    55         39
+    56         14
+    57          5
+    60         10
+    61          5
+    62          7
+    63         17
+    65         47
+    66         22
+    67         21
+    68          9
+    69         61
+    70         19
+    71          2
+    73          2
+    74          5
+    75          2
+    77        107
+    79        357
+    80        170
+    81        129
+    82         21
+    83         37
+    84          2
+    95          3
+    96          3
+    97         41
+    98         50
+    99          3
+   111          5
+   112          1
+   140        106
+   141         10

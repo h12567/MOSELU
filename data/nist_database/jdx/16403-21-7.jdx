@@ -1,0 +1,42 @@
+##TITLE=Library Entry 83178
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Anilinoethanol, TMS derivative
+##MOLFORM=C11H19NOSi
+##CAS REGISTRY NO=16403-21-7
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    43         20
+    45         30
+    47         10
+    51         30
+    58         10
+    59         20
+    65         20
+    73         70
+    75         90
+    76         10
+    77         90
+    78         10
+    79         10
+    91         10
+    97         20
+   104         10
+   105         10
+   106        999
+   107         90
+   118         20
+   120         10
+   147         30
+   150         30
+   194         60
+   209        120
+   210         20

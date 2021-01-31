@@ -1,0 +1,73 @@
+##TITLE=Library Entry 28414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Tox21 Consortium/NIST Mass Spectrometry Data Center, 20
+12
+##NAMES=HP
+##CAS NAME=Phenylacetic acid, 2-dimethylaminoethyl ester
+##MOLFORM=C12H17NO2
+##CAS REGISTRY NO=36882-00-5
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          4
+    18          1
+    26          1
+    27          5
+    28          9
+    29          7
+    30         18
+    31          1
+    38          3
+    39         18
+    40          2
+    41         10
+    42         76
+    43         19
+    44         18
+    45          3
+    50          5
+    51         11
+    52          4
+    53          1
+    54          3
+    55          3
+    56         31
+    57         20
+    58        999
+    59         37
+    61          1
+    62          5
+    63         17
+    64          6
+    65         59
+    66          3
+    70         11
+    71        184
+    72         19
+    74          1
+    75          1
+    76          1
+    77          3
+    78          2
+    79          1
+    86          2
+    87          4
+    88          6
+    89         23
+    90         13
+    91        177
+    92         15
+   104          1
+   105          1
+   106          1
+   118          4
+   119          3
+   136          1
+   163          7
+   164          1
+   207          1

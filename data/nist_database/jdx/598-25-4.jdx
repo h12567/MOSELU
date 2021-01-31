@@ -1,0 +1,52 @@
+##TITLE=Library Entry 33367
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3675
+##NAMES=HP
+##CAS NAME=1,2-Butadiene, 3-methyl-
+##MOLFORM=C5H8
+##CAS REGISTRY NO=598-25-4
+##MP= -300
+##BP= -300
+##MW= 68
+##$RETENTION INDEX=511
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          9
+    25          3
+    26         27
+    27        241
+    28         21
+    29         18
+    31         25
+    32          5
+    33          3
+    36          4
+    37         38
+    38         70
+    39        421
+    40        271
+    41        501
+    42        148
+    43          7
+    48          3
+    49         29
+    50        147
+    51        188
+    52         70
+    53        747
+    54         32
+    55          2
+    60          8
+    61         33
+    62         47
+    63         54
+    64          8
+    65        158
+    66         74
+    67        549
+    68        999
+    69         70
+    70          2

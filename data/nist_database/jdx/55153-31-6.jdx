@@ -1,0 +1,28 @@
+##TITLE=Library Entry 82242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)102(1974); THOMAS
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-iodo-, 2-oxo-2-phenylethyl ester
+##MOLFORM=C15H11IO3
+##CAS REGISTRY NO=55153-31-6
+##MP= -300
+##BP= -300
+##MW= 366
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39         30
+    50         70
+    51         80
+    76        120
+    77        200
+    91         50
+   105        999
+   106        110
+   118         40
+   203         70
+   231        170
+   366        210
+   367         40

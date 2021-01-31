@@ -1,0 +1,68 @@
+##TITLE=Library Entry 37531
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans-4-t-Pentylcyclohexanol
+##MOLFORM=C11H22O
+##CAS REGISTRY NO=20698-30-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26         13
+    27        116
+    28         19
+    29        169
+    31         20
+    32          3
+    39        167
+    40         42
+    41        407
+    42         85
+    43        657
+    44         83
+    51         29
+    52         18
+    53        135
+    54         91
+    55        474
+    56         68
+    57        126
+    65         41
+    67        552
+    68         63
+    69        183
+    70        999
+    71        957
+    72         53
+    77         63
+    78         19
+    79        149
+    80        144
+    81        625
+    82        161
+    83        105
+    84         17
+    91         32
+    93         28
+    94         20
+    95        158
+    96         32
+    97         23
+    98         24
+    99         79
+   107         22
+   108          8
+   109         37
+   110         14
+   121          9
+   123        517
+   124         67
+   137         51
+   141         21
+   152        101
+   153         14

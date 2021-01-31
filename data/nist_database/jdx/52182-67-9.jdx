@@ -1,0 +1,39 @@
+##TITLE=Library Entry 54302
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexanaminium, N,N,N-trimethyl-2-phenyl-, iodide, trans-
+##MOLFORM=C15H24IN
+##CAS REGISTRY NO=52182-67-9
+##MP= -300
+##BP= -300
+##MW= 345
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41          9
+    42         67
+    43          9
+    44         27
+    45          9
+    56         49
+    58        147
+    77         24
+    78          9
+    84        999
+    85         76
+    98          9
+   139         12
+   140         12
+   141         49
+   142        387
+   143         21
+   144          9
+   158         52
+   159          9
+   160         40
+   202          9
+   203        227
+   204         27

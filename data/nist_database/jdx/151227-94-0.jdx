@@ -1,0 +1,73 @@
+##TITLE=Library Entry 73003
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Morpholine, 4-(1-hydroxypropyl)-
+##MOLFORM=C7H15NO2
+##CAS REGISTRY NO=151227-94-0
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         28
+    27         87
+    28        200
+    29        118
+    30         77
+    31         48
+    38          4
+    39         27
+    40         13
+    41        124
+    42        298
+    43        246
+    44         90
+    45         82
+    49          3
+    50          5
+    51          4
+    52          6
+    53          4
+    54         29
+    55         28
+    56        507
+    57         62
+    58        234
+    59         20
+    67          3
+    68         15
+    69         12
+    70        163
+    71         25
+    72         69
+    73          7
+    82          9
+    83          5
+    84         10
+    85         12
+    86         19
+    87          3
+    96          3
+    97          3
+    98         18
+    99          7
+   100        999
+   101        136
+   102         16
+   111          4
+   112          4
+   114         33
+   115          3
+   126          9
+   127          4
+   128         13
+   130         75
+   131          5
+   144         13
+   145         69
+   146          7

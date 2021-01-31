@@ -1,0 +1,46 @@
+##TITLE=Library Entry 40261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. LOZYNSKI, POZNAN TECH. UNIV., POZNAN, POLAND
+##NAMES=HP
+##CAS NAME=sec-Butylcarbamothioic acid, O-ethyl ester
+##MOLFORM=C7H15NOS
+##CAS REGISTRY NO=82360-12-1
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27        180
+    28        130
+    29        560
+    30         60
+    38         64
+    40        260
+    42        120
+    43         93
+    44        400
+    55        320
+    56        140
+    57        380
+    58         60
+    60        120
+    61         55
+    62         33
+    70         35
+    72        999
+    73         60
+    78        210
+    81         36
+    85         27
+   100         42
+   104         38
+   106         22
+   116         40
+   132        310
+   133         32
+   161        670
+   162         60
+   163         30

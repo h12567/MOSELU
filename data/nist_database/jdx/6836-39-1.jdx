@@ -1,0 +1,76 @@
+##TITLE=Library Entry 52296
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=6-Tetradecanol
+##MOLFORM=C14H30O
+##CAS REGISTRY NO=6836-39-1
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=1668
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          7
+    17         11
+    18         29
+    27        193
+    28         99
+    29        357
+    30         12
+    31         37
+    39        132
+    41        678
+    42        145
+    43        478
+    44         78
+    45         31
+    51          8
+    52          6
+    53         55
+    54        116
+    55        954
+    56        257
+    57        409
+    58         50
+    59         24
+    65         14
+    66         12
+    67        107
+    68          6
+    69        792
+    70        204
+    71        115
+    72         21
+    77         11
+    79         17
+    80          6
+    81         52
+    82        108
+    83        999
+    84        130
+    85         36
+    95         17
+    96         37
+    97        150
+    98         48
+    99         23
+   100         37
+   101        243
+   102         16
+   110         13
+   111         57
+   112         27
+   124         12
+   125         38
+   126         12
+   127          6
+   139          6
+   141         12
+   143        121
+   144         13
+   168          6
+   196         69
+   197         11

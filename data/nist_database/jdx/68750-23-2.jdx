@@ -1,0 +1,66 @@
+##TITLE=Library Entry 8432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=1,5-Pentanediol, 1-acetate
+##MOLFORM=C7H14O3
+##CAS REGISTRY NO=68750-23-2
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         18
+    19          2
+    26          6
+    27         46
+    28         27
+    29         74
+    30          6
+    31        110
+    32          1
+    38          3
+    39         52
+    40         19
+    41        181
+    42         61
+    43        999
+    44         95
+    45         31
+    51          3
+    53         39
+    54         15
+    55        138
+    56        234
+    57        174
+    58         48
+    59          6
+    61        228
+    63          1
+    67        314
+    68        530
+    69         69
+    70         15
+    71         26
+    73         75
+    74          6
+    83         20
+    84          6
+    85        150
+    86         91
+    87         14
+    88         16
+    91         20
+    97          2
+    98         13
+   101         83
+   102          5
+   103         25
+   104          5
+   113          1
+   115          4
+   116          7

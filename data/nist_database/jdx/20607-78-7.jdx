@@ -1,0 +1,46 @@
+##TITLE=Library Entry 5626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=Isobutyraldehyde, propylhydrazone
+##MOLFORM=C7H16N2
+##CAS REGISTRY NO=20607-78-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    28        270
+    29        200
+    30        846
+    39        146
+    40         23
+    41        365
+    42        139
+    43        999
+    44        108
+    45         18
+    54         46
+    55         50
+    56        108
+    57        135
+    58        169
+    68         24
+    69         33
+    70         73
+    71         54
+    72         28
+    83         22
+    84         14
+    85        162
+    86         19
+    97         16
+    99        106
+   100          7
+   113         11
+   128        385
+   129         54

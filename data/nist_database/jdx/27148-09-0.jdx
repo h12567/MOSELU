@@ -1,0 +1,80 @@
+##TITLE=Library Entry 76079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Benzisothiazole, 3-(propylamino)-, 1,1-dioxide
+##MOLFORM=C10H12N2O2S
+##CAS REGISTRY NO=27148-09-0
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    41        190
+    42         70
+    43        120
+    44         20
+    45         10
+    50        170
+    51        160
+    52         30
+    54          5
+    55         20
+    56         50
+    57         50
+    58        200
+    62          5
+    63         40
+    64         50
+    65         30
+    69          5
+    74         30
+    75        200
+    76        370
+    77        140
+    78         20
+    89          5
+    90         50
+    91         80
+    92         20
+   101          5
+   102        999
+   103        620
+   104        190
+   105         40
+   116         10
+   117        270
+   118        380
+   119        160
+   120         40
+   130         20
+   131        370
+   132        100
+   145        220
+   146         20
+   150         10
+   151          5
+   159         70
+   160        130
+   161          5
+   166        400
+   167         30
+   168         20
+   182        300
+   183        260
+   184         30
+   185         10
+   195        130
+   196        280
+   197         30
+   198          5
+   209         60
+   210          5
+   222          5
+   223        320
+   224        450
+   225         60
+   226         10

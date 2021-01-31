@@ -1,0 +1,42 @@
+##TITLE=Library Entry 10680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Piperazinone
+##MOLFORM=C4H8N2O
+##CAS REGISTRY NO=5625-67-2
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29         99
+    30         46
+    35          2
+    38         13
+    39         18
+    40         69
+    41        131
+    42        589
+    43        999
+    44        188
+    45         47
+    51          4
+    52          5
+    53          2
+    54         18
+    55         33
+    56         83
+    57         91
+    58          6
+    70         14
+    71        334
+    72        150
+    73         11
+    83          7
+   100        801
+   101         42
+   102          8

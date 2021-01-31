@@ -1,0 +1,53 @@
+##TITLE=Library Entry 97792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Tricyclo[10.2.2.2(5,8)]octadeca-5,7,12,14,15,17-hexaene, 6-nitro-
+##MOLFORM=C18H19NO2
+##CAS REGISTRY NO=24777-32-0
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    91        950
+   105        390
+   106        310
+   115        510
+   117        999
+   118        330
+   119        250
+   120        260
+   121        480
+   128        170
+   129        170
+   130        450
+   131        360
+   132        270
+   133        210
+   134        100
+   135        240
+   143         20
+   144         70
+   145         60
+   158         30
+   162         10
+   165        130
+   172         30
+   178        140
+   189         40
+   234         20
+   235         30
+   236         70
+   237         10
+   250         90
+   251         30
+   264        560
+   265        120
+   266         50
+   280         10
+   281        999
+   282        220

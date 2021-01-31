@@ -1,0 +1,53 @@
+##TITLE=Library Entry 53829
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.R.CONARD, J. ROY GORDON RES. LAB., MISSISSAUGA, ONT.,
+ CANAta
+##NAMES=HP
+##CAS NAME=Iron pentacarbonyl
+##MOLFORM=C5FeO5
+##CAS REGISTRY NO=13463-40-6
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    40         40
+    41          3
+    42         24
+    54         33
+    56        499
+    57         14
+    66          4
+    68         70
+    69          3
+    70         22
+    71          0
+    72         12
+    73          0
+    78          0
+    80          1
+    81          0
+    82         52
+    84        999
+    85         34
+    94          0
+    96          7
+    97          0
+   110         15
+   112        249
+   113         11
+   122          0
+   124          0
+   125          0
+   138          7
+   140        118
+   141          6
+   166          9
+   168        153
+   169         10
+   194          3
+   196         53
+   197          1

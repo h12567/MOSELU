@@ -1,0 +1,53 @@
+##TITLE=Library Entry 23089
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-propenyl ester
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=2408-20-0
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=741
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    13          3
+    14          8
+    15         23
+    16          0
+    18          0
+    24          1
+    25          7
+    26         60
+    27        194
+    28         84
+    29        393
+    30         11
+    31         23
+    37         10
+    38         32
+    39        181
+    40         38
+    41        359
+    42         25
+    43          9
+    44          2
+    45          5
+    53          5
+    54          3
+    55         30
+    56          2
+    57        999
+    58         36
+    59          3
+    60          3
+    69          2
+    72          2
+    73          2
+    74          2
+    75         17
+    85          8
+    86          4
+   114          1

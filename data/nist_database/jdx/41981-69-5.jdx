@@ -1,0 +1,67 @@
+##TITLE=Library Entry 90155
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HB-10
+##NAMES=HP
+##CAS NAME=Thiazole, 4-butyl-2-methyl-
+##MOLFORM=C8H13NS
+##CAS REGISTRY NO=41981-69-5
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    38          2
+    39         69
+    40         16
+    41         87
+    42         96
+    43          8
+    44         21
+    45        191
+    47          7
+    51         16
+    52          6
+    53          9
+    54          2
+    55         13
+    57          7
+    58         29
+    59         49
+    60          2
+    65         20
+    66          6
+    67         13
+    69         16
+    70          3
+    71        250
+    72        120
+    73         17
+    74          5
+    77          8
+    79         11
+    80          4
+    81         24
+    82          2
+    84          5
+    85         82
+    86          4
+    97          7
+    99         20
+   100          4
+   112        170
+   113        999
+   114         71
+   115         38
+   126        185
+   127         34
+   128          7
+   140        122
+   141         42
+   142          7
+   154         35
+   155        170
+   156         16
+   157          4

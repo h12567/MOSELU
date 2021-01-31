@@ -1,0 +1,75 @@
+##TITLE=Library Entry 72852
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2513
+##NAMES=HP
+##CAS NAME=2,4-Imidazolidinedione, 5-(2-methylpropyl)-, (S)-
+##MOLFORM=C7H12N2O2
+##CAS REGISTRY NO=40856-75-5
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          2
+    27         32
+    28         63
+    29         56
+    30          4
+    37          1
+    38          3
+    39         31
+    40          7
+    41        102
+    42         31
+    43        211
+    44         29
+    45          9
+    50          1
+    51          3
+    52          2
+    53          6
+    54          6
+    55         18
+    56         11
+    57         93
+    58          4
+    59          1
+    61          1
+    65          1
+    67          4
+    68          8
+    69          6
+    70         53
+    71          7
+    72         11
+    73          1
+    80          1
+    81          1
+    82          7
+    83          1
+    84          6
+    85          8
+    86          3
+    91          2
+    95          1
+    96         13
+    97          3
+    98         10
+    99         93
+   100        999
+   101         41
+   102          5
+   112          1
+   113         85
+   114          6
+   115          1
+   128          1
+   139          1
+   141          4
+   154          1
+   156          9
+   157          1

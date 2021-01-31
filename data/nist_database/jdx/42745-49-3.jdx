@@ -1,0 +1,42 @@
+##TITLE=Library Entry 54542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.SEN LOUISIANA STATE UNIV., BATON ROUGE, LOUISIANA, US
+A
+##NAMES=HP
+##CAS NAME=Indium, tetraethylbis[.mu.-(piperidinyl)]di-
+##MOLFORM=C18H40In2N2
+##CAS REGISTRY NO=42745-49-3
+##MP= -300
+##BP= -300
+##MW= 514
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    84        999
+   115        125
+   144          6
+   173         50
+   198         38
+   199          4
+   223         12
+   228         19
+   256         31
+   309          0
+   311          0
+   314          0
+   317          0
+   344          0
+   372          0
+   397         44
+   402         50
+   403         37
+   427         12
+   430          0
+   455          0
+   457          0
+   471          0
+   485        270
+   486         50
+   512          0

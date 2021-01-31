@@ -1,0 +1,74 @@
+##TITLE=Library Entry 8791
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-5278
+##NAMES=HP
+##CAS NAME=1-Butanol, 2,3-dimethyl-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=19550-30-2
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=835
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         10
+    17          2
+    18          7
+    26          9
+    27        167
+    28         31
+    29        189
+    30         11
+    31        236
+    32          3
+    33          1
+    37          4
+    38          9
+    39        156
+    40         27
+    41        552
+    42        425
+    43        999
+    44         56
+    45        213
+    46          5
+    50          7
+    51         11
+    52          4
+    53         36
+    54          9
+    55        247
+    56        134
+    57        130
+    58         33
+    59        111
+    60         10
+    61         18
+    62          1
+    63          1
+    65          3
+    66          1
+    67         12
+    68          5
+    69        519
+    70        245
+    71        973
+    72         58
+    73          9
+    77          1
+    79          1
+    81          1
+    82          2
+    83         21
+    84        433
+    85         69
+    86          4
+    87          9
+    97          8
+    98          2
+    99          4
+   100          1
+   101          4

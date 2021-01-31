@@ -1,0 +1,53 @@
+##TITLE=Library Entry 63868
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonic acid, 4-methylphenyl phenyl ester
+##MOLFORM=C14H12O3
+##CAS REGISTRY NO=13183-20-5
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41         10
+    44         40
+    50         30
+    51        150
+    52         20
+    53         20
+    63         40
+    64         20
+    65        220
+    66         20
+    77        480
+    78         90
+    79         50
+    89         30
+    90         20
+    91        999
+    92         70
+    94         20
+   107         90
+   108        130
+   115         30
+   128         20
+   129         20
+   141         90
+   153         30
+   155         70
+   156         70
+   165         20
+   168         20
+   169         40
+   182         30
+   183        150
+   184        380
+   185         60
+   228        670
+   229        110
+   230         30

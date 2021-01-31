@@ -1,0 +1,53 @@
+##TITLE=Library Entry 82828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-(Aminomethyl)benzoic acid
+##MOLFORM=C8H9NO2
+##CAS REGISTRY NO=56-91-7
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    38         49
+    39        148
+    45         77
+    46         49
+    50        215
+    51        261
+    52        103
+    53        138
+    62         49
+    63        125
+    65        101
+    74         90
+    75         75
+    76        110
+    77        528
+    78        170
+    79        550
+    89        207
+    90         49
+    91         17
+   103         17
+   104        237
+   105        938
+   106        999
+   107        192
+   122         17
+   123        151
+   132         69
+   133        614
+   134        131
+   135         86
+   136         10
+   148         45
+   149         10
+   150        854
+   151        261
+   152         41
+   153          4

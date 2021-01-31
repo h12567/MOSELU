@@ -1,0 +1,47 @@
+##TITLE=Library Entry 94647
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=EP-1298
+##NAMES=HP
+##CAS NAME=Benzene, 1-chloro-4-(1-propynyl)-
+##MOLFORM=C9H7Cl
+##CAS REGISTRY NO=2809-65-6
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    50          4
+    51         28
+    52         21
+    61         15
+    62         27
+    63         85
+    64         11
+    65         15
+    73         17
+    74         31
+    84          5
+    85         15
+    86         30
+    87         47
+    88         28
+    89         43
+    90          4
+    97          9
+    98          6
+    99         12
+   109          5
+   110          9
+   111         18
+   113         65
+   114         95
+   115        999
+   116        100
+   149        210
+   150        760
+   151        140
+   152        250
+   153         24

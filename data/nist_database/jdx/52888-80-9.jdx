@@ -1,0 +1,71 @@
+##TITLE=Library Entry 61931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectral Data Center
+##NAMES=HP
+##CAS NAME=Prosulfocarb
+##MOLFORM=C14H21NOS
+##CAS REGISTRY NO=52888-80-9
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=1909
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41         10
+    42         42
+    43        265
+    44         27
+    45         72
+    50         25
+    51         44
+    56         18
+    58         28
+    62         24
+    63         45
+    64         15
+    65        238
+    66         12
+    69         13
+    70         56
+    71         11
+    72         11
+    77         58
+    78         19
+    79         14
+    82         20
+    83         24
+    84         66
+    85        176
+    86        291
+    87         12
+    89         47
+    90         24
+    91        999
+    92         78
+   100         36
+   104         20
+   121         43
+   122         11
+   123         39
+   124         16
+   125         21
+   126         77
+   127        296
+   128        887
+   129         51
+   132         12
+   133         26
+   159         19
+   160        132
+   161         18
+   162         92
+   218         66
+   247         10
+   248         19
+   249         49
+   250        251
+   251        665
+   252         83
+   253         27

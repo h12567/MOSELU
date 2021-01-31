@@ -1,0 +1,53 @@
+##TITLE=Library Entry 21917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Pentanone, O-methyloxime
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=15754-22-0
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=763
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15         67
+    26         25
+    27        175
+    28        355
+    29        315
+    30         42
+    31         30
+    33         10
+    39         45
+    40          2
+    41        120
+    42         67
+    43          5
+    44          2
+    45         30
+    51          7
+    52          7
+    53         20
+    54        175
+    55        235
+    56        999
+    57        107
+    58        107
+    59          7
+    60         10
+    68         20
+    69         20
+    70         20
+    72         10
+    82          7
+    84         50
+    85         30
+    86        125
+    87          7
+   100         40
+   114         30
+   115        310
+   116         40

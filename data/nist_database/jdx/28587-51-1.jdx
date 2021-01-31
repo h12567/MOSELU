@@ -1,0 +1,60 @@
+##TITLE=Library Entry 50487
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.VOELTER CHEM. INST., UNIV., TUBINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=O-Trifluoroacetyl-isomenthol
+##MOLFORM=C12H19F3O2
+##CAS REGISTRY NO=28587-51-1
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    27        240
+    29        220
+    39        240
+    40         40
+    41        810
+    42        180
+    43        710
+    44         30
+    51         40
+    53        200
+    54        220
+    55        710
+    56        210
+    57        180
+    59         50
+    65         40
+    66         30
+    67        480
+    68        240
+    69        340
+    70         90
+    77         80
+    79        180
+    80        140
+    81        999
+    82        440
+    83        280
+    91         40
+    93         80
+    94        190
+    95        990
+    96        590
+    97        120
+   109        120
+   110         40
+   123        590
+   124         60
+   125         10
+   138        840
+   139        190
+   153         10
+   167         20
+   209         10
+   237         10
+   252         10

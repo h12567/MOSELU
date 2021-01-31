@@ -1,0 +1,78 @@
+##TITLE=Library Entry 5172
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4-Hydroxy-1-methyl-6-oxopyridine-3-carboxylic acid
+##MOLFORM=C7H7NO4
+##CAS REGISTRY NO=1173147-16-4
+##MP= -300
+##BP= -300
+##MW= 169
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    35          9
+    36         73
+    37         58
+    38        118
+    39        141
+    40        119
+    41        265
+    42        999
+    43         62
+    44         77
+    45        136
+    46          5
+    49          5
+    50         34
+    51         58
+    52        104
+    53        329
+    54        131
+    55        191
+    56         20
+    57          6
+    58          6
+    62          2
+    63          4
+    64         11
+    65         16
+    66         67
+    67        145
+    68        167
+    69        268
+    70         24
+    71         29
+    73          6
+    78          3
+    79          3
+    80         27
+    81         27
+    82        162
+    83         27
+    84        111
+    85          8
+    91          4
+    94         17
+    95        313
+    96         25
+    97          2
+    99          2
+   100          2
+   109          5
+   110          9
+   118          3
+   123        554
+   124         31
+   126         19
+   137          2
+   141          2
+   150          6
+   151        335
+   152         37
+   154          2
+   168         17
+   169        387
+   170         22

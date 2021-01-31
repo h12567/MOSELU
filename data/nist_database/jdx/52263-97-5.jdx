@@ -1,0 +1,85 @@
+##TITLE=Library Entry 57003
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2,2-Diethoxytetrahydrofuran
+##MOLFORM=C8H16O3
+##CAS REGISTRY NO=52263-97-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    13          1
+    14         11
+    15         37
+    17          1
+    18          1
+    19         19
+    25          6
+    26         69
+    27        405
+    28        147
+    29        668
+    30         51
+    31        340
+    32          6
+    36          2
+    37          4
+    38         12
+    39        119
+    40         43
+    41        288
+    42        292
+    43        490
+    44         41
+    45        412
+    46         50
+    47         12
+    53          5
+    54          2
+    55        233
+    56         51
+    57        490
+    58         97
+    59         27
+    60         19
+    61          4
+    63        207
+    64          2
+    68         83
+    69         71
+    70         16
+    71         20
+    73         68
+    74         83
+    75         27
+    76          1
+    83          1
+    84          7
+    85        389
+    86        152
+    87        999
+    88         49
+    89          6
+    91         92
+    92          1
+   101         13
+   102         12
+   103         11
+   113          1
+   114        233
+   115        665
+   116         48
+   117          3
+   119         92
+   120          4
+   129          5
+   130        150
+   131         13
+   133          4
+   159          5
+   160          5

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 41626
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. HUIBREGTSE-MINDERHOUD, JAN VAN BEAUMONTSTRAAT, GOUDA
+, NET
+##NAMES=HP
+##CAS NAME=Methyl 10-(chloroacetoxy)-11-methoxy-3,7,11-trimethyl-2,6-dodecad
+ienoate
+##MOLFORM=C19H31ClO5
+##CAS REGISTRY NO=75517-08-7
+##MP= -300
+##BP= -300
+##MW= 374
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    73        999
+    81        340
+    93         60
+    99         60
+   114         60
+   121         40
+   135        200
+   194         70
+   248         20
+   261          5
+   263          2
+   280          2
+   342          3
+   344          2
+   374          3
+   376          2

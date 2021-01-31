@@ -1,0 +1,51 @@
+##TITLE=Library Entry 25440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Heptane, 4-(bromomethyl)-
+##MOLFORM=C8H17Br
+##CAS REGISTRY NO=101654-29-9
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    27         88
+    28         15
+    29         86
+    39         87
+    40         16
+    41        354
+    42         96
+    43        302
+    44         12
+    53         29
+    54         10
+    55        165
+    56         60
+    57        999
+    58         47
+    67         19
+    68          8
+    69        372
+    70        107
+    71        495
+    72         28
+    83         26
+    84         17
+    94         12
+    98         39
+    99         53
+   107         20
+   109         19
+   113        349
+   114         31
+   119          4
+   121         10
+   149         23
+   151         22
+   192         17
+   194         17

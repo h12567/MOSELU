@@ -1,0 +1,80 @@
+##TITLE=Library Entry 1488
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Malonic acid, (thioacetyl)-, diethyl ester
+##MOLFORM=C9H14O4S
+##CAS REGISTRY NO=18457-90-4
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    25         16
+    26        100
+    27        350
+    28        233
+    29        566
+    30         66
+    31        999
+    32         60
+    36         16
+    37         40
+    38         66
+    39        150
+    40         40
+    41         50
+    42         60
+    43        183
+    44        483
+    45        626
+    46        240
+    47         26
+    55         33
+    56         16
+    57         40
+    58        233
+    59        283
+    60        100
+    61         26
+    67         33
+    68        233
+    69         33
+    70         83
+    71         33
+    72        140
+    73        100
+    74         16
+    75         33
+    83         30
+    84         50
+    85        100
+    86         26
+    87         33
+    88         35
+    98         10
+    99         16
+   100        266
+   101         40
+   102         10
+   115         33
+   116        100
+   117         16
+   126        100
+   127         50
+   128         30
+   139          3
+   140          6
+   141         33
+   143         23
+   144         66
+   145         16
+   146         16
+   154         23
+   159         16
+   172        266
+   173         36
+   174         16

@@ -1,0 +1,77 @@
+##TITLE=Library Entry 78261
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-(3-Methylphenyl)4-methyl-3-pentene
+##MOLFORM=C13H18
+##CAS REGISTRY NO=51082-26-9
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    27         63
+    28          2
+    29         18
+    32          1
+    39        125
+    41        419
+    42         20
+    43         13
+    50         23
+    51         75
+    52         24
+    53         75
+    54          8
+    55         17
+    62         12
+    63         50
+    64         22
+    65         77
+    66         11
+    67         44
+    68          8
+    69        939
+    70         55
+    71         15
+    74          6
+    75         10
+    77        216
+    78         77
+    79        159
+    80         10
+    82          9
+    89         29
+    91        193
+    92         19
+   101          4
+   102         21
+   103        101
+   104          4
+   105        999
+   106        561
+   107         47
+   115         76
+   116         23
+   117         36
+   118        140
+   119         20
+   127         18
+   128         52
+   129         36
+   130         14
+   131         53
+   132          8
+   141         17
+   142         11
+   143         12
+   144         10
+   147          6
+   157          5
+   159         75
+   160          8
+   174        203
+   175         27

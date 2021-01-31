@@ -1,0 +1,87 @@
+##TITLE=Library Entry 1187
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6831
+##NAMES=HP
+##CAS NAME=Phenylethanolamine
+##MOLFORM=C8H11NO
+##CAS REGISTRY NO=7568-93-6
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    15          2
+    16          1
+    17          2
+    18          3
+    26          2
+    27         15
+    28         31
+    29         10
+    30        999
+    31         62
+    32         62
+    37          3
+    38          7
+    39         29
+    40          3
+    41          8
+    42          7
+    43         11
+    44          7
+    46          1
+    49          2
+    50         27
+    51         67
+    52         17
+    53         10
+    54          2
+    55          1
+    56          1
+    57          1
+    58          7
+    59          3
+    60          2
+    61          3
+    62          7
+    63         17
+    64          5
+    65         19
+    66          3
+    73          2
+    74          8
+    75          6
+    76          7
+    77        163
+    78         38
+    79        207
+    80         14
+    86          1
+    87          1
+    88          1
+    89         17
+    90         14
+    91         70
+    92         21
+    93          3
+    98          1
+   102          4
+   103         12
+   104         19
+   105         45
+   106         15
+   107        133
+   108         33
+   109          2
+   116          6
+   117         35
+   118         86
+   119         56
+   120          9
+   121          3
+   122          1
+   137          4
+   138          1

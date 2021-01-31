@@ -1,0 +1,64 @@
+##TITLE=Library Entry 81431
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Insect Chem. Ecol. Lab., USDA, Beltsville, MD 20705
+##NAMES=HP
+##CAS NAME=p-Methylphenylacetic acid methyl ester
+##MOLFORM=C10H12O2
+##CAS REGISTRY NO=23786-13-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    41          2
+    42          5
+    43          0
+    45         14
+    47          1
+    49          6
+    50         20
+    51         45
+    52         15
+    53         14
+    54          0
+    55          0
+    59         36
+    61          1
+    62          7
+    63         25
+    65         21
+    66          2
+    74          7
+    75          4
+    76          4
+    77        102
+    78         40
+    79         55
+    80          2
+    87          1
+    89         10
+    91         23
+    92          1
+    93          2
+    97          0
+   102          7
+   103         75
+   105        999
+   106         78
+   107          2
+   119          6
+   121          4
+   122          1
+   131          0
+   132          9
+   133         12
+   135          1
+   148          3
+   149         42
+   150          3
+   164        421
+   165         41
+   166          3

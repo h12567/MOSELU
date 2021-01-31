@@ -1,0 +1,70 @@
+##TITLE=Library Entry 61749
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Albert Lebedev, Moscow State University, Russia
+##NAMES=HP
+##CAS NAME=1-(Phenylmethyl)-1,2,3,6-tetrahydropyridin-3-ol
+##MOLFORM=C12H15NO
+##CAS REGISTRY NO=872585-58-5
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    38          2
+    39         39
+    40          8
+    41         44
+    42         43
+    43         10
+    44          4
+    50          5
+    51         16
+    52          5
+    53          8
+    54          2
+    55          8
+    62          3
+    63         16
+    64          5
+    65         89
+    66          6
+    67          4
+    68         20
+    69         52
+    70        139
+    71          7
+    76          1
+    77          8
+    78          4
+    79          2
+    80         12
+    81          1
+    82          7
+    83          1
+    89         20
+    90          9
+    91        999
+    92         79
+    93          3
+   103          1
+   104          4
+   105          1
+   112          3
+   115          1
+   117          5
+   118          9
+   119         11
+   120        551
+   121         54
+   122          4
+   128          1
+   144          2
+   170          3
+   172          5
+   188          2
+   189         62
+   190          8
+   191          1

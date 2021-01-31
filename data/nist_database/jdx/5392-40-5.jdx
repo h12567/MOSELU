@@ -1,0 +1,67 @@
+##TITLE=Library Entry 34387
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Citral
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=5392-40-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1276
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    27         88
+    28         21
+    29         83
+    39        255
+    41        746
+    42         39
+    43         46
+    50         21
+    51         59
+    52         27
+    53        131
+    54         32
+    55         64
+    56         42
+    59         34
+    63         22
+    65         47
+    66         19
+    67        105
+    69        999
+    70         59
+    77         62
+    78         18
+    79         74
+    80         23
+    81         80
+    82         56
+    83        125
+    84        267
+    85         14
+    91         89
+    92         26
+    93         31
+    94        162
+    95         54
+    96         14
+   105         19
+   106         10
+   107         15
+   108         21
+   109         94
+   110         18
+   115         16
+   117         24
+   119         64
+   121         10
+   123         65
+   124         10
+   132         15
+   134         29
+   137         68
+   152         43

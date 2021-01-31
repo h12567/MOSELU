@@ -1,0 +1,48 @@
+##TITLE=Library Entry 83086
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbamic acid, (.alpha.-methylbenzyl)-, butyl ester
+##MOLFORM=C13H19NO2
+##CAS REGISTRY NO=32589-33-6
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        306
+    42        277
+    43         49
+    44        128
+    50          9
+    51         79
+    52         19
+    55         69
+    56         59
+    57        376
+    77        207
+    78         69
+    79        207
+    91          9
+   103         79
+   104        178
+   105        544
+   106        999
+   107         69
+   120        356
+   121         29
+   132         89
+   147         39
+   150        237
+   151          9
+   162          9
+   164        802
+   165         79
+   206        435
+   207         39
+   221        277
+   222         29

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 114906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1H-Indole-1-carboxylic acid, 3-[[3-benzoyl-2-(1,1-dimethylethyl)-
+4-methyl-5-oxo-4-oxazolidinyl]methyl]-, 1,1-dimethylethyl ester, (2R-trans)-
+##MOLFORM=C29H34N2O5
+##CAS REGISTRY NO=116139-85-6
+##MP= -300
+##BP= -300
+##MW= 490
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    28         37
+    29         28
+    41         49
+    57        330
+    77        115
+    84         19
+    86         13
+    96         10
+   105        971
+   106         88
+   111         91
+   129         33
+   130        999
+   131        117
+   149          9
+   156         38
+   174        525
+   175         73
+   186         13
+   201         10
+   218          8
+   230        282
+   231         52
+   245          9
+   260         24
+   261         12
+   262         14
+   279         20
+   377         22
+   490         52
+   491         17

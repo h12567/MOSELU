@@ -1,0 +1,34 @@
+##TITLE=Library Entry 1546
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethene, tetrafluoro-
+##MOLFORM=C2F4
+##CAS REGISTRY NO=116-14-3
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=177
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    12         77
+    13          1
+    19         14
+    24         24
+    25          1
+    31        999
+    32         10
+    43         14
+    44          1
+    50        308
+    51          6
+    62         10
+    63          1
+    69         36
+    70          1
+    81        731
+    82         14
+   100        431
+   101         10

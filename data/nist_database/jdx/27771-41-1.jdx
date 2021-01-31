@@ -1,0 +1,87 @@
+##TITLE=Library Entry 70887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3,4-Dihydro-5,5-dimethyl-4-ethoxycarbonyloxazole
+##MOLFORM=C8H13NO3
+##CAS REGISTRY NO=27771-41-1
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    26         28
+    27        223
+    28        243
+    29        458
+    30         46
+    31         35
+    32          1
+    37          4
+    38         14
+    39        126
+    40        120
+    41        210
+    42         90
+    43        791
+    44         25
+    45         16
+    46          4
+    47          4
+    49          7
+    50          3
+    51          5
+    52          8
+    53         19
+    54         41
+    55         33
+    56         69
+    57        211
+    59        329
+    60         10
+    61          1
+    66          1
+    67          8
+    68         58
+    69         29
+    70        103
+    71        714
+    72         33
+    73          6
+    74          4
+    75          1
+    80          1
+    81          4
+    82         19
+    83         15
+    84         80
+    85        557
+    86         28
+    87          5
+    88          1
+    98        999
+    99        114
+   100         10
+   101          1
+   110          3
+   112         30
+   113        260
+   114         34
+   115          8
+   116          1
+   125          6
+   126          5
+   127          1
+   128          4
+   143        152
+   144         10
+   145          1
+   154          1
+   156          1
+   169          1
+   171         26
+   172         11
+   173          1

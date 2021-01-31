@@ -1,0 +1,55 @@
+##TITLE=Library Entry 21072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Penten-1-ol, 2,2,4-trimethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=5842-53-5
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14         16
+    15         75
+    26         24
+    27        269
+    29        222
+    31        118
+    38         29
+    39        320
+    40         45
+    41        494
+    42         47
+    43        456
+    44         20
+    45         20
+    50         24
+    51         47
+    52         20
+    53        127
+    54         24
+    55        999
+    56         75
+    57        202
+    58         24
+    59         38
+    65         27
+    67        113
+    68         18
+    69        203
+    70         42
+    71         18
+    77         31
+    79         40
+    81         52
+    83         20
+    95         90
+    97        823
+    98         67
+   110         24
+   112         18
+   128         23

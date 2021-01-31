@@ -1,0 +1,42 @@
+##TITLE=Library Entry 13974
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.BRUNOW CHEM. INST., UNIVERSITY, HELSINGFORS, FINLAND
+##NAMES=HP
+##CAS NAME=Ethanethioic acid, S-[3-(acetyloxy)-1-[4-(acetyloxy)-3-methoxyphe
+nyl]-2-(2-methoxyphenoxy)propyl] ester
+##MOLFORM=C23H26O8S
+##CAS REGISTRY NO=37791-77-8
+##MP= -300
+##BP= -300
+##MW= 462
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    43        999
+   109         71
+   123         75
+   124        189
+   131         50
+   137         75
+   149         54
+   161        151
+   163        113
+   167         54
+   169         63
+   179         80
+   194         63
+   195        160
+   209        223
+   222         59
+   237        421
+   253         25
+   254         25
+   279         42
+   285         21
+   291         21
+   327         21
+   339        101
+   387         16
+   462        118

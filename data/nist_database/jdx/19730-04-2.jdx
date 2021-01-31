@@ -1,0 +1,34 @@
+##TITLE=Library Entry 71516
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Pyridine, 3-(1-methyl-2-piperidinyl)-
+##MOLFORM=C11H16N2
+##CAS REGISTRY NO=19730-04-2
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    42        110
+    70         60
+    78         50
+    92         60
+    98        999
+    99         90
+   104         50
+   105         80
+   106         50
+   118         50
+   119        220
+   120         90
+   133         90
+   147         90
+   161         30
+   175        120
+   176        190
+   177         30

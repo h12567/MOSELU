@@ -1,0 +1,69 @@
+##TITLE=Library Entry 1098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Glycine, N-(1-oxopropyl)-, methyl ester
+##MOLFORM=C6H11NO3
+##CAS REGISTRY NO=4396-63-8
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=1171
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    30        999
+    31         36
+    33         10
+    36          0
+    38          0
+    39          2
+    40          0
+    41          3
+    42         34
+    43         18
+    44         46
+    45         18
+    46          0
+    51          0
+    52          1
+    53          2
+    54          4
+    55         24
+    56        127
+    57        480
+    58         24
+    59         29
+    60          2
+    61          0
+    62          2
+    64          0
+    67          0
+    68          1
+    69          5
+    70          1
+    71          0
+    72          0
+    73          0
+    74          4
+    83          0
+    84          4
+    85          4
+    86        372
+    87         18
+    88         92
+    89         31
+    90         12
+    91          1
+   102          0
+   105          0
+   113         43
+   114         23
+   115          1
+   116          2
+   121          0
+   127          0
+   143          0
+   145         90
+   146          6

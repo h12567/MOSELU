@@ -1,0 +1,36 @@
+##TITLE=Library Entry 42719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. WURST, OSTBOHMISCHE CHEM. SYNTH. VEB., FRANKFURT, W.
+ GER.
+##NAMES=HP
+##CAS NAME=1,1,1,5,7,7,7-Heptamethyl-3,3-bis(trimethylsiloxy)tetrasiloxane
+##MOLFORM=C13H40O5Si6
+##CAS REGISTRY NO=38147-00-1
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    45        220
+    59        280
+    73        999
+    74        110
+   133        230
+   147        600
+   148        110
+   191         90
+   207        260
+   221        180
+   267        460
+   268        120
+   281        260
+   341        290
+   342        120
+   355        380
+   356        120
+   429        350
+   430        120
+   431         90

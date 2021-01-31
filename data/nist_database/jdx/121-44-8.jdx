@@ -1,0 +1,53 @@
+##TITLE=Library Entry 56133
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Triethylamine
+##MOLFORM=C6H15N
+##CAS REGISTRY NO=121-44-8
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=679
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15          8
+    26          8
+    27         66
+    28         60
+    29         82
+    30        174
+    31          2
+    38          1
+    39          6
+    40          7
+    41         29
+    42        121
+    43         19
+    44        113
+    45          3
+    51          1
+    52          3
+    53          2
+    54         15
+    55          8
+    56         75
+    57         21
+    58        296
+    59         11
+    68          3
+    69          1
+    70         33
+    71         14
+    72         30
+    73          2
+    84          6
+    86        999
+    87         63
+    88          2
+    99          3
+   100         62
+   101        188
+   102         14

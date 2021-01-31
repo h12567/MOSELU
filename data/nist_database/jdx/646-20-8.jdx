@@ -1,0 +1,71 @@
+##TITLE=Library Entry 20556
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3067
+##NAMES=HP
+##CAS NAME=Heptanedinitrile
+##MOLFORM=C7H10N2
+##CAS REGISTRY NO=646-20-8
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15         14
+    25          1
+    26         33
+    27        153
+    28         83
+    29        136
+    30          5
+    37         13
+    38         22
+    39        170
+    40         53
+    41        682
+    42         46
+    43          8
+    44          2
+    49          2
+    50         10
+    51         26
+    52         50
+    53         70
+    54        507
+    55        999
+    56         46
+    57          1
+    61          2
+    62          3
+    63          6
+    64         15
+    65         10
+    66         27
+    67         52
+    68        199
+    69        108
+    70          5
+    75          2
+    76          2
+    77          3
+    78          2
+    79          9
+    80         23
+    81         74
+    82        828
+    83         49
+    84          2
+    93         15
+    94         68
+    95         10
+    96          2
+   104          1
+   107          9
+   108          1
+   121         23
+   122          2
+   123          1

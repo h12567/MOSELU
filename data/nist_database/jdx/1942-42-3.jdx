@@ -1,0 +1,23 @@
+##TITLE=Library Entry 22025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclobutanone, 2,3-dimethyl-, trans-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=1942-42-3
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    41        445
+    42        108
+    44        138
+    55        217
+    56        999
+    70         69
+    98        217

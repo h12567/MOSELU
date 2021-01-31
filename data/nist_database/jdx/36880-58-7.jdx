@@ -1,0 +1,42 @@
+##TITLE=Library Entry 109412
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridinium, 3-mercapto-1-methyl-, hydroxide, inner salt
+##MOLFORM=C6H7NS
+##CAS REGISTRY NO=36880-58-7
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    50         70
+    51        150
+    52         80
+    53         20
+    57         50
+    65         40
+    66         30
+    67         20
+    69         30
+    79        100
+    80        120
+    81         80
+    82         50
+    83        120
+    84         40
+    92        100
+    93         10
+    94         10
+    97         30
+   109         10
+   110        200
+   111         80
+   112         10
+   124         70
+   125        999
+   126         80
+   127         40

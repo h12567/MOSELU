@@ -1,0 +1,76 @@
+##TITLE=Library Entry 54670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2,4-Hexanedione, 5,5-dimethyl-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=7307-04-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    14         12
+    15         54
+    16          2
+    17          1
+    18          3
+    19          1
+    26         13
+    27         90
+    28         50
+    29        159
+    30          4
+    31         36
+    32          8
+    37          3
+    38         14
+    39        134
+    41        262
+    42         58
+    43        494
+    44         11
+    45          8
+    50          5
+    51         10
+    52          3
+    53         18
+    55         34
+    56         22
+    57        222
+    58         75
+    59         22
+    60          1
+    62          1
+    63          1
+    65          4
+    66          3
+    67          7
+    69         36
+    70          3
+    71         10
+    72          1
+    74          1
+    77          2
+    79          7
+    81          9
+    82          1
+    83          6
+    85        999
+    86         48
+    87         11
+    97          5
+    99         18
+   100          1
+   109          4
+   111          3
+   112          1
+   114         27
+   115          2
+   125          1
+   127          8
+   142         94
+   143          9

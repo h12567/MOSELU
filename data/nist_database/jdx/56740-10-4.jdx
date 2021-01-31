@@ -1,0 +1,70 @@
+##TITLE=Library Entry 19931
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.A. GEORGE, US AGRIC. RES. LAB., YAKIMA, WASH.,
+##NAMES=HP
+##CAS NAME=trans-4,5-Epoxydecane
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=56740-10-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    26         20
+    27        500
+    28        370
+    29        630
+    30         20
+    31         80
+    32         30
+    38         10
+    39        260
+    40         40
+    41        810
+    42        410
+    43        870
+    44        240
+    45         70
+    51         10
+    52         10
+    53         80
+    54         90
+    55        999
+    56        860
+    57        940
+    58        120
+    59         10
+    66         10
+    67        170
+    68        100
+    69        230
+    70         50
+    71        220
+    72        300
+    73        400
+    74         20
+    77         20
+    79         20
+    81        140
+    82        360
+    83        330
+    84        150
+    85        110
+    86         60
+    87         10
+    95        120
+    96         40
+    97         10
+    99        120
+   100         30
+   109         30
+   113        350
+   114         40
+   127         10
+   128         10
+   138         50
+   140         10
+   156         20

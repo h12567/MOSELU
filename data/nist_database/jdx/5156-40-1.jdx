@@ -1,0 +1,52 @@
+##TITLE=Library Entry 23181
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Nitrous acid, cyclohexyl ester
+##MOLFORM=C6H11NO2
+##CAS REGISTRY NO=5156-40-1
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26         10
+    27        202
+    28         60
+    29        161
+    30        828
+    31         40
+    38         10
+    39        212
+    40         30
+    41        434
+    42        353
+    43        141
+    44        222
+    45         30
+    51         20
+    53         40
+    54        141
+    55        626
+    56        161
+    57        999
+    58         70
+    67        232
+    68         10
+    69        191
+    70        131
+    71        131
+    72         60
+    79         10
+    80         20
+    81        111
+    82        545
+    83         80
+    97         10
+    98        292
+    99         20
+   100         30

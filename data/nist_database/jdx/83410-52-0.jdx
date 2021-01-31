@@ -1,0 +1,88 @@
+##TITLE=Library Entry 16912
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Tech. Univ. Eindhov
+en, Netherlands
+##NAMES=HP
+##CAS NAME=1,4,7,10,13,16,19-Heptaoxa-2-cycloheneicosanone
+##MOLFORM=C14H26O8
+##CAS REGISTRY NO=83410-52-0
+##MP= -300
+##BP= -300
+##MW= 322
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    15         81
+    16          9
+    17          7
+    18         13
+    19         48
+    26         22
+    27        110
+    28        387
+    29        335
+    30         77
+    31        219
+    39          4
+    41         68
+    42        286
+    43        621
+    44        295
+    45        999
+    46         24
+    47          4
+    51          8
+    55          9
+    57        126
+    58        226
+    59        182
+    60         18
+    61         14
+    69         13
+    70         49
+    71         80
+    72        111
+    73        304
+    74         23
+    75         54
+    77          8
+    83          6
+    84          6
+    86        272
+    87        312
+    88        108
+    89        257
+    90         11
+    99         35
+   100         31
+   101        152
+   102        220
+   103        390
+   104         24
+   105          9
+   113          5
+   114          7
+   115         24
+   116         23
+   117         54
+   118          7
+   119         13
+   128          8
+   129         23
+   130         10
+   131         32
+   133         72
+   134          4
+   145         35
+   146         32
+   147        118
+   148          9
+   160          5
+   161          7
+   175          7
+   189          8
+   190         15
+   191         41
+   235          9

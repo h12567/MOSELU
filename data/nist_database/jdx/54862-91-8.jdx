@@ -1,0 +1,74 @@
+##TITLE=Library Entry 8191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. Aggrawal, Pacific Mass Spectrometry Center , Univers
+ity of the Pacific, 2010
+##NAMES=HP
+##CAS NAME=2-hydroxy-2-methyl-4-heptanone
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=54862-91-8
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    25          2
+    26         18
+    27        123
+    28         24
+    29         61
+    30          2
+    31         63
+    32          2
+    36          1
+    37          7
+    38         13
+    39        105
+    40         19
+    41        180
+    42         83
+    43        999
+    44         31
+    45         15
+    49          3
+    50          3
+    51          6
+    52          2
+    53         12
+    54          2
+    55         43
+    56        103
+    57         24
+    58        267
+    59        624
+    60         25
+    61          2
+    63          1
+    65          2
+    67          4
+    68          1
+    69          6
+    70          6
+    71        482
+    72         26
+    73          2
+    77          1
+    82          2
+    83         27
+    84          5
+    85          6
+    86         88
+    87          7
+    88          1
+    89         18
+   100          1
+   101         15
+   102          1
+   111          2
+   116          4
+   126         58
+   127          6
+   129         90
+   130          8

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 34928
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Ethyl-4-octene
+##MOLFORM=C10H20
+##CAS REGISTRY NO=19781-32-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    27         91
+    28         33
+    29         96
+    32          4
+    39        107
+    41        364
+    42         32
+    43         60
+    44          4
+    50          7
+    51         20
+    52         11
+    53         61
+    54          4
+    55        434
+    56         42
+    57         27
+    63          5
+    65         25
+    66         11
+    67        111
+    68          5
+    69        999
+    70        100
+    71         11
+    77         24
+    78          5
+    79         29
+    80          4
+    81         31
+    82         17
+    83         22
+    84         89
+    85         17
+    91          6
+    95          6
+    97         63
+    98         11
+   110         21
+   111        154
+   112         17
+   140         71
+   141          7

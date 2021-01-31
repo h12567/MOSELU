@@ -1,0 +1,58 @@
+##TITLE=Library Entry 3002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Oxprenolol n-butylboronate
+##MOLFORM=C19H30BNO3
+##CAS REGISTRY NO=127215-08-1
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        491
+    55        255
+    56        818
+    70        194
+    72         98
+    82        225
+    84        219
+    98         82
+   100        322
+   109         54
+   110         97
+   121         67
+   126        119
+   134        108
+   140         85
+   152         62
+   166        252
+   167        447
+   180        254
+   181        113
+   182        243
+   189         31
+   204         23
+   217        196
+   218        484
+   231         51
+   232        190
+   246          3
+   258          5
+   260          6
+   273         24
+   274         71
+   290          9
+   291          2
+   302         45
+   303          4
+   315        355
+   316        751
+   317        132
+   330         44
+   331         72

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 883
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5053
+##NAMES=HP
+##CAS NAME=Isoserine
+##MOLFORM=C3H7NO3
+##CAS REGISTRY NO=565-71-9
+##MP= -300
+##BP= -300
+##MW= 105
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          5
+    15         38
+    16          6
+    17         11
+    18         48
+    25          1
+    26          6
+    27         14
+    28        115
+    29         49
+    30        999
+    31         24
+    32          2
+    38          2
+    39          4
+    40          9
+    41         21
+    42         92
+    43         50
+    44         53
+    45         24
+    46          3
+    47          1
+    52          1
+    53          2
+    54          2
+    55          3
+    56          3
+    57          3
+    58         26
+    59         11
+    60         85
+    61          3
+    62          2
+    67          1
+    68          2
+    69          7
+    70          5
+    71          1
+    72          3
+    76         10
+    85          1
+    86          1
+    87          4

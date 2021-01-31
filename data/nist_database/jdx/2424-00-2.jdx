@@ -1,0 +1,40 @@
+##TITLE=Library Entry 37048
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=2-(Allylamino)ethanol
+##MOLFORM=C5H11NO
+##CAS REGISTRY NO=2424-00-2
+##MP= -300
+##BP= -300
+##MW= 101
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    31         45
+    39        157
+    41        650
+    42        171
+    43        154
+    44         27
+    45         37
+    54         34
+    55         24
+    56        208
+    57        117
+    58         14
+    68         71
+    69         13
+    70        999
+    71         69
+    72         15
+    74         37
+    82         12
+    83          9
+    84         17
+    99          6
+   100         10
+   101         36
+   102         16

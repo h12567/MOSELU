@@ -1,0 +1,49 @@
+##TITLE=Library Entry 34873
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridazine, 3,6-dimethoxy-
+##MOLFORM=C6H8N2O2
+##CAS REGISTRY NO=4603-59-2
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15        513
+    16         10
+    26        500
+    27         19
+    29        149
+    38         73
+    39        186
+    40        142
+    43        109
+    51         22
+    52        128
+    53        327
+    54        827
+    55         22
+    68         19
+    69        999
+    70         28
+    71        106
+    72         10
+    79        200
+    80        295
+    81         15
+    82        295
+    83         19
+    95        200
+    96         64
+    97         40
+   109         55
+   110         19
+   111        146
+   112         10
+   139        106
+   140        164
+   141         15

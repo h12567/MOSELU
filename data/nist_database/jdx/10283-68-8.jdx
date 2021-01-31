@@ -1,0 +1,30 @@
+##TITLE=Library Entry 107002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(2)589(1978); M. R. USKOKOVIC ET AL.
+##NAMES=HP
+##CAS NAME=1H-Indole-3-ethanol, 2-(5-ethyl-1-azabicyclo[2.2.2]oct-2-yl)-, [1
+S-(1.alpha.,2.alpha.,4.alpha.,5.beta.)]-
+##MOLFORM=C19H26N2O
+##CAS REGISTRY NO=10283-68-8
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+   110        250
+   123        999
+   144        200
+   156        300
+   169        130
+   187         70
+   201         70
+   211         50
+   223        100
+   241        100
+   253         60
+   268        250
+   280        230
+   298        300

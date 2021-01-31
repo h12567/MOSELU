@@ -1,0 +1,41 @@
+##TITLE=Library Entry 17489
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=(4-Cyanophenyl)boronic acid
+##MOLFORM=C7H6BNO2
+##CAS REGISTRY NO=126747-14-6
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    37         51
+    38         51
+    39         37
+    40         30
+    41         11
+    44        367
+    45        999
+    49         32
+    50        151
+    51        103
+    52         36
+    61         63
+    62        223
+    63         30
+    64         10
+    73         15
+    74         51
+    75        107
+    76        191
+    77         44
+   102         82
+   103        597
+   104         35
+   146         41
+   147        210
+   148         27

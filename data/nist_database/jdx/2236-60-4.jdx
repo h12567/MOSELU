@@ -1,0 +1,75 @@
+##TITLE=Library Entry 12848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4(1H)-Pteridinone, 2-amino-
+##MOLFORM=C6H5N5O
+##CAS REGISTRY NO=2236-60-4
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    36         31
+    38        237
+    39        232
+    40        335
+    41        171
+    42        370
+    43        999
+    44        167
+    45          9
+    47         11
+    50         15
+    51         98
+    52        211
+    53        278
+    54        107
+    55         21
+    56         21
+    57          6
+    60         24
+    64         64
+    65        189
+    66        573
+    67        311
+    68        302
+    69        245
+    70         48
+    71          4
+    76         11
+    77         49
+    78         44
+    79         79
+    80         25
+    81         88
+    83         16
+    91         27
+    92        134
+    93        592
+    94        498
+    95         55
+    96         12
+   104          8
+   105          7
+   106         40
+   107         17
+   108        105
+   109        149
+   110         17
+   118          7
+   119         41
+   120         60
+   121         77
+   122        319
+   123         18
+   125         10
+   135         71
+   136         30
+   162         14
+   163        895
+   164         77
+   165          5

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 27876
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1,2-Ethanediamine, N,N,N',N'-tetramethyl-
+##MOLFORM=C6H16N2
+##CAS REGISTRY NO=110-18-9
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=1065
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15          8
+    26          1
+    27          7
+    28          7
+    29         10
+    30         34
+    39          2
+    40          4
+    41         13
+    42        126
+    43         31
+    44         20
+    45          3
+    52          1
+    54          7
+    55          7
+    56         43
+    57         26
+    58        999
+    59         42
+    60          1
+    68          1
+    69          1
+    70         17
+    71         18
+    72         22
+    73          1
+    83          3
+    84          1
+    85          1
+    97          1
+    99          6
+   116         53
+   117          4

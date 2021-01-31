@@ -1,0 +1,89 @@
+##TITLE=Library Entry 49792
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.ROEPER,LEHRSTUHL INST. TECH. CHEM. PETROLCHEM.,AACHEN
+, W.GER
+##NAMES=HP
+##CAS NAME=(E,Z)-N-(2,7-Dimethyl-2,7-octadien-1-yl)-2,7-dimethyl-2,7-octadie
+n-1-amine
+##MOLFORM=C20H35N
+##CAS REGISTRY NO=77984-60-2
+##MP= -300
+##BP= -300
+##MW= 289
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    29        381
+    30        493
+    31         10
+    39        151
+    40         36
+    41        732
+    42         90
+    43        176
+    44         72
+    45         52
+    52          8
+    53        180
+    54         33
+    55        428
+    56         96
+    57        104
+    58         60
+    59          8
+    65         28
+    66         20
+    67        252
+    68        121
+    69        181
+    70        516
+    71         85
+    72          6
+    77         35
+    79        170
+    80        106
+    81        999
+    82        267
+    83         58
+    84         96
+    85          6
+    89          5
+    91         20
+    92         15
+    93        163
+    94         98
+    95        296
+    96        334
+    97         75
+    98         13
+   105         11
+   107        173
+   108        144
+   109         39
+   110         65
+   111         10
+   121        327
+   122         42
+   123         18
+   124         14
+   135         12
+   136         54
+   137         41
+   138         77
+   150         18
+   151         13
+   152        121
+   153         24
+   154         18
+   164         11
+   166         65
+   192         18
+   206         50
+   207         15
+   220          8
+   232         25
+   234         24
+   274         13
+   289         48

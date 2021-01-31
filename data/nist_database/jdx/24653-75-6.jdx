@@ -1,0 +1,30 @@
+##TITLE=Library Entry 10188
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Mercaptoacetone
+##MOLFORM=C3H6OS
+##CAS REGISTRY NO=24653-75-6
+##MP= -300
+##BP= -300
+##MW= 90
+##$RETENTION INDEX=739
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    26         28
+    27         58
+    29         33
+    42         96
+    43        999
+    44         41
+    45        171
+    46         73
+    47        285
+    57         13
+    58         15
+    88         20
+    90        453
+    91         22
+    92         23

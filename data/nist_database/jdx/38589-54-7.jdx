@@ -1,0 +1,49 @@
+##TITLE=Library Entry 99350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,4,7-Methenocyclopent[a]indene, 3,3a,3b,4,7,7a,8,8a-octahydro-8-
+methyl-, (3.alpha.,3a.beta.,3b.beta.,4.alpha.,7.alpha.,7a.beta.,8.alpha.,8a.
+beta.)-
+##MOLFORM=C14H16
+##CAS REGISTRY NO=38589-54-7
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        203
+    51        192
+    63        140
+    65        271
+    66        192
+    77        390
+    78        217
+    79        229
+    91        994
+    92        375
+    93        196
+   103        189
+   104        173
+   105        212
+   106        202
+   115        457
+   116        252
+   117        994
+   118        852
+   119        999
+   128        249
+   129        212
+   130        171
+   141        202
+   142        138
+   143        153
+   153        103
+   155        170
+   156        108
+   169        325
+   184        917
+   185        138

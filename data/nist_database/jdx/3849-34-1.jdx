@@ -1,0 +1,45 @@
+##TITLE=Library Entry 22379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Peroxide, dibutyl
+##MOLFORM=C8H18O2
+##CAS REGISTRY NO=3849-34-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         20
+    19         10
+    26         30
+    27        310
+    28         90
+    29        490
+    30         40
+    31        190
+    33         10
+    37         10
+    38         10
+    39        110
+    40         20
+    41        549
+    42        150
+    43        380
+    44         70
+    45         40
+    53         10
+    54         10
+    55         90
+    56        999
+    57        829
+    59         10
+    71         10
+    72         30
+    73         80
+   132         10
+   146         90
+   147         10

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 11958
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Pentane-1,1-diol diacetate
+##MOLFORM=C9H16O4
+##CAS REGISTRY NO=38620-86-9
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39         40
+    41         78
+    42         30
+    43        999
+    44         59
+    45         20
+    53          9
+    55         10
+    57         50
+    58         20
+    60          9
+    61          9
+    68          9
+    69         20
+    71         10
+    72          9
+    85         79
+    86         29
+    87          9
+    89         10
+   100         19
+   103        110
+   128          9
+   129        119
+   130          9
+   131         20

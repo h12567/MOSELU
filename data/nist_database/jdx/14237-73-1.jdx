@@ -1,0 +1,72 @@
+##TITLE=Library Entry 37503
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.P.FLANAGAN US DEPT. AGRICULTURE, WASHINGTON, D.C., US
+A
+##NAMES=HP
+##CAS NAME=2-Hexadecene, 3,7,11,15-tetramethyl-, [R-[R*,R*-(E)]]-
+##MOLFORM=C20H40
+##CAS REGISTRY NO=14237-73-1
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=1830
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    39         57
+    41        497
+    42         95
+    43        506
+    44         24
+    53         48
+    54         78
+    55        550
+    56        359
+    57        564
+    58         28
+    67        105
+    68         77
+    69        645
+    70        999
+    71        464
+    72         28
+    81         78
+    82         77
+    83        360
+    84        178
+    85        162
+    95         57
+    96         33
+    97        191
+    98         57
+    99         33
+   109         24
+   110         19
+   111        220
+   112         67
+   113         28
+   123         14
+   124         10
+   125        170
+   126        185
+   127         42
+   139         14
+   140        115
+   141         28
+   153          7
+   154         13
+   155          5
+   167          3
+   168          4
+   169          1
+   180          1
+   181          6
+   182          5
+   183          2
+   195          4
+   196         26
+   197          5
+   210         16
+   211          3
+   280         91

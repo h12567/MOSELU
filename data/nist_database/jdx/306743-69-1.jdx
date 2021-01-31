@@ -1,0 +1,39 @@
+##TITLE=Library Entry 99510
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Zaikin V.G., TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-methyl-, 4-benzyloxyphenyl ester
+##MOLFORM=C21H18O3
+##CAS REGISTRY NO=306743-69-1
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=2701
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    28          6
+    39         16
+    41          7
+    50          3
+    51          8
+    52          3
+    54          3
+    57          3
+    63         12
+    64          5
+    65         82
+    66          4
+    81          3
+    89         17
+    90         16
+    91        395
+    92         33
+   110          4
+   118          5
+   119        999
+   120         83
+   121          5
+   318         57
+   319         12

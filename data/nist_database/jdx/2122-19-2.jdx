@@ -1,0 +1,43 @@
+##TITLE=Library Entry 96328
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.S.Prostakov, Russian Friendship University. Moscow
+##NAMES=HP
+##CAS NAME=N,N'-(1,2-Propylene)-thiourea
+##MOLFORM=C4H8N2S
+##CAS REGISTRY NO=2122-19-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         90
+    42        155
+    43        200
+    44        315
+    45         90
+    54         50
+    55         30
+    56         75
+    57         60
+    59         75
+    60        100
+    72         75
+    73         90
+    74        100
+    86        100
+    87         15
+    91         10
+    93         40
+    94         25
+   100         25
+   101        250
+   102         20
+   103         20
+   115         20
+   116        999
+   117         60
+   118         46
+   119          2

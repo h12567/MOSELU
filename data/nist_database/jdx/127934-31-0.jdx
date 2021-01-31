@@ -1,0 +1,68 @@
+##TITLE=Library Entry 38092
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=(2-Methoxyphenyl)(1,2,5-trimethylpiperidinyliden-4)amine
+##MOLFORM=C15H22N2O
+##CAS REGISTRY NO=127934-31-0
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    56        350
+    57        235
+    58         90
+    65        130
+    66         20
+    70        999
+    71        225
+    77        180
+    78         90
+    80        130
+    81         45
+    84        170
+    85         40
+    91        130
+    92        120
+    98         50
+    99         15
+   108        260
+   109         45
+   110         80
+   120         65
+   121         10
+   123        130
+   124        350
+   125         90
+   132         70
+   133         50
+   134         55
+   135         40
+   144         40
+   145         30
+   146         90
+   147         80
+   148         40
+   158         90
+   159         45
+   160        140
+   161         40
+   174         90
+   175         20
+   188         70
+   189         85
+   190         40
+   215         30
+   216         20
+   218        170
+   219         40
+   231        680
+   232        130
+   245        130
+   246        390
+   247         65
+   248          5

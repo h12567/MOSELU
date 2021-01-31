@@ -1,0 +1,36 @@
+##TITLE=Library Entry 80351
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=BMSYAL, 6(3)117(1979); R. M. THOMPSON AND D. A. CORY
+##NAMES=HP
+##CAS NAME=D-Galactose, O-(phenylmethyl)oxime, 2,3,4,5,6-pentabenzoate
+##MOLFORM=C48H39NO11
+##CAS REGISTRY NO=71641-46-8
+##MP= -300
+##BP= -300
+##MW= 805
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    77        640
+    91        780
+   105        999
+   122        200
+   195         38
+   269         38
+   280         28
+   281         27
+   294          9
+   311         19
+   323         31
+   331         29
+   350         50
+   426         23
+   428         28
+   453          8
+   537         12
+   593        360
+   684          8
+   775          4
+   805         14

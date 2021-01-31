@@ -1,0 +1,38 @@
+##TITLE=Library Entry 39558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.FELKER,DEP. BOTANY PLANT PATHOL.,MICH. STATE UNIV.,MI
+CH.,USA
+##NAMES=HP
+##CAS NAME=Bis(3-methylbutyl) n-heptafluorobutyrylglutamate
+##MOLFORM=C19H28F7NO5
+##CAS REGISTRY NO=75742-82-4
+##MP= -300
+##BP= -300
+##MW= 483
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    69         53
+    71        999
+   114          4
+   115          5
+   143          5
+   156          1
+   169         10
+   252        194
+   253         34
+   271          3
+   280        156
+   281         27
+   298        238
+   326         36
+   341         11
+   353          1
+   368        158
+   396         27
+   414          8
+   440          4
+   468          3
+   483          3

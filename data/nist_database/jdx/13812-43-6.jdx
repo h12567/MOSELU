@@ -1,0 +1,24 @@
+##TITLE=Library Entry 17956
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=(Z)-Difluorodiazene
+##MOLFORM=F2N2
+##CAS REGISTRY NO=13812-43-6
+##MP= -300
+##BP= -300
+##MW= 66
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    14        135
+    19         81
+    28        460
+    29          4
+    33         58
+    34          1
+    47        999
+    48         10
+    66          5

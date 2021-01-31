@@ -1,0 +1,39 @@
+##TITLE=Library Entry 61771
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=2-(3'-Phenylpropyl)-5-ethylpyridine
+##MOLFORM=C16H19N
+##CAS REGISTRY NO=93971-11-0
+##MP= -300
+##BP= -300
+##MW= 225
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    51         25
+    65        100
+    66         46
+    77        104
+    78        104
+    79         79
+    89        313
+    90        138
+    91        999
+    92        204
+   103         35
+   104         70
+   105         66
+   106        396
+   107         90
+   116         25
+   117         29
+   118         31
+   119         58
+   120        458
+   121         83
+   134         70
+   197         52
+   225         20

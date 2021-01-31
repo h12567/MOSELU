@@ -1,0 +1,61 @@
+##TITLE=Library Entry 78563
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1,2-Propanedione, 1-phenyl-
+##MOLFORM=C9H8O2
+##CAS REGISTRY NO=579-07-7
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=1175
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    12          4
+    13         13
+    14         52
+    15        190
+    16          2
+    25          6
+    26         10
+    27         44
+    29         11
+    37         23
+    38         42
+    39         44
+    40          4
+    41         17
+    42         67
+    43        292
+    44          5
+    45          1
+    50        224
+    51        461
+    52         26
+    53         14
+    55          1
+    61         10
+    62         16
+    63         12
+    64          1
+    65          3
+    73         17
+    74         70
+    75         37
+    76          1
+    77        911
+    78         72
+    79          2
+    85          2
+    86          2
+    87          1
+    89          3
+    91          2
+   102          1
+   105        999
+   106         72
+   107          3
+   148         18
+   149          2

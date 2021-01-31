@@ -1,0 +1,37 @@
+##TITLE=Library Entry 62095
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=[1,2,4]Triazolo[1,5-a]pyridine, 6-nitro-
+##MOLFORM=C6H4N4O2
+##CAS REGISTRY NO=31040-14-9
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    50         50
+    51         70
+    52        110
+    53        130
+    54         70
+    61         60
+    62         90
+    63        150
+    64        480
+    65         70
+    78         50
+    79         50
+    80        130
+    90        200
+    91        999
+    92         70
+   107        100
+   118         50
+   134        619
+   148         60
+   164        480
+   165         80

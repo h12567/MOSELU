@@ -1,0 +1,41 @@
+##TITLE=Library Entry 99579
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little
+##NAMES=HP
+##CAS NAME=Benzoic acid, 4-methyl-, 2-hydroxyethyl ester
+##MOLFORM=C10H12O3
+##CAS REGISTRY NO=28129-15-9
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        126
+    41         40
+    50         27
+    51         46
+    63         75
+    64         26
+    65        292
+    77         24
+    89         67
+    90         49
+    91        573
+    92         54
+    93         57
+   105         11
+   107          8
+   118         22
+   119        999
+   120         88
+   136         60
+   137        398
+   138         36
+   149          8
+   150          3
+   162          1
+   163          1
+   180          6

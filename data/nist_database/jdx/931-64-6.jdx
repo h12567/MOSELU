@@ -1,0 +1,59 @@
+##TITLE=Library Entry 49525
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3669
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]oct-2-ene
+##MOLFORM=C8H12
+##CAS REGISTRY NO=931-64-6
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          8
+    27         65
+    28          9
+    29          9
+    37          3
+    38          9
+    39        108
+    40         13
+    41         57
+    42          2
+    45          1
+    49          1
+    50         23
+    51         56
+    52         34
+    53         34
+    54         41
+    55          5
+    61          1
+    62          4
+    63         11
+    64          2
+    65         34
+    66         24
+    67         83
+    68          5
+    74          4
+    75          2
+    76          2
+    77        109
+    78         48
+    79        406
+    80        999
+    81         77
+    82          2
+    89          1
+    91         34
+    92          4
+    93         19
+    94          1
+   107          2
+   108        183
+   109         15

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 48909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. LORENZ, INST. OKOLOGISCHE CHEM., NEUHERBERG, GERMANY
+##NAMES=HP
+##CAS NAME=1,2,3,6-Tetrahydrophthalimide
+##MOLFORM=C8H9NO2
+##CAS REGISTRY NO=85-40-5
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=1470
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         32
+    43         38
+    44         38
+    50         74
+    51        136
+    52         81
+    53         74
+    54         60
+    63         31
+    65         43
+    77        276
+    78        180
+    79        999
+    80        614
+    81         51
+    96         47
+   105         44
+   106         54
+   107         51
+   108         47
+   122        132
+   123        184
+   124         30
+   151        526
+   152         55

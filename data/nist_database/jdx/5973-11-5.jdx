@@ -1,0 +1,50 @@
+##TITLE=Library Entry 38170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Butane, 1-bromo-2-methyl-
+##MOLFORM=C5H11Br
+##CAS REGISTRY NO=5973-11-5
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         35
+    26         62
+    27        349
+    28        129
+    29        343
+    32         18
+    37         22
+    38         59
+    39        396
+    40         18
+    41        919
+    42        261
+    43        658
+    44         32
+    50         26
+    51         33
+    52         12
+    53         57
+    54         12
+    55        404
+    56         93
+    57        317
+    58         13
+    69         25
+    71        999
+    72         52
+    93         19
+    95         18
+   107         12
+   109          9
+   121         55
+   123         53
+   150         21
+   152         20

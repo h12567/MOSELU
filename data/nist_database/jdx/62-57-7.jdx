@@ -1,0 +1,59 @@
+##TITLE=Library Entry 27775
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5033
+##NAMES=HP
+##CAS NAME=.alpha.-Aminoisobutanoic acid
+##MOLFORM=C4H9NO2
+##CAS REGISTRY NO=62-57-7
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          5
+    15         55
+    16          2
+    17          5
+    18         19
+    25          2
+    26          8
+    27         19
+    28         44
+    29          9
+    30         57
+    31          3
+    37          4
+    38          8
+    39         44
+    40         21
+    41        158
+    42        356
+    43         50
+    44         14
+    45         25
+    46          1
+    47          1
+    50          1
+    51          1
+    52          4
+    53          2
+    54          5
+    55          2
+    56         10
+    57         20
+    58        999
+    59         44
+    60          2
+    68          1
+    69          3
+    70          4
+    85          1
+    86          1
+    87          1
+    88         50
+    89          2

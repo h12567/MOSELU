@@ -1,0 +1,41 @@
+##TITLE=Library Entry 86402
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.RUECKER, INST. PHARM. CHEM., WILHELMS UNIV., MUENSTER
+,W.GE
+##NAMES=HP
+##CAS NAME=(4S,4aR,5R,8aS)-4-isopropyl-4a,5-dimethyldecahydronaphthalen-1-on
+e
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=55897-99-9
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        600
+    43        250
+    55        550
+    67        320
+    69        490
+    81        460
+    84        450
+    95        650
+    97        380
+   109        999
+   110        650
+   111        480
+   123        250
+   137        700
+   139        270
+   152        530
+   161        150
+   165         60
+   179        190
+   180        190
+   189         60
+   204         60
+   207        160
+   222        450

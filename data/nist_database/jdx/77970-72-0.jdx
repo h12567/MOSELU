@@ -1,0 +1,44 @@
+##TITLE=Library Entry 98034
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(3-Phenylpropyl)-trifluoroacetamide
+##MOLFORM=C11H12F3NO
+##CAS REGISTRY NO=77970-72-0
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39        140
+    41         60
+    50         39
+    51        127
+    58        171
+    63         50
+    65        201
+    69        168
+    77        170
+    78        120
+    79        109
+    89         39
+    91        895
+    92        298
+   103        109
+   104         90
+   105        398
+   106         59
+   115         60
+   116         70
+   117        601
+   118        999
+   119        110
+   126         89
+   127        499
+   140         68
+   162        180
+   231        268
+   232         30

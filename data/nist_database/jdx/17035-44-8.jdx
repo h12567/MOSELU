@@ -1,0 +1,54 @@
+##TITLE=Library Entry 5639
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. STEFANOVIC
+##NAMES=HP
+##CAS NAME=Tantalum, dichlorodiethoxy(2,4-pentanedionato-O,O')-
+##MOLFORM=C9H17Cl2O4Ta
+##CAS REGISTRY NO=17035-44-8
+##MP= -300
+##BP= -300
+##MW= 440
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        445
+    29        388
+    31        833
+    36        296
+    39        130
+    43        999
+    65        129
+    66        185
+    67        204
+   249         93
+   251         31
+   267        175
+   269         59
+   285        289
+   287        193
+   289         32
+   313        210
+   315        140
+   317         24
+   331        525
+   333        175
+   341        229
+   343        153
+   345         26
+   360        107
+   361         32
+   362         35
+   363         11
+   395        271
+   396        177
+   397        180
+   398        118
+   399         30
+   400         20
+   405        748
+   407        249
+   440         95
+   442         63
+   444         11

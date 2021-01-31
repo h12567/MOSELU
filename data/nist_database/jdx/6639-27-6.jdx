@@ -1,0 +1,38 @@
+##TITLE=Library Entry 47928
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Diazene, (4-iodophenyl)phenyl-
+##MOLFORM=C12H9IN2
+##CAS REGISTRY NO=6639-27-6
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    38         60
+    39         70
+    50        400
+    51        400
+    63        110
+    64         80
+    74        100
+    75        120
+    76        660
+    77        999
+    78         90
+   105        320
+   127         50
+   151         70
+   152        190
+   153         40
+   203        660
+   204         80
+   231        300
+   232         20
+   280         30
+   308        930
+   309        140

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 18450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.A.BLAZER DU PONT, GIBBSTOWN, N.J., USA
+##NAMES=HP
+##CAS NAME=1,2-Cyclobutanedicarbonitrile, trans-
+##MOLFORM=C6H6N2
+##CAS REGISTRY NO=3211-20-9
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15         21
+    24         11
+    25         40
+    26        448
+    27        283
+    28        598
+    29         18
+    36         13
+    37         70
+    38         89
+    39        128
+    40         40
+    41         29
+    42          3
+    48          3
+    49         13
+    50         61
+    51        223
+    52        424
+    53        999
+    54        866
+    55         31
+    61          2
+    62          6
+    63         14
+    64         30
+    65          6
+    66        236
+    67         11
+    74          2
+    75         14
+    76         18
+    77         26
+    78         30
+    79        167
+    80         13
+    91         14
+   105         22
+   106          6

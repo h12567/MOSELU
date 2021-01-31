@@ -1,0 +1,70 @@
+##TITLE=Library Entry 8667
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3198
+##NAMES=HP
+##CAS NAME=2,4-Dimethyl-1-heptene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=19549-87-2
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=836
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          4
+    27        114
+    28          4
+    29        163
+    30          3
+    37          1
+    38          6
+    39        133
+    40         27
+    41        311
+    42        130
+    43        999
+    44         32
+    50          5
+    51         11
+    52          6
+    53         46
+    54         13
+    55        446
+    56        309
+    57        324
+    58         13
+    62          1
+    63          3
+    65          8
+    66          3
+    67         37
+    68        107
+    69        160
+    70        719
+    71        206
+    72          9
+    77          7
+    78          1
+    79          7
+    80          1
+    81          9
+    82          8
+    83        190
+    84         46
+    85          9
+    91          2
+    93          1
+    95         10
+    96          1
+    97          7
+    98          1
+   109         11
+   110          1
+   111         11
+   112          1
+   124          2
+   126         78
+   127          8

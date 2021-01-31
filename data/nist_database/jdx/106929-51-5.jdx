@@ -1,0 +1,40 @@
+##TITLE=Library Entry 55112
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G. Peter, Inst. Org. Chem. Biochem., Univ. Bonn, Bonn
+, W. Ger.
+##NAMES=HP
+##CAS NAME=Benzoic acid, 5-azido-2-nitro-, 5-(3,3-dimethyloxiranyl)-3-methyl
+-2-pentenyl ester, (E)-.+/-.-
+##MOLFORM=C17H20N4O5
+##CAS REGISTRY NO=106929-51-5
+##MP= -300
+##BP= -300
+##MW= 360
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    41        320
+    43        480
+    55        150
+    59        360
+    67        160
+    71        990
+    72        150
+    79        280
+    81        720
+    82        150
+    85        999
+    89        300
+    90        130
+    93        230
+    94        240
+    95        110
+   109        200
+   134        350
+   152        100
+   163        130
+   191        100
+   207          5
+   332          0

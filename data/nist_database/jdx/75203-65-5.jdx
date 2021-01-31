@@ -1,0 +1,43 @@
+##TITLE=Library Entry 23438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. GUPTA, DEP. CHEM., GOV. COLL., AJMER, INDIA
+##NAMES=HP
+##CAS NAME=tert-Butyl pentyl disulfide
+##MOLFORM=C9H20S2
+##CAS REGISTRY NO=75203-65-5
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        140
+    29        250
+    32         80
+    39        140
+    40         30
+    41        510
+    42        160
+    43        290
+    44         30
+    45         50
+    47         40
+    53         30
+    55        140
+    56        100
+    57        999
+    58         60
+    59         40
+    61         40
+    69         70
+    70        110
+    71        170
+    73         50
+    87         40
+   101         50
+   103         50
+   104         50
+   136        130
+   192        160

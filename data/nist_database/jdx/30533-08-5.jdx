@@ -1,0 +1,48 @@
+##TITLE=Library Entry 4548
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=2-Propanamine, N-methyl-N-nitroso-
+##MOLFORM=C4H10N2O
+##CAS REGISTRY NO=30533-08-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=855
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    30        220
+    31         16
+    32         33
+    37         25
+    38         42
+    39        237
+    40         67
+    41        423
+    42        999
+    43        855
+    44        127
+    45          8
+    51          8
+    52         16
+    53          8
+    54         59
+    55         42
+    56        762
+    57        635
+    58         67
+    59         16
+    60         59
+    61         25
+    70         50
+    71         76
+    72         33
+    73          8
+    85         33
+    87         42
+    88          8
+   102        686
+   103         42

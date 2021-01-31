@@ -1,0 +1,83 @@
+##TITLE=Library Entry 3693
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Azeleonitrile
+##MOLFORM=C9H14N2
+##CAS REGISTRY NO=1675-69-0
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    18         14
+    26         40
+    27        322
+    28        229
+    29         53
+    30         56
+    36          1
+    37         13
+    38         40
+    39        401
+    40        123
+    41        999
+    42        149
+    43         48
+    44         13
+    49          1
+    50         15
+    51         43
+    52         61
+    53        107
+    54        401
+    55        556
+    56         53
+    57         10
+    61          1
+    62          3
+    63          7
+    64         17
+    65         24
+    66         29
+    67        111
+    68        127
+    69        419
+    70         26
+    71          1
+    76          2
+    77         20
+    78          5
+    79         29
+    80         31
+    82        906
+    83        630
+    84         38
+    85          1
+    91         21
+    93         88
+    94         39
+    95         18
+    96        152
+    97         34
+    98          1
+   105          3
+   106          3
+   107          9
+   108         11
+   110        199
+   111         16
+   117          1
+   120          4
+   121         17
+   122         12
+   123          1
+   132          3
+   149          4
+   150          1
+   151          1

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 55134
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,1,1,4,4-Pentamethyl-4-vinyldisilethylene
+##MOLFORM=C9H22Si2
+##CAS REGISTRY NO=23755-58-0
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    58         87
+    59        190
+    60         18
+    73        928
+    74         77
+    75         35
+    85        999
+    86        388
+    87         68
+    97        198
+    98        117
+    99         26
+   111         19
+   112         77
+   113         17
+   117         29
+   129         57
+   130          8
+   131         88
+   132         10
+   143         48
+   144         29
+   145         20
+   158        116
+   159         60
+   160          9
+   171        335
+   172         71
+   173         30
+   186        108
+   187         30
+   188          8

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 63227
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, [1-(phenylmethyl)-2(1H)-pyridinylidene]-, ethyl este
+r
+##MOLFORM=C16H17NO2
+##CAS REGISTRY NO=14759-28-5
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    63        110
+    64         60
+    65        290
+    77         90
+    78        160
+    79        160
+    89         70
+    90         50
+    91        999
+    92        170
+   119         90
+   156        100
+   167         70
+   168         60
+   180        190
+   181         90
+   182        400
+   183        120
+   210        150
+   254        140
+   255        310
+   256         60

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 1646
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Randolph Beaudry, Michigan State University, MI
+##NAMES=HP
+##CAS NAME=1-Methylcyclopropene
+##MOLFORM=C4H6
+##CAS REGISTRY NO=3100-04-7
+##MP= -300
+##BP= -300
+##MW= 54
+##$RETENTION INDEX=427
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          6
+    14          9
+    15         11
+    18          4
+    24          4
+    25         35
+    26        185
+    27        803
+    28        280
+    29          6
+    36         16
+    37         88
+    38        109
+    39        999
+    40         34
+    41          5
+    48         15
+    49         83
+    50        256
+    51        281
+    52         89
+    53        431
+    54        705
+    55         31
+    70          2

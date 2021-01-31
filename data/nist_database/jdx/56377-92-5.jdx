@@ -1,0 +1,78 @@
+##TITLE=Library Entry 36929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.G.VOGEL UTAH STATE UNIVERSITY, LOGAN, UTAH, USA
+##NAMES=HP
+##CAS NAME=Beryllium, .mu.4-oxohexakis[.mu.-(trichloroacetato-O:O')]tetra-
+##MOLFORM=C12Be4F18O13
+##CAS REGISTRY NO=56377-92-5
+##MP= -300
+##BP= -300
+##MW= 730
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    69        999
+    72        190
+    78        160
+    89         45
+    95        110
+   100         80
+   103         50
+   120         30
+   122         75
+   125        140
+   145         50
+   146         50
+   148         15
+   150         28
+   151         35
+   165         60
+   171        130
+   175        120
+   195        120
+   200         40
+   212         50
+   215        180
+   218         80
+   220         50
+   232         45
+   233         85
+   235        100
+   238         60
+   241         40
+   242         20
+   247         60
+   261         45
+   262         40
+   263         30
+   265        200
+   267        110
+   287        270
+   310        160
+   312         50
+   316         53
+   327        110
+   330        265
+   332        200
+   335         25
+   340         50
+   357        550
+   381        330
+   406         55
+   423         30
+   426        125
+   429        150
+   454        340
+   478         25
+   503         40
+   505         25
+   520        180
+   522        180
+   548        500
+   599         10
+   600         20
+   601         10
+   615         80
+   643         50

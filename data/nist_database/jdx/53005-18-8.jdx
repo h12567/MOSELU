@@ -1,0 +1,41 @@
+##TITLE=Library Entry 17358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Pentanone, 1,5-dimethoxy-
+##MOLFORM=C7H14O3
+##CAS REGISTRY NO=53005-18-8
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=2248
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         40
+    43         90
+    44         20
+    45        999
+    46         30
+    53         20
+    54         20
+    55        140
+    56         30
+    57         10
+    58         50
+    59         50
+    69         20
+    71         20
+    82         30
+    83        100
+    84         20
+    85         40
+    87        200
+    88         20
+    99         20
+   113         20
+   114        160
+   115         20

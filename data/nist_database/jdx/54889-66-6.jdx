@@ -1,0 +1,46 @@
+##TITLE=Library Entry 31115
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.FUJIMAKI UNIV. OF TOKIO, BUNKYO-KU, TOKYO, JAPAN
+##NAMES=HP
+##CAS NAME=Benzenamine, N-[1-(methylthio)propyl]-2,4-dinitro-
+##MOLFORM=C10H13N3O4S
+##CAS REGISTRY NO=54889-66-6
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    28        780
+    41        700
+    47        390
+    61        999
+    73        380
+    74        390
+    75        760
+    76        340
+    77        470
+    78        490
+    88        380
+   104        440
+   105        500
+   118        270
+   134        480
+   149        380
+   150        390
+   160        210
+   164        260
+   177        290
+   179        770
+   180        230
+   190        420
+   196        530
+   197        230
+   206        230
+   207        190
+   238        180
+   241        140
+   255        130
+   271        190

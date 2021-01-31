@@ -1,0 +1,48 @@
+##TITLE=Library Entry 51815
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Allopseudococaine
+##MOLFORM=C17H21NO4
+##CAS REGISTRY NO=518-97-8
+##MP= -300
+##BP= -300
+##MW= 303
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         59
+    42        243
+    51         61
+    55         59
+    68         38
+    77        213
+    81         90
+    82        999
+    83        437
+    94        220
+    96        227
+    97         92
+   105        190
+   108         29
+   119         17
+   122         64
+   140          6
+   150         18
+   152         42
+   155         21
+   166          9
+   181         37
+   182        600
+   183         62
+   198         92
+   199          7
+   200          1
+   244          2
+   272         33
+   273          3
+   303        109
+   304         16

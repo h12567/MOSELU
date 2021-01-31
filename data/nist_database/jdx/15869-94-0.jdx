@@ -1,0 +1,62 @@
+##TITLE=Library Entry 25413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Octane, 3,6-dimethyl-
+##MOLFORM=C10H22
+##CAS REGISTRY NO=15869-94-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=929
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    24          0
+    25          2
+    26          8
+    27         88
+    28          2
+    29        258
+    30          5
+    36          0
+    38          1
+    39         62
+    41        307
+    42         43
+    43        502
+    44          4
+    45          1
+    50          0
+    51          3
+    52          1
+    53         14
+    54          7
+    55         82
+    56        240
+    57        999
+    58         43
+    63          0
+    65          1
+    67          4
+    68          0
+    69         27
+    70         49
+    71        562
+    72         34
+    77          1
+    79          0
+    82          1
+    83         17
+    84         21
+    85         45
+    86          2
+    99          1
+   112         36
+   113        107
+   114          9
+   127          4
+   140          0
+   142         10

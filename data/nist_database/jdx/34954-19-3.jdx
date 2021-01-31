@@ -1,0 +1,42 @@
+##TITLE=Library Entry 46952
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, ATLAS OF MS OF ORG. CMPDS., ED. 2
+##NAMES=HP
+##CAS NAME=2-Oxo-3,6-diphenyl-1,2,3,4-tetrahydropyrimidine
+##MOLFORM=C16H14N2O
+##CAS REGISTRY NO=34954-19-3
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    76         70
+    77        999
+    78        300
+    79         50
+    89         50
+    90         50
+    91        250
+    92         50
+    93         60
+   103        150
+   104        840
+   105        260
+   106        150
+   117         60
+   118         60
+   119        620
+   120         70
+   130        450
+   131        200
+   132         50
+   173        230
+   206        110
+   247        210
+   248        110
+   249        670
+   250        620
+   251         90

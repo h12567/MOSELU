@@ -1,0 +1,78 @@
+##TITLE=Library Entry 87136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3.beta.-Tigloyloxynortropane
+##MOLFORM=C12H19NO2
+##CAS REGISTRY NO=855980-78-8
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=1936
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         21
+    28         31
+    29         36
+    30         13
+    39         51
+    40          5
+    41         63
+    42         14
+    43         20
+    44          8
+    45          4
+    50          5
+    51         10
+    52          9
+    53         28
+    54         28
+    55        133
+    56         28
+    62          2
+    63         14
+    64         10
+    65         23
+    66          7
+    67        211
+    68        242
+    69         69
+    74          3
+    75          5
+    76          7
+    77         22
+    78          6
+    79         13
+    80        237
+    81         94
+    82         39
+    83         56
+    86          3
+    89         26
+    90         19
+    98          4
+   101          7
+   102          8
+   103         10
+   104          7
+   106          9
+   108         70
+   109         57
+   110        999
+   111        102
+   112          8
+   126         12
+   146          4
+   147          6
+   152          4
+   155          4
+   181          6
+   191          4
+   194        110
+   195         13
+   209        113
+   210         17
+   211          2

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 57858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.M.TRENT RES. DIV., U.S. IND. CHEM. CO., CINCINNATI, U
+SA
+##NAMES=HP
+##CAS NAME=Heptanoic acid, 2-ethyl-
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=3274-29-1
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    27         87
+    28         21
+    29        121
+    40         14
+    41        247
+    42         43
+    43        243
+    44         15
+    45         89
+    46         15
+    53         24
+    55        193
+    56         45
+    57        163
+    59         26
+    60         32
+    67         10
+    68         12
+    69         80
+    70         35
+    71         91
+    73        861
+    74         43
+    83         35
+    84         33
+    85         10
+    87        168
+    88        999
+    89         47
+    97         14
+   101        353
+   102         25
+   158          7

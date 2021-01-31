@@ -1,0 +1,50 @@
+##TITLE=Library Entry 4553
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Dimethyl-3-isopropyldiaziridine
+##MOLFORM=C6H14N2
+##CAS REGISTRY NO=211568-98-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         27
+    27         59
+    28         91
+    29         22
+    30         58
+    38         16
+    39        126
+    40         26
+    41        212
+    42        999
+    43        545
+    44         61
+    45         12
+    55         75
+    56        122
+    57        142
+    58        399
+    59         89
+    60          7
+    68         91
+    69         31
+    70        265
+    71         81
+    72         55
+    73          5
+    82         69
+    83         57
+    84        336
+    85         35
+    86         23
+    99        176
+   100          9
+   113         13
+   114          8
+   115          1

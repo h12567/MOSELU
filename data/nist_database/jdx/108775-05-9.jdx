@@ -1,0 +1,73 @@
+##TITLE=Library Entry 76027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Leung Pu, NIH, Bethesda, Maryland, U.S.
+##NAMES=HP
+##CAS NAME=3-(5-Phenyl-2-pyridyl)-5-phenyl-1,2,4-triazine
+##MOLFORM=C20H14N4
+##CAS REGISTRY NO=108775-05-9
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41          3
+    43          4
+    44          1
+    50         36
+    51         51
+    52         49
+    53          3
+    55          3
+    57          3
+    61          0
+    62          8
+    63         34
+    64          4
+    65          1
+    69          2
+    73          0
+    74         21
+    75         31
+    76        117
+    77         37
+    78          6
+    86          1
+    87          7
+    88          2
+    89          3
+    98          1
+    99          3
+   100          4
+   101         22
+   102        999
+   103         97
+   104          4
+   113          2
+   114          2
+   115          2
+   116          0
+   125          6
+   126         16
+   127         21
+   128         10
+   129          1
+   140         11
+   141          6
+   151          2
+   152         13
+   153         13
+   154          7
+   155          2
+   178          0
+   179         25
+   180         36
+   181          6
+   281          8
+   282        112
+   283         25
+   284          2
+   310         50
+   311          9

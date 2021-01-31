@@ -1,0 +1,46 @@
+##TITLE=Library Entry 2883
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Aziridine, 1-(1-propenyl)-, (E)-
+##MOLFORM=C5H9N
+##CAS REGISTRY NO=80839-91-4
+##MP= -300
+##BP= -300
+##MW= 83
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    26        185
+    27        347
+    28        396
+    29        280
+    30         21
+    37         20
+    38         60
+    39        498
+    40        151
+    41        999
+    42        633
+    43        120
+    44         17
+    50         15
+    51         30
+    52         62
+    53         90
+    54        278
+    55        952
+    56        135
+    57         14
+    65         15
+    67         80
+    68        189
+    69         15
+    80         35
+    81          9
+    82        423
+    83        866
+    84         46
+    85          4

@@ -1,0 +1,69 @@
+##TITLE=Library Entry 11950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.D. PLATTNER, US DEP. AGRIC., PEORIA, ILL.,
+##NAMES=HP
+##CAS NAME=3,5,6-Tri-O-acetyl-2,4-di-O-methyl-D-mannonitrile
+##MOLFORM=C14H21NO8
+##CAS REGISTRY NO=59061-08-4
+##MP= -300
+##BP= -300
+##MW= 331
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41         29
+    42         26
+    43        999
+    44         26
+    45         51
+    51          7
+    55          8
+    57          8
+    59         17
+    60         20
+    69         19
+    70         33
+    71         41
+    73         23
+    74         47
+    75         92
+    78         36
+    84          9
+    85         11
+    87        288
+    96        130
+    97         13
+    99         92
+   101         33
+   103         25
+   112        215
+   113         30
+   115         20
+   117         19
+   121          7
+   124         16
+   126         37
+   127         85
+   129        525
+   130         43
+   131         17
+   133          9
+   135         36
+   137         13
+   145         50
+   154        189
+   155         13
+   159        158
+   160          9
+   186        239
+   187         29
+   189        204
+   190         13
+   195         13
+   207         23
+   251          7
+   261         18
+   264          9
+   282          9

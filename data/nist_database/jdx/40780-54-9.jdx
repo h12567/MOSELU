@@ -1,0 +1,42 @@
+##TITLE=Library Entry 70816
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-n-Butoxy-2,2,3,3-tetramethylaziridine
+##MOLFORM=C10H21NO
+##CAS REGISTRY NO=40780-54-9
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29        120
+    30         10
+    39         40
+    40         20
+    41        230
+    42        320
+    43         50
+    44          9
+    55         40
+    56         40
+    57        110
+    58         50
+    59          8
+    69         80
+    70          6
+    73         40
+    74          7
+    82         20
+    83         80
+    84        110
+    85         19
+    98        999
+    99         70
+   100         40
+   101          8
+   171          1
+   172          2

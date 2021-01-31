@@ -1,0 +1,33 @@
+##TITLE=Library Entry 79636
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Benzamide, N,N-dipropyl-
+##MOLFORM=C13H19NO
+##CAS REGISTRY NO=14657-86-4
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         20
+    43         20
+    50         10
+    51         50
+    76         10
+    77        260
+    78         20
+   105        999
+   106         80
+   134         60
+   135         10
+   162         10
+   176         70
+   204         80
+   205        110
+   206         10

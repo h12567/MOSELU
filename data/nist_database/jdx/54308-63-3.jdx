@@ -1,0 +1,51 @@
+##TITLE=Library Entry 68777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 0613
+##NAMES=HP
+##CAS NAME=4-Pyrimidinamine, 2-(ethylthio)-
+##MOLFORM=C6H9N3S
+##CAS REGISTRY NO=54308-63-3
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         50
+    40        310
+    41        340
+    42        210
+    43        260
+    44         80
+    45        110
+    46         10
+    60        120
+    61         10
+    66         60
+    67        240
+    68        390
+    69        410
+    70         40
+    71         70
+    72         10
+    81        100
+    82         10
+    94        100
+    95        999
+    96        100
+    97         10
+    99         80
+   110         20
+   111         40
+   122        480
+   123         50
+   127        200
+   128         30
+   140        190
+   141         20
+   154         80
+   155        680
+   156         70
+   157         40

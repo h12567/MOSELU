@@ -1,0 +1,45 @@
+##TITLE=Library Entry 38497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,4,4-Trimethyl-1-hexene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=51174-12-0
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    27        137
+    28         66
+    29        155
+    39        285
+    40         56
+    41        406
+    42         81
+    43        849
+    44         38
+    50         20
+    51         34
+    52         19
+    53        115
+    55        556
+    56         73
+    57         37
+    65         24
+    66         11
+    67         89
+    69        355
+    70        600
+    71        999
+    72         59
+    77         28
+    79         33
+    81         45
+    82         17
+    97        138
+   111         36
+   126         22

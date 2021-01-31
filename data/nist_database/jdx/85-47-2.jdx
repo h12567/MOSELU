@@ -1,0 +1,51 @@
+##TITLE=Library Entry 49686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 18634-1
+##NAMES=HP
+##CAS NAME=1-Naphthalenesulfonic acid
+##MOLFORM=C10H8O3S
+##CAS REGISTRY NO=85-47-2
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         29
+    44         32
+    48        558
+    50         79
+    51         84
+    62         29
+    63         89
+    64        470
+    65         96
+    66         25
+    74         62
+    75         77
+    76         44
+    77        107
+    80        999
+    81        303
+    82         56
+    83          9
+    87         22
+    89         20
+    98        230
+    99          4
+   100          9
+   101         62
+   102          4
+   114          7
+   115        400
+   116        125
+   126        119
+   127        383
+   128         77
+   143         37
+   144         86
+   208        713
+   209         83
+   210         37

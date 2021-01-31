@@ -1,0 +1,78 @@
+##TITLE=Library Entry 12933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CENTRE D'ETUDES NUCLEAIRES DE GRENOBLE, FRANCE.
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptan-2-one, 5-(acetyloxy)-4,6,6-trimethyl-, endo-
+##MOLFORM=C12H18O3
+##CAS REGISTRY NO=55590-79-9
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    27        113
+    28         93
+    29        103
+    39        134
+    40         41
+    41        355
+    43        999
+    44         41
+    51         41
+    53        103
+    54         41
+    55        149
+    56         62
+    57         41
+    65         41
+    67        103
+    68         62
+    69        654
+    70         72
+    71         82
+    72        123
+    77         62
+    79         87
+    80         46
+    81         82
+    82         51
+    83        134
+    85         51
+    91         72
+    93        149
+    94         41
+    95         93
+    96        483
+    97        237
+    98         67
+    99        144
+   105         31
+   106         31
+   107        257
+   108        617
+   109        654
+   110         87
+   111         93
+   112         36
+   113         41
+   121        108
+   122        103
+   123         72
+   125        103
+   126        113
+   135        103
+   138         51
+   139         72
+   149         31
+   150         72
+   151         31
+   153        247
+   154         41
+   167         46
+   168        689
+   169        108
+   210        242
+   211         41

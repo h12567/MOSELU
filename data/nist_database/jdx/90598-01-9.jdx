@@ -1,0 +1,32 @@
+##TITLE=Library Entry 15323
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=N-(Pentafluorosulfanyl)urea
+##MOLFORM=CH3F5N2OS
+##CAS REGISTRY NO=90598-01-9
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        133
+    28        139
+    29        194
+    41        333
+    42        333
+    43        444
+    44        999
+    56         83
+    57        222
+    70         42
+    85        111
+    89        167
+   104        222
+   124        111
+   127        250
+   143        167
+   186         83

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 81233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenepentanoic acid, .beta.,.delta.-dioxo-, methyl ester
+##MOLFORM=C12H12O4
+##CAS REGISTRY NO=36568-12-4
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        280
+    51        370
+    69        509
+    77        480
+    85        150
+   105        999
+   147        739
+   161        579
+   163        569
+   173        110
+   174        160
+   188        649
+   189        260
+   203        340
+   205        110
+   220        210

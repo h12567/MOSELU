@@ -1,0 +1,63 @@
+##TITLE=Library Entry 99234
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Hydrazine, N-(4-methylbenzoyl)-N'-(2-chlorobenzoyl)-
+##MOLFORM=C15H13ClN2O2
+##CAS REGISTRY NO=74115-19-8
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    35          3
+    36          4
+    37         13
+    38         54
+    39         74
+    40         31
+    43          6
+    44          6
+    45          4
+    48          3
+    50        148
+    51         52
+    52         16
+    53          9
+    55          4
+    60          5
+    62        120
+    65        249
+    66          6
+    72          6
+    73         21
+    75        209
+    76         44
+    77         24
+    78          5
+    84         10
+    85         14
+    86          7
+    87          8
+    89         80
+    91        464
+    92         21
+   102          5
+   104          8
+   111        198
+   112         30
+   113         33
+   117          8
+   119        999
+   120         60
+   121          5
+   137          4
+   139        242
+   141         89
+   142          4
+   288         38
+   289          7
+   290         12

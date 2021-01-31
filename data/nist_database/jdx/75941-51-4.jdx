@@ -1,0 +1,55 @@
+##TITLE=Library Entry 53210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Cyclohexanecarboxylic acid, 4-butyl-, 2,3-dicyano-4-(pentyloxy)ph
+enyl ester
+##MOLFORM=C24H32N2O3
+##CAS REGISTRY NO=75941-51-4
+##MP= -300
+##BP= -300
+##MW= 396
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    18         14
+    27         90
+    28         35
+    29        169
+    39         58
+    41        316
+    43        287
+    44         16
+    53         36
+    55        360
+    57        237
+    58         12
+    65         10
+    67        114
+    69        253
+    70         55
+    71         78
+    77         17
+    79         36
+    81        192
+    83        999
+    84         63
+    93         10
+    95         59
+    96        100
+    97        325
+    98         25
+   104         12
+   109         34
+   110         21
+   132         18
+   138        133
+   139        473
+   140         49
+   160        144
+   161         65
+   167        240
+   168         31

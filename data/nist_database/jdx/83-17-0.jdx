@@ -1,0 +1,53 @@
+##TITLE=Library Entry 23001
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4-Benzylideneaminoantipyrine
+##MOLFORM=C18H17N3O
+##CAS REGISTRY NO=83-17-0
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    39         14
+    51         38
+    54         46
+    56        999
+    57          9
+    63         57
+    64         46
+    65         33
+    76         26
+    77        160
+    89        104
+    90         47
+    91        132
+    92          4
+    93          4
+   103         18
+   104         16
+   105          8
+   115         30
+   116         44
+   118         35
+   119        106
+   121        271
+   122          6
+   130          7
+   146          4
+   157         17
+   171        141
+   172         16
+   180         15
+   182         97
+   187          4
+   188        225
+   189          5
+   198         85
+   199        172
+   291        833
+   292        123

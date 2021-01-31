@@ -1,0 +1,37 @@
+##TITLE=Library Entry 11087
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.A.PEARL INST. PAPER CHEMISTRY, APPLETON, WISCONSIN, U
+SA
+##NAMES=HP
+##CAS NAME=.beta.-D-Glucopyranoside, 2-methylphenyl, tetraacetate
+##MOLFORM=C21H26O10
+##CAS REGISTRY NO=5346-66-7
+##MP= -300
+##BP= -300
+##MW= 438
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    43        999
+    81         60
+    97         60
+   108        103
+   109        380
+   127        170
+   139         47
+   145         47
+   169        380
+   187         16
+   203          6
+   211         16
+   229         14
+   271         16
+   287          0
+   288          1
+   331        107
+   345          0
+   365          0
+   379          0
+   438          0

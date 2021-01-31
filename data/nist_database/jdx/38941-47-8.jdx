@@ -1,0 +1,68 @@
+##TITLE=Library Entry 52160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Cyclohexane carboxylic acid hydrazide
+##MOLFORM=C7H14N2O
+##CAS REGISTRY NO=38941-47-8
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    41        341
+    42         22
+    43         35
+    44         11
+    45         12
+    49          4
+    50          6
+    51         14
+    52          7
+    53         45
+    54         38
+    55        667
+    56         31
+    57          3
+    58          7
+    59          9
+    63          1
+    65          8
+    66          5
+    67         54
+    68          9
+    69         37
+    70          3
+    71         19
+    72          1
+    74          3
+    77          9
+    78          2
+    79         16
+    80          2
+    81         20
+    82         15
+    83        999
+    84         67
+    85          2
+    86          2
+    87         21
+    92          1
+    93          2
+    95          0
+    98          1
+   100         21
+   101          2
+   110         50
+   111        314
+   112         23
+   113          2
+   114          5
+   141         23
+   142        169
+   143         19
+   144          4

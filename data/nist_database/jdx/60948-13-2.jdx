@@ -1,0 +1,36 @@
+##TITLE=Library Entry 29250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, ATLAS OF MS OF ORG. CMPDS.,VOL3
+##NAMES=HP
+##CAS NAME=3-(3-Methyl-3-piperiden-4-yl)-2-(2-methyl-2-aminopropyl)indole
+##MOLFORM=C18H25N3
+##CAS REGISTRY NO=60948-13-2
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    58        999
+    77         12
+   105         21
+   115         11
+   128         12
+   130         53
+   144         60
+   167         79
+   168         65
+   180         84
+   181         76
+   182        160
+   183         66
+   196        134
+   197        878
+   198        139
+   211         30
+   225         86
+   226        590
+   227        113
+   283        160

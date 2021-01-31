@@ -1,0 +1,65 @@
+##TITLE=Library Entry 33196
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.FICINI FACULTY OF SCIENCES, PARIS, FRANCE
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, 6-(diethylamino)-3,5-dimethyl-
+##MOLFORM=C11H17NO2
+##CAS REGISTRY NO=33259-29-9
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    39        320
+    40        130
+    41        500
+    42        200
+    43        150
+    44        100
+    45         60
+    52         40
+    53         30
+    54         30
+    55         60
+    56        100
+    57         20
+    58         80
+    65        190
+    66        190
+    67        999
+    68        150
+    69         20
+    70         50
+    71         20
+    72        200
+    73         10
+    81         30
+    82         30
+    83         30
+    92         60
+    93         10
+    94         70
+    95        290
+    96        220
+    97         40
+   106         50
+   109         50
+   110        650
+   111        160
+   121         30
+   122         30
+   123        300
+   124        100
+   137         30
+   138        750
+   139        240
+   152        870
+   153         60
+   166         70
+   167        999
+   168        110
+   195        920
+   196        120

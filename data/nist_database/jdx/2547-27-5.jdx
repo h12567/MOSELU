@@ -1,0 +1,51 @@
+##TITLE=Library Entry 68205
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=trans-4a-Methyl-decahydronaphthalene
+##MOLFORM=C11H20
+##CAS REGISTRY NO=2547-27-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    53         99
+    54         81
+    55        419
+    56         56
+    57         21
+    65         31
+    66         51
+    67        560
+    68        189
+    69        200
+    70         19
+    77         48
+    78         10
+    79         81
+    80         29
+    81        640
+    82        391
+    83        169
+    84         19
+    93         41
+    94         51
+    95        999
+    96        552
+    97         71
+   107         12
+   108         21
+   109        480
+   110        321
+   111         40
+   123         81
+   124         20
+   136         52
+   137        609
+   138         69
+   152        581
+   153         82

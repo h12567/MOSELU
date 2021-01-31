@@ -1,0 +1,46 @@
+##TITLE=Library Entry 65475
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-4-ethynyl-3,6-dihydro-2H-pyran
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=42491-40-7
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         53
+    45        114
+    46         74
+    52         79
+    53        159
+    54        149
+    55         47
+    60         74
+    64         39
+    65        107
+    67         79
+    75         46
+    76         39
+    77         57
+    78        374
+    79        619
+    80        216
+    90         26
+    92        999
+    93         99
+    94         39
+   104         67
+   106        223
+   107        529
+   108         59
+   121        909
+   122         79
+   123         19
+   136        176
+   137         19

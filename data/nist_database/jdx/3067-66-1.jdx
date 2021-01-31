@@ -1,0 +1,57 @@
+##TITLE=Library Entry 43399
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.D. Voitenko, Inst. Org. Synthesis, Acad. Sci. Latvian
+ SSR, Riga, USSR
+##NAMES=HP
+##CAS NAME=1,2-O-Isopropylidene-.alpha.-D-glucofuranose, 3TMS derivative
+##MOLFORM=C18H40O6Si3
+##CAS REGISTRY NO=3067-66-1
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    73        999
+    75        120
+   103        170
+   117        100
+   129        168
+   131        162
+   133         80
+   145        122
+   147        220
+   157         50
+   185         25
+   189        122
+   191         80
+   204        110
+   205        320
+   217        500
+   225         20
+   231         70
+   241         10
+   243         20
+   245         40
+   246         10
+   247         10
+   257          2
+   258          2
+   259          3
+   265          2
+   273         10
+   275        100
+   288          7
+   289          6
+   291          4
+   305          4
+   307          4
+   317         12
+   333         40
+   346          4
+   363          1
+   378          1
+   421          7
+   436          0

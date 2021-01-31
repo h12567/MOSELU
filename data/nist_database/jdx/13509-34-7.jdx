@@ -1,0 +1,74 @@
+##TITLE=Library Entry 47171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonothioic acid, O,O-diphenyl ester
+##MOLFORM=C13H10O2S
+##CAS REGISTRY NO=13509-34-7
+##MP= -300
+##BP= -300
+##MW= 230
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    17         60
+    18        256
+    26         20
+    27         40
+    28         25
+    35         20
+    37         20
+    38         40
+    39        265
+    40         20
+    44         81
+    45         20
+    50        122
+    51        571
+    52         40
+    55         20
+    60         20
+    62         20
+    63         61
+    64         20
+    65        265
+    66         61
+    69         40
+    74         20
+    75         20
+    76         40
+    77        999
+    78        163
+    84         20
+    93         40
+    94        163
+    95         20
+    97         20
+   105         20
+   108         20
+   109        999
+   110        142
+   111         61
+   115         61
+   116         20
+   137        775
+   138         61
+   139         40
+   141        306
+   142        122
+   143         20
+   153        142
+   154         20
+   155         20
+   169        102
+   170         20
+   184         20
+   185         61
+   186         20
+   202        632
+   203         81
+   204         40
+   230         61

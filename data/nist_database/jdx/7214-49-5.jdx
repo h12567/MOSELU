@@ -1,0 +1,51 @@
+##TITLE=Library Entry 34235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans-3,5-Dimethylcyclohexanone
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=7214-49-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    14         17
+    15         27
+    26         19
+    27        180
+    28         58
+    29        103
+    32          1
+    38         29
+    39        314
+    40         84
+    41        502
+    42        272
+    43        116
+    50         17
+    51         27
+    52         13
+    53         55
+    54         27
+    55        286
+    56        404
+    57         38
+    65         14
+    67         78
+    69        999
+    70         70
+    71         34
+    82        117
+    83        108
+    84         69
+    93         75
+    97         18
+   108         37
+   111        235
+   112         15
+   126        203
+   127         18

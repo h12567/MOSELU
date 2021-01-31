@@ -1,0 +1,37 @@
+##TITLE=Library Entry 31764
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Heptafluoromethanetriamine
+##MOLFORM=CF7N3
+##CAS REGISTRY NO=14362-68-6
+##MP= -300
+##BP= -300
+##MW= 187
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    14         36
+    26         24
+    31        278
+    32          3
+    33        162
+    34          1
+    45         89
+    46          1
+    50         43
+    51          1
+    52        403
+    53          2
+    64        999
+    65         15
+    69         70
+    70          1
+    83        304
+    84          5
+   116         39
+   117          1
+   135        132
+   136          3

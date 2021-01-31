@@ -1,0 +1,83 @@
+##TITLE=Library Entry 40216
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=3-Acetamido-3-deoxy-1,2-isopropylideneallopyranoside
+##MOLFORM=C11H19NO6
+##CAS REGISTRY NO=28297-43-0
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    55         69
+    56         73
+    57         73
+    58        109
+    59        279
+    60        519
+    61         49
+    68         59
+    69         59
+    70        119
+    71        779
+    72        999
+    73         69
+    81         27
+    83         58
+    84        579
+    85        449
+    86         59
+    88         49
+    96        209
+    97         37
+    98         27
+    99         26
+   100        429
+   101         73
+   102         62
+   112         75
+   113        539
+   114        859
+   115         92
+   124         27
+   125         65
+   126         77
+   127         58
+   128         27
+   129          3
+   130         52
+   138         27
+   139          1
+   140          5
+   141          8
+   142        989
+   143        349
+   144         56
+   145          8
+   154         18
+   155         77
+   156         16
+   160         27
+   162          7
+   167          8
+   168          8
+   170          3
+   172        979
+   173        109
+   174         14
+   185         20
+   186         14
+   200        109
+   201        199
+   202         27
+   203         16
+   204         18
+   213          3
+   230        159
+   231         18
+   246        189
+   247         18

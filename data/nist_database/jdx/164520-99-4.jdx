@@ -1,0 +1,53 @@
+##TITLE=Library Entry 18970
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzaldehyde,-4-cyclopropylmethoxy
+##MOLFORM=C11H12O2
+##CAS REGISTRY NO=164520-99-4
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    37          9
+    38         40
+    39        293
+    40         17
+    41         32
+    43          5
+    50         40
+    51         75
+    52          9
+    53         76
+    54         39
+    55        999
+    56         42
+    62         15
+    63         48
+    64         26
+    65        113
+    66         16
+    74          9
+    75          8
+    76         14
+    77         47
+    78          5
+    79         13
+    91         16
+    92         15
+    93         35
+    94          9
+   105         15
+   119         11
+   121        120
+   122         42
+   135         12
+   147         17
+   148        114
+   149         11
+   176         59
+   177          7

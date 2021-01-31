@@ -1,0 +1,35 @@
+##TITLE=Library Entry 38716
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,3-Thiadiazole-4-carboxylic acid, 5-methyl-
+##MOLFORM=C4H4N2O2S
+##CAS REGISTRY NO=22097-10-5
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    38         80
+    39        360
+    40         70
+    41        110
+    44        690
+    45        700
+    46         20
+    48         70
+    49        130
+    69        170
+    70        120
+    71        999
+    72        260
+    73         70
+    88        140
+    99         30
+   100         40
+   116        180
+   117         25
+   144         30

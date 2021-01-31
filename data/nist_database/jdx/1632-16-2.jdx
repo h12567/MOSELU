@@ -1,0 +1,66 @@
+##TITLE=Library Entry 37313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4271
+##NAMES=HP
+##CAS NAME=Heptane, 3-methylene-
+##MOLFORM=C8H16
+##CAS REGISTRY NO=1632-16-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=779
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          7
+    26          8
+    27        150
+    28         17
+    29        131
+    30          3
+    37          2
+    38          6
+    39        127
+    40         26
+    41        474
+    42        264
+    43        126
+    44          4
+    45          1
+    50          7
+    51         14
+    52          8
+    53         54
+    54         39
+    55        914
+    56        114
+    57         27
+    58          1
+    62          1
+    63          3
+    65          8
+    66          3
+    67         40
+    68          9
+    69         82
+    70        999
+    71         82
+    72          4
+    77          5
+    78          1
+    79          6
+    80          1
+    81          9
+    82          5
+    83         72
+    84         22
+    85          3
+    91          1
+    93          1
+    95          2
+    96          1
+    97          3
+   111          2
+   112        116
+   113         10

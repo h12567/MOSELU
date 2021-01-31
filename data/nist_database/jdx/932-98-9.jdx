@@ -1,0 +1,71 @@
+##TITLE=Library Entry 88199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. F. SMITH, LA TROBE UNIVERSITY, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Benzene, 1-chloro-4-nitroso-
+##MOLFORM=C6H4ClNO
+##CAS REGISTRY NO=932-98-9
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    25          5
+    26         25
+    27         30
+    28         10
+    29          5
+    30         85
+    31         10
+    35         15
+    36         40
+    37         90
+    38         75
+    39         40
+    40          5
+    41         10
+    42          5
+    47         10
+    48         10
+    49         45
+    50        320
+    51        140
+    52         15
+    60         15
+    61         60
+    62         45
+    63         60
+    64         30
+    65         10
+    72         15
+    73         60
+    74        180
+    75        750
+    76        130
+    77         15
+    84         20
+    85         80
+    86         15
+    87         35
+    88         10
+    89          5
+    90         15
+    91          5
+    92          5
+   110         10
+   111        999
+   112         75
+   113        330
+   114         25
+   125          5
+   126          5
+   127         25
+   128          5
+   129          5
+   141        590
+   142         45
+   143        200
+   144         15

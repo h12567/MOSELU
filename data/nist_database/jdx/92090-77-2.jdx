@@ -1,0 +1,49 @@
+##TITLE=Library Entry 54111
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. AGOZZINO, IST. CHIM. FARM., UNIV. PALERMO, PALERMO,
+ ITALY
+##NAMES=HP
+##CAS NAME=5-Acetyl-4-amino-3-(2-N-pyrrolidinylethylthio)thieno[3,2-d]isothi
+azole
+##MOLFORM=C13H17N3OS3
+##CAS REGISTRY NO=92090-77-2
+##MP= -300
+##BP= -300
+##MW= 327
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41         90
+    42        260
+    43        210
+    54         60
+    55        120
+    56        100
+    68         50
+    69        100
+    70        110
+    83         50
+    84        999
+    85        100
+    96         80
+    97        550
+    98        100
+   109         20
+   111         20
+   128         20
+   129         40
+   130         20
+   143         20
+   155         50
+   183         60
+   197         20
+   198         50
+   229         20
+   230         20
+   243         20
+   256         10
+   257         10
+   312         30
+   327         40

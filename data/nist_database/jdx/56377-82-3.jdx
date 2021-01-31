@@ -1,0 +1,38 @@
+##TITLE=Library Entry 4382
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.G.VOGEL UTAH STATE UNIVERSITY, LOGAN, UTAH, USA
+##NAMES=HP
+##CAS NAME=Beryllium, hexakis[.mu.-(2,2-dimethylpropanoato-O:O')]-.mu.4-oxot
+etra-
+##MOLFORM=C30H54Be4O13
+##CAS REGISTRY NO=56377-82-3
+##MP= -300
+##BP= -300
+##MW= 658
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27        570
+    37        440
+    42        999
+    67         50
+    85         60
+   168         18
+   185         10
+   204         13
+   255         12
+   273         10
+   290         30
+   330         20
+   343         10
+   347         60
+   352         30
+   354         20
+   370        130
+   455         10
+   472         13
+   500         20
+   545         10
+   557         70

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 84773
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=4-Methoxytropone
+##MOLFORM=C8H8O2
+##CAS REGISTRY NO=6621-70-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         54
+    29         69
+    37         92
+    38        220
+    39        702
+    50        291
+    51        319
+    52         84
+    53         93
+    62         69
+    63        138
+    64         73
+    65        986
+    66         88
+    74        118
+    76         37
+    77        163
+    78        768
+    79        192
+    80         31
+    92         32
+    93        289
+    94         23
+    95         18
+   107         33
+   108        999
+   109         85
+   136        295
+   137         29

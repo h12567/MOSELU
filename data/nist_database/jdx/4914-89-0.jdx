@@ -1,0 +1,45 @@
+##TITLE=Library Entry 34211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Hexene, 3-methyl-, (Z)-
+##MOLFORM=C7H14
+##CAS REGISTRY NO=4914-89-0
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=688
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         52
+    26         24
+    27        222
+    28         29
+    29        127
+    38         34
+    39        358
+    40         79
+    41        807
+    42         65
+    43         56
+    50         34
+    51         67
+    52         25
+    53        140
+    55        708
+    56        191
+    57         11
+    63         21
+    65         39
+    66         17
+    67        118
+    69        999
+    70        140
+    77         23
+    79         25
+    81         26
+    83        147
+    98        343
+    99         26

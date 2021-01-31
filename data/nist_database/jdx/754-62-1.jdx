@@ -1,0 +1,39 @@
+##TITLE=Library Entry 31774
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Di(isopropyl) disulfide, perfluoro-
+##MOLFORM=C6F14S2
+##CAS REGISTRY NO=754-62-1
+##MP= -300
+##BP= -300
+##MW= 402
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    63        280
+    64        999
+    66         86
+    69        927
+    82         14
+    83         17
+    94         26
+   100         64
+   101         11
+   113        310
+   114         12
+   115         10
+   131         12
+   132         76
+   145         13
+   151         12
+   164         62
+   195         16
+   201         14
+   214         11
+   233        146
+   234          7
+   235         12
+   402          5

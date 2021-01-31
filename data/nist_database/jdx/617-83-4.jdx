@@ -1,0 +1,50 @@
+##TITLE=Library Entry 21196
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 572
+##NAMES=HP
+##CAS NAME=Diethylcyanamide
+##MOLFORM=C5H10N2
+##CAS REGISTRY NO=617-83-4
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=903
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         20
+    26         16
+    27        122
+    28         68
+    29        208
+    30         10
+    38          1
+    39          5
+    40         11
+    41         21
+    42         79
+    43         36
+    44          9
+    52          2
+    53         29
+    54         11
+    55        999
+    56         40
+    57          3
+    58          2
+    66          1
+    67         12
+    68          4
+    69         85
+    70         58
+    71          5
+    81          2
+    83        278
+    84         13
+    95          1
+    97          9
+    98        304
+    99         26
+   100          1

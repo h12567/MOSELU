@@ -1,0 +1,39 @@
+##TITLE=Library Entry 68357
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Metiamide
+##MOLFORM=C9H16N4S2
+##CAS REGISTRY NO=34839-70-8
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    42        263
+    44        312
+    45        187
+    57        216
+    59        174
+    60        151
+    72        160
+    73        269
+    74        381
+    93         98
+    95        999
+    96        578
+   104        241
+   116         78
+   117        280
+   119        122
+   127         91
+   128         90
+   129         19
+   142         40
+   149        444
+   150        117
+   151         42
+   213         10

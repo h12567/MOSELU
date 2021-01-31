@@ -1,0 +1,48 @@
+##TITLE=Library Entry 5132
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Butanone, (1-methylpropyl)hydrazone
+##MOLFORM=C8H18N2
+##CAS REGISTRY NO=57874-52-9
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         95
+    28         78
+    29        189
+    30         34
+    39         45
+    40         10
+    41        114
+    42        999
+    43         51
+    44        128
+    53         10
+    54         24
+    55         44
+    56         38
+    57         65
+    58         19
+    68         27
+    69         17
+    70        189
+    71         32
+    72         57
+    84         10
+    85         17
+    86         10
+    97          9
+   111         21
+   113        716
+   114         56
+   127         55
+   140         17
+   142        149
+   143         23

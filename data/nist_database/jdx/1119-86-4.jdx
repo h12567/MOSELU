@@ -1,0 +1,83 @@
+##TITLE=Library Entry 35012
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,2-Decanediol
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=1119-86-4
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=1419
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          1
+    27         36
+    29         76
+    30          3
+    31         45
+    32          4
+    33          1
+    38          1
+    39         54
+    40          9
+    41        276
+    42         46
+    43        251
+    44         50
+    45         16
+    47          1
+    50          1
+    51          4
+    52          2
+    53         28
+    54         25
+    55        589
+    56         68
+    57        404
+    58         22
+    59          1
+    60         18
+    61        137
+    62          3
+    63          1
+    65          5
+    66          6
+    67         63
+    68         30
+    69        999
+    70         73
+    71         32
+    72          3
+    73          3
+    74          1
+    76          1
+    77          1
+    79          9
+    80          2
+    81         45
+    82         35
+    83        564
+    84         39
+    85          6
+    86          1
+    87          1
+    93          1
+    94          1
+    95         26
+    96         19
+    97         63
+    98         13
+    99          2
+   109          7
+   110          6
+   115          1
+   124          7
+   125         26
+   126          2
+   142          8
+   143        291
+   144         28

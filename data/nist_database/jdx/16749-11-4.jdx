@@ -1,0 +1,35 @@
+##TITLE=Library Entry 50292
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.CAMBON LAB. OF STRUCTURAL CHEM., UNIV. OF NICE, NICE,
+ FRANCE
+##NAMES=HP
+##CAS NAME=Cyclohexane, 1,4-dichloro-, cis-
+##MOLFORM=C6H10Cl2
+##CAS REGISTRY NO=16749-11-4
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1084
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    28         40
+    29         40
+    39        110
+    41        130
+    51         30
+    53         50
+    54         60
+    55         60
+    75         50
+    79         80
+    80        280
+    81        999
+    82         60
+   116        100
+   117         60
+   118         30
+   119         10
+   152         20
+   154         10

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 16735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.Korolev, Moscow, Russia
+##NAMES=HP
+##CAS NAME=5-Isoxazolecarboxylic acid, 3-chloro-
+##MOLFORM=C4H2ClNO3
+##CAS REGISTRY NO=20724-56-5
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    35         36
+    36         33
+    37        110
+    38        330
+    39        720
+    40        261
+    41        136
+    42         82
+    44         72
+    45        999
+    46          7
+    47        130
+    55         15
+    62         17
+    67        511
+    68        124
+    69         59
+    73         13
+    74        584
+    75         32
+    76        196
+    77         10
+   102        302
+   103         29
+   104         99
+   105          9
+   147        317
+   148         30
+   149        107
+   150          9

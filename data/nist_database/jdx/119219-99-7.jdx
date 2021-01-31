@@ -1,0 +1,32 @@
+##TITLE=Library Entry 100072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,3,3-Trimethyl-1-phenyl-azetidine
+##MOLFORM=C12H17N
+##CAS REGISTRY NO=119219-99-7
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         99
+    40        211
+    41        160
+    42         59
+    43         61
+    51        151
+    55        107
+    77        499
+    78         70
+    91         50
+   104        850
+   105        407
+   106         99
+   118        131
+   119        999
+   120        191
+   175        219

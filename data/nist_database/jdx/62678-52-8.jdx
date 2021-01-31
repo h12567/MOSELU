@@ -1,0 +1,36 @@
+##TITLE=Library Entry 53202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM 115 3364(1982); CHRISTOPH RUCHARDT ET AL
+##NAMES=HP
+##CAS NAME=meso-3,4-Dicyclohexyl-2,5-dimethylhexane
+##MOLFORM=C20H38
+##CAS REGISTRY NO=62678-52-8
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        300
+    43        180
+    57        510
+    67        130
+    69        280
+    71         80
+    80        170
+    81        130
+    82        150
+    83        999
+    97        530
+   110         60
+   112         90
+   124         70
+   126         60
+   138        750
+   139        600
+   140         60
+   153         30
+   235         60
+   278         10

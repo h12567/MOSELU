@@ -1,0 +1,38 @@
+##TITLE=Library Entry 2738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran, 2-(tert-butylthio)tetrahydro-
+##MOLFORM=C9H18OS
+##CAS REGISTRY NO=1927-53-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        999
+    42         50
+    43         40
+    44         10
+    45         10
+    47         20
+    49         10
+    50         50
+    51         50
+    52         10
+    53        120
+    54        170
+    55        800
+    56        440
+    57        320
+    58         10
+    69         40
+    75         30
+    83        150
+    84        350
+    85         40
+    90         80

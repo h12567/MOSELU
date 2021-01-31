@@ -1,0 +1,49 @@
+##TITLE=Library Entry 2858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.JACOB UNIV. OF HAMBURG, W. GERMANY
+##NAMES=HP
+##CAS NAME=9-Dodecenoic acid, methyl ester, (E)-
+##MOLFORM=C13H24O2
+##CAS REGISTRY NO=55030-26-7
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        184
+    43        476
+    44        107
+    45         86
+    53        122
+    54        142
+    55        862
+    56        150
+    57        163
+    59        261
+    67        258
+    68        194
+    69        500
+    70        101
+    71        129
+    74        589
+    75         96
+    81        189
+    82        143
+    83        285
+    84        229
+    85        101
+    87        108
+    95        136
+    96        262
+    97        237
+    98        168
+   110        108
+   111         94
+   138        123
+   163         61
+   180        103
+   212         73

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 90718
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Cyclo-(glycyl-l-leucyl)
+##MOLFORM=C8H14N2O2
+##CAS REGISTRY NO=5845-67-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    30        798
+    31         29
+    39        161
+    40         50
+    41        338
+    42        170
+    43        616
+    44        157
+    53         40
+    54         39
+    55        188
+    56        371
+    57        227
+    58        169
+    59         20
+    67         20
+    68         49
+    69         49
+    70        129
+    71         30
+    72         20
+    73         20
+    83         30
+    84        438
+    85        567
+    86        130
+    87         20
+    98         50
+    99        198
+   100         10
+   101         20
+   112         20
+   113        139
+   114        999
+   115        120
+   116         10
+   127        310
+   128         30
+   155         19
+   169          9
+   170          9

@@ -1,0 +1,65 @@
+##TITLE=Library Entry 7772
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-p-Bromophenyl-4-acetyl-thiazole
+##MOLFORM=C11H8BrNOS
+##CAS REGISTRY NO=21166-40-5
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    43        999
+    57        782
+    58        731
+    69        110
+    71         89
+    72         49
+    74        100
+    75        279
+    76        251
+    85        131
+    87         70
+    88         89
+    89         40
+    94         39
+   100        462
+   101         40
+   102         39
+   103        300
+   114         70
+   120        171
+   133         40
+   134         30
+   155         60
+   157         59
+   159        151
+   160         50
+   181         39
+   182         30
+   183         59
+   184         30
+   187         29
+   194         50
+   196         50
+   199         90
+   201         89
+   202         20
+   211         20
+   213         19
+   238         89
+   239         50
+   240        110
+   241         70
+   253         39
+   255         40
+   266        370
+   268        371
+   281        390
+   282         60
+   283        390
+   284         59

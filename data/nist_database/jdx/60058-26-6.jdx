@@ -1,0 +1,52 @@
+##TITLE=Library Entry 61793
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Benzylamino-7-benzyloxy-heptane
+##MOLFORM=C21H29NO
+##CAS REGISTRY NO=60058-26-6
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    30         30
+    39         10
+    41         20
+    43         10
+    51          9
+    55         19
+    56         10
+    63          9
+    65         40
+    77          9
+    78          9
+    79          9
+    89         10
+    90         10
+    91        999
+    92         90
+   104         10
+   105         10
+   106        188
+   107         69
+   108         19
+   114         10
+   119         10
+   120        848
+   121         80
+   134          9
+   148         10
+   162          9
+   176         10
+   190         10
+   204         29
+   205          9
+   220        210
+   221         29
+   310          9
+   311         19
+   312         10

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 81320
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. T. POTTS
+##NAMES=HP
+##CAS NAME=1-Phthalazinecarbonitrile, 2-benzoyl-1,2-dihydro-
+##MOLFORM=C16H11N3O
+##CAS REGISTRY NO=13925-27-4
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    50        130
+    51        420
+    53         20
+    62         20
+    63         40
+    74         30
+    75         70
+    76        110
+    77        410
+    78        110
+   101         50
+   102         50
+   103         20
+   104         20
+   105        999
+   106        240
+   107         20
+   127         20
+   128         20
+   129         20
+   130         60
+   156        999
+   157        120
+   261         50
+   262         10

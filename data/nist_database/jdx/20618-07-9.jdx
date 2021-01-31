@@ -1,0 +1,43 @@
+##TITLE=Library Entry 30341
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2,3,3-trichloropropanoate
+##MOLFORM=C4H5Cl3O2
+##CAS REGISTRY NO=20618-07-9
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=1029
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    59        999
+    60        130
+    61        308
+    62         40
+    63        130
+    79         30
+    83        109
+    85         89
+    89        159
+    91         50
+    95        191
+    96        871
+    97        119
+    98        541
+   100         90
+   111         20
+   119         50
+   121         29
+   123         70
+   125         39
+   131        110
+   133        100
+   135         29
+   154         10
+   155         50
+   157         30
+   159         20
+   161          9

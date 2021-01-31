@@ -1,0 +1,35 @@
+##TITLE=Library Entry 87301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. SPITELLER, LEHR. ORG. CHEM., UNIV. BAYREUTH, BAYREUT
+H, GER.
+##NAMES=HP
+##CAS NAME=Methyl 5-(2-furoyl)pentanoate
+##MOLFORM=C11H14O4
+##CAS REGISTRY NO=91971-41-4
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    55         70
+    59         50
+    68         40
+    74         20
+    81         30
+    83         20
+    85         20
+    87         20
+    95        680
+   110        999
+   111        130
+   123        120
+   133         70
+   136         40
+   150         20
+   179         50
+   182         20
+   192         20
+   210         30

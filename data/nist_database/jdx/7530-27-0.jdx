@@ -1,0 +1,39 @@
+##TITLE=Library Entry 47411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.E. WILKINSON S-CUBED, SAN DIEGO, CA.
+##NAMES=HP
+##CAS NAME=Phenol, 4-bromo-2-chloro-6-methyl-
+##MOLFORM=C7H6BrClO
+##CAS REGISTRY NO=7530-27-0
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    44         26
+    49         89
+    50        231
+    51        354
+    53          7
+    62         22
+    63         22
+    74         97
+    75        134
+    77        999
+    78         29
+   105         29
+   111         29
+   112         78
+   141        940
+   142         29
+   143        257
+   185        130
+   187         97
+   220        634
+   221         63
+   222        749
+   223         11
+   224        167

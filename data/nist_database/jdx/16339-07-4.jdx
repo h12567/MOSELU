@@ -1,0 +1,60 @@
+##TITLE=Library Entry 26254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Piperazine, 1-methyl-4-nitroso-
+##MOLFORM=C5H11N3O
+##CAS REGISTRY NO=16339-07-4
+##MP= -300
+##BP= -300
+##MW= 129
+##$RETENTION INDEX=1825
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    30         49
+    31         21
+    32         28
+    36        585
+    37        192
+    40         21
+    41         78
+    42        264
+    43        128
+    44         35
+    45          7
+    52          7
+    53         14
+    54         28
+    55        271
+    56         92
+    57        999
+    58         49
+    59         21
+    60         14
+    66          7
+    67         14
+    68         21
+    70         64
+    71         49
+    72         28
+    73         28
+    80         14
+    81         14
+    82         14
+    83         14
+    84         21
+    85         49
+    86         14
+    95          7
+    96         14
+    97         14
+    98         35
+    99        571
+   100        792
+   101         57
+   114         14
+   115          7
+   129         28

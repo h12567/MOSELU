@@ -1,0 +1,66 @@
+##TITLE=Library Entry 44882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenebutanoic acid, 4-nitro-, methyl ester
+##MOLFORM=C11H13NO4
+##CAS REGISTRY NO=20637-02-9
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    55          4
+    59          4
+    74        999
+    75         22
+    76          2
+    77          1
+    78          8
+    85          4
+    86          2
+    87          4
+    90          2
+    91         10
+    92          4
+   103          2
+   104          2
+   105          1
+   106         51
+   107          4
+   108          1
+   116         14
+   117         14
+   118          9
+   119         33
+   120         22
+   121          1
+   133         63
+   134         12
+   135          3
+   136         43
+   137          2
+   146         17
+   147          3
+   149        107
+   150        532
+   151         51
+   152          2
+   162         10
+   163         79
+   164         20
+   165          1
+   191         37
+   192        190
+   193         58
+   195          9
+   205        202
+   206        161
+   207         29
+   208          6
+   223        105
+   224          8
+   225          1

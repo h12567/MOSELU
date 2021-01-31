@@ -1,0 +1,80 @@
+##TITLE=Library Entry 109275
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=[p-Chlorophenyl]acetic acid hydrazide
+##MOLFORM=C8H9ClN2O
+##CAS REGISTRY NO=57676-51-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41          8
+    42          8
+    43         23
+    44         25
+    45          4
+    47          1
+    49         11
+    50         50
+    51         60
+    52          9
+    53          3
+    58          2
+    59          7
+    60          4
+    61         22
+    62         79
+    63        203
+    64         26
+    65         23
+    72          6
+    73         44
+    74         12
+    75         31
+    76          5
+    77         14
+    78          4
+    84          2
+    85          9
+    86         15
+    87         16
+    89        390
+    90         98
+    91         31
+    92          1
+    97          8
+    99         92
+   100          1
+   101         23
+   102          2
+   104          3
+   111          2
+   112          0
+   114          0
+   118          2
+   123          5
+   124         68
+   125        999
+   126         80
+   127        268
+   128         12
+   132          2
+   133          0
+   138          4
+   139          3
+   140          3
+   150          2
+   152        320
+   153         15
+   154         96
+   155          6
+   184        164
+   185         40
+   186         45
+   187          5

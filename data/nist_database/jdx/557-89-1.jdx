@@ -1,0 +1,37 @@
+##TITLE=Library Entry 58567
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=Arsine, chlorodimethyl-
+##MOLFORM=C2H6AsCl
+##CAS REGISTRY NO=557-89-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    75        134
+    76         42
+    77         25
+    87         12
+    88        290
+    89        999
+    90        145
+   100         23
+   101        170
+   102         66
+   103        259
+   105        281
+   110        154
+   111         41
+   112         55
+   123         21
+   124         42
+   125        740
+   127        262
+   140        561
+   141         17
+   142        188

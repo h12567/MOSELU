@@ -1,0 +1,65 @@
+##TITLE=Library Entry 78564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethanone, 2-(benzoyloxy)-1,2-diphenyl-
+##MOLFORM=C21H16O3
+##CAS REGISTRY NO=1459-20-7
+##MP= -300
+##BP= -300
+##MW= 316
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    16          1
+    17         11
+    18         41
+    27          3
+    38          2
+    39         11
+    40          0
+    44          1
+    50         29
+    51        127
+    52          9
+    53          1
+    62          2
+    63          8
+    64          2
+    65          1
+    73          0
+    75          5
+    77        342
+    78         29
+    79          1
+    83          1
+    87          1
+    89         11
+    90         11
+    91          1
+   102          0
+   105        999
+   106         74
+   107          5
+   115          3
+   118          2
+   126          0
+   128          1
+   139          1
+   151          1
+   152         10
+   153          2
+   163          1
+   164          2
+   165         16
+   166          4
+   167          4
+   168          0
+   194          1
+   211        103
+   212         16
+   213          1
+   316          3
+   317          0

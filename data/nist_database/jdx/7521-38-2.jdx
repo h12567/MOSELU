@@ -1,0 +1,42 @@
+##TITLE=Library Entry 33193
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.G.JIMENZ INSTITUTO DE QUIMICA, CUIDAD UNIV., PISO, ME
+XICO.
+##NAMES=HP
+##CAS NAME=4H-Pyran-4-one, 3-acetyl-2,6-dimethyl-
+##MOLFORM=C9H10O3
+##CAS REGISTRY NO=7521-38-2
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    27         65
+    29         55
+    39        190
+    42         30
+    43        670
+    51         45
+    53         45
+    55         50
+    66         50
+    67        999
+    68         65
+    69         90
+    85        170
+    95         40
+    96         30
+   109        400
+   110         40
+   123         65
+   124        170
+   125         45
+   148        140
+   151        335
+   152         30
+   165         50
+   166        825
+   167        105

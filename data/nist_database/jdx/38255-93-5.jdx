@@ -1,0 +1,47 @@
+##TITLE=Library Entry 32776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.E.PRESTON DEPT. CHEM., UNIVERSITY OF DURHAM, DURHAM,
+ UK
+##NAMES=HP
+##CAS NAME=1,4-Ethanonaphthalene, 1,2,3,4,9,9,10,10-octafluoro-1,4,4a,5,6,7,
+8,8a-octahydro-
+##MOLFORM=C12H10F8
+##CAS REGISTRY NO=38255-93-5
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    39        450
+    41        665
+    51        164
+    53        154
+    54        341
+    55        178
+    67        999
+    69        355
+    75         86
+    77        158
+    79        164
+    80        192
+    81        782
+    82        485
+    99         92
+   100        316
+   104        216
+   131        101
+   145        149
+   150        192
+   155        114
+   163        385
+   164        134
+   181         64
+   187         58
+   205        154
+   206        331
+   219         96
+   242        116
+   306        294

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 49524
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Bicyclo[3.3.0]oct-1(5)-ene
+##MOLFORM=C8H12
+##CAS REGISTRY NO=6491-93-6
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    51        110
+    52        180
+    53         80
+    54         40
+    55         20
+    63         30
+    65         80
+    66         90
+    67        230
+    68         80
+    77        240
+    78        100
+    79        860
+    80        999
+    81        110
+    91        180
+    92         40
+    93        420
+    94         38
+   105         35
+   106         15
+   107        100
+   108        430
+   109         37
+   110          1

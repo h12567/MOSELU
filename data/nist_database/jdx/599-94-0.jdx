@@ -1,0 +1,70 @@
+##TITLE=Library Entry 47384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,2-Bis(phenylsulfonyl)ethane
+##MOLFORM=C14H14O4S2
+##CAS REGISTRY NO=599-94-0
+##MP= -300
+##BP= -300
+##MW= 310
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    14          4
+    16          4
+    17          3
+    26          8
+    27         45
+    28         12
+    38          9
+    39         32
+    44          4
+    45         11
+    48          8
+    50         91
+    51        366
+    52         22
+    53         16
+    62          3
+    63          9
+    64          6
+    65         24
+    66          6
+    69          7
+    73          8
+    74         19
+    75         20
+    77        999
+    78         82
+    79          9
+    81          4
+    91         14
+    93          4
+    94          4
+    97         48
+   103          5
+   104          4
+   105          5
+   109          9
+   125        211
+   126         18
+   127         11
+   135          4
+   139          4
+   141        714
+   142         52
+   143         33
+   152          8
+   153          4
+   168          5
+   169         37
+   170          4
+   218        317
+   219         53
+   220         18
+   234         17
+   282         22
+   283          4

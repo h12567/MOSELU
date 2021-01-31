@@ -1,0 +1,65 @@
+##TITLE=Library Entry 59875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3089
+##NAMES=HP
+##CAS NAME=4-(Benzyloxy)pyridine 1-oxide
+##MOLFORM=C12H11NO2
+##CAS REGISTRY NO=2683-66-1
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    26          6
+    27          7
+    28          3
+    29          1
+    30          9
+    37          1
+    38          6
+    39         39
+    40          5
+    41         10
+    42          1
+    50          8
+    51         22
+    52          6
+    53          4
+    54          6
+    55          2
+    56          3
+    61          1
+    62          5
+    63         21
+    64          7
+    65         99
+    66          6
+    67          1
+    68          1
+    74          1
+    75          1
+    76          1
+    77          7
+    78          3
+    79          1
+    82          1
+    84          2
+    89         18
+    90          9
+    91        999
+    92         79
+    93          2
+    94          1
+    95          3
+   105          2
+   110         10
+   111          1
+   115          2
+   185         34
+   186          4
+   201         86
+   202         11
+   203          1

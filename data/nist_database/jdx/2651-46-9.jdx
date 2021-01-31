@@ -1,0 +1,72 @@
+##TITLE=Library Entry 67211
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8628
+##NAMES=HP
+##CAS NAME=Benzene, (4-chlorobutoxy)-
+##MOLFORM=C10H13ClO
+##CAS REGISTRY NO=2651-46-9
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          6
+    27         78
+    28         14
+    29         97
+    30          2
+    36          3
+    37          3
+    38         14
+    39        127
+    40         23
+    41         33
+    42          4
+    43          3
+    49         12
+    50         21
+    51         81
+    52          8
+    53         24
+    54          4
+    55        296
+    56         12
+    61          2
+    62          8
+    63         40
+    64         10
+    65        101
+    66        106
+    67          6
+    68          2
+    73          1
+    74          4
+    75          6
+    76          6
+    77        123
+    78         11
+    79         15
+    89          2
+    91        331
+    92         16
+    93        110
+    94        999
+    95         69
+    96          4
+   105          2
+   107         23
+   108          1
+   119          1
+   120          3
+   121          1
+   133          1
+   148          1
+   149          1
+   184         90
+   185          9
+   186         29
+   187          3

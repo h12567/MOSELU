@@ -1,0 +1,40 @@
+##TITLE=Library Entry 29797
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. Zweiben
+##NAMES=HP
+##CAS NAME=Isopropyl methyl carbonate
+##MOLFORM=C5H10O3
+##CAS REGISTRY NO=51729-83-0
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    30         25
+    31        158
+    33         46
+    37         19
+    38         21
+    39        135
+    40         25
+    41        326
+    42        129
+    43        692
+    44         12
+    45         27
+    55         12
+    57         19
+    59        999
+    60         40
+    65          6
+    73         40
+    76         14
+    77        268
+    78         14
+    85         12
+   100          8
+   103        328
+   104         12

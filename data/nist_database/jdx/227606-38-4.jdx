@@ -1,0 +1,90 @@
+##TITLE=Library Entry 37730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Daly, M. Garraffo, T. Spande, LBC-NIDDK-NIH, Bethesd
+a, MD
+##NAMES=HP
+##CAS NAME=(2'R,4'R,6'S,7S,8R,8aS)-6'-(2-Hydroxypentan-2-yl)-4',8-dimethylde
+cahydro-1H-spiro[indolizine-6,2'-pyran]-7,8-diol
+##MOLFORM=C19H35NO4
+##CAS REGISTRY NO=227606-38-4
+##MP= -300
+##BP= -300
+##MW= 341
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    53         17
+    54         51
+    55        162
+    57         47
+    58         19
+    59         11
+    65         11
+    67         30
+    69         73
+    70        999
+    71        149
+    73          8
+    74         26
+    79         16
+    80         18
+    81         50
+    82         45
+    83        238
+    84        611
+    85         44
+    87        118
+    94         10
+    96         88
+    97        123
+    98         29
+    99         11
+   100         41
+   108         14
+   110         33
+   112        767
+   113        100
+   114        136
+   115         11
+   123         19
+   125         90
+   126         72
+   127         23
+   128          9
+   137         15
+   138         11
+   141         11
+   152         18
+   153          6
+   156         10
+   164          9
+   166         23
+   180         29
+   182         46
+   184         62
+   185          8
+   194          5
+   198         41
+   209          8
+   224          9
+   236         25
+   237          5
+   239          5
+   248         18
+   249          3
+   254        129
+   266         57
+   267         22
+   268          3
+   294          7
+   296         18
+   298        144
+   299         32
+   306         25
+   323         74
+   324         43
+   326         29
+   341         73
+   342         17

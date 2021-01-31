@@ -1,0 +1,71 @@
+##TITLE=Library Entry 18790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Succinimide, thio-
+##MOLFORM=C4H5NOS
+##CAS REGISTRY NO=4166-00-1
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    25        115
+    26        592
+    27        958
+    28        176
+    29        226
+    30         42
+    33        162
+    34         48
+    35         17
+    37         92
+    38        160
+    39        222
+    40        183
+    41        408
+    42        425
+    43        207
+    44        183
+    45        736
+    46        305
+    47         82
+    48         16
+    50         44
+    51        150
+    52        357
+    53        184
+    54        999
+    55        819
+    56        286
+    57        203
+    58        408
+    59        966
+    60        818
+    61         87
+    62         50
+    65          9
+    66          9
+    67         12
+    68         70
+    69        263
+    70         84
+    71        481
+    72         87
+    73         29
+    74         11
+    82        160
+    83         26
+    84         14
+    85         28
+    86        220
+    87        753
+    88         57
+    89         32
+   113         12
+   115        974
+   116         64
+   117         62

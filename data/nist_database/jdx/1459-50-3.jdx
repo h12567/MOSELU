@@ -1,0 +1,76 @@
+##TITLE=Library Entry 6465
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=p-(1-Adamantyl)acetanilide
+##MOLFORM=C18H23NO
+##CAS REGISTRY NO=1459-50-3
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    41        343
+    42         87
+    43        999
+    44         50
+    45         55
+    51         52
+    52         24
+    53         73
+    54         24
+    55        170
+    56         24
+    57         86
+    63         27
+    65        121
+    66         27
+    67        118
+    68         19
+    69        176
+    70         19
+    71         30
+    77        168
+    78         62
+    79        176
+    80         27
+    81        115
+    83         28
+    85         20
+    89         29
+    90         21
+    91        198
+    92        101
+    93        206
+    94         35
+    95         37
+   103         34
+   104         21
+   105         76
+   106        300
+   107         64
+   115        107
+   116         38
+   117         83
+   118        115
+   119         49
+   127         25
+   128         49
+   129         35
+   130         76
+   131        221
+   132         78
+   133        214
+   134         26
+   135         35
+   170        132
+   171         19
+   212         33
+   227        126
+   228         20
+   269        336
+   270         67

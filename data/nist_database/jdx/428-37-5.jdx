@@ -1,0 +1,35 @@
+##TITLE=Library Entry 23906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Phenol, m-(1-methyl-3-propyl-3-pyrrolidinyl)-
+##MOLFORM=C14H21NO
+##CAS REGISTRY NO=428-37-5
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=1748
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    42        188
+    44        179
+    53          9
+    55          9
+    57        999
+    58         50
+    65         18
+    77         19
+    79         10
+    82         10
+    91         18
+   105          9
+   107         21
+   133         19
+   147         10
+   175          9
+   176          9
+   177         62
+   218         10
+   219         30

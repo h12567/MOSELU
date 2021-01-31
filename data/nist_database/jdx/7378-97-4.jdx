@@ -1,0 +1,47 @@
+##TITLE=Library Entry 39645
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=Dimethyl(2-octyl)amine
+##MOLFORM=C10H23N
+##CAS REGISTRY NO=7378-97-4
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=1083
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    29         92
+    30         14
+    39         44
+    40         10
+    41        107
+    42        123
+    43         63
+    44         93
+    45         15
+    46         13
+    53          6
+    54          4
+    55         39
+    56         63
+    57         29
+    58         67
+    59          2
+    68         10
+    69         10
+    70         47
+    71         49
+    72        999
+    73         88
+    84         17
+    85          8
+    86          3
+    98          5
+   142         89
+   143          7
+   156          2
+   157          9
+   158          1

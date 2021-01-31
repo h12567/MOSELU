@@ -1,0 +1,55 @@
+##TITLE=Library Entry 3580
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Thiirane, methyl-
+##MOLFORM=C3H6S
+##CAS REGISTRY NO=1072-43-1
+##MP= -300
+##BP= -300
+##MW= 74
+##$RETENTION INDEX=650
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    25         19
+    26        109
+    27        200
+    29         28
+    30          0
+    33         20
+    34         18
+    35         17
+    36         11
+    37         58
+    38        104
+    39        519
+    40         93
+    41        999
+    42        121
+    43          4
+    45        533
+    46        561
+    47        137
+    48         40
+    49          4
+    50          1
+    56          7
+    57         43
+    58        101
+    59        345
+    60         23
+    61         14
+    62          1
+    63          0
+    65          0
+    68          9
+    69         29
+    70          4
+    71         35
+    73        111
+    74        821
+    75         39
+    76         38
+    77          1

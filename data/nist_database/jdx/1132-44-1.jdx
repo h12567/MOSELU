@@ -1,0 +1,58 @@
+##TITLE=Library Entry 13442
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Acetamide, N-[(phenylamino)thioxomethyl]-
+##MOLFORM=C9H10N2OS
+##CAS REGISTRY NO=1132-44-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         30
+    42         40
+    43        999
+    44         50
+    45         10
+    50         70
+    51        242
+    52         40
+    55         10
+    57         10
+    59         10
+    60         50
+    63         50
+    64         50
+    65        252
+    66        101
+    69         20
+    74         10
+    77        363
+    78         20
+    79         10
+    90         10
+    91         40
+    92        121
+    93        848
+    94         60
+    97         10
+   109         60
+   110        151
+   118         60
+   119        333
+   120         30
+   124         10
+   135        818
+   136         80
+   137         30
+   151        131
+   152         20
+   193         70
+   194        959
+   195        111
+   196         40

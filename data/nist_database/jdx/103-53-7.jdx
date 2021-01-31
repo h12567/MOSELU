@@ -1,0 +1,82 @@
+##TITLE=Library Entry 77559
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Propenoic acid, 3-phenyl-, 2-phenylethyl ester
+##MOLFORM=C17H16O2
+##CAS REGISTRY NO=103-53-7
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=2158
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    14          0
+    15          1
+    17          0
+    18          1
+    26          2
+    27         20
+    29          2
+    30          1
+    37          1
+    38          6
+    39         37
+    40          2
+    41          6
+    50         30
+    51         91
+    52         17
+    53          8
+    54          0
+    61          1
+    62          7
+    63         26
+    64          0
+    65         52
+    66          4
+    74         12
+    75         15
+    76         34
+    77        248
+    78         53
+    79         24
+    80          1
+    86          0
+    87          2
+    89         11
+    91         95
+    92          8
+    93          0
+    98          1
+   102         74
+   103        363
+   104        999
+   105        109
+   106          6
+   107          0
+   115          1
+   119          1
+   120          4
+   121          0
+   129          2
+   131        432
+   132         42
+   133          2
+   147         56
+   148         30
+   149          3
+   165          1
+   174          2
+   178          2
+   179          0
+   190          1
+   191          1
+   203          0
+   206         20
+   207          2
+   234          0
+   252          4
+   253          0

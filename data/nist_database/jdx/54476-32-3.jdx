@@ -1,0 +1,67 @@
+##TITLE=Library Entry 12522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=6-[2,4-Dichlorocinnamoyl]-2,4-diamino-6,7-dihydro-5H-pyrrolo[3,4-
+d]pyrimidine
+##MOLFORM=C15H13Cl2N5O
+##CAS REGISTRY NO=54476-32-3
+##MP= -300
+##BP= -300
+##MW= 349
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    41         75
+    42        131
+    43        999
+    50        155
+    51        189
+    52        120
+    53        553
+    54        109
+    63         56
+    66        127
+    67         59
+    68         59
+    69        105
+    73         47
+    74         60
+    75        196
+    79         97
+    80        150
+    81        224
+    86         33
+    95         79
+    99        383
+   101        148
+   106        208
+   107        101
+   108        452
+   109         38
+   111         28
+   121         29
+   122         28
+   123         36
+   132        173
+   133         99
+   135        267
+   136        513
+   137         59
+   138         98
+   149        256
+   150        757
+   165         90
+   171        272
+   173        134
+   199        161
+   201         98
+   314        311
+   315         31
+   316        131
+   349         73
+   351         59
+   353         24

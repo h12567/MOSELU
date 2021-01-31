@@ -1,0 +1,44 @@
+##TITLE=Library Entry 40123
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. LOZYNSKI, POZNAN TECH. UNIV., POZNAN, POLAND
+##NAMES=HP
+##CAS NAME=Dimethylcarbamothioic acid, O-isobutyl ester
+##MOLFORM=C7H15NOS
+##CAS REGISTRY NO=82360-10-9
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         68
+    28         42
+    29        160
+    39         80
+    40         22
+    41        180
+    42         90
+    43         87
+    44        150
+    46         58
+    55         41
+    56         93
+    57         90
+    58         72
+    60         28
+    72        999
+    73         55
+    74         80
+    88        170
+    92         43
+   100         37
+   105         97
+   106        920
+   107         20
+   108         51
+   146         43
+   161        220
+   162         21
+   163         11

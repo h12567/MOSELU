@@ -1,0 +1,49 @@
+##TITLE=Library Entry 38311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans-2-Methyl-4-hexen-3-ol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=96346-76-8
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15         18
+    26         13
+    27        135
+    28         69
+    29         57
+    31         28
+    32         12
+    38         17
+    39        152
+    40         25
+    41        233
+    42         38
+    43        358
+    44         17
+    45         14
+    50         12
+    51         19
+    52         10
+    53        112
+    54         15
+    55         53
+    56         10
+    57         30
+    67         17
+    69         48
+    71        999
+    72         49
+    73          8
+    77         12
+    79         28
+    81         48
+    96         15
+    99         13
+   114         23

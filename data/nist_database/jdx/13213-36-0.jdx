@@ -1,0 +1,36 @@
+##TITLE=Library Entry 62444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. T. COUTTS
+##NAMES=HP
+##CAS NAME=2-Propanone, 1-phenyl-, oxime
+##MOLFORM=C9H11NO
+##CAS REGISTRY NO=13213-36-0
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        170
+    41        120
+    50         50
+    51        120
+    58        230
+    63         90
+    65        250
+    77         70
+    89        110
+    90        260
+    91        999
+    92        280
+   105         70
+   116        400
+   117        250
+   130        120
+   131        250
+   132        190
+   148        120
+   149        700
+   150         70

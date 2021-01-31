@@ -1,0 +1,62 @@
+##TITLE=Library Entry 97432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-(2-Methylphenyl)ethanol
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=7287-82-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14         17
+    26         16
+    27         53
+    29         21
+    37         12
+    38         43
+    39        223
+    40         32
+    41         43
+    43        196
+    45         41
+    50        108
+    51        203
+    52         54
+    53         40
+    58         73
+    60         54
+    62         94
+    63        220
+    64         53
+    65        303
+    66         35
+    67         23
+    74         49
+    75         56
+    77        468
+    78        106
+    79         28
+    86         21
+    87         24
+    89        130
+    91        899
+    92        132
+    93        674
+    94         54
+   102         49
+   103        113
+   104         17
+   105         14
+   115        470
+   116        118
+   117        999
+   118        975
+   119        151
+   121        540
+   122         51
+   136         99

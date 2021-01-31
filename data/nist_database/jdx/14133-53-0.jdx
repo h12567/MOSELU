@@ -1,0 +1,57 @@
+##TITLE=Library Entry 109332
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.C. DOUGHERTY
+##NAMES=HP
+##CAS NAME=2-Furanethanol, .beta.-ethoxy-
+##MOLFORM=C8H12O3
+##CAS REGISTRY NO=14133-53-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        220
+    28         25
+    29        220
+    31        180
+    38         40
+    39        220
+    40         30
+    41        300
+    42         50
+    43        180
+    44         30
+    45         65
+    46         30
+    50         30
+    51         65
+    52         55
+    53        185
+    54         25
+    55         80
+    61         20
+    65         40
+    68         30
+    69        135
+    70         15
+    80         15
+    81        330
+    82         40
+    83         80
+    94         90
+    95        125
+    96         70
+    97        900
+    98        180
+    99         20
+   110        155
+   111        490
+   112         50
+   125        999
+   126        200
+   142         20
+   156        200
+   157         40

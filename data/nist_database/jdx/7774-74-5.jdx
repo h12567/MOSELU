@@ -1,0 +1,79 @@
+##TITLE=Library Entry 96415
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Thiophenethiol
+##MOLFORM=C4H4S2
+##CAS REGISTRY NO=7774-74-5
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=977
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    25          2
+    26          5
+    27          4
+    32         11
+    33          6
+    34          1
+    36          4
+    37         25
+    38         38
+    39         87
+    40         19
+    41          2
+    44         20
+    45        163
+    46         10
+    47          9
+    48          3
+    49          8
+    50         13
+    51          8
+    52         13
+    56         18
+    57         95
+    58        100
+    59         16
+    60          4
+    61          1
+    64         15
+    65          1
+    66          2
+    68         20
+    69        122
+    70         37
+    71        672
+    72        100
+    73         34
+    74          4
+    76         21
+    77         14
+    78          2
+    79          2
+    80          6
+    81         44
+    82         47
+    83         28
+    84         30
+    85          2
+    86          1
+    88         15
+    89          6
+    90         11
+    91          1
+    92          1
+   100          1
+   101          4
+   112          3
+   113          1
+   114          7
+   115         80
+   116        999
+   117         69
+   118         92
+   119          5
+   120          2

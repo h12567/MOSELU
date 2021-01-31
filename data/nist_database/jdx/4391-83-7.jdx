@@ -1,0 +1,55 @@
+##TITLE=Library Entry 62066
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Azetidin-2-one, 1-benzyl-4.alpha.-methyl-
+##MOLFORM=C11H13NO
+##CAS REGISTRY NO=4391-83-7
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    38         19
+    39        181
+    40         63
+    41        118
+    42        152
+    43          8
+    44         22
+    50         43
+    51        111
+    52         54
+    53          7
+    54          4
+    55          5
+    56        118
+    57         12
+    59          6
+    62         13
+    64         14
+    65        207
+    66         24
+    69         17
+    71         13
+    74          4
+    75          6
+    77        111
+    84          2
+    89         69
+    90          5
+    91        999
+    92        111
+   104        225
+   105        369
+   106         39
+   113          1
+   117          1
+   131          8
+   132        297
+   133        589
+   134         54
+   175        159

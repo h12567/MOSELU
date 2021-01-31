@@ -1,0 +1,46 @@
+##TITLE=Library Entry 14599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.M. ZOLOTAREV, INST. ORG. CHEM. N.D. ZELINSKI, MOSCOW,
+ USSR
+##NAMES=HP
+##CAS NAME=(3-Acetylthio-2-benzo[b]thienylidene)-4-nitroaniline
+##MOLFORM=C17H12N2O3S2
+##CAS REGISTRY NO=92886-23-2
+##MP= -300
+##BP= -300
+##MW= 356
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    42         50
+    43        999
+    45         50
+    50         80
+    51         60
+    63         80
+    64         70
+    65         80
+    69         50
+    75         60
+    76        110
+    77         60
+   108        230
+   120         90
+   121        140
+   134         40
+   159         60
+   165         60
+   190         80
+   191         80
+   192        180
+   193         30
+   266         60
+   267        200
+   268         50
+   313        240
+   314        110
+   356         32
+   357          8
+   358          5

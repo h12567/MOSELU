@@ -1,0 +1,53 @@
+##TITLE=Library Entry 60045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Butane-1,4-diol bis(p-toluene-1,4-sulfonate)
+##MOLFORM=C18H22O6S2
+##CAS REGISTRY NO=4724-56-5
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    50          7
+    51         21
+    54         67
+    55        491
+    56         22
+    63         27
+    64          7
+    65        178
+    66          9
+    71        575
+    72         22
+    73         22
+    77         23
+    78          4
+    79         21
+    89         44
+    90        198
+    91        999
+    92        109
+   107        110
+   108         21
+   121         22
+   139         22
+   154         88
+   155        554
+   156         43
+   157         22
+   162         89
+   163         11
+   171         22
+   172        166
+   173        212
+   174         27
+   226        178
+   227        231
+   228         36
+   398         33
+   399          7

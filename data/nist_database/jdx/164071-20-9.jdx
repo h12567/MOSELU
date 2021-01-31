@@ -1,0 +1,84 @@
+##TITLE=Library Entry 20529
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Cyclohexylmethanol, trifluoroacetate (ester)
+##MOLFORM=C9H13F3O2
+##CAS REGISTRY NO=164071-20-9
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          4
+    26          7
+    27         77
+    28         25
+    29         75
+    30          3
+    31          5
+    33          2
+    37          1
+    39        171
+    40         32
+    41        368
+    42         46
+    43         39
+    44          3
+    45          3
+    46          2
+    47          4
+    50         24
+    51         24
+    52         12
+    53         97
+    54        159
+    55        999
+    56         57
+    57          6
+    59          8
+    60          1
+    61          1
+    62          1
+    63          5
+    64          1
+    65         27
+    66         52
+    67        461
+    68        224
+    69        366
+    70          6
+    71          1
+    73          1
+    74          1
+    77         33
+    78         15
+    79         54
+    81        831
+    82         60
+    83        673
+    84         42
+    85          2
+    89          1
+    91         10
+    92          1
+    93         12
+    95         76
+    96        383
+    97        284
+    98         17
+    99         25
+   100          1
+   112          1
+   113          1
+   123          2
+   125          3
+   127          5
+   141        131
+   142         12
+   143          1
+   153          2
+   166          1

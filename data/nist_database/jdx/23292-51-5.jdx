@@ -1,0 +1,65 @@
+##TITLE=Library Entry 90881
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butanedioic acid, (1-methylethyl)-, dimethyl ester
+##MOLFORM=C9H16O4
+##CAS REGISTRY NO=23292-51-5
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27        146
+    28         61
+    29        118
+    31         33
+    39         94
+    40         19
+    41        256
+    42         71
+    43        213
+    44         50
+    45         53
+    53         55
+    54         23
+    55        422
+    56         31
+    58         23
+    59        240
+    67         31
+    68         54
+    69        491
+    70         59
+    71         46
+    73         45
+    74         40
+    81         45
+    82         25
+    83        141
+    85         56
+    86         53
+    87        341
+    88         24
+    96         72
+    97        281
+    98         20
+    99         21
+   101         50
+   113        139
+   114        999
+   115        466
+   116         41
+   124         31
+   128        131
+   129         93
+   141         94
+   145         29
+   146        396
+   147         29
+   156         66
+   157        382
+   158         35

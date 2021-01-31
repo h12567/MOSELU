@@ -1,0 +1,71 @@
+##TITLE=Library Entry 55711
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH EPA-PTSEL 0067
+##NAMES=HP
+##CAS NAME=Propanal, 2-methyl-2-(methylsulfinyl)-, oxime
+##MOLFORM=C5H11NO2S
+##CAS REGISTRY NO=7635-32-7
+##MP= -300
+##BP= -300
+##MW= 149
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    13          1
+    14         23
+    15        145
+    16         11
+    26         38
+    27        214
+    28        477
+    29        188
+    30        138
+    31        139
+    32         28
+    33         21
+    34         27
+    37         24
+    38         42
+    39        342
+    40         78
+    41        997
+    42        230
+    43        224
+    44        134
+    45        136
+    46         88
+    47        119
+    48         72
+    49         25
+    50         17
+    51         26
+    52         38
+    53         43
+    54         58
+    55         74
+    56         63
+    57         63
+    58         57
+    59         37
+    61          2
+    62          5
+    63        133
+    64        170
+    65         22
+    66         22
+    67         17
+    68        117
+    69        204
+    70         39
+    71         12
+    74          5
+    75          2
+    76          7
+    84          9
+    85         31
+    86        999
+    87         57
+    88          2
+    89          1

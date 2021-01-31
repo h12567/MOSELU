@@ -1,0 +1,64 @@
+##TITLE=Library Entry 12279
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=L-Alanine, N-(trifluoroacetyl)-, 1-methylbutyl ester
+##MOLFORM=C10H16F3NO3
+##CAS REGISTRY NO=57983-11-6
+##MP= -300
+##BP= -300
+##MW= 255
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    40         15
+    41        215
+    42        130
+    43        999
+    44         87
+    45        102
+    47         37
+    49          3
+    51          5
+    53         11
+    54          1
+    55        144
+    56         25
+    57          7
+    63          3
+    66         17
+    67          1
+    69        230
+    70        111
+    71        406
+    72         72
+    73          4
+    78          3
+    84          3
+    87         12
+    88         16
+    92         25
+    93         15
+    96          7
+    97          5
+   113          6
+   114          7
+   116          4
+   126         14
+   138          4
+   139          9
+   140        715
+   141        361
+   142         19
+   153         12
+   154         10
+   166          2
+   168        125
+   169          8
+   171          8
+   182         29
+   183         16
+   186         12

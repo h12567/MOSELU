@@ -1,0 +1,40 @@
+##TITLE=Library Entry 49118
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(4)1342(1978); U. KRAMER ET AL
+##NAMES=HP
+##CAS NAME=13,17,21-Triacetyl-13,17,21-triaza-24-tetracosane lactam
+##MOLFORM=C27H50N4O4
+##CAS REGISTRY NO=75701-28-9
+##MP= -300
+##BP= -300
+##MW= 494
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    70        650
+    79        999
+   100        750
+   112        430
+   125        250
+   139        200
+   145        150
+   159        150
+   195        160
+   210        100
+   224        150
+   235        150
+   254        100
+   267        110
+   281        100
+   297        250
+   323         70
+   340        120
+   352        120
+   366         80
+   396        160
+   409         50
+   451        600
+   476         30
+   494         40

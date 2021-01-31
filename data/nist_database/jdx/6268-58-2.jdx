@@ -1,0 +1,41 @@
+##TITLE=Library Entry 79193
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N. DE KIMPE, LAB. ORG. CHEM., UNIV. GENT, BELGIUM
+##NAMES=HP
+##CAS NAME=1,8-Diphenyl-1,8-octanedione
+##MOLFORM=C20H22O2
+##CAS REGISTRY NO=6268-58-2
+##MP= -300
+##BP= -300
+##MW= 294
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    40        140
+    41        120
+    43        140
+    44         80
+    51        100
+    55         90
+    57         50
+    58         40
+    69         40
+    71         40
+    72         60
+    77        400
+    78        120
+    91         40
+   105        999
+   106        100
+   120        370
+   121         60
+   133         40
+   156         30
+   157         40
+   171         50
+   174         30
+   175        190
+   176         40
+   294         60

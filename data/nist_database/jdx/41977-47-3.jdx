@@ -1,0 +1,49 @@
+##TITLE=Library Entry 50183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptane, 3-methyl-
+##MOLFORM=C8H14
+##CAS REGISTRY NO=41977-47-3
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    40         90
+    41        818
+    42         90
+    43         40
+    50         10
+    51         60
+    52         30
+    53        242
+    54        545
+    55        535
+    56        242
+    57         10
+    63         10
+    65         50
+    66         50
+    67        868
+    68        878
+    69        343
+    70         20
+    77         60
+    78         10
+    79         70
+    80         40
+    81        999
+    82        505
+    83         30
+    91         30
+    93         10
+    95        838
+    96         60
+   109         10
+   110        191
+   111         10

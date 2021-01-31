@@ -1,0 +1,23 @@
+##TITLE=Library Entry 56119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Tolycaine
+##MOLFORM=C15H22N2O3
+##CAS REGISTRY NO=3686-58-6
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    42         19
+    56         21
+    58         61
+    72         40
+    77         10
+    86        999
+    87         51
+   104          9

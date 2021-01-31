@@ -1,0 +1,66 @@
+##TITLE=Library Entry 55689
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9311
+##NAMES=HP
+##CAS NAME=DL-Norleucine
+##MOLFORM=C6H13NO2
+##CAS REGISTRY NO=616-06-8
+##MP= -300
+##BP= -300
+##MW= 131
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15          6
+    17          6
+    18         54
+    19          2
+    26          3
+    27         40
+    28         87
+    29         44
+    30        509
+    31          8
+    38          1
+    39         21
+    40          3
+    41        110
+    42         33
+    43         77
+    44        112
+    45          7
+    46         17
+    50          1
+    51          1
+    52          1
+    53          4
+    54          6
+    55          8
+    56         31
+    57         31
+    58          2
+    59          1
+    65          1
+    67          6
+    68          2
+    69         89
+    70         10
+    71          7
+    73          7
+    74        214
+    75         23
+    76          1
+    82          1
+    84          9
+    85          2
+    86        999
+    87         64
+    88          3
+    89          4
+    99          1
+   102          1
+   113          1
+   131          4
+   132          9

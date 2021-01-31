@@ -1,0 +1,32 @@
+##TITLE=Library Entry 19871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=4-Methylthiane, S,S-dioxide
+##MOLFORM=C6H12O2S
+##CAS REGISTRY NO=67512-92-9
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    53         60
+    54         30
+    55        999
+    56        780
+    57         40
+    67         80
+    68         90
+    69        380
+    70         20
+    81         50
+    82        110
+    83        260
+    84         50
+   148        320
+   149         24
+   150         15
+   151          1

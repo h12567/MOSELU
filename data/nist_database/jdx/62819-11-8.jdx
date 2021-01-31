@@ -1,0 +1,31 @@
+##TITLE=Library Entry 74561
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. TOMORI, INST. DRUG RES., BUDAPEST, HUNG.
+##NAMES=HP
+##CAS NAME=1,2:3,4-Di-O-isopropylidene-5,6-di-O-acetyl-D-mannitol
+##MOLFORM=C16H26O8
+##CAS REGISTRY NO=62819-11-8
+##MP= -300
+##BP= -300
+##MW= 346
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    57         70
+    58        500
+    85        860
+   101        999
+   111        530
+   115        200
+   127        400
+   143        470
+   153        500
+   171        130
+   185        130
+   187        460
+   226         50
+   245        120
+   273         80
+   331        130

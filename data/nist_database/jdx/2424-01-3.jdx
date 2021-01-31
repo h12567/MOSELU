@@ -1,0 +1,60 @@
+##TITLE=Library Entry 2286
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=Methyldiallylamine
+##MOLFORM=C7H13N
+##CAS REGISTRY NO=2424-01-3
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    25          8
+    26         49
+    27        113
+    28         45
+    29         21
+    30         26
+    31          3
+    37         45
+    38         85
+    39        594
+    40         93
+    41        999
+    42        919
+    43         59
+    44         85
+    45          2
+    50          4
+    51         10
+    52         52
+    53         41
+    54         54
+    55         55
+    56         32
+    57         57
+    65          6
+    66          6
+    67         19
+    68        124
+    69         24
+    70         85
+    71          6
+    79          6
+    80          8
+    81         18
+    82        117
+    83         18
+    84        391
+    85         19
+    94         18
+    95          6
+    96         45
+    97          3
+   110         31
+   111         63
+   112          6

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 67438
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-(.alpha.-Hydroxyethyl)-aniline
+##MOLFORM=C8H11NO
+##CAS REGISTRY NO=2454-37-7
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          8
+    15         32
+    16          6
+    17          7
+    18          8
+    19          8
+    26         10
+    27         37
+    28         57
+    29         46
+    30          9
+    31          4
+    37         12
+    38         39
+    39        133
+    40         25
+    41         62
+    42         24
+    43        128
+    44          6
+    45         31
+    46          6
+    47          9
+    50         34
+    51         67
+    52         54
+    53         31
+    54         24
+    55          8
+    59         19
+    60          7
+    61         26
+    62         23
+    63         59
+    64         33
+    65        162
+    66        103
+    67         40
+    68          5
+    74         14
+    75         14
+    77        297
+    78         37
+    79         15
+    80         10
+    81          6
+    89         16
+    90         12
+    91         61
+    92         85
+    93        151
+    94        999
+    95         73
+    96          4
+   102          3
+   103         10
+   104         12
+   105         14
+   106         22
+   107          6
+   108          9
+   116          5
+   117         19
+   118         47
+   119         39
+   120         65
+   121         30
+   122        226
+   123         21
+   135          7
+   137        376
+   138         35

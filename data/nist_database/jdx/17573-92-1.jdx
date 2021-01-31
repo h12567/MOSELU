@@ -1,0 +1,65 @@
+##TITLE=Library Entry 71947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Thiophene, 3-methoxy-
+##MOLFORM=C5H6OS
+##CAS REGISTRY NO=17573-92-1
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    12          9
+    13         16
+    14         30
+    15        118
+    18          6
+    25         17
+    26         71
+    32         19
+    33          7
+    36          6
+    37         50
+    38         74
+    39        178
+    40         16
+    41          1
+    45        869
+    46         25
+    47         47
+    48          7
+    49         17
+    50         37
+    51         13
+    52          1
+    53         50
+    54         19
+    55        153
+    56         17
+    57         75
+    58         84
+    60         15
+    68         14
+    69         77
+    70         24
+    71        164
+    72         23
+    73        147
+    81         49
+    82         28
+    83         22
+    84        222
+    85        125
+    86         23
+    97          9
+    99        999
+   100         56
+   101         44
+   111         15
+   114        850
+   115         57
+   116         38

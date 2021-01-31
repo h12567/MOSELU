@@ -1,0 +1,67 @@
+##TITLE=Library Entry 906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.V.Rozynov
+##NAMES=HP
+##CAS NAME=2-Methyl-8-nitroisoxazolizidine
+##MOLFORM=C6H10N2O4
+##CAS REGISTRY NO=4328-96-5
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    29        578
+    30        999
+    31         84
+    39         87
+    40        129
+    41        464
+    42        514
+    43        448
+    44        421
+    45        172
+    52        116
+    53        116
+    54        254
+    55        111
+    56         79
+    57         82
+    58         66
+    66         34
+    67        116
+    68        153
+    69        111
+    70         61
+    71         76
+    77         18
+    79         50
+    80         50
+    81         29
+    82         37
+    83         55
+    84        193
+    85        254
+    86         34
+    91         29
+    92         15
+    93         23
+    94         34
+    95         15
+    96        193
+    97         34
+    98         95
+    99        116
+   105         31
+   107         21
+   109         23
+   110        106
+   111        100
+   112         55
+   113         37
+   114        387
+   115         34
+   128         23
+   129         29

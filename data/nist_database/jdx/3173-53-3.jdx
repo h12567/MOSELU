@@ -1,0 +1,82 @@
+##TITLE=Library Entry 33062
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Cyclohexane, isocyanato-
+##MOLFORM=C7H11NO
+##CAS REGISTRY NO=3173-53-3
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=1216
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    26         38
+    27        220
+    28        127
+    29         84
+    30          9
+    33          2
+    37         13
+    38         38
+    39        393
+    40        120
+    41        819
+    42        358
+    43        172
+    44         15
+    46          8
+    47          1
+    49          4
+    50         33
+    51         62
+    52         48
+    53        138
+    54        615
+    55        395
+    56        550
+    57         27
+    58         23
+    59          4
+    60          1
+    61          3
+    62          5
+    63         12
+    64          8
+    65         28
+    66         30
+    67        999
+    68        191
+    69        635
+    70        105
+    71         18
+    74          2
+    75          2
+    76          1
+    77         24
+    78         11
+    79         62
+    80         71
+    81        116
+    82        891
+    83        213
+    84         26
+    85         15
+    92          1
+    93          1
+    94          4
+    95          4
+    96        254
+    97        901
+    98         63
+    99         17
+   108          6
+   110         44
+   111          3
+   124         56
+   125         96
+   126          8

@@ -1,0 +1,61 @@
+##TITLE=Library Entry 2901
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Mark Whitten, Florida Museum of Natural History, U. of
+ Florida
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]heptane, 2,6,6-trimethyl-, [1R-(1.alpha.,2.alpha.,5
+.alpha.)]-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=4863-59-6
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        101
+    43        161
+    44          7
+    50         31
+    51         86
+    52         43
+    53        234
+    55        960
+    56         72
+    57         54
+    58          5
+    62          6
+    63         20
+    65         88
+    66         57
+    67        605
+    68        236
+    69        380
+    70        109
+    71         26
+    77        101
+    78         24
+    79        130
+    80         75
+    81        474
+    82        386
+    83        422
+    84         59
+    91         52
+    92          7
+    93         36
+    94         98
+    95        612
+    96        263
+    97         54
+   105          7
+   109        154
+   110         44
+   111          6
+   123        145
+   124         16
+   138         37
+   139          4

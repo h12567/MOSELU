@@ -1,0 +1,83 @@
+##TITLE=Library Entry 2097
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=1H-Pyrrole, 2,5-dihydro-1-nitroso-
+##MOLFORM=C4H6N2O
+##CAS REGISTRY NO=10552-94-0
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    30        303
+    31         48
+    32        678
+    33         60
+    34         12
+    36         12
+    37         54
+    38        103
+    39        636
+    40        199
+    41        999
+    42        254
+    43        224
+    44        618
+    45         48
+    46         60
+    47          6
+    48          6
+    49         12
+    50         36
+    51         42
+    52         30
+    53        103
+    54         60
+    55        121
+    56        109
+    57        127
+    58         48
+    59         30
+    60         36
+    61         12
+    62          6
+    63         12
+    64         12
+    65         12
+    66         24
+    67        315
+    68        248
+    69         78
+    70         60
+    71         60
+    72         18
+    73          6
+    74          6
+    75          6
+    76          6
+    77         18
+    78         18
+    79         18
+    80         12
+    81         66
+    82         36
+    83         36
+    84         36
+    85         30
+    86         12
+    87          6
+    89         12
+    92         12
+    93         12
+    94          6
+    95         24
+    96         18
+    97         30
+    98        490
+    99         30
+   100         12

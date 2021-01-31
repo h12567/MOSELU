@@ -1,0 +1,41 @@
+##TITLE=Library Entry 77877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.J.IRWIN UNIV. OF ASTON IN BIRMINGHAM, BIRMINGHAM, UK
+##NAMES=HP
+##CAS NAME=2-Oxazolidinone, 3-cyclohexyl-5-phenyl-
+##MOLFORM=C15H19NO2
+##CAS REGISTRY NO=56805-21-1
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        420
+    54        240
+    55        590
+    67        100
+    68        110
+    77        130
+    79         60
+    81         90
+    82        130
+    83        220
+    91        460
+    92        110
+   103         90
+   104        999
+   105        130
+   110        480
+   118        150
+   120        240
+   146         90
+   158        330
+   163        120
+   164        380
+   200        150
+   201         60
+   202        200
+   245        680

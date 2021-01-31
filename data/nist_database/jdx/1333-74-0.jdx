@@ -1,0 +1,17 @@
+##TITLE=Library Entry 1
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=American Petroleum Institute Research Project 44
+##NAMES=HP
+##CAS NAME=Hydrogen
+##MOLFORM=H2
+##CAS REGISTRY NO=1333-74-0
+##MP= -300
+##BP= -300
+##MW= 2
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 2
+##XYDATA=(XY..XY) 1 
+     1         21
+     2        999

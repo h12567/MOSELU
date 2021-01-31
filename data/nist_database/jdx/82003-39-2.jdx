@@ -1,0 +1,33 @@
+##TITLE=Library Entry 18457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. NAGUMO, HOSHI UNIV., SHINAGAWA-KU, TOKYO, JAPAN
+##NAMES=HP
+##CAS NAME=[3AR-(3AR*,5E,9Z,11aS*)]-7.alpha.-hydroxy-2,3,3a,4,7,8,11,11a-oct
+ahydro-6-methyl-3-methylene-2-oxocyclodeca(b)furan-10-carboxylic acid 7,10-l
+actone
+##MOLFORM=C15H16O4
+##CAS REGISTRY NO=82003-39-2
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    53        999
+    55        830
+    81        670
+    91        300
+   105        370
+   124        190
+   131        220
+   136        530
+   137        250
+   161        140
+   203        240
+   205        120
+   216        200
+   232         70
+   242        120
+   260        170

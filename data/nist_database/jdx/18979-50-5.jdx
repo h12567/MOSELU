@@ -1,0 +1,60 @@
+##TITLE=Library Entry 87507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 933
+##NAMES=HP
+##CAS NAME=Phenol, 4-propoxy-
+##MOLFORM=C9H12O2
+##CAS REGISTRY NO=18979-50-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          4
+    27         32
+    28          5
+    29          3
+    31          1
+    38          3
+    39         29
+    40          2
+    41         30
+    42          3
+    43         33
+    50          2
+    51          4
+    52          3
+    53         19
+    54         16
+    55         18
+    56          1
+    62          2
+    63          6
+    64          6
+    65         17
+    66          2
+    67          1
+    69          3
+    77          1
+    81         39
+    82         43
+    83          2
+    92          1
+    93          8
+    94          2
+    95          3
+   107          1
+   109         35
+   110        999
+   111         67
+   112          6
+   123          5
+   124          1
+   151          1
+   152        311
+   153         30
+   154          2

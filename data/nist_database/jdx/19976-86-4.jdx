@@ -1,0 +1,45 @@
+##TITLE=Library Entry 46362
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING, UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Tungsten, tetracarbonylbis(hexamethylphosphorous triamide-P)-
+##MOLFORM=C16H36N6O4P2W
+##CAS REGISTRY NO=19976-86-4
+##MP= -300
+##BP= -300
+##MW= 622
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    60        279
+    76        999
+   119        999
+   163        458
+   195          3
+   301         25
+   304          0
+   333          4
+   347         34
+   359          1
+   375          3
+   378          3
+   387          0
+   391         16
+   404          1
+   415          1
+   422          5
+   432          1
+   443          1
+   459          1
+   466         18
+   487          2
+   510         34
+   522          1
+   538          2
+   550         10
+   566          1
+   578         55
+   594          3
+   622         44

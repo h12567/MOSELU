@@ -1,0 +1,85 @@
+##TITLE=Library Entry 65010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-(Diethyl-phosphinoyl)-acetamide
+##MOLFORM=C6H14NO2P
+##CAS REGISTRY NO=13298-22-1
+##MP= -300
+##BP= -300
+##MW= 163
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    33          5
+    34          3
+    35          3
+    36         26
+    38          9
+    39         13
+    40          9
+    41         65
+    42        207
+    43         40
+    44         65
+    45         34
+    46         13
+    47         92
+    48         39
+    49         93
+    54          4
+    55          5
+    56          4
+    57         14
+    58         12
+    59         40
+    60         13
+    61         22
+    62         34
+    63         84
+    64        311
+    65         39
+    66          2
+    69          3
+    71          5
+    72          6
+    73         16
+    74          3
+    75         15
+    76         26
+    77         96
+    78         10
+    79          2
+    80         21
+    89         19
+    90         16
+    92        999
+    93         41
+    94         97
+    95         11
+   103         13
+   104         26
+   105         76
+   106         44
+   107          5
+   108         44
+   109          7
+   117          7
+   118         12
+   119          7
+   120        160
+   121         11
+   122          4
+   123         24
+   127          2
+   128          6
+   134        253
+   135        129
+   136         13
+   145          6
+   147          4
+   150          3
+   163         31
+   164          3

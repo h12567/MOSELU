@@ -1,0 +1,37 @@
+##TITLE=Library Entry 47346
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Benzoyl-2-p-chloroanilthioacetic acid anilide
+##MOLFORM=C21H15ClN2OS
+##CAS REGISTRY NO=51040-07-4
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    77        999
+   105        847
+   109        137
+   111        200
+   113         59
+   135        190
+   136        338
+   138        915
+   140        386
+   214         29
+   241         39
+   243        128
+   245         39
+   273         89
+   275         39
+   345         20
+   346         39
+   350         29
+   378        218
+   379         59
+   380         89
+   381         20

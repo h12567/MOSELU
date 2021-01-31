@@ -1,0 +1,85 @@
+##TITLE=Library Entry 82435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4729
+##NAMES=HP
+##CAS NAME=N-Phenylglycine
+##MOLFORM=C8H9NO2
+##CAS REGISTRY NO=103-01-5
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    12          1
+    14          1
+    15          3
+    16          4
+    17          1
+    18          3
+    26          5
+    27         15
+    28         39
+    29          4
+    30         19
+    31          1
+    32          1
+    36          1
+    37          9
+    38         18
+    39         54
+    40          9
+    41          9
+    42          5
+    43          1
+    44        113
+    45          9
+    46          3
+    49          5
+    50         47
+    51        134
+    52         39
+    53         20
+    54          7
+    55          1
+    59          1
+    60          1
+    61          4
+    62          8
+    63         20
+    64         14
+    65         50
+    66         40
+    67          6
+    68          1
+    73          3
+    74         13
+    75         10
+    76         17
+    77        342
+    78         71
+    79         89
+    80          8
+    89          2
+    90          3
+    91         20
+    92         17
+    93         98
+    94          9
+    95          1
+   102          1
+   103          6
+   104        118
+   105        105
+   106        999
+   107        221
+   108         14
+   109          1
+   133          2
+   149          2
+   150          1
+   151        229
+   152         22
+   153          2

@@ -1,0 +1,52 @@
+##TITLE=Library Entry 17493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methoxymethyl isothiocyanate
+##MOLFORM=C3H5NOS
+##CAS REGISTRY NO=19900-84-6
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=1533
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    15        102
+    26          4
+    27          9
+    28         70
+    29        242
+    30         19
+    31          7
+    32         50
+    33          6
+    34          3
+    35          4
+    38          9
+    39         11
+    40         22
+    41          4
+    42          8
+    43          3
+    44         85
+    45        999
+    46         42
+    47         13
+    48          1
+    54          1
+    58         40
+    59         43
+    60          9
+    61          2
+    70         27
+    71         27
+    72        333
+    73         18
+    74         20
+    75          1
+    86          7
+   103        391
+   104         18
+   105         18

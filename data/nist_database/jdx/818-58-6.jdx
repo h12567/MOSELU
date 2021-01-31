@@ -1,0 +1,43 @@
+##TITLE=Library Entry 21363
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=3-Pentenoic acid, methyl ester
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=818-58-6
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    15        209
+    16          3
+    27        219
+    28          5
+    29        289
+    30          7
+    39        159
+    40          5
+    53        109
+    54        139
+    55        999
+    56         45
+    57          1
+    59        339
+    60          8
+    61          1
+    72        129
+    73          5
+    74          1
+    82        109
+    83        103
+    84          6
+    85          1
+    99         39
+   100          2
+   114        359
+   115         25
+   116          2

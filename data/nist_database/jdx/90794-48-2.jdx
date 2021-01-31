@@ -1,0 +1,25 @@
+##TITLE=Library Entry 97662
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.-J.Bobenrieth ET AL,Org.Mass Spectr.,24,963(1989)
+##NAMES=HP
+##CAS NAME=4-(2-Chloroethyl)-styrene
+##MOLFORM=C10H11Cl
+##CAS REGISTRY NO=90794-48-2
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    39         14
+    51         18
+    65         12
+    91         48
+   115         98
+   116         30
+   117        999
+   118         93
+   166        300
+   168        104

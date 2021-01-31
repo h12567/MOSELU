@@ -1,0 +1,42 @@
+##TITLE=Library Entry 52706
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Butyl-1H-1,2,4-triazole
+##MOLFORM=C6H11N3
+##CAS REGISTRY NO=6086-22-2
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    15         76
+    18        208
+    27        267
+    28        444
+    29        372
+    30         67
+    39        708
+    40         94
+    41        449
+    42        154
+    43        140
+    55        590
+    56        635
+    57         44
+    69        231
+    70        813
+    71         35
+    82        663
+    83        999
+    84         94
+    96        104
+    97        254
+    98         13
+   110         26
+   124        254
+   125        510
+   126         31

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 62558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=p-Toluenesulfonylacetonitrile
+##MOLFORM=C9H9NO2S
+##CAS REGISTRY NO=5697-44-9
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    12          7
+    13          9
+    16          8
+    17          9
+    26          7
+    27         32
+    28         13
+    32          1
+    38         30
+    39        164
+    40         78
+    41         47
+    44         12
+    45         18
+    48         21
+    50         49
+    51         59
+    52         23
+    53         12
+    61         15
+    62         49
+    63        116
+    64         44
+    65        345
+    66         22
+    69         17
+    74         14
+    75         11
+    77         41
+    78         14
+    85         10
+    86          9
+    89         92
+    91        999
+    92         83
+   139         13
+   155        394
+   156         37
+   157         19
+   195         48
+   196          7

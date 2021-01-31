@@ -1,0 +1,43 @@
+##TITLE=Library Entry 33250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 16
+##NAMES=HP
+##CAS NAME=Furan
+##MOLFORM=C4H4O
+##CAS REGISTRY NO=110-00-9
+##MP= -300
+##BP= -300
+##MW= 68
+##$RETENTION INDEX=494
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          7
+    14         14
+    17          2
+    18          8
+    25          8
+    26         16
+    27          6
+    28         52
+    29        102
+    32         14
+    34         27
+    36         11
+    37         79
+    38        132
+    39        959
+    40        131
+    41          7
+    42         77
+    43          6
+    49          6
+    50          6
+    51          1
+    66          1
+    67          5
+    68        999
+    69         42
+    70          1

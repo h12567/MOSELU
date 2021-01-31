@@ -1,0 +1,65 @@
+##TITLE=Library Entry 46398
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propene(dithioic) acid, 3-(4-bromophenyl)-3-hydroxy-, methyl es
+ter
+##MOLFORM=C10H9BrOS2
+##CAS REGISTRY NO=56247-41-7
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    46         80
+    47        180
+    48        120
+    50        629
+    57        210
+    58        290
+    59        100
+    61        270
+    62         70
+    63        150
+    67         60
+    69        100
+    73         90
+    74        430
+    75        959
+    76        999
+    77        280
+    85        969
+    86         90
+    87         80
+    89        210
+    91        170
+    93         70
+   101         90
+   102        120
+   104        150
+   105        200
+   131         60
+   132        240
+   155        969
+   156        100
+   157        949
+   158        100
+   162        949
+   164         80
+   183        989
+   184        170
+   185        979
+   186        170
+   241        959
+   242        160
+   243        949
+   244        150
+   245         70
+   288        529
+   289        100
+   290        539
+   291         80
+   292         60

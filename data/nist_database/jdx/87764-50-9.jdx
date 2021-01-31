@@ -1,0 +1,81 @@
+##TITLE=Library Entry 41440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. POLLITT,UNIV. DEP. PSYCHIATRY,MIDDLEWOOD HOSP.,SHEFF
+IELD,UK
+##NAMES=HP
+##CAS NAME=2,3-Dimethyl-3-hydroxyglutaric acid, 3TMS derivative
+##MOLFORM=C16H36O5Si3
+##CAS REGISTRY NO=87764-50-9
+##MP= -300
+##BP= -300
+##MW= 392
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    69         37
+    72         20
+    73        999
+    74         82
+    75        565
+    76         33
+    77        146
+    79         21
+    85         26
+    99         15
+   100          3
+   101          3
+   103          4
+   105          3
+   113         11
+   115        161
+   116         10
+   117         48
+   118          2
+   119          4
+   123         25
+   128          3
+   129         81
+   130         15
+   131         39
+   132          4
+   133         50
+   134          2
+   135          2
+   143          9
+   147        303
+   148         41
+   149         42
+   150          2
+   157          8
+   159          3
+   163         16
+   169          2
+   171          2
+   184          3
+   185          9
+   189          4
+   191          4
+   197          3
+   203         37
+   204          7
+   205          5
+   207          2
+   212          3
+   213         36
+   218         37
+   219          4
+   231         28
+   232          3
+   245         28
+   246          3
+   247        254
+   248         44
+   249         14
+   261         70
+   262          6
+   263          2
+   287         37
+   288          3
+   377         12

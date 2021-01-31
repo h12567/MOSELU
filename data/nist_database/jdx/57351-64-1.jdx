@@ -1,0 +1,36 @@
+##TITLE=Library Entry 87031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=6-Ethoxycarbonyl-7-oxo-4,7-dihydro-[1,2,4]triazolo(3,4-c)[1,2,4]t
+riazine
+##MOLFORM=C7H7N5O3
+##CAS REGISTRY NO=57351-64-1
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    40        152
+    41        257
+    42        550
+    43        187
+    44        251
+    53        530
+    54        781
+    55        221
+    67         90
+    68        210
+    69        521
+   109        161
+   110        999
+   111         99
+   123         59
+   136         69
+   137        168
+   164        141
+   181         89
+   209        169

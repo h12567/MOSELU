@@ -1,0 +1,47 @@
+##TITLE=Library Entry 49648
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octanone
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=2716-23-6
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    40         20
+    41        180
+    42         10
+    44         20
+    50         10
+    51         20
+    52         10
+    53         70
+    54        290
+    55        160
+    56         10
+    63         10
+    65         10
+    66         20
+    67        270
+    68        110
+    69         10
+    70         20
+    77         20
+    78         50
+    79         80
+    80        999
+    81        210
+    82         50
+    83         10
+    91         20
+    92         10
+    95         40
+    96         10
+   124        300
+   125         20

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 54383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Daly, M. Garraffo, T. Spande, LBC, NIDDK, NIH, Bethe
+sda, MD 20892
+##NAMES=HP
+##CAS NAME=(1S,9aS,Z)-3-((2R)-5-Hydroxy-2-methylhexylidene)-1-methyloctahydr
+o-1H-quinolizin-1-ol
+##MOLFORM=C17H31NO2
+##CAS REGISTRY NO=1049704-94-0
+##MP= -300
+##BP= -300
+##MW= 281
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    43        256
+    44         36
+    45         90
+    56         77
+    84        999
+    85        231
+    86        166
+    98        198
+    99         40
+   107         22
+   120         18
+   122         27
+   126         75
+   134         29
+   136         29
+   148         28
+   150         37
+   162         90
+   164         58
+   180        875
+   181        114
+   190         28
+   208         54
+   236         45
+   238         36
+   239          6
+   248         16
+   266         19
+   280         14
+   281         39
+   282          9

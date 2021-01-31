@@ -1,0 +1,69 @@
+##TITLE=Library Entry 5106
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7215
+##NAMES=HP
+##CAS NAME=Quinuclidine
+##MOLFORM=C7H13N
+##CAS REGISTRY NO=100-76-5
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    15         21
+    26          9
+    27         75
+    28         53
+    29         47
+    30         19
+    37          2
+    38          5
+    39         65
+    40         12
+    41        107
+    42        999
+    43         51
+    44         11
+    46          1
+    47          2
+    48          6
+    50          7
+    51         10
+    52          9
+    53         37
+    54         58
+    55        196
+    56         60
+    57         87
+    58          9
+    63          1
+    65          5
+    66          3
+    67         19
+    68         54
+    69        125
+    70         24
+    71          3
+    77          3
+    78          1
+    79          9
+    80          9
+    81         23
+    82        312
+    83        133
+    84         15
+    93          1
+    94          4
+    95          4
+    96        196
+    97         15
+    98          1
+   108          5
+   109          2
+   110        177
+   111        325
+   112         26
+   113          1

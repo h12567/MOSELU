@@ -1,0 +1,77 @@
+##TITLE=Library Entry 31033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=8-Thiabicyclo[3.2.1]octan-3-ol, 6-methoxy-
+##MOLFORM=C8H14O2S
+##CAS REGISTRY NO=54725-51-8
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    41        588
+    42         80
+    43        227
+    44         36
+    45        580
+    46         29
+    47        102
+    51         36
+    53        154
+    54         73
+    55        235
+    56         36
+    57        205
+    58        183
+    59        191
+    60        999
+    61        125
+    62         51
+    65         51
+    66         22
+    67         51
+    69         51
+    71        235
+    72        102
+    73         66
+    74         22
+    75         22
+    77         44
+    79         58
+    80         29
+    81         73
+    82         22
+    83        125
+    84         36
+    85        176
+    86         29
+    87         73
+    88        235
+    89         36
+    90         58
+    91         36
+    97        147
+    98         58
+    99         44
+   103         22
+   109         58
+   113         51
+   114         44
+   115         66
+   116        735
+   117         44
+   118         29
+   123         14
+   124         36
+   141         66
+   142        110
+   143         22
+   156         36
+   174        338
+   175         36
+   176         14

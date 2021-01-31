@@ -1,0 +1,52 @@
+##TITLE=Library Entry 62908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a, Ukraine
+##NAMES=HP
+##CAS NAME=1H-1,2,3-Triazolo[4,5-d]pyrimidine-5,7(4H,6H)-dione, 1-benzyl-4-(
+2-hydroxyethyl)-
+##MOLFORM=C13H13N5O3
+##CAS REGISTRY NO=321945-78-2
+##MP= -300
+##BP= -300
+##MW= 287
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    51         29
+    55         22
+    57         17
+    63         29
+    65        149
+    66         17
+    69         27
+    70         25
+    73         21
+    77         18
+    84         15
+    89         47
+    90         33
+    91        999
+    92         89
+    97        202
+   104         21
+   112         16
+   116         21
+   117         29
+   118         24
+   168        413
+   169         39
+   213         41
+   214         27
+   215         21
+   216         32
+   243         22
+   244         84
+   257         42
+   258         25
+   271         25
+   272          3
+   287        117
+   288         19

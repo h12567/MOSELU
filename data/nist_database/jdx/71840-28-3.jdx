@@ -1,0 +1,29 @@
+##TITLE=Library Entry 82286
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 14(5)286(1979); T. L. FOLK ET AL.
+##NAMES=HP
+##CAS NAME=Phenol, 2-[[2-(benzoyloxy)-3-(1,1-dimethylethyl)-5-methylphenyl]m
+ethyl]-6-(1,1-dimethylethyl)-4-methyl-
+##MOLFORM=C30H36O3
+##CAS REGISTRY NO=71840-28-3
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41         30
+    57         70
+    77        180
+   105        999
+   106         80
+   161         70
+   177         40
+   265         30
+   339        110
+   340         30
+   426        390
+   427        130
+   444         70

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 62605
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Acetic acid, [(4-methylphenyl)sulfonyl]-, methyl ester
+##MOLFORM=C10H12O4S
+##CAS REGISTRY NO=50397-64-3
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39         31
+    41         13
+    42         17
+    45         12
+    51         18
+    63         36
+    64         13
+    65        206
+    66         13
+    67         10
+    77         49
+    78         17
+    79         26
+    89         78
+    90         38
+    91        999
+    92        102
+   105        199
+   106         20
+   107         35
+   108         20
+   111         12
+   121         12
+   122         11
+   139         47
+   155        583
+   156         58
+   157         32
+   164        273
+   165         31
+   169         15
+   186         97
+   187         10
+   197         32
+   228         56

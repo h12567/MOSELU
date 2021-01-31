@@ -1,0 +1,78 @@
+##TITLE=Library Entry 86161
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,2,3,1',2',3'-Hexamethyl-bicyclopentyl-2,2'-diene
+##MOLFORM=C16H26
+##CAS REGISTRY NO=51999-35-0
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         40
+    28          0
+    29         40
+    30          4
+    38          4
+    39         55
+    40         11
+    41        139
+    42         11
+    43         93
+    44          6
+    50          7
+    51         21
+    52         10
+    53         51
+    54          8
+    55         96
+    56          9
+    57          5
+    58          4
+    60          3
+    62          4
+    63          9
+    64          6
+    65         31
+    66         10
+    67        237
+    68         18
+    69         29
+    70          4
+    71          4
+    72          4
+    74          4
+    75          4
+    76          4
+    77         72
+    78         15
+    79         60
+    80         11
+    81         72
+    82         10
+    83          4
+    85          4
+    89          4
+    91         69
+    92         12
+    93         98
+    94         29
+    95         21
+    96          6
+    97          4
+   102          4
+   103          7
+   104          6
+   105         32
+   106         11
+   107         28
+   108        186
+   109        999
+   110        254
+   111         14
+   218          2

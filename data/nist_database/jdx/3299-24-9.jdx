@@ -1,0 +1,27 @@
+##TITLE=Library Entry 15863
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. STUCKEY AEROSPACE CORPORATION, LOS ANGELES, CALIFORN
+IA
+##NAMES=HP
+##CAS NAME=Carbonofluoridic acid, trifluoromethyl ester
+##MOLFORM=C2F4O2
+##CAS REGISTRY NO=3299-24-9
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    12         51
+    19          7
+    28        237
+    44        999
+    47        399
+    50        180
+    66        281
+    69        362
+    85        400
+   113          6
+   132         12

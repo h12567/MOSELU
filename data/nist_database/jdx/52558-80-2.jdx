@@ -1,0 +1,42 @@
+##TITLE=Library Entry 43557
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. BIRKOFER
+##NAMES=HP
+##CAS NAME=L-Alanine, N-(trifluoroacetyl)-, trimethylsilyl ester
+##MOLFORM=C8H14F3NO3Si
+##CAS REGISTRY NO=52558-80-2
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    42         15
+    55         15
+    70        128
+    72         37
+    73        999
+    74         80
+    75        102
+    77         67
+    78         50
+    93         30
+   102         30
+   117         40
+   120         60
+   121        530
+   122         22
+   129         55
+   140         40
+   143         20
+   144         35
+   164         86
+   170         28
+   213        310
+   214         50
+   215         15
+   242        665
+   243         83
+   244         31

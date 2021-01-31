@@ -1,0 +1,55 @@
+##TITLE=Library Entry 66570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.RUCKER WILHELMS-UNIV., MUNSTER, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=2,6,10-Cyclotetradecatrien-1-ol, 3,7,11-trimethyl-14-(1-methyleth
+yl)-
+##MOLFORM=C20H34O
+##CAS REGISTRY NO=39012-00-5
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    41        350
+    43        300
+    55        350
+    59        380
+    67        300
+    69        830
+    79        480
+    81        500
+    83        170
+    91        690
+    93        999
+    95        380
+   105        640
+   107        590
+   109        380
+   121        560
+   131        380
+   133        850
+   136        380
+   145        350
+   147        470
+   149        380
+   161        450
+   173        250
+   175        170
+   177        290
+   187        420
+   189        500
+   199        520
+   203        250
+   205        210
+   216        400
+   229        250
+   243         50
+   244         50
+   257        480
+   272        590
+   275         80
+   290        200

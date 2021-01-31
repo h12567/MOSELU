@@ -1,0 +1,84 @@
+##TITLE=Library Entry 97526
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=Benzenepropanol, .alpha.-methyl-, acetate
+##MOLFORM=C12H16O2
+##CAS REGISTRY NO=10415-88-0
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=1399
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          1
+    27          9
+    28          2
+    29          5
+    31          1
+    38          2
+    39         25
+    40          3
+    41         11
+    42          8
+    43        276
+    44          7
+    45         13
+    50          9
+    51         33
+    52          9
+    53          7
+    54         14
+    55          7
+    56          1
+    58          2
+    59          1
+    60          1
+    61          5
+    62          4
+    63         18
+    64          6
+    65         71
+    66          5
+    71          1
+    74          3
+    75          4
+    76          5
+    77         60
+    78         50
+    79         30
+    80          2
+    86          1
+    87          6
+    88          1
+    89         19
+    90          8
+    91        364
+    92         45
+    93          2
+   101          1
+   102          7
+   103         35
+   104         41
+   105         66
+   106          6
+   107          4
+   108          1
+   115         73
+   116         22
+   117        999
+   118        103
+   119          4
+   127          2
+   128          6
+   129          9
+   130          4
+   131         94
+   132        504
+   133         59
+   134          4
+   148          2
+   149          5

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 8950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pentane, 2,3,4-trimethyl-
+##MOLFORM=C8H18
+##CAS REGISTRY NO=565-75-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=753
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         17
+    16          0
+    27        171
+    28         27
+    29        113
+    30          3
+    37          2
+    39        136
+    40         31
+    41        317
+    42         97
+    43        999
+    44         34
+    50          4
+    51         13
+    52          5
+    53         35
+    54          2
+    55        211
+    56         32
+    57        163
+    58          7
+    63          2
+    65          5
+    67         10
+    70        453
+    71        571
+    72         28
+    77          2
+    79          2
+    83          7
+   114          4

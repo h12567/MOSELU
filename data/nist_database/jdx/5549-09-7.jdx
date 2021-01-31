@@ -1,0 +1,45 @@
+##TITLE=Library Entry 48896
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Pentalene, 1,2,3,3a,4,6a-hexahydro-
+##MOLFORM=C8H12
+##CAS REGISTRY NO=5549-09-7
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=850
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         85
+    28         35
+    29          5
+    38          8
+    39        206
+    40         27
+    41        106
+    50         21
+    51         62
+    52         52
+    53         40
+    54         14
+    62          0
+    63         15
+    65         75
+    66        264
+    67        264
+    68          6
+    77        200
+    78         90
+    79        999
+    80        599
+    81         32
+    91         68
+    93        225
+    94          8
+   107          8
+   108        278
+   109         14

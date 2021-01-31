@@ -1,0 +1,39 @@
+##TITLE=Library Entry 14761
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Lanthanum, tris(2,4-pentanedionato-O,O')-, (OC-6-11)-
+##MOLFORM=C15H21LaO6
+##CAS REGISTRY NO=14284-88-9
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        109
+    42        109
+    43        999
+    44         39
+    57         47
+    58         39
+    59        109
+    69         19
+    85        227
+    94         19
+    96         19
+   100        305
+   108         19
+   143         31
+   155         70
+   161         19
+   167         19
+   237         39
+   257         98
+   337         70
+   338        823
+   339         86
+   436        321
+   437         47

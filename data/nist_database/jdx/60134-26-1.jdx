@@ -1,0 +1,31 @@
+##TITLE=Library Entry 72119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.M. ORTUNO, DEP. QUIM. ORG., BARCELONA UNIV., SPAIN
+##NAMES=HP
+##CAS NAME=.alpha.,.beta.-Methyl-2-deoxy-D-ribofuranoside
+##MOLFORM=C6H12O4
+##CAS REGISTRY NO=60134-26-1
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    29        200
+    31        200
+    43        400
+    44        190
+    45        510
+    57        380
+    58        250
+    59        600
+    60        620
+    61        640
+    69        240
+    71        520
+    73        500
+    88        440
+    99        999
+   117        340

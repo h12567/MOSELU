@@ -1,0 +1,45 @@
+##TITLE=Library Entry 95409
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzo[b]selenophene, 3-methyl-
+##MOLFORM=C9H8Se
+##CAS REGISTRY NO=24617-20-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    63        186
+    73          2
+    74         46
+    75         40
+    76         17
+    89        175
+    90         26
+    98         55
+   111         15
+   112         20
+   113         71
+   114         62
+   115        999
+   116        217
+   117         84
+   118          8
+   119         13
+   167         13
+   168         15
+   169          8
+   170         11
+   191        120
+   192        184
+   193        331
+   194        571
+   195        444
+   196        626
+   197        177
+   198        124
+   199         33

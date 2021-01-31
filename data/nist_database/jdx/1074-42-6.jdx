@@ -1,0 +1,36 @@
+##TITLE=Library Entry 4985
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Aziridine, 1-(phenylmethyl)-
+##MOLFORM=C9H11N
+##CAS REGISTRY NO=1074-42-6
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27         26
+    28         32
+    40         62
+    41         47
+    42        999
+    43         37
+    50         34
+    51         69
+    56         27
+    63         44
+    65        140
+    77         65
+    78         33
+    89         38
+    91        748
+    92         63
+   104         52
+   105         47
+   132        209
+   133        165
+   134         15

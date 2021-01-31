@@ -1,0 +1,61 @@
+##TITLE=Library Entry 41706
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-methyl-3-(trimethylsilyl)-, methyl ester
+##MOLFORM=C8H18O2Si
+##CAS REGISTRY NO=18388-42-6
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    39         29
+    41         49
+    42         59
+    43        108
+    44         49
+    45        138
+    46         19
+    47         19
+    50         19
+    53         19
+    55        247
+    56         29
+    57         29
+    58         69
+    59        237
+    60         29
+    61         29
+    69         49
+    70        297
+    71         39
+    72         49
+    73        999
+    74         99
+    75         69
+    85         39
+    89        940
+    90         89
+    91         49
+    99         19
+   100         19
+   101         29
+   103         19
+   105         89
+   106         19
+   115         99
+   116         19
+   131         29
+   143         19
+   145         19
+   146         39
+   159        732
+   160        108
+   161         39
+   173          3
+   174          4

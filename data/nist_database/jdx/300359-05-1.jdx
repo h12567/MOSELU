@@ -1,0 +1,57 @@
+##TITLE=Library Entry 83264
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Benzyl-(6-methyl-2-phenylpyrimidin-4-yl)-amine
+##MOLFORM=C18H17N3
+##CAS REGISTRY NO=300359-05-1
+##MP= -300
+##BP= -300
+##MW= 275
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    50         11
+    51         55
+    52         29
+    54         12
+    63         23
+    65        106
+    66         71
+    67        157
+    74         19
+    75         10
+    76         65
+    77        156
+    78         45
+    79         77
+    89         33
+    91        319
+    92         26
+   102         32
+   103        125
+   104        796
+   105         95
+   106        999
+   107        101
+   114         14
+   116         27
+   128         34
+   129        168
+   130         76
+   131          5
+   141         13
+   169        184
+   170        417
+   171        152
+   172         24
+   198         48
+   199         17
+   260         12
+   273         24
+   274        346
+   275        906
+   276        195
+   277         26

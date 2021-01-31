@@ -1,0 +1,31 @@
+##TITLE=Library Entry 90878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thioimidodiphosphoryl chloride fluoride (Cl2P(S)NHP(O)F2), methyl
+-
+##MOLFORM=CH3Cl2F2NOP2S
+##CAS REGISTRY NO=41006-37-5
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    47        110
+    50         40
+    60        170
+    63        370
+    69        519
+    85        160
+   101        170
+   114        999
+   128        220
+   130        330
+   133        170
+   134        220
+   163        240
+   212        160
+   247        150

@@ -1,0 +1,49 @@
+##TITLE=Library Entry 32065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Ethyl bicyclo[2.2.1]-2-heptene
+##MOLFORM=C9H14
+##CAS REGISTRY NO=15403-89-1
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          5
+    27         40
+    28         17
+    29         18
+    38         11
+    39        103
+    40         32
+    41         46
+    42          3
+    50         15
+    51         36
+    52         14
+    53         24
+    54          3
+    55         12
+    62          6
+    63         18
+    65        114
+    66        999
+    67         79
+    68          3
+    77         75
+    78         24
+    79         70
+    80         22
+    81          7
+    91         54
+    92          9
+    93         26
+    94          6
+   107          4
+   122         46
+   123          5

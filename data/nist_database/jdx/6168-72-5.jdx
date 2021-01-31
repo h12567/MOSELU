@@ -1,0 +1,42 @@
+##TITLE=Library Entry 15090
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Propanol, 2-amino-, (.+/-.)-
+##MOLFORM=C3H9NO
+##CAS REGISTRY NO=6168-72-5
+##MP= -300
+##BP= -300
+##MW= 75
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    13          6
+    14         17
+    15         68
+    16          5
+    17         30
+    18        244
+    26         28
+    27         68
+    28         94
+    29         87
+    30         66
+    31         63
+    38         11
+    39         23
+    40         25
+    41         65
+    42        183
+    43         86
+    44        999
+    45         45
+    55          6
+    56         19
+    57         14
+    58          7
+    59          9
+    60         35
+    74          6

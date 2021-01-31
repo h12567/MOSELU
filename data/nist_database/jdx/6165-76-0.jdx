@@ -1,0 +1,62 @@
+##TITLE=Library Entry 59689
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=2-Propyn-1-ol, 4-methylbenzenesulfonate
+##MOLFORM=C10H10O3S
+##CAS REGISTRY NO=6165-76-0
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1666
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         10
+    37          3
+    38         30
+    39        185
+    40          3
+    41         23
+    43          3
+    44         23
+    50         10
+    51         37
+    52         10
+    53         10
+    55         16
+    62         10
+    63         50
+    64         16
+    65        212
+    66          3
+    77         37
+    78         10
+    79         16
+    89         57
+    90         30
+    91        999
+    92        205
+    93         10
+   102         10
+   107         16
+   108         10
+   115         43
+   116         30
+   117         50
+   118        124
+   119         16
+   129         23
+   130        144
+   131         43
+   139        198
+   140         16
+   141         16
+   145         23
+   155        178
+   156         30
+   157         16
+   210        131
+   211         23

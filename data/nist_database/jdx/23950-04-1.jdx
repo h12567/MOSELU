@@ -1,0 +1,61 @@
+##TITLE=Library Entry 54267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Deutsch ET AL.J.Chromatogr.,579,93(1992)
+##NAMES=HP
+##CAS NAME=Pyridine, 2-(1-methyl-2-pyrrolidinyl)-
+##MOLFORM=C10H14N2
+##CAS REGISTRY NO=23950-04-1
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=1354
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    51         60
+    52         23
+    53         10
+    54         10
+    55         30
+    56         13
+    63         33
+    64         17
+    65         57
+    66         23
+    67         17
+    68         10
+    69         53
+    76          7
+    77         27
+    78         47
+    79         23
+    80         17
+    81         17
+    82         60
+    84        999
+    85         67
+    89         17
+    90         17
+    91         37
+    92         73
+    93         17
+    99         17
+   104         23
+   105         30
+   106         23
+   107         17
+   117         43
+   118         60
+   119         93
+   120         23
+   130         53
+   131         47
+   133        350
+   134         43
+   145         13
+   147          7
+   159         20
+   161        193
+   162        190
+   163         27

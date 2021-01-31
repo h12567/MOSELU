@@ -1,0 +1,31 @@
+##TITLE=Library Entry 17978
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Trivinylphosphine oxide
+##MOLFORM=C6H9OP
+##CAS REGISTRY NO=13699-67-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    47        999
+    48        249
+    49        358
+    54        218
+    55        138
+    57        292
+    71         89
+    74         78
+    75        216
+    83        219
+    84         88
+    85        180
+   100         79
+   101         89
+   103         69
+   128        129

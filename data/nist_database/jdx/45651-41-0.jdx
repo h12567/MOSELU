@@ -1,0 +1,37 @@
+##TITLE=Library Entry 4829
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(12)1111(1975); H. ACHENBACH
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane, 4-methyl-
+##MOLFORM=C8H15N
+##CAS REGISTRY NO=45651-41-0
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39        125
+    40         40
+    41         29
+    42        999
+    43         56
+    53         83
+    54         40
+    55        167
+    56         80
+    57        153
+    67         56
+    68        125
+    69        334
+    70         80
+    82        153
+    96        334
+    97        187
+   110        292
+   111         40
+   124         50
+   125        290
+   126         40

@@ -1,0 +1,28 @@
+##TITLE=Library Entry 46936
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-(4-Methoxyphenyl)ethenyl)-pyrrolidin-2,5-dione
+##MOLFORM=C13H13NO3
+##CAS REGISTRY NO=181827-91-8
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    77        999
+    81        379
+    85          9
+    86         10
+    87        169
+    89        119
+   100         39
+   102        170
+   103        168
+   104        745
+   116        578
+   160         49
+   175        487

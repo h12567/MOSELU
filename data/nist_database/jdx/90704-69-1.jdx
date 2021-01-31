@@ -1,0 +1,45 @@
+##TITLE=Library Entry 28728
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.BARTLEY,DEP. CHEM.,QUEENSLAND INST. TECHNOL.,BRISBANE
+,AUST.
+##NAMES=HP
+##CAS NAME=2,3-Dimethoxy-N,N-dimethylbenzylamine
+##MOLFORM=C11H17NO2
+##CAS REGISTRY NO=90704-69-1
+##MP= -300
+##BP= -300
+##MW= 195
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         83
+    42        200
+    43         61
+    44        225
+    46        256
+    51         60
+    57         36
+    58        999
+    59         43
+    65        100
+    77         59
+    78         38
+    91        259
+   106         46
+   121         71
+   122         46
+   133         40
+   135         48
+   136        232
+   137         59
+   149         38
+   150        154
+   151        115
+   152         92
+   164         57
+   180         84
+   194         75
+   195        133
+   196         16

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 34942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Heptanol, 2-methyl-
+##MOLFORM=C8H18O
+##CAS REGISTRY NO=21570-35-4
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         38
+    18         18
+    19         13
+    27        305
+    28         83
+    29        262
+    30         13
+    31        124
+    32          6
+    38         20
+    39        223
+    40         52
+    41        575
+    42        112
+    43        787
+    44        164
+    45        422
+    46         12
+    51         12
+    52          8
+    53         47
+    54          8
+    55        907
+    56        131
+    57        197
+    58         39
+    59         14
+    65          7
+    67         22
+    69        999
+    70         84
+    71         73
+    72         91
+    73        607
+    74         32
+    83          9
+    84         12
+    85         25
+    86         47
+    87        380
+    88         24
+    97         14
+   112         40

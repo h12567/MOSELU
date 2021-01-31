@@ -1,0 +1,61 @@
+##TITLE=Library Entry 73222
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.A.BALDWIN UNIVERSITY COLLEGE, LONDON, UK
+##NAMES=HP
+##CAS NAME=Urea, 3-(2-chloro-p-tolyl)-1,1-diethyl-
+##MOLFORM=C12H17ClN2O
+##CAS REGISTRY NO=15441-96-0
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    28        135
+    29        249
+    30        122
+    32         21
+    36         36
+    38         13
+    39         26
+    41         20
+    42         56
+    44        144
+    50         25
+    51         56
+    52         28
+    55         14
+    56         46
+    58        201
+    62         11
+    63         21
+    70         14
+    72        574
+    73         36
+    75         17
+    76         22
+    77        118
+    78         32
+    89         15
+    91         13
+   100        999
+   101         63
+   102         22
+   104         55
+   106         26
+   113         59
+   132        198
+   133         31
+   140         47
+   141         62
+   166         38
+   167        163
+   168         35
+   169         54
+   205        331
+   206         52
+   240        176
+   241         75
+   242         59

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32942
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=6,9-Heptadecadiene
+##MOLFORM=C17H32
+##CAS REGISTRY NO=81265-03-4
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=1667
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    43        109
+    50          3
+    51          9
+    52          6
+    53         51
+    54        497
+    55        295
+    58          7
+    59          3
+    63          3
+    65         34
+    66         60
+    67        999
+    68        415
+    69        151
+    73         11
+    74          1
+    77         70
+    78         14
+    79        126
+    80         86
+    81        410
+    82        513
+    83         45
+    87          2
+    92          4
+    93         14
+    95        254
+    96        497
+   105          5
+   109        260
+   110        331
+   123         90
+   124        203
+   137         50
+   138        157
+   139          4
+   151         35
+   152         37
+   165          9
+   166         18
+   171          6
+   179          2
+   180          5
+   208          6
+   236        262
+   237         56

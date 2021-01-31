@@ -1,0 +1,41 @@
+##TITLE=Library Entry 71768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Pyridazine, 3,6-dichloro-4-methyl-
+##MOLFORM=C5H4Cl2N2
+##CAS REGISTRY NO=19064-64-3
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    37        300
+    38        300
+    39        750
+    40        110
+    47        100
+    49        130
+    50        100
+    51        160
+    52         90
+    60         80
+    61        150
+    62        200
+    63        420
+    64        150
+    73        340
+    74         70
+    75        110
+    84         80
+    97         70
+    99        999
+   100         60
+   101        270
+   134         60
+   136         40
+   162        260
+   164        180

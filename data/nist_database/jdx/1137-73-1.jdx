@@ -1,0 +1,77 @@
+##TITLE=Library Entry 61593
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N-Phenyliminodiacetic acid
+##MOLFORM=C10H11NO4
+##CAS REGISTRY NO=1137-73-1
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          5
+    14         31
+    15         63
+    16          6
+    18          2
+    26         12
+    27         44
+    28         64
+    29         11
+    30          4
+    32          2
+    37         13
+    38         32
+    39         76
+    40         24
+    41         84
+    42        177
+    43          6
+    44         30
+    45          3
+    46          4
+    47          2
+    49          6
+    50        109
+    51        239
+    52         41
+    53          7
+    54          2
+    59         23
+    61          5
+    62         14
+    63         42
+    64         24
+    65         82
+    66          8
+    67          1
+    73          5
+    74         31
+    75         20
+    76         26
+    77        253
+    78         43
+    79          8
+    89         15
+    91        999
+    92         84
+    93          2
+   104        123
+   105         64
+   106         15
+   107          5
+   116          1
+   117         12
+   118         49
+   119        276
+   120         25
+   163         20
+   164          2
+   191        219
+   192         23
+   193          2

@@ -1,0 +1,90 @@
+##TITLE=Library Entry 61215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 4-oxo-, phenylmethyl ester
+##MOLFORM=C12H14O3
+##CAS REGISTRY NO=6939-75-9
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=2526
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27         15
+    29          4
+    37          1
+    38          5
+    39         46
+    40          2
+    41         17
+    42         17
+    43        343
+    44          8
+    45          3
+    50         20
+    51         62
+    52         17
+    53          9
+    54          3
+    55         29
+    56         12
+    57         27
+    58         61
+    59          6
+    60          2
+    61          2
+    62          9
+    63         41
+    64         13
+    65        168
+    66          9
+    70          1
+    71         59
+    72         83
+    73          5
+    74          5
+    75          4
+    76          6
+    77         99
+    78         22
+    79        109
+    80          8
+    81          7
+    86          1
+    87          1
+    89         75
+    90         83
+    91        999
+    92         80
+    93          2
+    99        536
+   100         63
+   101          5
+   103          1
+   104         21
+   105         37
+   106          9
+   107        693
+   108        268
+   109         19
+   110          1
+   115          1
+   117          7
+   118          2
+   120        136
+   121         14
+   131          1
+   145          3
+   146          1
+   160          4
+   164          3
+   178         37
+   179          4
+   188          2
+   206         22
+   207          4

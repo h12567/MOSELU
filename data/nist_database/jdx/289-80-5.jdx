@@ -1,0 +1,49 @@
+##TITLE=Library Entry 49408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5023
+##NAMES=HP
+##CAS NAME=Pyridazine
+##MOLFORM=C4H4N2
+##CAS REGISTRY NO=289-80-5
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=915
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    12          6
+    13          5
+    14          2
+    15          2
+    24          7
+    25         40
+    26        233
+    27         48
+    28         50
+    29          3
+    36          9
+    37         31
+    38         21
+    39         14
+    40          5
+    41          2
+    44          2
+    48          5
+    49         22
+    50        160
+    51        410
+    52        363
+    53         34
+    54          2
+    56          1
+    62          1
+    63          1
+    76          4
+    77          7
+    78          8
+    79          4
+    80        999
+    81         56
+    82          2

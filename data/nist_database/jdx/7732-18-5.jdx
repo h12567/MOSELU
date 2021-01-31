@@ -1,0 +1,20 @@
+##TITLE=Library Entry 39
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Water
+##MOLFORM=H2O
+##CAS REGISTRY NO=7732-18-5
+##MP= -300
+##BP= -300
+##MW= 18
+##$RETENTION INDEX=317
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 5
+##XYDATA=(XY..XY) 1 
+    16          9
+    17        212
+    18        999
+    19          5
+    20          3

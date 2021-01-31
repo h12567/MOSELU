@@ -1,0 +1,44 @@
+##TITLE=Library Entry 15420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Szymanowski ET AL.J.Chromatogr., 351,183(1986)
+##NAMES=HP
+##CAS NAME=2-(Decylamino)ethanol, TMS derivative
+##MOLFORM=C15H35NOSi
+##CAS REGISTRY NO=102145-74-4
+##MP= -300
+##BP= -300
+##MW= 273
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29        217
+    30        176
+    39         61
+    41        292
+    42         97
+    43        379
+    44        999
+    45         77
+    46         13
+    47         20
+    55        118
+    56        138
+    57        115
+    58         41
+    59         54
+    68         26
+    69         59
+    73        248
+    74         41
+    75        128
+    84         31
+   102         31
+   116         31
+   130         90
+   146         46
+   170        376
+   184         17
+   258         28
+   273          8

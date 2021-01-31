@@ -1,0 +1,47 @@
+##TITLE=Library Entry 1221
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=N-(2-Thioethyl) N'-methyl urea
+##MOLFORM=C4H10N2OS
+##CAS REGISTRY NO=72545-68-7
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27         80
+    29         42
+    30        999
+    31         55
+    35         35
+    42         48
+    43         45
+    44        101
+    45         61
+    47         73
+    56         18
+    57         14
+    58        241
+    59         58
+    60         29
+    61         73
+    70          3
+    74          7
+    75        110
+    76         16
+    77         38
+    78          4
+    87        268
+    88         21
+   100          3
+   101         15
+   103          8
+   104          5
+   134        103
+   135         14
+   136          6
+   137          1

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 5848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=1-Heptanamine, N-heptyl-N-nitro-
+##MOLFORM=C14H30N2O2
+##CAS REGISTRY NO=55030-32-5
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    37         21
+    38         31
+    39        256
+    40        111
+    41        729
+    42        682
+    43        999
+    44        435
+    45         42
+    46          9
+    50         11
+    51         16
+    52          9
+    53         35
+    54         73
+    55        317
+    56        541
+    57        329
+    58         56
+    59         14
+    61         19
+    67         22
+    68         36
+    69         76
+    70        223
+    71         67
+    72         12
+    73          9
+    81         19
+    82         55
+    83         39
+    84        222
+    85        116
+    86         16
+    89         19
+    96         20
+    97         12
+    98        102
+    99         15
+   110          9
+   112         52
+   113         20
+   114          9
+   126        168
+   127         24
+   128         82
+   129         11
+   140         10
+   141         12
+   154         12
+   168         11
+   173         11
+   212        136
+   213         25

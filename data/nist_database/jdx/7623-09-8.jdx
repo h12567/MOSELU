@@ -1,0 +1,58 @@
+##TITLE=Library Entry 31500
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2369
+##NAMES=HP
+##CAS NAME=2-Chloropropionyl chloride
+##MOLFORM=C3H4Cl2O
+##CAS REGISTRY NO=7623-09-8
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=739
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    13          2
+    14          2
+    15          3
+    24          2
+    25         12
+    26         58
+    27        435
+    28         48
+    29          5
+    35         13
+    36         17
+    37          7
+    38          6
+    39          3
+    41          3
+    43          1
+    44          1
+    45          1
+    47          5
+    48          7
+    49          3
+    50          2
+    52          1
+    53          5
+    54          1
+    55         13
+    56         11
+    60          6
+    61         24
+    62         21
+    63        999
+    64         31
+    65        331
+    66          8
+    76          4
+    78          1
+    83          6
+    85          4
+    90          1
+    91        272
+    92          9
+    93         88
+    94          3

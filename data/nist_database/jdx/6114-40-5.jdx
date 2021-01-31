@@ -1,0 +1,50 @@
+##TITLE=Library Entry 3586
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,4-Dimethyl-2-thiazoline
+##MOLFORM=C5H9NS
+##CAS REGISTRY NO=6114-40-5
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    31         51
+    37         20
+    38         68
+    39        311
+    40        140
+    41        999
+    42        710
+    43        151
+    45        399
+    46        258
+    47         89
+    48         19
+    52         30
+    54         20
+    55         19
+    57         39
+    58        139
+    59        479
+    60         29
+    61         30
+    68        209
+    69        388
+    70         29
+    71         69
+    72         50
+    73        180
+    74        997
+    75         79
+    76         90
+    91         30
+    92         29
+   100         70
+   115        730
+   116         59
+   117         39

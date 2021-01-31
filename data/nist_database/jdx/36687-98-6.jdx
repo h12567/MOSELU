@@ -1,0 +1,28 @@
+##TITLE=Library Entry 40582
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.E. BUTLER, ESSO R. & E. CO., LINDEN, NEW JERSEY, USA
+##NAMES=HP
+##CAS NAME=2-Butanone, 3-methoxy-3-methyl-
+##MOLFORM=C6H12O2
+##CAS REGISTRY NO=36687-98-6
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    39        124
+    41        162
+    42         84
+    43        605
+    45         85
+    55         32
+    57         69
+    59         16
+    73        999
+    85         12
+    87          2
+   101         15
+   116          1

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 109277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2,3-Thiadiazolium, 3-(2-chloro-5-methylphenyl)-4-hydroxy-, hydr
+oxide, inner salt
+##MOLFORM=C9H7ClN2OS
+##CAS REGISTRY NO=32864-80-5
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39        140
+    45        160
+    50         40
+    51         60
+    62         50
+    63        170
+    73         60
+    75         50
+    89        390
+    90        120
+    99        140
+   101         40
+   125        999
+   126         90
+   127        330
+   153        370
+   155        130
+   191         60
+   226        120
+   228         40

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 21425
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Cyclopentadienylmanganesedicarbonylthiocarbonyl
+##MOLFORM=C8H5MnO2S
+##CAS REGISTRY NO=31741-76-1
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    55        999
+    56         39
+    65         39
+    66         49
+    80         89
+    81          9
+    82         39
+    83          9
+    92          9
+    93         59
+    99         89
+   100          9
+   120        999
+   121         69
+   164        489
+   165         49
+   166         29
+   192         29
+   220        249
+   221         29
+   222          9

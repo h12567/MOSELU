@@ -1,0 +1,64 @@
+##TITLE=Library Entry 67033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH P02140-
+4
+##NAMES=HP
+##CAS NAME=Carbamic acid, phenyl ester
+##MOLFORM=C7H7NO2
+##CAS REGISTRY NO=622-46-8
+##MP= -300
+##BP= -300
+##MW= 137
+##$RETENTION INDEX=2006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12         20
+    14         16
+    15         50
+    16         45
+    25         12
+    26         60
+    27         96
+    29        132
+    30         17
+    31         31
+    36         17
+    37         87
+    38        189
+    39        637
+    40        239
+    41         25
+    42         89
+    43        323
+    44        170
+    46          1
+    47         37
+    49         31
+    50        104
+    51        112
+    53         48
+    54          7
+    55        134
+    60         15
+    61         43
+    62         69
+    63        127
+    64         52
+    65        505
+    66        709
+    67         48
+    68         33
+    73         20
+    74         33
+    75         16
+    76          7
+    77         27
+    79          9
+    92          1
+    93         45
+    94        999
+    95        132
+    96         10
+   137         32

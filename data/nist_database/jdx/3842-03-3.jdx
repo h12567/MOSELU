@@ -1,0 +1,50 @@
+##TITLE=Library Entry 76312
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 1,1-diethoxy-3-methyl-
+##MOLFORM=C9H20O2
+##CAS REGISTRY NO=3842-03-3
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=955
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        165
+    28        136
+    29        357
+    30         17
+    31        174
+    41        296
+    42         39
+    43        367
+    44         98
+    45        349
+    46         47
+    47        676
+    55         45
+    56         13
+    57        103
+    58         27
+    59        157
+    60          7
+    61         13
+    69        342
+    70         35
+    71        648
+    72         50
+    73         45
+    75        537
+    83         10
+    85         28
+    86         14
+    87         75
+    99        222
+   103        999
+   114         87
+   115        412
+   131          4
+   159          3

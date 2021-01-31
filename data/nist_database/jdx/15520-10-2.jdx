@@ -1,0 +1,79 @@
+##TITLE=Library Entry 1219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=2-Methyl-1,5-pentanediamine
+##MOLFORM=C6H16N2
+##CAS REGISTRY NO=15520-10-2
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=897
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          5
+    16          1
+    17          8
+    18         93
+    19          0
+    26          3
+    27         26
+    28         71
+    29         23
+    30        999
+    31         24
+    32          5
+    35          6
+    36         42
+    37          2
+    38         17
+    39         28
+    40          5
+    41         90
+    42         83
+    43         93
+    44         25
+    45        137
+    46          3
+    47          2
+    50          1
+    51          2
+    52          2
+    53          8
+    54          9
+    55         36
+    56        147
+    57         24
+    58         15
+    59         21
+    60          0
+    65          2
+    66          1
+    67         18
+    68          7
+    69         32
+    70         78
+    71          5
+    72          4
+    73          3
+    77          0
+    79          3
+    80          1
+    81          4
+    82         15
+    83          3
+    84         17
+    85          1
+    86         17
+    87        152
+    88          8
+    94          0
+    96          2
+    97          5
+    98         12
+    99         35
+   100          9
+   101          0
+   117          2

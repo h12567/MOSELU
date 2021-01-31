@@ -1,0 +1,38 @@
+##TITLE=Library Entry 35529
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Nonen-4-one
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=32064-72-5
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1124
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27         80
+    28         20
+    29         60
+    39        150
+    40         30
+    41        290
+    42         30
+    43        100
+    53         20
+    55         70
+    58         30
+    69        999
+    70         50
+    71         20
+    83         20
+    84        470
+    85         50
+    97         50
+    99         20
+   111         20
+   125        100
+   140         20

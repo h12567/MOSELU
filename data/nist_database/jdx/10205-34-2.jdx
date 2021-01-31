@@ -1,0 +1,58 @@
+##TITLE=Library Entry 27747
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Methyl .beta.-dimethylaminoisobutyrate
+##MOLFORM=C7H15NO2
+##CAS REGISTRY NO=10205-34-2
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    15        101
+    16          1
+    18         11
+    26          5
+    27         27
+    28         36
+    29         29
+    30         60
+    31          6
+    32          1
+    37          1
+    38          3
+    39         26
+    40          8
+    41         43
+    42        138
+    43         33
+    44         32
+    45          9
+    52          1
+    53          1
+    54          2
+    55          9
+    56         19
+    58        999
+    59         52
+    60          1
+    68          5
+    69          6
+    70         13
+    71         12
+    72          2
+    73          1
+    74          1
+    86          9
+    88          5
+    89          3
+    96          9
+   100          2
+   102          1
+   114          1
+   126          1
+   130          2

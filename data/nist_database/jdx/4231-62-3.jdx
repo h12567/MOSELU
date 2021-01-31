@@ -1,0 +1,30 @@
+##TITLE=Library Entry 79598
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. OHASHI
+##NAMES=HP
+##CAS NAME=1H-Benzotriazole, 1-benzoyl-
+##MOLFORM=C13H9N3O
+##CAS REGISTRY NO=4231-62-3
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         89
+    50        120
+    51        357
+    63         86
+    64        116
+    77        860
+    78         65
+    90         51
+    92         89
+   105        999
+   106         82
+   167        111
+   195        491
+   196         72
+   223        123

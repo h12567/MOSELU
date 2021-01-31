@@ -1,0 +1,56 @@
+##TITLE=Library Entry 16194
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. HOURIET, INST. CHIM. PHYS., EPFL, LAUSANNE, SWITZ.
+##NAMES=HP
+##CAS NAME=2-(Dimethylamino)-1,3-dimethyltetrahydro-1,3,2-diazaphosphole 2-o
+xide
+##MOLFORM=C6H16N3OP
+##CAS REGISTRY NO=7778-06-5
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    28        103
+    30         14
+    32         24
+    41          8
+    42        242
+    43        123
+    44        999
+    45         36
+    46          7
+    47         37
+    56         17
+    57         77
+    58         41
+    60         16
+    75         53
+    76         22
+    78          4
+    83          6
+    85         43
+    86         11
+    87         38
+    88         23
+    90        127
+    91        188
+    92        198
+    93        104
+   104          5
+   116          9
+   117          4
+   119          6
+   121          6
+   131          4
+   132         15
+   133        599
+   134        352
+   135         30
+   175          3
+   176          2
+   177        528
+   178         35

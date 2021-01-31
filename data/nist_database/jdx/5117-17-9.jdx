@@ -1,0 +1,37 @@
+##TITLE=Library Entry 28026
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Selenourea, N,N-diethyl-
+##MOLFORM=C5H12N2Se
+##CAS REGISTRY NO=5117-17-9
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    26        127
+    27         81
+    28        605
+    29        283
+    30        538
+    32        306
+    40         23
+    41        219
+    42        279
+    43        324
+    44        805
+    55        390
+    56        282
+    57        224
+    58        999
+    98         31
+    99         14
+   100        338
+   176         16
+   178        205
+   179         25
+   180        512

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 86358
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Sci. & Tec. Lab., NIST, Gaithersburg, MD 20899
+##NAMES=HP
+##CAS NAME=1H-Pyrazole-4-carboxylic acid, 3-amino-
+##MOLFORM=C4H5N3O2
+##CAS REGISTRY NO=41680-34-6
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    41         41
+    42         40
+    43        104
+    44        161
+    45         80
+    49          7
+    50          6
+    51         59
+    52        550
+    53        273
+    54        195
+    55         31
+    56          3
+    57         12
+    58          2
+    64          2
+    65          5
+    66         12
+    67         19
+    68         25
+    69          4
+    70          2
+    71          6
+    77          2
+    80          8
+    81         44
+    83        281
+    84         52
+    86          2
+    93          1
+    97          1
+    98          1
+   107          2
+   108         25
+   109        999
+   110        263
+   111         13
+   112          1
+   126         27
+   127        672
+   128         91
+   129          2

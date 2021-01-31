@@ -1,0 +1,45 @@
+##TITLE=Library Entry 32820
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Cyclohexaneethanol, .beta.-methylene-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=7697-55-4
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    31        100
+    39        340
+    41        470
+    43        120
+    53        220
+    54        170
+    55        730
+    56        200
+    58        270
+    65        120
+    67        999
+    68        160
+    69        100
+    77        200
+    79        520
+    80        220
+    81        770
+    82        260
+    83        480
+    91        120
+    93        250
+    94        190
+    96        260
+    97        140
+    99        280
+   107        250
+   109        340
+   122        250
+   140         60

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 21919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Cyclopropylamine
+##MOLFORM=C3H7N
+##CAS REGISTRY NO=765-30-0
+##MP= -300
+##BP= -300
+##MW= 57
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          7
+    15         13
+    16          2
+    17          1
+    24          1
+    25          7
+    26         45
+    27         80
+    28        462
+    29        131
+    30        269
+    31          5
+    36          2
+    37         16
+    38         30
+    39        105
+    40         32
+    41         54
+    42         65
+    43          6
+    44          1
+    50          3
+    51         15
+    52         32
+    53          4
+    54         61
+    55          1
+    56        999
+    57        264
+    58          9

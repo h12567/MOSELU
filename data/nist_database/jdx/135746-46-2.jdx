@@ -1,0 +1,84 @@
+##TITLE=Library Entry 45736
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=Cyclopentanol O-tert-butyldimethylsilyl ether
+##MOLFORM=C11H24OSi
+##CAS REGISTRY NO=135746-46-2
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=1119
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    27          5
+    28          2
+    29         13
+    31          3
+    39         13
+    40          3
+    41         36
+    42          7
+    43         14
+    44          3
+    45         36
+    46          3
+    47         27
+    48          1
+    49          1
+    51          1
+    53          3
+    54          1
+    55          5
+    56          2
+    57         16
+    58         13
+    59         56
+    60         11
+    61         18
+    62          1
+    63          1
+    65          3
+    66          3
+    67         16
+    68          2
+    69          4
+    70          1
+    71          4
+    73        101
+    74         10
+    75        999
+    76         75
+    77         38
+    83          2
+    85         14
+    86          2
+    87          4
+    89          2
+    97          2
+    98          1
+    99         26
+   100          7
+   101         31
+   102          4
+   111          2
+   113         11
+   114          4
+   115         35
+   116          4
+   127          2
+   128          2
+   141          3
+   143        913
+   144        120
+   145         39
+   172          1
+   185         23
+   186          4
+   187          1
+   199          2
+   200         20
+   201          4
+   202          1

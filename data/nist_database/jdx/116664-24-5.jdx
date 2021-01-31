@@ -1,0 +1,72 @@
+##TITLE=Library Entry 40560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Allyl-3-(2-(allyldisulfanyl)propyl)trisulfane
+##MOLFORM=C9H16S5
+##CAS REGISTRY NO=116664-24-5
+##MP= -300
+##BP= -300
+##MW= 284
+##$RETENTION INDEX=2066
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         16
+    37          5
+    38         14
+    39        239
+    40         23
+    41        595
+    42         32
+    45        209
+    46         33
+    47         57
+    48          3
+    55         11
+    58         27
+    59         79
+    60         18
+    61         31
+    64         97
+    65         12
+    69         11
+    70          6
+    71         68
+    72         32
+    73        999
+    74        128
+    75         63
+    76          7
+    78         10
+    79         17
+    81         13
+    87          7
+    91         20
+    96         12
+    97         11
+    99         12
+   101         12
+   103         76
+   104        146
+   105        166
+   106         98
+   107         41
+   108          9
+   113         15
+   115         10
+   119          7
+   137        330
+   138        130
+   139         48
+   140         19
+   141          6
+   147         14
+   179        577
+   180         51
+   181         84
+   182          7
+   183          6
+   211          1

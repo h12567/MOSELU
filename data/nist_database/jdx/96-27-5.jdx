@@ -1,0 +1,80 @@
+##TITLE=Library Entry 29789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Monothioglycerol
+##MOLFORM=C3H8O2S
+##CAS REGISTRY NO=96-27-5
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          8
+    15        122
+    16          3
+    17          2
+    18          5
+    19         29
+    25          3
+    26         25
+    27        102
+    29        224
+    30         22
+    31        336
+    32         24
+    33         42
+    34         24
+    35         29
+    36          3
+    37          8
+    38         11
+    39         29
+    40          3
+    41         11
+    42         91
+    43        642
+    44        239
+    45        268
+    46        102
+    47        389
+    48        262
+    49         97
+    50         13
+    51          3
+    53          4
+    54          2
+    55         30
+    56         21
+    57        479
+    58         88
+    59        999
+    60        102
+    61        541
+    62         49
+    63          9
+    64          2
+    65          1
+    68          1
+    69          5
+    71         14
+    72         48
+    73         10
+    74         11
+    75          4
+    76         64
+    77        489
+    78         18
+    79         24
+    87          1
+    89         10
+    90        579
+    91         27
+    92         29
+    93          1
+   108          2
+   110          1

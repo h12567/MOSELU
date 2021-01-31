@@ -1,0 +1,30 @@
+##TITLE=Library Entry 100835
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.-G. Chai, Inst. Chem., Chinese Acad. Sci., Beijing, C
+hina
+##NAMES=HP
+##CAS NAME=2,3-Dihydro-2-methyl-4-(4-methylphenyl)-1H-1,5-benzodiazepine
+##MOLFORM=C17H18N2
+##CAS REGISTRY NO=115236-76-5
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    65        113
+    77         59
+    91        138
+    92         82
+   117        330
+   119        999
+   125         63
+   133        112
+   159         65
+   208        181
+   221         60
+   235        883
+   250        770
+   251        150

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 83944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=6-Amino-6-methylfulvene
+##MOLFORM=C7H9N
+##CAS REGISTRY NO=694-74-6
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        161
+    40         50
+    41         81
+    42        140
+    43         29
+    50         40
+    51         71
+    52         61
+    53         40
+    54         29
+    62         40
+    63         90
+    64         49
+    65        289
+    66        301
+    67         39
+    77        140
+    78         40
+    79        120
+    80         49
+    89         49
+    90         79
+    91         81
+    92        360
+    93         40
+   106        401
+   107        999
+   108         90

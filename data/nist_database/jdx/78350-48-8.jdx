@@ -1,0 +1,42 @@
+##TITLE=Library Entry 93091
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazan-3-amine, 4-methoxy-
+##MOLFORM=C3H5N3O2
+##CAS REGISTRY NO=78350-48-8
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    39         14
+    40         98
+    41         37
+    42        261
+    43        150
+    44         41
+    51          6
+    53        146
+    54        101
+    55         22
+    56         28
+    57        110
+    58        343
+    59          1
+    68          1
+    69         42
+    70         41
+    71         10
+    72          1
+    80          1
+    85        505
+    86         14
+   100         13
+   112          8
+   115        999
+   116         40
+   117          3

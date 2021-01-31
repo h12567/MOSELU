@@ -1,0 +1,80 @@
+##TITLE=Library Entry 56022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8598
+##NAMES=HP
+##CAS NAME=Triethylamine borane
+##MOLFORM=C6H18BN
+##CAS REGISTRY NO=1722-26-5
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    11          1
+    12          5
+    13         12
+    14          3
+    15         16
+    18         17
+    23          2
+    24          6
+    25          5
+    26         16
+    27        111
+    28        105
+    29        158
+    30        263
+    31          3
+    37          1
+    38          2
+    39         12
+    40         24
+    41         30
+    42        107
+    43         16
+    44        114
+    45          3
+    51          2
+    52          4
+    53         18
+    54         77
+    55         14
+    56         78
+    57         17
+    58        282
+    59          9
+    66          1
+    67          3
+    68         10
+    69         13
+    70         80
+    71         14
+    72         39
+    73          2
+    80          1
+    81         13
+    82         53
+    83         38
+    84        146
+    85         14
+    86        999
+    87         59
+    88          1
+    94          1
+    95          2
+    96          9
+    97          3
+    98         11
+    99          3
+   100        124
+   101        171
+   102         12
+   110          1
+   111          1
+   112          6
+   113         36
+   114        149
+   115          9

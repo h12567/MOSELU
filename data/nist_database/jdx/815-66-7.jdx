@@ -1,0 +1,70 @@
+##TITLE=Library Entry 57277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Pivaloin
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=815-66-7
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    15          5
+    18          0
+    19          2
+    26          3
+    27         70
+    28         19
+    29        197
+    30          8
+    31         14
+    38          2
+    39         70
+    40          9
+    41        325
+    42         25
+    43         96
+    44          5
+    45        164
+    46          3
+    50          0
+    51          2
+    53         12
+    54          2
+    55         33
+    56         20
+    57        491
+    58         24
+    59         30
+    60          0
+    65          0
+    67          7
+    69        427
+    70         44
+    71         35
+    72          6
+    73          1
+    83         41
+    84          2
+    85         33
+    86          2
+    87        999
+    88         54
+    89          3
+    97          2
+    98          1
+    99          1
+   100          0
+   101        205
+   102         11
+   103          0
+   115          6
+   116        144
+   117          9
+   144         85
+   145          7
+   172          5

@@ -1,0 +1,34 @@
+##TITLE=Library Entry 98704
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A.TASKER UNIV. OF CHICAGO, CHICAGO, ILLINOIS, USA
+##NAMES=HP
+##CAS NAME=Tetrabenzo[e,i,o,s][1,4,7,11,14,18]dithiatetraazacycloeicosine, 1
+1,12,13,14,26,27-hexahydro-
+##MOLFORM=C30H28N4S2
+##CAS REGISTRY NO=29423-82-3
+##MP= -300
+##BP= -300
+##MW= 508
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+   117        700
+   118        999
+   124        570
+   130        390
+   136        580
+   239        700
+   240        999
+   241        330
+   252        140
+   254        270
+   255        140
+   267        480
+   390        300
+   391        150
+   392         90
+   508        550
+   509        210
+   510        100

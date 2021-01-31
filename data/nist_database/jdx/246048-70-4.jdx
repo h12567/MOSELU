@@ -1,0 +1,39 @@
+##TITLE=Library Entry 83233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Furazan-3-carboxamide, 4-amino-, (3-pyridylcarbonyl)hydrazone
+##MOLFORM=C9H9N7O2
+##CAS REGISTRY NO=246048-70-4
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    46          4
+    50         15
+    51         29
+    53         23
+    66         17
+    69         13
+    78        456
+    79         26
+   104          6
+   106        999
+   107         41
+   120          5
+   144          6
+   146          6
+   172         15
+   187          4
+   189         22
+   190        105
+   217         69
+   230         94
+   244         10
+   246         32
+   247        895
+   248        109

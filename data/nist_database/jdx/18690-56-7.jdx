@@ -1,0 +1,55 @@
+##TITLE=Library Entry 63920
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, VOL.4, ATLAS OF MASS SPECTRA OF ORGANIC C
+OMPOUNDS
+##NAMES=HP
+##CAS NAME=2-Methyl-1-benzyltryptamine
+##MOLFORM=C18H20N2
+##CAS REGISTRY NO=18690-56-7
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         27
+    29         12
+    30         45
+    39         21
+    41         19
+    43         15
+    51         12
+    63         10
+    65         84
+    76         13
+    77         24
+    89         16
+    90         11
+    91        999
+    92         89
+   102         29
+   103         13
+   115         33
+   116         16
+   117         11
+   128         19
+   130         15
+   142         19
+   143         68
+   144         43
+   145         11
+   156         19
+   171         27
+   217         13
+   218         15
+   230         10
+   232         23
+   233         16
+   234        722
+   235        244
+   236         33
+   262         21
+   264        155
+   265         35

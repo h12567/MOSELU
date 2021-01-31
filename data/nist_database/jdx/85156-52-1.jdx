@@ -1,0 +1,31 @@
+##TITLE=Library Entry 22963
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. NEIDLEIN, PHARM.-CHEM. INST., UNIV. HEIDELBERG, W. G
+ER.
+##NAMES=HP
+##CAS NAME=N-(exo-Bicyclo(4.1.0)hept-3-en-7-yl)-N'-(1-phenyl-2,3-dimethylpyr
+azol-5-on-4-yl)urea
+##MOLFORM=C19H22N4O2
+##CAS REGISTRY NO=85156-52-1
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    56        999
+    57        240
+    77        200
+    79        340
+    84        430
+    91        240
+   107        110
+   119        130
+   203        200
+   229        220
+   230        890
+   231        170
+   338        180
+   339         40

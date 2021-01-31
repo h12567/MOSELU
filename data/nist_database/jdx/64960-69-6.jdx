@@ -1,0 +1,32 @@
+##TITLE=Library Entry 36885
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 17(1)151(1978); R. D. STIPANOVIC ET AL
+##NAMES=HP
+##CAS NAME=1-Anthracenecarboxaldehyde, 5,8,8a,9,10,10a-hexahydro-2,3-dihydro
+xy-10a-methyl-4-(1-methylethyl)-6-(4-methyl-3-pentenyl)-9,10-dioxo-, cis-
+##MOLFORM=C25H30O5
+##CAS REGISTRY NO=64960-69-6
+##MP= -300
+##BP= -300
+##MW= 410
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    69        999
+    77        200
+    79        180
+    91        280
+    93        230
+   105        250
+   135        190
+   259        190
+   274        170
+   275        150
+   297        190
+   313        910
+   314        230
+   382        550
+   383        150
+   410        280

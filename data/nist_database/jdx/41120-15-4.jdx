@@ -1,0 +1,35 @@
+##TITLE=Library Entry 47430
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,4(1H,3H)-Quinazolinedione, 1-methyl-3-[(phenylsulfonyl)oxy]-
+##MOLFORM=C15H12N2O5S
+##CAS REGISTRY NO=41120-15-4
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    39         50
+    50         60
+    51        180
+    64         50
+    77        999
+    78        200
+    90         50
+    92         60
+   104        280
+   105        320
+   132        130
+   133        170
+   134         50
+   141        879
+   142         60
+   161         80
+   176        120
+   332        509
+   333         90
+   334         40

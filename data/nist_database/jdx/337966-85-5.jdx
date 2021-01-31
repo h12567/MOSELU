@@ -1,0 +1,48 @@
+##TITLE=Library Entry 23512
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Cyclopentyl-2,2-dimethyl-1-propanol
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=337966-85-5
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         15
+    26         16
+    27         95
+    28         16
+    29        174
+    30          3
+    31        104
+    37         10
+    38         28
+    39        217
+    40         10
+    41        550
+    42         46
+    43        111
+    44         10
+    45        109
+    50         19
+    51         21
+    52          7
+    53         41
+    54          7
+    55        472
+    56        413
+    57        999
+    58         44
+    69         13
+    70         11
+    71          7
+    72          7
+    73        230
+    74         12
+    88         12

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 9127
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Acetone-1-phenyl 1,2-ethandiol ketal
+##MOLFORM=C11H14O2
+##CAS REGISTRY NO=52129-03-0
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=1260
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    24         12
+    41         17
+    42        428
+    43        999
+    44         58
+    58          9
+    59         21
+    72        727
+    73         68
+    77         21
+    78         52
+    79         27
+    89          8
+    90        107
+    91        189
+    92         38
+   103         77
+   104         50
+   105         39
+   106          8
+   107         17
+   119         81
+   120        341
+   121        120
+   133         32
+   147         41
+   148         90
+   163        361
+   164         88

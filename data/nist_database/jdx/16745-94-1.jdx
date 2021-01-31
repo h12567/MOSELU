@@ -1,0 +1,49 @@
+##TITLE=Library Entry 22037
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1-Hexene, 3,4-dimethyl-
+##MOLFORM=C8H16
+##CAS REGISTRY NO=16745-94-1
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=742
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    15         13
+    26         28
+    27        233
+    28         85
+    29        296
+    30          8
+    39        326
+    41        794
+    42         60
+    43         54
+    50         31
+    51         60
+    52         26
+    53        133
+    54         86
+    55        567
+    56        999
+    57        523
+    58         22
+    63         10
+    65         27
+    66         11
+    67         89
+    68         28
+    69        130
+    70        101
+    71         10
+    77         18
+    79         22
+    81         16
+    83        127
+    84        367
+    85         25
+    97          9

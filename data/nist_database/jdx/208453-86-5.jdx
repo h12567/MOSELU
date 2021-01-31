@@ -1,0 +1,105 @@
+##TITLE=Library Entry 2020
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Humboldt-Universitat zu Berlin, Department of Chemistry
+, Analytical Group
+##NAMES=HP
+##CAS NAME=5-Oxo-pyrrolidin-1,2-dicarboxylic acid, dimethyl ester
+##MOLFORM=C8H11NO5
+##CAS REGISTRY NO=208453-86-5
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 89
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          6
+    14         39
+    15        873
+    16         15
+    17         16
+    18         56
+    25          4
+    26         98
+    27        266
+    28        825
+    29        232
+    30        142
+    31         37
+    32          4
+    33          6
+    37          7
+    38         19
+    39        107
+    40         36
+    41        999
+    42        628
+    43         73
+    44         50
+    45         39
+    46          1
+    47          0
+    50          1
+    51          6
+    52         23
+    53         20
+    54         89
+    55        165
+    56        204
+    57         21
+    58         18
+    59        281
+    60         14
+    61          1
+    65          1
+    66         12
+    67          7
+    68         85
+    69         49
+    70        224
+    71         24
+    72          2
+    73          0
+    74          7
+    75          1
+    80         11
+    81          4
+    82         62
+    83         48
+    84        702
+    85         36
+    86          6
+    87          4
+    88          5
+    91          1
+    95          1
+    96          2
+    98        345
+    99         22
+   100          4
+   101          3
+   109          0
+   110         19
+   111          2
+   112          1
+   113          1
+   114          6
+   115          2
+   124          1
+   126          0
+   127          0
+   128          1
+   129          1
+   142        686
+   143         86
+   144         12
+   145          1
+   156          1
+   170          6
+   171          1
+   174          1
+   201         24
+   202          7
+   203          1

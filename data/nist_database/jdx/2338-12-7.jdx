@@ -1,0 +1,68 @@
+##TITLE=Library Entry 31670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=1H-Benzotriazole, 5-nitro-
+##MOLFORM=C6H4N4O2
+##CAS REGISTRY NO=2338-12-7
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    16         16
+    17          3
+    18         10
+    25         14
+    26         42
+    27         11
+    28         54
+    29         35
+    30        197
+    36         18
+    37        152
+    38        179
+    39        154
+    40         36
+    41          1
+    46         38
+    49         31
+    50         97
+    51        251
+    52        275
+    53         55
+    54          8
+    60         19
+    61        174
+    62        345
+    63        999
+    64        191
+    65         23
+    66         10
+    75         31
+    76         34
+    77         26
+    78         99
+    79        287
+    80         34
+    81          8
+    86         14
+    87         26
+    88         50
+    89         44
+    90        184
+    91         58
+    93         15
+   106        330
+   107         24
+   118         29
+   119         14
+   120         10
+   134        112
+   136        105
+   148         17
+   164        517
+   165         42

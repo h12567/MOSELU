@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32395
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Heptynoic acid
+##MOLFORM=C7H10O2
+##CAS REGISTRY NO=1483-67-6
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    12         53
+    13          5
+    14          2
+    15         58
+    16         72
+    18          5
+    25         10
+    26         82
+    27        609
+    28        134
+    29         43
+    36          5
+    37         62
+    38        133
+    39        599
+    40        215
+    41        716
+    42        137
+    43        356
+    44        664
+    49         26
+    50        129
+    51        145
+    52         64
+    53        158
+    54        232
+    55         33
+    56         32
+    61         10
+    62         19
+    63         28
+    64          5
+    65         74
+    66          5
+    67        999
+    68         53
+    73          1
+    75          3
+    77         28
+    78          5
+    79         40
+    80          7
+    81        100
+    82          8
+    84          7
+    85          3
+   111          4

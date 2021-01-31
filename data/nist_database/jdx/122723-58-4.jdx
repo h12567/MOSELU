@@ -1,0 +1,39 @@
+##TITLE=Library Entry 35869
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. FRANCKE, INST. ORG. CHEM., UNIV. HAMBURG, HAMBURG, W
+. GER.
+##NAMES=HP
+##CAS NAME=2-Oxabicyclo[4.4.0]dec-9-en-8-one, 1,3,7,7-tetramethyl-, (-)-(1R,
+3S,6R)-
+##MOLFORM=C13H20O2
+##CAS REGISTRY NO=122723-58-4
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        170
+    43        190
+    55        210
+    69        999
+    70        120
+    77         60
+    79         50
+    81         30
+    91         80
+    93         90
+    95         80
+    96         40
+    97         40
+    98        880
+   111        160
+   123         80
+   139        120
+   151         20
+   165         80
+   180         30
+   193        220
+   208        240

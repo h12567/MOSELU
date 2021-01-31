@@ -1,0 +1,63 @@
+##TITLE=Library Entry 28777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Vladimir Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Disilane, 1,2-dichloro-1,1,2,2-tetramethyl-
+##MOLFORM=C4H12Cl2Si2
+##CAS REGISTRY NO=4342-61-4
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41         14
+    42         44
+    43        376
+    44         67
+    45        106
+    46         15
+    47         15
+    53         27
+    55         39
+    57         26
+    58        999
+    59        118
+    60         40
+    63        191
+    64         23
+    65        258
+    66         25
+    67         77
+    68         12
+    69         17
+    71         22
+    72         52
+    73        809
+    74         78
+    75         34
+    77         20
+    78         30
+    79         28
+    80         23
+    92         39
+    93        921
+    94         85
+    95        314
+    96         23
+    97         15
+   113         25
+   115         20
+   119         18
+   121         17
+   135         19
+   151         97
+   152         26
+   153         43
+   171         21
+   173         11
+   186         73
+   187         16
+   188         45

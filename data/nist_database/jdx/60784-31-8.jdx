@@ -1,0 +1,68 @@
+##TITLE=Library Entry 2062
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=FOOD RESEARCH REPORT 122, K.E. MURRAY & COLLEAGUES, DIV
+ OF FOOD RESEARCH, CSIRO, AUSTRALIA
+##NAMES=HP
+##CAS NAME=2-Nonenal, (Z)-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=60784-31-8
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1148
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26         70
+    27        750
+    29        910
+    30         50
+    31         70
+    38         30
+    39        550
+    40        100
+    41        999
+    42        330
+    43        840
+    45        330
+    50         20
+    51         40
+    52         20
+    53        130
+    54        190
+    55        650
+    56        240
+    57        360
+    58         70
+    65         30
+    66         30
+    67        150
+    68        100
+    69        330
+    70        510
+    71        100
+    72         70
+    77         30
+    78         10
+    79         60
+    80         30
+    81        140
+    82         50
+    83        370
+    84        190
+    85         40
+    91         10
+    93         50
+    94         40
+    95         20
+    96        130
+    97        100
+    98         80
+    99         10
+   107         20
+   109         10
+   111         40
+   112         10
+   122         20
+   140          3

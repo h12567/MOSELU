@@ -1,0 +1,51 @@
+##TITLE=Library Entry 69190
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=1,1'-Bicyclohexyl, 4-methyl-4'-pentyl-
+##MOLFORM=C18H34
+##CAS REGISTRY NO=92263-42-8
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    29        285
+    39         80
+    40         77
+    41        478
+    42         77
+    43        287
+    53         88
+    54        127
+    55        987
+    56         82
+    57        119
+    67        300
+    68        103
+    69        303
+    70         54
+    71         86
+    77         51
+    79        103
+    81        625
+    82        255
+    83        456
+    95        199
+    96        999
+    97        902
+    98        103
+   109        121
+   110        101
+   111        151
+   123        136
+   124        108
+   152        303
+   153         36
+   250        240
+   251         48
+   252          4

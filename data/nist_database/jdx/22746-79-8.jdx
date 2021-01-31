@@ -1,0 +1,68 @@
+##TITLE=Library Entry 83554
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. Rasala, Inst. Chem., Pedagogical Univ., Kielce, Pola
+nd
+##NAMES=HP
+##CAS NAME=Pyridine, 2-(methylthio)-3-nitro-
+##MOLFORM=C6H6N2O2S
+##CAS REGISTRY NO=22746-79-8
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    50        300
+    51        450
+    52        410
+    53        220
+    58        650
+    63         70
+    64        160
+    65        140
+    66         90
+    67         80
+    68        140
+    69        160
+    70        160
+    71         60
+    72         50
+    74         40
+    75         60
+    76        100
+    77        100
+    78        760
+    79        500
+    80        250
+    81        170
+    82        520
+    83        290
+    84         70
+    85        290
+    91         80
+    92        390
+    93         90
+    94         40
+    96         70
+    97        160
+    98         50
+   105         80
+   106         40
+   107        999
+   108         70
+   109        190
+   110        320
+   111        250
+   112        240
+   122         80
+   123        200
+   124         70
+   140        460
+   141         80
+   142         30
+   154         10
+   170        550
+   171         45
+   172         26

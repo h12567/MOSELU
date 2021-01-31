@@ -1,0 +1,50 @@
+##TITLE=Library Entry 19119
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Octene
+##MOLFORM=C8H16
+##CAS REGISTRY NO=111-67-1
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=810
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15         19
+    26         55
+    27        403
+    28         91
+    29        492
+    30          8
+    32          3
+    38         46
+    39        436
+    40        114
+    41        919
+    42        375
+    43        125
+    50         25
+    51         46
+    52         27
+    53        135
+    54        146
+    55        999
+    56        518
+    57        178
+    65         18
+    67         76
+    68         64
+    69        290
+    70        411
+    71         42
+    77         13
+    79         11
+    82         29
+    83        156
+    84         79
+    97         14
+   112        233
+   113         22

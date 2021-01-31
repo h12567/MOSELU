@@ -1,0 +1,84 @@
+##TITLE=Library Entry 99544
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 747
+##NAMES=HP
+##CAS NAME=Benzene, tert-butyl-
+##MOLFORM=C10H14
+##CAS REGISTRY NO=98-06-6
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=975
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          2
+    27         24
+    28          9
+    29         20
+    37          1
+    38          4
+    39         61
+    40          5
+    41        162
+    42         14
+    43         15
+    50         21
+    51         63
+    52         15
+    53         10
+    54          1
+    55         11
+    56         13
+    57         27
+    58         25
+    59          9
+    61          2
+    62          6
+    63         18
+    64          7
+    65         37
+    66          8
+    67          1
+    69          2
+    70          2
+    71          4
+    74          8
+    75          8
+    76          8
+    77         81
+    78         40
+    79         89
+    80          6
+    83          1
+    84          1
+    85          1
+    86          1
+    87          2
+    88          1
+    89          9
+    90          3
+    91        477
+    92         38
+    93          3
+   101          2
+   102         11
+   103         44
+   104         12
+   105          7
+   115         30
+   116          8
+   117         24
+   118         11
+   119        999
+   120         99
+   121          4
+   128          2
+   129          1
+   131          1
+   133          1
+   134        270
+   135         28
+   136          1

@@ -1,0 +1,82 @@
+##TITLE=Library Entry 71335
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-(3-Aminopropyl)-2-pyrrolidone
+##MOLFORM=C7H14N2O
+##CAS REGISTRY NO=7663-77-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    15         21
+    17          2
+    18         19
+    26         19
+    27         85
+    28        171
+    29         50
+    30        431
+    31         14
+    37          2
+    38          7
+    39        100
+    40         27
+    41        328
+    42        243
+    43        186
+    44        419
+    45         13
+    51          2
+    52          8
+    53          9
+    54         46
+    55         58
+    56        305
+    57        144
+    58         34
+    59          8
+    65          1
+    66          2
+    67          9
+    68         80
+    69        231
+    70        360
+    71        118
+    72          8
+    80          6
+    81          2
+    82         44
+    83         15
+    84         98
+    85         43
+    86         94
+    87          4
+    94          3
+    95          2
+    96         22
+    97         36
+    98        999
+    99        486
+   100         46
+   101          3
+   108          2
+   109          1
+   110         22
+   111         18
+   112        221
+   113        181
+   114         22
+   115          1
+   123          8
+   124         21
+   125        351
+   126         37
+   127          2
+   139          1
+   142         80
+   143          8

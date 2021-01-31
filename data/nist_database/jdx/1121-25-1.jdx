@@ -1,0 +1,50 @@
+##TITLE=Library Entry 85831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Pyridinol, 2-methyl-
+##MOLFORM=C6H7NO
+##CAS REGISTRY NO=1121-25-1
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=2140
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         68
+    27        128
+    28        238
+    37         45
+    38        133
+    39        339
+    40         75
+    41         73
+    42        144
+    50         45
+    51         87
+    52         98
+    53        190
+    54         98
+    55         57
+    63         48
+    64         78
+    65         39
+    66         45
+    67         57
+    68         29
+    69         18
+    70         68
+    78         32
+    79         27
+    80        768
+    81        160
+    82         48
+    91         59
+    92         11
+    93          9
+    94         20
+   108         68
+   109        999
+   110        100

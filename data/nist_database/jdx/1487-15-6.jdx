@@ -1,0 +1,52 @@
+##TITLE=Library Entry 9701
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Furan, 2,3-dihydro-5-methyl-
+##MOLFORM=C5H8O
+##CAS REGISTRY NO=1487-15-6
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=670
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    26         58
+    27        180
+    28         92
+    29         89
+    30          2
+    31          6
+    37         11
+    38         22
+    39        315
+    40         24
+    41        194
+    42         88
+    43        999
+    44         26
+    45          6
+    49          4
+    50         25
+    51         32
+    52         22
+    53        103
+    54        150
+    55        140
+    56         19
+    57          4
+    58          4
+    65          5
+    68         20
+    69         72
+    70          6
+    72          4
+    81         15
+    82         11
+    83        271
+    84        478
+    85         23
+    86          1

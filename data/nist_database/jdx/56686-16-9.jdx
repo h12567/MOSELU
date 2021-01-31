@@ -1,0 +1,73 @@
+##TITLE=Library Entry 5394
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=5-Bromo-2,4-dimethoxypyrimidine
+##MOLFORM=C6H7BrN2O2
+##CAS REGISTRY NO=56686-16-9
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    41        159
+    42        999
+    43        126
+    44         11
+    51        137
+    52        200
+    53        232
+    54        112
+    55        101
+    56         91
+    57         48
+    65         26
+    67         65
+    68        173
+    69         63
+    70        232
+    77         61
+    79         43
+    80         96
+    81        128
+    82        145
+    83        119
+    84         12
+    91        122
+    93         13
+    96         55
+    97         23
+   105        123
+   107         83
+   109        308
+   110         75
+   111         28
+   113         13
+   120         51
+   122         12
+   123         11
+   132         26
+   133         40
+   134         32
+   139        138
+   160        209
+   161         27
+   162        192
+   187         38
+   188        137
+   189        101
+   190        138
+   191         86
+   202         25
+   203        111
+   204         50
+   205         99
+   206         12
+   217        137
+   218        425
+   219        148
+   220        399
+   221         44

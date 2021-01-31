@@ -1,0 +1,35 @@
+##TITLE=Library Entry 3123
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 100(19)6114(1978); E. L. ELIEL AND E. JUARISTI
+##NAMES=HP
+##CAS NAME=1,3-Dithiane-5,5-dithiol, 2-(1,1-dimethylethyl)-
+##MOLFORM=C8H16S4
+##CAS REGISTRY NO=68449-92-3
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        999
+    45        600
+    47        147
+    53        267
+    55        127
+    57        580
+    59        800
+    69        347
+    71        130
+    74        347
+    87        200
+   102        600
+   103         93
+   111         53
+   116        133
+   117        213
+   149        535
+   150         67
+   151         93
+   206        173

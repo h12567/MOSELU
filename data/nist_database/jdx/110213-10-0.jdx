@@ -1,0 +1,33 @@
+##TITLE=Library Entry 6980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.G. Zenkevich, A.A. Zhdanov Leningrad State Univ., Len
+ingrad, USSR
+##NAMES=HP
+##CAS NAME=Formaldehyde, methyl(2-propynyl)hydrazone
+##MOLFORM=C5H8N2
+##CAS REGISTRY NO=110213-10-0
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    30        440
+    37         60
+    38        110
+    39        410
+    40         80
+    41         90
+    42        450
+    43        999
+    52         60
+    53        720
+    54         60
+    57        510
+    66        150
+    67         80
+    81         50
+    95        520
+    96        340

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 82021
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Dibenzoyl-3-methyldiaziridine
+##MOLFORM=C16H14N2O2
+##CAS REGISTRY NO=21392-67-6
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    40         16
+    41          9
+    42          8
+    43         21
+    44          9
+    55          4
+    56          5
+    57         47
+    69         28
+    71         25
+    77         68
+    78         15
+   103         16
+   104         14
+   105        999
+   106         43
+   107          7
+   266        107
+   267         14
+   268          6

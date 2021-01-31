@@ -1,0 +1,63 @@
+##TITLE=Library Entry 978
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.FR.GRUTZMACHER HAMBURG UNIV., HAMBURG, GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=Glycine, N-acetyl-
+##MOLFORM=C4H7NO3
+##CAS REGISTRY NO=543-24-8
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=1382
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    15        172
+    25          2
+    26          7
+    27         23
+    28        106
+    29         76
+    30        999
+    31         49
+    32          2
+    38          2
+    39          4
+    40          8
+    41         19
+    42        103
+    43        738
+    44         38
+    45         70
+    46          6
+    51          2
+    52          3
+    53          1
+    54          8
+    55          7
+    56         77
+    57         27
+    58          7
+    59          4
+    60          5
+    61          1
+    68          1
+    69          1
+    70          3
+    71          5
+    72        304
+    73        178
+    74         53
+    75          6
+    76         24
+    77          1
+    84          6
+    85          1
+    86          1
+    99         88
+   100          8
+   101          1
+   102          1
+   117         42

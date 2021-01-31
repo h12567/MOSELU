@@ -1,0 +1,94 @@
+##TITLE=Library Entry 62853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1,5-Anhydro-3,4,6-tri-O-benzyl-2-deoxy-D-arabinohex-1-enitol
+##MOLFORM=C27H28O4
+##CAS REGISTRY NO=55628-54-1
+##MP= -300
+##BP= -300
+##MW= 416
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 79
+##XYDATA=(XY..XY) 1 
+    27          3
+    29          3
+    38          1
+    39         13
+    41          7
+    43          2
+    50          3
+    51         11
+    52          3
+    53          3
+    55          3
+    57          5
+    63          6
+    64          2
+    65         57
+    66          3
+    67          1
+    68          1
+    69          1
+    71          2
+    77         21
+    78          6
+    79         10
+    80          1
+    81         34
+    82          2
+    83          2
+    89         10
+    91        999
+    92        102
+    93          4
+    97          4
+   103          1
+   104         28
+   105         23
+   106          6
+   107         23
+   108          3
+   113          1
+   115          1
+   116          4
+   117         14
+   118          4
+   119          2
+   120          1
+   128          1
+   129          2
+   130          4
+   131          2
+   133         10
+   134          1
+   145          4
+   146         10
+   147          2
+   148         16
+   149          2
+   155          2
+   156          1
+   161          2
+   163        116
+   164         12
+   165          2
+   166          1
+   167          3
+   168          2
+   179          1
+   180          2
+   181         15
+   182          3
+   187          2
+   189          1
+   197          3
+   202          2
+   219          1
+   253         64
+   254         12
+   255          1
+   266          1
+   325          1

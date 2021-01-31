@@ -1,0 +1,46 @@
+##TITLE=Library Entry 13834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=3-Phenylpropenoic acid, 2',3'-dimethoxy-2-acetamino-
+##MOLFORM=C13H15NO5
+##CAS REGISTRY NO=98708-99-7
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         75
+    43        999
+    58         78
+    63         81
+    65         91
+    69         83
+    77         78
+    79         97
+    91        392
+    93        107
+   119         76
+   134         79
+   135        187
+   136        593
+   137        172
+   143        173
+   148         75
+   149         86
+   161        269
+   162        487
+   163        158
+   174         88
+   177        182
+   178         76
+   191        685
+   192        259
+   194        391
+   223        724
+   224         78
+   265        701
+   266         81

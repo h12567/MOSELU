@@ -1,0 +1,59 @@
+##TITLE=Library Entry 76521
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-Ethynyl pyridine
+##MOLFORM=C7H5N
+##CAS REGISTRY NO=1945-84-2
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          5
+    14          2
+    16          0
+    17          2
+    18          1
+    24          5
+    25         16
+    26         78
+    27         23
+    28         46
+    32          2
+    36         17
+    37         92
+    38         62
+    39         56
+    40          6
+    48         10
+    49         68
+    50        509
+    51        227
+    52        155
+    53         14
+    60          7
+    61         22
+    62         22
+    63         59
+    64         13
+    65          1
+    72          3
+    73         35
+    74        111
+    75        120
+    76        563
+    77         75
+    78          5
+    87          1
+    88          2
+    98          1
+    99          7
+   100          3
+   103        999
+   104         79
+   105          3

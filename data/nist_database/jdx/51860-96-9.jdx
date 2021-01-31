@@ -1,0 +1,61 @@
+##TITLE=Library Entry 44483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzo[1,2-b:4,5-b']bisbenzofuran-6,12-dione, 2,3,8,9-tetrakis[(tr
+imethylsilyl)oxy]-
+##MOLFORM=C30H40O8Si4
+##CAS REGISTRY NO=51860-96-9
+##MP= -300
+##BP= -300
+##MW= 640
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    43         13
+    44         18
+    45        102
+    46          9
+    47          6
+    57          4
+    58          6
+    59         11
+    66          6
+    73        999
+    74        102
+    75         63
+    76          6
+    91          6
+   131          9
+   133          6
+   147         40
+   148          6
+   149         13
+   229         11
+   455          6
+   464         15
+   465          9
+   537         13
+   538          6
+   539          4
+   552         27
+   553         13
+   554         11
+   555          4
+   568         20
+   569          9
+   570          6
+   610          4
+   611          6
+   612          4
+   625         38
+   626         20
+   627         13
+   628          6
+   640        227
+   641        131
+   642         79
+   643         31
+   644          9

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 79542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6838
+##NAMES=HP
+##CAS NAME=1-Phenyl-2-(2-pyridyl)ethanedione
+##MOLFORM=C13H9NO2
+##CAS REGISTRY NO=13474-48-1
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         16
+    28          6
+    37          1
+    38          3
+    39          7
+    44          1
+    49          2
+    50         38
+    51        173
+    52         24
+    53          2
+    61          1
+    62          2
+    63          3
+    73          1
+    74          9
+    75          9
+    76         20
+    77        520
+    78        170
+    79         10
+    89          1
+   101          1
+   102          1
+   103          1
+   104          4
+   105        999
+   106        104
+   107          6
+   108          1
+   126          1
+   127          8
+   128          4
+   152          1
+   153          3
+   154         36
+   155        143
+   156         17
+   157          1
+   167          2
+   182        266
+   183         59
+   184          6
+   210         13
+   211        250
+   212         38
+   213          4

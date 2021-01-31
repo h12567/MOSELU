@@ -1,0 +1,81 @@
+##TITLE=Library Entry 19751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=OGDEN BioServices Corp., NCI, Rockville, MD 20852
+##NAMES=HP
+##CAS NAME=5,12-Naphthacenedione, 7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(h
+ydroxyacetyl)-1-methoxy-10-((2,3,6-trideoxy-3-(4-morpholinyl)-.alpha.-L-lyxo
+-hexopyranosyl)oxy)-, hydrochloride, (8S-cis)-
+##MOLFORM=C31H35NO12
+##CAS REGISTRY NO=89196-04-3
+##MP= -300
+##BP= -300
+##MW= 613
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41        799
+    42        886
+    43        958
+    44        313
+    45        821
+    47        118
+    52         44
+    53        132
+    54        402
+    55        999
+    56        661
+    57        854
+    58        357
+    59         22
+    65         83
+    66         21
+    67        174
+    68        277
+    69        268
+    70        336
+    71        221
+    72        105
+    77         39
+    80         71
+    81         74
+    82        292
+    83        490
+    84        429
+    85        142
+    86        227
+    87        252
+    88        120
+    94        195
+    95         84
+    96        132
+    97         69
+    98        254
+   100        262
+   110         40
+   111        205
+   112        484
+   113        582
+   114        344
+   124        827
+   125         75
+   126        146
+   128        120
+   129         88
+   130         18
+   140         99
+   141        485
+   142        943
+   143        178
+   144         17
+   158         23
+   163         17
+   200        118
+   217        108
+   309         19
+   321         21
+   337         25
+   339         19
+   347         68
+   378         43

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 55739
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Chloromethyl-2-oxazolidinone
+##MOLFORM=C4H6ClNO2
+##CAS REGISTRY NO=22625-57-6
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         20
+    25          2
+    26         21
+    27         70
+    28        182
+    29        125
+    30         95
+    31          9
+    35          3
+    36          3
+    37          6
+    38          9
+    39         27
+    40          8
+    41         22
+    42        255
+    43         81
+    44         23
+    45          5
+    47          5
+    48          7
+    49         51
+    50         10
+    51         20
+    52         16
+    53          2
+    54         29
+    55          9
+    56         43
+    57         12
+    58        105
+    59          3
+    60          3
+    61         10
+    62         15
+    63         12
+    64          5
+    65          3
+    70          3
+    71          1
+    72          1
+    75          1
+    76          1
+    77          1
+    78          1
+    79         31
+    80          1
+    81         10
+    85          9
+    86        999
+    87         37
+    88          5
+    90          3
+    91          3
+    92          1
+    93          1
+   100          1
+   106          1
+   107          1
+   134          1
+   135        140
+   136          8
+   137         44
+   138          2

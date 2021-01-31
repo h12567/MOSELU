@@ -1,0 +1,39 @@
+##TITLE=Library Entry 21915
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Bromo-2-methylaziridine, 1,2-trans
+##MOLFORM=C3H6BrN
+##CAS REGISTRY NO=20012-79-7
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    26        113
+    27        410
+    28        899
+    29        365
+    30        275
+    31         21
+    39         57
+    40         81
+    41        359
+    42         86
+    43         22
+    54         68
+    55         57
+    56        999
+    57        149
+    58         32
+   106         41
+   107         10
+   108         39
+   109          9
+   135         41
+   136          2
+   137         39
+   138          2

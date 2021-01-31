@@ -1,0 +1,73 @@
+##TITLE=Library Entry 10790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H-F. GRUTZMACHER, UNIVERSITY OF HAMBURG, W. GERMANY
+##NAMES=HP
+##CAS NAME=Methyl 3,4,6-tri-O-acetyl-2-acetamido-2-deoxy-.alpha.-D-glucopyra
+noside
+##MOLFORM=C15H23NO9
+##CAS REGISTRY NO=2595-39-3
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    43        999
+    45         95
+    58         29
+    59         95
+    60         79
+    70         43
+    71         14
+    72         36
+    73         29
+    74          7
+    75         11
+    80         54
+    83         54
+    84        104
+    85         40
+    86         14
+    87         18
+    88         25
+    96         60
+    97         70
+    98         94
+   101        409
+   102         52
+   112         84
+   114         69
+   115         57
+   122         43
+   126         40
+   128         13
+   139        100
+   140        136
+   143        117
+   154         18
+   155          9
+   156         38
+   157         27
+   158         27
+   168         15
+   169          3
+   170          7
+   171          6
+   172         18
+   181         18
+   182         13
+   183         23
+   185          2
+   186          1
+   199         23
+   200         18
+   210          4
+   213          4
+   214         16
+   228          5
+   241          8
+   242          9
+   302          1
+   330          0

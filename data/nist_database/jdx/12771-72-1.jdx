@@ -1,0 +1,99 @@
+##TITLE=Library Entry 38141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MYCOTOXINS MASS SPECTRAL DATA BANK, L.R. DUSOLD ET AL,
+ FDA, USA
+##NAMES=HP
+##CAS NAME=5H,12H-3,4-Dioxa-5a,11a,15a-triazacyclooct[lm]indeno[5,6-b]fluore
+ne-11,15(2H,13H)-dione, 1,10,10a,14,14a,15b-hexahydro-10,10a-dihydroxy-7-met
+hoxy-2,2-dimethyl-5-(2-methyl-1-propenyl)-, [5R-(5.alpha.,10.alpha.,10a.alph
+a.,14a.alpha.,15b.alpha.)]-
+##MOLFORM=C27H33N3O7
+##CAS REGISTRY NO=12771-72-1
+##MP= -300
+##BP= -300
+##MW= 511
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 80
+##XYDATA=(XY..XY) 1 
+    39        171
+    41        302
+    43         98
+    44        282
+    55        256
+    68        157
+    69        144
+    70        999
+    71         78
+    83        210
+    84        125
+   130         98
+   131         85
+   141        118
+   142         78
+   143         78
+   157         85
+   158        309
+   159        171
+   160        118
+   169        118
+   170         98
+   172        111
+   173        282
+   174        250
+   175         92
+   176         78
+   183         85
+   184        151
+   185        138
+   186        164
+   187        131
+   188        131
+   189         78
+   191        361
+   192        144
+   197        105
+   198        131
+   199        131
+   200        309
+   201        638
+   202        394
+   203        164
+   204        105
+   211         92
+   212        157
+   213        171
+   214        230
+   215        105
+   216        111
+   225         72
+   226        118
+   227        138
+   228        125
+   229        118
+   230        131
+   231         78
+   240        256
+   241        302
+   242        138
+   243        118
+   244        144
+   254         85
+   255         78
+   258        118
+   259        401
+   260         98
+   269        105
+   271        111
+   297        131
+   309        138
+   310        223
+   311         98
+   337        118
+   338        276
+   339         92
+   366         98
+   511        756
+   512        250
+   513         72

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 33214
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.I. Gren, Phys.-Chem. Inst., Acad. Sci. Ukraine, Odess
+a 270080, Ukraine
+##NAMES=HP
+##CAS NAME=Imidazo[4,5-e]-1,4-diazepine-5,8-dione, 2-bromo-1,4,5,6,7,8-hexah
+ydro-1,4,7-trimethyl-
+##MOLFORM=C9H11BrN4O2
+##CAS REGISTRY NO=76170-96-2
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    51         77
+    52         52
+    53         35
+    54         45
+    55         34
+    56         34
+    66         55
+    67        999
+    68         50
+    69         77
+    70         15
+    79         35
+    80         55
+    81        115
+    82         43
+    83         39
+   107         45
+   108        192
+   109        154
+   110         52
+   120        262
+   121         17
+   122        262
+   123         16
+   136        392
+   137         85
+   138         77
+   145         15
+   146         21
+   147         18
+   148         23
+   149         17
+   150         17
+   151         15
+   160         69
+   161         18
+   162         69
+   187        123
+   188         69
+   189        123
+   190         58
+   207         85
+   208         44
+   214         62
+   215        538
+   216        115
+   217        508
+   218         54
+   228         23
+   229         28
+   230         27
+   231         27
+   257         42
+   258        300
+   259         77
+   260        292
+   261         34
+   286        392
+   287         49
+   288        385
+   289         48

@@ -1,0 +1,32 @@
+##TITLE=Library Entry 88355
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=7-Propyl-3,4,5,6(2H)-tetrahydroazepine
+##MOLFORM=C9H17N
+##CAS REGISTRY NO=3338-05-4
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        121
+    42        109
+    55        151
+    68         78
+    69        110
+    70        229
+    82        150
+    83        290
+    96        519
+   110        257
+   111        999
+   112         90
+   124        491
+   125         30
+   138         89
+   139        220
+   140         20

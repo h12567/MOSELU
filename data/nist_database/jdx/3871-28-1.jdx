@@ -1,0 +1,32 @@
+##TITLE=Library Entry 522
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Carbethoxy-N-methoxyamine
+##MOLFORM=C4H9NO3
+##CAS REGISTRY NO=3871-28-1
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        155
+    28        315
+    29        999
+    30         56
+    31         70
+    32        152
+    33         19
+    43         33
+    44         19
+    45         44
+    46         48
+    47        444
+    48         11
+    60        185
+    61         19
+    74         37
+   119          4

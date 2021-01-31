@@ -1,0 +1,50 @@
+##TITLE=Library Entry 34073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Allyl-1,6-heptadiene-4-ol
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=10202-75-2
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1069
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    14          9
+    26          6
+    27         44
+    28          1
+    29         23
+    31          8
+    32          4
+    39        262
+    41        785
+    42         59
+    43         34
+    50         13
+    51         28
+    52         10
+    53         38
+    54         10
+    55         66
+    57         18
+    62          6
+    63         16
+    65         44
+    66         15
+    67         25
+    68          6
+    69        999
+    70         49
+    91         96
+    92         19
+    93         39
+    95          8
+   111        162
+   112         12
+   115          9
+   117         10
+   134          8

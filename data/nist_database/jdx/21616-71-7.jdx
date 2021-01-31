@@ -1,0 +1,82 @@
+##TITLE=Library Entry 5075
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1,4-Diphenethyl-2,6-piperazinedione
+##MOLFORM=C20H22N2O2
+##CAS REGISTRY NO=21616-71-7
+##MP= -300
+##BP= -300
+##MW= 322
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    39         71
+    40         25
+    42        999
+    43         58
+    44        112
+    45          1
+    50         14
+    51         57
+    52         14
+    53          7
+    54          3
+    55         11
+    56         22
+    57         14
+    58          2
+    63         22
+    65        110
+    66          4
+    69          3
+    70          9
+    71         56
+    72          1
+    74          0
+    75          2
+    77        133
+    78         63
+    79         74
+    80          3
+    82          0
+    83          1
+    84          8
+    85          0
+    89         11
+    91        184
+    92         11
+    99         14
+   102          7
+   103         83
+   104        807
+   105        276
+   106         13
+   112          1
+   115          1
+   117          9
+   118          0
+   119          3
+   127         22
+   128          0
+   130          6
+   132        192
+   133         18
+   134         97
+   135          7
+   146        101
+   147          8
+   148          1
+   149          0
+   160          0
+   175          0
+   203         51
+   204          4
+   217          0
+   218         76
+   219          7
+   231         13
+   322         35
+   323          5

@@ -1,0 +1,82 @@
+##TITLE=Library Entry 20198
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethylene diacrylate
+##MOLFORM=C8H10O4
+##CAS REGISTRY NO=2274-11-5
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    14          3
+    15          4
+    26         19
+    27        199
+    28         51
+    29        130
+    30          3
+    31         11
+    32          7
+    39         71
+    41        301
+    42         82
+    43        335
+    44         15
+    45          5
+    51          3
+    53         34
+    55        999
+    56        216
+    57        226
+    58         13
+    65          5
+    66          5
+    67         43
+    68          3
+    69        479
+    70        410
+    71        180
+    72          5
+    73        125
+    74          8
+    77          4
+    79          7
+    81         41
+    82         34
+    83        166
+    84        286
+    85        122
+    86          9
+    87          3
+    93          2
+    95         15
+    96         67
+    97        290
+    98         70
+    99         30
+   100          7
+   101          2
+   109          6
+   110         21
+   111        133
+   112         80
+   113         19
+   114          3
+   123          4
+   124          3
+   125         25
+   126          3
+   127          8
+   139          4
+   140         21
+   141         15
+   142          2
+   155          6
+   156          2
+   157          5
+   169          4

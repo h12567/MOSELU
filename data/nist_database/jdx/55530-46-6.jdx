@@ -1,0 +1,38 @@
+##TITLE=Library Entry 97301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanone, [1-(1,1-dimethylethyl)-2-phenyl-3-azetidinyl]phenyl-
+##MOLFORM=C20H23NO
+##CAS REGISTRY NO=55530-46-6
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    56         30
+    57        176
+    70        261
+    77        338
+    91         90
+   103         71
+   104        128
+   105        661
+   106         71
+   115         78
+   117        999
+   118        111
+   132         71
+   133         90
+   146         95
+   160        123
+   167         42
+   236        404
+   237         61
+   276        100
+   277         57
+   278        238
+   293         95

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 1440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=(1-Hydroxyethylidene)malonic acid diethyl ester
+##MOLFORM=C9H14O5
+##CAS REGISTRY NO=31575-84-5
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        332
+    29        509
+    31        999
+    32          4
+    41         13
+    42         56
+    43        489
+    44         16
+    45        396
+    46        144
+    55          9
+    58          1
+    61          3
+    69         54
+    84         11
+    85          3
+    86         51
+    87         51
+    88         14
+   101          7
+   104          6
+   105          4
+   113          4
+   114         17
+   115         94
+   128          2
+   129          6
+   132          3
+   133         22
+   141          4
+   156         17
+   157         26
+   160         70
+   187          9
+   202          2

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 19910
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Butyl-cyclohexanone
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=61203-82-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        306
+    29        352
+    39        212
+    41        623
+    42        173
+    43        326
+    44         35
+    53        104
+    54        115
+    55        999
+    56        317
+    57        717
+    58         69
+    67        152
+    68        153
+    69        257
+    70        293
+    71         58
+    81        176
+    82         57
+    83        552
+    84         69
+    95         70
+    96        104
+    97        387
+    98         93
+   110        163
+   111         57
+   125        128
+   126        186
+   139         35
+   154        246

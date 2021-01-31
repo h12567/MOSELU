@@ -1,0 +1,57 @@
+##TITLE=Library Entry 33314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=VERIFINN
+##NAMES=HP
+##CAS NAME=Trimethylolpropane phosphite
+##MOLFORM=C6H11O3P
+##CAS REGISTRY NO=824-11-3
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=1221
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        254
+    28         45
+    29        244
+    39        226
+    40         76
+    41        747
+    42         62
+    43         46
+    47        268
+    51         20
+    53        174
+    54         25
+    55        150
+    57         21
+    65         64
+    67        512
+    68        999
+    69        415
+    70         23
+    77         47
+    80         23
+    81         10
+    83         25
+    85         54
+    90         23
+    91         18
+    98          6
+    99          9
+   103        124
+   104         10
+   109        301
+   113          9
+   114         22
+   117        175
+   118          6
+   131        249
+   132        741
+   133         34
+   134         13
+   147         12
+   162        343
+   163         19

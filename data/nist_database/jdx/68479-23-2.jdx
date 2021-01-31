@@ -1,0 +1,68 @@
+##TITLE=Library Entry 54651
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-Bromo-7-methoxy-1-[2-tetrahydropyranyl]pyrazolo[4,3-d]pyrimidin
+e
+##MOLFORM=C11H13BrN4O2
+##CAS REGISTRY NO=68479-23-2
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        826
+    42        211
+    43        321
+    44         28
+    51         61
+    52         51
+    53        151
+    54        337
+    55        365
+    56        103
+    57        366
+    58        118
+    64         46
+    65         73
+    66         30
+    67        327
+    69         80
+    77         49
+    78         87
+    79         29
+    81         49
+    83         53
+    84        500
+    85        999
+    86         37
+    91         49
+    92         52
+    93         17
+   106         18
+   118         17
+   119         13
+   131         45
+   133         16
+   149         40
+   172         13
+   174         30
+   197         30
+   198         38
+   199         47
+   200         45
+   201         41
+   227         43
+   228        125
+   229        643
+   230        162
+   231        604
+   232         32
+   243         13
+   245         16
+   312         71
+   314         71

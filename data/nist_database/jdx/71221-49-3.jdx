@@ -1,0 +1,46 @@
+##TITLE=Library Entry 38355
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=3-Methyl-1-(phenylthio)butan-2-one
+##MOLFORM=C11H14OS
+##CAS REGISTRY NO=71221-49-3
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        730
+    42        310
+    43        990
+    44        444
+    45        940
+    47        130
+    50        180
+    51        670
+    55        100
+    57        120
+    58        220
+    63        100
+    65        530
+    66        120
+    69        330
+    71        999
+    72        150
+    77        580
+    78        160
+    79        220
+    85        160
+    91        110
+   109        450
+   110        440
+   123        900
+   124        710
+   125        140
+   194        470
+   195         73
+   196         27

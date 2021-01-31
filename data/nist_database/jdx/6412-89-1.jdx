@@ -1,0 +1,63 @@
+##TITLE=Library Entry 82097
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Phenyl-4-piperonylidene-2-oxazolin-5-one
+##MOLFORM=C17H11NO4
+##CAS REGISTRY NO=6412-89-1
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    49          7
+    50         31
+    51         95
+    52          8
+    53          6
+    61          1
+    62         15
+    63         11
+    64          3
+    65          1
+    74          9
+    75         33
+    76         42
+    77        343
+    78         23
+    79          1
+    84          4
+    86          6
+    87          6
+    88          7
+    89          5
+    90          1
+   100          1
+   101          4
+   102         34
+   103         14
+   104         20
+   105        999
+   106         71
+   107          4
+   114          1
+   130         15
+   131          6
+   132          1
+   145          7
+   146          1
+   147          1
+   159         10
+   160         45
+   161          5
+   177          1
+   190          1
+   206          2
+   248          3
+   293        371
+   294         66
+   295          8

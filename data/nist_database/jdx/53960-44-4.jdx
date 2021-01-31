@@ -1,0 +1,59 @@
+##TITLE=Library Entry 26202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Octen-3-ol, 2,2-dimethyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=53960-44-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    27         58
+    28         23
+    29        120
+    31         20
+    39         61
+    40         10
+    41        195
+    42         27
+    43        171
+    44         14
+    45         18
+    51          9
+    53         25
+    55         91
+    56         32
+    57        999
+    58         36
+    59          8
+    65         10
+    67         21
+    69         46
+    70         24
+    71         31
+    72          7
+    77         12
+    79         12
+    81         73
+    82         32
+    83         27
+    85         23
+    91         25
+    92         14
+    95         12
+    97         21
+    98         35
+    99        524
+   100         92
+   101          6
+   109          5
+   113          4
+   123          8
+   127         14
+   141         13
+   156          5

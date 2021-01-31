@@ -1,0 +1,75 @@
+##TITLE=Library Entry 30219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Cyclohexanemethanol, .alpha.,.alpha.-dimethyl-4-methylene-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=7299-42-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1166
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    27         28
+    29         26
+    31         48
+    38          3
+    39         95
+    40         19
+    41        144
+    42         13
+    43        260
+    44          5
+    45         17
+    46          1
+    52          9
+    53         65
+    54         75
+    55        120
+    56          7
+    57         12
+    58         16
+    59        999
+    60         33
+    61          6
+    62          4
+    63          6
+    64          2
+    65         29
+    66         17
+    67        159
+    68        119
+    69         50
+    70          3
+    71         60
+    72          3
+    78          8
+    79         74
+    80         40
+    81        474
+    82         32
+    83          3
+    85          3
+    89          1
+    91         35
+    92         30
+    93        215
+    94         37
+    95         68
+    96        141
+    97         16
+    98          1
+   103          2
+   107          8
+   108          3
+   109          2
+   119          1
+   121         25
+   136        158
+   137         20
+   138          1
+   139         40
+   140          4

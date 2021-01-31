@@ -1,0 +1,41 @@
+##TITLE=Library Entry 58245
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIVERSITY OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Iron, hexacarbonyl[.mu.-[1,1,2,2-tetrafluoro-1,2-ethanedithiolato
+(2-)-S,S':S,S']]di-, (Fe-Fe)
+##MOLFORM=C8F4Fe2O6S2
+##CAS REGISTRY NO=15492-09-8
+##MP= -300
+##BP= -300
+##MW= 444
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    56        194
+    75         61
+    76        270
+    88        999
+    90        129
+    94         68
+   100         64
+   107         53
+   112         68
+   119         57
+   144        137
+   163         99
+   176        217
+   182        194
+   210         72
+   238         68
+   266        263
+   276        381
+   304         57
+   332         41
+   341         19
+   360         83
+   388         72
+   416        122
+   444        179

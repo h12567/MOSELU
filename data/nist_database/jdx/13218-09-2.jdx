@@ -1,0 +1,38 @@
+##TITLE=Library Entry 22532
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane, 2,6-dimethyl-, (1.alpha.,2.alpha.,4.al
+pha.,6.alpha.)-
+##MOLFORM=C9H17N
+##CAS REGISTRY NO=13218-09-2
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        313
+    42        219
+    43         31
+    55        219
+    56        999
+    57         63
+    68         78
+    69        234
+    70        469
+    71         63
+    82         78
+    83         47
+    84         23
+    85         16
+    96        422
+    97        234
+    98        125
+   110         94
+   111        172
+   124        281
+   138         47
+   139        297

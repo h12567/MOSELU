@@ -1,0 +1,55 @@
+##TITLE=Library Entry 1587
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6939
+##NAMES=HP
+##CAS NAME=Hydrazine, (1,1-dimethylethyl)-
+##MOLFORM=C4H12N2
+##CAS REGISTRY NO=32064-67-8
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=736
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         59
+    16          4
+    17          1
+    18          8
+    26          9
+    27         67
+    28        110
+    29        281
+    30         45
+    31         64
+    32        999
+    33         19
+    39         90
+    40         17
+    41        317
+    42         74
+    43         12
+    44          6
+    45          5
+    49          1
+    50          5
+    51          6
+    52          5
+    53          9
+    54         13
+    55         29
+    56        307
+    57        234
+    58         37
+    59          2
+    68          2
+    69          1
+    70          2
+    71          3
+    72          4
+    73        283
+    74         12
+    88        174
+    89         10

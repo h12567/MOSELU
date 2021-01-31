@@ -1,0 +1,29 @@
+##TITLE=Library Entry 67395
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. S. WAIGHT IMPERIAL COLLEGE, LONDON
+##NAMES=HP
+##CAS NAME=2(1H)-Pyridinone, 1,5-dimethyl-
+##MOLFORM=C7H9NO
+##CAS REGISTRY NO=6456-93-5
+##MP= -300
+##BP= -300
+##MW= 123
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    27        127
+    39        157
+    41         77
+    42        326
+    50         61
+    51         92
+    52         77
+    53        176
+    54         54
+    80         65
+    94        999
+    95        261
+   123        495
+   124        100

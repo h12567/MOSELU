@@ -1,0 +1,42 @@
+##TITLE=Library Entry 89889
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.RUCKER PHARM. CHEM. INST., UNIV., MUNSTER, GERMANY, F
+.R.G.
+##NAMES=HP
+##CAS NAME=1,4-Methano-3-benzoxepin-5(4H)-one, 1,2,7,8,9,9a-hexahydro-7,10-d
+ihydroxy-2,2,9,9a-tetramethyl-
+##MOLFORM=C15H22O4
+##CAS REGISTRY NO=50340-22-2
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41        200
+    43        240
+    55         90
+    67         90
+    80         90
+    91         90
+    95        180
+   107         90
+   109         90
+   113        999
+   123         80
+   136         80
+   151         20
+   165         20
+   173         10
+   175         10
+   177         10
+   179         10
+   191         10
+   207         10
+   219         20
+   233         10
+   248         30
+   251         10
+   266         30

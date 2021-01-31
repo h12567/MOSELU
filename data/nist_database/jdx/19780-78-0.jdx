@@ -1,0 +1,45 @@
+##TITLE=Library Entry 17462
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Ethyl-2-octanol
+##MOLFORM=C10H22O
+##CAS REGISTRY NO=19780-78-0
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         26
+    19         28
+    27        235
+    28        127
+    29        332
+    31         34
+    39        172
+    41        612
+    42        121
+    43        622
+    45        999
+    53         53
+    55        527
+    56        418
+    57        625
+    58        107
+    59         92
+    67         41
+    69        543
+    70        352
+    71        129
+    81         17
+    83        207
+    84        195
+    85        170
+    98        667
+    99         73
+   111         78
+   112         39
+   143         18

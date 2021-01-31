@@ -1,0 +1,64 @@
+##TITLE=Library Entry 89909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Humboldt-Universitat zu Berlin, Department of Chemistry
+, Analytical Group
+##NAMES=HP
+##CAS NAME=5'-Iod-uridine
+##MOLFORM=C9H11IN2O5
+##CAS REGISTRY NO=14259-58-6
+##MP= -300
+##BP= -300
+##MW= 354
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    15        190
+    26        170
+    27        290
+    28        259
+    29        330
+    31        310
+    39        280
+    40        220
+    41        919
+    42        450
+    43        989
+    44        230
+    45        270
+    53        130
+    54        200
+    55        310
+    57        939
+    60        190
+    68        240
+    69        919
+    70        529
+    73        659
+    83        120
+    85         90
+    87        519
+    96        160
+    97        240
+    98        410
+   112        609
+   113        999
+   124         80
+   141        889
+   151        400
+   153        200
+   155        180
+   171        380
+   183        270
+   196         40
+   197         40
+   209        120
+   227        210
+   243        150
+   244        120
+   263         30
+   285         60
+   319         10
+   336         90
+   354         20

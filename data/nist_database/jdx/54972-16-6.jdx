@@ -1,0 +1,59 @@
+##TITLE=Library Entry 98987
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1,2-Di(phenylcarbamidoyl)-3,3-carbmethoxydiaziridine
+##MOLFORM=C19H18N4O6
+##CAS REGISTRY NO=54972-16-6
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41         59
+    42         79
+    43         59
+    44          9
+    50         47
+    51        119
+    52         43
+    53          6
+    59        117
+    60         11
+    63         91
+    64        227
+    65        239
+    66         77
+    67          6
+    69        257
+    70         91
+    71         57
+    72          8
+    77        379
+    78         11
+    85         97
+    86          6
+    91        256
+    92        183
+    93        151
+   100        307
+   101        377
+   102         31
+   119        999
+   120         99
+   121          8
+   129         45
+   130          7
+   159         41
+   160         22
+   220        297
+   221         23
+   222          7
+   234         17
+   247         22
+   278        315
+   279         63
+   280          6

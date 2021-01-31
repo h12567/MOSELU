@@ -1,0 +1,29 @@
+##TITLE=Library Entry 22558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.CHASTRETTE UNIV. OF LYON, VILLEURBANNE, FRANCE
+##NAMES=HP
+##CAS NAME=[1,4]Dioxino[2,3-b]-1,4-dioxin, hexahydro-2,3-dimethyl-
+##MOLFORM=C8H14O4
+##CAS REGISTRY NO=38737-47-2
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39         30
+    41        330
+    43        230
+    44         65
+    45        200
+    55        210
+    56        999
+    57        100
+    58        100
+    71         30
+    73        340
+    86        270
+   101        170
+   174        145

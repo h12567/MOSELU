@@ -1,0 +1,27 @@
+##TITLE=Library Entry 109719
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Propyl-benzenesulfinylamide
+##MOLFORM=C9H13NOS
+##CAS REGISTRY NO=6829-90-9
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    43        218
+    58         40
+    77         59
+    78        231
+   106        269
+   107         19
+   109         20
+   125        999
+   126        158
+   135        492
+   167         40
+   183        229

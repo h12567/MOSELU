@@ -1,0 +1,56 @@
+##TITLE=Library Entry 84297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. IKEDA
+##NAMES=HP
+##CAS NAME=Pyridinium, 3,5-dimethyl-1-ureido-, hydroxide, inner salt
+##MOLFORM=C8H11N3O
+##CAS REGISTRY NO=31382-90-8
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41         70
+    42        100
+    43        170
+    44         60
+    50         40
+    51        110
+    52         70
+    53         60
+    54         20
+    60         10
+    61         10
+    62         10
+    63         40
+    64         10
+    65         80
+    66         70
+    67         70
+    68         10
+    77        190
+    78         60
+    79        250
+    80        100
+    81         20
+    82         10
+    91         50
+    92        140
+    93         30
+    94        160
+    95         40
+    96         10
+   106        340
+   107        999
+   108         80
+   121         30
+   122        240
+   123         30
+   149        840
+   150         60
+   164        200
+   165        410
+   166         40

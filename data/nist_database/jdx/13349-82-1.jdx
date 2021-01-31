@@ -1,0 +1,54 @@
+##TITLE=Library Entry 72060
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=1-(2-(2-Hydroxyethoxy)ethyl)piperazine
+##MOLFORM=C8H18N2O2
+##CAS REGISTRY NO=13349-82-1
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    15         23
+    17         13
+    26         27
+    27         60
+    28        150
+    29         95
+    30         56
+    31         46
+    41         39
+    42        147
+    43         78
+    44        142
+    45         94
+    53          9
+    54         23
+    55         41
+    56        332
+    57         55
+    58         50
+    68         17
+    69         13
+    70        246
+    71         30
+    72         35
+    80         31
+    81          7
+    82          4
+    83         16
+    84         77
+    85         21
+    86         15
+    97         25
+    98          4
+    99        999
+   100         66
+   112        126
+   113         27
+   132         21
+   143          9

@@ -1,0 +1,42 @@
+##TITLE=Library Entry 73467
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Acetamide, N-[2-(4-fluorobenzoyl)-3-benzofuryl]-2-(4-morpholyl)-
+##MOLFORM=C21H19FN2O4
+##CAS REGISTRY NO=330556-99-5
+##MP= -300
+##BP= -300
+##MW= 382
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    29         11
+    41          2
+    42         30
+    43         29
+    44         15
+    55          2
+    56        138
+    70         31
+    71         10
+    72         14
+    84          0
+    86         32
+    95          4
+    97          0
+    98         17
+    99         56
+   100        999
+   101         59
+   123         26
+   127        161
+   128          0
+   186          0
+   254         14
+   255          9
+   259         19
+   382        112
+   383         13

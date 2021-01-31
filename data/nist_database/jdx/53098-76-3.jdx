@@ -1,0 +1,47 @@
+##TITLE=Library Entry 52486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. CLERC
+##NAMES=HP
+##CAS NAME=2,6-Nonadien-4-one, 9-(3-furanyl)-2,6-dimethyl-, (E)-
+##MOLFORM=C15H20O2
+##CAS REGISTRY NO=53098-76-3
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    29         88
+    39         66
+    40         13
+    41         37
+    43         37
+    51         17
+    52         11
+    53         77
+    55        180
+    65         11
+    67         22
+    68         15
+    77         13
+    81         77
+    82         33
+    83        999
+    84         55
+    91         13
+    95         22
+   105          4
+   109         13
+   123         51
+   134        144
+   135         26
+   138         22
+   155         15
+   157         33
+   177          4
+   185          4
+   200          2
+   217         11
+   232         20

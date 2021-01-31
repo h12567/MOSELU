@@ -1,0 +1,41 @@
+##TITLE=Library Entry 3242
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.Konopski ET AL.,Org.Mass Spectrom.,27,741 (1992)
+##NAMES=HP
+##CAS NAME=3-Methyl-1-nitrobut-2-ene
+##MOLFORM=C5H9NO2
+##CAS REGISTRY NO=1809-65-0
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    15         54
+    26         42
+    27        151
+    28         45
+    29         91
+    30        105
+    37         29
+    38         45
+    39        246
+    40         75
+    41        999
+    42        130
+    43         58
+    44         15
+    45         31
+    46         51
+    47         17
+    50         10
+    51         44
+    52        105
+    53         22
+    54         10
+    67         21
+    68        560
+    69         61
+    70          8

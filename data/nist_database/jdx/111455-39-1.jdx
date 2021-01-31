@@ -1,0 +1,31 @@
+##TITLE=Library Entry 32537
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. BUCHBAUER, INST. PHARM. CHEM., UNIV. VIENNA, AUSTRIA
+##NAMES=HP
+##CAS NAME=7-anti-Acetyl-3,3-dimethylbicyclo[2.2.2]octan-2-one
+##MOLFORM=C12H18O2
+##CAS REGISTRY NO=111455-39-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        550
+    43        950
+    55        160
+    67        999
+    69        230
+    71        120
+    77        110
+    79        220
+    81        410
+   110        130
+   123        900
+   124        130
+   136         70
+   151        180
+   176         70
+   194        230

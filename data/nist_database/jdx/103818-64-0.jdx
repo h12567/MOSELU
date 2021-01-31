@@ -1,0 +1,47 @@
+##TITLE=Library Entry 28074
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N. DE KIMPE, LAB. ORG. CHEM., UNIV. GENT, BELGIUM
+##NAMES=HP
+##CAS NAME=Ethyl N-isopropyl-3-phenylpropanimidate
+##MOLFORM=C14H21NO
+##CAS REGISTRY NO=103818-64-0
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        250
+    40         80
+    41        370
+    42        220
+    43        640
+    44        840
+    45        100
+    46         50
+    50         40
+    51        110
+    57         30
+    58        999
+    59         30
+    60         30
+    63         30
+    65        140
+    73         50
+    77         80
+    78         90
+    79         40
+    86         90
+    91        680
+   100        100
+   103         40
+   104         90
+   105        150
+   106         30
+   131         60
+   132         60
+   190         30
+   191         30
+   219         50

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 1136
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5389
+##NAMES=HP
+##CAS NAME=1,6-Hexanediamine, 2,2,4-trimethyl-
+##MOLFORM=C9H22N2
+##CAS REGISTRY NO=25513-64-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         25
+    28         13
+    29         30
+    30        999
+    31         38
+    39         27
+    40          3
+    41         99
+    42         30
+    43         55
+    44        104
+    45         43
+    47          1
+    53         10
+    54          6
+    55        137
+    56        128
+    57         56
+    58         22
+    59         19
+    67         10
+    68         10
+    69         81
+    70        161
+    71         16
+    72         15
+    73         92
+    74          3
+    77          1
+    81          8
+    82         11
+    83         39
+    84         46
+    85         10
+    86         19
+    87         66
+    88          4
+    95          9
+    96          9
+    97         53
+    98         11
+   109          4
+   110          2
+   112         18
+   114         21
+   115          7
+   124          8
+   126         42
+   127          4
+   128         19
+   129        113
+   130         10
+   139          2
+   140          2
+   141          8
+   142          7
+   143          1

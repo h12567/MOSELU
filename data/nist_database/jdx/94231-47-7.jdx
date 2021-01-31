@@ -1,0 +1,73 @@
+##TITLE=Library Entry 70041
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Cyclopentanecarboxylic acid, 2-ethylhexyl ester
+##MOLFORM=C14H26O2
+##CAS REGISTRY NO=94231-47-7
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26          6
+    27         26
+    28          6
+    29         33
+    38          3
+    39         44
+    40         15
+    41        212
+    42         39
+    43         82
+    44          3
+    51          4
+    52          4
+    53         17
+    54         10
+    55        110
+    56         75
+    57        173
+    58          8
+    65          8
+    66          7
+    67         60
+    68         36
+    69        740
+    70        620
+    71        168
+    72         10
+    73        153
+    74          6
+    79          9
+    81          6
+    82         23
+    83        141
+    84         82
+    85          8
+    86         33
+    87         15
+    93          3
+    95          8
+    96         20
+    97        999
+    98         59
+    99         12
+   100          8
+   110          3
+   111          7
+   112        290
+   113         51
+   114        191
+   115        250
+   116         18
+   127         31
+   128         18
+   129          8
+   139          3
+   140         43
+   141          5
+   157         15

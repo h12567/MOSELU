@@ -1,0 +1,52 @@
+##TITLE=Library Entry 67837
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch-Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=Furan, 2-(4-bromobutyl)-5-methyl-
+##MOLFORM=C9H13BrO
+##CAS REGISTRY NO=33548-56-0
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    38         11
+    39         83
+    40         11
+    41         55
+    42         16
+    43        176
+    50         19
+    51         27
+    52         19
+    53         28
+    55         23
+    65         23
+    66         10
+    67         37
+    77         12
+    78          3
+    79         20
+    80          5
+    81         11
+    91         11
+    93         12
+    94         10
+    95        999
+    96         59
+   107         32
+   108         24
+   109         10
+   135         10
+   136          8
+   137         25
+   173          4
+   175          4
+   216         89
+   217         17
+   218         92
+   219         12

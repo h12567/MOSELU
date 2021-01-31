@@ -1,0 +1,45 @@
+##TITLE=Library Entry 200
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=6,7-Dihydro-[1,2-e]-5H-pyrrolotetrazole
+##MOLFORM=C4H6N4
+##CAS REGISTRY NO=5817-87-8
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    26        500
+    27        600
+    28        999
+    29        150
+    30         20
+    37         80
+    38        140
+    39        950
+    40        150
+    41        330
+    42        220
+    43         30
+    44         20
+    49         30
+    50        130
+    51        170
+    52        140
+    53        900
+    54        980
+    55        820
+    56         50
+    57         20
+    58         10
+    66         10
+    67        280
+    68         20
+    81        180
+    82         50
+   110        420
+   111         40

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 7978
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-3-hexanol acetate
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=4166-44-3
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15         11
+    27         51
+    29         70
+    31          6
+    39         76
+    40         21
+    41        241
+    42          6
+    43        999
+    44         36
+    45         28
+    51          7
+    52          4
+    53         28
+    54          4
+    55        191
+    56         72
+    57        410
+    58         20
+    59         14
+    60          7
+    61         35
+    65          6
+    67         21
+    68         11
+    69         88
+    70         70
+    71         49
+    72         17
+    73         22
+    77          5
+    79          5
+    81          6
+    83        106
+    84         11
+    85         11
+    86          5
+    87         91
+    88          4
+    97         40
+   100         40
+   101         18
+   112         24
+   114         47
+   115        281
+   116         33
+   117         76
+   118          5
+   129         21

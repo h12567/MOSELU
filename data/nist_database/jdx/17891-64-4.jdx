@@ -1,0 +1,39 @@
+##TITLE=Library Entry 42848
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=trans-1-Trimethylsilyl-2-dimethylethylsilylethylene
+##MOLFORM=C9H22Si2
+##CAS REGISTRY NO=17891-64-4
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    31         48
+    45         37
+    59        146
+    60         19
+    73        999
+    74         87
+    75         60
+    87        262
+    88         26
+    89          8
+   112        111
+   113         60
+   141         18
+   143         42
+   157        637
+   158        128
+   159         60
+   171        111
+   172         17
+   173          9
+   186        113
+   187         29
+   188         21

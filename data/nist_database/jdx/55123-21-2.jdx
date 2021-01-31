@@ -1,0 +1,58 @@
+##TITLE=Library Entry 99911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.SELF AGRICULTURAL RES., FOOD RES. INSTITUTE, NORWICH,
+ U.K.
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]heptane, 6-methyl-2-methylene-6-(4-methyl-3-penteny
+l)-, [1R-(1.alpha.,5.alpha.,6.beta.)]-
+##MOLFORM=C15H24
+##CAS REGISTRY NO=55123-21-2
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=1446
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27         63
+    29         57
+    39        172
+    40         31
+    41        571
+    42         23
+    43        143
+    51         31
+    52         14
+    53        100
+    54         11
+    55        171
+    56         69
+    57         35
+    65         37
+    67         43
+    68         23
+    69        343
+    70         34
+    77        143
+    79        143
+    80         43
+    81         74
+    91        257
+    92        143
+    93        686
+    95         86
+    97         29
+   102         23
+   103         23
+   105        171
+   107        229
+   109         86
+   119        999
+   120        143
+   121         29
+   133         51
+   134         17
+   135         29
+   136         15
+   161         29

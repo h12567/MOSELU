@@ -1,0 +1,31 @@
+##TITLE=Library Entry 14430
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. WESTERLUND,DEP. CHEM. MOL. BIOL.,SWED. UNIV. AGRIC.,
+UPPSA
+##NAMES=HP
+##CAS NAME=1,2,3,4,5,7,8-Hepta-O-acetyl-.beta.-d-altro-l-glycero-3-octulofur
+anose
+##MOLFORM=C22H30O15
+##CAS REGISTRY NO=78174-70-6
+##MP= -300
+##BP= -300
+##MW= 534
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    43        999
+    97         40
+    98         50
+   103        100
+   115         70
+   131         70
+   145         70
+   157         40
+   173         90
+   245         40
+   287        300
+   288         40
+   347         60
+   389         30

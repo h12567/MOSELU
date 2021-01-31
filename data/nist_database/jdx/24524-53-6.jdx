@@ -1,0 +1,67 @@
+##TITLE=Library Entry 33105
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=THE OHIO STATE UNIVERSITY, DEPT OF CHEM., COLUMBUS, OHI
+O, USA
+##NAMES=HP
+##CAS NAME=Hexane, 1-(isopropylidenecyclopropyl)-
+##MOLFORM=C12H22
+##CAS REGISTRY NO=24524-53-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15         17
+    26         17
+    27        221
+    28         47
+    29        208
+    39        234
+    40         73
+    41        608
+    42         95
+    43        300
+    44         17
+    50         17
+    51         43
+    52         30
+    53        247
+    54        143
+    55        565
+    56        104
+    57         73
+    65         56
+    66         52
+    67        999
+    68        430
+    69        100
+    70         60
+    71         26
+    72         17
+    77         87
+    78         17
+    79        117
+    80         52
+    81        565
+    82        652
+    83        404
+    84         34
+    91         56
+    93         65
+    94         39
+    95        313
+    96        195
+    97         34
+   107         39
+   108         17
+   109        869
+   110        143
+   111         17
+   123        247
+   124         43
+   137         21
+   151         47
+   166         52

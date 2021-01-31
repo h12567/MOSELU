@@ -1,0 +1,72 @@
+##TITLE=Library Entry 24143
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Hexane, 1-(hexyloxy)-5-methyl-
+##MOLFORM=C13H28O
+##CAS REGISTRY NO=74421-19-5
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    25          3
+    26          2
+    27         87
+    28         43
+    29        129
+    30          4
+    31         12
+    33          1
+    39         50
+    40         14
+    41        312
+    42         99
+    43        888
+    44         12
+    45         22
+    50          2
+    51          6
+    52          1
+    53         16
+    54         15
+    55        292
+    56        509
+    57        999
+    58         46
+    59          3
+    60          0
+    65          4
+    66          3
+    67         16
+    68         16
+    69        195
+    70        234
+    71         26
+    72          3
+    73         20
+    74          1
+    77          5
+    79          4
+    80          3
+    81         10
+    82          8
+    83        169
+    84         87
+    85        320
+    86         22
+    95          3
+    96          6
+    97        132
+    98        111
+    99         51
+   100          2
+   101          2
+   103          2
+   115         13
+   129          3
+   157          0

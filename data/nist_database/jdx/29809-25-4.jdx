@@ -1,0 +1,36 @@
+##TITLE=Library Entry 18143
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzaldehyde, 2-nitroso-
+##MOLFORM=C7H5NO2
+##CAS REGISTRY NO=29809-25-4
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    50        350
+    51        999
+    52        330
+    53         50
+    61         50
+    62         60
+    63        100
+    64        150
+    65         40
+    74        100
+    75         70
+    76        150
+    77        610
+    78         60
+    79        200
+    91        200
+    92         20
+   104         30
+   105         50
+   135        310
+   136         20

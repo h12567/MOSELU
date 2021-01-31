@@ -1,0 +1,24 @@
+##TITLE=Library Entry 46789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=4,6-Heptadiyn-3-one
+##MOLFORM=C7H6O
+##CAS REGISTRY NO=29743-27-9
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=868
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 9
+##XYDATA=(XY..XY) 1 
+    29        150
+    49        190
+    50         10
+    57         60
+    63         60
+    77        999
+    78        480
+    79         30
+   106         20

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 13635
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=Acetoxy-(3-cyclohexylideneaminopropyl)butylborane
+##MOLFORM=C15H28BNO2
+##CAS REGISTRY NO=72863-71-9
+##MP= -300
+##BP= -300
+##MW= 265
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    29        349
+    30         89
+    31        389
+    39        109
+    41        299
+    42        159
+    43        999
+    45        119
+    53        119
+    54        129
+    55        179
+    56         99
+    60         59
+    65         49
+    66         69
+    67        109
+    68        119
+    69         89
+    79         79
+    80         59
+    81        139
+    82         99
+    83        139
+    84         49
+    96         79
+    98        109
+   108         59
+   110         89
+   118        129
+   120         49
+   124        109
+   136         59
+   138         59
+   148        129
+   150         99
+   162         89
+   163         69
+   165        169
+   166        769
+   167         89
+   176        139
+   190         59
+   205         69
+   206         69
+   207        199
+   208        949
+   209        129

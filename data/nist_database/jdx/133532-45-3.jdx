@@ -1,0 +1,35 @@
+##TITLE=Library Entry 29735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=3-Ethoxy-2-bromo-1-propanol
+##MOLFORM=C5H11BrO2
+##CAS REGISTRY NO=133532-45-3
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41         40
+    42         12
+    43         60
+    45          6
+    49          5
+    59        999
+    60         45
+    61          8
+    69          2
+    79          1
+    81          1
+    87          7
+    93          9
+    95          8
+   120          5
+   122          5
+   137         36
+   139         40
+   167          7
+   169          7

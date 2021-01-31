@@ -1,0 +1,60 @@
+##TITLE=Library Entry 34100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DR. C. C. VAN DE SANDE, STATE UNIVERSITY OF GENT, BELGI
+UM
+##NAMES=HP
+##CAS NAME=2-Butenoic acid, 4-nitrophenyl ester
+##MOLFORM=C10H9NO4
+##CAS REGISTRY NO=35665-90-8
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    37         20
+    38         80
+    39        360
+    40         75
+    41        650
+    42         28
+    43         12
+    44         45
+    49         16
+    50         45
+    51         32
+    52         30
+    53         23
+    54         20
+    55         10
+    61         15
+    62         30
+    63        110
+    64         60
+    65         40
+    66         12
+    67         10
+    68         50
+    69        999
+    70         85
+    71         13
+    74         25
+    75         23
+    76         21
+    77         14
+    80         21
+    81         20
+    82         10
+    92         11
+    93         20
+    94         13
+   108         20
+   109         50
+   110         21
+   123         10
+   131          6
+   139         30
+   177         11
+   207         18

@@ -1,0 +1,62 @@
+##TITLE=Library Entry 37594
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. YAMAGUCHI, DRUG METAB., DAINIPPON PHARM. CO., OSAKA,
+ JAPA
+##NAMES=HP
+##CAS NAME=2H-1,2,4-Benzothiadiazine, 7-chloro-2-methyl-3-(4-methyl-1-pipera
+zinyl)-, 1,1-dioxide
+##MOLFORM=C13H17ClN4O2S
+##CAS REGISTRY NO=69045-39-2
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    51          9
+    52          7
+    53          5
+    54          7
+    55         42
+    56        138
+    57         48
+    58        107
+    62          5
+    63          9
+    64         11
+    68          7
+    69         24
+    70        999
+    71         95
+    72          5
+    73          6
+    75          9
+    80          6
+    82         29
+    83        451
+    84         30
+    97         15
+    98         67
+    99         16
+   111          5
+   124         37
+   125         10
+   126         15
+   130          8
+   138          6
+   165         28
+   166         12
+   167         13
+   181          9
+   194         12
+   206         15
+   208          9
+   229         16
+   231          6
+   258         66
+   259          8
+   260         24
+   271          7
+   328          8

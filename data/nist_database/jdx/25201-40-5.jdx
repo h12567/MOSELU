@@ -1,0 +1,59 @@
+##TITLE=Library Entry 9825
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methyl-1,6-heptadien-4-ol
+##MOLFORM=C8H14O
+##CAS REGISTRY NO=25201-40-5
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=819
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    15          9
+    26          3
+    27         30
+    29         29
+    31          9
+    37          3
+    38         10
+    39        124
+    40         16
+    41        137
+    42         24
+    43        999
+    44         26
+    45         11
+    50          3
+    51          8
+    52          2
+    53         11
+    54          1
+    55         24
+    56          2
+    57          6
+    58          4
+    62          1
+    63          3
+    65          9
+    66          2
+    67         18
+    68          2
+    69         43
+    70          3
+    77          6
+    78          1
+    79          4
+    80          1
+    81          2
+    83          3
+    84          2
+    85        268
+    86         14
+    91          4
+    93          2
+   109          1
+   111          1

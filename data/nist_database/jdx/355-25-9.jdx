@@ -1,0 +1,35 @@
+##TITLE=Library Entry 36162
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, decafluoro-
+##MOLFORM=C4F10
+##CAS REGISTRY NO=355-25-9
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    12          2
+    19          1
+    31        122
+    43          2
+    50         42
+    55          1
+    62          5
+    69        999
+    74          3
+    81          8
+    93         12
+   100         84
+   112          2
+   119        183
+   131         84
+   150         26
+   169         21
+   181          1
+   219         26
+   238          1

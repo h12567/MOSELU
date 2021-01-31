@@ -1,0 +1,72 @@
+##TITLE=Library Entry 53662
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Brossi, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=.alpha.-Pyrrolidone, 5-[4-acetylbutyl]-
+##MOLFORM=C10H17NO2
+##CAS REGISTRY NO=124324-97-6
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    41        135
+    42         77
+    43        490
+    44         21
+    45          6
+    51         10
+    52          5
+    53         21
+    54         32
+    55         73
+    56         89
+    57         15
+    58         18
+    65          5
+    66          4
+    67         19
+    68         15
+    69         18
+    70          5
+    71         27
+    77          6
+    79          6
+    80         15
+    81         17
+    82         29
+    83         25
+    84        999
+    85         63
+    86          4
+    93          4
+    94          7
+    95         12
+    96          5
+    97         22
+    98         41
+    99         17
+   110         35
+   111          5
+   112          5
+   113         36
+   121          4
+   123         12
+   124         23
+   125          4
+   126         27
+   136          6
+   138         34
+   139          6
+   140         28
+   141          4
+   150          4
+   153         18
+   155         14
+   165         34
+   166         11
+   183         32
+   184         13

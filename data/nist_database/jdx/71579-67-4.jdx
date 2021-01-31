@@ -1,0 +1,44 @@
+##TITLE=Library Entry 40678
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. KURODA, DEPT. APPL. CHEM., WASEDA UNIV., TOKYO, J
+##NAMES=HP
+##CAS NAME=3,5-Diisopropoxy-1,1,1,7,7,7-hexamethyl-3,5-bis(trimethylsiloxy)t
+etrasiloxane
+##MOLFORM=C18H50O7Si6
+##CAS REGISTRY NO=71579-67-4
+##MP= -300
+##BP= -300
+##MW= 546
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41         54
+    43        278
+    44         18
+    45         49
+    59         34
+    73        999
+    74         87
+    75         46
+    87         12
+   147         53
+   325         22
+   327        152
+   328         43
+   329         29
+   341         51
+   342         20
+   343         11
+   415         44
+   416         20
+   417         12
+   429         12
+   447         37
+   448         17
+   449         11
+   487         50
+   488         23
+   489         18
+   531         14

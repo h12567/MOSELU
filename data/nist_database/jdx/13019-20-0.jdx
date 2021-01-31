@@ -1,0 +1,86 @@
+##TITLE=Library Entry 24003
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3443
+##NAMES=HP
+##CAS NAME=3-Heptanone, 2-methyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=13019-20-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=918
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          9
+    15         47
+    16          1
+    17          1
+    18          3
+    25          3
+    26         51
+    27        496
+    28        111
+    29        400
+    30          9
+    31         11
+    32          1
+    36          1
+    37         13
+    38         32
+    39        323
+    40         44
+    41        733
+    42         97
+    43        769
+    44         28
+    45         15
+    49          3
+    50         15
+    51         21
+    52          7
+    53         35
+    54          7
+    55         77
+    56         47
+    57        999
+    58         53
+    59         16
+    60         63
+    61          3
+    62          2
+    63          3
+    65          4
+    66          1
+    67         11
+    68          8
+    69          9
+    70         10
+    71        283
+    72         16
+    73         34
+    74          4
+    75          1
+    77          3
+    78          1
+    79          3
+    81          3
+    83          4
+    84         12
+    85        551
+    86         99
+    87          9
+    88          1
+    89          1
+    91          1
+    95          3
+    97          2
+    99          8
+   101          1
+   110          1
+   113          2
+   128        140
+   129         13

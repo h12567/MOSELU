@@ -1,0 +1,46 @@
+##TITLE=Library Entry 18022
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=1,3-Benzenediamine, N,N'-bis(sulfinyl)-
+##MOLFORM=C6H4N2O2S2
+##CAS REGISTRY NO=17420-01-8
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    37        250
+    38        340
+    39        470
+    45        220
+    48        999
+    50        260
+    51        260
+    52        260
+    64        260
+    65        150
+    75        150
+    76        290
+    77        520
+    78        200
+    90         60
+    91        160
+    92        140
+    96         80
+    97        260
+    98        180
+   104        200
+   110         60
+   123         80
+   124        550
+   125         80
+   126         80
+   138        210
+   152        320
+   167         30
+   172         30
+   200        200

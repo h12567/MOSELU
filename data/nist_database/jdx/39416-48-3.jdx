@@ -1,0 +1,49 @@
+##TITLE=Library Entry 48581
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9185
+##NAMES=HP
+##CAS NAME=Pyridinium hydrobromide perbromide
+##MOLFORM=C5H6Br3N
+##CAS REGISTRY NO=39416-48-3
+##MP= -300
+##BP= -300
+##MW= 317
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    17          1
+    18          9
+    25          3
+    26         39
+    27         11
+    28         13
+    36          9
+    37          9
+    38         21
+    39         61
+    40         11
+    41         10
+    48          2
+    49         16
+    50         96
+    51        184
+    52        575
+    53         59
+    54          2
+    64          4
+    74          2
+    75         12
+    76         10
+    77          2
+    78        109
+    79        999
+    80        384
+    81        121
+    82        357
+   128          1
+   158        181
+   160        356
+   162        173
+   192          1

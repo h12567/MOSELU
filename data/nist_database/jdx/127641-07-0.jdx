@@ -1,0 +1,79 @@
+##TITLE=Library Entry 62706
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=(1S,4S)-N-Benzyl-2,5-diazabicyclo[2.2.1]heptane
+##MOLFORM=C12H16N2
+##CAS REGISTRY NO=127641-07-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    41        183
+    42         85
+    43         15
+    44         12
+    50         15
+    51         41
+    52         13
+    53          9
+    54         21
+    55         17
+    56         53
+    57          3
+    58         11
+    62          7
+    63         32
+    64         11
+    65        139
+    66          8
+    67         19
+    68        334
+    69         37
+    70         14
+    77         24
+    78         12
+    79        105
+    80        187
+    81        105
+    82        219
+    83          4
+    89         40
+    90         28
+    91        999
+    92         96
+    93          3
+    95          4
+    97        289
+    98         17
+   103          3
+   104         19
+   105         10
+   106         13
+   107          9
+   108          3
+   111          3
+   116          4
+   117         12
+   118         19
+   120         19
+   130          6
+   131         11
+   132         44
+   133         18
+   134          3
+   144          6
+   146          8
+   156          4
+   158        490
+   159        270
+   160         27
+   173          9
+   187         59
+   188        456
+   189        120
+   190          9

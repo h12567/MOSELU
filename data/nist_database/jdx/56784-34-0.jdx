@@ -1,0 +1,45 @@
+##TITLE=Library Entry 61944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.B.KING UNIV. OF GEORGIA, ATHENS, GEORGIA, USA
+##NAMES=HP
+##CAS NAME=Iron, tricarbonyl[(1,2,3,4-.eta.)-4a,4b,6,7,8,9,9a,9b-octahydro-5
+H-benzo[3,4]cyclobuta[1,2]cycloheptene]-
+##MOLFORM=C16H18FeO3
+##CAS REGISTRY NO=56784-34-0
+##MP= -300
+##BP= -300
+##MW= 314
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    56        531
+    91        999
+   105        510
+   115        680
+   117        510
+   119        446
+   128        553
+   129        936
+   131        702
+   141        510
+   142        340
+   143        404
+   144        468
+   145        361
+   146        170
+   147        276
+   148        404
+   149        191
+   172        702
+   174        361
+   222        127
+   224        191
+   226        468
+   228        851
+   230        361
+   256        446
+   258        510
+   286        276
+   314        276

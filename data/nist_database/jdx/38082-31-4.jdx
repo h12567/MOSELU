@@ -1,0 +1,30 @@
+##TITLE=Library Entry 60812
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG, 18(1) 22(1983); L.K.LIU ET AL.
+##NAMES=HP
+##CAS NAME=(E)-1-Methylsulfinyl-2-phenylethene
+##MOLFORM=C9H10OS
+##CAS REGISTRY NO=38082-31-4
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    91        999
+   103        760
+   104         90
+   107        310
+   118        350
+   119        520
+   120         60
+   134         40
+   135        200
+   136         40
+   149         60
+   150        190
+   151        300
+   152         40
+   166        660

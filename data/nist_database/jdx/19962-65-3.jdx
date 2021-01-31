@@ -1,0 +1,35 @@
+##TITLE=Library Entry 81444
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3-Dioxolan-4-one, 5,5-diphenyl-
+##MOLFORM=C15H12O3
+##CAS REGISTRY NO=19962-65-3
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    77        493
+   105        999
+   106         73
+   115         56
+   139         69
+   152         56
+   163         95
+   164         99
+   165        896
+   166        367
+   167         82
+   181         90
+   182        398
+   183        160
+   194         86
+   195        757
+   196        601
+   197         90
+   240        528
+   241         90

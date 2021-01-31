@@ -1,0 +1,67 @@
+##TITLE=Library Entry 23587
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=N-Methylpivalamide
+##MOLFORM=C6H13NO
+##CAS REGISTRY NO=6830-83-7
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    15         59
+    16          1
+    26          8
+    27         78
+    28         21
+    29        240
+    30         69
+    31         17
+    32         33
+    37          5
+    38         15
+    39        197
+    40         33
+    41        601
+    42         85
+    43         22
+    44         31
+    45          3
+    49          1
+    50          7
+    51          9
+    52          4
+    53         18
+    54          7
+    55         48
+    56        114
+    57        999
+    58        549
+    59         43
+    60        285
+    61          7
+    66          1
+    67          1
+    68          2
+    69         47
+    70         21
+    71          3
+    72        179
+    73        107
+    74          3
+    82          4
+    83          7
+    84          4
+    85          7
+    86          1
+    98          2
+   100        118
+   101          7
+   114         12
+   115        287
+   116         25
+   117          1

@@ -1,0 +1,39 @@
+##TITLE=Library Entry 350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethylene oxide
+##MOLFORM=C2H4O
+##CAS REGISTRY NO=75-21-8
+##MP= -300
+##BP= -300
+##MW= 44
+##$RETENTION INDEX=404
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    12         38
+    13         79
+    14        259
+    15        652
+    16         83
+    17          4
+    18          2
+    24         14
+    25         48
+    26        139
+    27         43
+    28         65
+    29        999
+    30         20
+    31         11
+    38          1
+    39          3
+    40          5
+    41         18
+    42        119
+    43        156
+    44        652
+    45         21
+    46          5

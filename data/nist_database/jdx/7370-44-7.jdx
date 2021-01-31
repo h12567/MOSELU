@@ -1,0 +1,65 @@
+##TITLE=Library Entry 71978
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, tetrahydro-6-undecyl-
+##MOLFORM=C16H30O2
+##CAS REGISTRY NO=7370-44-7
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=2148
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27         78
+    29        199
+    39        111
+    41        653
+    42        463
+    43        720
+    53         62
+    54         92
+    55        744
+    56        270
+    57        268
+    67        168
+    68        152
+    69        434
+    70        478
+    71        492
+    72         26
+    73         76
+    81         94
+    82        134
+    83        222
+    84        133
+    85         72
+    87         26
+    95         87
+    96         95
+    97        192
+    98        114
+    99        999
+   100         79
+   101         37
+   110         51
+   111        101
+   114        154
+   115         40
+   124         33
+   125         33
+   126         17
+   127         31
+   134         36
+   137         29
+   151         25
+   152         39
+   155         20
+   166         11
+   173         21
+   192         58
+   194         17
+   236         37
+   254          9

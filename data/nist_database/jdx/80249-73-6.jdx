@@ -1,0 +1,38 @@
+##TITLE=Library Entry 27937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. DAKKOURI, DEP. CHEM., UNIV. ULM, ULM, W. GER.
+##NAMES=HP
+##CAS NAME=Cyclobutylsilane
+##MOLFORM=C4H10Si
+##CAS REGISTRY NO=80249-73-6
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    29        313
+    30         84
+    31        196
+    32         27
+    39        149
+    41         66
+    42         40
+    43        522
+    44         95
+    45         84
+    51         28
+    53        183
+    54         93
+    55        515
+    56        226
+    57        254
+    58        999
+    59        115
+    60         35
+    71         63
+    83         90
+    85         29
+    86         55

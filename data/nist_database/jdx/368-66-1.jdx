@@ -1,0 +1,34 @@
+##TITLE=Library Entry 36197
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,3,5-Triazine, 2,4,6-tris(trifluoromethyl)-
+##MOLFORM=C6F9N3
+##CAS REGISTRY NO=368-66-1
+##MP= -300
+##BP= -300
+##MW= 285
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    31        233
+    38         20
+    50        350
+    52         43
+    57         30
+    69        999
+    70         20
+    76        500
+    77         10
+    78         67
+   102        133
+   121        667
+   122         10
+   190        383
+   191         10
+   266        366
+   267         20
+   285        366
+   286         22

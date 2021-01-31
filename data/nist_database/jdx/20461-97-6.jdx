@@ -1,0 +1,79 @@
+##TITLE=Library Entry 45492
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-(ethylthio)-, ethyl ester
+##MOLFORM=C7H14O2S
+##CAS REGISTRY NO=20461-97-6
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    25          8
+    26         94
+    27        743
+    34         30
+    35        203
+    37          7
+    39         17
+    40         47
+    41         80
+    42         30
+    43        111
+    44         29
+    45        276
+    46        123
+    47        370
+    48         11
+    49         17
+    51          6
+    53         12
+    54          7
+    55        202
+    56         80
+    57        119
+    58         72
+    59        245
+    60        588
+    61        892
+    62        146
+    63        106
+    64          5
+    71         62
+    72         12
+    73        303
+    74        381
+    75        999
+    76         39
+    77         57
+    84         13
+    85          7
+    87        324
+    88        997
+    89        636
+    90         76
+    91        134
+    92          5
+    93         10
+   101         50
+   102        366
+   103        105
+   104         10
+   105         36
+   107          6
+   115         13
+   116         83
+   117        287
+   118         21
+   119         12
+   132          6
+   133        125
+   134         28
+   135         13
+   162        699
+   163         59
+   164         35

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 2241
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9253
+##NAMES=HP
+##CAS NAME=Cyclopropyl bromide
+##MOLFORM=C3H5Br
+##CAS REGISTRY NO=4333-56-6
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          3
+    15          8
+    25          3
+    26         20
+    27         22
+    28          3
+    36          4
+    37         31
+    38         50
+    39        314
+    40         24
+    41        999
+    42         42
+    43          1
+    47          1
+    48          1
+    49          1
+    58          1
+    59          3
+    60          2
+    61          1
+    79         10
+    80          8
+    81         10
+    82          9
+    83          9
+    85          7
+    87          1
+    91          4
+    92          5
+    93         12
+    94          6
+    95         10
+    96          1
+    97          3
+    99          1
+   104          2
+   105          5
+   106          3
+   107          4
+   117          3
+   118          1
+   119          6
+   120        194
+   121          9
+   122        189
+   123          6

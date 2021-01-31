@@ -1,0 +1,85 @@
+##TITLE=Library Entry 78929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Ethanone, 2-bromo-1,2-diphenyl-
+##MOLFORM=C14H11BrO
+##CAS REGISTRY NO=1484-50-0
+##MP= -300
+##BP= -300
+##MW= 274
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+     4          1
+    14          2
+    26          1
+    27          6
+    28          1
+    37          1
+    38         10
+    39         27
+    40          4
+    50         36
+    51         99
+    52          8
+    53          1
+    61          4
+    62         20
+    63         49
+    64         19
+    65         14
+    70          4
+    73          1
+    74         11
+    75         13
+    76          1
+    77        245
+    78         17
+    79          3
+    80          5
+    81          4
+    82         16
+    86          6
+    87          6
+    89         99
+    90        114
+    91         19
+    92          2
+    98          7
+    99          1
+   102          4
+   105        999
+   106         74
+   107          5
+   113          2
+   114          2
+   115         10
+   118         33
+   119          3
+   126          2
+   127          2
+   128          5
+   139          8
+   141          3
+   151          8
+   152         59
+   153          9
+   163          7
+   164         11
+   165        102
+   166         36
+   167         54
+   168          9
+   169         13
+   170          1
+   171         11
+   176          2
+   177          2
+   178          1
+   179          2
+   194          5
+   195         38
+   196          4

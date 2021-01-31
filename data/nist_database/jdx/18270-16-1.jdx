@@ -1,0 +1,46 @@
+##TITLE=Library Entry 53079
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Diethyldivinylsilane
+##MOLFORM=C8H16Si
+##CAS REGISTRY NO=18270-16-1
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41         26
+    42         22
+    43         77
+    44        261
+    45         90
+    47         39
+    53         63
+    54         36
+    55        169
+    56         56
+    57        292
+    58         46
+    59         86
+    63         32
+    65         32
+    67         29
+    74         19
+    75         32
+    77         15
+    81         53
+    82         19
+    83        999
+    84         87
+    85        186
+    86         32
+    87         32
+   111        956
+   112        135
+   113         60
+   140          5
+   141          1

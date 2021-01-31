@@ -1,0 +1,32 @@
+##TITLE=Library Entry 47708
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetaldehyde, azine with benzophenone
+##MOLFORM=C15H14N2
+##CAS REGISTRY NO=22610-09-9
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    51        390
+    52         40
+    77        999
+    78         80
+   104        400
+   105         40
+   145        170
+   146         20
+   165        350
+   166         40
+   180        620
+   181         70
+   207        470
+   208         60
+   221        580
+   222        720
+   223        100

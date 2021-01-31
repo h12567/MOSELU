@@ -1,0 +1,29 @@
+##TITLE=Library Entry 29531
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Undecanedioic acid, octadecafluoro-, dimethyl ester
+##MOLFORM=C13H6F18O4
+##CAS REGISTRY NO=22116-91-2
+##MP= -300
+##BP= -300
+##MW= 568
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    15        380
+    59        999
+    69        100
+    81         30
+   100         40
+   109         30
+   119         40
+   131        120
+   324         60
+   424         90
+   509         40
+   521         40
+   524        110
+   549         40

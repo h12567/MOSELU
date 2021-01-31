@@ -1,0 +1,65 @@
+##TITLE=Library Entry 94351
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Phosphonochloridic acid, methyl-, 1-methylethyl ester, (.+/-.)-
+##MOLFORM=C4H10ClO2P
+##CAS REGISTRY NO=157966-84-2
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27        190
+    29         27
+    30         10
+    31         30
+    35         55
+    36        261
+    37         35
+    38        102
+    39        221
+    41        310
+    42        166
+    43        128
+    44         16
+    45         23
+    47        148
+    49        156
+    51         29
+    52         12
+    53         19
+    55         14
+    58         27
+    59         91
+    60         13
+    62         18
+    63         34
+    65         28
+    77         46
+    78         36
+    79        450
+    80         13
+    91         47
+    92         12
+    97        204
+    98         27
+    99         75
+   100         16
+   103         26
+   104         17
+   105        358
+   106         49
+   114         15
+   115        999
+   116         26
+   117        371
+   119         57
+   120        222
+   121        182
+   141        495
+   142         22
+   143        148

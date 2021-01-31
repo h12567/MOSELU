@@ -1,0 +1,77 @@
+##TITLE=Library Entry 25584
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Hexanal, 2-ethyl-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=123-05-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=955
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          8
+    27        111
+    28          3
+    29        161
+    30          3
+    31          6
+    37          2
+    38          7
+    39        137
+    40         19
+    41        374
+    42         56
+    43        334
+    44         24
+    45          4
+    50          7
+    51         14
+    52          5
+    53         40
+    54         41
+    55        150
+    56         42
+    57        999
+    58         53
+    59          4
+    62          1
+    63          3
+    65          7
+    66          2
+    67         22
+    68         11
+    69         26
+    70         14
+    71         58
+    72        853
+    73         41
+    74          3
+    77          4
+    78          1
+    79          5
+    80          1
+    81         12
+    82         28
+    83          6
+    84          2
+    85         26
+    86          3
+    91          1
+    93          1
+    95          9
+    96          1
+    97          3
+    98          2
+    99          7
+   100         11
+   101          1
+   109          1
+   110          4
+   111          1
+   128         12
+   129          2

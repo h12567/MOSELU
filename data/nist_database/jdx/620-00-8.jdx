@@ -1,0 +1,50 @@
+##TITLE=Library Entry 20738
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3-Ethyl-2-hexene
+##MOLFORM=C8H16
+##CAS REGISTRY NO=620-00-8
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=790
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    15          5
+    26         10
+    27         85
+    28         30
+    29         73
+    39        156
+    40         32
+    41        246
+    42         37
+    43         43
+    44          6
+    50         15
+    51         33
+    52         14
+    53         78
+    54          6
+    55        999
+    56         55
+    63          8
+    65         27
+    66         11
+    67         97
+    68         31
+    69         53
+    70         50
+    71          5
+    77         18
+    78          4
+    79         18
+    81         17
+    83        592
+    84         81
+    97         10
+   112        162
+   113         15

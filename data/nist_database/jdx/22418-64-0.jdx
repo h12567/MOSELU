@@ -1,0 +1,67 @@
+##TITLE=Library Entry 74332
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Butane, 1,1'-[methylenebis(oxy)]bis[3-methyl-
+##MOLFORM=C11H24O2
+##CAS REGISTRY NO=22418-64-0
+##MP= -300
+##BP= -300
+##MW= 188
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         94
+    28         22
+    29        127
+    30         13
+    31         44
+    39         62
+    40         13
+    41        214
+    42         73
+    43        878
+    44         39
+    45         92
+    51          4
+    53         17
+    54          8
+    55        159
+    56         39
+    57         40
+    58         29
+    59         39
+    67         13
+    68         19
+    69        652
+    70        438
+    71        970
+    72         69
+    73          7
+    81          6
+    82         32
+    83         21
+    84         15
+    85         48
+    86         15
+    87         32
+    89          7
+    95          3
+    97          4
+    99         93
+   100         29
+   101        999
+   102         68
+   103         17
+   113         11
+   114          5
+   117         63
+   118          4
+   119          6
+   127          3
+   131          9
+   187         23
+   188          3

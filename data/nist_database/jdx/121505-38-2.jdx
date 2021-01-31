@@ -1,0 +1,37 @@
+##TITLE=Library Entry 51949
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Oxirane, 2-(chloromethyl)-2-(1,1-dimethylethyl)-
+##MOLFORM=C7H13ClO
+##CAS REGISTRY NO=121505-38-2
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        250
+    41        530
+    43        250
+    49        110
+    51        100
+    53        100
+    55        430
+    56        130
+    57        340
+    65        100
+    67        330
+    69        340
+    77        220
+    79        100
+    83        999
+    84        200
+   113        120
+   133        530
+   134         40
+   135        170
+   136         13

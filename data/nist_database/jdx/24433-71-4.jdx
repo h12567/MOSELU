@@ -1,0 +1,66 @@
+##TITLE=Library Entry 58468
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 1-ethyl-5-phenyl-
+##MOLFORM=C9H10N4
+##CAS REGISTRY NO=24433-71-4
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    37         29
+    38         83
+    39        286
+    40         98
+    41         66
+    42        110
+    43         20
+    44         17
+    50        376
+    51        544
+    52         85
+    53         42
+    54         10
+    55         10
+    57         14
+    60         11
+    61        102
+    62        327
+    63        715
+    64        165
+    65        153
+    66         10
+    67          6
+    69          8
+    73         20
+    74        100
+    75        161
+    76        379
+    77        820
+    78        107
+    85         39
+    86         69
+    87         66
+    89        999
+    90        564
+    91        676
+    92         51
+    93         14
+    99          4
+   102         68
+   103        443
+   104        630
+   105         54
+   115        142
+   117        612
+   118        528
+   119         35
+   131        265
+   132         70
+   174        533
+   175         43

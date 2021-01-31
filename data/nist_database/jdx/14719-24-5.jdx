@@ -1,0 +1,81 @@
+##TITLE=Library Entry 21477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JIM LAWLESS AMES RESEARCH CTR NASA MOFFETT FIELD, CALIF
+ 94035
+##NAMES=HP
+##CAS NAME=Acetamide, 2,2,2-trifluoro-N-isopentyl-
+##MOLFORM=C7H12F3NO
+##CAS REGISTRY NO=14719-24-5
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    40         45
+    41        789
+    42        308
+    43        658
+    44        108
+    45         22
+    46         45
+    47         21
+    48         59
+    49         29
+    50         25
+    51         30
+    52          6
+    53         45
+    54         34
+    55        999
+    56        139
+    57        669
+    58        209
+    59          6
+    63          3
+    64          6
+    65          3
+    66         10
+    67         13
+    68         14
+    69        505
+    70        843
+    71        176
+    72        165
+    73          4
+    74          1
+    76          2
+    77          1
+    78        126
+    79         18
+    80          1
+    84          1
+    90          1
+    92         10
+    93          6
+    94         17
+    96          6
+    97         35
+    98         18
+   106         19
+   107         12
+   113          2
+   114        400
+   115         20
+   125          9
+   126        858
+   127        718
+   128         45
+   129          2
+   139         12
+   140        156
+   141         52
+   142          4
+   152          3
+   155          1
+   168         24
+   182          2
+   183         33
+   184          1

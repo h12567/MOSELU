@@ -1,0 +1,65 @@
+##TITLE=Library Entry 64091
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=2-Phenethyl-4H-chromen-4-one
+##MOLFORM=C17H14O2
+##CAS REGISTRY NO=61828-53-3
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=2346
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27          1
+    38          4
+    39         21
+    41          4
+    50          9
+    51         20
+    52          4
+    53          4
+    62          6
+    63         34
+    64         23
+    65         90
+    66          6
+    74          5
+    75          7
+    76          9
+    77         33
+    78          7
+    86          1
+    89         14
+    91        999
+    92        108
+    93          8
+   101          3
+   102          8
+   103          9
+   104          4
+   115          9
+   116          2
+   120          6
+   121         19
+   124          8
+   125          7
+   127          9
+   128         20
+   129         10
+   130          6
+   131         23
+   132          2
+   144          2
+   173          2
+   178          2
+   202          2
+   231          3
+   232          4
+   233          6
+   249         14
+   250        185
+   251         35
+   252          4

@@ -1,0 +1,33 @@
+##TITLE=Library Entry 37277
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. MALMBERG, DEP. CHEM., UNIV. AGRIC. SCI., UPPSALA, SW
+EDEN
+##NAMES=HP
+##CAS NAME=Cinnamamide, N-(4-aminobutyl)-4-hydroxy-3-methoxy-
+##MOLFORM=C14H20N2O3
+##CAS REGISTRY NO=501-13-3
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    43        290
+    44        460
+    56        100
+    70        999
+    89        120
+   117         80
+   127        100
+   137        130
+   145        200
+   149         70
+   177        450
+   178        140
+   192         80
+   206         10
+   235         20
+   247         30
+   264         50

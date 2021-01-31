@@ -1,0 +1,64 @@
+##TITLE=Library Entry 4762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanamidine, 3,3,3-trifluoro-2-trifluoromethyl-N1-tert-butyl-N2
+-phenyl-
+##MOLFORM=C14H16F6N2
+##CAS REGISTRY NO=36734-86-8
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    37         10
+    39        517
+    41        925
+    42        999
+    43        127
+    44          8
+    45         26
+    50         79
+    51        209
+    52         27
+    53         28
+    54         31
+    55         84
+    57        937
+    58        109
+    63         55
+    65        194
+    66         38
+    69        135
+    75         10
+    76         14
+    77        474
+    78         43
+    90         45
+    91         55
+    92         55
+    93        203
+    99         10
+   102         24
+   117         14
+   118        134
+   119        274
+   120         33
+   131          9
+   132         50
+   159         13
+   170         15
+   175         19
+   178         39
+   180         61
+   190         27
+   205         19
+   254         32
+   268         12
+   269        431
+   270        119
+   283          8
+   326        104

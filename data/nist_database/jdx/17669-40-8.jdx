@@ -1,0 +1,53 @@
+##TITLE=Library Entry 47163
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-1-hepten-3-yne
+##MOLFORM=C8H12
+##CAS REGISTRY NO=17669-40-8
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26         19
+    27        170
+    28         20
+    29         70
+    36         29
+    37         19
+    38         38
+    39        170
+    40         70
+    41        140
+    42         20
+    43         60
+    50         80
+    51        181
+    52         88
+    53        178
+    54         19
+    55         39
+    58         19
+    62         40
+    63         99
+    64         40
+    65        170
+    66        160
+    67         80
+    68         20
+    77        999
+    78        139
+    79        463
+    80        141
+    91        492
+    92         60
+    93        481
+    94         39
+   105         30
+   107         50
+   108        771
+   109         69

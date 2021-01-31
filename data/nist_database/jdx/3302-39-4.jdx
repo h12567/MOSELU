@@ -1,0 +1,58 @@
+##TITLE=Library Entry 58771
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MINISTRY OF DEFENCE ERDE, WALTHAM ABBEY, ESSEX, UK
+##NAMES=HP
+##CAS NAME=Benzene, 1-azido-2-bromo-
+##MOLFORM=C6H4BrN3
+##CAS REGISTRY NO=3302-39-4
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    14         10
+    25         10
+    26         50
+    27         40
+    28         60
+    36         20
+    37        130
+    38        240
+    39        430
+    40         30
+    45         60
+    49         30
+    50        130
+    51         70
+    52         40
+    60         10
+    61         60
+    62        120
+    63        460
+    64        220
+    65         30
+    73         10
+    74         30
+    75         30
+    76         30
+    79         30
+    80         20
+    81         30
+    82         20
+    87         20
+    88         30
+    89         20
+    90        999
+    91         80
+    92         10
+   117         10
+   119         10
+   169        190
+   170         20
+   171        180
+   172         10
+   197         60
+   199         60

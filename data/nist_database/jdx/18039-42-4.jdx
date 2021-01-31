@@ -1,0 +1,76 @@
+##TITLE=Library Entry 98082
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3634
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 5-phenyl-
+##MOLFORM=C7H6N4
+##CAS REGISTRY NO=18039-42-4
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          8
+    27         12
+    28         14
+    29         14
+    36          2
+    37         25
+    38         34
+    39        113
+    40          9
+    41         12
+    42          1
+    43         14
+    44          2
+    48          1
+    49         12
+    50         89
+    51        126
+    52         27
+    53          5
+    54          1
+    59         26
+    60          4
+    61         37
+    62         93
+    63        203
+    64         92
+    65         20
+    66          8
+    67          3
+    70          1
+    73          7
+    74         23
+    75         27
+    76         74
+    77        280
+    78         25
+    79          3
+    84          3
+    85         13
+    86         26
+    87         23
+    88         11
+    89        126
+    90         29
+    91        371
+    92         28
+    93          1
+    99          2
+   100          1
+   102          4
+   103        126
+   104         45
+   105          4
+   117          4
+   118        999
+   119         84
+   120          3
+   146        305
+   147         28
+   148          1

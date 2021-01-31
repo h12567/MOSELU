@@ -1,0 +1,78 @@
+##TITLE=Library Entry 7666
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S.S. POPOV, INST. ORG. CHEM., BULG. ACAD. SCI., SOFIA,
+ B
+##NAMES=HP
+##CAS NAME=Acevaltrate
+##MOLFORM=C24H32O10
+##CAS REGISTRY NO=25161-41-5
+##MP= -300
+##BP= -300
+##MW= 480
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    41        330
+    42         60
+    43        999
+    55         80
+    57        920
+    60        200
+    63         10
+    77         25
+    83        250
+    85        240
+    91         15
+    92          5
+    97         20
+    98          5
+   103         20
+   119         25
+   120         42
+   121         15
+   131         14
+   132         10
+   143         17
+   147         33
+   148         82
+   149         20
+   164         31
+   165          4
+   175          9
+   176         47
+   177         18
+   190         16
+   191         12
+   206         26
+   207          5
+   208          3
+   217          2
+   218         33
+   219         45
+   220         12
+   221          3
+   232          3
+   236          3
+   245          1
+   247          1
+   248          1
+   258          3
+   260          4
+   261          7
+   278          1
+   288          7
+   290          2
+   291          2
+   303          1
+   318          2
+   320          4
+   321          5
+   348          4
+   356          0
+   357          0
+   361          0
+   378          0
+   420          5
+   480          1

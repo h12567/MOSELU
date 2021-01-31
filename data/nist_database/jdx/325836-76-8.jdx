@@ -1,0 +1,46 @@
+##TITLE=Library Entry 56254
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.Damasceno ET AL J.Mass Spectrom.,35,1285(2000)
+##NAMES=HP
+##CAS NAME=Bambuterol, TMS derivative
+##MOLFORM=C21H37N3O5Si
+##CAS REGISTRY NO=325836-76-8
+##MP= -300
+##BP= -300
+##MW= 439
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    54          9
+    56         18
+    57         88
+    58         10
+    71         27
+    72        938
+    73        178
+    74         19
+    84         10
+    86        999
+    87         58
+   146         11
+   195         11
+   265         20
+   281         10
+   282         60
+   283         10
+   309         19
+   310         11
+   334         20
+   336         11
+   353         20
+   354        141
+   355         28
+   356         11
+   368         11
+   424         30
+   425         11
+   439         81
+   440         18
+   441         10

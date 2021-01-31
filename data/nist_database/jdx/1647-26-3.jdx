@@ -1,0 +1,89 @@
+##TITLE=Library Entry 52435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexane, (2-bromoethyl)-
+##MOLFORM=C8H15Br
+##CAS REGISTRY NO=1647-26-3
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          3
+    27         65
+    28         20
+    29         33
+    39         65
+    40         11
+    41        192
+    42         19
+    43         17
+    50          4
+    51         10
+    52          6
+    53         30
+    54         33
+    55        442
+    56         26
+    57          3
+    65          7
+    66          3
+    67         63
+    68         13
+    69         76
+    70          5
+    77          8
+    78          2
+    79         10
+    80          3
+    81         51
+    82        116
+    83        999
+    84         66
+    85          2
+    91          4
+    92          1
+    93          4
+    94          1
+    95          7
+    96          1
+    97          2
+   105          1
+   106          1
+   107          6
+   108          1
+   109          9
+   110         35
+   111        253
+   112         22
+   113          1
+   119          2
+   120          1
+   121          3
+   122          1
+   123          1
+   133          1
+   134          1
+   135          2
+   136          1
+   137          1
+   139          1
+   141          1
+   147          1
+   148          1
+   149          1
+   150          1
+   160          2
+   161          3
+   162         10
+   163          3
+   164          8
+   190         41
+   191          4
+   192         40
+   193          3

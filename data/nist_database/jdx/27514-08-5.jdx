@@ -1,0 +1,67 @@
+##TITLE=Library Entry 10420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=4-Aminocyclohexanone, N-acetyl-
+##MOLFORM=C8H13NO2
+##CAS REGISTRY NO=27514-08-5
+##MP= -300
+##BP= -300
+##MW= 155
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    41        195
+    42        192
+    43        999
+    44         75
+    45          8
+    47          6
+    48          1
+    49         29
+    50          5
+    51         18
+    52         14
+    53         38
+    54        178
+    55         88
+    56        539
+    57        352
+    58         40
+    60        630
+    61         13
+    65         12
+    66         11
+    67         57
+    68         99
+    69         25
+    70         36
+    71          9
+    72          1
+    73         19
+    77          3
+    78          2
+    79          6
+    80         10
+    81         19
+    82          9
+    83         10
+    84         83
+    85         69
+    86         18
+    91          5
+    94         12
+    95         50
+    96        638
+    97         48
+    98         34
+    99         29
+   101         21
+   112         13
+   113          8
+   114          1
+   139          2
+   156         31
+   157          5

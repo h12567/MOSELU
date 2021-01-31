@@ -1,0 +1,43 @@
+##TITLE=Library Entry 109773
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=3-Methoxy-4-propoxyphenol
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=84290-16-4
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    38        380
+    41        451
+    43        247
+    52        119
+    53        153
+    55        177
+    65        142
+    68        123
+    69        167
+    79         78
+    81         66
+    93         74
+    96         93
+    97        456
+   108         46
+   109         23
+   111        153
+   123         10
+   125        999
+   126        156
+   138         48
+   140        774
+   141         73
+   153          7
+   167          2
+   182        732
+   183         87

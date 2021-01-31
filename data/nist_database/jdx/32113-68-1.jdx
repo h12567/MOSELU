@@ -1,0 +1,41 @@
+##TITLE=Library Entry 12450
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=C. OFFEN, MAFF, FOOD SCI. LAB., NORWICH, U.K.
+##NAMES=HP
+##CAS NAME=3-(Methylthio)penta-2,4-dione
+##MOLFORM=C6H10O2S
+##CAS REGISTRY NO=32113-68-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=1703
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41         90
+    42         50
+    43        999
+    45        180
+    47         80
+    53         60
+    55        160
+    59         70
+    61        120
+    67         50
+    71         60
+    75         80
+    85        110
+    86         90
+    88        150
+    89        210
+   100         50
+   103        370
+   104        540
+   105         50
+   113        140
+   128         50
+   131        110
+   146        600
+   147         70
+   148         30

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 33677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.J. WINKLER, LEHRSTUHL ALLG. CHEM. BIOCHEM., FREISING,
+ W. G
+##NAMES=HP
+##CAS NAME=3-cis-Methoxy-5-trans-methyl-1R-cyclohexanol
+##MOLFORM=C8H16O2
+##CAS REGISTRY NO=59013-83-1
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    39        350
+    41        900
+    42        420
+    43        700
+    44        270
+    45        280
+    53        120
+    54         50
+    55        380
+    56        230
+    57        200
+    58        710
+    59        400
+    61        230
+    67        250
+    68        999
+    69        390
+    70        210
+    71        270
+    72         60
+    73         20
+    77         40
+    79        160
+    81        130
+    83         70
+    84        130
+    85        660
+    86         50
+    87        970
+    88         40
+    89         40
+    91         20
+    93         40
+    94        290
+    95        190
+    96        540
+    97        260
+    98         50
+    99         40
+   101         30
+   111        230
+   112        290
+   113         20
+   114         28
+   115         10
+   125         40
+   126        260
+   127         30
+   128         16
+   142          2
+   143          5
+   144          8

@@ -1,0 +1,48 @@
+##TITLE=Library Entry 18956
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.X.WEBSTER,STATE UNIV.N.Y.,COLL.ENVIRON.SCI.FORESTRY,N
+.Y.,USA
+##NAMES=HP
+##CAS NAME=Methyl (1RS,6RS)-5-oxobicyclo[4.2.0]octane-1-carboxylate
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=105539-58-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        780
+    40        280
+    41        760
+    42        110
+    43        100
+    51         90
+    53        170
+    55        999
+    59        220
+    65        190
+    66        230
+    67        580
+    68        190
+    77         90
+    79        280
+    80        110
+    81        210
+    83        110
+    94        190
+    95        390
+    98        140
+   104        200
+   105        270
+   111         80
+   122        230
+   123        220
+   126        280
+   139         40
+   150        170
+   154         90
+   164        100
+   182         80

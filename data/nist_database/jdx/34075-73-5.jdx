@@ -1,0 +1,41 @@
+##TITLE=Library Entry 63670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Thymine, 1-[4-(benzyloxy)-3-[(benzyloxy)methyl]butyl]-
+##MOLFORM=C24H28N2O4
+##CAS REGISTRY NO=34075-73-5
+##MP= -300
+##BP= -300
+##MW= 408
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        202
+    41        212
+    51        138
+    55        128
+    65        192
+    77        251
+    79         89
+    91        999
+    96        188
+   105        359
+   106         50
+   126         91
+   127        130
+   139        158
+   166         49
+   193         59
+   194         49
+   209        150
+   211        721
+   212        151
+   302        131
+   316         60
+   317        250
+   318         69
+   408        190
+   409         58

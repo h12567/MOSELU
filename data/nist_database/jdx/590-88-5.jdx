@@ -1,0 +1,41 @@
+##TITLE=Library Entry 15721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. LUNN,ENVIRON. CONTROL,NATL. CANCER INST.,FREDERICK,M
+D.,USA
+##NAMES=HP
+##CAS NAME=1,3-Butanediamine
+##MOLFORM=C4H12N2
+##CAS REGISTRY NO=590-88-5
+##MP= -300
+##BP= -300
+##MW= 88
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    44        999
+    45        100
+    46          3
+    50          2
+    51          3
+    52          3
+    53          7
+    54         22
+    55         13
+    56        464
+    57         41
+    58        114
+    59         14
+    60          0
+    65          1
+    66          1
+    67          8
+    68          8
+    69          9
+    70        196
+    71        761
+    72         49
+    73         12
+    86          0
+    87          1

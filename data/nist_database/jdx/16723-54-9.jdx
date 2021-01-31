@@ -1,0 +1,45 @@
+##TITLE=Library Entry 97958
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiochroman-4-one, 8-methyl-, 1,1-dioxide
+##MOLFORM=C10H10O3S
+##CAS REGISTRY NO=16723-54-9
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    50         20
+    51         40
+    63        140
+    64         50
+    65         40
+    69         20
+    74         10
+    75         20
+    76         20
+    77         30
+    78         20
+    89        120
+    90        270
+    91         40
+   105         10
+   106         20
+   115         30
+   116         10
+   117         10
+   118        999
+   119         80
+   120         10
+   121         20
+   134         20
+   135         10
+   146         20
+   182        170
+   183         20
+   210        180
+   211         20

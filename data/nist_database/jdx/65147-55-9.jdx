@@ -1,0 +1,38 @@
+##TITLE=Library Entry 50098
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=JACSAT, 99(23)7601(1977); B. M. TROST
+##NAMES=HP
+##CAS NAME=Spiro[3.4]octan-1-one, 5-methyl-, cis-
+##MOLFORM=C9H14O
+##CAS REGISTRY NO=65147-55-9
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39        440
+    40         90
+    41        360
+    44        500
+    51         90
+    53        180
+    54        180
+    55        160
+    65         80
+    67        680
+    68        180
+    77        100
+    79        200
+    81        999
+    82        360
+    91         70
+    94        170
+    95        380
+    96        180
+   109        200
+   110        160
+   120        300
+   138        380

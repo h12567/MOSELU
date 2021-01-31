@@ -1,0 +1,65 @@
+##TITLE=Library Entry 2030
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4982
+##NAMES=HP
+##CAS NAME=Butanenitrile, 4-chloro-
+##MOLFORM=C4H6ClN
+##CAS REGISTRY NO=628-20-6
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=862
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          2
+    14          5
+    15          9
+    25          3
+    26         33
+    27        239
+    28         30
+    29          3
+    35          3
+    36         10
+    37         15
+    38         23
+    39         73
+    40         46
+    41        999
+    42         34
+    43          1
+    44          1
+    47          2
+    48          3
+    49         82
+    50          4
+    51         28
+    52         20
+    53          4
+    54        170
+    55          8
+    56          1
+    57          2
+    60          1
+    61          6
+    62          6
+    63        122
+    64         12
+    65         38
+    66         30
+    67         46
+    68         21
+    69          1
+    73          1
+    74          1
+    75          7
+    76          2
+    77          2
+    88          3
+   101          2
+   102          4
+   103          1
+   104          1

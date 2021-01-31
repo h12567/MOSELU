@@ -1,0 +1,47 @@
+##TITLE=Library Entry 28432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MI-0079
+##NAMES=HP
+##CAS NAME=Rotoxamine
+##MOLFORM=C16H19ClN2O
+##CAS REGISTRY NO=5560-77-0
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=2049
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    42         79
+    43         34
+    44         39
+    45         49
+    56         34
+    57         34
+    58        999
+    59         49
+    70         19
+    71        739
+    72         99
+    73         39
+    74          9
+    75         19
+   138          4
+   139         24
+   140         14
+   141          4
+   164          4
+   165         14
+   166         34
+   167        109
+   168         29
+   201         34
+   202         64
+   203         51
+   204         29
+   205         19
+   218         19
+   219         14
+   220          9
+   221          4

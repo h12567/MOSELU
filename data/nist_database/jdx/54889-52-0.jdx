@@ -1,0 +1,68 @@
+##TITLE=Library Entry 10513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. BRYCE UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K
+.
+##NAMES=HP
+##CAS NAME=1-Pentanamine, N-nitro-N-pentyl-
+##MOLFORM=C10H22N2O2
+##CAS REGISTRY NO=54889-52-0
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    38         22
+    39        144
+    40        222
+    41        566
+    42        711
+    43        999
+    44        555
+    45         30
+    51          9
+    52         10
+    53         28
+    54         87
+    55        155
+    56        355
+    57        300
+    58         46
+    61          8
+    67         20
+    68         26
+    69        124
+    70        222
+    71        144
+    72         20
+    80         10
+    81         10
+    82         21
+    83         10
+    84        444
+    85         55
+    86         40
+    89        106
+    94          8
+    95         10
+    96         15
+    97         11
+    98        866
+    99         82
+   100        377
+   101         24
+   112         52
+   113         86
+   114         26
+   126         86
+   127         15
+   131         10
+   133         11
+   140         18
+   145        177
+   146         12
+   154         13
+   156        377
+   157         46

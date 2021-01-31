@@ -1,0 +1,90 @@
+##TITLE=Library Entry 76601
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1,2-Bis(methyldichlorosilyl)-2-(trichlorosilyl)ethylene
+##MOLFORM=C4H7Cl7Si3
+##CAS REGISTRY NO=111257-39-7
+##MP= -300
+##BP= -300
+##MW= 384
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 75
+##XYDATA=(XY..XY) 1 
+    63        378
+    64         30
+    65        127
+    73         76
+    74         20
+    77         28
+    78        196
+    79        130
+    80         75
+    81         48
+    83         50
+    93         71
+    95         30
+   103        999
+   104         98
+   105        346
+   106         29
+   107         27
+   112         30
+   113        627
+   114         71
+   115        428
+   116         29
+   117        103
+   123        101
+   125         68
+   127         11
+   133         51
+   135         47
+   137         46
+   139         31
+   215         31
+   216         30
+   217         72
+   218         39
+   219         60
+   220         17
+   221         20
+   235         41
+   236        327
+   237         98
+   238        450
+   239         97
+   240        252
+   241         47
+   242         71
+   243         10
+   255         20
+   256         19
+   257         31
+   258         30
+   259         17
+   260         19
+   261          9
+   262          7
+   348         21
+   349         29
+   350         37
+   351         50
+   352         39
+   353         51
+   354         29
+   355         40
+   356         12
+   357          7
+   369         30
+   371         50
+   373         51
+   375         42
+   377         19
+   384         20
+   386         32
+   388         41
+   390         30
+   392          9

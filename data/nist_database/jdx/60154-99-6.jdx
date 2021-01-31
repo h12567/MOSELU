@@ -1,0 +1,98 @@
+##TITLE=Library Entry 44085
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow, Rus
+sia
+##NAMES=HP
+##CAS NAME=1,1,2,2-Tetra(trimethylsilyl)3,4-bis(trimethylsiloxy)3,4-diphenyl
+-1,2-silacyclobutane
+##MOLFORM=C32H64O2Si8
+##CAS REGISTRY NO=60154-99-6
+##MP= -300
+##BP= -300
+##MW= 704
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 81
+##XYDATA=(XY..XY) 1 
+    57        167
+    58         16
+    73        999
+    74         85
+    75         36
+    76          1
+    77         87
+    78          6
+    79          1
+   131        129
+   132         19
+   133        119
+   134         18
+   135        251
+   136         37
+   137         19
+   138          2
+   139          1
+   147        386
+   148         61
+   149         31
+   150          3
+   151          1
+   173         89
+   174         21
+   175         11
+   176          2
+   177          1
+   205        188
+   206         40
+   207         17
+   208          2
+   249        268
+   250         74
+   251         36
+   252          7
+   253          2
+   263        101
+   264         29
+   265         14
+   266          3
+   267          1
+   337        648
+   338        242
+   339        130
+   340         33
+   341          9
+   342          2
+   343          1
+   348        409
+   349        181
+   350        119
+   351         37
+   352         84
+   353         32
+   354         17
+   355          4
+   356        229
+   357         75
+   358         28
+   359          6
+   360          1
+   558         99
+   559         59
+   560         37
+   561         14
+   562          5
+   563          1
+   631         89
+   632         61
+   633         41
+   634         18
+   635          7
+   636          2
+   637          1
+   704         29
+   705         22
+   706         16
+   707          8
+   708          3
+   709          1

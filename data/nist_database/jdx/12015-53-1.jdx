@@ -1,0 +1,35 @@
+##TITLE=Library Entry 52868
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I.P.FISHER ROCKET PROPULSION ESTAB., WESTCOTT, BUCKS.,
+ UK
+##NAMES=HP
+##CAS NAME=Dichlorine heptoxide
+##MOLFORM=Cl2O7
+##CAS REGISTRY NO=12015-53-1
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    32          2
+    35         10
+    37          3
+    51         90
+    52          4
+    53         28
+    54          1
+    67        312
+    69        104
+    70          9
+    72          5
+    74          1
+    83        999
+    85        334
+    99          6
+   101          2
+   182          6
+   184          4
+   186          0

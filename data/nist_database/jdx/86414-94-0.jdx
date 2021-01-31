@@ -1,0 +1,51 @@
+##TITLE=Library Entry 69052
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=YA. V. RASHKES, ACAD. SCI. UZBEK, SSR, TASHKENT, USSR
+##NAMES=HP
+##CAS NAME=5.alpha.-Cholestane-3.beta.,6.alpha.,7.alpha.,8.beta.,15.alpha.,1
+6.beta.,26-heptaol
+##MOLFORM=C27H48O7
+##CAS REGISTRY NO=86414-94-0
+##MP= -300
+##BP= -300
+##MW= 484
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    95        999
+   136        730
+   154        580
+   207        230
+   223        200
+   225        200
+   247        350
+   275        350
+   283        270
+   293        980
+   301        460
+   302        330
+   312        190
+   319        270
+   320        300
+   321        140
+   329        330
+   337        160
+   338        180
+   339        150
+   347        140
+   352        100
+   363        180
+   365         50
+   366        100
+   384         40
+   397        130
+   401        100
+   412        410
+   415        220
+   430        550
+   433        120
+   448        850
+   466         90
+   484          4

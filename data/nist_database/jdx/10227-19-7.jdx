@@ -1,0 +1,47 @@
+##TITLE=Library Entry 30895
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=5-Thio-d-glucopyranose
+##MOLFORM=C6H12O5S
+##CAS REGISTRY NO=10227-19-7
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    41        182
+    42        760
+    43        717
+    45        872
+    47        464
+    55        281
+    57        365
+    58        182
+    59        605
+    60        999
+    61        309
+    71        196
+    73        703
+    74         71
+    76         71
+    77         67
+    85         75
+    87         67
+    89        122
+    97         27
+    98         23
+   101        100
+   102         33
+   113         14
+   116          9
+   119         33
+   127         10
+   129         22
+   131          9
+   147         29
+   160          9
+   178          5

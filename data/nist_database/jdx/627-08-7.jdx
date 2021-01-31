@@ -1,0 +1,52 @@
+##TITLE=Library Entry 6831
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Propane, 1-(1-methylethoxy)-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=627-08-7
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=609
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    24          0
+    26          8
+    27        132
+    28         24
+    29         25
+    30          3
+    31         64
+    32          0
+    37          3
+    38          4
+    39         57
+    40         11
+    41        204
+    42         65
+    43        999
+    44         34
+    45        648
+    46         14
+    47          1
+    55         26
+    56          2
+    57          8
+    58          6
+    59         76
+    60          2
+    61          0
+    69          3
+    71          1
+    72          1
+    73        106
+    74          5
+    86          0
+    87        170
+    88          9
+   101          0
+   102          5

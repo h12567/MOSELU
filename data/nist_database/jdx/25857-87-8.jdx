@@ -1,0 +1,30 @@
+##TITLE=Library Entry 64382
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.G.O.BECKER TECH. COLLEGE, LEUNA-MERSEBURG, GERMANY, D
+.D.R
+##NAMES=HP
+##CAS NAME=N-[1-Benzyl-4-(1,2,4-triazolio)]benzamidate
+##MOLFORM=C16H14N4O
+##CAS REGISTRY NO=25857-87-8
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    91        999
+   104         50
+   105        110
+   117         20
+   118         60
+   119        120
+   131         40
+   132        100
+   158        110
+   159        110
+   173         20
+   187         20
+   201         30
+   278        140

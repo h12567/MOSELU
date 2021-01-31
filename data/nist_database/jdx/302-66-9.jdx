@@ -1,0 +1,32 @@
+##TITLE=Library Entry 35468
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=1-Pentyn-3-ol, 3-methyl-, carbamate
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=302-66-9
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        279
+    43        391
+    44        166
+    51        113
+    53        260
+    55        152
+    65         68
+    69        999
+    70         83
+    77         69
+    79        343
+    80        252
+    81        271
+    83        432
+    97         92
+   112         40
+   113         39

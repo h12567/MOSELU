@@ -1,0 +1,25 @@
+##TITLE=Library Entry 23638
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,1-Diisobutoxy-butane
+##MOLFORM=C12H26O2
+##CAS REGISTRY NO=13002-16-9
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    29        173
+    41        268
+    43        103
+    55        130
+    56         50
+    57        999
+    73        214
+   103         56
+   129        177
+   159         40

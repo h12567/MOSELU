@@ -1,0 +1,34 @@
+##TITLE=Library Entry 58383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.MULLER UNIV. OF TUBINGEN, W. GERMANY
+##NAMES=HP
+##CAS NAME=Lactic acid, 3,3,3-trichloro-, hydrazide
+##MOLFORM=C3H5Cl3N2O2
+##CAS REGISTRY NO=19836-22-7
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    59        720
+    61        360
+    71        260
+    76        240
+    82        120
+    83        340
+    85        210
+    89        999
+   111        230
+   112        650
+   114        430
+   116         80
+   147         60
+   149         60
+   151         30
+   171         30
+   206         80
+   208         80
+   210         30

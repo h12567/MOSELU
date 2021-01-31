@@ -1,0 +1,67 @@
+##TITLE=Library Entry 77100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Furancarboxylic acid, 2-phenylethyl ester
+##MOLFORM=C13H12O3
+##CAS REGISTRY NO=7149-32-8
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=1760
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    25          4
+    26         17
+    27         41
+    28          6
+    29         38
+    36          6
+    37         45
+    38         97
+    39        361
+    40         21
+    41         29
+    42          6
+    44         27
+    45          6
+    49          6
+    50         45
+    51         95
+    52         29
+    53         25
+    55         11
+    61          6
+    62         12
+    63         41
+    64          9
+    65         81
+    66         19
+    67         29
+    68          6
+    69          4
+    74         12
+    75          9
+    76          8
+    77         99
+    78         61
+    79         45
+    89         18
+    90          6
+    91        168
+    92         19
+    93          4
+    94          4
+    95        711
+    96         46
+    97          6
+   102          9
+   103         67
+   104        999
+   105        148
+   106          8
+   112         12
+   113          6
+   216          1

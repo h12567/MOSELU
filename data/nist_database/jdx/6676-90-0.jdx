@@ -1,0 +1,55 @@
+##TITLE=Library Entry 63413
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Diazene, (2-methylphenyl)phenyl-
+##MOLFORM=C13H12N2
+##CAS REGISTRY NO=6676-90-0
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27         21
+    28          5
+    38         15
+    39        102
+    40          7
+    41         30
+    50         33
+    51        164
+    52         23
+    63         38
+    64         27
+    65        188
+    66         13
+    76         10
+    77        592
+    78         48
+    89         31
+    90         19
+    91        999
+    92         85
+    93          6
+   104          5
+   105         90
+   106          7
+   114         10
+   119        122
+   120          9
+   128          8
+   141         13
+   151          7
+   152         58
+   153         24
+   165         44
+   166         23
+   167         53
+   168         13
+   195         60
+   196        631
+   197         98
+   198         22

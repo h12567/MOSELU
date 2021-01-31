@@ -1,0 +1,81 @@
+##TITLE=Library Entry 14465
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4-Nitro-4'-[[N-acetyl]carbethoxymethylamino]diphenyl sulfone
+##MOLFORM=C18H18N2O7S
+##CAS REGISTRY NO=17929-45-2
+##MP= -300
+##BP= -300
+##MW= 406
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    41          5
+    42         12
+    43        999
+    44         23
+    45         10
+    50         29
+    51         34
+    52          7
+    63         17
+    64          8
+    65         18
+    69         10
+    74          3
+    75         16
+    76         44
+    77         63
+    78         32
+    79          6
+    90          6
+    91          3
+    92         16
+    93          3
+   102          2
+   103          3
+   104         61
+   105        150
+   106         13
+   108          2
+   118          3
+   120         61
+   121         12
+   122          7
+   128          5
+   136          9
+   137          3
+   139          8
+   152         34
+   153         10
+   168         14
+   184          7
+   213         11
+   245         67
+   246          9
+   259         56
+   260          8
+   261          3
+   275         12
+   289          5
+   290          9
+   291        693
+   292        106
+   293         42
+   294          3
+   332         32
+   333          7
+   350          7
+   361         26
+   364        431
+   365         85
+   366         29
+   367          1
+   374         17
+   375          2
+   406         20
+   407          9

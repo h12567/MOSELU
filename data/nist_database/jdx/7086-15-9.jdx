@@ -1,0 +1,68 @@
+##TITLE=Library Entry 66194
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopentadiene, 2,5,5-trimethyl-
+##MOLFORM=C8H12
+##CAS REGISTRY NO=7086-15-9
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          9
+    27         57
+    29         17
+    37          7
+    38         19
+    39        149
+    40         30
+    41         70
+    42          3
+    43          6
+    45          1
+    47          2
+    49          1
+    50         38
+    51         80
+    52         38
+    53         57
+    54          3
+    55          8
+    56          1
+    57          0
+    61          1
+    62         10
+    63         39
+    64         11
+    65        104
+    66         17
+    67         25
+    68          3
+    74          4
+    75          2
+    76          0
+    77        461
+    78         68
+    79        105
+    80         18
+    81          0
+    84          4
+    85          1
+    86          5
+    89          5
+    91        553
+    92         73
+    93        999
+    94         81
+    95          2
+   103          1
+   105         44
+   106          0
+   107        119
+   108        381
+   109         33
+   110          2

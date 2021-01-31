@@ -1,0 +1,63 @@
+##TITLE=Library Entry 47006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N,N'-(4-Chlorobenzylidene)dibenzamide
+##MOLFORM=C21H17ClN2O2
+##CAS REGISTRY NO=15563-56-1
+##MP= -300
+##BP= -300
+##MW= 364
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    35          6
+    36         11
+    37         12
+    38         27
+    39         36
+    40          4
+    41          3
+    43         14
+    44         49
+    50        165
+    51        353
+    52         32
+    53          6
+    61          4
+    62          9
+    63         13
+    64          6
+    65          9
+    66          3
+    73          8
+    74         35
+    75         76
+    77        999
+    78         60
+    79         18
+    85          3
+    91          3
+    92          3
+    93          5
+   102         11
+   103         14
+   105        961
+   106         64
+   107          4
+   111         27
+   112          5
+   113          8
+   121         12
+   122         20
+   138         38
+   139          7
+   140         12
+   156          4
+   257          3
+   259         68
+   260          8
+   261         19
+   262          3

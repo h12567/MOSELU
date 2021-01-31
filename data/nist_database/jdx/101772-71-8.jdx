@@ -1,0 +1,43 @@
+##TITLE=Library Entry 82709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.K. CARTLEDGE, DEP. CHEM., LA. STATE UNIV., BATON ROUG
+E, USA
+##NAMES=HP
+##CAS NAME=trans-1-Chloro-1,2-dimethylsilacyclohexane
+##MOLFORM=C7H15ClSi
+##CAS REGISTRY NO=101772-71-8
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    63        240
+    65        100
+    78        350
+    79        720
+    80        170
+    81        300
+    92        350
+    93        630
+    94        180
+    95        290
+    97        230
+   105        450
+   106        999
+   107        470
+   108        350
+   109        100
+   111        140
+   119        550
+   120        100
+   121        230
+   133        130
+   134        670
+   136        230
+   147        180
+   149         85
+   162        310
+   164        110

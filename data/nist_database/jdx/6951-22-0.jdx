@@ -1,0 +1,25 @@
+##TITLE=Library Entry 19902
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sydnone, 3,3'-tetramethylenedi-
+##MOLFORM=C8H10N4O4
+##CAS REGISTRY NO=6951-22-0
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    54         80
+    55        999
+    56        330
+    57         30
+    68         50
+    69         70
+    85         70
+   141        100
+   142         10
+   168         40

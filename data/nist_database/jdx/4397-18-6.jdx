@@ -1,0 +1,27 @@
+##TITLE=Library Entry 12488
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.M. CARMAN, DEP. CHEM., UNIV. QUEENSLAND, ST. LUCIA, A
+UST.
+##NAMES=HP
+##CAS NAME=3-Hydroxy-.alpha.,.alpha.,4-trimethylbenzyl alcohol
+##MOLFORM=C10H14O2
+##CAS REGISTRY NO=4397-18-6
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39        130
+    43        999
+    51        100
+    77        140
+   105        100
+   107        100
+   108        140
+   133        170
+   148        320
+   151        170
+   166        120

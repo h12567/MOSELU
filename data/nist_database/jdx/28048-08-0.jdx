@@ -1,0 +1,63 @@
+##TITLE=Library Entry 83918
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2,4-Dihydroxy-3,3-dimethyl-N-[2-[p-methylphenyl]sulfamoyl]ethyl]v
+aleramide
+##MOLFORM=C16H26N2O5S
+##CAS REGISTRY NO=28048-08-0
+##MP= -300
+##BP= -300
+##MW= 358
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    41         99
+    42         36
+    43        242
+    44        173
+    45        108
+    51         22
+    52         20
+    53         32
+    55         90
+    56         10
+    57         63
+    65         11
+    67          5
+    69         25
+    70         31
+    71         40
+    72         63
+    73         57
+    77        124
+    78         37
+    79        116
+    82         24
+    83         98
+    85         81
+    91          5
+    99         29
+   100          5
+   104          5
+   105         18
+   106        294
+   107        999
+   108        164
+   109         19
+   120         11
+   126         10
+   134         10
+   165          5
+   190         18
+   214         88
+   216          5
+   234         31
+   252         76
+   261          5
+   270          5
+   358         51
+   359         10

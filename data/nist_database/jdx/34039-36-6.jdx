@@ -1,0 +1,32 @@
+##TITLE=Library Entry 1223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(9)861(1974); BUDZIKIEWICZ
+##NAMES=HP
+##CAS NAME=1-Butanamine, 4-methoxy-
+##MOLFORM=C5H13NO
+##CAS REGISTRY NO=34039-36-6
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    30        999
+    39         10
+    40         10
+    41         50
+    42         60
+    43        110
+    44         30
+    45        120
+    55         10
+    56         10
+    58         40
+    70         40
+    71         50
+    72         20
+    73         30
+    88        200
+   103         10

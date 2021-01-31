@@ -1,0 +1,37 @@
+##TITLE=Library Entry 81142
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Benzoyl-6,6,8,8-tetramethyl-1-azaspiro[3.5]nonan-2-one
+##MOLFORM=C19H25NO2
+##CAS REGISTRY NO=77064-45-0
+##MP= -300
+##BP= -300
+##MW= 299
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    51         53
+    77        331
+    78         25
+   105        999
+   106        115
+   132        151
+   133         15
+   135        199
+   136        203
+   137        529
+   138         60
+   164        501
+   165         40
+   178        180
+   179         22
+   243        199
+   244         35
+   284        192
+   285         27
+   299        331
+   300         68
+   301         12

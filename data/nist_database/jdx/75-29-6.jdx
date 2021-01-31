@@ -1,0 +1,50 @@
+##TITLE=Library Entry 5507
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4938
+##NAMES=HP
+##CAS NAME=Propane, 2-chloro-
+##MOLFORM=C3H7Cl
+##CAS REGISTRY NO=75-29-6
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=480
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    13          1
+    14          5
+    15         16
+    25          3
+    26         23
+    27        292
+    28          5
+    29          1
+    35          4
+    36         11
+    37         14
+    38         23
+    39         84
+    40         20
+    41        217
+    42         65
+    43        999
+    44         35
+    45          2
+    47          1
+    48          1
+    49          6
+    51          2
+    60          2
+    61          5
+    62         17
+    63        169
+    64          9
+    65         56
+    66          1
+    77          3
+    78         89
+    79          4
+    80         30
+    81          1

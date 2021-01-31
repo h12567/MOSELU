@@ -1,0 +1,29 @@
+##TITLE=Library Entry 82896
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Barluenga, Dep. Org. Chem., Univ. Oviedo, Oviedo, Sp
+ain
+##NAMES=HP
+##CAS NAME=Oxirane, 2-butyl-2-(chloromethyl)-
+##MOLFORM=C7H13ClO
+##CAS REGISTRY NO=86488-91-7
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    41        140
+    42        140
+    43        120
+    55        180
+    77        270
+    79        110
+    99        100
+   106        999
+   108        350
+   119        540
+   121        190
+   133         30
+   135         10

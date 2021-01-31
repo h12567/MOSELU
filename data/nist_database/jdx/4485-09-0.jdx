@@ -1,0 +1,72 @@
+##TITLE=Library Entry 8914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3643
+##NAMES=HP
+##CAS NAME=4-Nonanone
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=4485-09-0
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1030
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15         10
+    26          8
+    27        159
+    28         11
+    29        114
+    30          3
+    31          5
+    37          1
+    38          5
+    39         69
+    40         13
+    41        186
+    42         41
+    43        999
+    44         37
+    45          6
+    50          2
+    51          4
+    52          1
+    53         11
+    54          3
+    55         54
+    56          8
+    57         24
+    58        343
+    59         14
+    60          9
+    65          2
+    67          6
+    68          2
+    69          8
+    70         14
+    71        594
+    72         33
+    73          5
+    74          1
+    77          1
+    79          1
+    80          1
+    81          8
+    82          1
+    83          2
+    85          4
+    86        152
+    87         24
+    88          2
+    95          1
+    97          1
+    98          3
+    99        342
+   100         33
+   101          2
+   113          7
+   114          2
+   127          4
+   142         51
+   143          6

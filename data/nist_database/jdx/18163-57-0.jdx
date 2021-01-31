@@ -1,0 +1,30 @@
+##TITLE=Library Entry 34068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane, trichloro(2-methyl-2-butenyl)-
+##MOLFORM=C5H9Cl3Si
+##CAS REGISTRY NO=18163-57-0
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    27         93
+    39        133
+    41        529
+    42         51
+    53         65
+    55         82
+    63         64
+    67         63
+    68         56
+    69        999
+    70         62
+   133         83
+   135         82
+   202         68
+   204         67

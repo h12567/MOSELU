@@ -1,0 +1,43 @@
+##TITLE=Library Entry 54031
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.G.HORNING,INST.FOR LIPID RES,BAYLOR COLL.OF MED,HOUST
+ON,TEX
+##NAMES=HP
+##CAS NAME=Phosphonic acid, [1-[(1-methylethylidene)amino]ethyl]-, bis(trime
+thylsilyl) ester
+##MOLFORM=C11H28NO3PSi2
+##CAS REGISTRY NO=55108-64-0
+##MP= -300
+##BP= -300
+##MW= 309
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41         25
+    42         60
+    43         10
+    44         15
+    45         20
+    63         10
+    68         15
+    69         10
+    73         45
+    75         20
+    78         10
+    82         10
+    83         25
+    84        999
+    85         65
+   121          7
+   126          7
+   133         10
+   135         16
+   137          6
+   147         13
+   195          9
+   211          9
+   225         13
+   294         20
+   309         10

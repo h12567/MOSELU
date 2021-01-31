@@ -1,0 +1,50 @@
+##TITLE=Library Entry 42171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenyl 4,6-di-O-dimethyl-tert-butylsilyl-2,3-dideoxy-.alpha.-d-er
+ythro-hex-2-enopyranoside
+##MOLFORM=C24H42O4Si2
+##CAS REGISTRY NO=129889-15-2
+##MP= -300
+##BP= -300
+##MW= 450
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    73        999
+    75        264
+    81        252
+    89        276
+    93         30
+    94        121
+   100        107
+   103         47
+   115        142
+   117        472
+   118         65
+   133         76
+   145         45
+   147         39
+   149         62
+   151        139
+   157         60
+   197        131
+   198         42
+   211        219
+   212         23
+   225        166
+   226         35
+   246         10
+   247         19
+   264         11
+   281          8
+   299          7
+   357         71
+   381          5
+   393          9
+   394          9
+   426         10
+   450          8

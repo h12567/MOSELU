@@ -1,0 +1,53 @@
+##TITLE=Library Entry 16706
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethane, methoxy-
+##MOLFORM=C3H8O
+##CAS REGISTRY NO=540-67-0
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=421
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         24
+    14         68
+    15        250
+    16          9
+    17          6
+    18          1
+    19          1
+    24          2
+    25         11
+    26         80
+    27        204
+    28         79
+    29        490
+    30         34
+    31        199
+    32         21
+    33         19
+    34          1
+    37          1
+    38          1
+    39          2
+    40          1
+    41          8
+    42         17
+    43         69
+    44          8
+    45        999
+    46         23
+    47          2
+    55          1
+    56          1
+    57          2
+    58          5
+    59        108
+    60        258
+    61          9
+    62          1

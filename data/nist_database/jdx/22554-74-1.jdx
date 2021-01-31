@@ -1,0 +1,46 @@
+##TITLE=Library Entry 15376
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=3,4-Furandiol, tetrahydro-, trans-
+##MOLFORM=C4H8O3
+##CAS REGISTRY NO=22554-74-1
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    14         18
+    15         97
+    18         15
+    19         83
+    26         42
+    27        142
+    28        265
+    29        339
+    30         40
+    31        234
+    32         18
+    36         48
+    38         24
+    39         27
+    41         19
+    42         88
+    43        570
+    44        999
+    45        243
+    46         12
+    47         31
+    55        243
+    56        172
+    57         94
+    58         15
+    60        178
+    61        398
+    69          2
+    73        118
+    74         64
+    86         15

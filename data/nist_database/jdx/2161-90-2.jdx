@@ -1,0 +1,67 @@
+##TITLE=Library Entry 87126
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=1-Methoxy-1,3-cyclohexadiene
+##MOLFORM=C7H10O
+##CAS REGISTRY NO=2161-90-2
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=904
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    14          9
+    15         41
+    26         38
+    27        213
+    28         31
+    29         40
+    31         22
+    32         10
+    37         38
+    38        117
+    39        632
+    40        135
+    41        660
+    42         57
+    43         68
+    45         73
+    49         15
+    50        119
+    51        197
+    52        108
+    53         96
+    54         23
+    55         57
+    61         11
+    62         26
+    63         64
+    64         27
+    65        316
+    66        185
+    67        798
+    68         56
+    69         12
+    73          2
+    74         21
+    75          9
+    76         19
+    77        389
+    78        174
+    79        431
+    80        100
+    81         37
+    91         15
+    92          5
+    93         21
+    94        277
+    95        660
+    96         44
+   107         14
+   108         69
+   109        743
+   110        999
+   111         76

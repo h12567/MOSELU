@@ -1,0 +1,35 @@
+##TITLE=Library Entry 77113
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=s-Triazine-2-carboxylic acid, 4,6-diphenyl-, hydrazide
+##MOLFORM=C16H13N5O
+##CAS REGISTRY NO=29366-69-6
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    50         70
+    51        180
+    57         70
+    76        160
+    77        610
+    78         70
+   103        730
+   104        999
+   105        160
+   106         10
+   129        470
+   130        190
+   131         70
+   160        110
+   161         10
+   262        120
+   263        150
+   264         20
+   291        470
+   292         80

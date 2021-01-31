@@ -1,0 +1,63 @@
+##TITLE=Library Entry 47057
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzamide
+##MOLFORM=C7H7NO
+##CAS REGISTRY NO=55-21-0
+##MP= -300
+##BP= -300
+##MW= 121
+##$RETENTION INDEX=1342
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          3
+    16         46
+    17         12
+    18          4
+    25          7
+    26         23
+    27         23
+    28         23
+    36          5
+    37         51
+    38         73
+    39         90
+    40          7
+    42          1
+    43          7
+    44        187
+    47         18
+    49         43
+    50        332
+    51        580
+    52         84
+    53         15
+    54          3
+    60          3
+    61         15
+    62         18
+    63         19
+    64         10
+    65         26
+    66         10
+    72          3
+    73         29
+    74        105
+    75         66
+    76        102
+    77        999
+    78        123
+    79          5
+    92          8
+    93          3
+   103         39
+   105        904
+   106         67
+   107          5
+   121        675
+   122         54
+   123          2

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 72203
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2(3H)-Furanone, dihydro-4-methyl-5-pentyl-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=33673-62-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1502
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    17          7
+    18         38
+    26         11
+    27         96
+    29        132
+    31          9
+    39        137
+    40         23
+    41        381
+    42        367
+    43        372
+    44         21
+    53         54
+    54         32
+    55        409
+    56        184
+    57        221
+    65         17
+    67        110
+    68         82
+    69        127
+    70        402
+    71        617
+    72         23
+    73         55
+    77         18
+    78         15
+    79         12
+    80         11
+    81         60
+    82         57
+    83         74
+    84         66
+    85        478
+    86         73
+    87         17
+    88         54
+    91         15
+    92          9
+    95         37
+    96         62
+    97         55
+    98         49
+    99        999
+   100         60
+   101         55
+   103          7
+   105         13
+   106         24
+   107         12
+   109         20
+   110         45
+   114        138
+   115         37
+   123         50
+   124         46
+   137          6
+   141         28
+   142         16
+   152         31
+   153         17
+   155         16
+   168          4
+   169         19
+   170          8

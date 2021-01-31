@@ -1,0 +1,47 @@
+##TITLE=Library Entry 16935
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=Erythro-3-bromo-2-pentanol
+##MOLFORM=C5H11BrO
+##CAS REGISTRY NO=159475-12-4
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    43         45
+    44        133
+    45        999
+    46         22
+    53          7
+    55          2
+    57         11
+    58          4
+    59          5
+    67          3
+    69         23
+    70          1
+    71         39
+    79          2
+    80          3
+    81          2
+    82          3
+    86          8
+    87         35
+    88          1
+    93          1
+    95          1
+   106          1
+   107          1
+   109          1
+   111          2
+   120          3
+   121          2
+   122          4
+   123          1
+   151          7
+   153          6

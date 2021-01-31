@@ -1,0 +1,38 @@
+##TITLE=Library Entry 32944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Cis-bicyclo[4.2.0]octane
+##MOLFORM=C8H14
+##CAS REGISTRY NO=28282-35-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=880
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    51         40
+    52         20
+    53         95
+    54        550
+    55        125
+    56         30
+    63         10
+    65         30
+    66         50
+    67        999
+    68        230
+    69        110
+    77         30
+    78         10
+    79         40
+    80         30
+    81        420
+    82        940
+    83         60
+    95        100
+    96          8
+   110         95
+   111          8

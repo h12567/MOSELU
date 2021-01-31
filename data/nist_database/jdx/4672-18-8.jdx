@@ -1,0 +1,87 @@
+##TITLE=Library Entry 70830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-Piperidinebutyronitrile
+##MOLFORM=C9H16N2
+##CAS REGISTRY NO=4672-18-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    11          1
+    12          3
+    15         16
+    16          1
+    17          2
+    18          1
+    20          2
+    24          1
+    26         12
+    27         64
+    28         83
+    29         28
+    30         30
+    35          1
+    37          2
+    38          6
+    39         69
+    40         18
+    41        165
+    42        168
+    43         35
+    44         44
+    45          1
+    48          1
+    50          1
+    51          5
+    52         11
+    53         14
+    54         43
+    55         99
+    56         36
+    57         18
+    58          5
+    64          3
+    65          4
+    66          6
+    67         53
+    69         66
+    70          4
+    71          1
+    75         38
+    77          1
+    78          3
+    79          7
+    80          5
+    81         12
+    82         15
+    84          3
+    85          2
+    93          2
+    94          5
+    95          8
+    96         37
+    98        999
+    99         69
+   100          2
+   107          1
+   108          1
+   109          5
+   110          9
+   111          9
+   112         10
+   119          2
+   121          1
+   123         15
+   124          5
+   135          1
+   137          2
+   149          1
+   151         51
+   152         56
+   153          6

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 48233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.MULLER INST. OF CHEM., TUBINGEN UNIV., GERMANY, F.R.G
+.
+##NAMES=HP
+##CAS NAME=2,5-Heptadiyn-4-one
+##MOLFORM=C7H6O
+##CAS REGISTRY NO=34793-66-3
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        470
+    40         30
+    43         50
+    49         50
+    50        210
+    51        470
+    52        400
+    53         30
+    61         70
+    62         90
+    63        190
+    64         30
+    66         90
+    67        650
+    68         40
+    73         40
+    74        100
+    75         50
+    76         60
+    77        160
+    78        999
+    79         80
+    85         30
+    86         40
+    87         30
+    91         60
+   106        940
+   107         90

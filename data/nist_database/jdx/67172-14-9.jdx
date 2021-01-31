@@ -1,0 +1,86 @@
+##TITLE=Library Entry 73854
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-1859
+##NAMES=HP
+##CAS NAME=(Iodoacetyl)urea
+##MOLFORM=C3H5IN2O2
+##CAS REGISTRY NO=67172-14-9
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         11
+    15          9
+    16         11
+    17         10
+    18         22
+    27          5
+    28         67
+    29         19
+    30         53
+    31         46
+    32          1
+    38          2
+    39          2
+    40          8
+    41         34
+    42        225
+    43        110
+    44        590
+    45          9
+    46          2
+    49          1
+    54          1
+    55          2
+    56          3
+    57          2
+    58        133
+    59         13
+    60          7
+    61         61
+    62          1
+    63          1
+    69          1
+    70         17
+    71          1
+    73          2
+    74          1
+    84          4
+    85          1
+    87         15
+    93          6
+    95          2
+    97          1
+   100          8
+   101        999
+   102         45
+   103          5
+   127        109
+   128         46
+   129          1
+   136          1
+   139          9
+   140         17
+   141        173
+   142         96
+   143         17
+   149          2
+   154          1
+   156          7
+   157          2
+   167          4
+   168        131
+   169         85
+   170          2
+   184          1
+   185        289
+   186         10
+   187          2
+   211          5
+   228        103
+   229          4

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 52573
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=2-(Cyclohexylimino)-3,3-dimethylbutane
+##MOLFORM=C12H23N
+##CAS REGISTRY NO=72278-17-2
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        100
+    41        390
+    42        420
+    43        310
+    44        100
+    55        460
+    56        980
+    57        150
+    83        999
+    84        120
+    99        100
+   124        251
+   139         21
+   166         17
+   181         27

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 21025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclohexanemethanol, .alpha.-propyl-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=4352-42-5
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         11
+    18          7
+    27        198
+    28         91
+    29        197
+    30          3
+    31         99
+    32          8
+    39        178
+    40         41
+    41        396
+    42         59
+    43        259
+    44         50
+    45         33
+    51         17
+    52         12
+    53         75
+    54        101
+    55        999
+    56         98
+    57        145
+    65         23
+    67        336
+    68         41
+    69         84
+    70         29
+    71         28
+    72        227
+    73        477
+    74         22
+    77         26
+    78          6
+    79         41
+    80         15
+    81         94
+    82        163
+    83         87
+    84         21
+    91         10
+    93         29
+    95        792
+    96         92
+   109         18
+   111          7
+   113        269
+   114         23
+   138         37

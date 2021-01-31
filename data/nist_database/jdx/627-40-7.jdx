@@ -1,0 +1,49 @@
+##TITLE=Library Entry 3560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Propene, 3-methoxy-
+##MOLFORM=C4H8O
+##CAS REGISTRY NO=627-40-7
+##MP= -300
+##BP= -300
+##MW= 72
+##$RETENTION INDEX=529
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    14         10
+    15        124
+    16          5
+    17          4
+    18         19
+    25          7
+    26         48
+    27        210
+    28         96
+    29        472
+    30         15
+    31         59
+    32         17
+    33          9
+    36          3
+    37         28
+    38         64
+    39        450
+    40         60
+    41        999
+    42         93
+    44         17
+    45        524
+    46         14
+    53         23
+    55         32
+    56         34
+    57        264
+    58         22
+    69          4
+    71        604
+    72        983
+    73         48
+    74          4

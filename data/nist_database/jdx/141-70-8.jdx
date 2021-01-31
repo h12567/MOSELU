@@ -1,0 +1,53 @@
+##TITLE=Library Entry 23295
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Heptane, 2,2,6,6-tetramethyl-4-methylene-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=141-70-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15          4
+    27         36
+    28         29
+    29        103
+    32          3
+    39         75
+    41        270
+    42         12
+    43         21
+    51          7
+    52          5
+    53         28
+    54         10
+    55         83
+    56          5
+    57        999
+    58         48
+    65          7
+    67         23
+    68          6
+    69         45
+    70         10
+    71          5
+    77          9
+    79         14
+    80          3
+    81         25
+    82          3
+    83         50
+    84          8
+    91          4
+    95          7
+    97         95
+    98         13
+   112         51
+   113         11
+   168         46
+   169          6

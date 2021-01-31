@@ -1,0 +1,57 @@
+##TITLE=Library Entry 10599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. GREENHALGH, AGRIC. CAN., PLANT RES. CENT., OTTAWA, C
+AN.
+##NAMES=HP
+##CAS NAME=Acetamide, N-(2,5-dihydro-5-oxo-2-furanyl)-
+##MOLFORM=C6H7NO3
+##CAS REGISTRY NO=16275-44-8
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    40         49
+    41        101
+    43        999
+    44         62
+    46         21
+    52         17
+    53         35
+    54        252
+    55        358
+    56         16
+    60         75
+    61          8
+    68          4
+    70         24
+    71         65
+    72          5
+    73          3
+    80         23
+    81         36
+    82        272
+    83        148
+    84         17
+    88          4
+    91          4
+    96          4
+    97         70
+    98         41
+    99        437
+   100         24
+   101          1
+   112          9
+   113          8
+   121          2
+   122          1
+   124          5
+   136          1
+   137          5
+   138          2
+   139          3
+   141         18
+   142          2

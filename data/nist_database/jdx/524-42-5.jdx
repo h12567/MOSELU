@@ -1,0 +1,68 @@
+##TITLE=Library Entry 114858
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=1,2-Naphthalenedione
+##MOLFORM=C10H6O2
+##CAS REGISTRY NO=524-42-5
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    25          1
+    26          7
+    27          5
+    29          1
+    36          1
+    37         18
+    38         25
+    39         35
+    40          1
+    41          1
+    48          2
+    49         28
+    50        206
+    51        166
+    52         45
+    53         14
+    54          1
+    60          4
+    61         31
+    62         52
+    63         91
+    64          7
+    65         10
+    72          2
+    73         25
+    74        157
+    75        152
+    76        255
+    77         20
+    79          1
+    84          3
+    85          8
+    86         12
+    87         23
+    96          1
+    97          5
+    98         27
+    99          8
+   100          4
+   101         74
+   102        916
+   103         84
+   104         51
+   105          4
+   109          2
+   110          2
+   111          1
+   128          1
+   129         51
+   130        999
+   131         98
+   158         33
+   159          4

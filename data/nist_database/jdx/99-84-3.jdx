@@ -1,0 +1,39 @@
+##TITLE=Library Entry 66045
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclohexene, 4-methylene-1-(1-methylethyl)-
+##MOLFORM=C10H16
+##CAS REGISTRY NO=99-84-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1028
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        180
+    43         75
+    51         50
+    53         60
+    55         40
+    65         50
+    67         40
+    68         10
+    69         70
+    77        270
+    78         55
+    79        270
+    80         65
+    81         20
+    91        270
+    92         85
+    93        999
+    94        100
+    95         10
+   105         95
+   107         55
+   119         10
+   121        110
+   136        210

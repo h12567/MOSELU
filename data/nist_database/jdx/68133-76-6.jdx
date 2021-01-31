@@ -1,0 +1,55 @@
+##TITLE=Library Entry 19625
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=cis-3-Hexenylpyruvate
+##MOLFORM=C9H14O3
+##CAS REGISTRY NO=68133-76-6
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26          8
+    27        124
+    28          9
+    29         52
+    30          2
+    31          1
+    38          8
+    39        154
+    40          3
+    41        601
+    42         54
+    43        920
+    44         22
+    45          3
+    50          6
+    51         13
+    52          7
+    53         59
+    54         46
+    55        999
+    56         42
+    57          5
+    65         15
+    66          8
+    67        338
+    68         27
+    69         24
+    70          3
+    72          5
+    73          4
+    77          6
+    79         11
+    81        136
+    82        543
+    83        102
+    84          5
+    97          2
+    99         28
+   100          4
+   127         11

@@ -1,0 +1,54 @@
+##TITLE=Library Entry 58513
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. AULINGER INSTITUTE FOR SPECTROCHEMISTRY, DORTMUND, G
+ERMANY
+##NAMES=HP
+##CAS NAME=Silane, methylenebis[methyl-
+##MOLFORM=C3H12Si2
+##CAS REGISTRY NO=5654-05-7
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    29         80
+    31         70
+    41         60
+    42         70
+    43        550
+    44         50
+    45        130
+    55         30
+    56         60
+    57        100
+    58        240
+    59        490
+    60         40
+    68         10
+    69        150
+    70         50
+    71         60
+    72         30
+    73        230
+    74         30
+    75         20
+    81         30
+    83         30
+    84         20
+    85        130
+    86        100
+    87        310
+    88         90
+    89        999
+    90        110
+    91         60
+    99         30
+   100         30
+   101        120
+   102        400
+   103        740
+   104        120
+   105         50

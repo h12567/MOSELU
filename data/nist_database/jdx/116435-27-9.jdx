@@ -1,0 +1,78 @@
+##TITLE=Library Entry 90244
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G. Zaikin, TIPS RAS, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2-Furancarboxylic acid, dodecyl ester
+##MOLFORM=C17H28O3
+##CAS REGISTRY NO=116435-27-9
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    26         23
+    27        144
+    28         24
+    29        249
+    30          6
+    31          3
+    36          8
+    37         27
+    38         59
+    39        345
+    40         31
+    41        476
+    42        129
+    43        412
+    44         31
+    45          8
+    50          6
+    51         15
+    52          4
+    53         55
+    54         68
+    55        366
+    56        181
+    57        178
+    58          9
+    65          8
+    66         18
+    67         91
+    68        129
+    69        218
+    70        135
+    71         61
+    72          2
+    77          3
+    78          3
+    79          8
+    80          3
+    81         26
+    82         38
+    83        131
+    84         81
+    85         24
+    93          6
+    94          4
+    95        762
+    96         75
+    97         94
+    98         38
+    99          3
+   109          3
+   110         11
+   111         38
+   112        451
+   113        999
+   114        182
+   115          9
+   125         16
+   126          9
+   140         25
+   168         19
+   169          3
+   280         25
+   289          3

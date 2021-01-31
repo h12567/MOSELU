@@ -1,0 +1,86 @@
+##TITLE=Library Entry 3607
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=3-Octen-1-yne, (E)-
+##MOLFORM=C8H12
+##CAS REGISTRY NO=42104-42-7
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    27        714
+    28        137
+    29        150
+    30          3
+    31          2
+    32          2
+    36          1
+    37         41
+    38        103
+    39        856
+    40        186
+    41        999
+    42         78
+    43        394
+    44         34
+    45          1
+    46          1
+    48          3
+    49         18
+    50        167
+    51        241
+    52        343
+    53        202
+    54         56
+    55        182
+    56        470
+    57         24
+    58          2
+    59          1
+    60          0
+    61         15
+    62         55
+    63        145
+    64         41
+    65        524
+    66        397
+    67        126
+    68         77
+    69         89
+    70          5
+    73          3
+    74         19
+    75         20
+    76         12
+    77        662
+    78        139
+    79        914
+    80        185
+    81         27
+    82          6
+    85          0
+    86          3
+    87          1
+    89         12
+    90          4
+    91        325
+    92         33
+    93        653
+    94         58
+    95          2
+    98          2
+   102          1
+   103          4
+   104          2
+   105         21
+   106          2
+   107         59
+   108        581
+   109         50
+   110          2

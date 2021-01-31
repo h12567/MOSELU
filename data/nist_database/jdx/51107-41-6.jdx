@@ -1,0 +1,58 @@
+##TITLE=Library Entry 1776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 2S,3S(2R,3R)-3-chloro-2,3-dibromobutyrate
+##MOLFORM=C5H7Br2ClO2
+##CAS REGISTRY NO=51107-41-6
+##MP= -300
+##BP= -300
+##MW= 292
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        999
+    49        108
+    51         39
+    59        983
+    61         19
+    63         30
+    65         10
+    75        370
+    76         19
+    77        129
+    83          9
+    95          9
+    99        276
+   102         10
+   103        455
+   105        169
+   107         19
+   109         29
+   119        198
+   121        198
+   127         10
+   129          9
+   133         19
+   134        108
+   136         39
+   139          9
+   141         30
+   143         29
+   147         10
+   149          9
+   153         30
+   154         49
+   155         39
+   156         69
+   169         89
+   171        118
+   173         29
+   213        278
+   215        496
+   217        198
+   233         19
+   235         39
+   237         30

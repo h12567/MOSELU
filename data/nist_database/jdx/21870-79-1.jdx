@@ -1,0 +1,51 @@
+##TITLE=Library Entry 10803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=3-S-Acetyl-1,2:5,6-di-O-isopropylidene-3-thio.alpha.d-allofuranos
+e
+##MOLFORM=C14H22O6S
+##CAS REGISTRY NO=21870-79-1
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    43        999
+    45         29
+    55         29
+    57         12
+    58         14
+    59        119
+    61         14
+    69         11
+    71         11
+    72         28
+    73         29
+    81         18
+    85         31
+    87         30
+    89          7
+   101        317
+   102         18
+   113         13
+   115         23
+   117         18
+   125         12
+   127         11
+   129          4
+   131          6
+   143         54
+   159        131
+   160         10
+   161          6
+   185         18
+   202         10
+   203          6
+   217         18
+   245         10
+   259          4
+   303        149

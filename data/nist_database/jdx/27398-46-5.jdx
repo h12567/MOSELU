@@ -1,0 +1,77 @@
+##TITLE=Library Entry 56165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=5-[.beta.,.beta.-Dimethyl-.alpha.-[4-chlorostyryl]]-4,6-bis[.beta
+.-[di5-[.beta.,.beta.-diethylamino]ethylamino]pyrimidine
+##MOLFORM=C26H41ClN6
+##CAS REGISTRY NO=27398-46-5
+##MP= -300
+##BP= -300
+##MW= 472
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    41          5
+    42         28
+    43          8
+    44         40
+    45          2
+    49          0
+    54          2
+    55          1
+    56         30
+    57          3
+    58        122
+    59          3
+    70         11
+    71         12
+    72         16
+    74          6
+    84         11
+    86        999
+    87         51
+    88          0
+    98          5
+    99         76
+   100         68
+   101          3
+   125          1
+   163          2
+   242          1
+   257          0
+   259          4
+   271          4
+   273          3
+   275          6
+   277          0
+   285          6
+   287          5
+   297          0
+   299         13
+   300         25
+   301          9
+   302          9
+   313          3
+   315          2
+   358         82
+   359         16
+   360         25
+   361          5
+   372          8
+   373         46
+   374         21
+   375         18
+   376          6
+   386          2
+   400          2
+   401          3
+   457          3
+   459          1
+   472         13
+   473          2
+   474          4
+   475          0

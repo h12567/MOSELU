@@ -1,0 +1,44 @@
+##TITLE=Library Entry 6770
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Propenethioamide, 3-(acetyloxy)-N,N-dimethyl-, (E)-
+##MOLFORM=C7H11NO2S
+##CAS REGISTRY NO=52118-16-8
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         15
+    42        220
+    43        999
+    44        290
+    45        220
+    46         30
+    55         15
+    56         15
+    58         30
+    59         80
+    60         15
+    61         80
+    70         90
+    71         15
+    73         60
+    74         60
+    81         15
+    84         15
+    85         30
+    87        100
+    88         90
+    98         15
+   103         30
+   114        280
+   115         20
+   116         15
+   130         15
+   131        110
+   173        180

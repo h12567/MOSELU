@@ -1,0 +1,51 @@
+##TITLE=Library Entry 39695
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.RONTANI, CENT. OCEANOL., FAC. SCI. DE LUMINY, MARSEIL
+LE, FR.
+##NAMES=HP
+##CAS NAME=2,6,10,14-Tetramethylpentadecan-7-one
+##MOLFORM=C19H38O
+##CAS REGISTRY NO=141098-35-3
+##MP= -300
+##BP= -300
+##MW= 282
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        134
+    29        334
+    41        748
+    42        137
+    43        995
+    55        816
+    56        437
+    57        995
+    58        147
+    59        132
+    67        131
+    69        991
+    70        311
+    71        995
+    72        999
+    73        300
+    81        452
+    82        434
+    83        311
+    85        748
+    95        609
+    99        163
+   109        159
+   113         93
+   126        632
+   127        139
+   128        284
+   141        104
+   156        167
+   157        123
+   169        562
+   170         79
+   198         30
+   267         18
+   282         29

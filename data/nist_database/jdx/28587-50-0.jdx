@@ -1,0 +1,56 @@
+##TITLE=Library Entry 49806
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.VOELTER CHEM. INST., UNIV., TUBINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=O-Trifluoroacetyl-menthol
+##MOLFORM=C12H19F3O2
+##CAS REGISTRY NO=28587-50-0
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=1132
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27        150
+    29        120
+    39        130
+    40         30
+    41        750
+    42        120
+    43        390
+    44         40
+    51         20
+    53        120
+    55        410
+    56        110
+    57         90
+    59         30
+    65         20
+    66         20
+    67        280
+    68        130
+    69        190
+    70         40
+    77         40
+    79         80
+    80         80
+    81        999
+    82        250
+    83        130
+    91         20
+    93         40
+    95        680
+    96        330
+    97         70
+   107         10
+   109         60
+   110         20
+   123        300
+   124         30
+   137         10
+   138        320
+   139         70
+   153         10
+   167         10

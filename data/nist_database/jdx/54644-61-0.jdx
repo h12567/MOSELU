@@ -1,0 +1,40 @@
+##TITLE=Library Entry 67025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbamic acid, butylmethyl-, phenyl ester
+##MOLFORM=C12H17NO2
+##CAS REGISTRY NO=54644-61-0
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43         30
+    44         40
+    50         50
+    51        140
+    53         10
+    55         20
+    62         20
+    63         70
+    64         30
+    65        280
+    66        220
+    67         10
+    74         10
+    76         10
+    77        240
+    78         20
+    79         20
+    93         20
+    94        999
+    95        100
+   107         10
+   121         10
+   122         30
+   164         40

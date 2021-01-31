@@ -1,0 +1,62 @@
+##TITLE=Library Entry 2852
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=7-Oxabicyclo[4.1.0]heptan-2-one, 6-methyl-
+##MOLFORM=C7H10O2
+##CAS REGISTRY NO=21889-89-4
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    37         10
+    38         61
+    39        474
+    40         92
+    41        999
+    42        247
+    43        474
+    44         92
+    50         30
+    51         61
+    52         30
+    53        134
+    54        123
+    55        927
+    56        216
+    57         30
+    58         10
+    63         10
+    65         20
+    66         10
+    67         72
+    68         51
+    69        278
+    70         92
+    71        587
+    72         10
+    77         72
+    78         10
+    79        103
+    80         30
+    81        154
+    82        247
+    83        216
+    84         61
+    90         10
+    91         10
+    96         10
+    97        278
+    98        185
+   107        185
+   108        216
+   109         10
+   110         51
+   111         30
+   126        278
+   127         10

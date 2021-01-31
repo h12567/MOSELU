@@ -1,0 +1,84 @@
+##TITLE=Library Entry 11778
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,3-Cyclohexanediol, 2,5-dimethyl-2-nitro-, diacetate (ester), (1
+.alpha.,2.beta.,3.alpha.,5.alpha.)-
+##MOLFORM=C12H19NO6
+##CAS REGISTRY NO=114454-72-7
+##MP= -300
+##BP= -300
+##MW= 273
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 68
+##XYDATA=(XY..XY) 1 
+    27         28
+    28         16
+    29         32
+    30         11
+    31          5
+    39         30
+    40          5
+    41         65
+    42         16
+    43        999
+    44         27
+    45          8
+    53         25
+    54         11
+    55        163
+    56         14
+    57         11
+    58          7
+    61         18
+    65          6
+    67         20
+    69         49
+    71         35
+    72          8
+    77         12
+    79         24
+    80          6
+    81         70
+    82         29
+    83        110
+    84         22
+    85         11
+    87         14
+    91         23
+    93         20
+    95         45
+    96          8
+    97        109
+    98         48
+    99          6
+   100          7
+   103         10
+   105          5
+   106         11
+   107        206
+   108         25
+   109         21
+   113          7
+   123         10
+   124         81
+   125        674
+   126         63
+   127          5
+   140          8
+   141         30
+   142          6
+   143          6
+   149          3
+   155          2
+   166          3
+   167         93
+   168         10
+   172          9
+   184         13
+   185        107
+   186         11
+   227         19
+   228          2

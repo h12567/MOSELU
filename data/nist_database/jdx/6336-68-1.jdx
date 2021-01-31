@@ -1,0 +1,44 @@
+##TITLE=Library Entry 66171
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Piperidine, 1-[(4-aminophenyl)sulphonyl]-
+##MOLFORM=C11H16N2O2S
+##CAS REGISTRY NO=6336-68-1
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39        260
+    40         86
+    41        196
+    42        425
+    43        122
+    44         22
+    54          1
+    55        119
+    56         72
+    57          9
+    65        468
+    66        105
+    84        934
+    85        320
+    91         16
+    92        792
+    93        999
+    94        265
+   108        684
+   109        198
+   140        273
+   141         23
+   156        926
+   157        490
+   158         74
+   239         98
+   240        606
+   241        185
+   242          0

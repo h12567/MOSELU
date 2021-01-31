@@ -1,0 +1,39 @@
+##TITLE=Library Entry 85712
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.ZEEH TUBINGEN UNIVERSITY, TUBINGEN F.R.G.
+##NAMES=HP
+##CAS NAME=1-Cyclohexene-1-glyoxylamide, N-tert-butyl-
+##MOLFORM=C12H19NO2
+##CAS REGISTRY NO=4933-46-4
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        590
+    42        190
+    44        110
+    53        210
+    55        110
+    57        640
+    77        100
+    79        180
+    81        580
+    82         90
+    86         90
+    87         80
+   105         70
+   108         50
+   109        999
+   110        100
+   124         70
+   125        110
+   135         40
+   153        320
+   154         50
+   194         60
+   209        230
+   210         50

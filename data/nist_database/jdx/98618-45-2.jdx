@@ -1,0 +1,63 @@
+##TITLE=Library Entry 60068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2,6-Bis(5-methylthio-1,3,4-thiadiazole-2-ylthio)-3-nitro-pyridine
+##MOLFORM=C11H8N6O2S6
+##CAS REGISTRY NO=98618-45-2
+##MP= -300
+##BP= -300
+##MW= 448
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    64        319
+    72        124
+    73        391
+    74         82
+    75        213
+    76        166
+    91        999
+    92         49
+    93        103
+    96        182
+    97         40
+   102         54
+   105         78
+   106         29
+   107         40
+   108         74
+   122         57
+   123         25
+   131        206
+   132         21
+   133         83
+   134         49
+   139         21
+   140         40
+   164         32
+   165         21
+   166         91
+   198         53
+   199         28
+   224         33
+   225        196
+   226         32
+   239         21
+   240         37
+   256         33
+   257         17
+   270         11
+   271         21
+   301         20
+   344         17
+   401         12
+   402         17
+   431         53
+   432         12
+   433         21
+   448         50
+   449          8
+   450         11

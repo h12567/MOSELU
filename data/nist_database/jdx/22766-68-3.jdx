@@ -1,0 +1,49 @@
+##TITLE=Library Entry 86964
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Azabicyclo[2.2.2]octane-4-carboxylic acid, ethyl ester
+##MOLFORM=C10H17NO2
+##CAS REGISTRY NO=22766-68-3
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41         50
+    42        380
+    43        170
+    44         30
+    45         30
+    53        180
+    54         30
+    55         30
+    56        150
+    57        170
+    58         90
+    67         20
+    68         90
+    69         30
+    70         50
+    79         50
+    80         50
+    81         20
+    82         70
+    83         30
+    96         50
+   108         20
+   109         20
+   110        999
+   111        120
+   112         30
+   126         70
+   128         30
+   138         30
+   154         90
+   155         80
+   168         20
+   183        230
+   184         30

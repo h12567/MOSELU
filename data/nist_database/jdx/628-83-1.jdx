@@ -1,0 +1,40 @@
+##TITLE=Library Entry 2070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Thiocyanic acid, butyl ester
+##MOLFORM=C5H9NS
+##CAS REGISTRY NO=628-83-1
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    26         48
+    27        384
+    28        144
+    29        898
+    39        168
+    40        235
+    41        999
+    42         48
+    43         67
+    45         76
+    46         52
+    55        110
+    56        221
+    57        682
+    58         38
+    59         81
+    60         62
+    72         48
+    86         38
+    87         72
+    88         28
+   100         48
+   114         43
+   115        240
+   116         24

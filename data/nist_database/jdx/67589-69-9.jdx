@@ -1,0 +1,71 @@
+##TITLE=Library Entry 70347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclohexanecarboxylic acid, 4-pentyl-, 4-methylphenyl ester
+##MOLFORM=C19H28O2
+##CAS REGISTRY NO=67589-69-9
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    26         61
+    30         22
+    42        128
+    44         22
+    50         27
+    51         83
+    52         83
+    56         83
+    58         16
+    62         16
+    63         67
+    64         61
+    65        195
+    66         55
+    70        100
+    71        195
+    72         16
+    77        296
+    78         83
+    79        312
+    80         94
+    84         94
+    85         39
+    89         11
+    90         27
+    91        117
+    92         33
+    93         50
+    95        195
+    96        100
+    97        999
+    98         72
+   105         16
+   107        301
+   108        932
+   112         39
+   121         39
+   123         61
+   124         44
+   126         27
+   133         27
+   134         16
+   135         22
+   140         44
+   147         22
+   149         39
+   151         16
+   152         22
+   153        223
+   154         33
+   162         22
+   180        463
+   181        240
+   182         33
+   288         72
+   289         22

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 65568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=N1-Methylsulfanilamide
+##MOLFORM=C7H10N2O2S
+##CAS REGISTRY NO=1709-52-0
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27         37
+    29         36
+    30         50
+    39        156
+    41         94
+    42         41
+    43         40
+    45         40
+    52         59
+    53         42
+    61         47
+    63         95
+    64         94
+    65        517
+    66         86
+    69         23
+    78         24
+    80         54
+    86         18
+    90         22
+    91         76
+    92        999
+    93        186
+    94         25
+   107         28
+   108        537
+   109         68
+   121         43
+   122         26
+   123         18
+   124         15
+   140         84
+   141         11
+   142          9
+   156        814
+   157         85
+   158         51
+   169         13
+   186        963
+   187         95
+   188         61
+   189          9

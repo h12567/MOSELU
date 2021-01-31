@@ -1,0 +1,76 @@
+##TITLE=Library Entry 85216
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.L.FOLTZ BATTELLE MEMORIAL INST., COLUMBUS, OHIO, USA
+##NAMES=HP
+##CAS NAME=1H-1,2-Diazepine-1-carboxamide, 3-methyl-N-phenyl-
+##MOLFORM=C13H13N3O
+##CAS REGISTRY NO=55090-43-2
+##MP= -300
+##BP= -300
+##MW= 227
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         14
+    17          6
+    18         44
+    20          7
+    26         30
+    27         69
+    28         93
+    30          6
+    37         32
+    38         65
+    39        162
+    40         66
+    41        109
+    42         90
+    43          5
+    44         16
+    45         15
+    46         26
+    49          7
+    50         43
+    51        114
+    52         51
+    53         41
+    54         19
+    55         14
+    56          5
+    57          2
+    60         40
+    61          6
+    62         12
+    63         56
+    64        164
+    65         78
+    66         56
+    67        122
+    68         24
+    69         13
+    74          8
+    75          2
+    76          5
+    77         68
+    78         44
+    79         26
+    80        141
+    81         96
+    82         51
+    90         13
+    91        242
+    92        158
+    93         77
+    94          7
+    97          4
+   107         23
+   108        999
+   109         66
+   119        813
+   120         62
+   212          2
+   227         69
+   228          9

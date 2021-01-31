@@ -1,0 +1,43 @@
+##TITLE=Library Entry 27273
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2,2-dimethyl-, 2,6-bis(1,1-dimethylethyl)-4-methy
+lphenyl ester
+##MOLFORM=C20H32O2
+##CAS REGISTRY NO=54644-43-8
+##MP= -300
+##BP= -300
+##MW= 304
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        260
+    42         10
+    43         30
+    44        110
+    53         10
+    55         50
+    56         10
+    57        999
+    58         70
+    77         10
+    85        300
+    86         10
+    91         30
+   105         30
+   115         10
+   119         10
+   121         10
+   128         10
+   145         10
+   161         30
+   189         30
+   205        340
+   206         40
+   220        190
+   221         10
+   304         40

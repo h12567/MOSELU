@@ -1,0 +1,49 @@
+##TITLE=Library Entry 23351
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=5(4H)-Oxazolone, 2-(1,1-dimethylethyl)-
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=81375-96-4
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    27         75
+    28         70
+    29        175
+    30        293
+    38         12
+    39        127
+    40         29
+    41        453
+    42         72
+    43         61
+    44         13
+    53         16
+    54         11
+    55         59
+    56        228
+    57        999
+    58         44
+    68         19
+    69        248
+    70         92
+    71         19
+    82        100
+    83         57
+    84         12
+    85         28
+    96         10
+    97         99
+    98        163
+    99         15
+   112         15
+   113         58
+   126        204
+   127         18
+   141         13

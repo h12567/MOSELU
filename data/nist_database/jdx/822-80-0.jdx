@@ -1,0 +1,40 @@
+##TITLE=Library Entry 49149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TAT 1428
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]hepta-2,5-dien-7-ol
+##MOLFORM=C7H8O
+##CAS REGISTRY NO=822-80-0
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    50        100
+    51        180
+    52         80
+    53         90
+    54         10
+    55         20
+    62         20
+    63         50
+    64         20
+    65         70
+    75         30
+    76         10
+    77        450
+    78        180
+    79        999
+    80        100
+    81         20
+    89         50
+    90         70
+    91        260
+    92         60
+   105         20
+   106         20
+   107        470
+   108         90

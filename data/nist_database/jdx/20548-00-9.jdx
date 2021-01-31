@@ -1,0 +1,73 @@
+##TITLE=Library Entry 84315
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=4-Methyleneisophorone
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=20548-00-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1242
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         33
+    29         23
+    37          4
+    38         20
+    39        202
+    40         62
+    41         84
+    42         11
+    46          4
+    50         36
+    51         98
+    52         41
+    53         67
+    54         16
+    55         26
+    61          5
+    62         16
+    63         60
+    64         12
+    65        155
+    66        389
+    67         89
+    68          4
+    74          7
+    75          6
+    76          4
+    77        144
+    78         38
+    79        226
+    80         34
+    81         12
+    82         69
+    89          7
+    90          8
+    91        360
+    92         55
+    93         88
+    94         89
+    95         26
+   103         16
+   104          5
+   105        125
+   106         19
+   107        999
+   108        681
+   109         71
+   110         15
+   117         11
+   121         59
+   122        150
+   123         13
+   135        335
+   136         32
+   149         26
+   150        770
+   151         88
+   152          5

@@ -1,0 +1,29 @@
+##TITLE=Library Entry 5532
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3-Buten-2-ol, 4-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]hept-1-yl)-
+##MOLFORM=C13H22O2
+##CAS REGISTRY NO=51138-08-0
+##MP= -300
+##BP= -300
+##MW= 210
+##$RETENTION INDEX=1698
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    28        669
+    43        999
+    55        380
+    69        499
+    83        200
+    95        360
+   109        360
+   125        200
+   135        100
+   149        400
+   165        240
+   177        160
+   192         90
+   210         20

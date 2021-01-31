@@ -1,0 +1,68 @@
+##TITLE=Library Entry 32640
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2011
+##NAMES=HP
+##CAS NAME=5-Chloro-1-pentyne
+##MOLFORM=C5H7Cl
+##CAS REGISTRY NO=14267-92-6
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=734
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          1
+    24          1
+    25          3
+    26         23
+    27        136
+    28         16
+    29          1
+    31          7
+    32          2
+    35          4
+    36          8
+    37         49
+    38        100
+    39        392
+    40        322
+    41        156
+    42          7
+    47          4
+    48          6
+    49         49
+    50         69
+    51        106
+    52         26
+    53        175
+    54          8
+    60          9
+    61         38
+    62         62
+    63        114
+    64         20
+    65        308
+    66        415
+    67        999
+    68         55
+    69          1
+    72          2
+    73         14
+    74         14
+    75         13
+    76         10
+    77          3
+    78          2
+    86          1
+    87          6
+    88          1
+    89          2
+    99          2
+   100          1
+   101         17
+   102          2
+   103          6
+   104          1

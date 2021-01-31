@@ -1,0 +1,31 @@
+##TITLE=Library Entry 54896
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Pentoxy-tetrahydropyran
+##MOLFORM=C10H20O2
+##CAS REGISTRY NO=32767-70-7
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    27         49
+    29         99
+    41        179
+    42         68
+    43        297
+    55        129
+    56        370
+    57         99
+    67         58
+    70         88
+    71        191
+    84        120
+    85        999
+    86         60
+   101         80
+   172          9

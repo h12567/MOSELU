@@ -1,0 +1,85 @@
+##TITLE=Library Entry 25186
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Ethyl-1-hexanol, trifluoroacetate
+##MOLFORM=C10H17F3O2
+##CAS REGISTRY NO=53800-08-1
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15          2
+    26          5
+    27         86
+    28         18
+    29        156
+    30          4
+    31          3
+    33          2
+    37          1
+    38          3
+    39         87
+    40         16
+    41        394
+    42         79
+    43        275
+    44         10
+    45          2
+    47          5
+    50          8
+    51          8
+    52          4
+    53         35
+    54         32
+    55        433
+    56        180
+    57        999
+    58         43
+    59          6
+    60          1
+    61          1
+    63          1
+    65          6
+    66          2
+    67         25
+    68         15
+    69        259
+    70        461
+    71        119
+    72          6
+    73          1
+    77          4
+    78          4
+    79          5
+    80          1
+    81          6
+    82         29
+    83        230
+    84         91
+    85          7
+    91          1
+    95          2
+    97         32
+    98          4
+    99         37
+   100          2
+   110          1
+   111          2
+   112         40
+   113          5
+   115          1
+   125          3
+   127          3
+   139          1
+   140          1
+   141          1
+   153          2
+   157         17
+   158          2
+   169          1
+   183          1

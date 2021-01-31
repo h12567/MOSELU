@@ -1,0 +1,40 @@
+##TITLE=Library Entry 3452
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T.L. PEPPARD, BREWING RES. FOUNDATION, NUTFIELD, REDHIL
+L, U.
+##NAMES=HP
+##CAS NAME=4-(4-Methylpent-3-enyl)-3,6-dihydro-1,2-dithiin
+##MOLFORM=C10H16S2
+##CAS REGISTRY NO=73188-23-5
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39        210
+    41        999
+    53        120
+    65         50
+    67        100
+    69        580
+    77        110
+    79        130
+    80         50
+    91        150
+    92         60
+    93        460
+    94         50
+   105         20
+   107         50
+   119         30
+   121         30
+   134         20
+   135        250
+   136         40
+   166         10
+   167         10
+   168         10
+   200         10

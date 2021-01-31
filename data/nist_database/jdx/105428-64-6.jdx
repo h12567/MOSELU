@@ -1,0 +1,39 @@
+##TITLE=Library Entry 69188
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. HILDEBRAND, INST. ORG. CHEM., UNIV. KOLN, W. GER.
+##NAMES=HP
+##CAS NAME=3,4-Dihydro-5-methyl-4-[(7Z)-pentadecenyl]-2H-pyrrole
+##MOLFORM=C20H37N
+##CAS REGISTRY NO=105428-64-6
+##MP= -300
+##BP= -300
+##MW= 291
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        380
+    55        640
+    67        250
+    69        200
+    83        400
+    96        999
+   109         56
+   110         55
+   122         46
+   136         11
+   138         12
+   152         10
+   166         23
+   178         17
+   180         44
+   192         52
+   206        200
+   220         65
+   234         80
+   248         18
+   262          8
+   263         11
+   276         42
+   291         49

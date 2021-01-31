@@ -1,0 +1,66 @@
+##TITLE=Library Entry 50568
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.ZAMOJSKI POLISH ACADEMY OF SCIENCES, WARSAW, POLAND
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-carboxylic acid, 3,6-dihydro-6-methoxy-, ethyl ester
+##MOLFORM=C9H14O4
+##CAS REGISTRY NO=25556-18-7
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    40         70
+    41        640
+    42        150
+    43        360
+    44        230
+    45        150
+    53        190
+    54         60
+    55        250
+    56         70
+    57        180
+    58         50
+    59         60
+    67         50
+    68        100
+    69        110
+    70         90
+    71         80
+    72         60
+    73         80
+    75         50
+    81        999
+    82        130
+    83         50
+    84         60
+    85        150
+    86         50
+    87         60
+    96         80
+    97        940
+    98        140
+    99        330
+   100         80
+   101         50
+   108        210
+   109        190
+   112         20
+   113        230
+   114         80
+   125         50
+   126        140
+   127        770
+   128         80
+   129         60
+   140         50
+   141         70
+   142         60
+   154        110
+   155        200
+   185          5
+   186          5

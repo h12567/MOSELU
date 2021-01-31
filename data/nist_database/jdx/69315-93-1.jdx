@@ -1,0 +1,38 @@
+##TITLE=Library Entry 28821
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(8)3062(1978); B. SCHOLL ET AL
+##NAMES=HP
+##CAS NAME=1H-1,4-Diazepine-5,7(2H,6H)-dione, 6,6-diethyldihydro-2,2-dimethy
+l-
+##MOLFORM=C11H20N2O2
+##CAS REGISTRY NO=69315-93-1
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    53         70
+    55        230
+    56        100
+    58        999
+    69        100
+    70         70
+    71         80
+    72         70
+    83        220
+    97        100
+    98        250
+    99         90
+   112         60
+   115        100
+   127         50
+   128         80
+   140         80
+   155        250
+   183         50
+   184         50
+   212         40
+   213         50

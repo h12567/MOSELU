@@ -1,0 +1,39 @@
+##TITLE=Library Entry 4756
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Ethanamine, N-methylene-
+##MOLFORM=C3H7N
+##CAS REGISTRY NO=43729-97-1
+##MP= -300
+##BP= -300
+##MW= 57
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    27        106
+    28        279
+    29         73
+    30        137
+    31         51
+    38          1
+    39          6
+    40         23
+    41         47
+    42        999
+    43         24
+    44          3
+    45          1
+    50          0
+    51          3
+    52         10
+    53          4
+    54         41
+    55         23
+    56        272
+    57        334
+    58         12
+    59          1

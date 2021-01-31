@@ -1,0 +1,53 @@
+##TITLE=Library Entry 57380
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=Octadecanoic acid, 4-methyl-, methyl ester
+##MOLFORM=C20H40O2
+##CAS REGISTRY NO=2490-15-5
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29         70
+    41        130
+    43        380
+    55        310
+    56        140
+    57        470
+    59         70
+    69        250
+    70         70
+    71        300
+    73        110
+    74        650
+    75        170
+    81         50
+    83        210
+    85        230
+    87        999
+    88        280
+    95         50
+    97        130
+    99        110
+   101         50
+   111         70
+   113         80
+   115        200
+   127         70
+   141         60
+   155         50
+   240         80
+   241        370
+   242         80
+   255        450
+   256         80
+   281        110
+   283         50
+   312        280
+   313         70

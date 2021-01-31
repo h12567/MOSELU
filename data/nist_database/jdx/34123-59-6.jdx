@@ -1,0 +1,49 @@
+##TITLE=Library Entry 40368
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Tech. Univ. Eindhov
+en, Netherlands
+##NAMES=HP
+##CAS NAME=Isoproturon
+##MOLFORM=C12H18N2O
+##CAS REGISTRY NO=34123-59-6
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    51         30
+    56         60
+    63         30
+    65         60
+    72        999
+    73         60
+    78         60
+    79         30
+    89         30
+    91         90
+    92         30
+   103         30
+   117         30
+   118         30
+   119         60
+   120         30
+   121         60
+   128         30
+   132         60
+   133         30
+   134         60
+   135         30
+   146        303
+   147         60
+   148         30
+   160         30
+   161         90
+   162         30
+   163         60
+   191        181
+   192         30
+   206        363
+   207         60

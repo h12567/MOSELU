@@ -1,0 +1,36 @@
+##TITLE=Library Entry 76516
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=5-Ethynyl-2-pyridinecarboxylic acid
+##MOLFORM=C8H5NO2
+##CAS REGISTRY NO=17880-57-8
+##MP= -300
+##BP= -300
+##MW= 147
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39         48
+    41         21
+    43         34
+    45        116
+    49         18
+    50        511
+    51        256
+    52        132
+    62         41
+    63         70
+    64         38
+    73         37
+    74        207
+    75        284
+    76        562
+    77         81
+   101         28
+   102        189
+   103        999
+   104        101
+   147         50

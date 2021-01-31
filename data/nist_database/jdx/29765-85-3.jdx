@@ -1,0 +1,31 @@
+##TITLE=Library Entry 65754
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Cyclopenten-1-one, 2,3,5-trimethyl-4-methylene-
+##MOLFORM=C9H12O
+##CAS REGISTRY NO=29765-85-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        440
+    41        180
+    50        100
+    51        230
+    52        120
+    53        250
+    54        230
+    55        110
+    65        130
+    67        160
+    77        360
+    79        190
+    91        370
+    93        999
+   121        130
+   136        350

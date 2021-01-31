@@ -1,0 +1,38 @@
+##TITLE=Library Entry 43680
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Silane, 1,2-pentadien-4-yne-1,1,3,5-tetrayltetrakis[trimethyl-
+##MOLFORM=C17H36Si4
+##CAS REGISTRY NO=30314-58-0
+##MP= -300
+##BP= -300
+##MW= 352
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43         50
+    45        290
+    59         70
+    73        999
+    74        150
+    75         70
+    83        100
+    97        150
+   109         40
+   125         40
+   141         60
+   155        150
+   165         50
+   191         40
+   249        100
+   250         40
+   264        839
+   265        230
+   266        110
+   337         70
+   352        320
+   353        120
+   354         60

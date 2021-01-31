@@ -1,0 +1,58 @@
+##TITLE=Library Entry 8291
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9406
+##NAMES=HP
+##CAS NAME=N-Methoxy-N-methylacetamide
+##MOLFORM=C4H9NO2
+##CAS REGISTRY NO=78191-00-1
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    13          2
+    14         13
+    15        135
+    16          2
+    26          4
+    27          9
+    28         72
+    29         27
+    30         47
+    31         12
+    32          2
+    33         22
+    38          1
+    39          2
+    40          4
+    41          8
+    42         38
+    43        999
+    44         28
+    45         82
+    46        390
+    47          6
+    48          1
+    49          3
+    51          2
+    52          2
+    54          4
+    55          3
+    56          9
+    57          2
+    58          5
+    59          3
+    60        106
+    61        917
+    62         23
+    63          2
+    73         27
+    74          1
+    84          2
+    86          1
+    88          2
+   103         57
+   104         10

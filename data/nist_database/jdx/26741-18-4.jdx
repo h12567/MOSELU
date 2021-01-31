@@ -1,0 +1,64 @@
+##TITLE=Library Entry 25392
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little, Eastman Chemical Co.
+##NAMES=HP
+##CAS NAME=9-methylheptadecane
+##MOLFORM=C18H38
+##CAS REGISTRY NO=26741-18-4
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27         46
+    28         27
+    29        147
+    36          1
+    38         12
+    39         39
+    40         16
+    41        343
+    42         95
+    43        676
+    44         32
+    53         22
+    54         21
+    55        249
+    56        181
+    57        999
+    58         49
+    65          6
+    67         35
+    68         20
+    69        123
+    70        126
+    71        720
+    72         49
+    73          5
+    77          4
+    81          6
+    82         34
+    83         98
+    84         75
+    85        673
+    86         40
+    96         28
+    97        104
+    98         50
+    99        131
+   100         10
+   110          7
+   111         81
+   112         70
+   113         37
+   127         12
+   140        299
+   141        122
+   142         13
+   168          5
+   196          6
+   197          5
+   239         16

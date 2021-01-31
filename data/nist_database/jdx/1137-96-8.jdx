@@ -1,0 +1,64 @@
+##TITLE=Library Entry 60160
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzenamine, N-(phenylmethylene)-, N-oxide
+##MOLFORM=C13H11NO
+##CAS REGISTRY NO=1137-96-8
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    28         30
+    29         21
+    37          9
+    38         24
+    39         90
+    40         18
+    41         36
+    50         66
+    51        233
+    52         36
+    62         12
+    63         84
+    64        187
+    65         84
+    66         30
+    74         21
+    75         36
+    76         48
+    77        418
+    78         60
+    83         30
+    89         51
+    90         24
+    91        999
+    92         90
+    93         18
+    94         36
+    95          6
+   104         60
+   105        212
+   106         30
+   115         12
+   141         12
+   151          6
+   152         30
+   153         21
+   165          3
+   166          6
+   167         21
+   168         84
+   169         60
+   170          6
+   180        127
+   181         97
+   182          6
+   196        200
+   197        224
+   198         48
+   199         18

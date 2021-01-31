@@ -1,0 +1,48 @@
+##TITLE=Library Entry 31994
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=1-Penten-3-yne
+##MOLFORM=C5H6
+##CAS REGISTRY NO=646-05-9
+##MP= -300
+##BP= -300
+##MW= 66
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    24          2
+    25          4
+    26         17
+    27         53
+    30          0
+    36         10
+    37         58
+    38        105
+    39        610
+    40        323
+    41         10
+    42          1
+    43         10
+    48         35
+    49         18
+    50         42
+    51         88
+    52         10
+    53         30
+    54          1
+    56          0
+    57          0
+    58          0
+    60         16
+    61         71
+    62        106
+    63        153
+    64         44
+    65        393
+    66        999
+    67         53
+    68          0

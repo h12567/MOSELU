@@ -1,0 +1,60 @@
+##TITLE=Library Entry 59157
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Heptanone, 7-phenyl-
+##MOLFORM=C13H18O
+##CAS REGISTRY NO=14171-88-1
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    41         69
+    43        623
+    44          9
+    50          9
+    51         39
+    52          9
+    53          9
+    55         19
+    58        118
+    59         19
+    63         19
+    65        108
+    71        306
+    72          9
+    77         59
+    78         29
+    79         29
+    81         29
+    85          9
+    89          9
+    90          9
+    91        999
+    92        148
+    99         19
+   103         19
+   104        138
+   105         59
+   115         29
+   116          9
+   117         69
+   118          9
+   129         59
+   130        336
+   131         59
+   132         99
+   133          9
+   143         29
+   144          9
+   147          9
+   157         19
+   172        326
+   173         49
+   174          9
+   190         19

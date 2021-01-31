@@ -1,0 +1,53 @@
+##TITLE=Library Entry 33301
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Chloromethyl 3-chlorohexanoate
+##MOLFORM=C7H12Cl2O2
+##CAS REGISTRY NO=80418-54-8
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=1224
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    36         19
+    39        231
+    41        862
+    42        258
+    43        367
+    49        281
+    51         89
+    54         19
+    55        438
+    56         39
+    57         19
+    63         30
+    67        129
+    68        999
+    69        766
+    70        100
+    71        600
+    72         99
+    76         49
+    77          9
+    83          9
+    85         29
+    90         19
+    91         29
+    93         10
+    96        189
+    97        470
+    98         10
+   104         50
+   108         69
+   110         20
+   113        210
+   121         19
+   132         69
+   133        330
+   134         40
+   135        118
+   163         29

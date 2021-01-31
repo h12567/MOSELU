@@ -1,0 +1,62 @@
+##TITLE=Library Entry 35440
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. DANIEL
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.1]heptan-2-one, 4,7,7-trimethyl-, (1R)-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=13854-85-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1149
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    38         10
+    39         20
+    40         30
+    41        330
+    42         20
+    43         30
+    50         20
+    51         40
+    52         20
+    53        100
+    54         30
+    55        130
+    56         20
+    57         30
+    63         10
+    65         30
+    66         20
+    67        140
+    68        140
+    69        999
+    70         60
+    77         60
+    78         10
+    79         60
+    80        250
+    81        960
+    82        140
+    83         60
+    84         30
+    91         50
+    92         10
+    93         50
+    94         20
+    95        300
+    96         60
+    97         40
+   107         60
+   108        100
+   109        310
+   110         50
+   111         10
+   123         10
+   124         30
+   137         70
+   138         10
+   152        500
+   153         60

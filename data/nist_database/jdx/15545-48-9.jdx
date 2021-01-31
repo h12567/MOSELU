@@ -1,0 +1,80 @@
+##TITLE=Library Entry 40384
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Chlortoluron
+##MOLFORM=C10H13ClN2O
+##CAS REGISTRY NO=15545-48-9
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=1627
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    15         10
+    27         11
+    28         21
+    29          5
+    38         14
+    39         19
+    40          8
+    41          8
+    42         43
+    43         23
+    44        129
+    45         75
+    49          4
+    50         33
+    51         64
+    52         29
+    53          7
+    56         27
+    61         11
+    62         18
+    63         29
+    64          9
+    65          8
+    71          3
+    72        999
+    73         49
+    74         14
+    75         23
+    76         30
+    77         96
+    78         26
+    86          3
+    87          8
+    89         23
+    90          4
+    99          8
+   102         24
+   103         18
+   104         39
+   105         10
+   106          8
+   112          6
+   113          8
+   125         12
+   131          9
+   132        169
+   133         21
+   138         12
+   139          7
+   140         20
+   141          8
+   142         14
+   154         10
+   166         37
+   167        120
+   168         26
+   169         42
+   170          7
+   176          5
+   180          4
+   211          7
+   212        200
+   213         28
+   214         58
+   215          6

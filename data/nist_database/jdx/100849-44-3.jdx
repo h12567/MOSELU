@@ -1,0 +1,45 @@
+##TITLE=Library Entry 22909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. CZUBA,INST. ORG. PHYS. CHEM.,POLYTECH. UNIV.,WROCLAW
+,POL.
+##NAMES=HP
+##CAS NAME=2,4,6(1H,3H,5H)-Pyrimidinetrione, 5,5-diethyl-1-(methylthiomethyl
+)-
+##MOLFORM=C10H16N2O3S
+##CAS REGISTRY NO=100849-44-3
+##MP= -300
+##BP= -300
+##MW= 244
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    41        564
+    42        138
+    43         69
+    45        138
+    46         75
+    47        102
+    53        125
+    55        459
+    56        999
+    61        472
+    67         56
+    68         56
+    69        518
+    70        292
+    83        279
+    97        669
+    98        246
+   126        161
+   154        456
+   155         69
+   169         36
+   185        134
+   197        934
+   198        144
+   216        121
+   229         52
+   244        551
+   245        102

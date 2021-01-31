@@ -1,0 +1,59 @@
+##TITLE=Library Entry 70760
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2-(1-methylethyl)-
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=1004-77-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=1119
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        390
+    42        100
+    43        190
+    44         10
+    47         20
+    50         10
+    51         20
+    52         10
+    53         60
+    54         30
+    55        360
+    56        200
+    57         40
+    59         10
+    65         20
+    66         10
+    67         70
+    68         30
+    69        350
+    70        200
+    71         30
+    72         10
+    77         20
+    78         10
+    79         40
+    80         20
+    81        120
+    82         30
+    83        260
+    84         70
+    85         30
+    91         10
+    93         20
+    95         20
+    96         80
+    97        280
+    98        999
+    99         80
+   100         10
+   125        360
+   126         40
+   140        300
+   141         40

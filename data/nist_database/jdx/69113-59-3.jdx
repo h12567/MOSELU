@@ -1,0 +1,64 @@
+##TITLE=Library Entry 76215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Iodobenzonitrile
+##MOLFORM=C7H4IN
+##CAS REGISTRY NO=69113-59-3
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+     4          3
+    14          2
+    18          3
+    25          4
+    26         10
+    27         29
+    28         14
+    32          0
+    36          8
+    37         48
+    38         49
+    39         23
+    40          1
+    48          7
+    49         49
+    50        210
+    51        163
+    52         33
+    60          6
+    61         20
+    62         26
+    63         18
+    64         10
+    72          6
+    73         32
+    74         98
+    75        308
+    76        144
+    77          6
+    84          2
+    85          4
+    86          5
+    87          4
+    98          4
+    99         33
+   100         19
+   101          2
+   102        999
+   103         78
+   104          2
+   114         30
+   127        121
+   128          8
+   152          5
+   164          2
+   176          2
+   229        997
+   230         77
+   231          3

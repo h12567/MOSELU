@@ -1,0 +1,56 @@
+##TITLE=Library Entry 73426
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY, INST. ORG. CHEM., UNIV. KARLSRUHE
+##NAMES=HP
+##CAS NAME=Heptane, 4-acetamido-4-ethyl-
+##MOLFORM=C11H23NO
+##CAS REGISTRY NO=71275-26-8
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27         64
+    28         85
+    29         60
+    30        114
+    39         38
+    40         10
+    41        153
+    42         60
+    43        284
+    44         47
+    53         17
+    54         13
+    55        322
+    56         68
+    57         42
+    58         60
+    59         10
+    60        360
+    61         10
+    67         17
+    69         85
+    70         93
+    71         34
+    72         30
+    83        106
+    84        110
+    85         12
+    97        105
+    98         64
+   100        999
+   101         68
+   114        568
+   115         42
+   126         80
+   128         25
+   142        432
+   143         38
+   156        178
+   157         15
+   185          5
+   186          2

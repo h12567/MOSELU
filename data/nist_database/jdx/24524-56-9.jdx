@@ -1,0 +1,39 @@
+##TITLE=Library Entry 26177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TEXAS A&M UNIVERSITY, COLLEGE STATION, TEXAS, USA
+##NAMES=HP
+##CAS NAME=Ether, tert-butyl isopropylidenecyclopropyl
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=24524-56-9
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    27         68
+    28         36
+    29        189
+    39        100
+    40         26
+    41        410
+    42         42
+    43         52
+    53         47
+    54         15
+    55         94
+    56         57
+    57        999
+    58         47
+    59         21
+    67         21
+    69        142
+    70         42
+    79         26
+    81         47
+    83         42
+    97        142
+    98        442
+    99         57

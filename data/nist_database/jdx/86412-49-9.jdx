@@ -1,0 +1,83 @@
+##TITLE=Library Entry 12805
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. Davies, Centr. Sci. Lab., Univ. Tasmania, Hobart,
+ Australia
+##NAMES=HP
+##CAS NAME=Acetamide, N-(3,4-dichlorophenyl)-N-hydroxy-
+##MOLFORM=C8H7Cl2NO2
+##CAS REGISTRY NO=86412-49-9
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    29         10
+    37         17
+    38         19
+    39         13
+    41         10
+    42         24
+    43        999
+    44         28
+    45         25
+    49         11
+    50         21
+    51         10
+    52         14
+    60         21
+    61         26
+    62         43
+    63         60
+    64         19
+    72         16
+    73         43
+    74         40
+    75         32
+    84         13
+    85         11
+    87         10
+    88         22
+    89         13
+    90         41
+    91         13
+    97         27
+    98         16
+    99         41
+   101         13
+   109         42
+   110         11
+   111         22
+   124         55
+   125         34
+   126         45
+   127         15
+   133         48
+   134         13
+   135         32
+   145         48
+   146         27
+   147         31
+   148         19
+   159         26
+   160         93
+   161        577
+   162         95
+   163        354
+   164         36
+   165         62
+   175         19
+   177        235
+   178         21
+   179        147
+   180         12
+   181         24
+   187         10
+   203        114
+   204         13
+   205         81
+   207         13
+   219         30
+   221         20

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 28250
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5630
+##NAMES=HP
+##CAS NAME=Tetramethylammonium perchlorate
+##MOLFORM=C4H12ClNO4
+##CAS REGISTRY NO=2537-36-2
+##MP= -300
+##BP= -300
+##MW= 173
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          9
+    13          6
+    14         18
+    15        128
+    16         15
+    25          2
+    26          9
+    27         30
+    28        222
+    29        217
+    30        219
+    31         62
+    32         43
+    35         37
+    36        258
+    37         11
+    38         87
+    39         15
+    40         32
+    41         50
+    42        301
+    43         96
+    44        408
+    45          7
+    46          2
+    47          1
+    48          2
+    49          3
+    50         30
+    51         25
+    52         13
+    53          9
+    54          5
+    55          5
+    56         32
+    57         70
+    58        999
+    59        487
+    60         17
+    64          3
+    67         61
+    68          1
+    69         20
+    71          1
+    72          2
+    73         24
+    74        179
+    75          9

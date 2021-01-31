@@ -1,0 +1,55 @@
+##TITLE=Library Entry 22100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=.alpha.-Isopropylideneaminooxypropionic acid
+##MOLFORM=C6H11NO3
+##CAS REGISTRY NO=5001-36-5
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          6
+    13          5
+    14         21
+    15        278
+    16         12
+    17          3
+    18         11
+    19         10
+    24          1
+    25          5
+    26         37
+    27        106
+    28        271
+    29        198
+    30        103
+    33          5
+    37          3
+    38         10
+    39         59
+    40         42
+    41         96
+    42        410
+    43         92
+    44         78
+    45        118
+    46          5
+    51          3
+    52          8
+    53          3
+    54         41
+    55         48
+    56        999
+    57        182
+    58         41
+    72         13
+    73         18
+   100         60
+   101          4
+   102          1
+   145          3

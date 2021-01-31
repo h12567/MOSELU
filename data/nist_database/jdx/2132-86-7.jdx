@@ -1,0 +1,71 @@
+##TITLE=Library Entry 62078
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Benzene, (1-propylbutyl)-
+##MOLFORM=C13H20
+##CAS REGISTRY NO=2132-86-7
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=1278
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         93
+    28         14
+    29         46
+    38         17
+    39         77
+    40         11
+    41         86
+    42         12
+    43         37
+    50         16
+    51         45
+    52         15
+    53         16
+    55         30
+    56          6
+    62          9
+    63         23
+    64          8
+    65         42
+    66          6
+    74          6
+    75          9
+    76          9
+    77         54
+    78         40
+    79         18
+    89         15
+    90         12
+    91        999
+    92         94
+    93          7
+    99          0
+   101          6
+   102         14
+   103         37
+   104         69
+   105         35
+   106          6
+   114          5
+   115         34
+   116         14
+   117         29
+   118          8
+   119          6
+   127          7
+   128         10
+   129          8
+   131          9
+   132         12
+   133        276
+   134         42
+   135          5
+   145          6
+   176        107

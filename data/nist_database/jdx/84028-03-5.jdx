@@ -1,0 +1,48 @@
+##TITLE=Library Entry 109733
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=2-n-Butyl-4-ethyl-5-methyloxazole
+##MOLFORM=C10H17NO
+##CAS REGISTRY NO=84028-03-5
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=1159
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    41         95
+    42         39
+    43        383
+    54         52
+    55         32
+    56        145
+    57         32
+    67         19
+    68          7
+    69        355
+    70          7
+    82        307
+    83         19
+    84        283
+    85         19
+    94         19
+    96         88
+   110        214
+   111          7
+   123          7
+   124        359
+   125        999
+   126        272
+   127          7
+   137          7
+   138        532
+   139        259
+   140         19
+   152        295
+   153         32
+   166         52
+   167        374
+   168         74

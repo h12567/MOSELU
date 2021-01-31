@@ -1,0 +1,58 @@
+##TITLE=Library Entry 72204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,5-Dimethyl-1,4-diacetyl-1,2,4,5-tetraazacyclohexane
+##MOLFORM=C8H16N4O2
+##CAS REGISTRY NO=21599-69-9
+##MP= -300
+##BP= -300
+##MW= 200
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    30         53
+    41         30
+    42        143
+    43        256
+    44        143
+    45         26
+    46         24
+    55         31
+    56         17
+    57         88
+    58         32
+    59         84
+    60         15
+    69         31
+    70         22
+    71        652
+    72         43
+    73         23
+    74         16
+    85         51
+    86         13
+    87         13
+    88         24
+    95         22
+    96         14
+    97         46
+    98         62
+    99        999
+   100        466
+   101        202
+   102         19
+   111         17
+   112         17
+   113         34
+   114         17
+   123         10
+   125         13
+   129         10
+   157        226
+   158         24
+   200         88
+   201         14
+   202          5

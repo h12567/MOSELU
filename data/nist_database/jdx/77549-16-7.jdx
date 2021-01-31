@@ -1,0 +1,75 @@
+##TITLE=Library Entry 50895
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.ONKENHOUT,DEP. PHARM.,GORLAEUS LABS.,STATE UNIV. LEID
+EN,NETH
+##NAMES=HP
+##CAS NAME=N-Acetyl-S-(2-cyclohexenyl)-L-cysteine methyl ester
+##MOLFORM=C12H19NO3S
+##CAS REGISTRY NO=77549-16-7
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    44         40
+    45         20
+    53         20
+    55         20
+    56         10
+    58         10
+    59         20
+    60        180
+    74         20
+    75         10
+    76         50
+    77         10
+    79        110
+    80        120
+    81        999
+    82         60
+    84         20
+    85         20
+    86        230
+    87         40
+    88        150
+    89         20
+    91        190
+    92         10
+    99         30
+   101         40
+   112         50
+   113         90
+   114         10
+   116         10
+   117         20
+   118         90
+   119         20
+   130         30
+   131         20
+   133         10
+   134        190
+   135         20
+   136         40
+   137         10
+   139         10
+   144        130
+   145        130
+   146         40
+   158         20
+   165         80
+   176        290
+   177         30
+   178         50
+   193         40
+   198        230
+   199         20
+   200         10
+   210         10
+   214         10
+   218         10
+   257        200
+   258         30
+   259         10

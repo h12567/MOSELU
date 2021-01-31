@@ -1,0 +1,57 @@
+##TITLE=Library Entry 21995
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Propane, 1-(2,2-dichloro-3-isopropylcyclopropyl)-
+##MOLFORM=C9H16Cl2
+##CAS REGISTRY NO=24551-88-0
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        400
+    40         60
+    41        580
+    42        390
+    43        470
+    44         20
+    51        150
+    53        130
+    55        140
+    56        999
+    57        260
+    58         10
+    63         60
+    65        110
+    67         90
+    69         60
+    75         80
+    77        150
+    78         10
+    79        120
+    81         60
+    83         30
+    84         30
+    85         20
+    87         60
+    89         80
+    91         50
+    98         40
+   102         40
+   103        220
+   104         20
+   105         70
+   109        260
+   110         50
+   111        170
+   112         30
+   123        160
+   124         30
+   125         90
+   137         20
+   138        230
+   151         40

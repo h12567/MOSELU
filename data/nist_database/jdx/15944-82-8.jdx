@@ -1,0 +1,43 @@
+##TITLE=Library Entry 35988
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=2,2-Bis(trifluoromethyl)aziridine
+##MOLFORM=C4H3F6N
+##CAS REGISTRY NO=15944-82-8
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    46        195
+    47          9
+    51        203
+    52          9
+    60        156
+    61         11
+    64        543
+    69        999
+    70        221
+    71         19
+    90        793
+    91         25
+    96        182
+    97         11
+   109        999
+   110         32
+   111          9
+   140        967
+   141         91
+   142         11
+   158        733
+   159        629
+   160        176
+   170         18
+   178         83
+   179        741
+   180         36
+   181          1

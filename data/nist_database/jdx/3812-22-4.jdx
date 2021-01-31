@@ -1,0 +1,31 @@
+##TITLE=Library Entry 46887
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(8)606(1975); A. SEL
+##NAMES=HP
+##CAS NAME=[4,4':4',4''-Terpyrazolidine]-3,3',3'',5,5',5''-hexone, 1,1',1'',
+2,2',2''-hexaphenyl-
+##MOLFORM=C45H32N6O6
+##CAS REGISTRY NO=3812-22-4
+##MP= -300
+##BP= -300
+##MW= 752
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    64         80
+    77        999
+    91        460
+    93        470
+   105        200
+   119        340
+   124        430
+   172        100
+   183        310
+   252        150
+   302         20
+   320         50
+   450         80
+   502         70
+   752         35

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 89493
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(N-Methylcarbamoyloxymethyl)trivinylsilane
+##MOLFORM=C9H15NO2Si
+##CAS REGISTRY NO=120491-41-0
+##MP= -300
+##BP= -300
+##MW= 197
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    57        328
+    58        346
+    59         50
+    60        167
+    61         11
+    83        418
+    84        101
+    85         27
+    86        156
+    87          8
+   109         38
+   110         21
+   112        999
+   113        108
+   114         38
+   170         11

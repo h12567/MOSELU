@@ -1,0 +1,54 @@
+##TITLE=Library Entry 26990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.Little, Eastman Chem. Comp.,Kingsport
+##NAMES=HP
+##CAS NAME=Octane, 1,1'-[ethylidenebis(oxy)]bis-
+##MOLFORM=C18H38O2
+##CAS REGISTRY NO=93941-00-5
+##MP= -300
+##BP= -300
+##MW= 286
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27        102
+    29        231
+    31         49
+    39         49
+    41        384
+    42        173
+    43        603
+    44         29
+    45        100
+    54         14
+    55        278
+    56        222
+    57        999
+    58         25
+    67          9
+    68         18
+    69        156
+    70        153
+    71        838
+    72         40
+    81          9
+    82         18
+    83         92
+    84         92
+    85         15
+    97          5
+   110         18
+   111          5
+   112          7
+   113        326
+   114         23
+   139          3
+   141         21
+   156         10
+   157        858
+   158         94
+   159         29
+   271        123
+   272         23

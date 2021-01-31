@@ -1,0 +1,61 @@
+##TITLE=Library Entry 16044
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-4085
+##NAMES=HP
+##CAS NAME=3-Chloro-N-methylpropylamine
+##MOLFORM=C4H10ClN
+##CAS REGISTRY NO=65232-62-4
+##MP= -300
+##BP= -300
+##MW= 107
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         31
+    26          8
+    27         41
+    28         95
+    29         16
+    30        113
+    31          4
+    39         35
+    40          9
+    41         67
+    42         92
+    43         50
+    44        999
+    45         75
+    48          1
+    49         16
+    51          6
+    52          3
+    54          9
+    55          3
+    56         33
+    57         61
+    58          6
+    61          2
+    62          1
+    63          3
+    64          1
+    65          1
+    68          5
+    69          1
+    70         28
+    71          7
+    72          3
+    73          1
+    75          4
+    77          4
+    78          1
+    90          2
+    92          1
+   104          1
+   106         36
+   107        246
+   108         34
+   109         79
+   110          8

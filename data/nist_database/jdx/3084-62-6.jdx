@@ -1,0 +1,51 @@
+##TITLE=Library Entry 23582
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Acetic acid, (2,4,5-trichlorophenoxy)-, 2-butoxypropyl ester
+##MOLFORM=C15H19Cl3O4
+##CAS REGISTRY NO=3084-62-6
+##MP= -300
+##BP= -300
+##MW= 368
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    29        456
+    31        137
+    41        633
+    42        261
+    43        307
+    57        999
+    58        551
+    59        231
+    97         41
+   101         43
+   109         44
+   114        141
+   115         34
+   143         30
+   145         52
+   146         44
+   167         23
+   169         20
+   179         43
+   181         46
+   183         19
+   196         45
+   198         40
+   200         12
+   209         97
+   211         89
+   213         27
+   254         15
+   256         14
+   258          4
+   295         29
+   297         27
+   299          8
+   364          1
+   368          5
+   370          5

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 68408
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2,10-Bornanediol, exo-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=1925-39-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27        194
+    29        194
+    31        170
+    39        255
+    41        515
+    43        473
+    53        201
+    55        393
+    67        417
+    69        201
+    77        194
+    79        352
+    81        303
+    82        197
+    84        206
+    91        184
+    93        631
+    94        583
+    95        999
+   107        175
+   108        999
+   109        415
+   111        243
+   121        231
+   123        223
+   137        153
+   139        146
+   152        109

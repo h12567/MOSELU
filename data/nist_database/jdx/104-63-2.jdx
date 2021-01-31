@@ -1,0 +1,74 @@
+##TITLE=Library Entry 61746
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=RADIAN CORP
+##NAMES=HP
+##CAS NAME=Ethanol, 2-[(phenylmethyl)amino]-
+##MOLFORM=C9H13NO
+##CAS REGISTRY NO=104-63-2
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=1349
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          2
+    26          1
+    27          6
+    28         16
+    29          8
+    30         11
+    31         14
+    38          4
+    39         32
+    40          2
+    41         12
+    42         11
+    43          7
+    45          6
+    50         14
+    51         33
+    52         10
+    53          3
+    54          3
+    55          2
+    56         12
+    60          7
+    61          1
+    62          8
+    63         33
+    64         10
+    65        133
+    66          9
+    72          5
+    73          2
+    74         12
+    75          5
+    76          5
+    77         33
+    78         10
+    79         15
+    80          1
+    89         32
+    90         14
+    91        999
+    92         81
+    93          4
+   100          2
+   102          1
+   103          4
+   104         10
+   105         11
+   106         15
+   117          8
+   118         20
+   119          4
+   120        293
+   121         28
+   128          2
+   130          1
+   132          2
+   150          2
+   151          7

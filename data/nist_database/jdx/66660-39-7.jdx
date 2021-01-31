@@ -1,0 +1,62 @@
+##TITLE=Library Entry 50799
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=trans, cis-2-Ethylbicyclo[4.4.0]decane
+##MOLFORM=C12H22
+##CAS REGISTRY NO=66660-39-7
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    53         80
+    54         85
+    55        457
+    56         25
+    57         23
+    65         50
+    66         43
+    67        557
+    68        136
+    69        239
+    70         43
+    71         18
+    72         14
+    73         14
+    77         71
+    78         29
+    79         79
+    80         43
+    81        999
+    82        264
+    83        114
+    84         14
+    91         43
+    93         43
+    94         43
+    95        671
+    96        486
+    97        129
+    98         14
+   106         14
+   107         21
+   108         36
+   109        243
+   110         64
+   121         11
+   122          7
+   123         61
+   124         50
+   125          7
+   135         21
+   136        143
+   137        814
+   138        100
+   139          7
+   166        686
+   167         91
+   168          5

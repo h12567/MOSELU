@@ -1,0 +1,36 @@
+##TITLE=Library Entry 29166
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.AUTERHOFF, INST. PHARM., UNIV., TUBINGEN, GERMANY, F.
+R.G.
+##NAMES=HP
+##CAS NAME=9H-Fluorene-9-methanamine, .alpha.,.alpha.-dimethyl-
+##MOLFORM=C16H17N
+##CAS REGISTRY NO=51328-62-2
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    30        140
+    39         60
+    41        290
+    42        230
+    43         80
+    57         50
+    58        999
+    59        400
+    63         60
+    89         50
+   115         90
+   139        120
+   162         50
+   163        270
+   164        220
+   165        810
+   166        190
+   193         60
+   208         50
+   223         10

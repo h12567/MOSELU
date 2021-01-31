@@ -1,0 +1,74 @@
+##TITLE=Library Entry 31039
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH; ALDRICH E04930
+-4
+##NAMES=HP
+##CAS NAME=Hydrazinecarbothioamide, N-ethyl-
+##MOLFORM=C3H9N3S
+##CAS REGISTRY NO=13431-34-0
+##MP= -300
+##BP= -300
+##MW= 119
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          6
+    14          1
+    15        116
+    16         27
+    26         86
+    27        575
+    28         59
+    29        914
+    30        225
+    31        454
+    32        927
+    33         92
+    34         37
+    35         11
+    36          0
+    38         14
+    39          5
+    40         39
+    41         62
+    42        222
+    43        352
+    44        804
+    45        166
+    46         62
+    47         53
+    48         79
+    52         10
+    53         17
+    54         16
+    55         64
+    56         29
+    57         19
+    58         70
+    59        232
+    60        999
+    61        155
+    62        108
+    63          3
+    69        145
+    70         17
+    71         37
+    72         32
+    73          6
+    74         57
+    75        100
+    76         58
+    86         53
+    87         31
+    88        356
+    89         33
+    90         20
+   102        155
+   103         54
+   104         31
+   119        996
+   120        113
+   121         92

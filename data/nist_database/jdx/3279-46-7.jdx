@@ -1,0 +1,65 @@
+##TITLE=Library Entry 86464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DS14-137-1A
+##NAMES=HP
+##CAS NAME=Phenol, 2-(2-propynyloxy)-, methylcarbamate
+##MOLFORM=C11H11NO3
+##CAS REGISTRY NO=3279-46-7
+##MP= -300
+##BP= -300
+##MW= 205
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         32
+    39        112
+    40         17
+    42         16
+    43         19
+    44         23
+    50         33
+    51         56
+    52         97
+    53         49
+    54         16
+    55         39
+    56         71
+    57        169
+    58        220
+    59         16
+    62         14
+    63         42
+    64         62
+    65         35
+    79         12
+    80         44
+    81        302
+    82         19
+    86         46
+    88        231
+    89         12
+    91         53
+    92         28
+    93         14
+    94         16
+   101         10
+   109        999
+   110        336
+   111         24
+   119         24
+   120         46
+   121         23
+   123         23
+   131         35
+   145         12
+   147        128
+   148        859
+   149         81
+   150         10
+   160         14
+   161         17
+   162         10
+   205         21

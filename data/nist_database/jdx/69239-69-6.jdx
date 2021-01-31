@@ -1,0 +1,59 @@
+##TITLE=Library Entry 2830
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E. TALMAN, CENT. LAB. TNO, SCHOEMAKERSTRAAT 97, DELFT,
+ N
+##NAMES=HP
+##CAS NAME=5,9-Dimethyl-2-(1-methylethylidene)-1-cyclodecanone
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=69239-69-6
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        180
+    43        400
+    53        260
+    55        600
+    56        120
+    57        120
+    67        520
+    68        280
+    69        600
+    77        110
+    79        120
+    81        320
+    82        360
+    83        180
+    91         80
+    93        120
+    95        280
+    96        100
+    97        150
+    98        200
+   105         20
+   107         80
+   109        360
+   110        120
+   111        140
+   112         80
+   121         70
+   122         60
+   123        240
+   124         60
+   137        540
+   138        560
+   139        180
+   140        280
+   151        160
+   152        120
+   165         80
+   179         40
+   189         30
+   204         20
+   207         80
+   222        170

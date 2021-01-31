@@ -1,0 +1,61 @@
+##TITLE=Library Entry 52179
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=5-Nonanol, 2,8-dimethyl-
+##MOLFORM=C11H24O
+##CAS REGISTRY NO=19780-96-2
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    27         48
+    28          9
+    29         68
+    30          5
+    31         14
+    39         60
+    41        245
+    42         32
+    43        176
+    44         21
+    45         19
+    51          4
+    52          4
+    53         23
+    54          4
+    55        441
+    56        145
+    57        194
+    58         37
+    59         25
+    65          5
+    66          3
+    67         25
+    68         13
+    69        108
+    70         35
+    71         22
+    72         12
+    77          4
+    79          6
+    81         23
+    83        999
+    84         75
+    85          7
+    95          3
+    96          4
+    97         21
+    98          9
+    99          5
+   100         34
+   101        216
+   102         15
+   110          5
+   111         14
+   126          9
+   154         18

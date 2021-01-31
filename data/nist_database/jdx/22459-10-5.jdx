@@ -1,0 +1,35 @@
+##TITLE=Library Entry 2483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-Methyl-6-methylene-octa-1,7-dien-3-ol
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=22459-10-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1145
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41        999
+    43        651
+    53        270
+    55        250
+    57        110
+    67        301
+    68        189
+    69        279
+    71        280
+    79        209
+    81        119
+    83         90
+    84        219
+    91        109
+    93         99
+    96         69
+   109         49
+   119         40
+   123         39
+   137         30

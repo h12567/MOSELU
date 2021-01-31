@@ -1,0 +1,47 @@
+##TITLE=Library Entry 44583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KAMEOKA,DEP. APPL. CHEM.,KINKI UNIV.,HIGASHIOSAKA-SH
+I,JAPAN
+##NAMES=HP
+##CAS NAME=cis-3,5-Diethyl-1,2,4-trithiolane
+##MOLFORM=C6H12S3
+##CAS REGISTRY NO=38348-25-3
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=1373
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    36         10
+    37         60
+    38         90
+    39        484
+    40         96
+    41        720
+    45        740
+    46        282
+    47        174
+    57         96
+    58        220
+    59        340
+    69        160
+    70         22
+    71        220
+    72        110
+    73        650
+    74        999
+    75        102
+    76         82
+    97         64
+    99         40
+   106         70
+   112         80
+   115         50
+   116         56
+   125         24
+   137         10
+   142         10
+   180        100
+   182         16

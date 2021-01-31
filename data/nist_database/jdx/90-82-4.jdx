@@ -1,0 +1,53 @@
+##TITLE=Library Entry 28597
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=AAFS Toxicology Section MS DB Committee, U. Alberta, Ca
+nada
+##NAMES=HP
+##CAS NAME=Pseudoephedrine
+##MOLFORM=C10H15NO
+##CAS REGISTRY NO=90-82-4
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=1369
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    29         20
+    30         49
+    31          7
+    39         16
+    40          3
+    41         11
+    42         36
+    43         22
+    44         21
+    45          4
+    50         17
+    51         40
+    52         14
+    53          8
+    55          3
+    56         51
+    57         25
+    58        999
+    59         40
+    63          8
+    64          9
+    73          5
+    74          7
+    75          8
+    76          7
+    77        120
+    78         28
+    79         31
+    89          7
+    91         14
+   103          3
+   105         30
+   106         17
+   115          4
+   117         13
+   131          3
+   132          3

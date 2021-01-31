@@ -1,0 +1,66 @@
+##TITLE=Library Entry 17015
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=Methoxyacetic acid, butyl ester
+##MOLFORM=C7H14O3
+##CAS REGISTRY NO=17640-22-1
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         31
+    16          1
+    17          1
+    26          8
+    27         72
+    28         37
+    29        300
+    30         13
+    31         20
+    33          4
+    37          1
+    38          3
+    39         57
+    41        288
+    42         67
+    43         32
+    45        999
+    46         25
+    47         16
+    50          2
+    51          2
+    52          1
+    53          6
+    54          3
+    55         38
+    56        312
+    57        303
+    58         14
+    60         84
+    61         39
+    62          1
+    63         15
+    69          1
+    70          2
+    71          7
+    72          4
+    73          2
+    75         24
+    76          1
+    86          1
+    87          1
+    88          1
+    89          2
+    90          2
+    91         18
+    92          1
+   101         13
+   102          1
+   116         21
+   117          2

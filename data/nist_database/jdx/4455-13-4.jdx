@@ -1,0 +1,79 @@
+##TITLE=Library Entry 31363
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Ethyl (methylthio)acetate
+##MOLFORM=C5H10O2S
+##CAS REGISTRY NO=4455-13-4
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=989
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          0
+    13          1
+    14         15
+    15         38
+    16          1
+    19          2
+    25          0
+    26         19
+    27        244
+    28         25
+    29        476
+    30         14
+    31         31
+    32          2
+    33          2
+    34          2
+    35        180
+    36          1
+    37          7
+    39          1
+    40          0
+    41          8
+    42         90
+    43         43
+    44          7
+    45        149
+    46         82
+    47         56
+    48         17
+    49          5
+    50          0
+    57          2
+    58          7
+    59         23
+    60         83
+    61        999
+    62         41
+    63         50
+    64          3
+    65          0
+    70         51
+    71          2
+    72          0
+    73          4
+    74          1
+    75         18
+    76          0
+    77         15
+    78          0
+    79          0
+    87          1
+    88        575
+    89         74
+    90         11
+    91          6
+    92          2
+   105          3
+   106          5
+   107          0
+   119          3
+   134        697
+   135         42
+   136         33
+   137          1

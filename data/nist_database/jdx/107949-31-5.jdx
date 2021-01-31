@@ -1,0 +1,86 @@
+##TITLE=Library Entry 847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.A. Leclercq, Lab. Instrum. Anal., Eindhoven Univ. Tec
+hnol., Netherlands
+##NAMES=HP
+##CAS NAME=Benzene, 4-ethoxy-2-methyl-1-[(4-pentylphenyl)ethynyl]-
+##MOLFORM=C22H26O
+##CAS REGISTRY NO=107949-31-5
+##MP= -300
+##BP= -300
+##MW= 306
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15         23
+    18         55
+    27        412
+    29        999
+    30         24
+    39        117
+    41        351
+    43        178
+    51         31
+    53         27
+    55         65
+    57         52
+    63         30
+    65         22
+    75         19
+    76         24
+    77         60
+    89         48
+    91         36
+   101         40
+   102         32
+   103         23
+   115        112
+   116         19
+   126         30
+   127         44
+   128         51
+   131         26
+   139         66
+   141         20
+   150         34
+   151         65
+   152        130
+   153         46
+   163         41
+   164         35
+   165        184
+   166         39
+   176         71
+   177         52
+   178        218
+   179         48
+   181         38
+   189        204
+   190        111
+   191        335
+   192        146
+   193         31
+   194         28
+   201         31
+   202        173
+   203         84
+   204         45
+   205         57
+   206         19
+   207         51
+   215         19
+   218         22
+   219         49
+   220        145
+   221        841
+   222        147
+   249        723
+   250        146
+   277        130
+   278         90
+   279         18
+   306        857
+   307        209
+   308         28

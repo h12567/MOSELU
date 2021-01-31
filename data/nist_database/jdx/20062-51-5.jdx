@@ -1,0 +1,56 @@
+##TITLE=Library Entry 109223
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. Cohen, LC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Imidazole, 2-aminocarbonyl-1-methyl-
+##MOLFORM=C5H7N3O
+##CAS REGISTRY NO=20062-51-5
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        127
+    42        285
+    44        226
+    46          7
+    48         20
+    49          7
+    51         52
+    52        112
+    53        138
+    54        349
+    55        235
+    56         91
+    59          6
+    63         20
+    66         33
+    67         26
+    68         89
+    69         33
+    71          6
+    72          6
+    77          5
+    78         16
+    79         33
+    80        143
+    81        488
+    82        279
+    83         25
+    93         12
+    96        285
+    97         58
+   103          6
+   106         23
+   107         24
+   108         72
+   109        159
+   111         26
+   112          9
+   124          7
+   125        999
+   126         52
+   127         28

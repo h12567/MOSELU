@@ -1,0 +1,60 @@
+##TITLE=Library Entry 73383
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(7)2646(1978); P. DATWYLER ET AL
+##NAMES=HP
+##CAS NAME=Acetamide, N-[3-(acetylamino)propyl]-N-[4-[15-(acetyloxy)-2-[[4-(
+acetyloxy)phenyl]methyl]-3,9-dioxo-4,8-diazabicyclo[10.3.1]hexadeca-1(16),12
+,14-trien-4-yl]butyl]-
+##MOLFORM=C36H48N4O8
+##CAS REGISTRY NO=69721-70-6
+##MP= -300
+##BP= -300
+##MW= 664
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    70        320
+    72        200
+    84        560
+    98        290
+   100        999
+   107        760
+   110        360
+   129        300
+   143        160
+   147        110
+   155        280
+   157        200
+   169        310
+   171        170
+   211        110
+   213        170
+   225        210
+   228        190
+   242        330
+   253        100
+   256        240
+   268        440
+   271        140
+   313        200
+   394        120
+   395        100
+   415        200
+   423        240
+   437        200
+   474        130
+   478        170
+   550         80
+   551         80
+   564        100
+   580        110
+   594        100
+   604         70
+   621        110
+   622        460
+   623        180
+   636        110
+   664        310
+   665        150

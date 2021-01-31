@@ -1,0 +1,50 @@
+##TITLE=Library Entry 79678
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Am Soc Mass Spectrom 2008, 19, 1114-1118
+##NAMES=HP
+##CAS NAME=N-Benzoyl derivative of p-fluoroaniline
+##MOLFORM=C13H10FNO
+##CAS REGISTRY NO=366-75-6
+##MP= -300
+##BP= -300
+##MW= 215
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         22
+    39         32
+    49         12
+    50         93
+    51        262
+    52         32
+    53         12
+    56         12
+    57         83
+    58         12
+    62         22
+    63         32
+    64         12
+    65         12
+    74         32
+    75         32
+    76         42
+    77        661
+    78         53
+    81         22
+    82         22
+    83        153
+    84         12
+    89         12
+    95         12
+   105        999
+   106         83
+   107         12
+   109         12
+   110         53
+   111         12
+   185         12
+   215        292
+   216         42

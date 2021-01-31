@@ -1,0 +1,50 @@
+##TITLE=Library Entry 51202
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptane, 7-butyl-
+##MOLFORM=C11H20
+##CAS REGISTRY NO=18645-10-8
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        640
+    42        160
+    43        640
+    44        120
+    45         20
+    53         50
+    54        180
+    55        630
+    56        170
+    57        730
+    58        100
+    66         40
+    67        580
+    68        370
+    69        360
+    81        510
+    82        999
+    83        260
+    84         70
+    85         50
+    91         40
+    93         60
+    94         30
+    95        340
+    96        490
+    97        180
+   109        220
+   110        140
+   111         60
+   119         20
+   121         30
+   124         60
+   152        180
+   153         30

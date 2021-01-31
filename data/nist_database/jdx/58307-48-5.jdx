@@ -1,0 +1,62 @@
+##TITLE=Library Entry 45834
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=1-Dimethyl(chloromethyl)silyloxyhexane
+##MOLFORM=C9H21ClOSi
+##CAS REGISTRY NO=58307-48-5
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39         48
+    41        152
+    42         38
+    43        149
+    44         32
+    45         92
+    47         28
+    55        214
+    56         42
+    57         28
+    58         24
+    59         76
+    61         58
+    63         28
+    65         25
+    69         27
+    71         18
+    72         21
+    73         21
+    74         22
+    75        999
+    76         77
+    77         40
+    78         20
+    79        143
+    80         25
+    81        104
+    83        107
+    85         23
+    87         18
+    88         22
+    89        152
+    90         95
+    93         39
+    95         70
+    97         27
+   101         38
+   107         71
+   108         12
+   109         29
+   115         17
+   123         23
+   137         26
+   158         18
+   159        723
+   160        100
+   161         35

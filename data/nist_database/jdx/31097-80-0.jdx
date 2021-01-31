@@ -1,0 +1,27 @@
+##TITLE=Library Entry 46491
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=3,5-Hexadiyn-2-one
+##MOLFORM=C6H4O
+##CAS REGISTRY NO=31097-80-0
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 12
+##XYDATA=(XY..XY) 1 
+    15         30
+    43        600
+    44         20
+    49        150
+    50         10
+    63         80
+    64        130
+    65         10
+    77        999
+    78         50
+    92        320
+    93         20

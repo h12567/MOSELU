@@ -1,0 +1,38 @@
+##TITLE=Library Entry 76592
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O.S.Anisimova
+##NAMES=HP
+##CAS NAME=4,4'-Bitriazolyl, 3,3'-diphenyl-
+##MOLFORM=C16H12N6
+##CAS REGISTRY NO=41291-72-9
+##MP= -300
+##BP= -300
+##MW= 288
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    39         23
+    52         54
+    62         77
+    63        304
+    64         36
+    75         45
+    76        214
+    77        118
+    89        377
+    90         45
+   102         41
+   103        999
+   104        405
+   116         50
+   117         27
+   118         23
+   129         36
+   130         91
+   145         41
+   157        114
+   232         23
+   288        304
+   289         68

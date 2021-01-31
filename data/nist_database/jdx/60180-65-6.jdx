@@ -1,0 +1,49 @@
+##TITLE=Library Entry 47574
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,4-Diphenyl-3-chloro-3-ethoxycarbonyl-azetidin-2-one
+##MOLFORM=C18H16ClNO3
+##CAS REGISTRY NO=60180-65-6
+##MP= -300
+##BP= -300
+##MW= 329
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    35        120
+    50         80
+    51        398
+    69        428
+    76        109
+    77        999
+    78         49
+    89        121
+   101        140
+   102        762
+   103        201
+   104        170
+   119        262
+   120         50
+   125         91
+   129        131
+   137        141
+   146         80
+   147        271
+   152         39
+   165        199
+   174         30
+   175        391
+   180        533
+   181        862
+   182        159
+   210        620
+   211        229
+   248        130
+   293        100
+   294         49
+   329        151
+   330         39
+   331         60

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 91073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 364
+##NAMES=HP
+##CAS NAME=2-Methyl-3-furanthiol
+##MOLFORM=C5H6OS
+##CAS REGISTRY NO=28588-74-1
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=870
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          9
+    25          1
+    26          6
+    27         24
+    28          5
+    29          1
+    32          7
+    33          2
+    34          3
+    35          1
+    36          1
+    37          7
+    38          9
+    39         34
+    40          3
+    41         23
+    42          6
+    43        174
+    44         11
+    45        188
+    46          6
+    47          9
+    48          1
+    49          5
+    50         25
+    51         87
+    52         69
+    53         92
+    54          6
+    55          9
+    56          2
+    57         21
+    58         28
+    59         52
+    60          8
+    61          4
+    62          1
+    63          1
+    67          1
+    68          7
+    69         64
+    70         22
+    71        155
+    72         12
+    73          8
+    74          1
+    76          1
+    78          2
+    79          2
+    80         16
+    81         48
+    82         10
+    83          6
+    84          9
+    85        237
+    86        138
+    87         35
+    88          8
+    89          1
+    91          1
+    96          2
+    97          5
+    98          1
+    99          5
+   111          2
+   112          9
+   113        279
+   114        999
+   115         76
+   116         48
+   117          3

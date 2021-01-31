@@ -1,0 +1,72 @@
+##TITLE=Library Entry 24925
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-3573
+##NAMES=HP
+##CAS NAME=2-Methylpentyl propionate
+##MOLFORM=C9H18O2
+##CAS REGISTRY NO=185756-33-6
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          3
+    18          1
+    26          8
+    27        108
+    28         35
+    29        343
+    30          9
+    31         23
+    32          1
+    38          2
+    39         52
+    40          9
+    41        163
+    42         95
+    43        383
+    44         12
+    45         12
+    50          1
+    51          2
+    52          1
+    53         10
+    54          7
+    55        140
+    56        618
+    57        999
+    58         59
+    59         16
+    65          1
+    67          7
+    68          3
+    69        188
+    70         40
+    71        105
+    72          7
+    73          5
+    74         24
+    75        142
+    76          5
+    77          1
+    82          3
+    83         40
+    84        482
+    85         78
+    86        115
+    87        182
+    88         64
+    89         10
+    99         41
+   100          7
+   101          6
+   111          3
+   115          9
+   116          1
+   117          3
+   129          9
+   140          1
+   158          1

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 70774
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Pyrrolidinone, 1-propyl-
+##MOLFORM=C7H13NO
+##CAS REGISTRY NO=3470-99-3
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        643
+    42        427
+    43        207
+    44         39
+    52          8
+    53          8
+    54         35
+    55         52
+    56         88
+    57         44
+    58         17
+    68         66
+    69        237
+    70        555
+    71         35
+    72          8
+    82          4
+    83          4
+    84        114
+    85        229
+    86         61
+    87          8
+    98        999
+    99        123
+   112         96
+   113          4
+   126         22
+   127        295
+   128         30
+   129          4

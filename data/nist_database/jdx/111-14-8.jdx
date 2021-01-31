@@ -1,0 +1,79 @@
+##TITLE=Library Entry 30953
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Heptanoic acid
+##MOLFORM=C7H14O2
+##CAS REGISTRY NO=111-14-8
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=1078
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    15          1
+    26         11
+    27        125
+    28         22
+    29        122
+    30          4
+    31         14
+    37          1
+    38          4
+    39        132
+    40         21
+    41        316
+    42        113
+    43        315
+    44         13
+    45        147
+    46          2
+    47          1
+    48          1
+    50          3
+    51         11
+    52          3
+    53         30
+    54         12
+    55        271
+    56         56
+    57         32
+    58          2
+    59         37
+    60        999
+    61        116
+    62          3
+    63          1
+    65          1
+    66          1
+    67         10
+    68         24
+    69         49
+    70        132
+    71        124
+    72          3
+    73        469
+    74         54
+    75          1
+    77          2
+    79          1
+    81          1
+    82          1
+    83         36
+    84         39
+    85          2
+    86          1
+    87        216
+    88         12
+    89          1
+    94          1
+    97          2
+   101         69
+   102          2
+   111          1
+   112          2
+   113          3
+   115          2
+   130          1

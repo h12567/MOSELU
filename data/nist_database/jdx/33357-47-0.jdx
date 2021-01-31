@@ -1,0 +1,63 @@
+##TITLE=Library Entry 47071
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzamide, N-1-isoquinolinyl-
+##MOLFORM=C16H12N2O
+##CAS REGISTRY NO=33357-47-0
+##MP= -300
+##BP= -300
+##MW= 248
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    50         28
+    51        168
+    55         62
+    56         24
+    57         62
+    63         28
+    67         33
+    69         52
+    75         28
+    76         38
+    77        999
+    78         86
+    81         57
+    82         24
+    83         57
+    85         28
+    89         62
+    95         62
+    96         24
+    97         52
+   101         57
+   102         28
+   105        913
+   106         76
+   109         48
+   110         28
+   111         38
+   115         48
+   116         72
+   123         33
+   124         38
+   125         28
+   128        312
+   129         28
+   134         33
+   142         38
+   143         33
+   171        788
+   172         96
+   204         57
+   219        269
+   220         91
+   231         28
+   232        120
+   233         28
+   247        375
+   248        778
+   249        134

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 67466
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=(Phenoxyformamido)sulfur pentafluoride
+##MOLFORM=C7H6F5NO2S
+##CAS REGISTRY NO=81439-23-8
+##MP= -300
+##BP= -300
+##MW= 263
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    39        111
+    47         44
+    63         24
+    65        189
+    66        111
+    77         83
+    89         46
+    93         78
+    94        999
+    95         62
+   112         20
+   121         26
+   127        167
+   129          7
+   135         10
+   150        220
+   152          9
+   169          7
+   170          3
+   243         62
+   244          6
+   245          3
+   263         11
+   264          1
+   265          1

@@ -1,0 +1,53 @@
+##TITLE=Library Entry 15469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=5-Dimethylamino-1-penten-3,5-dione
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=63354-23-4
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        440
+    29         76
+    30         99
+    41        263
+    42        476
+    43        279
+    44        999
+    45        958
+    46        206
+    55        949
+    56        107
+    57        105
+    58        111
+    66         86
+    69        408
+    70        137
+    71         55
+    72        767
+    73         57
+    81         47
+    83         36
+    84         95
+    85         34
+    86         61
+    87         61
+    95         37
+    97        726
+    98        274
+    99        114
+   112         42
+   113        238
+   114         97
+   124         60
+   126         52
+   139         22
+   140        135
+   141        947
+   142         98

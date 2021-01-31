@@ -1,0 +1,50 @@
+##TITLE=Library Entry 38318
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2,4-Dimethyl-1-penten-3-ol
+##MOLFORM=C7H14O
+##CAS REGISTRY NO=19781-54-5
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    26         10
+    27         89
+    28         26
+    29         50
+    31         21
+    38         24
+    39        188
+    40         36
+    41        271
+    42         53
+    43        561
+    44         27
+    45         26
+    50         13
+    51         20
+    52         13
+    53         58
+    54         23
+    55         86
+    56         21
+    57        125
+    58         13
+    65         11
+    67         21
+    69         27
+    71        999
+    72        132
+    73         18
+    77         13
+    79         36
+    81         78
+    82          7
+    96         21
+    99         26
+   114         35

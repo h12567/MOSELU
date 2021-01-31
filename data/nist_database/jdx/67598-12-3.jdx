@@ -1,0 +1,30 @@
+##TITLE=Library Entry 66735
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L. TSAI, NATL. HEART LUNG BLOOD INST., BETHESDA, MD., U
+S
+##NAMES=HP
+##CAS NAME=N,N-Tetramethylene-.alpha.-(aminomethylene)glutaconic anhydride
+##MOLFORM=C10H11NO3
+##CAS REGISTRY NO=67598-12-3
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    51        550
+    79        450
+    80        170
+    93        999
+    94        240
+   108        170
+   109         50
+   110        100
+   120        760
+   121        210
+   137        620
+   164        690
+   165        590
+   193        930

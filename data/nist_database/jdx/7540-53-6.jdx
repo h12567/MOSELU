@@ -1,0 +1,70 @@
+##TITLE=Library Entry 50733
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Citronellyl valerate
+##MOLFORM=C15H28O2
+##CAS REGISTRY NO=7540-53-6
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=1625
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    18          1
+    26          2
+    27         35
+    28         17
+    29        102
+    30          2
+    37          1
+    38          1
+    39         65
+    40         17
+    41        565
+    42         82
+    44          3
+    45          7
+    47          1
+    53         43
+    54         32
+    55        315
+    56         98
+    57        509
+    58         10
+    60         20
+    61          2
+    62          1
+    66          5
+    67        481
+    68        328
+    69        858
+    70         92
+    73         14
+    75          5
+    80         91
+    81        999
+    82        803
+    83        178
+    85        391
+    86         21
+    87          3
+    88          1
+    94         56
+    95        857
+    96        191
+    99          8
+   100          2
+   101          8
+   102          1
+   103         51
+   109        153
+   110         43
+   114          2
+   123        991
+   124         86
+   136         12
+   138        508
+   139         46

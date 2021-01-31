@@ -1,0 +1,71 @@
+##TITLE=Library Entry 19297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 4-ethyl-3,4-dimethyl-
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=17429-42-4
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        660
+    42        200
+    43        430
+    44         20
+    45         10
+    50         10
+    51         30
+    52         10
+    53        120
+    54         50
+    55        999
+    56        130
+    57        190
+    58         20
+    63         10
+    65         20
+    66         10
+    67        130
+    68         60
+    69        530
+    70        260
+    71        390
+    72         20
+    77         20
+    79         30
+    80         10
+    81         60
+    82         60
+    83        320
+    84        260
+    85        110
+    86         10
+    91         10
+    93         20
+    94         10
+    95         20
+    96         10
+    97        120
+    98         30
+    99         20
+   107         30
+   108         10
+   109         10
+   110         10
+   111         60
+   121         20
+   123         10
+   124         20
+   125        210
+   126         40
+   139        270
+   140         20
+   154        320
+   155        130
+   156         10

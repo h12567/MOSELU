@@ -1,0 +1,53 @@
+##TITLE=Library Entry 78570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J Am Soc Mass Spectrom 2008, 19, 1114-1118
+##NAMES=HP
+##CAS NAME=N-Benzoyl derivative of m-bromoaniline
+##MOLFORM=C13H10BrNO
+##CAS REGISTRY NO=10286-85-8
+##MP= -300
+##BP= -300
+##MW= 275
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    37         12
+    38         30
+    39         43
+    40         12
+    41         12
+    50         83
+    51        202
+    52         32
+    53         12
+    61         12
+    62         22
+    63         83
+    64         60
+    65         22
+    74         22
+    75         22
+    76         43
+    77        531
+    78         43
+    90         22
+    91         73
+    92         12
+    98         12
+   105        999
+   106         83
+   107         12
+   117         12
+   119         12
+   143         12
+   145         12
+   167         12
+   170         12
+   172         12
+   195         12
+   275        101
+   276         22
+   277        101
+   278         12

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 22420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=N-(4-Methylbenzenesulfonyl)-2-methylazetidin-3-one
+##MOLFORM=C11H13NO3S
+##CAS REGISTRY NO=76543-28-7
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    42         39
+    43         11
+    51         11
+    55        620
+    56        999
+    57        845
+    58        101
+    62         43
+    63        152
+    64         72
+    65        491
+    66         29
+    67         12
+    69         16
+    71         10
+    76         10
+    77         36
+    78         13
+    79         12
+    89         83
+    90         46
+    91        463
+    92         48
+   105         49
+   155         46
+   211         16

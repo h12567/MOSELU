@@ -1,0 +1,54 @@
+##TITLE=Library Entry 39741
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=3,3-Dimethyl-3-silathietane
+##MOLFORM=C4H10SSi
+##CAS REGISTRY NO=77205-52-8
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    43        296
+    44        848
+    45        848
+    46        352
+    47        176
+    48         24
+    53        192
+    54         48
+    55        176
+    56         48
+    57        120
+    58         56
+    59         80
+    60         56
+    61        136
+    62         16
+    63         16
+    65         12
+    66         16
+    67         16
+    70        136
+    71        124
+    72        999
+    73        200
+    74         72
+    75        416
+    76         48
+    77         48
+    85         16
+    87         20
+    89         16
+    90        712
+    91         72
+    92         64
+   103         48
+   118        328
+   119         34
+   120         26
+   121          2

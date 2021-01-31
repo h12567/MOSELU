@@ -1,0 +1,30 @@
+##TITLE=Library Entry 29439
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(11)1073(1974); ECKHARDT
+##NAMES=HP
+##CAS NAME=10H-Dibenz[b,f]azepin-10-one, 5-[3-(dimethylamino)propyl]-5,11-di
+hydro-
+##MOLFORM=C19H22N2O
+##CAS REGISTRY NO=796-29-2
+##MP= -300
+##BP= -300
+##MW= 294
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    58        999
+    59         59
+    72         69
+    84         67
+    85        163
+   209         55
+   220        101
+   221        110
+   222         68
+   223         87
+   248         45
+   249         86
+   294        192
+   295         45

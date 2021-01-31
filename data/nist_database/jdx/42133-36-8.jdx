@@ -1,0 +1,31 @@
+##TITLE=Library Entry 35813
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acetic acid, trifluoro-, undecafluoropentyl ester
+##MOLFORM=C7F14O2
+##CAS REGISTRY NO=42133-36-8
+##MP= -300
+##BP= -300
+##MW= 382
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    31         28
+    44         11
+    47         11
+    50         38
+    69        999
+    78         18
+    97        288
+   100         16
+   119         68
+   131         18
+   181         38
+   247         10
+   269          8
+   285          8
+   313         44
+   363         44

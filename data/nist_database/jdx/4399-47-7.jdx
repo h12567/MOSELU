@@ -1,0 +1,50 @@
+##TITLE=Library Entry 18842
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclobutyl bromide
+##MOLFORM=C4H7Br
+##CAS REGISTRY NO=4399-47-7
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    13          3
+    14          5
+    15          4
+    16          0
+    25         11
+    26         92
+    27        296
+    28         83
+    29        161
+    32          3
+    37         16
+    38         31
+    39        163
+    40         13
+    41         11
+    49         11
+    50         46
+    51         42
+    52         15
+    53         89
+    54         11
+    55        999
+    56         40
+    79         14
+    80          5
+    81         14
+    82          5
+    93          4
+    95          3
+   106        155
+   108        155
+   109          4
+   119          3
+   134          9
+   136         10

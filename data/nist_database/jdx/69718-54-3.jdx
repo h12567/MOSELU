@@ -1,0 +1,54 @@
+##TITLE=Library Entry 84009
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. WILLIAMS, DEP. CHEM., UNIV. COLL., SWANSEA, U.K.
+##NAMES=HP
+##CAS NAME=1-Deoxy-1-(2-pyridylamino)-d-glucitol
+##MOLFORM=C11H18N2O5
+##CAS REGISTRY NO=69718-54-3
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         25
+    28        145
+    29         21
+    30         29
+    31         34
+    32         39
+    39         23
+    41         12
+    42         11
+    43         49
+    44         12
+    45         15
+    51         38
+    52         33
+    53         16
+    57         12
+    60         14
+    61         27
+    67         48
+    73         29
+    78        219
+    79        120
+    80         74
+    94        172
+    95         52
+   107        999
+   108        287
+   109         20
+   119         25
+   121         15
+   137        258
+   138         29
+   149         24
+   167         24
+   179         16
+   197         14
+   209          5
+   227          9
+   258          7

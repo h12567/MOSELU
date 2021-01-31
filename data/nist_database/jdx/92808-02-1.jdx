@@ -1,0 +1,34 @@
+##TITLE=Library Entry 17158
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.D.Bowen ET AL, Org. Mass Spectrom., 26,421(1991)
+##NAMES=HP
+##CAS NAME=1-Methoxy-2-methyl-3-butene
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=92808-02-1
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    39        100
+    40         10
+    41        100
+    42         20
+    43         20
+    45        999
+    46         30
+    53         50
+    54         40
+    55        110
+    58         20
+    67         40
+    68        440
+    69         50
+    71         20
+    72         30
+    85         10
+    99          5
+   100          5

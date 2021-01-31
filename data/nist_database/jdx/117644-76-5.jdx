@@ -1,0 +1,33 @@
+##TITLE=Library Entry 80599
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. Liguori, Dep. Chem., Univ. Calabria, Calabria, Italy
+##NAMES=HP
+##CAS NAME=5-Oxazolecarboxylic acid, 2-benzoyl-2,3-dihydro-3-phenyl-, methyl
+ ester
+##MOLFORM=C18H15NO4
+##CAS REGISTRY NO=117644-76-5
+##MP= -300
+##BP= -300
+##MW= 309
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    77        420
+    78        180
+    89        100
+    91        390
+   101        130
+   103        170
+   104        760
+   105        999
+   106        160
+   131        410
+   150        120
+   204        600
+   264         68
+   265         68
+   294        500
+   295         80
+   309        100

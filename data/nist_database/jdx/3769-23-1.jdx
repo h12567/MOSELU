@@ -1,0 +1,66 @@
+##TITLE=Library Entry 23570
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4827
+##NAMES=HP
+##CAS NAME=1-Hexene, 4-methyl-
+##MOLFORM=C7H14
+##CAS REGISTRY NO=3769-23-1
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=659
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         11
+    26         11
+    27        135
+    28         14
+    29        527
+    30         11
+    31          2
+    37          4
+    38         12
+    39        168
+    40         30
+    41        854
+    42         84
+    43         40
+    44          2
+    45          2
+    49          1
+    50          8
+    51         13
+    52          6
+    53         42
+    54         19
+    55        235
+    56        842
+    57        999
+    58         45
+    59          1
+    60          1
+    61          1
+    62          2
+    63          3
+    64          1
+    65          7
+    66          3
+    67         28
+    68         10
+    69        106
+    70        141
+    71          9
+    73          1
+    77          4
+    78          1
+    79          4
+    81          6
+    82          2
+    83         13
+    84          1
+    97          4
+    98         47
+    99          5

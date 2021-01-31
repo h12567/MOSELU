@@ -1,0 +1,31 @@
+##TITLE=Library Entry 32562
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=9-Thiabicyclo[6.1.0]nonane
+##MOLFORM=C8H14S
+##CAS REGISTRY NO=286-63-5
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    39        240
+    40        140
+    41        360
+    53        110
+    54        390
+    55        170
+    67        999
+    68        200
+    79        110
+    81        250
+    82        340
+   109        230
+   110        220
+   142        210
+   143         20
+   144         10

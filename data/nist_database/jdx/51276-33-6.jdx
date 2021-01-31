@@ -1,0 +1,62 @@
+##TITLE=Library Entry 32530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. Davies, Centr. Sci. Lab., Univ. Tasmania, Hobart,
+ Australia
+##NAMES=HP
+##CAS NAME=1,7-Octadiene-3,6-diol, 2,6-dimethyl-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=51276-33-6
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1273
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26         16
+    27        246
+    29        129
+    31         56
+    39        176
+    40         41
+    41        406
+    42         74
+    43        864
+    44         66
+    45         38
+    53         92
+    54         63
+    55        410
+    56         49
+    57         72
+    65         16
+    67        999
+    68        375
+    69        172
+    70         59
+    71        851
+    72         74
+    73         20
+    77         23
+    79         52
+    81        158
+    82        526
+    83         90
+    84        108
+    85         29
+    91         20
+    93         43
+    94         45
+    95         52
+    96         66
+    97         38
+    98         23
+   107         20
+   109         79
+   110         72
+   111         25
+   123         31
+   124         18
+   125         31
+   137         83

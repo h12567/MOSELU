@@ -1,0 +1,67 @@
+##TITLE=Library Entry 94397
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 15997-2
+##NAMES=HP
+##CAS NAME=Cyclopropanecarbonitrile, 1-(4-chlorophenyl)-
+##MOLFORM=C10H8ClN
+##CAS REGISTRY NO=64399-27-5
+##MP= -300
+##BP= -300
+##MW= 177
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    26          3
+    27         86
+    36         31
+    37         16
+    38         34
+    39        114
+    41         18
+    50         84
+    51         79
+    57        104
+    61         35
+    62         59
+    63        101
+    64         36
+    65         11
+    70        112
+    73         42
+    74         50
+    75        107
+    76         31
+    77         33
+    85         10
+    86         24
+    87         60
+    88         59
+    89         64
+    99          8
+   101         20
+   102         20
+   111          6
+   112         15
+   113         54
+   114        167
+   115        999
+   116        178
+   123         24
+   125         28
+   136         16
+   137         24
+   140        177
+   141         89
+   142        959
+   143        114
+   149         72
+   150        105
+   151         40
+   152         35
+   176         20
+   177        517
+   178         72
+   179        174
+   180         11

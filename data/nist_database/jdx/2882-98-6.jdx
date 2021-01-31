@@ -1,0 +1,49 @@
+##TITLE=Library Entry 35219
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Cyclopentane, nonyl-
+##MOLFORM=C14H28
+##CAS REGISTRY NO=2882-98-6
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1451
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        880
+    42        180
+    43        540
+    44         40
+    53         70
+    54        120
+    55        760
+    56        360
+    57        380
+    67        240
+    68        890
+    69        999
+    70        350
+    71        170
+    82        340
+    83        680
+    84        240
+    85         70
+    96         80
+    97        330
+    98        140
+   111        170
+   112        100
+   125        110
+   126         80
+   139         50
+   140         40
+   153         20
+   154         20
+   168         10
+   169         10
+   196        190
+   197         29
+   198          2

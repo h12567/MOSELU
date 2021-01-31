@@ -1,0 +1,67 @@
+##TITLE=Library Entry 18496
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=6-Hydroxy-3-nitro-2-picoline
+##MOLFORM=C6H6N2O3
+##CAS REGISTRY NO=28489-45-4
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    42        556
+    43         39
+    44         15
+    46         27
+    49          8
+    50         56
+    51        117
+    52        281
+    53        999
+    54        164
+    55         82
+    56          6
+    58         37
+    60          1
+    61         19
+    62         39
+    63         79
+    64         51
+    65         45
+    66         31
+    67         33
+    68         65
+    69         19
+    70          5
+    75          7
+    76          7
+    78         35
+    80        804
+    81        118
+    82        102
+    83         10
+    86          1
+    92         18
+    93         19
+    94         18
+    96        100
+    97          5
+   107         28
+   109        119
+   110         40
+   111          2
+   119          2
+   124         30
+   125         22
+   135          3
+   137        659
+   138         55
+   139          5
+   154        673
+   155        143
+   156         11

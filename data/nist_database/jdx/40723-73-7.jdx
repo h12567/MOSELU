@@ -1,0 +1,46 @@
+##TITLE=Library Entry 18235
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTEDISON S.P.A., RESEARCH CENTRE, MILAN, IT
+ALY
+##NAMES=HP
+##CAS NAME=3-Hexene, 1,1,2,2,5,5,6,6-octafluoro-
+##MOLFORM=C6H4F8
+##CAS REGISTRY NO=40723-73-7
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    31         48
+    38         20
+    39         35
+    51        999
+    52         11
+    57        113
+    65        104
+    69         82
+    75         83
+    77        129
+    82         20
+    88         19
+    89         32
+    95        231
+   101         69
+   107         34
+   108         78
+   113        463
+   114         16
+   126        130
+   127        155
+   139        118
+   157        132
+   158         26
+   169          7
+   177        619
+   178         34
+   189        100
+   209          5
+   228          7

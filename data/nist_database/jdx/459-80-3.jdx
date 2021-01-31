@@ -1,0 +1,35 @@
+##TITLE=Library Entry 34476
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Geranic acid
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=459-80-3
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=1355
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         26
+    39         86
+    41        423
+    42         27
+    53         70
+    55         32
+    67         60
+    68         27
+    69        999
+    70         52
+    81         36
+    82         68
+    85         26
+   100        175
+   111         26
+   122         30
+   123        139
+   124         32
+   125         54
+   168         12

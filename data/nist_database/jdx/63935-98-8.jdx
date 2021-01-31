@@ -1,0 +1,36 @@
+##TITLE=Library Entry 84699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=1H-1,2,4-Triazole, 1-(2-propenyl)-
+##MOLFORM=C5H7N3
+##CAS REGISTRY NO=63935-98-8
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    50         23
+    51         99
+    52        215
+    53        882
+    54        920
+    55        253
+    56        114
+    57         54
+    58          4
+    63          4
+    67         13
+    68        125
+    69        854
+    70        416
+    71         16
+    80        429
+    81        826
+    82        172
+   107         51
+   108        999
+   109        877

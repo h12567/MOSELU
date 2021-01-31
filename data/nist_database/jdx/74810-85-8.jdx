@@ -1,0 +1,73 @@
+##TITLE=Library Entry 42378
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. D. HENION, CORNELL UNIVERSITY, ITHACA, NY, USA
+##NAMES=HP
+##CAS NAME=Mephenesin, 2TMS derivative
+##MOLFORM=C16H30O3Si2
+##CAS REGISTRY NO=74810-85-8
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    39         42
+    41         75
+    43         33
+    44         41
+    45        204
+    46         13
+    47         39
+    51         18
+    52         12
+    58         30
+    59        135
+    60         17
+    61         25
+    63         11
+    65         60
+    66         10
+    73        999
+    74         83
+    75        136
+    76         16
+    77         66
+    78         21
+    79         23
+    89         41
+    91        126
+    92         14
+   101        100
+   103        333
+   105         86
+   107         26
+   108         18
+   115         28
+   117        176
+   118         23
+   119         65
+   121         19
+   129        147
+   131        135
+   133        393
+   134         50
+   135         19
+   147        377
+   148         50
+   149         25
+   163         12
+   165         32
+   175         12
+   177         13
+   180        164
+   181         32
+   195         14
+   205         66
+   206         10
+   218         21
+   219         39
+   220         11
+   221         17
+   326         32

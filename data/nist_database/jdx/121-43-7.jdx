@@ -1,0 +1,38 @@
+##TITLE=Library Entry 40501
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.W. KISER KANSAS STATE UNIV., MANHATTAN, KANSAS, USA
+##NAMES=HP
+##CAS NAME=Boric acid, trimethyl ester
+##MOLFORM=C3H9BO3
+##CAS REGISTRY NO=121-43-7
+##MP= -300
+##BP= -300
+##MW= 104
+##$RETENTION INDEX=593
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    10          1
+    11          4
+    15        475
+    29        257
+    30         26
+    31        109
+    41         19
+    42         84
+    43        251
+    45         31
+    56         24
+    57         98
+    58         36
+    59        114
+    71         44
+    72        432
+    73        999
+    88         13
+    89         53
+   102          8
+   103        121
+   104        360
+   105         12

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 17193
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Butane, 1-methoxy-3-methyl-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=626-91-5
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=689
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         15
+    26          5
+    27         61
+    28         21
+    29         93
+    30          4
+    31         28
+    33         28
+    37          2
+    38          6
+    39         88
+    40         13
+    41        171
+    42        144
+    43        107
+    45        999
+    46         23
+    47         12
+    50          5
+    51          7
+    52          2
+    53         17
+    54          8
+    55        244
+    56         61
+    57         47
+    58         10
+    59         41
+    60         10
+    61          1
+    63          1
+    65          1
+    67          2
+    68          1
+    69         18
+    70        419
+    71         36
+    72          1
+    73          1
+    74          2
+    85          4
+    87          2
+   101          3
+   102          1

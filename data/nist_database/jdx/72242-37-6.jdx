@@ -1,0 +1,52 @@
+##TITLE=Library Entry 64068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. KECK, INST. ANORG. CHEM., UNIV. DUSSELDORF, WEST GER
+M
+##NAMES=HP
+##CAS NAME=1,2-Dimethyl-1,2-dibenzyldiphosphane disulfide
+##MOLFORM=C16H20P2S2
+##CAS REGISTRY NO=72242-37-6
+##MP= -300
+##BP= -300
+##MW= 338
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    51         50
+    63         67
+    65        387
+    77         56
+    78         36
+    79         24
+    89         61
+    90         30
+    91        999
+    92        282
+   109        177
+   121         40
+   135         32
+   137        302
+   138         28
+   152         40
+   153        119
+   168         65
+   169        625
+   170         78
+   171         30
+   215         53
+   216         24
+   245         40
+   247        948
+   248        244
+   249        204
+   250         30
+   305         16
+   323         20
+   336         40
+   337         12
+   338        625
+   339        129
+   340         67
+   341         20

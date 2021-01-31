@@ -1,0 +1,46 @@
+##TITLE=Library Entry 17365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-2,3,5-tri-O-methyl-4-thio.alpha.d-arabinofuranoside
+##MOLFORM=C9H18O4S
+##CAS REGISTRY NO=51306-30-0
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    45        999
+    47         68
+    55         43
+    58         46
+    59         96
+    61         39
+    69         30
+    71        116
+    73        147
+    75        364
+    85         48
+    88        453
+    89         72
+   101        429
+   102         66
+   114         11
+   115         42
+   117         11
+   119         11
+   127         12
+   131          8
+   133          6
+   134          8
+   145         12
+   157         23
+   159         67
+   160          7
+   177          3
+   190         64
+   191          8
+   222          1

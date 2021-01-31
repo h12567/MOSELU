@@ -1,0 +1,45 @@
+##TITLE=Library Entry 48875
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=1,4-Cyclohexadiene
+##MOLFORM=C6H8
+##CAS REGISTRY NO=628-41-1
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=694
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15         16
+    25          4
+    26         54
+    27        145
+    28         11
+    37         39
+    38         72
+    39        241
+    40         42
+    41         31
+    49         30
+    50        204
+    51        232
+    52        157
+    53         70
+    54         28
+    61          9
+    62         14
+    63         45
+    64          9
+    65         72
+    73         16
+    74         42
+    75         15
+    76          9
+    77        732
+    78        210
+    79        999
+    80        736
+    81         40

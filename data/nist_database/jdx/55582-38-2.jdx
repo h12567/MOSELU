@@ -1,0 +1,35 @@
+##TITLE=Library Entry 49233
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methanesulfonyl-dichloromethanesulfonyl chloride
+##MOLFORM=C2H3Cl3O4S2
+##CAS REGISTRY NO=55582-38-2
+##MP= -300
+##BP= -300
+##MW= 260
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    43        430
+    51        397
+    53        111
+    59         59
+    62         39
+    63        321
+    78         70
+    79        999
+    81         49
+    93        130
+    98        650
+   100        401
+   102         69
+   117        851
+   119        797
+   121        251
+   123         19
+   146         20
+   148          9
+   150          9

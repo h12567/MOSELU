@@ -1,0 +1,64 @@
+##TITLE=Library Entry 58407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. TAKAGI, DEP. APPL. CHEM., NAGOYA UNIV., NAGOYA, JAPA
+N
+##NAMES=HP
+##CAS NAME=1-Bromo-2,3-dichlorobutane
+##MOLFORM=C4H7BrCl2
+##CAS REGISTRY NO=38585-79-4
+##MP= -300
+##BP= -300
+##MW= 204
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    53         80
+    54         10
+    55         10
+    62         90
+    63        330
+    64          3
+    65         90
+    66          3
+    88          5
+    89        999
+    90         30
+    91        330
+    92          8
+   105          1
+   106         50
+   107          8
+   108         50
+   109          8
+   124         10
+   125        290
+   126         19
+   127        180
+   128          8
+   129         30
+   133         16
+   134          0
+   135         16
+   141          8
+   142          3
+   143         10
+   144          3
+   145          3
+   168          0
+   169         16
+   170          3
+   171         20
+   172          0
+   173         10
+   174          0
+   202          7
+   203          0
+   204         13
+   205          0
+   206          6
+   207          0
+   208          3
+   209          0
+   210          0

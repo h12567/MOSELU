@@ -1,0 +1,66 @@
+##TITLE=Library Entry 86014
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=2,4-Bis(hydroxylamino)pyrimidine
+##MOLFORM=C4H6N4O2
+##CAS REGISTRY NO=154845-38-2
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    65         19
+    66        165
+    67        442
+    68        352
+    69        243
+    70         53
+    71         54
+    73         29
+    75          9
+    77         28
+    78         19
+    79         33
+    80         16
+    81         90
+    82         64
+    83        283
+    84         45
+    85         53
+    86         28
+    87          6
+    91         26
+    92         10
+    93         49
+    94        582
+    95        290
+    96        169
+    97         47
+    98         42
+    99         15
+   101          8
+   104         23
+   105         19
+   106         15
+   107         36
+   108         32
+   109        999
+   110        243
+   111        120
+   112         13
+   121         15
+   122          5
+   123         13
+   124         23
+   125        350
+   126         33
+   129         14
+   139         13
+   141          5
+   142        378
+   143         26
+   146          5

@@ -1,0 +1,70 @@
+##TITLE=Library Entry 42464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORVAL A. MAMER, ROYAL VICTORIA HOSPITAL, MONTREAL, CANA
+DA
+##NAMES=HP
+##CAS NAME=2-Hydroxy-2-methylbutyric acid, 2TMS derivative
+##MOLFORM=C11H26O3Si2
+##CAS REGISTRY NO=55557-18-1
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=1170
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    15         11
+    27         14
+    28         27
+    29         24
+    31          6
+    39          8
+    41         29
+    43         91
+    44         35
+    45        161
+    46         11
+    47         34
+    52          7
+    55         28
+    57         23
+    58         16
+    59         45
+    60          7
+    61         27
+    66         32
+    69         11
+    71          5
+    72         23
+    73        999
+    74         88
+    75        165
+    76         11
+    77          9
+    81         10
+    83          6
+    88          7
+   102         16
+   103          8
+   115         10
+   116          7
+   117         13
+   129         15
+   131         22
+   133         44
+   134          6
+   143          6
+   145        897
+   146        117
+   147        481
+   148         74
+   149         44
+   157         13
+   163          8
+   219        103
+   220         21
+   221          9
+   233         25
+   247         39
+   248          9

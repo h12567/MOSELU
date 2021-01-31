@@ -1,0 +1,63 @@
+##TITLE=Library Entry 2445
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=T. CLERC
+##NAMES=HP
+##CAS NAME=8a(2H)-Phenanthrenol, 7-ethenyldodecahydro-1,1,4a,7-tetramethyl-,
+ acetate, [4as-(4a.alpha.,4b.beta.,7.beta.,8a.alpha.,10a.beta.)]-
+##MOLFORM=C22H36O2
+##CAS REGISTRY NO=41756-14-3
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    39        120
+    41        999
+    42        100
+    43        999
+    53        200
+    55        799
+    56        160
+    57        160
+    61         60
+    65         60
+    67        499
+    68        160
+    69        599
+    77        180
+    79        400
+    80        100
+    81        579
+    82        100
+    83        100
+    91        340
+    92        100
+    93        300
+    94        100
+    95        340
+   105        320
+   106        120
+   107        240
+   109        300
+   117         60
+   119        200
+   120        100
+   121        120
+   123        120
+   124         80
+   131         60
+   133        140
+   135        160
+   136        100
+   137        160
+   148        160
+   161         60
+   175         40
+   187         60
+   203         40
+   257        200
+   272        260
+   332         20

@@ -1,0 +1,64 @@
+##TITLE=Library Entry 7849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Undecane, 4,7-dimethyl-
+##MOLFORM=C13H28
+##CAS REGISTRY NO=17301-32-5
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=1207
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    21          0
+    24          0
+    26          8
+    27         92
+    29        183
+    30          3
+    33          0
+    35          0
+    37          0
+    39         37
+    40          6
+    41        231
+    42         78
+    43        999
+    45          1
+    51          0
+    53         10
+    54          9
+    55        101
+    56        109
+    57        772
+    58         28
+    59          1
+    63          0
+    67          1
+    68          2
+    69         44
+    70        123
+    71        499
+    72         25
+    74          3
+    82          1
+    83          9
+    84         96
+    85        328
+    86         14
+    98         22
+    99         30
+   112         11
+   113         15
+   126         12
+   127         37
+   128          0
+   140          2
+   141         25
+   142          0
+   155          0
+   184          0

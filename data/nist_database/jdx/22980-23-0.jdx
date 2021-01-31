@@ -1,0 +1,66 @@
+##TITLE=Library Entry 1751
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Oxabicyclo[2.2.0]hex-5-en-3-one
+##MOLFORM=C5H4O2
+##CAS REGISTRY NO=22980-23-0
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    25         91
+    26        405
+    27         60
+    28         67
+    29        210
+    30          2
+    31          6
+    33          6
+    34          3
+    36         32
+    37        166
+    38        238
+    39        999
+    40        347
+    41         45
+    42        248
+    43         15
+    44         47
+    45          9
+    48         20
+    49         98
+    50        290
+    51        259
+    52        889
+    53         45
+    54          8
+    55          4
+    56          3
+    57          3
+    62          2
+    63          1
+    64          1
+    65          2
+    66          3
+    67         14
+    68        290
+    69         99
+    70         62
+    71         22
+    72          6
+    73          2
+    77          1
+    78          1
+    80          3
+    81          3
+    83          1
+    84          2
+    93          1
+    95        124
+    96         47
+    97          5

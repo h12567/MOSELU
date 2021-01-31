@@ -1,0 +1,86 @@
+##TITLE=Library Entry 38271
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.V. BURGER, DEP. CHEM., UNIV. STELLENBOSCH, SOUTH AFRI
+C
+##NAMES=HP
+##CAS NAME=2-Hydroxyhexadecyl butanoate
+##MOLFORM=C20H40O3
+##CAS REGISTRY NO=77899-01-5
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    41        454
+    42        123
+    43        975
+    45        183
+    53         30
+    54         83
+    55        428
+    56        165
+    57        361
+    58        183
+    59        102
+    60         37
+    61         18
+    66         20
+    67        177
+    68        141
+    69        330
+    70        124
+    71        999
+    72         61
+    73         93
+    74         75
+    75         39
+    79         34
+    80         27
+    81        177
+    82        214
+    83        216
+    84         48
+    85         93
+    86         11
+    87        187
+    88         92
+    89        107
+    93         26
+    94         27
+    95        137
+    96        140
+    97        173
+    98         39
+    99         20
+   101         20
+   102        378
+   103         74
+   107         14
+   108         14
+   109         72
+   110         46
+   111         82
+   112         20
+   113         14
+   117         12
+   121         18
+   123         37
+   124         32
+   125         29
+   126         16
+   129         13
+   131         56
+   135         12
+   137         21
+   138         13
+   139         14
+   149         10
+   180         13
+   222         11
+   227         37
+   267          7
+   310          8
+   328          1

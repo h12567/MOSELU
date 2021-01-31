@@ -1,0 +1,51 @@
+##TITLE=Library Entry 89262
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=SAU
+##MOLFORM=C4H5N3O4S
+##CAS REGISTRY NO=17017-91-3
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        277
+    42        527
+    43         93
+    44         62
+    45          5
+    48        265
+    50         24
+    51          6
+    52         15
+    53         26
+    54          9
+    55          9
+    56         18
+    64        188
+    65         18
+    66          3
+    67         20
+    68        163
+    69        516
+    70         47
+    71          1
+    80        427
+    81         14
+    82         30
+    84         10
+    96          7
+    97          2
+    98          8
+   105          8
+   112        999
+   113         82
+   114          6
+   175          3
+   191          9
+   192          1

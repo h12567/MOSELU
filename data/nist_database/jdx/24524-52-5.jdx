@@ -1,0 +1,71 @@
+##TITLE=Library Entry 32486
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=THE OHIO STATE UNIVERSITY, DEPT OF CHEM., COLUMBUS, OHI
+O, USA
+##NAMES=HP
+##CAS NAME=Cyclopropane, 1-methyl-2-(1-methylethyl)-3-(1-methylethylidene)-,
+ cis-
+##MOLFORM=C10H18
+##CAS REGISTRY NO=24524-52-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    15         16
+    26         13
+    27        194
+    28         55
+    29        138
+    38         16
+    39        277
+    40         27
+    41        472
+    42         55
+    43        166
+    50         19
+    51         83
+    52         25
+    53        166
+    54        111
+    55        305
+    56         41
+    57         33
+    63         22
+    65         55
+    66         27
+    67        999
+    68        111
+    69         83
+    70        138
+    71          8
+    72         13
+    77         83
+    78         19
+    79        111
+    80         25
+    81        361
+    82        472
+    83         83
+    84         16
+    91         55
+    92         11
+    93         52
+    94         25
+    95        222
+    96         52
+    97          8
+   105         13
+   107         30
+   108         16
+   109        166
+   110         22
+   121          8
+   122          8
+   123        333
+   124         33
+   138        111
+   139         11

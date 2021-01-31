@@ -1,0 +1,55 @@
+##TITLE=Library Entry 30508
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P. VENTURA, CAMILLO CORVI, STRADONE FARNESE, PIACENZA,
+ ITALY
+##NAMES=HP
+##CAS NAME=5-Hydroxy-5-(1-hydroxy-1-isopropyl)-2-methyl-2-cyclohexen-1-one
+##MOLFORM=C10H16O3
+##CAS REGISTRY NO=97762-08-8
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    51         50
+    52         40
+    53        150
+    54        160
+    55        150
+    56         20
+    57         30
+    58         50
+    59        999
+    60         30
+    65         20
+    67         50
+    69        100
+    70         20
+    71         20
+    77         90
+    79        190
+    80        150
+    81        100
+    82        170
+    83        170
+    84         50
+    93         30
+    95         30
+    97        170
+    98         50
+   107         50
+   108        120
+   109        210
+   110         30
+   111        320
+   123         20
+   124         20
+   125        160
+   126        350
+   127         10
+   148          2
+   151         10
+   166          2

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 39627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1998.
+##NAMES=HP
+##CAS NAME=Cimaterol
+##MOLFORM=C12H17N3O
+##CAS REGISTRY NO=54239-37-1
+##MP= -300
+##BP= -300
+##MW= 219
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    18         34
+    27         34
+    30        330
+    39         32
+    41         82
+    42         33
+    43        154
+    44         28
+    51         33
+    56         28
+    63         21
+    65         38
+    70         41
+    72        999
+    73         27
+    76         14
+    77         45
+    78         12
+    90         28
+    92         28
+   104         32
+   105         39
+   116         16
+   118         22
+   119         15
+   131        303
+   132         46
+   144         55
+   145         82
+   147         26
+   157         21
+   158         86
+   186          9
+   200         22
+   201         38

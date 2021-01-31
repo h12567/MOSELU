@@ -1,0 +1,51 @@
+##TITLE=Library Entry 50502
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=3-Heptene, 7-ethoxy-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=55320-24-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41        330
+    42         60
+    43        190
+    44        120
+    45         50
+    53         60
+    54        320
+    55        270
+    56         40
+    57        180
+    58         80
+    59        170
+    65         10
+    66         10
+    67        300
+    68        240
+    69         80
+    70         20
+    71         10
+    72        120
+    77         20
+    79         40
+    81        999
+    82         50
+    85        190
+    86         10
+    95         30
+    96        450
+    97         30
+    99         40
+   113         10
+   127         10
+   141         10
+   142         40
+   143         10

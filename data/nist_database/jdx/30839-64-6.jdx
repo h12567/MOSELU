@@ -1,0 +1,43 @@
+##TITLE=Library Entry 77112
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Azetidine, 1-chloro-2-phenyl-
+##MOLFORM=C9H10ClN
+##CAS REGISTRY NO=30839-64-6
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         18
+    28        150
+    29          7
+    36         27
+    39         15
+    51         75
+    52          5
+    65         15
+    76         15
+    77        207
+    78        105
+    79         15
+    91        117
+    92         21
+   103        210
+   104        999
+   105        180
+   106         66
+   107          5
+   117         21
+   118         15
+   130         36
+   131         30
+   132         66
+   167         81
+   168          5
+   169         30
+   170          2

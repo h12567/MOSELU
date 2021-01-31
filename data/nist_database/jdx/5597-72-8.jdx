@@ -1,0 +1,36 @@
+##TITLE=Library Entry 32565
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.Herzschuh ET AL. J.Prakt.Chem.,322,450(1980)
+##NAMES=HP
+##CAS NAME=Bicyclo[3.2.0]heptane, trans
+##MOLFORM=C7H12
+##CAS REGISTRY NO=5597-72-8
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        582
+    40        120
+    41        342
+    42         70
+    51         38
+    52         19
+    53        253
+    54        965
+    55        582
+    56         25
+    65         44
+    66         63
+    67        999
+    68        620
+    69         38
+    77         25
+    78         70
+    81        373
+    82         38
+    95         44
+    96         22

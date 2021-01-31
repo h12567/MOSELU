@@ -1,0 +1,57 @@
+##TITLE=Library Entry 19372
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=cis,cis-5,9-Tetradecadiene
+##MOLFORM=C14H26
+##CAS REGISTRY NO=51255-62-0
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        146
+    28         60
+    29        106
+    32          8
+    39        145
+    41        375
+    42         26
+    43        118
+    51         14
+    52         10
+    53         69
+    54        226
+    55        999
+    56         58
+    57         13
+    65         28
+    66         24
+    67        210
+    68         49
+    69         91
+    70          8
+    77         30
+    78          9
+    79         45
+    80         26
+    81        259
+    82         96
+    83         17
+    91         13
+    93          7
+    95         81
+    96        105
+    97         73
+    98          7
+   109         19
+   110         13
+   123         56
+   124         62
+   125          7
+   137         36
+   138         21
+   194         10

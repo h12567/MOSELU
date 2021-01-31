@@ -1,0 +1,63 @@
+##TITLE=Library Entry 3828
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Formamide, N-(1-cyanoethenyl)
+##MOLFORM=C4H4N2O
+##CAS REGISTRY NO=303124-14-3
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25         12
+    26         32
+    27         40
+    28        135
+    29        189
+    30          3
+    31          0
+    36          2
+    37          7
+    38         45
+    39         50
+    40        159
+    41        999
+    42        145
+    43         18
+    44         16
+    45          4
+    50         13
+    51         63
+    52         95
+    53         83
+    54          4
+    55          2
+    56          1
+    57          3
+    60          1
+    64          2
+    65          3
+    66         12
+    67        109
+    68        213
+    69         10
+    70          1
+    71          1
+    75          0
+    76          1
+    77          1
+    78          0
+    81          0
+    82          0
+    83          1
+    84          0
+    85          1
+    91          1
+    95          6
+    96        323
+    97         18
+    98          1

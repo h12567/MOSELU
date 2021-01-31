@@ -1,0 +1,62 @@
+##TITLE=Library Entry 29371
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Chloropromazine sulfoxide
+##MOLFORM=C17H19ClN2OS
+##CAS REGISTRY NO=969-99-3
+##MP= -300
+##BP= -300
+##MW= 334
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    58        999
+    59        109
+    70        133
+    72         86
+    74        176
+    84        247
+    85        135
+    86        255
+    99         50
+   102         38
+   112         46
+   117         42
+   139         26
+   140         23
+   152         43
+   153         37
+   154         25
+   164         34
+   166         29
+   188         25
+   196         56
+   197         57
+   198         79
+   211         41
+   214        141
+   216         45
+   223         41
+   232        128
+   233        186
+   234         71
+   235         68
+   246        489
+   247         84
+   248        179
+   258         33
+   259         57
+   260         23
+   272         80
+   273         26
+   274         33
+   289         31
+   291         11
+   317         33
+   318         74
+   320         28
+   334         23
+   336          8

@@ -1,0 +1,47 @@
+##TITLE=Library Entry 27528
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. BREUNIG,FAC. BIOL./CHEM.,ANORG. CHEM.,BREMEN UNIV.,W
+. GER.
+##NAMES=HP
+##CAS NAME=tert-Butylstibinous acid thioanhydride
+##MOLFORM=C16H36SSb2
+##CAS REGISTRY NO=80536-71-6
+##MP= -300
+##BP= -300
+##MW= 502
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    57        999
+    90         50
+   153         50
+   155         37
+   178         30
+   180         22
+   210         50
+   212         37
+   234         50
+   268         60
+   270         45
+   291        232
+   293         86
+   299         20
+   300        100
+   301         29
+   302        145
+   303         10
+   304         54
+   333         50
+   335         72
+   337         27
+   389        160
+   391        230
+   393         85
+   445         70
+   447        101
+   449         37
+   502         10
+   504         14
+   506          5

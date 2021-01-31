@@ -1,0 +1,74 @@
+##TITLE=Library Entry 48002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Methanone, diphenyl-, (2,4-dinitrophenyl)hydrazone
+##MOLFORM=C19H14N4O4
+##CAS REGISTRY NO=1733-62-6
+##MP= -300
+##BP= -300
+##MW= 362
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    51        300
+    52         50
+    53         20
+    62         30
+    63         80
+    64         50
+    65         20
+    74         30
+    75         90
+    76         80
+    77        999
+    78        120
+    79         50
+    80         10
+   102         20
+   103         20
+   104         70
+   105        270
+   106         30
+   115         30
+   122         20
+   139         70
+   140         30
+   141         20
+   151         20
+   152         60
+   153         30
+   154         20
+   163         30
+   164         30
+   165        300
+   166        150
+   167         30
+   179         20
+   180        350
+   181         80
+   182         80
+   183         80
+   184         20
+   239        100
+   240         50
+   241        100
+   242         30
+   267         50
+   268        100
+   269         80
+   270         30
+   281         80
+   282         20
+   314         30
+   315         70
+   316         20
+   327        130
+   328         80
+   329         20
+   361        140
+   362        560
+   363        180
+   364         30

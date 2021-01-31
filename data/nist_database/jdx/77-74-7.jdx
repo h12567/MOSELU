@@ -1,0 +1,63 @@
+##TITLE=Library Entry 40919
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Pentanol, 3-methyl-
+##MOLFORM=C6H14O
+##CAS REGISTRY NO=77-74-7
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=749
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          8
+    19          2
+    26         10
+    27         78
+    28         14
+    29         85
+    30          3
+    31         40
+    37          1
+    38          4
+    39         52
+    40          6
+    41         87
+    42         21
+    43        263
+    44         17
+    45        254
+    46          6
+    47          1
+    49          1
+    50          7
+    51         10
+    52          4
+    53         30
+    55        551
+    56         38
+    57         73
+    58         11
+    59          9
+    62          1
+    63          2
+    65          3
+    66          1
+    67          5
+    69         82
+    70          5
+    71         12
+    73        999
+    74         61
+    75          4
+    77          1
+    83          1
+    84          8
+    85         42
+    87        175
+    88         10
+    89          1

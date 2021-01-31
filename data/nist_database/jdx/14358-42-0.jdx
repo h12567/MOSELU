@@ -1,0 +1,38 @@
+##TITLE=Library Entry 89299
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Glyoxal-bis(guanylhydrazone)
+##MOLFORM=C4H10N8
+##CAS REGISTRY NO=14358-42-0
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        154
+    42        204
+    43        937
+    44        452
+    45         96
+    55         70
+    58        246
+    59        148
+    60        584
+    70        198
+    71         29
+    74         33
+    84        120
+    85        422
+    86        139
+    96         29
+    98        729
+    99         57
+   112        999
+   113        323
+   170        604
+   171         62

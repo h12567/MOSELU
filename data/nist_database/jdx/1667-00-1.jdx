@@ -1,0 +1,79 @@
+##TITLE=Library Entry 60816
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Cyclopropylphenylmethane
+##MOLFORM=C10H12
+##CAS REGISTRY NO=1667-00-1
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1058
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          9
+    15         28
+    16          1
+    26         34
+    27        137
+    28         28
+    29         14
+    37         16
+    38         52
+    39        264
+    40         21
+    41         51
+    42          2
+    50        106
+    51        193
+    52         49
+    53         31
+    54          9
+    55          6
+    56          1
+    57         11
+    60          1
+    61         11
+    62         36
+    63         94
+    64         40
+    65        213
+    66         12
+    74         28
+    75         23
+    76         30
+    77        119
+    78        163
+    79         18
+    80          1
+    85          2
+    86          6
+    87          8
+    89         47
+    91        999
+    92         75
+    93          2
+    98          3
+    99          1
+   100          1
+   102         35
+   103        131
+   104        510
+   105         50
+   106          2
+   113          1
+   115         99
+   116         34
+   117         90
+   118          9
+   126          2
+   127          9
+   128         19
+   129         14
+   132        148
+   133         15
+   134          1

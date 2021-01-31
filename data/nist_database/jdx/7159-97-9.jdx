@@ -1,0 +1,51 @@
+##TITLE=Library Entry 40374
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,1-Dimethyl-3-(4-nitrophenyl)urea
+##MOLFORM=C9H11N3O3
+##CAS REGISTRY NO=7159-97-9
+##MP= -300
+##BP= -300
+##MW= 209
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    30         40
+    38          4
+    39          9
+    41          2
+    42         49
+    43         19
+    44         86
+    45          7
+    50          9
+    51          3
+    52          5
+    53          3
+    56         21
+    57          1
+    63         15
+    64         20
+    65          7
+    71          2
+    72        999
+    73         42
+    74          3
+    75          9
+    76         10
+    78          3
+    90         12
+    91          8
+    92          4
+    97          0
+   119          2
+   133          2
+   147          2
+   162          1
+   193          1
+   209        146
+   210         16
+   211          2

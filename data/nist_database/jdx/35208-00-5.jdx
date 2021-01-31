@@ -1,0 +1,66 @@
+##TITLE=Library Entry 47182
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTEDISON SPA, CENTRAL RESEARCH, MILAN, ITAL
+Y
+##NAMES=HP
+##CAS NAME=Cyclobutane, 3-(3,4-dibromo-1,1,2,2-tetrafluorobutyl)-1,1,2,2-tet
+rafluoro-
+##MOLFORM=C8H6Br2F8
+##CAS REGISTRY NO=35208-00-5
+##MP= -300
+##BP= -300
+##MW= 412
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27        131
+    31         50
+    51        290
+    57         90
+    64        642
+    65         14
+    69        131
+    75         90
+    77        999
+    78         33
+    79         51
+    93         72
+    95        111
+   100         85
+   105         50
+   107         50
+   113        982
+   114         33
+   121         20
+   127         40
+   137         60
+   139         60
+   145         40
+   155         50
+   157         70
+   177         80
+   187         60
+   189         60
+   227         50
+   233         30
+   249         25
+   251         25
+   253         20
+   269         30
+   271         30
+   287         30
+   289         30
+   313         10
+   315         10
+   333        340
+   334         30
+   335        350
+   336         31
+   348         10
+   350         20
+   352         10
+   412          3
+   414          6
+   416          3

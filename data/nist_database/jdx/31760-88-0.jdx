@@ -1,0 +1,32 @@
+##TITLE=Library Entry 85471
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R B. KING
+##NAMES=HP
+##CAS NAME=Manganese, dicarbonyl[(4a,4b,8a,9,9a-.eta.)-9H-fluoren-9-yl](trip
+henylphosphine)-
+##MOLFORM=C33H24MnO2P
+##CAS REGISTRY NO=31760-88-0
+##MP= -300
+##BP= -300
+##MW= 538
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55        110
+    82         94
+    83        118
+   107        110
+   108        999
+   139         55
+   165        692
+   166        566
+   183        606
+   219         15
+   220         15
+   240         39
+   262        944
+   317         70
+   482        795
+   538          4

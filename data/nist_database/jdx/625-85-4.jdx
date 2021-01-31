@@ -1,0 +1,51 @@
+##TITLE=Library Entry 17937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Thiazole, 2,4-dihydroxy-
+##MOLFORM=C3H3NO2S
+##CAS REGISTRY NO=625-85-4
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    33         15
+    34          9
+    36          1
+    38         10
+    39         10
+    40         37
+    41         31
+    42        138
+    43        147
+    44         74
+    45        296
+    46        999
+    47         43
+    48         46
+    49          1
+    50          4
+    54          3
+    57          6
+    58          6
+    59          9
+    60         28
+    61          6
+    69          1
+    70         27
+    71          3
+    72          7
+    74        307
+    76         17
+    77          1
+    84          1
+    89         24
+    90          1
+    91          1
+   117        615
+   119         56
+   120          2

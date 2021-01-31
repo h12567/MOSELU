@@ -1,0 +1,55 @@
+##TITLE=Library Entry 79909
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.GOLDBERG CHEM. PATH., NAT. HOSP., QUEEN SQ., LONDON,
+ UK
+##NAMES=HP
+##CAS NAME=Benzoic acid, 2-[benzoyl(2,4-dichlorophenyl)amino]-
+##MOLFORM=C20H13Cl2NO3
+##CAS REGISTRY NO=77495-81-9
+##MP= -300
+##BP= -300
+##MW= 385
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    50         40
+    51        100
+    57         20
+    63         40
+    65         20
+    74         20
+    75         20
+    76         20
+    77        500
+    78         40
+    92         20
+   105        999
+   106         80
+   109         20
+   122         80
+   139         20
+   147         40
+   149         40
+   164         60
+   165         20
+   166         40
+   200         60
+   201         40
+   202         20
+   228        120
+   229         40
+   230         60
+   263        340
+   264         80
+   265        200
+   266         40
+   267         60
+   281         20
+   306         40
+   340         40
+   341         40
+   342         20
+   343         20
+   385         10

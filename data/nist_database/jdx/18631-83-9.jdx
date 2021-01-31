@@ -1,0 +1,52 @@
+##TITLE=Library Entry 32337
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Cyclopropane, ethylidene-
+##MOLFORM=C5H8
+##CAS REGISTRY NO=18631-83-9
+##MP= -300
+##BP= -300
+##MW= 68
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         55
+    27        293
+    28         10
+    29         28
+    30          0
+    33          2
+    35          0
+    36          6
+    37         58
+    38        114
+    39        748
+    40        451
+    41        372
+    42        147
+    43          4
+    44          0
+    45          0
+    48          3
+    49         23
+    50        100
+    51        116
+    52         50
+    53        600
+    54         24
+    55          0
+    60          7
+    61         28
+    62         39
+    63         46
+    64          7
+    65        142
+    66         77
+    67        999
+    68        646
+    69         31
+    70          0

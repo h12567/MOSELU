@@ -1,0 +1,46 @@
+##TITLE=Library Entry 45668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=4-Methylcyclohexanol, TMS derivative
+##MOLFORM=C10H22OSi
+##CAS REGISTRY NO=29800-81-5
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         90
+    42         10
+    43         40
+    44         20
+    45        140
+    47         60
+    54         10
+    55         70
+    57         80
+    58         30
+    59         40
+    61         50
+    68         10
+    70         10
+    73        470
+    74         30
+    75        999
+    76         50
+    77         20
+    81         30
+    95         60
+    96         70
+   101         20
+   129        660
+   130         70
+   131         10
+   147         70
+   171        320
+   172         30
+   186         90

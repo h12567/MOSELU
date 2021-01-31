@@ -1,0 +1,57 @@
+##TITLE=Library Entry 55670
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R RYHAGE MS-LAB KAROLINSKA INSTITUTET STOCKHOLM SWEDEN
+##NAMES=HP
+##CAS NAME=dl-Leucine, ethyl ester
+##MOLFORM=C8H17NO2
+##CAS REGISTRY NO=2899-43-6
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    15         40
+    17         10
+    18         47
+    26         20
+    27        160
+    29        171
+    30        345
+    31         16
+    39         69
+    40         13
+    41        153
+    42        103
+    43        215
+    44        344
+    45         31
+    46         27
+    53         17
+    54         35
+    55         47
+    56        116
+    57         35
+    67         13
+    68         18
+    69         42
+    70         85
+    71         13
+    73         14
+    74         96
+    81         10
+    83         16
+    84         12
+    86        999
+    87         68
+   100         11
+   101         10
+   102        101
+   103         10
+   112        129
+   113         14
+   114         10
+   129         13
+   149         10

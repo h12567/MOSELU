@@ -1,0 +1,83 @@
+##TITLE=Library Entry 31266
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Cysteine, S-methyl-
+##MOLFORM=C4H9NO2S
+##CAS REGISTRY NO=7728-98-5
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    41        602
+    43        612
+    44        238
+    45        398
+    46        303
+    47        181
+    48         56
+    49         16
+    50          4
+    51          2
+    52          0
+    53          7
+    54          1
+    55         30
+    56         22
+    57         32
+    58         30
+    59         27
+    61        999
+    62        693
+    63         71
+    64         66
+    65          6
+    66          2
+    67          0
+    68          5
+    69          3
+    70         20
+    71          8
+    72          2
+    73          5
+    74        718
+    75        107
+    76         10
+    77          6
+    79         10
+    80         13
+    81          9
+    82          2
+    83          1
+    85          7
+    87        113
+    88         12
+    90        308
+    91          6
+    92         24
+    94         22
+    95          1
+    96          2
+    98          7
+   100          7
+   101          3
+   102          0
+   103         11
+   104          1
+   105          4
+   107          1
+   110          0
+   114          1
+   116          4
+   118         35
+   119         57
+   120          4
+   134          1
+   135        129
+   136          7
+   137          2

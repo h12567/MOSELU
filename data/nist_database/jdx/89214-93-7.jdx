@@ -1,0 +1,37 @@
+##TITLE=Library Entry 89502
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=U. ZAHORSZKY,INST. ORG. CHEM.,UNIV. KARLSRUHE,KARLSRUHE
+,W.GER.
+##NAMES=HP
+##CAS NAME=2,2-Dimethyl-N-ethylpyrrolidine
+##MOLFORM=C8H17N
+##CAS REGISTRY NO=89214-93-7
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27         30
+    28         50
+    29         45
+    30         45
+    39         30
+    41         85
+    42        160
+    44         35
+    55        110
+    56         70
+    58         30
+    67         20
+    70         70
+    71         40
+    82         40
+    83         45
+    84        200
+   110         30
+   112        999
+   113         80
+   127         80

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 48342
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 2-[(p-bromophenyl)azo]-
+##MOLFORM=C11H8BrN3
+##CAS REGISTRY NO=25117-50-4
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    50        639
+    51        679
+    52        270
+    55         90
+    62         70
+    63        200
+    64        120
+    74        200
+    75        639
+    76        679
+    77         90
+    78        999
+    83         90
+    90         90
+    98         50
+   127        160
+   128         50
+   153         50
+   154        270
+   155        879
+   156         70
+   157        879
+   158         70
+   183        120
+   185        120
+   233        749
+   234         80
+   235        749
+   236         80

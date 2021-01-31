@@ -1,0 +1,53 @@
+##TITLE=Library Entry 20416
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Isopropyl acrylate
+##MOLFORM=C6H10O2
+##CAS REGISTRY NO=689-12-3
+##MP= -300
+##BP= -300
+##MW= 114
+##$RETENTION INDEX=726
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15         42
+    25          6
+    26         67
+    27        279
+    28         27
+    29         32
+    31         15
+    32          1
+    37          5
+    38         14
+    39         85
+    40         19
+    41        168
+    42         84
+    43        293
+    44         15
+    45         22
+    53         11
+    55        999
+    56         87
+    57          3
+    58          3
+    59        155
+    60          6
+    68         10
+    69         24
+    70          4
+    71          5
+    72          3
+    73        352
+    74         13
+    75          1
+    81          3
+    96          6
+    99        129
+   100          6
+   113          1
+   114          1

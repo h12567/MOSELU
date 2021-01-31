@@ -1,0 +1,33 @@
+##TITLE=Library Entry 62871
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.V. RAMANA, DEP. CHEM., IND. INST. TECH., MADRAS, INDI
+A
+##NAMES=HP
+##CAS NAME=N-Benzylethanethioamide
+##MOLFORM=C9H11NS
+##CAS REGISTRY NO=14309-88-7
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    39         90
+    42        130
+    51         70
+    59        160
+    63         60
+    65        190
+    77         80
+    79         90
+    89         60
+    91        999
+    92        110
+   104         70
+   106        300
+   132        190
+   165        750
+   166         90
+   167         40

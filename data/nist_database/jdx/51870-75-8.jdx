@@ -1,0 +1,44 @@
+##TITLE=Library Entry 33845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.Klyuev, Institute of Ecology & Evolution, RAS, Moscow
+##NAMES=HP
+##CAS NAME=2-Methoxy-6-methyl-4-pyrimidinamine
+##MOLFORM=C6H9N3O
+##CAS REGISTRY NO=51870-75-8
+##MP= -300
+##BP= -300
+##MW= 139
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    26         33
+    27         76
+    29         36
+    30         42
+    38         48
+    39        106
+    40        258
+    41        455
+    42        470
+    43         91
+    52         36
+    53         48
+    54         91
+    55         91
+    56         91
+    58         42
+    66        121
+    67         52
+    68        999
+    69        106
+    70         39
+    82         61
+   103         55
+   109        167
+   110        121
+   116         58
+   138        817
+   139        620
+   140         60

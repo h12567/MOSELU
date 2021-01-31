@@ -1,0 +1,57 @@
+##TITLE=Library Entry 8124
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. Luftmann, Org. Chem. Inst., Westfalisch Wilhelms Uni
+v., Munster, Germany
+##NAMES=HP
+##CAS NAME=4-Pentenoic acid, 2-(2-oxopropyl)-
+##MOLFORM=C8H12O3
+##CAS REGISTRY NO=85877-56-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        550
+    42        340
+    43        999
+    44        320
+    45        310
+    51        110
+    53        310
+    55        440
+    57        210
+    58        690
+    59        130
+    61        120
+    65        150
+    66        120
+    67        460
+    68        420
+    69        260
+    71        480
+    73        270
+    79        140
+    81        560
+    82        150
+    93        150
+    95        370
+    96        170
+    97        250
+    99        640
+   100        140
+   110        520
+   111        330
+   112        100
+   113        170
+   114         11
+   120        170
+   121         15
+   123        140
+   124         10
+   138        500
+   139        170
+   140         15
+   156         20

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 64982
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=9-Methyl-s-triazolo[4,3-c]tetrazolo[1,5-a]pyrimidine
+##MOLFORM=C6H5N7
+##CAS REGISTRY NO=56881-42-6
+##MP= -300
+##BP= -300
+##MW= 175
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    37        187
+    38        481
+    39        767
+    40        671
+    41        604
+    42        589
+    50        134
+    51        766
+    52        962
+    53        506
+    54         75
+    63         45
+    64        115
+    65        539
+    66        381
+    67        575
+    68         46
+    76         37
+    77        228
+    78        132
+    79         53
+    80         71
+    91         44
+    92        999
+    93         76
+   119        651
+   120         71
+   147        144
+   149         38
+   175        628
+   176        110

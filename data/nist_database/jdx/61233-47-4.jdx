@@ -1,0 +1,66 @@
+##TITLE=Library Entry 44325
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(9)888(1974); SPITELLER
+##NAMES=HP
+##CAS NAME=Androstane-3,7,17-triol, (3.beta.,5.alpha.,7.beta.,17.beta.)-, 3T
+MS derivative
+##MOLFORM=C28H56O3Si3
+##CAS REGISTRY NO=61233-47-4
+##MP= -300
+##BP= -300
+##MW= 524
+##$RETENTION INDEX=2836
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    73        999
+    75        653
+    79        100
+    81        126
+    91        100
+    93        160
+    95        100
+   105        126
+   107        140
+   115        100
+   119         93
+   129        400
+   130        126
+   131        113
+   133         93
+   145        126
+   147        166
+   159         86
+   160         60
+   169        146
+   182         73
+   184        133
+   195         40
+   197         53
+   199         46
+   213         53
+   215         60
+   228         33
+   239         66
+   243         40
+   253         60
+   254        106
+   255         66
+   290         20
+   303         13
+   318         33
+   329         40
+   344        146
+   345         53
+   393        246
+   394         60
+   419         46
+   434        666
+   435        280
+   436        106
+   509        106
+   510         46
+   524        160
+   525        106
+   526         40

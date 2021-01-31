@@ -1,0 +1,71 @@
+##TITLE=Library Entry 41595
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.M. MILLER,BROCK UNIVERSITY,ONTARIO,CANADA
+##NAMES=HP
+##CAS NAME=Disilane, pentamethyl(pentafluorophenyl)-
+##MOLFORM=C11H15F5Si2
+##CAS REGISTRY NO=33558-55-3
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    43        175
+    44         55
+    45        324
+    46         20
+    47        175
+    49        150
+    51         60
+    53         21
+    55         30
+    57         60
+    59         60
+    63         48
+    72         70
+    73        999
+    74        250
+    75        150
+    76         30
+    77        688
+    78         50
+    79         35
+    81        175
+    87         52
+    91         20
+    96         30
+    99         30
+   101         82
+   102         20
+   105         30
+   114         48
+   117         50
+   131         28
+   133         50
+   139         42
+   140         87
+   141         15
+   147        150
+   148         25
+   161         20
+   175         20
+   191         30
+   205         95
+   206         55
+   207         22
+   221         20
+   222         10
+   223          5
+   225         10
+   226          3
+   263         20
+   264         10
+   283         65
+   284         17
+   285         10
+   298         50
+   299         17
+   300         10

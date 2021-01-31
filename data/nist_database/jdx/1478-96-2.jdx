@@ -1,0 +1,71 @@
+##TITLE=Library Entry 21636
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=L-Valine, N-(trifluoroacetyl)-, butyl ester
+##MOLFORM=C11H18F3NO3
+##CAS REGISTRY NO=1478-96-2
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=1280
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    15         18
+    17         16
+    18         60
+    27        208
+    29        471
+    30         14
+    31         22
+    39        134
+    41        535
+    42         76
+    43        191
+    44         43
+    45         21
+    47          7
+    50          5
+    51         24
+    53         20
+    54         16
+    55        999
+    56        129
+    57        401
+    58         13
+    69        256
+    73         41
+    77         28
+    78         15
+    82         12
+    84         14
+    94          9
+    98         38
+   100         36
+   101         16
+   114        151
+   116         19
+   119         15
+   125         32
+   126         62
+   131         14
+   152         20
+   153        235
+   154         54
+   156         18
+   167         13
+   168        950
+   169        129
+   170         17
+   171         71
+   194         14
+   195          1
+   196         10
+   197          1
+   214          8
+   215          1
+   227         23
+   228          2

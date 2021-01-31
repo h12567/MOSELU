@@ -1,0 +1,60 @@
+##TITLE=Library Entry 20908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-Butenal, 2-methyl-
+##MOLFORM=C5H8O
+##CAS REGISTRY NO=1115-11-3
+##MP= -300
+##BP= -300
+##MW= 84
+##$RETENTION INDEX=746
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    23          2
+    24          0
+    25         16
+    26        107
+    27        576
+    28        178
+    29        649
+    30          9
+    32         33
+    35          1
+    36         10
+    37         56
+    38         82
+    39        534
+    40         24
+    41        378
+    44         38
+    45          6
+    48          6
+    49         36
+    50        161
+    51        153
+    52         45
+    53        252
+    54         59
+    55        999
+    56        127
+    57         43
+    60          7
+    61         10
+    62          4
+    63          5
+    65         15
+    66         11
+    67          5
+    68          3
+    69         25
+    70         28
+    72          0
+    80          1
+    82          9
+    83        107
+    84        827
+    85         39
+    86          5

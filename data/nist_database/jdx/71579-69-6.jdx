@@ -1,0 +1,54 @@
+##TITLE=Library Entry 42479
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. KURODA, DEPT. APPL. CHEM., WASEDA UNIV., TOKYO, J
+##NAMES=HP
+##CAS NAME=3-Isopropoxy-1,1,1,7,7,7-hexamethyl-3,5,5-tris(trimethylsiloxy)te
+trasiloxane
+##MOLFORM=C18H52O7Si7
+##CAS REGISTRY NO=71579-69-6
+##MP= -300
+##BP= -300
+##MW= 576
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    41         31
+    43        177
+    44         21
+    45         60
+    59         36
+    73        999
+    74         84
+    75         39
+   133         16
+   147        356
+   148         56
+   149         27
+   207         19
+   221        124
+   222         25
+   223         12
+   281        125
+   282         36
+   283         21
+   325         16
+   327         76
+   328         22
+   329         14
+   341         51
+   342         20
+   343         12
+   399         13
+   415         70
+   416         30
+   417         19
+   429         10
+   503         13
+   517         24
+   518         15
+   519         26
+   520         12
+   561         18
+   562         10

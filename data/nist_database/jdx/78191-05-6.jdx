@@ -1,0 +1,48 @@
+##TITLE=Library Entry 30990
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 3-methoxyamino-propanoate
+##MOLFORM=C5H11NO3
+##CAS REGISTRY NO=78191-05-6
+##MP= -300
+##BP= -300
+##MW= 133
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    29         61
+    30        114
+    31         74
+    33         84
+    41         60
+    42        270
+    43        240
+    44         72
+    45         61
+    55         47
+    56         67
+    57         66
+    58         61
+    59        162
+    60        999
+    61         61
+    69         54
+    70        183
+    71         61
+    72         60
+    73        139
+    74        784
+    75         78
+    76         42
+    84         66
+    86         36
+    87         54
+    88         54
+   101        266
+   102        375
+   103         35
+   104         29
+   133         61

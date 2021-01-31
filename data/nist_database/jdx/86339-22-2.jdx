@@ -1,0 +1,37 @@
+##TITLE=Library Entry 81313
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=O-Benzoyl-N-phenyl-2-chlorobenzamidoxime
+##MOLFORM=C20H15ClN2O2
+##CAS REGISTRY NO=86339-22-2
+##MP= -300
+##BP= -300
+##MW= 350
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    51        368
+    90        280
+   105        999
+   111         69
+   113         19
+   122        359
+   125         19
+   137        559
+   139        178
+   153        567
+   155        189
+   169         20
+   171         10
+   258        270
+   260         89
+   273        119
+   275         40
+   315         29
+   332         89
+   334         30
+   350         99
+   352         30

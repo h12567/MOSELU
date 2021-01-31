@@ -1,0 +1,62 @@
+##TITLE=Library Entry 72962
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-1222
+##NAMES=HP
+##CAS NAME=4-Morpholineethanamine
+##MOLFORM=C6H14N2O
+##CAS REGISTRY NO=2038-03-1
+##MP= -300
+##BP= -300
+##MW= 130
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         56
+    16          1
+    17          1
+    18          3
+    26          7
+    27         34
+    28        109
+    29         54
+    30        140
+    31          5
+    32          2
+    39          3
+    40          5
+    41         35
+    42         93
+    43         55
+    44         62
+    45         12
+    52          1
+    54         11
+    55         11
+    56        289
+    57         25
+    58          9
+    63          2
+    68          3
+    69          6
+    70         63
+    71         11
+    72         25
+    73          1
+    82          2
+    84         11
+    85          4
+    86         11
+    87          4
+    88         13
+    98          5
+    99          3
+   100        999
+   101         60
+   102          3
+   112          9
+   113          1
+   114          1
+   130          9

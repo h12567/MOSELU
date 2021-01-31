@@ -1,0 +1,56 @@
+##TITLE=Library Entry 80882
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(3'-Phenyl-3'-oxo-propyl)-cyclopentanone
+##MOLFORM=C14H16O2
+##CAS REGISTRY NO=7095-09-2
+##MP= -300
+##BP= -300
+##MW= 216
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    39         69
+    40         19
+    41         90
+    42         20
+    43         40
+    44         30
+    50         59
+    51        129
+    52         10
+    53         20
+    54          9
+    55         79
+    56         10
+    77        410
+    78         90
+    79         19
+    83         19
+    84         40
+    91         10
+    96         29
+    97         59
+    98         10
+   105        999
+   106         78
+   107         10
+   110         20
+   111         29
+   120        581
+   121         59
+   122          9
+   132         10
+   133         79
+   134         10
+   145         10
+   146         20
+   159         19
+   170         20
+   188         19
+   198         20
+   216        159
+   217         20

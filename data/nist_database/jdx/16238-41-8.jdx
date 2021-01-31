@@ -1,0 +1,37 @@
+##TITLE=Library Entry 30576
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.LOWN ALBERTA UNIV., EDMONTON, ALBERTA, CANADA
+##NAMES=HP
+##CAS NAME=2-Trichloroacetylpyrrole
+##MOLFORM=C7H10N2O3S
+##CAS REGISTRY NO=16238-41-8
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    41        151
+    56        257
+    59        999
+    60         23
+    73         45
+    85         45
+    86        166
+    87        227
+    98         45
+   113        227
+   114        106
+   115         75
+   117         30
+   118        181
+   119         30
+   142        924
+   143        469
+   144         30
+   171        636
+   172         47
+   202        863
+   203         74

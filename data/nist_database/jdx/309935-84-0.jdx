@@ -1,0 +1,65 @@
+##TITLE=Library Entry 6709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Propanoic acid, 3-(perhydro-2,5-dioxo-imidazo[4,5-d]imidazol-1-yl
+)-
+##MOLFORM=C7H10N4O4
+##CAS REGISTRY NO=309935-84-0
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    33         26
+    38          7
+    40        183
+    42        433
+    43        999
+    44        733
+    45         79
+    46          6
+    52          8
+    53         30
+    55        333
+    56        133
+    57         34
+    58          3
+    60         98
+    67          8
+    68         27
+    69         89
+    70         93
+    71         78
+    72         90
+    73         22
+    81         10
+    83         85
+    84        228
+    85         28
+    86          5
+    87         15
+    88         28
+    89          2
+    96         15
+    97         16
+    98         75
+    99        221
+   100         29
+   110         11
+   112        122
+   113         17
+   114         11
+   124          3
+   125        111
+   126         75
+   127          3
+   131          2
+   152          5
+   153        123
+   155         17
+   171         42
+   214          5

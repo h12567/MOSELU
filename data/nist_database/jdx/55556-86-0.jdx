@@ -1,0 +1,45 @@
+##TITLE=Library Entry 4457
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=Pyrrolidine, 2,5-dimethyl-1-nitroso-
+##MOLFORM=C6H12N2O
+##CAS REGISTRY NO=55556-86-0
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    30        187
+    38         31
+    39        331
+    40         81
+    41        624
+    42        999
+    43        106
+    44        124
+    53         93
+    54        118
+    55        624
+    56        374
+    57        137
+    67         56
+    68        181
+    69        124
+    70        249
+    72         31
+    79         49
+    81         99
+    82        281
+    83        187
+    84         31
+    97         37
+    98         37
+    99         49
+   113        112
+   128        624
+   129         49

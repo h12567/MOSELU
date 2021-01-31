@@ -1,0 +1,56 @@
+##TITLE=Library Entry 71278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Thiabicyclo[3.2.0]hept-3-ene-6,7-dicarboxylic acid, 5,6,7-trime
+thyl-
+##MOLFORM=C11H14O4S
+##CAS REGISTRY NO=34002-20-5
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39         20
+    40        150
+    41         30
+    42         40
+    45         50
+    46         90
+    52         30
+    53         50
+    54         20
+    55         60
+    56         80
+    58         20
+    59         20
+    63         20
+    65         40
+    69         20
+    71         20
+    77         30
+    79         10
+    82         30
+    83         40
+    91         30
+    97        400
+    98        999
+    99         90
+   100         50
+   111         10
+   116         10
+   117         20
+   119         10
+   123         10
+   125         10
+   126         20
+   136         30
+   151         30
+   165         10
+   179         10
+   196         10
+   224         20
+   242          6

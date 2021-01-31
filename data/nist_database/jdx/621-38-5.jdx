@@ -1,0 +1,59 @@
+##TITLE=Library Entry 13055
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F.B.Jariwala et al, J. Am. Soc. Mass Spectrom. 19, 1114
+-1118 (2008)
+##NAMES=HP
+##CAS NAME=Acetamide, N-(3-bromophenyl)-
+##MOLFORM=C8H8BrNO
+##CAS REGISTRY NO=621-38-5
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    37         19
+    38         81
+    39        105
+    41         19
+    42         92
+    43        999
+    50         50
+    52         54
+    61         37
+    62         76
+    63        236
+    64        127
+    65        259
+    66         13
+    74         26
+    75         30
+    76         11
+    77          6
+    79          6
+    81         17
+    89          6
+    90         46
+    91        135
+    92        364
+    93         26
+   117         17
+   119         17
+   133          8
+   134          6
+   143         30
+   145         24
+   146          6
+   155          6
+   157          6
+   170         15
+   171        761
+   172         61
+   173        700
+   174         52
+   213        241
+   214         24
+   215        227
+   216         21

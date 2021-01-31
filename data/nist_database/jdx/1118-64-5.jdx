@@ -1,0 +1,29 @@
+##TITLE=Library Entry 46204
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HORNER, FUCHS MINERALOELWERKE GMBH, MANNHEIM, W.GERMA
+N
+##NAMES=HP
+##CAS NAME=Monoethyl carbonotrithioate
+##MOLFORM=C3H6S3
+##CAS REGISTRY NO=1118-64-5
+##MP= -300
+##BP= -300
+##MW= 138
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    27        188
+    29        253
+    44        194
+    45         45
+    46         33
+    47        144
+    61         41
+    62        183
+    66         20
+    76        999
+    94         33
+   105         25
+   110          8

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 32068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,4,4a,8a-Tetrahydro-1,4-methanonaphthalene-5,8-dione
+##MOLFORM=C11H10O2
+##CAS REGISTRY NO=1200-89-1
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25         23
+    26        169
+    27         44
+    29          4
+    31         53
+    33         20
+    36         13
+    37         79
+    38        124
+    39        374
+    40        319
+    41         17
+    43          2
+    48          4
+    49         20
+    50         44
+    51         48
+    52         68
+    53         61
+    54        249
+    55         13
+    60         16
+    61         58
+    62         73
+    63         95
+    64         41
+    65        442
+    66        999
+    67         64
+    68          3
+    79          4
+    80         94
+    81         10
+    82        124
+    83          6
+    91          9
+    92          3
+   108        287
+   109         25
+   110         19
+   111          2
+   115          2
+   117          5
+   131          3
+   145          3
+   146          4
+   174         19
+   175          3

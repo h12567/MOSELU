@@ -1,0 +1,78 @@
+##TITLE=Library Entry 107677
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=1-(2-Aminoethyl)-2-methyl-5-nitroimidazole
+##MOLFORM=C6H10N4O2
+##CAS REGISTRY NO=55881-33-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    15          5
+    18          4
+    26         27
+    27         42
+    30        545
+    31          9
+    36          6
+    37          3
+    38          9
+    39         21
+    41         54
+    42        258
+    43        248
+    44        119
+    45          5
+    46          5
+    51         17
+    52        173
+    53        480
+    54        159
+    55         83
+    56         39
+    57         25
+    58          8
+    60          3
+    64          4
+    65          3
+    66         16
+    67         64
+    68         42
+    69         18
+    70         11
+    71         12
+    79          6
+    80         59
+    81         86
+    82         34
+    83         39
+    84         22
+    93          3
+    94         27
+    95         48
+    96         32
+    97          9
+   107          4
+   108         15
+   109          9
+   110         10
+   111        247
+   112         50
+   113          3
+   120          7
+   122         39
+   123        126
+   124        999
+   125         81
+   126          4
+   135          7
+   136          5
+   137          4
+   141         35
+   150          5
+   153          8

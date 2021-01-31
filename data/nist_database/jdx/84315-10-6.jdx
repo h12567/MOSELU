@@ -1,0 +1,30 @@
+##TITLE=Library Entry 70459
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.NIEUWENHUIZEN,LAB ORG CHEM,DELFT UNIV TECH,JULIANALAA
+N,NETH.
+##NAMES=HP
+##CAS NAME=cis-2,5-Diallyloxy-2,5-dihydrofuran
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=84315-10-6
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    55        650
+    56         80
+    57        100
+    67        110
+    68        630
+    69        100
+    81        100
+    83        350
+    85        130
+    97        999
+   124        670
+   125        900
+   126        110
+   181         20

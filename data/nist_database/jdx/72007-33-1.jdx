@@ -1,0 +1,42 @@
+##TITLE=Library Entry 11963
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Susan Richardson
+##NAMES=HP
+##CAS NAME=1-Bromo-1-chloropropanone
+##MOLFORM=C3H4BrClO
+##CAS REGISTRY NO=72007-33-1
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    35          2
+    37         11
+    38         22
+    42         21
+    43        999
+    46          4
+    47         19
+    48         28
+    49          6
+    50          9
+    53          5
+    63         32
+    65         10
+    76         13
+    78          4
+    79         14
+    81         14
+    91         15
+    92          7
+    93         15
+    94          7
+   127         48
+   129         63
+   131          9
+   170         11
+   172         20
+   174          5

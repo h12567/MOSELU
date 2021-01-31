@@ -1,0 +1,68 @@
+##TITLE=Library Entry 3006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=tert-Butyl methyl sulfoxide
+##MOLFORM=C5H12OS
+##CAS REGISTRY NO=14094-11-2
+##MP= -300
+##BP= -300
+##MW= 120
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    12          5
+    13         10
+    14         29
+    15         99
+    16         10
+    17          6
+    18          5
+    25          3
+    26         31
+    27        170
+    28        161
+    29        526
+    30         14
+    31         23
+    32         36
+    33         15
+    34         12
+    35          6
+    37         18
+    38         47
+    39        351
+    40         70
+    41        999
+    42         45
+    43         11
+    44         18
+    45        148
+    46         61
+    47        110
+    48         56
+    49         34
+    50         32
+    51         25
+    52          6
+    53         27
+    54         10
+    55        107
+    56        152
+    57        619
+    58         29
+    59         22
+    61          4
+    62         29
+    63         95
+    64        211
+    65         14
+    66          9
+    79          4
+    81          5
+   104          4
+   120         31
+   121          2
+   122          1

@@ -1,0 +1,88 @@
+##TITLE=Library Entry 114853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Benzonitrile, 4-(bromoacetyl)-
+##MOLFORM=C9H6BrNO
+##CAS REGISTRY NO=20099-89-2
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          3
+    14         20
+    17          1
+    18          2
+    25          2
+    26          5
+    27          3
+    36          2
+    37         25
+    38         39
+    39         49
+    40          2
+    41          2
+    42        114
+    43          7
+    48          2
+    49         20
+    50        136
+    51        128
+    52         23
+    53          4
+    58          2
+    60          1
+    61         20
+    62         37
+    63         45
+    64         21
+    65          7
+    66          1
+    72          2
+    73         12
+    74         20
+    75        150
+    76         90
+    77          7
+    79         17
+    80          4
+    81         17
+    82          4
+    84          1
+    85          4
+    86          8
+    87         10
+    88         14
+    89         77
+    90         14
+    91          3
+    92          3
+    93         21
+    94          3
+    95         18
+    98          3
+    99         16
+   100         10
+   101          1
+   102        369
+   103         30
+   104          2
+   114          6
+   116         75
+   117          6
+   120          1
+   122          1
+   123          1
+   130        999
+   131         90
+   132          5
+   145          3
+   223         12
+   224          1
+   225         12
+   226          1

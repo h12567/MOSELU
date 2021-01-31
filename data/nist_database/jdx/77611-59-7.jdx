@@ -1,0 +1,57 @@
+##TITLE=Library Entry 60950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Benzenepropanoic acid, 1-methyl-2-oxoethyl ester
+##MOLFORM=C12H14O3
+##CAS REGISTRY NO=77611-59-7
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        163
+    28        125
+    29        167
+    30         25
+    31        205
+    39         75
+    41         33
+    42         16
+    43        146
+    44        125
+    45        138
+    46         46
+    50         25
+    51        121
+    52         16
+    55         20
+    56         20
+    57         20
+    58         29
+    63         25
+    65        121
+    71        213
+    72         92
+    73        163
+    91        999
+    92        142
+   103        100
+   104        711
+   105        979
+   106         92
+   107        171
+   131         66
+   132         20
+   133        418
+   134         37
+   149         29
+   151         16
+   160          8
+   177          8
+   178         12
+   206        179
+   207         29

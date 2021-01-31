@@ -1,0 +1,50 @@
+##TITLE=Library Entry 45489
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,10(5)376(1975); V. KOVACIK
+##NAMES=HP
+##CAS NAME=.alpha.-D-Glucopyranosiduronic acid, methyl 2,3-di-O-methyl-, met
+hyl ester
+##MOLFORM=C10H18O7
+##CAS REGISTRY NO=51433-21-7
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    45        255
+    47         17
+    55         36
+    57         42
+    59         74
+    61         25
+    69         31
+    71        122
+    73        178
+    74         72
+    75        999
+    76         60
+    85        105
+    87         84
+    88        642
+    89         34
+    99         65
+   101        153
+   102         19
+   103         25
+   111          7
+   113          7
+   115          7
+   117         23
+   127         35
+   129         10
+   132        139
+   159         28
+   161         71
+   164         24
+   187         26
+   191          6
+   218          3
+   219          2

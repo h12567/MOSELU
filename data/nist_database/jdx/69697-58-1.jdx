@@ -1,0 +1,56 @@
+##TITLE=Library Entry 7627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4,4,5-Trimethyl-6,8-dioxa-3-thiabicyclo(3,2,1)octane 3-oxide
+##MOLFORM=C8H14O3S
+##CAS REGISTRY NO=69697-58-1
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    41        563
+    42         70
+    43        999
+    44         59
+    45         58
+    55         58
+    56         29
+    57        618
+    58         94
+    59        118
+    60         58
+    61         76
+    67         58
+    69        147
+    72         71
+    73        111
+    74        264
+    75         53
+    76         70
+    84         75
+    85        117
+    88        276
+    89         58
+    90        124
+    91         58
+   100        158
+   101         82
+   106        118
+   107          5
+   132         65
+   133         52
+   147         12
+   149         11
+   159         29
+   172         23
+   174         52
+   175          6
+   176         12
+   190        129
+   191         12
+   192         11

@@ -1,0 +1,60 @@
+##TITLE=Library Entry 18997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Cyano-1-pentene
+##MOLFORM=C6H9N
+##CAS REGISTRY NO=5048-19-1
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=858
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    12          3
+    13          3
+    14          9
+    15         19
+    16          1
+    24          2
+    26         81
+    27        281
+    28        101
+    29        171
+    30          6
+    32          2
+    34          1
+    36          2
+    37         39
+    38         82
+    39        450
+    40        112
+    41        712
+    42         67
+    43          3
+    44          2
+    49          8
+    50         40
+    51         60
+    52         47
+    53        115
+    54        104
+    55        999
+    56         44
+    61          5
+    62         12
+    63         14
+    64         15
+    65         21
+    66         18
+    67         87
+    68         50
+    69          3
+    76          2
+    80         50
+    81          3
+    94         40
+    95         55
+    96          5

@@ -1,0 +1,43 @@
+##TITLE=Library Entry 35884
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=L-Mannitol, 1-deoxy-, pentakis(trifluoroacetate)
+##MOLFORM=C16H9F15O10
+##CAS REGISTRY NO=26293-33-4
+##MP= -300
+##BP= -300
+##MW= 646
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    69        999
+    70         50
+    81        680
+    82         30
+    95        170
+    96         10
+   100        800
+   101         40
+   113        170
+   114         10
+   141         85
+   142         50
+   153        130
+   191        150
+   192         10
+   209         70
+   253         70
+   265         80
+   278         70
+   305        150
+   306         20
+   323          5
+   379         20
+   393         15
+   419         15
+   519         10
+   533         36
+   646          3

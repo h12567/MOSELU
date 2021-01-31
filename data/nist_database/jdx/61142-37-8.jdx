@@ -1,0 +1,74 @@
+##TITLE=Library Entry 35046
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Cyclohexane, (1,2-dimethylbutyl)-
+##MOLFORM=C12H24
+##CAS REGISTRY NO=61142-37-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    24          0
+    25          1
+    26          2
+    27         93
+    29        190
+    30          3
+    35          1
+    37          5
+    38          1
+    39         83
+    40         14
+    41        380
+    42         30
+    43        452
+    44         11
+    50          0
+    51          5
+    52          3
+    53         37
+    54         39
+    55        584
+    56        173
+    57        174
+    58          6
+    60          0
+    63          0
+    64          0
+    65          8
+    66          7
+    67        139
+    68         33
+    69        999
+    70         57
+    71         13
+    72          0
+    77          7
+    78          0
+    79          9
+    80          7
+    81        113
+    82        143
+    83        222
+    84        151
+    85        154
+    86          9
+    91          1
+    95        136
+    96          1
+    97         27
+    98          1
+   109          3
+   110        236
+   111        481
+   112         43
+   113          0
+   125          0
+   139          2
+   168          4

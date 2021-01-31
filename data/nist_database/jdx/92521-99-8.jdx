@@ -1,0 +1,31 @@
+##TITLE=Library Entry 75267
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.N. ZELENIN, MIL. MED. ACAD. OF S.M. KUROVA, LENINGRAD
+, USSR
+##NAMES=HP
+##CAS NAME=1-Acetyl-2-isopropyl-3-methyl-5-hydroxypyrazolidine
+##MOLFORM=C9H18N2O2
+##CAS REGISTRY NO=92521-99-8
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    56        135
+    59        107
+    69         71
+    83        127
+    84         87
+    85         92
+    87         41
+    99         99
+   101        999
+   111        120
+   126         13
+   129        111
+   143        729
+   144        101
+   186         89

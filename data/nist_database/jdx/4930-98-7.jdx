@@ -1,0 +1,73 @@
+##TITLE=Library Entry 85824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2341
+##NAMES=HP
+##CAS NAME=2-Hydrazinopyridine
+##MOLFORM=C5H7N3
+##CAS REGISTRY NO=4930-98-7
+##MP= -300
+##BP= -300
+##MW= 109
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    14          2
+    15          1
+    16          3
+    17          7
+    25          1
+    26         18
+    27         32
+    28        101
+    29          9
+    30          6
+    31         15
+    32          4
+    36          2
+    37         18
+    38         46
+    39        102
+    40         31
+    41         29
+    42          5
+    43          6
+    44         18
+    47          2
+    48          1
+    49          9
+    50         54
+    51        137
+    52        307
+    53        102
+    54         11
+    55          6
+    56          3
+    57          1
+    62          2
+    63          7
+    64         25
+    65         55
+    66         69
+    67        103
+    68          6
+    74          1
+    75          8
+    76          9
+    77          4
+    78        111
+    79        828
+    80        123
+    81         10
+    82          1
+    91          6
+    92         19
+    93         21
+    94         96
+    95          7
+   107          1
+   108         80
+   109        999
+   110         66
+   111          2

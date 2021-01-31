@@ -1,0 +1,42 @@
+##TITLE=Library Entry 52019
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Imidazole, 2-acetamido-
+##MOLFORM=C5H7N3O
+##CAS REGISTRY NO=52737-49-2
+##MP= -300
+##BP= -300
+##MW= 125
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41         32
+    42         64
+    43        450
+    44         15
+    45          2
+    51          3
+    52          5
+    53         28
+    54         42
+    55        155
+    56        381
+    57         12
+    66          2
+    67          2
+    68          4
+    69         13
+    81         11
+    82        107
+    83        999
+    84         47
+    96          3
+   109          6
+   110         12
+   124          1
+   125        323
+   126         33
+   127          2

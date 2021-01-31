@@ -1,0 +1,69 @@
+##TITLE=Library Entry 21065
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-3934
+##NAMES=HP
+##CAS NAME=trans-1,2-Diethyl cyclopentane
+##MOLFORM=C9H18
+##CAS REGISTRY NO=932-40-1
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=891
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    15          5
+    26          6
+    27        106
+    28          7
+    29        113
+    30          2
+    37          1
+    38          5
+    39        118
+    40         20
+    41        359
+    42        207
+    43        158
+    44          5
+    50          6
+    51         13
+    52          7
+    53         50
+    54         39
+    55        999
+    56        318
+    57         66
+    58          3
+    62          2
+    63          4
+    65         13
+    66         16
+    67        129
+    68         44
+    69        254
+    70        337
+    71         53
+    72          2
+    77         11
+    78          2
+    79          9
+    80          2
+    81         16
+    82         30
+    83        116
+    84        135
+    85         21
+    86          1
+    91          3
+    93          2
+    95         12
+    96        162
+    97        914
+    98        156
+    99          9
+   111          6
+   125          1
+   126        102
+   127         10

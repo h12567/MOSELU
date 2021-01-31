@@ -1,0 +1,53 @@
+##TITLE=Library Entry 88004
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-(4-Nitrophenyl)-2-(4-ethoxycarbonylphenyl)-3-(thiophen-2-ylcarb
+onyl)-cyclopropane
+##MOLFORM=C23H19NO5S
+##CAS REGISTRY NO=136673-31-9
+##MP= -300
+##BP= -300
+##MW= 421
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    45        639
+    46        230
+    55        118
+    57        241
+    60        150
+    69        110
+    71        158
+    76         61
+    83        120
+    85         99
+    93         59
+    97         70
+   102         88
+   111        999
+   115         50
+   129         39
+   130         69
+   141         39
+   146         30
+   149        110
+   152         69
+   176         40
+   184        171
+   185         89
+   212        239
+   213        130
+   225         19
+   228         39
+   229         79
+   230         29
+   231         40
+   242        170
+   258        120
+   259        631
+   260        110
+   261         40
+   280         40

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 64773
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-(4-Chlorophenylamino)-3-(p-tolyl)-quinazoline-4(3H)-one
+##MOLFORM=C21H16ClN3O
+##CAS REGISTRY NO=125701-58-8
+##MP= -300
+##BP= -300
+##MW= 361
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    77        181
+    90        597
+    91        999
+    99        232
+   116        283
+   117        231
+   119         59
+   126         99
+   192        179
+   194         59
+   235        675
+   236        120
+   360        802
+   361        553
+   362        411
+   363        191

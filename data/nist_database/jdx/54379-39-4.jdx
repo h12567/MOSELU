@@ -1,0 +1,55 @@
+##TITLE=Library Entry 77643
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=4-Acetyl[2,2]paracyclophane
+##MOLFORM=C18H18O
+##CAS REGISTRY NO=54379-39-4
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    50         26
+    51         82
+    52         40
+    53         33
+    63         58
+    64         33
+    65         55
+    75         27
+    76         44
+    77        291
+    78        255
+    79         36
+    89         55
+    90         26
+    91         78
+   101         27
+   102         73
+   103        382
+   104        999
+   105         36
+   106         40
+   115         82
+   116         46
+   117         87
+   118         49
+   125         62
+   126          9
+   127         18
+   128         29
+   129         22
+   130          7
+   131        146
+   132         80
+   144         27
+   145        509
+   146        964
+   147        127
+   250        691
+   251        146
+   252         18

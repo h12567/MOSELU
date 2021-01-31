@@ -1,0 +1,31 @@
+##TITLE=Library Entry 60721
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM, 112(6)2012(1979); R. HERBERT AND M. CHRISTL
+##NAMES=HP
+##CAS NAME=Tricyclo[4.1.0.0(2,4)]heptane, 5-(phenylthio)-, (1.alpha.,2.beta.
+,4.beta.,5.alpha.,6.alpha.)-
+##MOLFORM=C13H14S
+##CAS REGISTRY NO=71055-11-3
+##MP= -300
+##BP= -300
+##MW= 202
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        400
+    41        210
+    45        110
+    51        220
+    65        390
+    66        110
+    77        950
+    78        190
+    79        130
+    91        999
+    92        490
+    93        960
+   109        190
+   110        160
+   202         60

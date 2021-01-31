@@ -1,0 +1,76 @@
+##TITLE=Library Entry 61185
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MUS226 A. Mujsce, AT&T Bell Labs., Murray Hill, N.J., U
+SA
+##NAMES=HP
+##CAS NAME=Benzeneethanol, .beta.-butyl-
+##MOLFORM=C12H18O
+##CAS REGISTRY NO=25755-73-1
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        301
+    28         49
+    29        358
+    31        200
+    38         14
+    39        223
+    40         29
+    41        274
+    42         33
+    43        117
+    44          7
+    50         61
+    51        180
+    52         50
+    53         48
+    55         50
+    56          9
+    57         16
+    61          4
+    62          9
+    63         51
+    64         15
+    65        104
+    66         14
+    74         16
+    75         15
+    76         24
+    77        475
+    78        156
+    79        476
+    80         32
+    88          4
+    89         38
+    91        999
+    92         92
+    93         10
+   101          6
+   102         25
+   103        141
+   104        113
+   105        161
+   106         19
+   107        546
+   108         46
+   115         96
+   116         21
+   117         71
+   118         14
+   119          6
+   120         15
+   121         15
+   128         15
+   129         13
+   131          6
+   133          9
+   147         98
+   148         62
+   178         68
+   179          9

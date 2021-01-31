@@ -1,0 +1,62 @@
+##TITLE=Library Entry 23303
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-t-Butylurazole
+##MOLFORM=C6H11N3O2
+##CAS REGISTRY NO=35403-67-9
+##MP= -300
+##BP= -300
+##MW= 157
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    14         11
+    15        141
+    16         14
+    17          6
+    18         39
+    26         23
+    27        154
+    28        139
+    29        396
+    30        109
+    31         77
+    37          7
+    38         19
+    39        219
+    40         74
+    41        553
+    42        115
+    43         51
+    44         54
+    45          3
+    50         11
+    51         17
+    52         10
+    53         23
+    54         26
+    55         47
+    56        183
+    57        999
+    58        333
+    59         22
+    68          7
+    69          7
+    70         99
+    71          6
+    72          5
+    74          7
+    84        120
+    85         14
+    99          8
+   101        339
+   102        318
+   103         15
+   142         62
+   143          5
+   145          0
+   157         27
+   158          2

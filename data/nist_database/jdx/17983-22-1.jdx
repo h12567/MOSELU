@@ -1,0 +1,64 @@
+##TITLE=Library Entry 8560
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Ketone, methyl 2,2,3-trimethylcyclopentyl
+##MOLFORM=C10H18O
+##CAS REGISTRY NO=17983-22-1
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        560
+    42        110
+    43        999
+    44        140
+    45         90
+    46         50
+    47         20
+    51         30
+    52         10
+    53         90
+    54         30
+    55        420
+    56         70
+    57        100
+    58         50
+    59         30
+    65         20
+    66         10
+    67        110
+    68         40
+    69        770
+    70        100
+    71        390
+    72         50
+    74         30
+    77         30
+    79         20
+    81        100
+    82         70
+    83        100
+    84        570
+    85         80
+    87         30
+    93         20
+    95         90
+    96        230
+    97         70
+    99         40
+   107         40
+   109         20
+   110         20
+   111        150
+   112         10
+   121         10
+   136         90
+   137         10
+   139         30
+   154         40

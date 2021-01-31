@@ -1,0 +1,32 @@
+##TITLE=Library Entry 93746
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sulfoxide, methyl .beta.-methylstyryl
+##MOLFORM=C10H12OS
+##CAS REGISTRY NO=21147-09-1
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    51        220
+    65        160
+    77        140
+    89        140
+    91        490
+   105        240
+   115        999
+   116        430
+   117        759
+   132        130
+   133        190
+   137        162
+   150         70
+   163         30
+   164         40
+   165         90
+   180        440

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 87216
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Methyl 1-phenylthiomethyl-pyrrolidine-2-carboxylate
+##MOLFORM=C13H17NO2S
+##CAS REGISTRY NO=68729-25-9
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    39        305
+    40         45
+    41        387
+    42        270
+    43         53
+    44         52
+    45        228
+    50         77
+    51        228
+    52         54
+    53         99
+    54         98
+    55        221
+    56        101
+    57         38
+    58        101
+    59        152
+    65        254
+    66        575
+    67        153
+    68        253
+    69        168
+    77        246
+    78         91
+    79         53
+    80        106
+    81        385
+    82        689
+    83        154
+    84        270
+    95         46
+    96         91
+   108        306
+   109        421
+   110        999
+   111        269
+   112        192
+   126        216
+   127         46
+   140        308
+   141        538
+   142        100

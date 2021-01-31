@@ -1,0 +1,30 @@
+##TITLE=Library Entry 100199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.D.DESMARCHELIER UNIV. OF MELBOURNE, MELBOURNE, AUSTRA
+LIA
+##NAMES=HP
+##CAS NAME=1H-2,4-Benzodiazepine, 2,5-dihydro-3-methyl-
+##MOLFORM=C10H12N2
+##CAS REGISTRY NO=18233-71-1
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    42        105
+    51         67
+    65         80
+    77         81
+    89         80
+    90         78
+    91        284
+    92        296
+   117        181
+   118        765
+   119        999
+   159         67
+   160        321
+   161        130

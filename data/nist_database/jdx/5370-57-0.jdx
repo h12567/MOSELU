@@ -1,0 +1,74 @@
+##TITLE=Library Entry 67310
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A. KOPTYUG, VOL.4, ATLAS OF MASS SPECTRA OF ORGANIC C
+OMPOUNDS
+##NAMES=HP
+##CAS NAME=2-Pyrroline, 1,2-dimethyl-
+##MOLFORM=C6H11N
+##CAS REGISTRY NO=5370-57-0
+##MP= -300
+##BP= -300
+##MW= 97
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    25         35
+    26        149
+    27        417
+    29        549
+    30        136
+    35         31
+    36         40
+    37         48
+    38         70
+    39        241
+    40        505
+    41        277
+    42        593
+    43        325
+    45        779
+    46        263
+    47         31
+    48         26
+    50         70
+    51         92
+    52        101
+    53        202
+    54        140
+    55        211
+    56        228
+    57         66
+    58         26
+    59         26
+    60         26
+    62         40
+    63         48
+    64         35
+    65         92
+    66         70
+    67        149
+    68        211
+    69        384
+    70         61
+    71         35
+    75         26
+    76         26
+    77         61
+    78        127
+    79         88
+    80        127
+    81        211
+    82         92
+    83         57
+    84         53
+    85         57
+    91         61
+    92         57
+    93        136
+    94        999
+    95        713
+    96        801
+    97        779
+    98         88

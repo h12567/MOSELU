@@ -1,0 +1,72 @@
+##TITLE=Library Entry 46707
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.SANTORO MONTEDISON S.P.A., RESEARCH CENTRE, MILAN, IT
+ALY
+##NAMES=HP
+##CAS NAME=1-Octene, 3,3,4,4,7,7,8,8,8-nonafluoro-5-iodo-
+##MOLFORM=C8H6F9I
+##CAS REGISTRY NO=35208-09-4
+##MP= -300
+##BP= -300
+##MW= 400
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    27        100
+    31         31
+    39         48
+    47         13
+    51        380
+    57         61
+    59         60
+    64         41
+    65         42
+    69        122
+    75         75
+    76         35
+    77        999
+    78         33
+    89         22
+    91         15
+    95        150
+   100         19
+   101         22
+   103         20
+   109         24
+   113         60
+   115         27
+   119         20
+   121         21
+   127         94
+   128         29
+   133         30
+   139         38
+   141         28
+   145         75
+   153         14
+   157         12
+   159         21
+   163         24
+   177         41
+   183         36
+   189         60
+   195         60
+   197         29
+   203         24
+   209        116
+   213          8
+   223          8
+   227         25
+   233         22
+   234         12
+   253        147
+   273         23
+   323         17
+   333          1
+   353          2
+   361          2
+   373          0
+   381          0
+   400        330

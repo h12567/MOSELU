@@ -1,0 +1,75 @@
+##TITLE=Library Entry 21607
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=cis-2-Methyl-4-n-pentylthiane
+##MOLFORM=C11H22S
+##CAS REGISTRY NO=76097-68-2
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    53        160
+    54        110
+    55        999
+    56        120
+    57         80
+    58         30
+    59        150
+    60        180
+    61        300
+    65         40
+    67        300
+    68        160
+    69        590
+    70        120
+    71         40
+    73        150
+    74        160
+    75        240
+    76         30
+    77         40
+    79         70
+    80         20
+    81        650
+    82        120
+    83        200
+    84         40
+    85         70
+    87        440
+    88         80
+    89         50
+    95        210
+    96        240
+    97        130
+    98         30
+    99         50
+   101        290
+   102         40
+   103         30
+   109        160
+   110         40
+   115        320
+   116         60
+   123         80
+   124         50
+   129        480
+   130         50
+   131         30
+   143        160
+   144         50
+   157        820
+   158        110
+   159         60
+   171        680
+   172        100
+   173         50
+   185         40
+   186        710
+   187         93
+   188         37
+   189          4

@@ -1,0 +1,56 @@
+##TITLE=Library Entry 81141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Dube,Z.Chem.,9,316(1969)
+##NAMES=HP
+##CAS NAME=Tetramethoxygermanium
+##MOLFORM=C4H12GeO4
+##CAS REGISTRY NO=992-91-6
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    71         34
+    72         12
+    73         59
+    74         34
+    75         71
+    77         19
+    87         47
+    89         69
+    90         19
+    91         96
+    93         19
+   101        483
+   102        129
+   103        727
+   104        377
+   105        999
+   106        218
+   107        292
+   108         29
+   132        109
+   133        478
+   134        486
+   135        689
+   136        811
+   137        965
+   138        627
+   139        191
+   140        119
+   163        161
+   164        240
+   165        215
+   166        389
+   167        404
+   168        446
+   169         76
+   170         96
+   193          7
+   195          9
+   196          2
+   197         10
+   199          3

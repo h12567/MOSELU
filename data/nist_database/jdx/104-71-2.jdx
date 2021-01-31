@@ -1,0 +1,73 @@
+##TITLE=Library Entry 62064
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N'-Dibenzylideneethylenediamine
+##MOLFORM=C16H16N2
+##CAS REGISTRY NO=104-71-2
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+     4          2
+    15          3
+    18          2
+    26          5
+    27         34
+    28         50
+    29          3
+    32          0
+    37          3
+    38         11
+    39         70
+    40         13
+    41         49
+    42         13
+    50         42
+    51        118
+    52         27
+    53          5
+    54         15
+    59          4
+    61          3
+    62         16
+    63         63
+    64         30
+    65        176
+    66          9
+    74          9
+    75         14
+    76         33
+    77        143
+    78         61
+    79         22
+    86          2
+    87          3
+    89        127
+    90        122
+    91        999
+    92         81
+    93          3
+   102          9
+   104        606
+   105        218
+   106         20
+   115          3
+   117         95
+   118        274
+   119         22
+   120          2
+   130         24
+   132        456
+   133        660
+   134         68
+   135          3
+   206          2
+   207          4
+   235          6
+   236          2
+   237          2

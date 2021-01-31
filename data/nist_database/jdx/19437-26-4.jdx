@@ -1,0 +1,73 @@
+##TITLE=Library Entry 48379
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-8222
+##NAMES=HP
+##CAS NAME=di-2-Pyridyl ketone
+##MOLFORM=C11H8N2O
+##CAS REGISTRY NO=19437-26-4
+##MP= -300
+##BP= -300
+##MW= 184
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    26         13
+    27         65
+    28         42
+    37          4
+    38          8
+    39         18
+    40          1
+    49          6
+    50         57
+    51        337
+    52        124
+    53         13
+    54          1
+    61          2
+    62          4
+    63          8
+    64          4
+    65          3
+    74          3
+    75         10
+    76         24
+    77         30
+    78        999
+    79         95
+    80          6
+    87          1
+    88          1
+    89          3
+    90          2
+    92         13
+   100          1
+   101         10
+   102         13
+   103         18
+   104         13
+   105          4
+   106         79
+   107          6
+   108          4
+   116          1
+   117          2
+   127          3
+   128         86
+   129        141
+   130         86
+   131          8
+   132          2
+   153          2
+   154          5
+   155        338
+   156        675
+   157         76
+   158          4
+   169          5
+   183         58
+   184        771
+   185        112
+   186          9

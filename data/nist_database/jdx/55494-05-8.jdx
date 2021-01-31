@@ -1,0 +1,57 @@
+##TITLE=Library Entry 40672
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. MARKEY UNIV. OF COLO. MED. CTR., DENVER, COLORADO, U
+SA
+##NAMES=HP
+##CAS NAME=Hexanoylglycine, TMS derivative
+##MOLFORM=C11H23NO3Si
+##CAS REGISTRY NO=55494-05-8
+##MP= -300
+##BP= -300
+##MW= 245
+##$RETENTION INDEX=1648
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    39         37
+    41        188
+    42         60
+    43        549
+    44         81
+    45        189
+    47         57
+    55        138
+    56         52
+    58         43
+    59         11
+    61         53
+    69         22
+    71        233
+    72         60
+    73        999
+    74         91
+    75        436
+    77         11
+    87         23
+    88         13
+    99        306
+   102         51
+   104         52
+   116         13
+   129         10
+   130         76
+   131         29
+   132         38
+   145        158
+   147         23
+   148         15
+   158        548
+   159        119
+   172        245
+   173         36
+   186         18
+   189        200
+   190          8
+   230        278
+   231         23

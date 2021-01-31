@@ -1,0 +1,36 @@
+##TITLE=Library Entry 30511
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.S. THRASHER, DEP. CHEM., ALABAMA UNIV., ALABAMA, USA
+##NAMES=HP
+##CAS NAME=[(Methoxycarbonyl)amino]sulphur pentafluoride
+##MOLFORM=C2H4F5NO2S
+##CAS REGISTRY NO=89590-14-7
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    29        172
+    30         69
+    31        534
+    43         86
+    44        189
+    47        147
+    51         15
+    59        999
+    70         69
+    89        362
+    91         17
+   104        155
+   105         34
+   118        138
+   127        819
+   129         34
+   139         43
+   150        207
+   156        147
+   170         69
+   201         52

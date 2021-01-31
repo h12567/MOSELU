@@ -1,0 +1,76 @@
+##TITLE=Library Entry 3545
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2-Penten-1-ol, 2-methyl-, (Z)-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=16958-20-6
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    24          2
+    25          5
+    26         27
+    27        275
+    28         90
+    29        266
+    30         41
+    31        138
+    32          4
+    36          1
+    37         22
+    38         38
+    39        407
+    40         77
+    41        999
+    42         94
+    43        564
+    44         18
+    45         51
+    48          4
+    49          6
+    50         30
+    51         45
+    52         21
+    53        154
+    54         70
+    55        138
+    56         67
+    57        202
+    58        138
+    59         11
+    60          0
+    61          5
+    62          7
+    63         21
+    64          0
+    65         50
+    66         22
+    67        480
+    68         53
+    69        238
+    70         26
+    71        691
+    72         41
+    73          1
+    75          1
+    77         14
+    79         34
+    80          5
+    81         46
+    82        446
+    83         37
+    84          2
+    85         57
+    86          2
+    97          3
+    98         12
+    99          0
+   100         31
+   101          0

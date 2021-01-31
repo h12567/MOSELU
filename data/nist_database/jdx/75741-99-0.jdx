@@ -1,0 +1,54 @@
+##TITLE=Library Entry 67686
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=1,4-Phenylene bis(2-furoate)
+##MOLFORM=C16H10O6
+##CAS REGISTRY NO=75741-99-0
+##MP= -300
+##BP= -300
+##MW= 298
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    33          4
+    34          1
+    37         20
+    38         69
+    39        313
+    41         10
+    42          2
+    43          9
+    45          1
+    49          1
+    50          5
+    51         14
+    52         15
+    54         21
+    55          3
+    57          2
+    61          1
+    62          2
+    63          9
+    64          3
+    66          9
+    67         36
+    68          3
+    69          2
+    71          1
+    77          1
+    80          1
+    82          6
+    83          1
+    91          2
+    92          2
+    95        999
+   108          1
+   204          1
+   295          2
+   296          3
+   298         81
+   299         11
+   300          2

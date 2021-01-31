@@ -1,0 +1,51 @@
+##TITLE=Library Entry 54849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V P. MORIZUR
+##NAMES=HP
+##CAS NAME=2-Hexene, 1-methoxy-3-methyl-, (E)-
+##MOLFORM=C8H16O
+##CAS REGISTRY NO=56052-84-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    39         90
+    40         20
+    41        130
+    42         20
+    43         25
+    44        120
+    50         10
+    51         20
+    52         10
+    53         70
+    54         20
+    55        310
+    56         20
+    57         10
+    58         40
+    59         25
+    65         15
+    66         10
+    67         70
+    68         75
+    69         30
+    70         10
+    71        100
+    72         10
+    77         10
+    79         20
+    81         80
+    82         10
+    83         10
+    85        999
+    95         10
+    96         30
+    97         30
+    99         10
+   113         20
+   128         40

@@ -1,0 +1,58 @@
+##TITLE=Library Entry 22937
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=N,N'-Bis(trifluoroacetyl)piperasine
+##MOLFORM=C8H8F6N2O2
+##CAS REGISTRY NO=6345-81-9
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    30         80
+    31         10
+    32         60
+    40         20
+    41        120
+    42        810
+    43         60
+    44         60
+    45         30
+    50         40
+    51         30
+    54        110
+    55        200
+    56        999
+    57        110
+    68         40
+    69        560
+    70        260
+    71         20
+    78         40
+    81         20
+    82         20
+    83         40
+    84        120
+    85         40
+    96         70
+    97         20
+   125         20
+   126         90
+   139        100
+   140        100
+   141         20
+   152        300
+   153         60
+   166         80
+   167         60
+   181        230
+   182         40
+   209        990
+   210        120
+   278        200
+   279         19
+   280          1

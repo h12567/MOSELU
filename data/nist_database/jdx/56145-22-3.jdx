@@ -1,0 +1,23 @@
+##TITLE=Library Entry 68580
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=INST.OF CLINICAL BIOCHEM,RIKSHOSP,UNIV.OF OSLO,E.JELLUM
+,ET.A
+##NAMES=HP
+##CAS NAME=Glycine, N-(3-furanylcarbonyl)-, methyl ester
+##MOLFORM=C8H9NO4
+##CAS REGISTRY NO=56145-22-3
+##MP= -300
+##BP= -300
+##MW= 183
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    29         60
+    38         50
+    39        200
+    95        999
+    96         80
+   124        280
+   183        150

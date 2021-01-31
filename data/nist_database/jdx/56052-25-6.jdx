@@ -1,0 +1,42 @@
+##TITLE=Library Entry 8296
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Propanone, 1-(pentylthio)-
+##MOLFORM=C8H16OS
+##CAS REGISTRY NO=56052-25-6
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        600
+    42        140
+    43        999
+    44         10
+    45         70
+    46         40
+    47         70
+    55         80
+    58         80
+    59         30
+    60        140
+    61        800
+    62         20
+    63         20
+    69        730
+    70         70
+    73         30
+    75         50
+    86         10
+    87         50
+    90         20
+   102         90
+   103        130
+   117        120
+   160        290
+   161         20

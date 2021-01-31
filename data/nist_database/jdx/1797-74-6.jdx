@@ -1,0 +1,36 @@
+##TITLE=Library Entry 58996
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=Benzeneacetic acid, 2-propenyl ester
+##MOLFORM=C11H12O2
+##CAS REGISTRY NO=1797-74-6
+##MP= -300
+##BP= -300
+##MW= 176
+##$RETENTION INDEX=1328
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    28         15
+    39         39
+    41        624
+    42         23
+    43          9
+    47          9
+    57          9
+    65         89
+    69         40
+    73         23
+    79         11
+    81         11
+    90         22
+    91        999
+    92        243
+    93         35
+   118         23
+   119         30
+   121         11
+   176        170
+   177         19

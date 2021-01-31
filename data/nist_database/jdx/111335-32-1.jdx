@@ -1,0 +1,44 @@
+##TITLE=Library Entry 53336
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. Derendyaev, Novosibirsk Institute of Organic Chemist
+ry
+##NAMES=HP
+##CAS NAME=2,2,6,6-Tetramethyl-3-(2-cyanoethyl)piperid-4-one
+##MOLFORM=C12H20N2O
+##CAS REGISTRY NO=111335-32-1
+##MP= -300
+##BP= -300
+##MW= 208
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    39        115
+    41        172
+    42        123
+    43         53
+    53         90
+    54         43
+    55        312
+    56         43
+    58        157
+    67         62
+    81         47
+    82         37
+    83        999
+    84         93
+    98         31
+   108         39
+   137         56
+   140         60
+   151         82
+   155         44
+   163         41
+   168        169
+   176        312
+   191        149
+   192         39
+   193        357
+   194         53
+   208        129

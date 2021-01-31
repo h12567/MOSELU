@@ -1,0 +1,76 @@
+##TITLE=Library Entry 5141
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Silane, dichloro(3-chloropropyl)methyl-
+##MOLFORM=C4H9Cl3Si
+##CAS REGISTRY NO=7787-93-1
+##MP= -300
+##BP= -300
+##MW= 190
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    35          7
+    36          4
+    37          7
+    38          7
+    39        102
+    40         36
+    41        181
+    42        999
+    43         45
+    44         22
+    47          3
+    48          2
+    49         47
+    51         30
+    52          4
+    53         10
+    57          6
+    63        228
+    64         24
+    65         94
+    66          6
+    77         25
+    78         25
+    79         27
+    80         13
+    81         10
+    91          4
+    92         17
+    93          4
+    98         19
+    99         34
+   100         25
+   101         21
+   102          6
+   103          8
+   111          5
+   112         54
+   113        707
+   114         84
+   115        463
+   116         42
+   117         79
+   118          7
+   133        130
+   134         10
+   135        130
+   136          4
+   137         38
+   138          7
+   139         60
+   140          5
+   141         30
+   142          4
+   143         10
+   144          5
+   175         68
+   176          7
+   177         64
+   178          6
+   179         20
+   180          2

@@ -1,0 +1,80 @@
+##TITLE=Library Entry 40330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-(3-Methoxyphenyl)-1,1-dimethylurea
+##MOLFORM=C10H14N2O2
+##CAS REGISTRY NO=28170-54-9
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 65
+##XYDATA=(XY..XY) 1 
+    30          5
+    32          1
+    38          4
+    39         15
+    41         15
+    42         25
+    43         13
+    44        124
+    45        103
+    46          6
+    50          3
+    51         16
+    52         24
+    53          4
+    55          3
+    56         16
+    57          2
+    63         13
+    64         20
+    65         12
+    66          3
+    67          2
+    71          3
+    72        999
+    73         39
+    74          5
+    76          3
+    77         16
+    78         11
+    79         13
+    80          6
+    81          2
+    90          3
+    91         15
+    92         13
+    93          5
+    94          5
+    95         20
+    96          4
+    97         10
+   106         13
+   107         12
+   108          4
+   119         15
+   120          9
+   121          2
+   122         22
+   123         25
+   124         14
+   136         12
+   137          3
+   146          3
+   148          9
+   149        105
+   150         30
+   151          4
+   163          3
+   176          2
+   177         14
+   179          8
+   180          1
+   193         31
+   194        404
+   195         48
+   196          4

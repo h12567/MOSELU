@@ -1,0 +1,63 @@
+##TITLE=Library Entry 67581
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-(Aminomethylene)aminoacrylontrile
+##MOLFORM=C4H5N3
+##CAS REGISTRY NO=167320-31-2
+##MP= -300
+##BP= -300
+##MW= 95
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    25         10
+    26         35
+    27         40
+    28        510
+    29        304
+    30         32
+    31          2
+    35         19
+    36          5
+    37          7
+    38         43
+    39         43
+    40        111
+    41        389
+    42        151
+    43        324
+    44         13
+    49          7
+    50         16
+    51         88
+    52        292
+    53         63
+    54         13
+    55         82
+    56          5
+    57          4
+    64          5
+    65          7
+    66         20
+    67        129
+    68        137
+    69         31
+    70          3
+    71          2
+    76          2
+    77          6
+    78          2
+    79        115
+    80          7
+    81          2
+    82          3
+    84          4
+    86          3
+    93          9
+    94        174
+    95        999
+    96         68
+    97          5

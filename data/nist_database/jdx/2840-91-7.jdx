@@ -1,0 +1,39 @@
+##TITLE=Library Entry 31060
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. SUESS, CIBA-GEIGY AG, MUNCHWILEN, SWITZER
+##NAMES=HP
+##CAS NAME=cis-1,4-Diacetamidocyclohexane
+##MOLFORM=C10H18N2O2
+##CAS REGISTRY NO=2840-91-7
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        750
+    44        100
+    56        210
+    58        250
+    60        999
+    68        170
+    69        150
+    70         30
+    79         60
+    80        440
+    81        110
+    82        100
+    85        300
+    96        250
+    97        200
+    98        100
+   111         50
+   112         20
+   113         20
+   138         70
+   139        800
+   140        150
+   155         80
+   198        140

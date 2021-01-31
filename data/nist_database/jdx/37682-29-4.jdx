@@ -1,0 +1,64 @@
+##TITLE=Library Entry 24027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.T. CLERC, ORGANIC CHEM. LAB., ETH, ZURICH, SWITZ.
+##NAMES=HP
+##CAS NAME=Benzene, 1-nitro-2-(octyloxy)-
+##MOLFORM=C14H21NO3
+##CAS REGISTRY NO=37682-29-4
+##MP= -300
+##BP= -300
+##MW= 251
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    27        134
+    28        143
+    29        382
+    30         34
+    32         34
+    39        130
+    41        599
+    42        152
+    43        960
+    44         43
+    51         56
+    53         56
+    55        421
+    56        356
+    57        999
+    58         60
+    63         47
+    64         43
+    65         69
+    67         39
+    68         34
+    69        434
+    70        543
+    71        565
+    72         39
+    77         30
+    78         47
+    81         39
+    82         78
+    83        356
+    84        221
+    85         30
+    92         39
+    93         39
+    94         39
+    97         47
+   106         60
+   109        108
+   111        104
+   112        365
+   113         47
+   122         47
+   123        134
+   124         26
+   139        273
+   140         39
+   221         30
+   251         65
+   252         26

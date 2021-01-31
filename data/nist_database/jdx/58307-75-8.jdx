@@ -1,0 +1,33 @@
+##TITLE=Library Entry 90247
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.RUCKER,INST. PHARM. CHEM. WESTF. WILHELMS-UNIV. MUNST
+ER GEd
+##NAMES=HP
+##CAS NAME=10-Hydroxy-2,2,9,9a-tetramethyl-1,2,5a,6,7,8,9,9a-octahydro-1,4-m
+ethano-3-benzoxepin-5(4H)-one
+##MOLFORM=C15H24O3
+##CAS REGISTRY NO=58307-75-8
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    55        470
+    67        280
+    69        310
+    81        420
+    83        260
+    85        230
+    95        560
+   109        250
+   110        390
+   113        999
+   121         60
+   139        140
+   149         80
+   167         30
+   237         80
+   252        300

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 11925
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=UNIVERSITY CHEMICAL LABORATORY, CAMBRIDGE, UK
+##NAMES=HP
+##CAS NAME=Butanoic acid, 2,2-dichloro-3-oxo-, ethyl ester
+##MOLFORM=C6H8Cl2O3
+##CAS REGISTRY NO=6134-66-3
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    42         40
+    43        999
+    44         70
+    45         40
+    62         20
+    73         20
+    76         30
+    94         30
+   110         50
+   112         30
+   114         10
+   122         40
+   124         20
+   126         40
+   128        210
+   130        140
+   132         20
+   155         20
+   156        180
+   158        100
+   160         20

@@ -1,0 +1,45 @@
+##TITLE=Library Entry 89006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyridine, 2-(octylthio)-
+##MOLFORM=C13H21NS
+##CAS REGISTRY NO=26891-70-3
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    29        114
+    32         85
+    39        142
+    41        185
+    43        285
+    51         42
+    55        142
+    56         71
+    57        200
+    67         71
+    69         85
+    71        114
+    78         85
+    79        128
+    80         85
+    83         71
+   110         71
+   111        999
+   112        228
+   113         71
+   124        178
+   125        142
+   138         57
+   167         57
+   176         85
+   180         42
+   190         71
+   223        357
+   224         85
+   225         42

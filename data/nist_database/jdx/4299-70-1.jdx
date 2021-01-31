@@ -1,0 +1,59 @@
+##TITLE=Library Entry 114762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=L-Tryptophan, methyl ester
+##MOLFORM=C12H14N2O2
+##CAS REGISTRY NO=4299-70-1
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    40         12
+    41         12
+    42         12
+    43         12
+    44         12
+    51         24
+    52         12
+    55         12
+    56         12
+    57         12
+    60         12
+    63         12
+    65         12
+    71         12
+    74         12
+    75         12
+    76         12
+    77         92
+    78         12
+    79         12
+    81         12
+    83         12
+    88         12
+    89         24
+    90         12
+   101         12
+   102         32
+   103         64
+   104         12
+   115         12
+   116         12
+   117         24
+   128         24
+   129         32
+   130        999
+   131         92
+   132         32
+   142         12
+   143         12
+   157         12
+   158         12
+   159         52
+   218         44

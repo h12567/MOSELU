@@ -1,0 +1,30 @@
+##TITLE=Library Entry 24907
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=tert-Butyl hydroperoxide, TMS derivative
+##MOLFORM=C7H18O2Si
+##CAS REGISTRY NO=3965-63-7
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    41        168
+    43        179
+    45         97
+    47         38
+    56        380
+    57        999
+    59        206
+    61        170
+    73        126
+    89        181
+    91         88
+   117          9
+   132         48
+   147          9
+   162        129

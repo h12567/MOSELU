@@ -1,0 +1,50 @@
+##TITLE=Library Entry 63275
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dmitri Zagorevskii, University of Missouri-Columbia, Co
+lumbia, MO
+##NAMES=HP
+##CAS NAME=Ethyl(benzyl)(2-methylbut-3-yn-2-yl)amine
+##MOLFORM=C14H19N
+##CAS REGISTRY NO=181814-50-6
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26          3
+    29          7
+    30         17
+    39         15
+    41         62
+    42         48
+    51         10
+    52          7
+    53          9
+    56         13
+    58         44
+    65         54
+    66         10
+    67         45
+    68          3
+    70         32
+    77         11
+    79         12
+    80         10
+    84          8
+    90          3
+    91        999
+    92         72
+    94         18
+   104          8
+   105          3
+   120         58
+   134          8
+   146          7
+   157          7
+   160         19
+   186        510
+   187         72
+   201         24

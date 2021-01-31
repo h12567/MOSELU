@@ -1,0 +1,81 @@
+##TITLE=Library Entry 37976
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Daly, M. Garraffo, T. Spande, LBC, NIDDK, NIH, Bethe
+sda, MD 20892
+##NAMES=HP
+##CAS NAME=(7R,8R,8aS,E)-6-((2R,6R,7R,E)-6,7-Dihydroxy-2,5-dimethyloct-4-en-
+1-ylidene)-8-methyloctahydroindolizine-7,8-diol
+##MOLFORM=C19H33NO4
+##CAS REGISTRY NO=92216-56-3
+##MP= -300
+##BP= -300
+##MW= 339
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    65         39
+    66         37
+    67        114
+    70        999
+    71         70
+    72         44
+    77         90
+    83        116
+    84         94
+    85         47
+    86         19
+    91         63
+    95        124
+    96        142
+    97         70
+    99         34
+   106         35
+   107        100
+   108         69
+   109        108
+   110         58
+   112         79
+   114        466
+   121         51
+   123        113
+   124         42
+   125         88
+   131         60
+   134         78
+   135         78
+   136         64
+   146         45
+   166        100
+   174         96
+   177         37
+   178         50
+   180         61
+   182        621
+   183        156
+   192        231
+   193         60
+   202         12
+   209        235
+   210        221
+   211         44
+   218         22
+   222        140
+   230         14
+   248         37
+   258         24
+   260         40
+   276        115
+   277         51
+   278         73
+   282         12
+   283         15
+   294         91
+   295         31
+   302         16
+   304         29
+   320         26
+   321         69
+   322         40
+   339         50

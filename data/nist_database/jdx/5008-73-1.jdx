@@ -1,0 +1,77 @@
+##TITLE=Library Entry 6619
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4003
+##NAMES=HP
+##CAS NAME=Propane, 1-[(1-methylethyl)thio]-
+##MOLFORM=C6H14S
+##CAS REGISTRY NO=5008-73-1
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=839
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14          2
+    15         16
+    26         10
+    27        214
+    28         36
+    29         29
+    32          9
+    33          2
+    34          4
+    35          8
+    36          1
+    37          5
+    38         11
+    39        138
+    40         19
+    41        427
+    42        543
+    43        999
+    44         35
+    45         72
+    46         57
+    47        314
+    48         22
+    49         17
+    50          1
+    53          1
+    55        132
+    56         12
+    57         10
+    58         19
+    59         55
+    60         33
+    61        379
+    62         13
+    63         17
+    66          2
+    69          3
+    71          6
+    72          1
+    73          8
+    74         32
+    75        125
+    76        312
+    77         72
+    78         16
+    79          3
+    85          1
+    87          1
+    89        245
+    90         14
+    91         11
+    98          1
+   100          1
+   103        499
+   104         34
+   105         24
+   106          1
+   117          3
+   118        510
+   119         41
+   120         26
+   121          1

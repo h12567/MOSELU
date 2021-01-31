@@ -1,0 +1,73 @@
+##TITLE=Library Entry 32666
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=2,2-Dichloro-N-(1,1-dimethylpropynyl)acetamide
+##MOLFORM=C7H9Cl2NO
+##CAS REGISTRY NO=39089-54-8
+##MP= -300
+##BP= -300
+##MW= 193
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 58
+##XYDATA=(XY..XY) 1 
+    40         44
+    41        401
+    42         83
+    43         23
+    44          7
+    47         13
+    48         36
+    49          6
+    50         37
+    51         96
+    52        100
+    53         15
+    54          7
+    55          6
+    56         10
+    58          8
+    63         15
+    64         21
+    65        123
+    66         79
+    67        999
+    68        453
+    69         24
+    76         17
+    78          9
+    79         18
+    80          8
+    82         33
+    83         87
+    84          7
+    85         77
+    87         11
+    88         12
+    94         15
+    95          5
+   108         22
+   110         63
+   114         20
+   115         22
+   117          6
+   123          6
+   129          6
+   130         19
+   135          8
+   142         17
+   143          6
+   157         73
+   158         69
+   159         33
+   160         21
+   161          7
+   178        231
+   179         20
+   180        151
+   182         14
+   192         21
+   193          8
+   195          7

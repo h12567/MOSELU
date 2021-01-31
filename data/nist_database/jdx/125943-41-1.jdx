@@ -1,0 +1,50 @@
+##TITLE=Library Entry 24026
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-Isopropyl-1-phenyl-5-chloropentylamine
+##MOLFORM=C14H22ClN
+##CAS REGISTRY NO=125943-41-1
+##MP= -300
+##BP= -300
+##MW= 239
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    39        191
+    40        453
+    41        660
+    42        272
+    43        878
+    44        280
+    45        128
+    46        342
+    53         69
+    55        542
+    56        271
+    57        999
+    58        539
+    59        271
+    65         70
+    69        251
+    70        179
+    71        251
+    72        252
+    81        220
+    83         69
+    84        149
+    95         69
+    97        149
+   102        191
+   112        250
+   113         70
+   118        209
+   119        272
+   127        541
+   128         99
+   135        100
+   172        190
+   186        100
+   187         89

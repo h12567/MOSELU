@@ -1,0 +1,57 @@
+##TITLE=Library Entry 80165
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=2-Butene-1,4-dione, 1,2,3,4-tetraphenyl-
+##MOLFORM=C28H20O2
+##CAS REGISTRY NO=7510-34-1
+##MP= -300
+##BP= -300
+##MW= 388
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    27          1
+    77        126
+    78          5
+   105        999
+   106         77
+   107          4
+   152          2
+   165          2
+   176          2
+   177          4
+   178         33
+   179          5
+   205          1
+   239          5
+   240          4
+   252          4
+   253          6
+   254          4
+   255         33
+   256          6
+   265          4
+   266          1
+   267          7
+   268          2
+   281          3
+   282          3
+   283         42
+   284          9
+   311          8
+   312          1
+   344          2
+   359          8
+   360         10
+   361          2
+   370          1
+   372          7
+   373          3
+   387          3
+   388         94
+   389         29
+   390          4

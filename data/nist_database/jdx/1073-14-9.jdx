@@ -1,0 +1,47 @@
+##TITLE=Library Entry 48790
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=4,4-Dimethylcyclohexadienone
+##MOLFORM=C8H10O
+##CAS REGISTRY NO=1073-14-9
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    27        119
+    39        157
+    40         38
+    41        108
+    50         68
+    51        134
+    52         79
+    53        134
+    55         48
+    56         88
+    65         37
+    66         38
+    67         58
+    68         32
+    77        452
+    78         90
+    79        999
+    80         65
+    81         45
+    84         80
+    91         99
+    93        108
+    94        344
+    95         36
+    96         30
+   106         18
+   107        138
+   108         17
+   121         28
+   122        441
+   123         42
+   124         20

@@ -1,0 +1,38 @@
+##TITLE=Library Entry 4388
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Ethyleniminoacetonitryl
+##MOLFORM=C4H6N2
+##CAS REGISTRY NO=30340-15-9
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    26         75
+    27        152
+    28        286
+    29         31
+    30         30
+    39         45
+    40        220
+    41        142
+    42        999
+    43         78
+    44         10
+    51         47
+    52         53
+    53         96
+    54         44
+    55        101
+    56          8
+    66         10
+    67        154
+    68         10
+    81         13
+    82        112
+    83         17

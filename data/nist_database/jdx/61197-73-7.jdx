@@ -1,0 +1,51 @@
+##TITLE=Library Entry 37177
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=Loprazolam
+##MOLFORM=C23H21ClN6O3
+##CAS REGISTRY NO=61197-73-7
+##MP= -300
+##BP= -300
+##MW= 464
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    42        311
+    43        206
+    56         68
+    70        999
+    71         91
+    85         90
+    98        139
+   112        108
+   125         95
+   138         99
+   151         14
+   163         11
+   188         22
+   190         40
+   216         25
+   217         34
+   232         40
+   233         21
+   252         41
+   254         28
+   298         34
+   299         45
+   315          9
+   327         30
+   351         13
+   353         18
+   366         19
+   380         26
+   381         49
+   394        107
+   396         55
+   434          8
+   449         41
+   464        253
+   466        141

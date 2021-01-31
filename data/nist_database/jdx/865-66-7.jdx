@@ -1,0 +1,44 @@
+##TITLE=Library Entry 24464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2-Pentanone, 3,3,4,4-tetramethyl-
+##MOLFORM=C9H18O
+##CAS REGISTRY NO=865-66-7
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    27         40
+    28        140
+    29        100
+    32         20
+    39         60
+    40         10
+    41        220
+    42         10
+    43        530
+    44         10
+    53         10
+    55         50
+    56         10
+    57        999
+    58         50
+    67         10
+    69         20
+    71        270
+    72         10
+    83         20
+    85         10
+    86        410
+    87         20
+    99        190
+   100         10
+   127         16
+   128          1
+   142          1

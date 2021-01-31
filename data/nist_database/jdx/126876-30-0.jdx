@@ -1,0 +1,72 @@
+##TITLE=Library Entry 42803
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=6-Ethyl-4,5,7,8-tetrathianonane
+##MOLFORM=C7H16S4
+##CAS REGISTRY NO=126876-30-0
+##MP= -300
+##BP= -300
+##MW= 228
+##$RETENTION INDEX=1647
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    27         21
+    29          6
+    35          1
+    38          2
+    39         45
+    40          5
+    41        152
+    42          9
+    43        164
+    44          8
+    45        130
+    46         27
+    47         52
+    48          5
+    49          4
+    57          4
+    58         15
+    59         19
+    60          4
+    61         13
+    64         35
+    65          6
+    66          6
+    71         19
+    72         13
+    73        999
+    74         88
+    75         61
+    76          7
+    77          6
+    78          6
+    79        174
+    80         15
+    81         18
+    90          1
+    97          5
+   103          3
+   105         38
+   106         11
+   107         67
+   109          7
+   111         28
+   112         15
+   114          2
+   120          4
+   121        336
+   122         21
+   123         30
+   149        667
+   150         53
+   151         61
+   152          4
+   153          2
+   154         14
+   228          6
+   229          1
+   230          1

@@ -1,0 +1,78 @@
+##TITLE=Library Entry 5008
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=3-[4-Chlorophenyl]-6-[1-pyrrolidinyl]-1,2,4,5-tetrazine
+##MOLFORM=C12H12ClN5
+##CAS REGISTRY NO=67766-74-9
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    42        999
+    43        212
+    44          6
+    45          1
+    47          6
+    49         30
+    50         49
+    51         58
+    53         87
+    54          4
+    55        126
+    56         31
+    57          3
+    60          4
+    61          6
+    62         14
+    63          9
+    64          5
+    66          6
+    67         32
+    68        108
+    69         36
+    70          7
+    71          4
+    73         22
+    74          6
+    75         98
+    76         40
+    77          1
+    78         18
+    79          1
+    81          5
+    84         22
+    85          7
+    86         19
+    87          7
+    88          6
+    93          5
+    95        139
+    96        663
+    97         33
+    98         60
+    99          9
+   100         13
+   102        141
+   103          9
+   109          2
+   110          8
+   111         21
+   112          4
+   113          8
+   123          1
+   125          1
+   137        163
+   139        102
+   140          8
+   141         13
+   170          1
+   261        129
+   262         18
+   263         36
+   264          5

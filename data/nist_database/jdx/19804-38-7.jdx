@@ -1,0 +1,42 @@
+##TITLE=Library Entry 51948
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS, V. A. KOPTY
+UG, ED.
+##NAMES=HP
+##CAS NAME=2-Pyrazoline, 1-allyl-
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=19804-38-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    29         32
+    30         36
+    38         27
+    39        257
+    40         49
+    41        500
+    42        266
+    43         43
+    44         33
+    52         19
+    53         16
+    54        158
+    55        191
+    56         83
+    57         75
+    67         67
+    68        100
+    69        200
+    70         18
+    81        100
+    82         92
+    83        999
+    84         42
+   109        175
+   110        415
+   111         33

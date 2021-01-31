@@ -1,0 +1,60 @@
+##TITLE=Library Entry 78411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Silane, triethylfluoro-
+##MOLFORM=C6H15FSi
+##CAS REGISTRY NO=358-43-0
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    33          5
+    37          0
+    39          7
+    40          6
+    41          4
+    42          2
+    43          5
+    44          5
+    47        238
+    49        208
+    50          7
+    51          5
+    53          4
+    55          5
+    56          1
+    57          3
+    58          2
+    59          1
+    61          6
+    62         25
+    63         44
+    64          3
+    65          1
+    72          3
+    73          9
+    75         66
+    77        978
+    78         53
+    79         28
+    85          0
+    87         11
+    89          2
+    90          1
+    91          2
+   101          1
+   105        999
+   106         70
+   107         30
+   108          1
+   115          3
+   116          0
+   134        178
+   135         17
+   136          5
+   137          0

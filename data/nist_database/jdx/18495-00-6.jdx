@@ -1,0 +1,63 @@
+##TITLE=Library Entry 90915
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Phenoxyacetylmorpholine
+##MOLFORM=C12H15NO3
+##CAS REGISTRY NO=18495-00-6
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    38         54
+    39        240
+    40         71
+    41        123
+    42        548
+    43        160
+    44         51
+    45         72
+    50         93
+    51        327
+    52         35
+    53         20
+    54         91
+    55        141
+    56        542
+    57         94
+    58         41
+    62         19
+    63         62
+    64         29
+    65        199
+    66         38
+    70        893
+    71         44
+    72         23
+    74         21
+    76         49
+    77        814
+    78         81
+    79        131
+    85         35
+    86        214
+    87         45
+    93         22
+    94         58
+    99         64
+   100        379
+   101         22
+   105         35
+   107        261
+   108         22
+   114        999
+   115         59
+   127         35
+   128        493
+   129         35
+   221        348
+   222         38

@@ -1,0 +1,28 @@
+##TITLE=Library Entry 67220
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Vinyl-imidazole
+##MOLFORM=C5H6N2
+##CAS REGISTRY NO=3718-04-5
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    37         30
+    38         73
+    39        273
+    40        152
+    41        225
+    52         30
+    54         42
+    66        110
+    67        111
+    68         86
+    93        349
+    94        999
+    95         58

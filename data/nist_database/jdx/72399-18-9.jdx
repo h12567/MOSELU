@@ -1,0 +1,53 @@
+##TITLE=Library Entry 60174
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.S. KING, CHEM. PATHOL. DEP., QUEEN CHARLOTTE'S HOSP.,
+ LONDON
+##NAMES=HP
+##CAS NAME=Benzyloxymethylimine
+##MOLFORM=C8H9NO
+##CAS REGISTRY NO=72399-18-9
+##MP= -300
+##BP= -300
+##MW= 135
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    40         52
+    41         84
+    42          8
+    43         20
+    44         40
+    45         16
+    47         20
+    49          8
+    50         32
+    51         84
+    52         20
+    53          8
+    57          8
+    62          8
+    63         20
+    65        100
+    66         12
+    69         12
+    73         72
+    74         16
+    75         60
+    76         16
+    77        176
+    78         24
+    79         32
+    81         12
+    85         12
+    89         16
+    90          8
+    91        999
+    92         88
+    93          8
+   105         60
+   106         28
+   107         12
+   108         12
+   135          8

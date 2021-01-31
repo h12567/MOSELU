@@ -1,0 +1,64 @@
+##TITLE=Library Entry 30917
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=2,5,6-Trimethyl-1,3-oxathiane
+##MOLFORM=C7H14OS
+##CAS REGISTRY NO=114376-06-6
+##MP= -300
+##BP= -300
+##MW= 146
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    50          6
+    51         13
+    52          8
+    53         73
+    54         89
+    55        333
+    56        556
+    57         62
+    58         31
+    59        133
+    60        999
+    61        178
+    62         53
+    63          9
+    65         10
+    66          7
+    67         78
+    68        444
+    69        556
+    70         44
+    71          9
+    72          4
+    73         89
+    74        133
+    75         18
+    76          7
+    77          2
+    81          4
+    83          6
+    85         11
+    86          3
+    87        267
+    88         22
+    89         16
+    90          2
+    91          7
+   101          9
+   102        333
+   103         44
+   104         22
+   105          3
+   131         44
+   132          4
+   133          4
+   145          5
+   146        222
+   147         22
+   148         16
+   149          9

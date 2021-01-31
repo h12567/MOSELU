@@ -1,0 +1,45 @@
+##TITLE=Library Entry 9125
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Isopropoxy-2-carbaminoaziridine
+##MOLFORM=C6H12N2O2
+##CAS REGISTRY NO=60999-62-4
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    15        235
+    16         27
+    18        378
+    19         11
+    27        322
+    28        126
+    29         87
+    30        257
+    31         32
+    41        525
+    42        235
+    43        999
+    44        334
+    45         49
+    46         11
+    55        284
+    56         17
+    59        215
+    60         17
+    72        552
+    73         27
+    85        143
+    86         54
+    87          9
+   102         60
+   103          8
+   127         22
+   128          5
+   144         54
+   145          7

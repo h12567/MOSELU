@@ -1,0 +1,55 @@
+##TITLE=Library Entry 5562
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Holm ET AL,Acta Chem. Scand.26,205(1972)
+##NAMES=HP
+##CAS NAME=S-(Buthoxythiocarbonyl)thiohydroxylamine
+##MOLFORM=C5H11NOS2
+##CAS REGISTRY NO=35659-81-5
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    29        679
+    30         12
+    31        123
+    32        115
+    33         12
+    34         26
+    36         16
+    37         12
+    38         30
+    39        160
+    40         18
+    41        676
+    42         65
+    43        999
+    44         53
+    45         18
+    46          8
+    47         20
+    48         59
+    49        395
+    50         12
+    51         12
+    53         12
+    54          8
+    55         90
+    56        218
+    57        469
+    58        351
+    59          6
+    60         88
+    62          6
+    64         10
+    72          8
+    76        160
+    77          8
+    78         14
+    88          6
+    90          2
+    92         18
+   165         12

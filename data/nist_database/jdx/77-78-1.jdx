@@ -1,0 +1,52 @@
+##TITLE=Library Entry 67583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Sulfuric acid, dimethyl ester
+##MOLFORM=C2H6O4S
+##CAS REGISTRY NO=77-78-1
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=853
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    12          5
+    13          7
+    14         49
+    15        358
+    16          9
+    17          0
+    18          5
+    19          4
+    28         23
+    29        516
+    30        124
+    31        663
+    32        488
+    33         52
+    45        286
+    46          9
+    48        102
+    49         19
+    50         28
+    61         20
+    64         64
+    65        120
+    66        275
+    67          8
+    68         14
+    78         64
+    79        138
+    80         13
+    81         20
+    95        999
+    96        551
+    97         73
+    98         26
+   125         60
+   126         40
+   127          8
+   128          4

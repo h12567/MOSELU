@@ -1,0 +1,24 @@
+##TITLE=Library Entry 425
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H.M.B.BALLSCHMIETER NAT. FOOD RES. INST., PRETORIA, S A
+FRIC
+##NAMES=HP
+##CAS NAME=Formaldehyde
+##MOLFORM=CH2O
+##CAS REGISTRY NO=50-00-0
+##MP= -300
+##BP= -300
+##MW= 30
+##$RETENTION INDEX=267
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         10
+    14         10
+    15         20
+    28        240
+    29        999
+    30        580
+    31          5

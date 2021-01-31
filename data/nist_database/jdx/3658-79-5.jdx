@@ -1,0 +1,44 @@
+##TITLE=Library Entry 76347
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentane, 1,1-diethoxy-
+##MOLFORM=C9H20O2
+##CAS REGISTRY NO=3658-79-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=1016
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27        172
+    28        135
+    29        451
+    30         26
+    31        220
+    41        266
+    42         45
+    43        166
+    44        132
+    45        183
+    46         55
+    47        623
+    55         57
+    57        732
+    58         67
+    59         57
+    69        671
+    70         45
+    71         26
+    72         29
+    75        479
+    85        338
+    86         24
+    87        176
+   103        999
+   114         96
+   115        557
+   131          5
+   159          6

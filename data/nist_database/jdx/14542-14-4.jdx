@@ -1,0 +1,36 @@
+##TITLE=Library Entry 91623
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M.A.FRIEDMAN FAC. SCI. ST-JEROME, MARSEILLE, FRANCE
+##NAMES=HP
+##CAS NAME=Thiazole, 5-methoxy-
+##MOLFORM=C4H5NOS
+##CAS REGISTRY NO=14542-14-4
+##MP= -300
+##BP= -300
+##MW= 115
+##$RETENTION INDEX=944
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         20
+    27         30
+    28        150
+    29         50
+    31         50
+    39         40
+    40         90
+    44         60
+    45        820
+    47         40
+    57        120
+    58        170
+    59         30
+    72        100
+    73        110
+    85         60
+    88        130
+   100         90
+   115        999
+   116         90
+   117         70

@@ -1,0 +1,40 @@
+##TITLE=Library Entry 48073
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.R.BAROT UNIV. OF SURREY, GUILDFORD, SURREY, UK
+##NAMES=HP
+##CAS NAME=Pyrazinamine, 3,4,5,6-tetrahydro-6-imino-N-phenyl-4-(phenylmethyl
+)-
+##MOLFORM=C17H18N4
+##CAS REGISTRY NO=35975-23-6
+##MP= -300
+##BP= -300
+##MW= 278
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    42        160
+    50        240
+    51        310
+    52        230
+    63        100
+    65         80
+    66         80
+    76         80
+    77        140
+    78        999
+    79        110
+    84         30
+    91        220
+    92         40
+    93        180
+   118         80
+   119         30
+   133         20
+   159         40
+   160         10
+   187         80
+   188         10
+   278        130
+   279         35

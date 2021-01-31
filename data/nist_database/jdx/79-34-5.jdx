@@ -1,0 +1,68 @@
+##TITLE=Library Entry 52870
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Ethane, 1,1,2,2-tetrachloro-
+##MOLFORM=C2H2Cl4
+##CAS REGISTRY NO=79-34-5
+##MP= -300
+##BP= -300
+##MW= 166
+##$RETENTION INDEX=916
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    13          1
+    24          3
+    25         23
+    26         58
+    27          1
+    35         55
+    36         10
+    37         19
+    38          3
+    47         49
+    48         40
+    49         22
+    50         12
+    51          1
+    59         16
+    60        133
+    61        129
+    62         45
+    63         41
+    65          1
+    66          1
+    70          6
+    72          4
+    83        999
+    84         17
+    85        644
+    86          8
+    87        105
+    88          1
+    94         16
+    95        169
+    96        114
+    97        111
+    98         68
+    99         18
+   100         10
+   129          5
+   130         33
+   131        126
+   132         34
+   133        111
+   134         12
+   135         35
+   136          1
+   137          3
+   165          1
+   166         74
+   167          3
+   168         94
+   169          2
+   170         45
+   171          1
+   172          9

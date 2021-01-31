@@ -1,0 +1,66 @@
+##TITLE=Library Entry 89100
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Diazene, bis(4-chlorophenyl)-, 1-oxide
+##MOLFORM=C12H8Cl2N2O
+##CAS REGISTRY NO=614-26-6
+##MP= -300
+##BP= -300
+##MW= 266
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    39         34
+    50         75
+    51         49
+    62         33
+    63        114
+    64         43
+    73         33
+    74         48
+    75        277
+    76         68
+    85         37
+    89         61
+    90        227
+    91         21
+    98         33
+    99        152
+   101         54
+   111        999
+   112         84
+   113        325
+   114         29
+   125        527
+   126         66
+   127        244
+   128         30
+   129         26
+   138         29
+   139        220
+   140         38
+   141        107
+   156         24
+   168         89
+   169         20
+   175         57
+   201         20
+   202         84
+   203        132
+   204         43
+   205         43
+   237         46
+   238         16
+   239         33
+   250         44
+   251          8
+   252         28
+   265         65
+   266        876
+   267        180
+   268        568
+   269         95
+   270        107

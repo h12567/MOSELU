@@ -1,0 +1,55 @@
+##TITLE=Library Entry 78666
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-2776
+##NAMES=HP
+##CAS NAME=Ethanone, 2-hydroxy-1-phenyl-
+##MOLFORM=C8H8O2
+##CAS REGISTRY NO=582-24-1
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=1767
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    18          2
+    26          2
+    27         12
+    28          9
+    29         12
+    30          2
+    31         31
+    37          4
+    38          7
+    39         12
+    42          1
+    43          1
+    49          3
+    50         43
+    51        160
+    52         12
+    53          2
+    58          1
+    61          2
+    62          4
+    63          6
+    64          1
+    65          3
+    73          2
+    74         10
+    75          9
+    76         16
+    77        602
+    78         44
+    79         10
+    89          2
+    90          1
+    91          4
+   104          3
+   105        999
+   106         78
+   107          6
+   120          1
+   136         59
+   137          5

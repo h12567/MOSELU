@@ -1,0 +1,75 @@
+##TITLE=Library Entry 34251
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=N,N-Dimethylcyclopropanecarboxamide
+##MOLFORM=C6H11NO
+##CAS REGISTRY NO=17696-23-0
+##MP= -300
+##BP= -300
+##MW= 113
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+     4          0
+    12          2
+    13          3
+    14         15
+    15        100
+    16          4
+    17          0
+    18         40
+    26         42
+    27        294
+    28        228
+    29        321
+    30         80
+    31          4
+    37         11
+    39        377
+    40         78
+    41        755
+    42        215
+    43         37
+    44        220
+    45          8
+    51          4
+    52          9
+    53         12
+    54         25
+    55         90
+    56        125
+    57          4
+    58        671
+    59         26
+    65          2
+    66          4
+    67         10
+    68          2
+    69        999
+    70        102
+    71         31
+    72        242
+    73         19
+    74          2
+    80          3
+    81          7
+    82          7
+    83          7
+    84         55
+    85         17
+    86          6
+    87          8
+    95          2
+    96          6
+    98        122
+    99         30
+   100         28
+   101          2
+   108          2
+   110          1
+   112         56
+   113         39
+   114          3

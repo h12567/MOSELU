@@ -1,0 +1,40 @@
+##TITLE=Library Entry 19703
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.F.CASALS, LAB. PHYSCHIM. PHOTOCHIM. ORG., UNIV. DU MA
+NS, FR.
+##NAMES=HP
+##CAS NAME=2,6,10,14-Heptadecanetetrone
+##MOLFORM=C17H28O4
+##CAS REGISTRY NO=55110-16-2
+##MP= -300
+##BP= -300
+##MW= 296
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    43        960
+    55        999
+    58        100
+    71        750
+    83        200
+    85        320
+    95        240
+    97        480
+    99        200
+   113        670
+   123        280
+   125        300
+   137        120
+   141        560
+   165        360
+   169        120
+   177        120
+   180         50
+   183        180
+   193        440
+   211        160
+   235        160
+   278        380
+   296         10

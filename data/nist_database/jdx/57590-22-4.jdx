@@ -1,0 +1,27 @@
+##TITLE=Library Entry 55047
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H. PYYSALO, FOOD. RES. LAB., TECH. RES. CENT., ESPOO, F
+INLAN
+##NAMES=HP
+##CAS NAME=n-Hexanal N-methyl-N-formylhydrazone
+##MOLFORM=C8H16N2O
+##CAS REGISTRY NO=57590-22-4
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    43        680
+    55        250
+    59        780
+    60        410
+    71        200
+    85        999
+    98        540
+   100        570
+   113        100
+   127         30
+   156        120

@@ -1,0 +1,67 @@
+##TITLE=Library Entry 53253
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=5-(3-Hydroxy-3,4,4-trimethylpentyn-1-yl)-2-pyridinecarboxylic aci
+d
+##MOLFORM=C14H17NO3
+##CAS REGISTRY NO=17880-59-0
+##MP= -300
+##BP= -300
+##MW= 247
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    50         25
+    51         48
+    52         50
+    56         20
+    57        354
+    58         30
+    64         25
+    65         60
+    76        255
+    77        355
+    78        160
+    79        284
+    80         40
+    83        999
+    84         50
+    85        645
+    86         55
+    91         95
+    92         50
+    93        135
+   102        120
+   103        404
+   104        300
+   105         85
+   115         60
+   116         45
+   117        127
+   118         40
+   119         85
+   129         75
+   130        215
+   131         20
+   143         50
+   144         86
+   145        984
+   146        642
+   147         85
+   148         10
+   157         85
+   172         20
+   173        955
+   174        124
+   190        438
+   191        599
+   192         75
+   200         55
+   201         94
+   202         10
+   203         35
+   229         30
+   247          4

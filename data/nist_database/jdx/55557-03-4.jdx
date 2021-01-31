@@ -1,0 +1,90 @@
+##TITLE=Library Entry 90208
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=2-Piperidineacetic acid, 1-nitroso-.alpha.-phenyl-, methyl ester
+##MOLFORM=C14H18N2O3
+##CAS REGISTRY NO=55557-03-4
+##MP= -300
+##BP= -300
+##MW= 262
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 74
+##XYDATA=(XY..XY) 1 
+    30         32
+    39         50
+    40          9
+    41         62
+    42         38
+    43         15
+    50         13
+    51         35
+    52         11
+    53         15
+    54         41
+    55        227
+    56         25
+    59         18
+    62          8
+    63         30
+    64         11
+    65         35
+    67          7
+    68          9
+    76          7
+    77         93
+    78         26
+    79         14
+    80          6
+    82         59
+    83        634
+    84         59
+    89         59
+    90         75
+    91        183
+    92         18
+    97          9
+   102         12
+   103         30
+   104         11
+   105         24
+   106          7
+   113        999
+   114         72
+   115         64
+   116         27
+   117         50
+   118         49
+   119          8
+   121        326
+   122         28
+   128         18
+   129         27
+   130         40
+   131         13
+   143          9
+   144         20
+   145          5
+   149        163
+   150         41
+   151          4
+   155          4
+   156          5
+   157          5
+   158          4
+   170          9
+   172         77
+   173         42
+   174          5
+   200          5
+   201         27
+   202          4
+   216          2
+   230          3
+   231         25
+   232        126
+   233         19
+   262          4

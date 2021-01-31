@@ -1,0 +1,29 @@
+##TITLE=Library Entry 109221
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.BAUER UNIV. OF ILLINOIS, CHICAGO, ILLINOIS, USA
+##NAMES=HP
+##CAS NAME=2-Picoline, 6-(tert-butylthio)-
+##MOLFORM=C10H15NS
+##CAS REGISTRY NO=18794-43-9
+##MP= -300
+##BP= -300
+##MW= 181
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    29         80
+    39        140
+    41        110
+    57        120
+    65         70
+    80         80
+    81        440
+    92         60
+   125        999
+   126        120
+   127         50
+   166         10
+   181         70
+   182         10

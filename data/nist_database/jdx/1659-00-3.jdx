@@ -1,0 +1,22 @@
+##TITLE=Library Entry 3981
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Allyl o-nitrophenyl sulfoxide
+##MOLFORM=C9H9NO3S
+##CAS REGISTRY NO=1659-00-3
+##MP= -300
+##BP= -300
+##MW= 211
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 7
+##XYDATA=(XY..XY) 1 
+    41        999
+    91         99
+   117         69
+   118        120
+   130         79
+   146         39
+   211         29

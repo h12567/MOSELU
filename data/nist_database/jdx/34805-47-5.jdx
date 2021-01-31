@@ -1,0 +1,77 @@
+##TITLE=Library Entry 20420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(2)257(1974); NIBBERZNG
+##NAMES=HP
+##CAS NAME=Pentanoic acid, 5-nitro-, methyl ester
+##MOLFORM=C6H11NO4
+##CAS REGISTRY NO=34805-47-5
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    26         50
+    27        260
+    28        290
+    29        300
+    30        140
+    31         40
+    32         10
+    33         20
+    37         10
+    38         10
+    39        190
+    40         30
+    41        370
+    42        120
+    43        220
+    44         30
+    45         90
+    46         20
+    50         10
+    51         10
+    52         10
+    53         70
+    54         80
+    55        999
+    56        100
+    57        100
+    58         10
+    59        480
+    60         50
+    61         30
+    66         10
+    67         10
+    68         40
+    69         20
+    70         20
+    71        140
+    72         30
+    73        570
+    74         50
+    75         10
+    81         20
+    82         20
+    83        290
+    84         30
+    85         10
+    86         10
+    87         30
+    88         10
+    96         30
+    97         10
+    99         10
+   101         10
+   102        150
+   103         10
+   112         10
+   113         10
+   114         20
+   115        120
+   116         10
+   129         10
+   130        310
+   131         20

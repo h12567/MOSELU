@@ -1,0 +1,49 @@
+##TITLE=Library Entry 21068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cycloheptane, methyl-
+##MOLFORM=C8H16
+##CAS REGISTRY NO=4126-78-7
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=869
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    26         32
+    27        223
+    28        140
+    29        149
+    39        448
+    40        116
+    41        756
+    42        346
+    43        159
+    50         30
+    51         61
+    52         27
+    53        151
+    55        999
+    56        457
+    57         73
+    63         18
+    65         42
+    66         23
+    67        138
+    68        137
+    69        391
+    70        271
+    71         32
+    77         32
+    79         32
+    81         35
+    82        164
+    83        390
+    84        184
+    96        172
+    97        975
+    98         74
+   112        137

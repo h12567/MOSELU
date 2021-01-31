@@ -1,0 +1,47 @@
+##TITLE=Library Entry 63692
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.I. COHEN, 38 MODABER AVE., TEHRAN, IRA
+##NAMES=HP
+##CAS NAME=Ethaneselenoamide, N-(4-methylphenyl)-
+##MOLFORM=C9H11NSe
+##CAS REGISTRY NO=62448-81-1
+##MP= -300
+##BP= -300
+##MW= 213
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    39        110
+    42        260
+    51         80
+    63         90
+    65        320
+    77        150
+    79         90
+    89        100
+    91        999
+    92        280
+   106        540
+   107        330
+   117         60
+   118         50
+   127         50
+   128        110
+   131         70
+   132        670
+   133         80
+   168         70
+   169        100
+   170        160
+   171         80
+   172        320
+   174         60
+   209        190
+   210        210
+   211        420
+   212        180
+   213        830
+   214        120
+   215        160

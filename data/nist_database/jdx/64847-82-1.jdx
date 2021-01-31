@@ -1,0 +1,49 @@
+##TITLE=Library Entry 7406
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Cyclohexylmethane-1,1-diol diacetate
+##MOLFORM=C11H18O4
+##CAS REGISTRY NO=64847-82-1
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    39         49
+    41        119
+    42         30
+    43        999
+    44         40
+    53         19
+    54         19
+    55        190
+    56         19
+    57         20
+    67         49
+    69         40
+    70         19
+    71         59
+    79         30
+    81         19
+    82         29
+    83        149
+    84         19
+    85         20
+    89         10
+    93         10
+    94         39
+    95        160
+    96         20
+    97          9
+   103         80
+   111        100
+   112         60
+   126        149
+   127         10
+   131         20
+   154          9
+   155         40

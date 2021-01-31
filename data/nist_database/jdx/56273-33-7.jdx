@@ -1,0 +1,55 @@
+##TITLE=Library Entry 11442
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Hexane, 1-[(1-methylethyl)thio]-
+##MOLFORM=C9H20S
+##CAS REGISTRY NO=56273-33-7
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=1132
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        119
+    40        139
+    41        459
+    42        190
+    43        999
+    44         30
+    45         40
+    46         10
+    47        220
+    48         10
+    49         10
+    55        489
+    56        420
+    57         40
+    59         50
+    60         80
+    61         90
+    69        119
+    74         30
+    75        270
+    76        270
+    77         80
+    83        270
+    84        190
+    85         10
+    87         40
+    89        289
+    90         10
+   103         10
+   116         20
+   117        769
+   118         60
+   119         30
+   131         10
+   145        119
+   146         10
+   160        339
+   161         30
+   162         20

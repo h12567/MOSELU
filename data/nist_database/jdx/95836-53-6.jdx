@@ -1,0 +1,61 @@
+##TITLE=Library Entry 48585
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH ALDRICH 12451-6
+##NAMES=HP
+##CAS NAME=Pyridine, 1-(2-hydrazino-2-oxoethyl)-
+##MOLFORM=C7H9N3O
+##CAS REGISTRY NO=95836-53-6
+##MP= -300
+##BP= -300
+##MW= 151
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    13         13
+    14         70
+    15        142
+    16         46
+    17         13
+    25         16
+    26        142
+    27        149
+    28        251
+    29        101
+    30        214
+    31         67
+    32        170
+    39         27
+    40         54
+    41         90
+    42        123
+    43        256
+    44        143
+    45          9
+    49         53
+    50        198
+    51        315
+    52        713
+    53        136
+    54         12
+    59          6
+    63          6
+    65         57
+    66         76
+    67         45
+    72         79
+    75         31
+    76         26
+    78        175
+    79        999
+    80        183
+    92         38
+    93        437
+    94         86
+    95          5
+   120        128
+   121         15
+   151        152
+   152         50
+   153         33

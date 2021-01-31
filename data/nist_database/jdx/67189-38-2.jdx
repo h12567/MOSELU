@@ -1,0 +1,31 @@
+##TITLE=Library Entry 98006
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Thiazolidine, 5-methyl-2-phenyl-
+##MOLFORM=C10H13NS
+##CAS REGISTRY NO=67189-38-2
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        101
+    51        141
+    59         99
+    74         91
+    77        178
+    91        448
+   102         99
+   104        210
+   105         50
+   106        369
+   118        999
+   119        269
+   121        110
+   122         20
+   146        119
+   179        320

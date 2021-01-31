@@ -1,0 +1,55 @@
+##TITLE=Library Entry 5726
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, Petrochem. Synth. Inst., Moscow
+##NAMES=HP
+##CAS NAME=Acetic acid, dichloro-, propyl ester
+##MOLFORM=C5H8Cl2O2
+##CAS REGISTRY NO=37587-81-8
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=975
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    26         12
+    27        149
+    28         24
+    29         39
+    30          7
+    31         15
+    35          9
+    36         19
+    37          7
+    38         15
+    39         69
+    40         10
+    41        269
+    42         81
+    43        999
+    44         32
+    45          6
+    47         18
+    48         49
+    49         10
+    50         28
+    51         28
+    52         41
+    53          5
+    57         12
+    59         10
+    76         58
+    78         21
+    79         55
+    82          5
+    83        126
+    84          3
+    85         98
+    87         10
+   111         32
+   113         28
+   115         10
+   141         10
+   143          6
+   145          1

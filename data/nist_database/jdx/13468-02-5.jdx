@@ -1,0 +1,42 @@
+##TITLE=Library Entry 29163
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN, W.
+ GERMA
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-2-phenoxyethylamine
+##MOLFORM=C10H15NO
+##CAS REGISTRY NO=13468-02-5
+##MP= -300
+##BP= -300
+##MW= 165
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    30         27
+    38          5
+    39         27
+    40          5
+    41          7
+    42         76
+    43         28
+    44         76
+    50          7
+    51         24
+    56         27
+    57         18
+    58        999
+    59         39
+    63          6
+    65         19
+    66          7
+    70         11
+    71         20
+    72         25
+    77         34
+    91          7
+    94         14
+   164         21
+   165         83
+   166         10

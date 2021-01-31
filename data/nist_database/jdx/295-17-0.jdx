@@ -1,0 +1,77 @@
+##TITLE=Library Entry 19234
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Cyclotetradecane
+##MOLFORM=C14H28
+##CAS REGISTRY NO=295-17-0
+##MP= -300
+##BP= -300
+##MW= 196
+##$RETENTION INDEX=1673
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    14         17
+    16          8
+    27        109
+    28         26
+    29        192
+    39        203
+    41        831
+    42        255
+    43        335
+    44         17
+    51         11
+    53        102
+    54        139
+    55        999
+    56        455
+    57        365
+    58         15
+    65         22
+    66         23
+    67        198
+    68        250
+    69        732
+    70        415
+    71        155
+    72          8
+    77         16
+    78          4
+    79         24
+    80          4
+    81         97
+    82        321
+    83        615
+    84        238
+    85         83
+    86          4
+    91          4
+    95         30
+    96        144
+    97        435
+    98        133
+    99         16
+   109          8
+   110         58
+   111        222
+   112         79
+   113         10
+   123          4
+   124         33
+   125         98
+   126         47
+   127          6
+   138         17
+   139         30
+   140         24
+   152          6
+   153         16
+   154         10
+   167          6
+   168         45
+   169          5
+   196         87
+   197         14

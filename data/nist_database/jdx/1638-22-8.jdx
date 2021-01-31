@@ -1,0 +1,75 @@
+##TITLE=Library Entry 84314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4015
+##NAMES=HP
+##CAS NAME=Phenol, 4-butyl-
+##MOLFORM=C10H14O
+##CAS REGISTRY NO=1638-22-8
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1362
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    15          1
+    26          2
+    27         26
+    28          2
+    29          7
+    37          1
+    38          3
+    39         30
+    40          4
+    41         12
+    42          1
+    43          5
+    50          6
+    51         19
+    52          9
+    53         13
+    54          1
+    55          9
+    61          1
+    62          3
+    63          9
+    64          3
+    65         17
+    66          5
+    67          1
+    74          1
+    75          1
+    76          1
+    77         71
+    78         20
+    79         11
+    80          1
+    81          4
+    89          3
+    90          2
+    91         15
+    92          2
+    93          4
+    94         12
+    95          3
+   102          1
+   103          6
+   104          1
+   105          3
+   106          3
+   107        999
+   108        100
+   109          6
+   115          2
+   119          3
+   120          8
+   121         11
+   122          2
+   131          1
+   133          3
+   135          1
+   149          1
+   150        182
+   151         23
+   152          1

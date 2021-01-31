@@ -1,0 +1,44 @@
+##TITLE=Library Entry 66673
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dennis Rohrbaugh, CBDCOM/ERDEC, Edgewood, MD
+##NAMES=HP
+##CAS NAME=O,O,O-Trimethyl thiophosphate
+##MOLFORM=C3H9O3PS
+##CAS REGISTRY NO=152-18-1
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    29         59
+    31         59
+    45         30
+    46         14
+    47        219
+    48         15
+    49         14
+    62         29
+    63        222
+    64         23
+    65          9
+    77         19
+    79        118
+    80         18
+    93        999
+    94         39
+    95         14
+   109         49
+   110         14
+   111         14
+   124          9
+   125        150
+   126        297
+   127         14
+   128         14
+   141         14
+   156        510
+   157         30
+   158         29

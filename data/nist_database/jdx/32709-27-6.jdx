@@ -1,0 +1,38 @@
+##TITLE=Library Entry 38088
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=O6-4691C
+##NAMES=HP
+##CAS NAME=Pyrimido[5,4-e]-1,2,4-triazin-7-amine, N,N,3-trimethyl-5-(trifluo
+romethyl)-
+##MOLFORM=C9H9F3N6
+##CAS REGISTRY NO=32709-27-6
+##MP= -300
+##BP= -300
+##MW= 258
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    40         42
+    41         68
+    42        148
+    43         68
+    44         29
+    55         51
+    56         42
+    57         53
+    67         42
+    69        229
+    70        999
+    71         59
+    94         42
+   100         51
+   105         34
+   115         42
+   189         59
+   215        183
+   216         34
+   230        361
+   231         51
+   258         80

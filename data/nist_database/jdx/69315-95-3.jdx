@@ -1,0 +1,54 @@
+##TITLE=Library Entry 39414
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV, 61(8)3062(1978); B. SCHOLL ET AL
+##NAMES=HP
+##CAS NAME=1H-1,4-Diazepine-5,7(2H,6H)-dione, 3-(dimethylamino)-6-ethyl-2,2-
+dimethyl-6-phenyl-
+##MOLFORM=C17H23N3O2
+##CAS REGISTRY NO=69315-95-3
+##MP= -300
+##BP= -300
+##MW= 301
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    39        130
+    41        170
+    42        220
+    43        100
+    44        250
+    45        120
+    49        130
+    51        120
+    55         60
+    56        120
+    57         90
+    58        120
+    63         70
+    68         60
+    69         70
+    70        120
+    71        999
+    77        130
+    78         70
+    84        220
+    86         90
+    89         80
+    91        180
+    99         90
+   103        290
+   113        220
+   115        120
+   116         80
+   117        370
+   118        200
+   141         60
+   146        930
+   156        680
+   188         90
+   203        230
+   258         20
+   273         40
+   301         80

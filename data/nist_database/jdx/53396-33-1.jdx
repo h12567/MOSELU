@@ -1,0 +1,53 @@
+##TITLE=Library Entry 30027
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Hexadecyl formamide
+##MOLFORM=C17H35NO
+##CAS REGISTRY NO=53396-33-1
+##MP= -300
+##BP= -300
+##MW= 269
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    29        199
+    30        378
+    39         71
+    40         69
+    41        622
+    42        157
+    43        549
+    44        149
+    45         51
+    46        400
+    54         95
+    55        518
+    56        261
+    57        331
+    58        926
+    59        999
+    60         93
+    67         85
+    69        346
+    70        126
+    71        124
+    72        433
+    73        218
+    83        230
+    84         93
+    86        231
+    87        160
+    97        142
+   100        833
+   101        166
+   114        518
+   115         92
+   128        175
+   142        121
+   156         90
+   226         54
+   240         70
+   268         66

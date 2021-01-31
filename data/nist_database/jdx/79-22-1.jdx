@@ -1,0 +1,53 @@
+##TITLE=Library Entry 29524
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW- 865
+##NAMES=HP
+##CAS NAME=Methyl chloroformate
+##MOLFORM=C2H3ClO2
+##CAS REGISTRY NO=79-22-1
+##MP= -300
+##BP= -300
+##MW= 94
+##$RETENTION INDEX=576
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          4
+    14         17
+    15        444
+    16          5
+    27          2
+    28         63
+    29         29
+    30         23
+    31         69
+    35         46
+    36         17
+    37         14
+    38          5
+    39          7
+    41          2
+    43          2
+    44         81
+    45          4
+    47          5
+    48          1
+    49          5
+    50         10
+    51          5
+    52          3
+    56          1
+    59        999
+    60         26
+    61          7
+    62          5
+    63        386
+    64          9
+    65        125
+    66          4
+    93          6
+    94         22
+    95          2
+    96          7

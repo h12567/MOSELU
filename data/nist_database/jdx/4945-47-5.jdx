@@ -1,0 +1,36 @@
+##TITLE=Library Entry 69756
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Finnigan MAT: Toxicological Library (LIBR-TX)
+##NAMES=HP
+##CAS NAME=Bamipine
+##MOLFORM=C19H24N2
+##CAS REGISTRY NO=4945-47-5
+##MP= -300
+##BP= -300
+##MW= 280
+##$RETENTION INDEX=2243
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    42        216
+    43        435
+    44        206
+    55        132
+    65         40
+    70        267
+    71        287
+    77        103
+    82        119
+    91        243
+    96        254
+    97        999
+    98        226
+    99        172
+   118         19
+   132         19
+   146         50
+   182        138
+   183         39
+   189         38
+   280         39

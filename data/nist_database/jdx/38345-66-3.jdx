@@ -1,0 +1,72 @@
+##TITLE=Library Entry 28102
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-7909
+##NAMES=HP
+##CAS NAME=Chirald
+##MOLFORM=C19H25NO
+##CAS REGISTRY NO=38345-66-3
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    15          3
+    27          3
+    28          3
+    29          3
+    30         12
+    39          6
+    41          7
+    42         18
+    43          6
+    44         28
+    45         72
+    46          6
+    50          1
+    51          7
+    52          1
+    55          4
+    56          4
+    57          6
+    58        999
+    59         38
+    63          2
+    65          9
+    70          3
+    71          6
+    74          3
+    76          1
+    77         29
+    78          4
+    79          1
+    84          2
+    85          2
+    86          8
+    87          9
+    89          2
+    90          1
+    91         28
+    92          2
+   103          1
+   105         25
+   106          2
+   115          3
+   116          1
+   117          2
+   129          1
+   130          1
+   133          2
+   134          1
+   165          1
+   178          1
+   179          1
+   192         35
+   193          5
+   197          2
+   208          2
+   264          1
+   282          2
+   283          1

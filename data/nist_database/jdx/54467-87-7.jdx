@@ -1,0 +1,79 @@
+##TITLE=Library Entry 5787
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R. SINNHUBER, DEP. FOOD SCI. TECHNOL., OREGON STATE UNI
+V., Uq
+##NAMES=HP
+##CAS NAME=1,2-Dihexylcyclopropene-3-carboxylic acid
+##MOLFORM=C16H28O2
+##CAS REGISTRY NO=54467-87-7
+##MP= -300
+##BP= -300
+##MW= 252
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 63
+##XYDATA=(XY..XY) 1 
+    27        400
+    29        650
+    39        280
+    41        930
+    43        999
+    45         30
+    51         50
+    52         40
+    53        160
+    54         50
+    55        630
+    56         60
+    57        170
+    58         10
+    65        100
+    66         50
+    67        340
+    68        120
+    69        450
+    70         50
+    71         80
+    77        140
+    78         40
+    79        240
+    80         50
+    81        230
+    82         60
+    83        140
+    84         60
+    85        100
+    86         60
+    91        110
+    92         20
+    93        200
+    94         40
+    95        150
+    96         40
+    97        330
+    98        150
+   107        110
+   109         70
+   110         40
+   111        360
+   112         70
+   113        110
+   121        110
+   122         30
+   123         50
+   125         70
+   135         30
+   137         20
+   139        110
+   149         30
+   153         40
+   168         10
+   181        280
+   182         40
+   195         20
+   207         70
+   208         10
+   219         10
+   223         10
+   252         10

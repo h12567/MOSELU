@@ -1,0 +1,45 @@
+##TITLE=Library Entry 7451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B. ZEEH CHEM. INST., TUBINGEN UNIVERSITY, W GERMANY
+##NAMES=HP
+##CAS NAME=A-Norcholestan-3-one, 5-ethenyl-, (5.beta.)-
+##MOLFORM=C28H46O
+##CAS REGISTRY NO=19594-90-2
+##MP= -300
+##BP= -300
+##MW= 398
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41        670
+    43        999
+    55        900
+    57        610
+    67        450
+    69        470
+    79        520
+    81        620
+    83        250
+    91        380
+    93        530
+    95        580
+   105        350
+   107        460
+   109        280
+   119        290
+   121        330
+   123        870
+   133        290
+   135        280
+   136        300
+   147        250
+   149        220
+   162        320
+   285        130
+   341        180
+   370         70
+   380         30
+   383         80
+   398        390

@@ -1,0 +1,59 @@
+##TITLE=Library Entry 33300
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-6777
+##NAMES=HP
+##CAS NAME=1H-Pyrrole, 2,5-dihydro-
+##MOLFORM=C4H7N
+##CAS REGISTRY NO=109-96-6
+##MP= -300
+##BP= -300
+##MW= 69
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          2
+    14          5
+    15         22
+    17          1
+    18          4
+    24          1
+    25          4
+    26         17
+    27         40
+    28        293
+    29         13
+    30         37
+    31          2
+    32          7
+    33         20
+    34         12
+    36          5
+    37         33
+    38         60
+    39        224
+    40         85
+    41        458
+    42        140
+    43        380
+    44         14
+    48          1
+    49          2
+    50          6
+    51          8
+    52          9
+    53          3
+    54         13
+    55          1
+    62          2
+    63          3
+    64          4
+    65          3
+    66         10
+    67        159
+    68        999
+    69        457
+    70         40
+    71          2

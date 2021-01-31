@@ -1,0 +1,76 @@
+##TITLE=Library Entry 52375
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.1]heptan-2-one, 3,6,6-trimethyl-
+##MOLFORM=C10H16O
+##CAS REGISTRY NO=16022-08-5
+##MP= -300
+##BP= -300
+##MW= 152
+##$RETENTION INDEX=1176
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    15          6
+    17          5
+    18         10
+    26         12
+    27        158
+    28         40
+    29         92
+    32          6
+    38          9
+    39        166
+    40         31
+    41        318
+    42         30
+    43         98
+    50          9
+    51         30
+    52         15
+    53         96
+    54         38
+    55        460
+    56         64
+    57         21
+    59          5
+    63          7
+    65         28
+    66         18
+    67        178
+    68        114
+    69        210
+    70         25
+    77         38
+    78         12
+    79         58
+    80         14
+    81        320
+    82        128
+    83        999
+    84        206
+    85         14
+    91         38
+    92         10
+    93         23
+    94         14
+    95        380
+    96        140
+    97        110
+    98         11
+   105          6
+   107         10
+   108         32
+   109        280
+   110        196
+   111         38
+   119         16
+   121          5
+   123         30
+   134         10
+   137         68
+   138          7
+   152        198
+   153         22

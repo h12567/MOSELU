@@ -1,0 +1,50 @@
+##TITLE=Library Entry 57979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Chemistry, SAS, Bratislava, Slovakia
+##NAMES=HP
+##CAS NAME=Methyl-3,4,6-tri-O-methyl-4-O-(methyl-2,3,4-tri-O-methyl.alpha.d-
+glucopyranosyluronate).alpha.d-galactopyranoside
+##MOLFORM=C20H36O12
+##CAS REGISTRY NO=22855-14-7
+##MP= -300
+##BP= -300
+##MW= 468
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    45        699
+    55        192
+    57        203
+    58         20
+    59        179
+    71        199
+    73        139
+    75        539
+    85        189
+    88        999
+    89        139
+   101        779
+   102         52
+   111         75
+   113         40
+   115         40
+   117         33
+   127         64
+   129         80
+   131         75
+   141         77
+   145         43
+   157         26
+   159         64
+   161         28
+   169         21
+   173         60
+   187         23
+   201         74
+   219          6
+   233         99
+   279         62
+   319         17
+   394          9

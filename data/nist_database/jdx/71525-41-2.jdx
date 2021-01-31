@@ -1,0 +1,83 @@
+##TITLE=Library Entry 31755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=4,6-Diamino-5-pyrimidinyl hydrogensulfate
+##MOLFORM=C4H6N4O4S
+##CAS REGISTRY NO=71525-41-2
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    41         14
+    42         45
+    43        233
+    44        436
+    45         19
+    46          2
+    48        462
+    50         29
+    51          1
+    52          4
+    53         53
+    54        166
+    55         39
+    56         15
+    57         10
+    59          2
+    60          1
+    64        999
+    65         41
+    66         42
+    67         14
+    68          6
+    69          6
+    70          3
+    71        161
+    72          9
+    73          0
+    79          3
+    80         54
+    81         53
+    82         70
+    83          8
+    84          4
+    86          4
+    88          0
+    93          0
+    95          0
+    96          6
+    97          0
+    98         26
+    99         11
+   100          0
+   109         75
+   110         12
+   111          3
+   125         30
+   126        439
+   127         62
+   128          2
+   135          4
+   136        120
+   137         22
+   138          1
+   139          0
+   140          1
+   144          0
+   151         18
+   152         18
+   153          2
+   154          1
+   161          1
+   162          0
+   164          0
+   179          7
+   180          2
+   188          0
+   206          1

@@ -1,0 +1,41 @@
+##TITLE=Library Entry 886
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ethylamine
+##MOLFORM=C2H7N
+##CAS REGISTRY NO=75-04-7
+##MP= -300
+##BP= -300
+##MW= 45
+##$RETENTION INDEX=450
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    12         10
+    13         16
+    14         45
+    15        103
+    16         15
+    18         34
+    19          1
+    21          2
+    24          3
+    25         10
+    26         53
+    27        134
+    28        317
+    29         75
+    30        999
+    31         22
+    32          2
+    38         15
+    39         21
+    40         46
+    41         48
+    42         92
+    43         32
+    44        201
+    45        189
+    46          5

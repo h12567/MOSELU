@@ -1,0 +1,72 @@
+##TITLE=Library Entry 27700
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.E.Ardrey ET AL.Pharmaceutical Mass Spectra,L.,1985
+##NAMES=HP
+##CAS NAME=Bialamicol
+##MOLFORM=C28H40N2O2
+##CAS REGISTRY NO=493-75-4
+##MP= -300
+##BP= -300
+##MW= 436
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    26         30
+    27        150
+    29        170
+    30        800
+    31         10
+    39         30
+    40         20
+    41         60
+    42        110
+    43         60
+    44        230
+    45         20
+    55         20
+    56         70
+    57         20
+    58        999
+    59         40
+    70         10
+    71         20
+    72        190
+    73        180
+    74         30
+    86         20
+    91         10
+   115         10
+   145         10
+   146         20
+   152         10
+   165         20
+   174         10
+   178         20
+   203         20
+   205         10
+   218         20
+   219         10
+   221         20
+   232         10
+   233         10
+   235         10
+   249         30
+   251         10
+   275         10
+   289         20
+   290         70
+   291        100
+   292         50
+   293         10
+   333         10
+   334         10
+   348         40
+   349         10
+   362         20
+   363        460
+   364        120
+   365         30
+   436         90
+   437         30

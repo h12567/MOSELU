@@ -1,0 +1,49 @@
+##TITLE=Library Entry 66283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=(Trichlorovinyl)dimethylchlorosilane
+##MOLFORM=C4H6Cl4Si
+##CAS REGISTRY NO=91455-16-2
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    63        421
+    65        147
+    93        999
+    94        515
+    95        484
+    96        327
+    97         79
+   113        184
+   114         17
+   115        123
+   116         12
+   117         22
+   118          3
+   119          5
+   133         77
+   135         75
+   137        181
+   138         16
+   139        123
+   187         51
+   189         53
+   191         12
+   207        282
+   208         20
+   209        373
+   210         55
+   211        182
+   213         33
+   222        182
+   223         16
+   224        260
+   225         16
+   226        129
+   228         34

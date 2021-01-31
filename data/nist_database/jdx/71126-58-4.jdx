@@ -1,0 +1,40 @@
+##TITLE=Library Entry 27884
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN, W.
+ GERMA
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-2-butoxyethylamine
+##MOLFORM=C8H19NO
+##CAS REGISTRY NO=71126-58-4
+##MP= -300
+##BP= -300
+##MW= 145
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    30         19
+    31          6
+    39          9
+    41         31
+    42         65
+    43         23
+    44         27
+    45         11
+    55          5
+    56         25
+    57         25
+    58        999
+    59         39
+    70          5
+    71          5
+    72         40
+    73         11
+    88          3
+   102          2
+   116          0
+   130          0
+   144          0
+   145         42
+   146          3

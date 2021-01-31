@@ -1,0 +1,29 @@
+##TITLE=Library Entry 40776
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.ERRA BALSELLS,DEP. QUIM. ORG.,CITY UNIV. BUENOS AIRES
+,ARGENT
+##NAMES=HP
+##CAS NAME=(SS)- or (RR)-4-methyl-2,3-pentanediol
+##MOLFORM=C6H14O2
+##CAS REGISTRY NO=6464-40-0
+##MP= -300
+##BP= -300
+##MW= 118
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 13
+##XYDATA=(XY..XY) 1 
+    27        300
+    41        330
+    43        480
+    45        880
+    55        660
+    57        310
+    58         50
+    59        260
+    71        340
+    72        260
+    73        999
+    74        110
+    85         20

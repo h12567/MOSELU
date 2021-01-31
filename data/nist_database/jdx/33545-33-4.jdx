@@ -1,0 +1,33 @@
+##TITLE=Library Entry 98904
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=L.SCHRADER BAYER AG, KREFELD-UERDINGEN, GERMANY, F.R.G.
+##NAMES=HP
+##CAS NAME=3-Furoic acid, 2,5-dihydro-5-oxo-2,2-di-p-tolyl-, methyl ester
+##MOLFORM=C20H18O4
+##CAS REGISTRY NO=33545-33-4
+##MP= -300
+##BP= -300
+##MW= 322
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39        110
+    53        201
+    59         87
+    63         55
+    65        351
+    89         50
+    90         74
+    91        337
+   119        999
+   120         68
+   179         63
+   202         90
+   203         84
+   219        302
+   220         62
+   231         20
+   263         80
+   322        182

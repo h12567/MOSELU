@@ -1,0 +1,30 @@
+##TITLE=Library Entry 9933
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(1)6(1974); VANDEWALLE
+##NAMES=HP
+##CAS NAME=2,4-Pentanedione, 3-(1-methylethyl)-
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=1540-38-1
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         60
+    40         10
+    41         70
+    42         20
+    43        999
+    44         20
+    45         20
+    58         40
+    67         70
+    69         20
+    85        960
+    86         50
+    99         30
+   100        320
+   101        440

@@ -1,0 +1,46 @@
+##TITLE=Library Entry 70824
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=1-Ethoxy-2,2,3,3,-tetramethylaziridine
+##MOLFORM=C8H17NO
+##CAS REGISTRY NO=37873-27-1
+##MP= -300
+##BP= -300
+##MW= 143
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    29         80
+    30         11
+    31         20
+    39        100
+    40         20
+    41        300
+    42        520
+    43         60
+    44         11
+    55         50
+    56         60
+    57         80
+    58         90
+    59        140
+    60         14
+    69        190
+    70         20
+    73         20
+    82         30
+    83         90
+    84        160
+    85         20
+    98        999
+    99         60
+   100         20
+   101         40
+   102          9
+   128         30
+   129          8
+   143          2
+   144          1

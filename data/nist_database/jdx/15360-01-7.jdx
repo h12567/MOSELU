@@ -1,0 +1,65 @@
+##TITLE=Library Entry 88682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, p-di-tert-butoxy-
+##MOLFORM=C14H22O2
+##CAS REGISTRY NO=15360-01-7
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    40        167
+    41        333
+    42        250
+    43        250
+    44         33
+    45         83
+    50        167
+    51        167
+    52        167
+    53        367
+    54        283
+    55        417
+    56        367
+    57         33
+    58        117
+    62         33
+    63        167
+    64        333
+    65        333
+    66         83
+    67         83
+    69         83
+    76        117
+    77        117
+    79        117
+    81        417
+    82        283
+    91         83
+    92         83
+    93        117
+    94         83
+    95        117
+    96        117
+   105         83
+   107        117
+   108         83
+   109        200
+   110        133
+   111        999
+   112        167
+   123        167
+   135        117
+   151        500
+   152        117
+   166        333
+   167        117
+   196         83
+   207        250
+   208         83
+   222        167

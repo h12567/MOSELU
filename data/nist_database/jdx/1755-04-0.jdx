@@ -1,0 +1,36 @@
+##TITLE=Library Entry 33435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Bicyclo[3.1.0]hexan-3-one
+##MOLFORM=C6H8O
+##CAS REGISTRY NO=1755-04-0
+##MP= -300
+##BP= -300
+##MW= 96
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    26         47
+    27        164
+    39        553
+    40        231
+    41        261
+    42        181
+    50         70
+    51         80
+    53        573
+    54        254
+    55         50
+    63         28
+    65         78
+    66         70
+    67        962
+    68        999
+    69         62
+    81         62
+    94         11
+    96        509
+    97         37

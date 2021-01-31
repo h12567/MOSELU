@@ -1,0 +1,49 @@
+##TITLE=Library Entry 46010
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=(p-Chlorophenyl)-acetonyl-dimethylsilane
+##MOLFORM=C11H15ClOSi
+##CAS REGISTRY NO=55909-56-3
+##MP= -300
+##BP= -300
+##MW= 226
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    43        435
+    45        270
+    58        108
+    63        245
+    65         78
+    73         70
+    75        999
+    76         99
+    77        167
+    91        298
+    95         88
+    99        119
+   105         88
+   114         48
+   115        118
+   116        325
+   117         90
+   141        200
+   152        229
+   153         88
+   155         99
+   168         78
+   169        667
+   170        128
+   171        468
+   172         99
+   173        197
+   211        745
+   212        128
+   213        287
+   214         49
+   226        257
+   227         59
+   228         99

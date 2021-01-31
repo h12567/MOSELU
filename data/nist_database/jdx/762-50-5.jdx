@@ -1,0 +1,54 @@
+##TITLE=Library Entry 17899
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2009
+##NAMES=HP
+##CAS NAME=Ethane, 1-chloro-2-fluoro-
+##MOLFORM=C2H4ClF
+##CAS REGISTRY NO=762-50-5
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=545
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    24          1
+    25         15
+    26         69
+    27        201
+    28          8
+    31         19
+    32          9
+    33         92
+    34          1
+    35         19
+    36          9
+    37          8
+    43          2
+    44         51
+    45        229
+    46        999
+    47        200
+    48         32
+    49        511
+    50         15
+    51        167
+    52          2
+    59          3
+    60         15
+    61         99
+    62         23
+    63         35
+    64          6
+    65          1
+    67          3
+    69          1
+    78          2
+    79          8
+    80         16
+    81         47
+    82        307
+    83         21
+    84         96
+    85          2

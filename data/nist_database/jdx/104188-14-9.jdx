@@ -1,0 +1,82 @@
+##TITLE=Library Entry 109070
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=5-Ethyl-2-methyl-2-vinyltetrahydrofuran
+##MOLFORM=C9H16O
+##CAS REGISTRY NO=104188-14-9
+##MP= -300
+##BP= -300
+##MW= 140
+##$RETENTION INDEX=911
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 67
+##XYDATA=(XY..XY) 1 
+    18          1
+    26          5
+    27         69
+    28         15
+    29         70
+    30          3
+    31          5
+    37          1
+    38          7
+    39        120
+    40         23
+    41        184
+    42         80
+    43        339
+    44         10
+    45          7
+    48          1
+    50          8
+    51         23
+    52         13
+    53         80
+    54         32
+    55        874
+    56         29
+    57         66
+    58          7
+    59          8
+    62          1
+    63          4
+    64          1
+    65         31
+    66         14
+    67        398
+    68         37
+    69        113
+    70         67
+    71        338
+    72         29
+    77         40
+    78          6
+    79         44
+    80          4
+    81        146
+    82         81
+    83        111
+    84         13
+    85         25
+    91         59
+    93        318
+    94         26
+    95         21
+    96          7
+    97         19
+    98          2
+    99          1
+   107         18
+   109          4
+   111        309
+   112         27
+   113        100
+   114          7
+   125        999
+   126         85
+   127          5
+   139          5
+   140         26
+   141          3

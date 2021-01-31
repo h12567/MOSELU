@@ -1,0 +1,33 @@
+##TITLE=Library Entry 10554
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Cyclohexen-1-ol, 2,6,6-trimethyl-, acetate
+##MOLFORM=C11H18O2
+##CAS REGISTRY NO=54345-58-3
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    41        300
+    43        999
+    55        220
+    57        100
+    67        100
+    69        180
+    81        130
+    84        450
+    91        120
+    93        120
+    95        120
+    98        599
+   107        450
+   109        200
+   112        100
+   122        599
+   123        190
+   154        200

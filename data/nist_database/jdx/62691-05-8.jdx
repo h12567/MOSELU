@@ -1,0 +1,67 @@
+##TITLE=Library Entry 44754
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A. V. Colnaghi Simionato et al., J. Mass Spectrom. 2007
+; 42: 13751381
+##NAMES=HP
+##CAS NAME=Tetradecanoic acid, 12-methyl-, methyl ester, (S)-
+##MOLFORM=C16H32O2
+##CAS REGISTRY NO=62691-05-8
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    40         33
+    41        435
+    42        117
+    43        485
+    44         60
+    45         26
+    46         26
+    53         26
+    54         39
+    55        474
+    56        117
+    57        339
+    59         88
+    67         52
+    68         28
+    69        234
+    70         83
+    71         88
+    73         47
+    74        999
+    75        206
+    81         60
+    82         36
+    83        174
+    84         54
+    85         60
+    87        553
+    88         60
+    95         73
+    96         39
+    97        122
+    98         44
+   101         52
+   109         47
+   111         60
+   115         52
+   121         26
+   123         23
+   125         23
+   129         52
+   130         26
+   143        148
+   157         33
+   177         23
+   185         26
+   199        185
+   200         31
+   207         33
+   213         75
+   227         33
+   256         33

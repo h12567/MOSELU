@@ -1,0 +1,46 @@
+##TITLE=Library Entry 74542
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butyric acid, 4-isopropoxy-, methyl ester
+##MOLFORM=C8H16O3
+##CAS REGISTRY NO=29006-05-1
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    41        581
+    42        209
+    43        845
+    44         69
+    45        287
+    55         63
+    56         43
+    57        243
+    58         90
+    59        890
+    60         32
+    69        127
+    70         21
+    71         60
+    72         18
+    73        163
+    74        281
+    75         18
+    85        996
+    86         76
+    87        676
+    88        236
+    89         36
+   100         18
+   101        999
+   102        103
+   103         18
+   117        709
+   118         50
+   132         18
+   145         14

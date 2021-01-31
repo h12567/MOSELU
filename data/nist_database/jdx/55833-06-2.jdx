@@ -1,0 +1,30 @@
+##TITLE=Library Entry 62682
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,2-Dibenzylpyrazolium bromide
+##MOLFORM=C17H17BrN2
+##CAS REGISTRY NO=55833-06-2
+##MP= -300
+##BP= -300
+##MW= 328
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    52         49
+    63         60
+    65        148
+    77         30
+    81         39
+    89         49
+    90         30
+    91        999
+    92         90
+   130         49
+   157        400
+   158        229
+   159         29
+   170         40
+   172         39

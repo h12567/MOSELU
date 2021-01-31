@@ -1,0 +1,39 @@
+##TITLE=Library Entry 84947
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.T. LOEFFLER,LONG ASHTON RES. STN.,LONG ASHTON,BRISTOL
+,U.K.
+##NAMES=HP
+##CAS NAME=N-(1-Hydroxy-2,2,2-trichloroethyl)benzyl urethane
+##MOLFORM=C10H10Cl3NO3
+##CAS REGISTRY NO=6798-34-1
+##MP= -300
+##BP= -300
+##MW= 297
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    43        120
+    51        120
+    65        130
+    77        220
+    79        420
+    82        300
+    83        120
+    84        190
+    90        240
+    91        800
+   107        550
+   108        999
+   111        120
+   151        180
+   179         14
+   180         13
+   181          7
+   244         17
+   245          9
+   246         11
+   297          7
+   299          8
+   301          2

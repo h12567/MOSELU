@@ -1,0 +1,37 @@
+##TITLE=Library Entry 17644
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.A.KOPTYUG, ATLAS OF MASS SPECTRA OF ORGANIC COMPOUNDS
+##NAMES=HP
+##CAS NAME=2,2-Diethoxy-1-oxa-2-silacyclo-3,5-hexadiene
+##MOLFORM=C8H14O3Si
+##CAS REGISTRY NO=77436-52-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    45        999
+    46         30
+    97        160
+    98        350
+    99         40
+   100         10
+   113        729
+   114        320
+   115         40
+   116         10
+   127         20
+   141        410
+   142        909
+   143        240
+   144         60
+   145         10
+   171        120
+   172         20
+   185         60
+   186        579
+   187         90
+   188         20

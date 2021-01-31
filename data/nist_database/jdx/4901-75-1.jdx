@@ -1,0 +1,40 @@
+##TITLE=Library Entry 4464
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=Diaziridine, 3-ethyl-3-methyl-
+##MOLFORM=C4H10N2
+##CAS REGISTRY NO=4901-75-1
+##MP= -300
+##BP= -300
+##MW= 86
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    29        310
+    30        175
+    31        150
+    32         15
+    39        205
+    40        130
+    41        560
+    42        999
+    43        200
+    44        190
+    45         18
+    53         49
+    54        350
+    55        170
+    56        135
+    57        380
+    58         45
+    68        205
+    69        110
+    70         70
+    71        150
+    72         15
+    85        105
+    86         10
+    87          1

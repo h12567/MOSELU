@@ -1,0 +1,40 @@
+##TITLE=Library Entry 41076
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=Trimethyl(n-octyl)silane
+##MOLFORM=C11H26Si
+##CAS REGISTRY NO=3429-76-3
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=1084
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    41         67
+    42         18
+    43         85
+    44         48
+    45         54
+    46         12
+    55         24
+    56          6
+    57         18
+    58         20
+    59        185
+    60         25
+    61         30
+    72         30
+    73        999
+    74         85
+    75         38
+    85         18
+    87         42
+    99         24
+   101         26
+   171        154
+   172         24
+   173         18
+   186          1

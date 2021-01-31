@@ -1,0 +1,67 @@
+##TITLE=Library Entry 9432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octanone, 4-(acetyloxy)-
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=56324-76-6
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    41        120
+    42         40
+    43        999
+    44         30
+    45         10
+    51         20
+    52         10
+    53         40
+    54         40
+    55         70
+    56         10
+    57         10
+    58         30
+    60         10
+    61         10
+    65         10
+    66         20
+    67         30
+    68         10
+    69         10
+    70         60
+    71         30
+    77         20
+    78         20
+    79        240
+    80        150
+    81         30
+    82         10
+    83         80
+    84         50
+    85         10
+    91         10
+    92         10
+    93         50
+    94        160
+    95         70
+    96         20
+    97         30
+    98         50
+   106         10
+   109         10
+   110        160
+   121         10
+   122         40
+   123         10
+   125         30
+   139         10
+   140         30
+   154         30
+   155         30
+   182         20

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 28529
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=7-Chloro-3-[2,4-dichlorophenyl]-1-[[3-dimethylamino]propyl]imino]
+-1,3,4,10-tetrahydro-10-hydroxy-2-methyl-9(2H)-acridinone
+##MOLFORM=C25H26Cl3N3O2
+##CAS REGISTRY NO=80092-59-7
+##MP= -300
+##BP= -300
+##MW= 505
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    42         82
+    43         36
+    44         88
+    45         32
+    56         30
+    58        999
+    59         36
+    70         44
+    71         37
+    72        301
+    84        120
+    85         75
+    86         48
+   115         30
+   126          8
+   149          8
+   151          7
+   159         56
+   161         39
+   164         29
+   217          8
+   230          8
+   245          8
+   246         57
+   248          7
+   257          9
+   259         43
+   273         29
+   352         30
+   354         29
+   383         31
+   384          8
+   385          8
+   388         11
+   389          8
+   403         69
+   404         30
+   405         70
+   406         30
+   407         35
+   417         16
+   418        121
+   419         51
+   420        115
+   421         39
+   422         45
+   430         29
+   431        120
+   432         55
+   433        111
+   434         41
+   435         43
+   489         43
+   491         40

@@ -1,0 +1,50 @@
+##TITLE=Library Entry 32698
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Fluorodichloromethane
+##MOLFORM=CHCl2F
+##CAS REGISTRY NO=75-43-4
+##MP= -300
+##BP= -300
+##MW= 102
+##$RETENTION INDEX=420
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          9
+    19          1
+    20          2
+    31         42
+    32         14
+    35         53
+    36         32
+    37         18
+    38         11
+    41          4
+    42          2
+    47         88
+    48         50
+    49         28
+    50         19
+    51          1
+    66         83
+    67        999
+    68         17
+    69        321
+    70          6
+    72          2
+    82         14
+    83         39
+    84          9
+    85         27
+    86          2
+    87          4
+   101         15
+   102         36
+   103         10
+   104         24
+   105          2
+   106          3

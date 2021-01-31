@@ -1,0 +1,49 @@
+##TITLE=Library Entry 47181
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Propane, 3-chloro-1,1,1-trifluoro-
+##MOLFORM=C3H4ClF3
+##CAS REGISTRY NO=460-35-5
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    44         30
+    45         40
+    46         80
+    47        110
+    48         30
+    49        340
+    50         40
+    51        200
+    55         10
+    56         10
+    57         10
+    61         30
+    62         20
+    63        140
+    64        130
+    65         50
+    67         80
+    69        320
+    75         50
+    77        999
+    78         20
+    85         30
+    87         10
+    95        180
+    96         40
+    97        100
+   112        640
+   113         60
+   114        190
+   115         20
+   132        200
+   133         10
+   134         70

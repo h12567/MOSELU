@@ -1,0 +1,86 @@
+##TITLE=Library Entry 9365
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin,TIPS,Russian Acad.Sci.Moscow
+##NAMES=HP
+##CAS NAME=Acetic acid, chloro-, 1-methylbutyl ester
+##MOLFORM=C7H13ClO2
+##CAS REGISTRY NO=90380-52-2
+##MP= -300
+##BP= -300
+##MW= 164
+##$RETENTION INDEX=1031
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    25          5
+    26         49
+    27        317
+    28         44
+    29        312
+    30         15
+    31         43
+    35         21
+    36         89
+    37          9
+    38         49
+    39        178
+    40         35
+    41        337
+    42        335
+    43        999
+    44        112
+    45        151
+    46          7
+    47         12
+    48         24
+    49        295
+    50        129
+    51        115
+    52         46
+    53         29
+    54          7
+    55        393
+    56         23
+    57          9
+    58         12
+    59          9
+    60          9
+    63          5
+    64          5
+    65         11
+    67          2
+    69         25
+    70        358
+    71        652
+    72         38
+    73         59
+    74          2
+    76         13
+    77        735
+    78         27
+    79        274
+    80          5
+    85          2
+    86          2
+    87         11
+    93          3
+    94          5
+    95         14
+    97          3
+   104          1
+   105          3
+   106          1
+   107          3
+   109          1
+   119          3
+   120          3
+   121        378
+   122         17
+   123        111
+   124          1
+   129          2
+   149         29
+   150          2
+   151         10
+   152          1

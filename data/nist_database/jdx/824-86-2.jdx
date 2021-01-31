@@ -1,0 +1,23 @@
+##TITLE=Library Entry 59702
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Benzene, [(methylsulfinyl)methyl]-
+##MOLFORM=C8H10OS
+##CAS REGISTRY NO=824-86-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    63         59
+    65        118
+    66         20
+    77         39
+    91        999
+    92         78
+   154         39
+   155         20

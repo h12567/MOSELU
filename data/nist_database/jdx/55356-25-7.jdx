@@ -1,0 +1,58 @@
+##TITLE=Library Entry 54072
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORMSBG,9(7)635(1974); TATEMATSU
+##NAMES=HP
+##CAS NAME=1-Pyrrolidinecarboxylic acid, 2-[[[5-[[(3-amino-3-oxopropyl)amino
+]carbonyl]-1-methyl-1H-pyrrol-3-yl]amino]carbonyl]-5-oxo-, phenylmethyl este
+r
+##MOLFORM=C22H25N5O6
+##CAS REGISTRY NO=55356-25-7
+##MP= -300
+##BP= -300
+##MW= 455
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    42        520
+    43        600
+    44        740
+    45        630
+    56        390
+    69        270
+    70        210
+    79        360
+    83        320
+    84        999
+    87        850
+    90        390
+    95        300
+   105        110
+   107        210
+   112        160
+   122        220
+   123        420
+   124        310
+   139        320
+   165        560
+   192        580
+   205        230
+   207        240
+   210        210
+   218        590
+   233        240
+   234        280
+   250        250
+   259        300
+   260        740
+   275        210
+   276        450
+   303        210
+   321        100
+   329        310
+   347        110
+   384         40
+   419         12
+   437         12
+   455          5

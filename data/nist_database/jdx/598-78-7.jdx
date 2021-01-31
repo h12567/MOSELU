@@ -1,0 +1,77 @@
+##TITLE=Library Entry 59
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1992
+##NAMES=HP
+##CAS NAME=Propanoic acid, 2-chloro-
+##MOLFORM=C3H5ClO2
+##CAS REGISTRY NO=598-78-7
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    12         13
+    13         20
+    15         46
+    17         19
+    18         40
+    19          9
+    24         16
+    25         82
+    26        420
+    27        999
+    28        724
+    29        522
+    30         12
+    31         20
+    35         34
+    36         33
+    37         21
+    38         11
+    39          7
+    41         20
+    42         19
+    43         75
+    44        118
+    45        451
+    46         17
+    47         18
+    48         22
+    49         27
+    50          9
+    51          5
+    52          7
+    53         35
+    54          5
+    55        135
+    56         49
+    57          5
+    59          7
+    60         16
+    61         42
+    62        105
+    63        520
+    64        647
+    65        212
+    66        197
+    67         14
+    71          8
+    72         16
+    73         65
+    74         10
+    75          4
+    76         11
+    78          4
+    79          4
+    89          5
+    91         17
+    93          7
+   102          3
+   106          6
+   107          7
+   108         35
+   109          5
+   110         12

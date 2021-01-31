@@ -1,0 +1,41 @@
+##TITLE=Library Entry 58941
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S. D. ISAEV, KIEV POLYTECH. INST., KIEV, USSR
+##NAMES=HP
+##CAS NAME=diazoadamantane
+##MOLFORM=C10H14N2
+##CAS REGISTRY NO=24175-02-8
+##MP= -300
+##BP= -300
+##MW= 162
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    39        720
+    40        140
+    41        480
+    51        210
+    52        140
+    53        280
+    54         70
+    55         70
+    63        100
+    65        280
+    66        140
+    67        170
+    77        620
+    78        280
+    79        620
+    80        310
+    91        999
+    92        690
+    93        520
+   105        340
+   106        240
+   107         30
+   119        240
+   120         30
+   134        140
+   135         20

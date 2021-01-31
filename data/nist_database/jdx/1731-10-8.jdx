@@ -1,0 +1,58 @@
+##TITLE=Library Entry 58483
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Germacyclopent-3-ene,1,1-dimethyl-
+##MOLFORM=C6H12Ge
+##CAS REGISTRY NO=1731-10-8
+##MP= -300
+##BP= -300
+##MW= 158
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 43
+##XYDATA=(XY..XY) 1 
+    39        123
+    50         47
+    51         31
+    52         22
+    53         56
+    54         41
+    70         62
+    71         56
+    72         71
+    73         94
+    74         99
+    75         75
+    76         19
+    77         15
+    85        554
+    87        784
+    89        999
+    91        203
+    95         37
+    97         92
+   100        551
+   102        605
+   104        771
+   106        171
+   109         12
+   111         22
+   112         15
+   113         22
+   114         11
+   115         20
+   117         42
+   119         44
+   121         15
+   123         14
+   127         11
+   139        219
+   141        295
+   143        424
+   145         91
+   154        203
+   156        294
+   158        417
+   160         91

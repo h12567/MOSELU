@@ -1,0 +1,32 @@
+##TITLE=Library Entry 87108
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pyrazine, methyl-, 1-oxide
+##MOLFORM=C5H6N2O
+##CAS REGISTRY NO=31396-35-7
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    37        100
+    38        167
+    39        510
+    40        194
+    41        100
+    42        369
+    46         26
+    51         60
+    52        201
+    53        100
+    66        587
+    67        134
+    82         47
+    93        416
+    94         87
+   110        999
+   111         87

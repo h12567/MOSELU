@@ -1,0 +1,52 @@
+##TITLE=Library Entry 99845
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4,5-Dihydro-4-(3-nitrobenzylidene)-2-(p-tolyl)-5-oxazolone
+##MOLFORM=C17H12N2O4
+##CAS REGISTRY NO=16352-75-3
+##MP= -300
+##BP= -300
+##MW= 308
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    38         15
+    39         78
+    40         32
+    41         11
+    43         41
+    45         12
+    46         23
+    49          5
+    50         63
+    51         21
+    57          5
+    58          6
+    61         11
+    62         44
+    63         67
+    64         19
+    65        141
+    66          4
+    73          8
+    75         52
+    76         16
+    87         15
+    88         60
+    89         34
+    91        435
+    92         42
+   105          3
+   114         49
+   115         70
+   116         29
+   119        999
+   161         18
+   189          7
+   293          6
+   308        233
+   309         46
+   310          4

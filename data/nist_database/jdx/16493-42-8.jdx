@@ -1,0 +1,72 @@
+##TITLE=Library Entry 11330
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Octanoic acid, 7-oxo-, methyl ester
+##MOLFORM=C9H16O3
+##CAS REGISTRY NO=16493-42-8
+##MP= -300
+##BP= -300
+##MW= 172
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    41        120
+    42         50
+    43        999
+    44         30
+    45         40
+    48         20
+    49         10
+    53         20
+    54         10
+    55        190
+    56         10
+    57         20
+    58        210
+    59        100
+    67         10
+    68         10
+    69        160
+    70         20
+    71         80
+    72         10
+    73        140
+    74        110
+    75         10
+    79         10
+    80         10
+    81         20
+    82         10
+    83        170
+    84         30
+    85         20
+    87        240
+    88         30
+    94         10
+    95        150
+    96         20
+    97         90
+    98         70
+    99         60
+   100         10
+   101         20
+   102         10
+   111         20
+   112         50
+   113         20
+   114         90
+   115        530
+   116         40
+   123         40
+   125         40
+   129         20
+   130         20
+   140         50
+   141         60
+   154         20
+   157         10
+   172         20

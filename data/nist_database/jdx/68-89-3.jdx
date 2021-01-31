@@ -1,0 +1,50 @@
+##TITLE=Library Entry 22602
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Drug Lab
+##NAMES=HP
+##CAS NAME=Dipyrone
+##MOLFORM=C13H16N3NaO4S
+##CAS REGISTRY NO=68-89-3
+##MP= -300
+##BP= -300
+##MW= 333
+##$RETENTION INDEX=1988
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    40          6
+    41         31
+    42        158
+    51         56
+    52         19
+    53          6
+    54         50
+    55         38
+    56        999
+    57         84
+    63         19
+    64         20
+    65         42
+    66         13
+    67         15
+    68          7
+    77         95
+    78          6
+    83        311
+    84         16
+    91         23
+    92         18
+    93         17
+    95          6
+    96         51
+    97         56
+    98         86
+   120          6
+   123        181
+   124         35
+   125          8
+   215         20
+   216        100
+   217        172
+   218         20

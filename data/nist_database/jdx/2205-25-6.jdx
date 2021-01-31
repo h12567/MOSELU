@@ -1,0 +1,53 @@
+##TITLE=Library Entry 50128
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Y. FUJIWARA, KYOTO COLL. PHARMACY, KYOTO, JA
+##NAMES=HP
+##CAS NAME=3-Methyl-hexahydrophthalide
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=2205-25-6
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27        165
+    28         44
+    29         80
+    39        223
+    40         27
+    41        330
+    42         28
+    43        161
+    51         41
+    53        127
+    54        416
+    55        161
+    65         32
+    66         54
+    67        784
+    68        238
+    69        101
+    77         54
+    79         92
+    80         59
+    81        999
+    82        611
+    83         51
+    93        131
+    95        227
+    96         19
+   108         15
+   109         18
+   110        243
+   111         55
+   125          3
+   126          2
+   139         58
+   140          6
+   153          2
+   154         32
+   155          9
+   156          1

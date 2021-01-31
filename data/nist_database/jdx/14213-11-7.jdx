@@ -1,0 +1,56 @@
+##TITLE=Library Entry 58777
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.KONNECKE KARL-MARX UNIV., LEIPZIG 701, GERMANY, G.D.R
+.
+##NAMES=HP
+##CAS NAME=1H-Tetrazole, 1-(4-nitrophenyl)-
+##MOLFORM=C7H5N5O2
+##CAS REGISTRY NO=14213-11-7
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    30        419
+    37        242
+    38        330
+    39        746
+    40         78
+    41         57
+    49         42
+    50        390
+    51        208
+    52        133
+    53         68
+    61         84
+    62        223
+    63        830
+    64        324
+    65         38
+    66         17
+    73         25
+    74        135
+    75        143
+    76        238
+    77         33
+    78        181
+    79         34
+    80         34
+    87         17
+    88         32
+    89         67
+    90        999
+    91         70
+    92         21
+   105        347
+   106         61
+   117        137
+   118         11
+   133        816
+   134         59
+   136         15
+   163          9
+   191          5

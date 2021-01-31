@@ -1,0 +1,54 @@
+##TITLE=Library Entry 2972
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Pentane, 1-(2,2-dichloro-1-methylcyclopropyl)-
+##MOLFORM=C9H16Cl2
+##CAS REGISTRY NO=24551-80-2
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    39        660
+    40        120
+    41        999
+    42        210
+    43        800
+    44         40
+    51        200
+    52         10
+    53        240
+    54         90
+    55        580
+    56        920
+    57        160
+    65        210
+    66         10
+    67        180
+    68         10
+    69        500
+    70        290
+    71         80
+    75         80
+    77        110
+    81        100
+    83         70
+    87         80
+    89        140
+    90         10
+    98        530
+    99         40
+   102        170
+   103         20
+   109         40
+   111         30
+   123        230
+   124        270
+   125        100
+   126        160
+   127         20
+   194         20

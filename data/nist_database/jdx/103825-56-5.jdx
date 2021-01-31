@@ -1,0 +1,48 @@
+##TITLE=Library Entry 81929
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Imidazolidinepropanoic acid, 3-benzoyl-2-(1,1-dimethylethyl)-1-
+methyl-5-oxo-4-(phenylmethyl)-, (2S-trans)-
+##MOLFORM=C25H30N2O4
+##CAS REGISTRY NO=103825-56-5
+##MP= -300
+##BP= -300
+##MW= 422
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    28          9
+    29         12
+    39          6
+    41         19
+    42         56
+    51         19
+    55          7
+    57         30
+    65         10
+    76          8
+    77        274
+    78         23
+    91         68
+    92          7
+   105        999
+   106         80
+   114          9
+   129          3
+   152         12
+   153         14
+   179        111
+   180         13
+   192          9
+   209         24
+   215         44
+   216          6
+   243        396
+   244         65
+   245          6
+   365        220
+   366         49
+   369          7

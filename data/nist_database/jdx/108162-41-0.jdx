@@ -1,0 +1,42 @@
+##TITLE=Library Entry 12282
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. MATOBA, TOYAMA MED. PHARM. UNIV., SUGITANI, TOYAMA,
+ JAPAN
+##NAMES=HP
+##CAS NAME=3-Hydroxy-3-methylbicyclo[3.3.1]nonane-2,4-dione
+##MOLFORM=C10H14O3
+##CAS REGISTRY NO=108162-41-0
+##MP= -300
+##BP= -300
+##MW= 182
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 26
+##XYDATA=(XY..XY) 1 
+    41        388
+    43        999
+    44        422
+    53        124
+    54         80
+    55        403
+    57        119
+    67        388
+    68        120
+    69        122
+    72        438
+    79         96
+    81        129
+    83        387
+    87        388
+    93        153
+    94        124
+   100        880
+   111        390
+   112         96
+   121         81
+   122         99
+   140        913
+   141         84
+   154        183
+   182        529

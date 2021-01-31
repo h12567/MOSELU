@@ -1,0 +1,85 @@
+##TITLE=Library Entry 83097
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=5-Methoxyanthranilic acid
+##MOLFORM=C8H9NO3
+##CAS REGISTRY NO=6705-03-9
+##MP= -300
+##BP= -300
+##MW= 167
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 70
+##XYDATA=(XY..XY) 1 
+    15        140
+    16          9
+    17         12
+    18         10
+    25          8
+    26         33
+    27         52
+    28          8
+    29         58
+    30         14
+    36         11
+    37         26
+    38         62
+    39         93
+    40         24
+    41         56
+    42         15
+    43         10
+    44         44
+    45         79
+    46          7
+    49         13
+    50         67
+    51        225
+    52        475
+    53        246
+    54         39
+    55         18
+    61         37
+    62         66
+    63        130
+    64         45
+    65         61
+    66         19
+    67         20
+    68         17
+    69         15
+    73          8
+    74         31
+    75         30
+    76         27
+    77         49
+    78        172
+    79        209
+    80        248
+    81         23
+    84         19
+    88          8
+    89         13
+    90         45
+    91         29
+    92         25
+    94         10
+    95         46
+    97         45
+   106        999
+   107        143
+   108          3
+   121        289
+   122        121
+   123          0
+   134        815
+   135         69
+   149        827
+   150         90
+   152        278
+   153         25
+   167        899
+   168         82
+   169          3

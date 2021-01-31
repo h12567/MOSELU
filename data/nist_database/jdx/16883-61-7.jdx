@@ -1,0 +1,57 @@
+##TITLE=Library Entry 41423
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORVAL A. MAMER, ROYAL VICTORIA HOSPITAL, MONTREAL, CANA
+DA
+##NAMES=HP
+##CAS NAME=2-Methylpropanoic acid, TMS derivative
+##MOLFORM=C7H16O2Si
+##CAS REGISTRY NO=16883-61-7
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=832
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    15         23
+    26          6
+    27         58
+    28         15
+    29         20
+    31         12
+    39         31
+    40          6
+    41         62
+    42         21
+    43        110
+    44         24
+    45        162
+    46         15
+    47         66
+    51          0
+    53          7
+    55         22
+    57         13
+    58         32
+    59         23
+    60         16
+    61         48
+    69          7
+    70         17
+    71         16
+    72         13
+    73        999
+    74         98
+    75        856
+    76         64
+    77         41
+    87          0
+   116         18
+   117         75
+   118          9
+   129         12
+   144          9
+   145        428
+   146         56
+   160         10

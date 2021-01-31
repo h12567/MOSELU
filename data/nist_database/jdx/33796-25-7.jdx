@@ -1,0 +1,38 @@
+##TITLE=Library Entry 17911
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Dimethylhydroxymethylphosphine
+##MOLFORM=C3H9OP
+##CAS REGISTRY NO=33796-25-7
+##MP= -300
+##BP= -300
+##MW= 92
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    30         19
+    31        108
+    41          9
+    42          9
+    43         20
+    44        151
+    45        549
+    46        999
+    47        159
+    48         20
+    49         40
+    56          9
+    57        169
+    58        199
+    59        258
+    60          9
+    61        130
+    62        700
+    63         19
+    75         10
+    77         20
+    92        209
+    93         19

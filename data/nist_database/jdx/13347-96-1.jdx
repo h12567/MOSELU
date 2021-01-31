@@ -1,0 +1,64 @@
+##TITLE=Library Entry 2916
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=M. HESSE, INST. ORG. CHEM., UNIV. ZURICH, ZURICH, SWITZ
+.
+##NAMES=HP
+##CAS NAME=Ethyl 1-(2-formylethyl)-2-oxocylooctane-1-carboxylate
+##MOLFORM=C14H22O4
+##CAS REGISTRY NO=13347-96-1
+##MP= -300
+##BP= -300
+##MW= 254
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        999
+    42        250
+    43        320
+    53        280
+    54        160
+    55        970
+    57        170
+    67        630
+    68        170
+    69        420
+    70        140
+    79        230
+    80        140
+    81        410
+    82        160
+    83        510
+    84        180
+    85        170
+    88        240
+    91        140
+    93        150
+    95        380
+    96        250
+    97        250
+    98        550
+    99        200
+   101        140
+   109        720
+   110        210
+   111        640
+   112        140
+   119        160
+   123        130
+   124        250
+   128        120
+   136        130
+   137        390
+   151        150
+   152        430
+   157        130
+   164        200
+   165        450
+   170        130
+   180        310
+   198        220
+   208        150
+   211        320
+   254        190

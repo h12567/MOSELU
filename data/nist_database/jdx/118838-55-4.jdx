@@ -1,0 +1,76 @@
+##TITLE=Library Entry 82914
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=2-Bromo-1-[4-pyridyl]ethanol
+##MOLFORM=C7H8BrNO
+##CAS REGISTRY NO=118838-55-4
+##MP= -300
+##BP= -300
+##MW= 201
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    48          3
+    49         47
+    50        294
+    51        606
+    52        162
+    53         33
+    54          2
+    55          0
+    57          0
+    59          0
+    60          2
+    61         16
+    62         25
+    63         38
+    64         10
+    65         29
+    66          6
+    67          2
+    69          0
+    73          2
+    74          9
+    75         24
+    76         22
+    77         21
+    78        916
+    79        543
+    80        547
+    81        219
+    82        525
+    83          0
+    84          4
+    86          3
+    89         35
+    90          1
+    91          0
+    92         12
+    93         12
+    94          5
+    95          0
+   104         15
+   105          5
+   106        999
+   107         73
+   108         37
+   109          2
+   120          6
+   121        991
+   122        168
+   123         23
+   124          1
+   134         12
+   135         32
+   136         35
+   137          3
+   184          1
+   186          1
+   199          0
+   201          2
+   202          0
+   203          2

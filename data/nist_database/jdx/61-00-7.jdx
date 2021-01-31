@@ -1,0 +1,45 @@
+##TITLE=Library Entry 29247
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Acepromazine
+##MOLFORM=C19H22N2OS
+##CAS REGISTRY NO=61-00-7
+##MP= -300
+##BP= -300
+##MW= 326
+##$RETENTION INDEX=2712
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    41         50
+    42        130
+    43        110
+    44         80
+    58        999
+    59         60
+    85         70
+    86        160
+    87         20
+   179         20
+   196         70
+   197        170
+   198         40
+   210         20
+   211         10
+   212         10
+   222         40
+   223         20
+   224         20
+   225         30
+   226         10
+   240         60
+   241         30
+   254         20
+   255         20
+   266         10
+   267         10
+   268         10
+   280         30
+   326         50

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 78690
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Benzoyl-diisopropylphosphine
+##MOLFORM=C13H19OP
+##CAS REGISTRY NO=51049-59-3
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    39         20
+    41         50
+    42         20
+    43         79
+    45         20
+    50         71
+    51        207
+    52         29
+    74         29
+    75         39
+    76         50
+    77        496
+    78         60
+    79         29
+   105        999
+   106        128
+   117         10
+   118          9
+   140         99
+   141         20
+   142         29
+   222         99

@@ -1,0 +1,51 @@
+##TITLE=Library Entry 39300
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Heptanenitrile, 4-acetyl-
+##MOLFORM=C9H15NO
+##CAS REGISTRY NO=55320-41-7
+##MP= -300
+##BP= -300
+##MW= 153
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    41          9
+    43         98
+    50          9
+    51         29
+    52         39
+    53        117
+    54        127
+    55        323
+    56         29
+    57         19
+    58         29
+    65         19
+    66          9
+    67         58
+    68         88
+    69        431
+    70         29
+    71        999
+    72         39
+    77          9
+    79          9
+    80          9
+    81          9
+    82         49
+    83        274
+    84          9
+    93         19
+    94         19
+    96          9
+    97          9
+   109        107
+   110        627
+   111         39
+   124          9
+   153          9

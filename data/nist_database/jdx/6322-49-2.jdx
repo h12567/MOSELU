@@ -1,0 +1,63 @@
+##TITLE=Library Entry 5497
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=4-Chloro-2-butanone
+##MOLFORM=C4H7ClO
+##CAS REGISTRY NO=6322-49-2
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=760
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+     4          1
+    12          2
+    13          8
+    14         34
+    15        129
+    16          2
+    18          1
+    24          1
+    25         10
+    26         77
+    27        220
+    28         46
+    29         20
+    31          2
+    35          9
+    36          6
+    37         16
+    38         15
+    39         29
+    40          5
+    41         22
+    42         87
+    43        999
+    44         24
+    45          3
+    47          3
+    48          4
+    49         23
+    50         10
+    51         13
+    52          1
+    53          8
+    55         29
+    56          2
+    60          3
+    61          9
+    63         77
+    64          4
+    65         24
+    71        118
+    72          4
+    73          1
+    91         19
+    92          1
+    93          5
+   106         19
+   107          0
+   108          5

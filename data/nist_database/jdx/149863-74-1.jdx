@@ -1,0 +1,86 @@
+##TITLE=Library Entry 34283
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Inst.Petrochem.Synth.,RAS,Moscow
+##NAMES=HP
+##CAS NAME=2-Bromopropionic acid, cyclopentyl ester
+##MOLFORM=C8H13BrO2
+##CAS REGISTRY NO=149863-74-1
+##MP= -300
+##BP= -300
+##MW= 220
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 71
+##XYDATA=(XY..XY) 1 
+    25         16
+    26        136
+    27        483
+    28         26
+    29        173
+    30          6
+    39        209
+    40         71
+    41        614
+    42         72
+    43        128
+    44         12
+    53         76
+    54         11
+    55        144
+    56        337
+    57        139
+    58         13
+    59          3
+    60          3
+    61          3
+    62          6
+    63         43
+    64          7
+    65         28
+    66         24
+    67        243
+    68        608
+    69        999
+    70        104
+    71         10
+    72          8
+    73         17
+    74          5
+    75          9
+    76          6
+    77          4
+    81         10
+    82          6
+    83          8
+    84         18
+    85         98
+    86         15
+    91         15
+    92          3
+    93          8
+    94          2
+    95         19
+    96          3
+    97         25
+    98          2
+   105          5
+   106         13
+   107        304
+   108         30
+   109        275
+   110         16
+   111          6
+   113         26
+   119          4
+   134         14
+   135        182
+   136         21
+   137        176
+   138          6
+   139          2
+   141         12
+   152          3
+   153         12
+   154          2
+   155         10

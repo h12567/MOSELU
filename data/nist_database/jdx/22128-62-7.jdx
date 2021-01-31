@@ -1,0 +1,53 @@
+##TITLE=Library Entry 18032
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=Carbonochloridic acid, chloromethyl ester
+##MOLFORM=C2H2Cl2O2
+##CAS REGISTRY NO=22128-62-7
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    12         23
+    13         32
+    14         99
+    16         12
+    28         47
+    29        310
+    30        112
+    31          2
+    35        201
+    36         32
+    37         68
+    38         11
+    44         85
+    45          6
+    47         53
+    49        999
+    50         20
+    51        321
+    52          3
+    53          2
+    56          1
+    57          7
+    63        774
+    64         43
+    65        618
+    66         17
+    67        120
+    68          1
+    72          4
+    74          4
+    93        532
+    94         11
+    95        180
+    96          3
+    99         18
+   100          1
+   101         12
+   103          1

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 80578
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chuck Anderson, Aldrich Chemical Co.
+##NAMES=HP
+##CAS NAME=Butanoic acid, 1-phenylethyl ester
+##MOLFORM=C12H16O2
+##CAS REGISTRY NO=3460-44-4
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15         12
+    18          0
+    26          9
+    27        128
+    28         19
+    29         17
+    38          7
+    39         59
+    40          7
+    41         79
+    42         19
+    43        345
+    44         18
+    45          8
+    50         25
+    51         96
+    52         25
+    53         12
+    55         13
+    59          3
+    60          3
+    62          6
+    63         21
+    64          4
+    65         16
+    70          3
+    71        345
+    72         16
+    73          5
+    74          9
+    75          8
+    76         13
+    77        275
+    78        175
+    79        157
+    80          9
+    89         20
+    90          1
+    91         27
+   102         18
+   103        179
+   104        911
+   105        999
+   106         84
+   107        107
+   108          7
+   120          0
+   121         56
+   122        884
+   123         73
+   124          4
+   192        117
+   193         15

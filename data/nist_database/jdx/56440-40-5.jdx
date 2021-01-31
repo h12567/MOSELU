@@ -1,0 +1,47 @@
+##TITLE=Library Entry 97709
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=F. COMPERNOLLE, DEP. CHEM., LEUVEN UNIV., HEVERLEE, BEL
+G
+##NAMES=HP
+##CAS NAME=2-Methoxy-5-ethyl-5-phenyl-4-oxazolidone
+##MOLFORM=C12H15NO3
+##CAS REGISTRY NO=56440-40-5
+##MP= -300
+##BP= -300
+##MW= 221
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    57        120
+    77        120
+    78         10
+    91        140
+   103         60
+   105        160
+   107         50
+   115        120
+   116         60
+   117        999
+   118        400
+   119         60
+   120         40
+   130         30
+   132         40
+   134         30
+   135        140
+   136         30
+   143         20
+   145         70
+   146         50
+   149        170
+   150         30
+   160         20
+   161         10
+   164         10
+   188         20
+   189        600
+   190         70
+   192         40
+   221         15

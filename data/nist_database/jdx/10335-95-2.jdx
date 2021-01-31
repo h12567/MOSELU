@@ -1,0 +1,77 @@
+##TITLE=Library Entry 80908
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2545
+##NAMES=HP
+##CAS NAME=Beta-hydroxyphenethyl benzoate
+##MOLFORM=C15H14O3
+##CAS REGISTRY NO=10335-95-2
+##MP= -300
+##BP= -300
+##MW= 242
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    15          1
+    17          1
+    18          1
+    27          8
+    28          7
+    29          5
+    31          2
+    38          2
+    39         12
+    40          1
+    41          2
+    43          8
+    50         19
+    51         79
+    52          9
+    53          5
+    62          1
+    63          5
+    64          1
+    65         10
+    66          1
+    74          4
+    75          5
+    76         11
+    77        319
+    78         51
+    79        140
+    80          9
+    89          3
+    90          4
+    91         76
+    92         77
+    93          7
+   102          1
+   103         17
+   104         11
+   105        999
+   106         94
+   107        535
+   108         41
+   109          2
+   112          2
+   118          9
+   119          5
+   120        694
+   121         65
+   122          9
+   123          2
+   135         64
+   136         63
+   137          8
+   138          1
+   167          1
+   194          2
+   196          7
+   197          1
+   211         34
+   212         65
+   213          9
+   214          1
+   224         41
+   225          8

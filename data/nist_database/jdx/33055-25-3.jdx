@@ -1,0 +1,37 @@
+##TITLE=Library Entry 6774
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.L.DREYER U.S. DEPT. OF AGRIC., PASADENA, CAL., USA
+##NAMES=HP
+##CAS NAME=Benzamide, N-[2-[4-[[5-(3,3-dimethyloxiranyl)-4-hydroxy-3-methyl-
+2-pentenyl]oxy]phenyl]ethyl]-
+##MOLFORM=C25H31NO4
+##CAS REGISTRY NO=33055-25-3
+##MP= -300
+##BP= -300
+##MW= 409
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    39        180
+    41        460
+    43        999
+    44        940
+    45        120
+    53        140
+    55        140
+    57        100
+    59        330
+    60        100
+    71        160
+    77        340
+    79        100
+    86        100
+    91        500
+   105        600
+   107        140
+   120        840
+   121        100
+   122        120
+   202        120

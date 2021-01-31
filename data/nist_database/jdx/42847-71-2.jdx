@@ -1,0 +1,26 @@
+##TITLE=Library Entry 71270
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. JACOB, INST. KLIN. CHEM., UNIV. MUNICH, MUNICH, W. G
+ERMAN
+##NAMES=HP
+##CAS NAME=N-(Dimethylthiophosphinyl)cyclohexylamine
+##MOLFORM=C8H18NPS
+##CAS REGISTRY NO=42847-71-2
+##MP= -300
+##BP= -300
+##MW= 191
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    56        290
+    65        220
+    76        170
+    81        210
+    93        860
+    94        950
+    98        999
+    99        260
+   158        810
+   191        450

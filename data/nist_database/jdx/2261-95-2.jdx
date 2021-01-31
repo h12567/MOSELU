@@ -1,0 +1,65 @@
+##TITLE=Library Entry 61469
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G.Lynes ET AL. J.Chrom.,562,213(1991)
+##NAMES=HP
+##CAS NAME=Phenylalanine, 2-trifluoromethyloxazolinone deriv.
+##MOLFORM=C11H8F3NO2
+##CAS REGISTRY NO=2261-95-2
+##MP= -300
+##BP= -300
+##MW= 243
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    51        116
+    52         28
+    53          6
+    61          7
+    62         18
+    63         74
+    64         26
+    65        161
+    66         11
+    69         44
+    72          9
+    74         17
+    75         24
+    76         24
+    77         59
+    78         20
+    88          9
+    89         83
+    90         83
+    91        999
+    92         83
+   102         24
+   103         31
+   107         11
+   109         18
+   116         68
+   117        288
+   118         76
+   119         11
+   128         79
+   129         13
+   131         59
+   146         22
+   147          9
+   156         26
+   157          7
+   174         43
+   175         17
+   176          6
+   179          6
+   180          6
+   196         26
+   197         15
+   198         74
+   199         18
+   215         20
+   224          7
+   243        262
+   244         31
+   245          5

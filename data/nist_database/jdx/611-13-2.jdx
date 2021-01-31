@@ -1,0 +1,63 @@
+##TITLE=Library Entry 68621
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Methyl 2-furoate
+##MOLFORM=C6H6O3
+##CAS REGISTRY NO=611-13-2
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=979
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+     4          3
+    12          2
+    13          8
+    14         17
+    15         98
+    16          1
+    18          0
+    24          1
+    25          7
+    26         18
+    27         25
+    28          3
+    29         92
+    30         16
+    31          6
+    34          1
+    37         85
+    38        156
+    39        307
+    40         19
+    41         22
+    42          7
+    43          2
+    44          3
+    45          2
+    49          4
+    50          6
+    51         14
+    53         24
+    54          5
+    55          7
+    59         13
+    65          4
+    66         16
+    67         63
+    68         55
+    69          6
+    70          0
+    81         23
+    82          2
+    83          9
+    95        999
+    96         94
+    97         10
+    98          3
+   126        311
+   127         20
+   128          0

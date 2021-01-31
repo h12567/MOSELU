@@ -1,0 +1,63 @@
+##TITLE=Library Entry 88879
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K.Midha ET.AL.Biomed.Mass Spectrom.,3,100(1976)
+##NAMES=HP
+##CAS NAME=Urea, N-(4-chlorobenzenesulfonyl)-N-methyl-N'-propyl-
+##MOLFORM=C11H15ClN2O3S
+##CAS REGISTRY NO=60153-02-8
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41         94
+    42        107
+    43         81
+    50        183
+    51        124
+    56        254
+    57        118
+    58         56
+    73         52
+    74        128
+    75        343
+    76        122
+    77        107
+    78         72
+    84        134
+    85         64
+    90         53
+    99        166
+   111        999
+   112        331
+   113        359
+   114        115
+   127         28
+   128        106
+   129         10
+   130         20
+   140        203
+   141        374
+   142         62
+   143        124
+   159         51
+   175        746
+   176        151
+   177        248
+   178         48
+   204        114
+   205        484
+   206         63
+   207        188
+   226         40
+   227          6
+   228         13
+   232         30
+   234          9
+   260         10
+   261         20
+   262          8
+   263          8

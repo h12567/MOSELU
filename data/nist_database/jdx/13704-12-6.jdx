@@ -1,0 +1,67 @@
+##TITLE=Library Entry 95730
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=Carbonic acid, thio-, O-methyl O-1-naphthyl ester
+##MOLFORM=C12H10O2S
+##CAS REGISTRY NO=13704-12-6
+##MP= -300
+##BP= -300
+##MW= 218
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    15        150
+    16         10
+    17        120
+    18        590
+    20         10
+    28        140
+    32         20
+    39         60
+    41         10
+    44         70
+    45         10
+    47         70
+    50         30
+    51         40
+    59         30
+    60         20
+    61         10
+    62         30
+    63        100
+    64         10
+    65         40
+    74         20
+    75        490
+    76         20
+    77         50
+    86         10
+    87         10
+    88         20
+    89         80
+   101         10
+   113         20
+   114         40
+   115        999
+   116        100
+   126         30
+   127        140
+   128         60
+   129         30
+   141         40
+   143        410
+   144         80
+   157         10
+   158        210
+   159        220
+   160         30
+   173         10
+   174        130
+   175         10
+   218        820
+   219        110
+   220         40

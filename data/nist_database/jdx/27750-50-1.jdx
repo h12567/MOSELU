@@ -1,0 +1,75 @@
+##TITLE=Library Entry 43025
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ORVAL A. MAMER, ROYAL VICTORIA HOSPITAL, MONTREAL, CANA
+DA
+##NAMES=HP
+##CAS NAME=4-Methoxybenzeneacetic acid, TMS derivative
+##MOLFORM=C12H18O3Si
+##CAS REGISTRY NO=27750-50-1
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=1521
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    15         21
+    18          7
+    27         10
+    28         24
+    29         13
+    39         21
+    41         11
+    43         38
+    44         23
+    45        114
+    46          8
+    47         37
+    50         11
+    51         41
+    52         28
+    53         12
+    55         17
+    57          7
+    58         17
+    59         22
+    61         24
+    63         16
+    65         17
+    72         17
+    73        999
+    74         92
+    75        212
+    76         21
+    77         73
+    78         73
+    79          9
+    89         26
+    90         17
+    91         44
+    92          7
+   105         10
+   106          8
+   111         17
+   117         13
+   120         16
+   121        217
+   122         21
+   133          9
+   135          6
+   147         25
+   148         15
+   149          7
+   167         21
+   179        284
+   180         48
+   181         14
+   194         13
+   195         31
+   196          6
+   223         76
+   224         14
+   225          7
+   238         83
+   239         16

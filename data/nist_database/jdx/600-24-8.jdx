@@ -1,0 +1,45 @@
+##TITLE=Library Entry 477
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Butane, 2-nitro-
+##MOLFORM=C4H9NO2
+##CAS REGISTRY NO=600-24-8
+##MP= -300
+##BP= -300
+##MW= 103
+##$RETENTION INDEX=776
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    25         14
+    26         92
+    27        392
+    28        161
+    29        999
+    30        288
+    31         14
+    32         21
+    37         23
+    38         40
+    39        278
+    40         92
+    41        857
+    42        309
+    43        157
+    44         88
+    45         16
+    46         30
+    49         11
+    50         30
+    51         40
+    52         21
+    53         42
+    54         52
+    55        119
+    56        161
+    57        676
+    58         38
+    83         14
+    84         14

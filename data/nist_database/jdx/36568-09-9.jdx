@@ -1,0 +1,31 @@
+##TITLE=Library Entry 74762
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Octanoic acid, 3,5-dioxo-, methyl ester
+##MOLFORM=C9H14O4
+##CAS REGISTRY NO=36568-09-9
+##MP= -300
+##BP= -300
+##MW= 186
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    43        170
+    59        809
+    69        509
+    71        899
+    84        719
+    85        729
+    97        280
+   101        999
+   113        919
+   115        619
+   126        729
+   143        809
+   157        569
+   158        679
+   171        220
+   186        410

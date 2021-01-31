@@ -1,0 +1,23 @@
+##TITLE=Library Entry 83210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(2-Methylphenyl)-4-methylbenzene-sulphenamide
+##MOLFORM=C14H15NS
+##CAS REGISTRY NO=111685-80-4
+##MP= -300
+##BP= -300
+##MW= 229
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 8
+##XYDATA=(XY..XY) 1 
+    91        118
+   106        999
+   107        198
+   123         90
+   124        108
+   196         39
+   228          9
+   229        517

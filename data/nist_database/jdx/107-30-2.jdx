@@ -1,0 +1,54 @@
+##TITLE=Library Entry 16668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4408
+##NAMES=HP
+##CAS NAME=Methane, chloromethoxy-
+##MOLFORM=C2H5ClO
+##CAS REGISTRY NO=107-30-2
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=542
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          7
+    14         27
+    15        250
+    16          6
+    17          2
+    18          7
+    26          1
+    27          1
+    28         27
+    29        279
+    30         41
+    31         25
+    32         12
+    35         14
+    36         15
+    37          5
+    38          5
+    40          2
+    42          3
+    43          5
+    44         13
+    45        999
+    46         23
+    47          7
+    48          9
+    49        132
+    50          9
+    51         46
+    52          2
+    53          4
+    61          1
+    63          3
+    65          1
+    78          1
+    79         35
+    80          7
+    81         11
+    82          2

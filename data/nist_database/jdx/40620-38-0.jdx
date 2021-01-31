@@ -1,0 +1,43 @@
+##TITLE=Library Entry 83558
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=N-(p-Methoxyphenyl)-N'-(1,1-dicyanoethyl)-diazene
+##MOLFORM=C11H10N4O
+##CAS REGISTRY NO=40620-38-0
+##MP= -300
+##BP= -300
+##MW= 214
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 28
+##XYDATA=(XY..XY) 1 
+    38         61
+    39         69
+    41         30
+    50         88
+    51         89
+    52         98
+    53        119
+    62         39
+    63        168
+    64        320
+    74         40
+    76         70
+    77        855
+    78        861
+    79         99
+    80         39
+    92        860
+   106         40
+   107        999
+   108        481
+   109         40
+   121         29
+   122         29
+   135        817
+   136        140
+   171         50
+   199         29
+   214          9

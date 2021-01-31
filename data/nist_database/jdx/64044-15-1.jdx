@@ -1,0 +1,71 @@
+##TITLE=Library Entry 13350
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1273(1977);43; A. VASELLA, EIDGENOSSISCHEN
+ TECHNISCHEN HOCHSCHULE, ZURICH, SWITZERLAND
+##NAMES=HP
+##CAS NAME=5-Isoxazolidinecarboxylic acid, 2-[2,3:5,6-bis-O-(1-methylethylid
+ene)-.alpha.-D-mannofuranosyl]-3,5-dimethyl-, methyl ester, (3R-trans)-
+##MOLFORM=C19H31NO8
+##CAS REGISTRY NO=64044-15-1
+##MP= -300
+##BP= -300
+##MW= 401
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 54
+##XYDATA=(XY..XY) 1 
+    41        280
+    43        999
+    55        120
+    57        150
+    59        400
+    68        110
+    69        250
+    70         80
+    71        180
+    72        110
+    73        100
+    81        150
+    85        350
+    95         80
+    97        100
+    98        210
+    99        330
+   100        450
+   101        680
+   113         20
+   115         50
+   126        150
+   127        390
+   128         60
+   129        130
+   141        320
+   142        150
+   145         70
+   149         70
+   156         50
+   159        500
+   160        160
+   167         90
+   168         40
+   172         70
+   185        450
+   187        240
+   188        980
+   189         80
+   200         80
+   213         70
+   226         20
+   245         40
+   284         60
+   300        430
+   301         50
+   326         20
+   328         50
+   330         30
+   342         40
+   386        370
+   387         70
+   401        330
+   402         60

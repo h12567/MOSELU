@@ -1,0 +1,32 @@
+##TITLE=Library Entry 16966
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Acetic acid, mercapto-, 2-methoxyethyl ester
+##MOLFORM=C5H10O3S
+##CAS REGISTRY NO=19788-48-8
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    27        130
+    28        130
+    29        360
+    31        230
+    42        160
+    43        220
+    44        120
+    45        999
+    46        180
+    47        670
+    58        660
+    59        610
+    74         70
+    75        170
+    77        270
+   118        120
+   150         50

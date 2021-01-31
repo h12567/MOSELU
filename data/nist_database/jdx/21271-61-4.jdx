@@ -1,0 +1,54 @@
+##TITLE=Library Entry 16950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Div. of Experiment Therapeutics WRAIR, WRAMC, Washingto
+n DC 20307
+##NAMES=HP
+##CAS NAME=Ethyl 6-amino-4-[p-sulfamylbenzylamino]-5-nitro-2-pyrimidinecarba
+mate 2-pyrimidinecarbamate
+##MOLFORM=C15H18N6O6S
+##CAS REGISTRY NO=21271-61-4
+##MP= -300
+##BP= -300
+##MW= 410
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    41         77
+    42         95
+    43        358
+    44        178
+    45        999
+    46        478
+    47         37
+    64         31
+    67         30
+    77         74
+    79         30
+    84         20
+    86        226
+    89         46
+    90         37
+    94         29
+   106         95
+   107         48
+   121         30
+   136         28
+   158         28
+   184        141
+   185         21
+   225         37
+   260         74
+   262         31
+   320         68
+   321         36
+   329         38
+   330         32
+   346        218
+   347        154
+   348         29
+   375         33
+   393         85
+   410        166
+   411         26

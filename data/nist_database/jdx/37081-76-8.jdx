@@ -1,0 +1,76 @@
+##TITLE=Library Entry 22944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Patti Price, Georgia Bureau of Investigation, Decatur,
+ Georgia
+##NAMES=HP
+##CAS NAME=7-Hydroxyamoxapine
+##MOLFORM=C17H16ClN3O2
+##CAS REGISTRY NO=37081-76-8
+##MP= -300
+##BP= -300
+##MW= 329
+##$RETENTION INDEX=2900
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 60
+##XYDATA=(XY..XY) 1 
+    41        107
+    42        405
+    44        121
+    50         87
+    51        178
+    52        239
+    53        156
+    54         81
+    56        999
+    58        181
+    62         65
+    63        286
+    65         87
+    69        170
+    75        263
+    76         58
+    77         65
+    78         82
+    79         58
+    80        147
+    81         27
+    85        131
+    87         69
+   108         63
+   111         30
+   112         31
+   114         33
+   122         25
+   123         45
+   124         76
+   125         78
+   126        213
+   127        126
+   152        156
+   153        297
+   176         21
+   178         14
+   179         49
+   188         50
+   204         25
+   209        703
+   210        136
+   216         61
+   217         70
+   238         28
+   239         31
+   243         37
+   244        211
+   245        124
+   246        155
+   260        499
+   261        614
+   262        240
+   263        301
+   273        356
+   274        105
+   275        105
+   285         90
+   287        105
+   329        112

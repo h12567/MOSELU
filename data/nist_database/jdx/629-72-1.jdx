@@ -1,0 +1,74 @@
+##TITLE=Library Entry 24058
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Pentadecane, 1-bromo-
+##MOLFORM=C15H31Br
+##CAS REGISTRY NO=629-72-1
+##MP= -300
+##BP= -300
+##MW= 290
+##$RETENTION INDEX=1854
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          8
+    27        127
+    28         78
+    29        283
+    32          5
+    39        137
+    41        856
+    42        188
+    43        952
+    44         38
+    53         60
+    54         85
+    55        781
+    56        254
+    57        999
+    58         47
+    65         10
+    67         85
+    68         64
+    69        513
+    70        185
+    71        613
+    72         36
+    79         16
+    80         11
+    81         34
+    82         49
+    83        281
+    84         89
+    85        344
+    86         27
+    93          7
+    95         14
+    96         18
+    97        166
+    98         41
+    99         89
+   107         25
+   109         24
+   110          7
+   111         57
+   112         20
+   113         53
+   121         14
+   123         13
+   125         12
+   126         11
+   127         36
+   135        703
+   137        680
+   138         30
+   141         24
+   148         13
+   149        129
+   150         21
+   151        125
+   155         14
+   163         18
+   165         16

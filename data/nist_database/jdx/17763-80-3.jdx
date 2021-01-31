@@ -1,0 +1,33 @@
+##TITLE=Library Entry 34853
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-Nitrophenyl trifluoromethanesulfonate
+##MOLFORM=C7H4F3NO5S
+##CAS REGISTRY NO=17763-80-3
+##MP= -300
+##BP= -300
+##MW= 271
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    38        148
+    50        702
+    51         49
+    52         48
+    62         79
+    63        447
+    64        338
+    69        999
+    75        149
+    83         60
+    92        219
+    95        637
+    99         49
+   122         50
+   149        139
+   161        109
+   177        279
+   271        240

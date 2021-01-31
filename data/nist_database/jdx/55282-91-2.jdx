@@ -1,0 +1,88 @@
+##TITLE=Library Entry 541
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2,7-Octadienoic acid, ethyl ester, (E)-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=55282-91-2
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    27        580
+    28        200
+    29        999
+    30         20
+    31         20
+    38         30
+    39        630
+    40        150
+    41        640
+    42        150
+    43        240
+    44         30
+    45        100
+    50         20
+    51         80
+    52         40
+    53        420
+    54        730
+    55        980
+    56         80
+    57        110
+    60         50
+    61        100
+    65         60
+    66         60
+    67        520
+    68        500
+    69         80
+    70         90
+    71         70
+    73        230
+    77         80
+    78         50
+    79        330
+    80        560
+    81        870
+    82         90
+    83         30
+    84         40
+    85         60
+    86        410
+    87         20
+    88        130
+    89         80
+    91         50
+    93        180
+    94        320
+    95        760
+    96         80
+    97        250
+    98        310
+    99        300
+   100         30
+   101         80
+   107         20
+   111         90
+   112         90
+   114        340
+   115         30
+   121         70
+   122        200
+   123        460
+   124         70
+   125        230
+   126         90
+   127         90
+   139        170
+   140        320
+   141         40
+   167         20
+   168        120
+   169         20

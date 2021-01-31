@@ -1,0 +1,51 @@
+##TITLE=Library Entry 57351
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CLERIN, EC. SUPER. CHIM. MULHOUSE, UNIV. STRASBOURG,
+ FR.
+##NAMES=HP
+##CAS NAME=4-[N-(4-Nitrobenzamido)acetyl]morpholine
+##MOLFORM=C13H15N3O5
+##CAS REGISTRY NO=51769-93-8
+##MP= -300
+##BP= -300
+##MW= 293
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    50         54
+    55         37
+    56         98
+    57        200
+    58         26
+    64         20
+    65         28
+    70        640
+    71         26
+    75         56
+    76        170
+    77         24
+    85         47
+    86        280
+    87        999
+    88        170
+    92         69
+    99         60
+   103         28
+   104        250
+   105         27
+   114        630
+   115         38
+   120        290
+   121         48
+   127         46
+   134         77
+   143         24
+   150        560
+   151         55
+   177         28
+   179         68
+   207         22
+   263         24
+   293         29

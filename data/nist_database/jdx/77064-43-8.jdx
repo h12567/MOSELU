@@ -1,0 +1,32 @@
+##TITLE=Library Entry 78847
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=1-Benzoyl-5-methyl-1-azaspiro[3,5]nonan-2-one
+##MOLFORM=C16H19NO2
+##CAS REGISTRY NO=77064-43-8
+##MP= -300
+##BP= -300
+##MW= 257
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 17
+##XYDATA=(XY..XY) 1 
+    41        119
+    42        240
+    43          5
+    51        131
+    52          9
+    70        331
+    71         42
+    77        929
+    78         63
+   105        999
+   106         98
+   107         12
+   242         41
+   243         10
+   256         53
+   257        212
+   258         37

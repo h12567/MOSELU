@@ -1,0 +1,91 @@
+##TITLE=Library Entry 12432
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 2010
+##NAMES=HP
+##CAS NAME=D-Ribononitrile, 2,3,4,5-tetraacetate
+##MOLFORM=C13H17NO8
+##CAS REGISTRY NO=25546-50-3
+##MP= -300
+##BP= -300
+##MW= 315
+##$RETENTION INDEX=1691
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 76
+##XYDATA=(XY..XY) 1 
+    15          9
+    27          1
+    28          3
+    29          2
+    31          1
+    39          2
+    40          1
+    41          2
+    42         14
+    43        999
+    44         22
+    45          3
+    51          1
+    52          2
+    53          1
+    54          1
+    55          2
+    56          1
+    57          3
+    60          3
+    61          4
+    68          1
+    70          4
+    71          1
+    73          8
+    74          1
+    83          1
+    84          1
+    85          4
+    86          5
+    87          1
+    93          1
+    94          1
+    99          5
+   100          1
+   101          1
+   102          4
+   103         84
+   104          4
+   105          1
+   111          3
+   112          8
+   113          1
+   115         94
+   116          8
+   117          1
+   123          1
+   125          1
+   126          1
+   128          1
+   129          5
+   130          1
+   133          1
+   138          1
+   140          6
+   141         11
+   142          1
+   144          1
+   145         97
+   146          6
+   147          1
+   153          8
+   154          3
+   157         16
+   158          2
+   170          2
+   171          3
+   175          8
+   176          1
+   180          1
+   183          1
+   200          6
+   213          2
+   217          8
+   218          1
+   242          4

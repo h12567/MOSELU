@@ -1,0 +1,48 @@
+##TITLE=Library Entry 20515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 4-ethenyl-
+##MOLFORM=C8H12O
+##CAS REGISTRY NO=1740-64-3
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 33
+##XYDATA=(XY..XY) 1 
+    29         47
+    39        358
+    40         96
+    41        362
+    42        181
+    51         48
+    52         43
+    53        343
+    54        611
+    55        999
+    56         58
+    65         81
+    66         79
+    67        794
+    68        474
+    69        195
+    77         51
+    79        137
+    80         66
+    81        828
+    82        200
+    83        180
+    91         33
+    93         21
+    95        185
+    96        460
+    97         39
+   106         26
+   109        106
+   119         29
+   123         17
+   124        724
+   125         69

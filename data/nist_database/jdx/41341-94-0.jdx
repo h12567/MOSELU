@@ -1,0 +1,78 @@
+##TITLE=Library Entry 62278
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=.alpha.-d-Glucopyranoside, phenylmethyl 2-(acetylamino)-2,6-dideo
+xy-6-fluoro-3,4-bis-O-(phenylmethyl)-
+##MOLFORM=C29H32FNO5
+##CAS REGISTRY NO=41341-94-0
+##MP= -300
+##BP= -300
+##MW= 493
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    43        250
+    65        170
+    91        999
+    92        420
+   101        280
+   120         80
+   126         40
+   129        110
+   130        140
+   138         40
+   143        999
+   144        120
+   145         80
+   146         90
+   148         40
+   149         40
+   150         40
+   158         80
+   162        130
+   163         60
+   171        110
+   172        499
+   173        140
+   174         40
+   179         50
+   181        160
+   188        140
+   190         40
+   191         70
+   192         30
+   204        240
+   205         50
+   206         40
+   207         20
+   222         30
+   240        160
+   241         30
+   248         30
+   249         40
+   250         20
+   278         50
+   279        390
+   280        290
+   281        100
+   282        110
+   294         80
+   296        240
+   297         50
+   310         20
+   360         20
+   374         50
+   386         20
+   387         50
+   402        260
+   403         80
+   404         10
+   430          4
+   450          3
+   476          2
+   492          3
+   493         12
+   494          4

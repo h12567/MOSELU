@@ -1,0 +1,26 @@
+##TITLE=Library Entry 7954
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,7,7-Trimethyl-2-(.alpha.-cyclohexyl-benzylimino)-bicyclo(2,2,1)
+heptane
+##MOLFORM=C23H33N
+##CAS REGISTRY NO=115148-61-3
+##MP= -300
+##BP= -300
+##MW= 323
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 10
+##XYDATA=(XY..XY) 1 
+    43        999
+    57        499
+    69        316
+    82        419
+    91        498
+    94        169
+   109        109
+   173         60
+   240        189
+   323         19

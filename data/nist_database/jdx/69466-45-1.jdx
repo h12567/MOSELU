@@ -1,0 +1,50 @@
+##TITLE=Library Entry 19263
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D. CORINA, DEP. BIOCHEM., UNIV. SOUTHAMPTON, SOUTHAMPTO
+N, U.
+##NAMES=HP
+##CAS NAME=1,2-Dithiacyclotetradecane
+##MOLFORM=C12H24S2
+##CAS REGISTRY NO=69466-45-1
+##MP= -300
+##BP= -300
+##MW= 232
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 34
+##XYDATA=(XY..XY) 1 
+    41        670
+    55        999
+    67        220
+    69        550
+    81        150
+    83        260
+    87        470
+    88         40
+    89         36
+    95         85
+    97        130
+   101        190
+   102         21
+   103         15
+   109         32
+   111         35
+   115         65
+   116          8
+   117          7
+   129         35
+   130          4
+   131          4
+   143         28
+   157         15
+   159          4
+   171         19
+   176         11
+   199        260
+   200         41
+   201         15
+   204         15
+   232        260
+   233         37
+   234         26

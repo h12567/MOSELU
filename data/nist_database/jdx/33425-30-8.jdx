@@ -1,0 +1,61 @@
+##TITLE=Library Entry 8380
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=2-Methylbut-2-en-1-yl acetate
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=33425-30-8
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=921
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26          7
+    27         75
+    28         17
+    29         68
+    30          2
+    31          6
+    37          5
+    38         14
+    39        168
+    40         82
+    41        368
+    42         74
+    43        999
+    44         29
+    45         15
+    49          3
+    50         18
+    51         30
+    52         16
+    53        247
+    54         31
+    55         42
+    56         14
+    57         26
+    58         16
+    59          1
+    60          1
+    61         41
+    62          3
+    63          4
+    65         22
+    66         15
+    67        617
+    68        588
+    69        205
+    70         10
+    71        278
+    72         16
+    83          4
+    84          7
+    85         81
+    86        325
+    87         19
+   113          3
+   128         41
+   129          2

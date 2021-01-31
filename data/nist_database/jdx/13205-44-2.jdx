@@ -1,0 +1,40 @@
+##TITLE=Library Entry 1980
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CCC 0002
+##NAMES=HP
+##CAS NAME=Borane carbonyl
+##MOLFORM=CH3BO
+##CAS REGISTRY NO=13205-44-2
+##MP= -300
+##BP= -300
+##MW= 42
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    10        103
+    11        522
+    12        672
+    13        654
+    14         16
+    15         23
+    16         11
+    20         17
+    21         10
+    22         59
+    23        231
+    24        405
+    25        241
+    26        415
+    27        397
+    28        215
+    29         81
+    30          5
+    39        216
+    40        999
+    41        682
+    42        360
+    43         31
+    44          3
+    45          1

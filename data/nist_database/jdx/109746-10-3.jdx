@@ -1,0 +1,52 @@
+##TITLE=Library Entry 66199
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Lange, Inst. Org. Chem., Univ. Wurzburg, Germany
+##NAMES=HP
+##CAS NAME=1,4-Methano-1H-Cyclopropa[d]pyridazine, 4,4a,5,5a-tetrahydro-6,6-
+dimethyl-, (1.alpha.,4.alpha.,4a.alpha.,5a.alpha.)-
+##MOLFORM=C8H12N2
+##CAS REGISTRY NO=109746-10-3
+##MP= -300
+##BP= -300
+##MW= 136
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    37          5
+    38         21
+    39        226
+    40         40
+    41        116
+    42         11
+    43          9
+    45          9
+    50         27
+    51         87
+    52         34
+    53         51
+    54         11
+    55          8
+    62         11
+    63         36
+    64         12
+    65        118
+    66         28
+    67         44
+    68          5
+    77        473
+    78         71
+    79         44
+    80          7
+    82          7
+    89         26
+    90         11
+    91        550
+    92        101
+    93        999
+    94         76
+   105         10
+   107         11
+   108         68
+   109          6

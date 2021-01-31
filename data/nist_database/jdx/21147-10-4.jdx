@@ -1,0 +1,50 @@
+##TITLE=Library Entry 63149
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Sulfoxide, .beta.-ethylstyryl methyl
+##MOLFORM=C11H14OS
+##CAS REGISTRY NO=21147-10-4
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    50         90
+    51        230
+    63        120
+    65        140
+    77        270
+    78         60
+    79         80
+    89         90
+    91        999
+   102        170
+   103        150
+   105         80
+   115        400
+   116        210
+   117        140
+   127        120
+   128        410
+   129        490
+   130        160
+   131        140
+   133         40
+   134         70
+   135        280
+   137         60
+   147        210
+   151         50
+   161        290
+   162        100
+   163         60
+   165         50
+   166         60
+   177        769
+   178        150
+   179        190
+   194        440

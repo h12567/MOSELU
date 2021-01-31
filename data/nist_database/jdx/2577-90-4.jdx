@@ -1,0 +1,68 @@
+##TITLE=Library Entry 58083
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R RYHAGE MS-LAB KAROLINSKA INSTITUTET STOCKHOLM SWEDEN
+##NAMES=HP
+##CAS NAME=l-Phenylalanine, methyl ester
+##MOLFORM=C10H13NO2
+##CAS REGISTRY NO=2577-90-4
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    15         41
+    17         18
+    18         67
+    27         24
+    29         44
+    30         59
+    31         10
+    33        211
+    38         11
+    39         82
+    40         12
+    41         54
+    42         65
+    43         55
+    44         29
+    50         27
+    51         79
+    52         21
+    53         13
+    54         10
+    55         20
+    56         16
+    57         20
+    59         20
+    60        140
+    62         13
+    63         43
+    64         14
+    65        134
+    66         13
+    69         10
+    72         23
+    74         16
+    75         10
+    76         12
+    77         96
+    78         24
+    86         82
+    87         10
+    88        999
+    90         29
+    91        312
+    92         75
+    93         43
+   102         15
+   103        118
+   104         28
+   117         21
+   118         46
+   119         39
+   120        775
+   121         75
+   179         14

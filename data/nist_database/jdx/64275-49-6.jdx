@@ -1,0 +1,30 @@
+##TITLE=Library Entry 2769
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,60(4)1161(1977); 2; G. OHLOFF
+##NAMES=HP
+##CAS NAME=5,10-Pentadecadienal, (Z,Z)-
+##MOLFORM=C15H26O
+##CAS REGISTRY NO=64275-49-6
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    29        350
+    41        999
+    55        970
+    67        890
+    80        800
+    95        410
+   110        200
+   121        130
+   135         50
+   148         30
+   161         20
+   178         30
+   193         10
+   205         10
+   222         10

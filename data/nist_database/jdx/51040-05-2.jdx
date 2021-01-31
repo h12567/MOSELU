@@ -1,0 +1,36 @@
+##TITLE=Library Entry 76944
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=2-p-Chlorobenzoyl-2-anilthioaceticacid anilide
+##MOLFORM=C21H15ClN2OS
+##CAS REGISTRY NO=51040-05-2
+##MP= -300
+##BP= -300
+##MW= 378
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    77        594
+   104        999
+   109        100
+   111        149
+   113         49
+   135         99
+   136        240
+   139        310
+   141         99
+   207         30
+   214         19
+   239         79
+   243         89
+   245         40
+   345          9
+   346         19
+   350         29
+   378        279
+   379         79
+   380        109
+   381         89

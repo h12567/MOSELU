@@ -1,0 +1,35 @@
+##TITLE=Library Entry 79446
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Ketone, phenyl 2-thiazolyl
+##MOLFORM=C10H7NOS
+##CAS REGISTRY NO=7210-75-5
+##MP= -300
+##BP= -300
+##MW= 189
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    40         20
+    44         50
+    50         70
+    51        200
+    57         40
+    58        160
+    74         20
+    76         30
+    77        619
+    78         50
+    84         20
+   105        999
+   106         90
+   161        519
+   162         50
+   163         20
+   188         50
+   189        320
+   190         50
+   191         20

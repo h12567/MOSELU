@@ -1,0 +1,58 @@
+##TITLE=Library Entry 5151
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.T.RAINEY OAK RIDGE NATIONAL LABORATORY,OAK RIDGE,TN.U
+SA
+##NAMES=HP
+##CAS NAME=1-Propanamine, N-ethyl-N-nitroso-
+##MOLFORM=C5H12N2O
+##CAS REGISTRY NO=25413-61-0
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    30        394
+    31         18
+    32        550
+    37         18
+    38         27
+    39        210
+    40         64
+    41        486
+    42        999
+    43        495
+    44        321
+    45         27
+    51          9
+    52         27
+    53          9
+    54         73
+    55         45
+    56        843
+    57        733
+    58        366
+    59         36
+    67          9
+    68         18
+    69          9
+    70        293
+    71         55
+    72         36
+    73         45
+    74         18
+    75          9
+    82          9
+    83          9
+    84         27
+    85         55
+    86         36
+    87        330
+    88         36
+    99         64
+   100         36
+   101         36
+   116        880
+   117         64

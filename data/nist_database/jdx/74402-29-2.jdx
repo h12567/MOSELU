@@ -1,0 +1,78 @@
+##TITLE=Library Entry 62176
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W. ADAM, INST. ORG. CHEM. UNIV. WUERZBURG, W. GER.
+##NAMES=HP
+##CAS NAME=1-(6,6-Dimethylbicyclo[3.1.1]hept-2-en-2-ylmethyl)-4-phenyl-1,2,4
+-triazolidine-3,5-dione
+##MOLFORM=C18H21N3O2
+##CAS REGISTRY NO=74402-29-2
+##MP= -300
+##BP= -300
+##MW= 311
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 62
+##XYDATA=(XY..XY) 1 
+    27        104
+    28         64
+    29        115
+    30         12
+    31         64
+    38         11
+    39         96
+    40         20
+    41        341
+    42         23
+    43        260
+    44         34
+    45         31
+    46         12
+    51         39
+    52         20
+    53        121
+    54         16
+    55        183
+    56         33
+    57         48
+    63         19
+    64         41
+    65         79
+    66         32
+    67         85
+    68         13
+    69         87
+    71         75
+    77        267
+    78         57
+    79        442
+    80         47
+    81         89
+    82         13
+    91        999
+    92        246
+    93        597
+    94         66
+    95         12
+   103         19
+   104         15
+   105        125
+   106         60
+   107        236
+   108         26
+   117         23
+   118         14
+   119        454
+   120         95
+   121         24
+   133         30
+   134        427
+   135        631
+   136         71
+   177        135
+   178        287
+   179         27
+   190         13
+   268         38
+   311         24
+   312          6

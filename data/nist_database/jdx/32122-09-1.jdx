@@ -1,0 +1,53 @@
+##TITLE=Library Entry 61191
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J. Little, Eastman chemical company.
+##NAMES=HP
+##CAS NAME=Acetic acid, (phenylmethoxy)-, ethyl ester
+##MOLFORM=C11H14O3
+##CAS REGISTRY NO=32122-09-1
+##MP= -300
+##BP= -300
+##MW= 194
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    27         53
+    29        129
+    31         64
+    39         69
+    42         28
+    45         54
+    50         39
+    51         90
+    52         26
+    60        218
+    61        151
+    63         46
+    64         16
+    65        162
+    70         82
+    75         16
+    77        140
+    78         31
+    79        132
+    88        353
+    89         88
+    90         42
+    91        999
+    92        124
+   103         11
+   105        125
+   106         64
+   107        493
+   108         91
+   119         11
+   120         13
+   121         30
+   122         15
+   131          7
+   135          9
+   149         11
+   194         26
+   195          4

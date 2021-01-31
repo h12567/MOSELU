@@ -1,0 +1,71 @@
+##TITLE=Library Entry 90259
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=8-Azabicyclo[3.2.1]octan-3-ol, 6-methoxy-8-methyl-
+##MOLFORM=C9H17NO2
+##CAS REGISTRY NO=54725-47-2
+##MP= -300
+##BP= -300
+##MW= 171
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    41        198
+    42        485
+    43        138
+    44        198
+    45        118
+    51         19
+    52          9
+    53         79
+    54         89
+    55        128
+    56        118
+    57        316
+    58        128
+    59          9
+    65          9
+    66          9
+    67         49
+    68         69
+    69         49
+    70        148
+    71         69
+    72         39
+    77          9
+    79          9
+    80         19
+    81         49
+    82        168
+    83         39
+    84        108
+    85         49
+    86         39
+    87         19
+    91          9
+    93          9
+    94        168
+    95         39
+    96        633
+    97         79
+    98         49
+    99          9
+   107          9
+   108          9
+   110         19
+   111          9
+   112        158
+   113        999
+   114         79
+   120          9
+   122         49
+   126          9
+   138         19
+   140         29
+   156         29
+   171         89
+   172         19

@@ -1,0 +1,74 @@
+##TITLE=Library Entry 75596
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzene, 1-bromo-4-ethynyl-
+##MOLFORM=C8H5Br
+##CAS REGISTRY NO=766-96-1
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    25         10
+    26         22
+    27         12
+    36         33
+    37        114
+    38         93
+    39         20
+    42          1
+    43          7
+    48          6
+    49        132
+    50        599
+    51        462
+    52         21
+    53          0
+    57          6
+    60         27
+    61         64
+    62         84
+    63         59
+    64          0
+    72          9
+    73         90
+    74        432
+    75        670
+    76         68
+    77          3
+    78          7
+    79          8
+    80         11
+    81         10
+    82          0
+    84          4
+    85          1
+    86         12
+    87          8
+    90         92
+    91         93
+    97         15
+    98         88
+    99         49
+   100         47
+   101        999
+   102        113
+   103          3
+   104          2
+   105          2
+   106          1
+   117          2
+   118          1
+   128          4
+   130          7
+   131          0
+   178          0
+   180        980
+   181         87
+   182        980
+   183         85
+   184          5

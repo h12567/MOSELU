@@ -1,0 +1,88 @@
+##TITLE=Library Entry 19559
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=Cyclohexanone, 2-chloro-
+##MOLFORM=C6H9ClO
+##CAS REGISTRY NO=822-87-7
+##MP= -300
+##BP= -300
+##MW= 132
+##$RETENTION INDEX=1026
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 73
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          5
+    15         55
+    17          0
+    18          2
+    25         10
+    26        127
+    27        495
+    28          0
+    29         62
+    31          3
+    33          3
+    34          2
+    35         12
+    36         13
+    37         48
+    38        101
+    39        540
+    40        123
+    41        578
+    42        742
+    43         33
+    44          9
+    47          5
+    48         18
+    49         37
+    50         50
+    51         62
+    52         19
+    53         95
+    54          5
+    55        999
+    56         41
+    57          6
+    60          4
+    61         24
+    62         74
+    63         32
+    64         21
+    65         23
+    66          4
+    67         72
+    68        246
+    69        196
+    70         90
+    71          5
+    73          8
+    74          4
+    75         59
+    76         40
+    77         24
+    78         15
+    79         30
+    80          3
+    81         17
+    83          4
+    88        251
+    89         24
+    90         79
+    91          8
+    95          3
+    96         40
+    97        247
+    98         18
+   104          6
+   105          2
+   106          3
+   114          2
+   130          1
+   132        237
+   133         18
+   134         77
+   135          5

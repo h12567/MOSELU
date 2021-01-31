@@ -1,0 +1,35 @@
+##TITLE=Library Entry 89515
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Methylhexamethylenimine-2-carboxylic acid, ethyl ester
+##MOLFORM=C10H19NO2
+##CAS REGISTRY NO=5228-34-2
+##MP= -300
+##BP= -300
+##MW= 185
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    27         11
+    28         42
+    29         17
+    41         23
+    42         65
+    43          6
+    44         21
+    55         36
+    56         11
+    58         23
+    70         42
+    71          3
+    84        168
+    85         12
+    98         44
+   112        999
+   113        126
+   114         11
+   185         48
+   186         11

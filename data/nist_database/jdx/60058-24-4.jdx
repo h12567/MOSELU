@@ -1,0 +1,45 @@
+##TITLE=Library Entry 61789
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Benzylamino-5-benzyloxypentane
+##MOLFORM=C19H25NO
+##CAS REGISTRY NO=60058-24-4
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 30
+##XYDATA=(XY..XY) 1 
+    30         20
+    39         20
+    41         30
+    42          9
+    43         10
+    51         19
+    63          9
+    65         60
+    77         19
+    78         10
+    79         20
+    84          9
+    85         10
+    86         10
+    89          9
+    90          9
+    91        999
+    92         90
+   104          9
+   105          9
+   106        119
+   107         19
+   120        390
+   121         30
+   134         10
+   176         49
+   177         10
+   192        321
+   193         39
+   206          9

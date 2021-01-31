@@ -1,0 +1,85 @@
+##TITLE=Library Entry 42671
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=d-Erythro-pentose, 2-deoxy-3,4,5-tris-O-(trimethylsilyl)-, O-meth
+yloxime
+##MOLFORM=C15H37NO4Si3
+##CAS REGISTRY NO=56196-35-1
+##MP= -300
+##BP= -300
+##MW= 379
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 69
+##XYDATA=(XY..XY) 1 
+    30          4
+    31         33
+    32         19
+    43         14
+    44         14
+    45         85
+    47          9
+    55          4
+    58          9
+    59         47
+    61          4
+    70         14
+    72         14
+    73        999
+    74         80
+    75         90
+    89         28
+    97          9
+   101         33
+   103        133
+   104          9
+   105         28
+   113          4
+   116         80
+   117        128
+   118          9
+   119          9
+   126          9
+   129         14
+   131         23
+   133         76
+   134          9
+   142        123
+   143         19
+   144         14
+   147        376
+   148         57
+   149         33
+   157          4
+   168         33
+   172         76
+   173         38
+   174         61
+   175         19
+   177          4
+   189          4
+   191          4
+   200          4
+   203         19
+   204         38
+   205        209
+   206         38
+   207         14
+   214          4
+   215        142
+   216         57
+   217         76
+   218         14
+   219          4
+   228          4
+   242          9
+   244         57
+   245          9
+   246          4
+   276          4
+   302          4
+   307         38
+   308          4
+   332          9

@@ -1,0 +1,71 @@
+##TITLE=Library Entry 48865
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=D.HENNEBERG, MAX-PLANCK INSTITUTE, MULHEIM, WEST GERMAN
+Y
+##NAMES=HP
+##CAS NAME=Dispiro[2.1.2.1]octane
+##MOLFORM=C8H12
+##CAS REGISTRY NO=25399-32-0
+##MP= -300
+##BP= -300
+##MW= 108
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 55
+##XYDATA=(XY..XY) 1 
+    27        194
+    28         77
+    29         60
+    30          1
+    32          9
+    34          1
+    37          2
+    38          9
+    39        353
+    40        115
+    41        261
+    42         22
+    43         10
+    44          1
+    49          1
+    50         21
+    51         78
+    52        112
+    53        201
+    54        151
+    55         41
+    56         11
+    57          5
+    62          0
+    63         12
+    64          5
+    65        140
+    66         74
+    67        209
+    68         34
+    69          8
+    70          2
+    71          1
+    75          0
+    76          2
+    77        535
+    78         98
+    79        999
+    80        754
+    81         65
+    82         11
+    83         12
+    84          2
+    89          3
+    91        365
+    92         31
+    93        489
+    94         33
+    95          6
+   103          3
+   105         18
+   106          3
+   107         36
+   108         22
+   109          6

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 61667
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Benzeneacetaldehyde, .alpha.,.alpha.-dimethyl-
+##MOLFORM=C10H12O
+##CAS REGISTRY NO=3805-10-5
+##MP= -300
+##BP= -300
+##MW= 148
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    26          2
+    27         41
+    28          6
+    29         14
+    37          1
+    38          4
+    39        112
+    40         11
+    41        300
+    42          8
+    49          1
+    50         33
+    51         95
+    52         26
+    53         14
+    54          0
+    58          2
+    61          1
+    62         10
+    63         39
+    64          5
+    65         42
+    66          5
+    67          0
+    73          1
+    74         12
+    75         11
+    76         12
+    77        127
+    78         49
+    79        198
+    80         10
+    86          1
+    87          3
+    88          0
+    89         15
+    90          2
+    91        999
+    92         70
+    93          2
+   101          3
+   102         16
+   103         74
+   104         20
+   106          1
+   115         34
+   116          7
+   117         19
+   119        921
+   120        160
+   148        575
+   149         47
+   150          3

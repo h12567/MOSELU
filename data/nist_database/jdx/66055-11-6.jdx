@@ -1,0 +1,29 @@
+##TITLE=Library Entry 18198
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CHBEAM,111( )751(1978);R. APPEL
+##NAMES=HP
+##CAS NAME=Cyanamide, (dimethylphenylphosphoranylidene)-
+##MOLFORM=C9H11N2P
+##CAS REGISTRY NO=66055-11-6
+##MP= -300
+##BP= -300
+##MW= 178
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    50        370
+    51        999
+    62        490
+    65        330
+    77        610
+    78        220
+    91        940
+   107        230
+   109        340
+   121        380
+   123        230
+   138        200
+   163        290
+   178        710

@@ -1,0 +1,35 @@
+##TITLE=Library Entry 28768
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.Pleshkova, Nesmeyanov Inst.Org.Elem.Cpds, Moscow
+##NAMES=HP
+##CAS NAME=N-Dimethylaminomethyl-isopropylbenzylphosphine
+##MOLFORM=C13H22NP
+##CAS REGISTRY NO=71478-32-5
+##MP= -300
+##BP= -300
+##MW= 223
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    41         24
+    42         53
+    43         65
+    57         47
+    58        999
+    59         89
+    60          3
+    91        242
+    92         65
+    93          3
+   123         12
+   124         35
+   166         77
+   167         77
+   168        112
+   169          5
+   180         30
+   181          6
+   223         35
+   224          3

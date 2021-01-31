@@ -1,0 +1,26 @@
+##TITLE=Library Entry 51407
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1H-Imidazole, 2-propyl-
+##MOLFORM=C6H10N2
+##CAS REGISTRY NO=50995-95-4
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 11
+##XYDATA=(XY..XY) 1 
+    39        180
+    40        140
+    41        320
+    42        180
+    54        320
+    55        270
+    81        589
+    82        999
+    95        300
+   109        110
+   110        180

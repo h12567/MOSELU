@@ -1,0 +1,56 @@
+##TITLE=Library Entry 50322
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Dr. Jiri Zamecnik, DCIEM, North York, Canada, GP Librar
+y
+##NAMES=HP
+##CAS NAME=.alpha.-Fenchyl-methylether
+##MOLFORM=C11H20O
+##CAS REGISTRY NO=1127-24-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    39        152
+    41        310
+    43         72
+    45         84
+    52        101
+    55        289
+    56         29
+    59         66
+    65         26
+    67        105
+    68         20
+    69         72
+    71        110
+    77         45
+    79         73
+    80        852
+    81        999
+    82         97
+    85        524
+    86        223
+    87        108
+    93        121
+    95         35
+    97         31
+    98         38
+    99         39
+   105         11
+   107         65
+   108          9
+   111         23
+   112         11
+   113         14
+   121         99
+   122          7
+   123         26
+   125         20
+   136         77
+   137         11
+   153          4
+   168          3

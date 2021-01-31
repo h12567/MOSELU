@@ -1,0 +1,30 @@
+##TITLE=Library Entry 20435
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1-Methyl-prop-2-enyl dithiopropanoate
+##MOLFORM=C7H12S2
+##CAS REGISTRY NO=65901-87-3
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        217
+    41        121
+    45        299
+    55        999
+    71        228
+    72        250
+    73        929
+    76        150
+    88         80
+    99         79
+   106         90
+   127         60
+   131        341
+   145        580
+   160        481

@@ -1,0 +1,72 @@
+##TITLE=Library Entry 1268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2-(tert-Butylamino)ethanol
+##MOLFORM=C6H15NO
+##CAS REGISTRY NO=4620-70-6
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 57
+##XYDATA=(XY..XY) 1 
+    12          1
+    13          1
+    14          9
+    15         92
+    16          1
+    17          1
+    18         30
+    19         17
+    26          8
+    27        106
+    28        142
+    29        206
+    30        999
+    31         92
+    32          6
+    37          4
+    38         10
+    39        133
+    40         26
+    41        319
+    42        254
+    43         68
+    44         59
+    45         57
+    46          1
+    50          4
+    51          6
+    52          5
+    53          9
+    54         18
+    55         38
+    56         66
+    57        221
+    58        271
+    59          0
+    60         42
+    61          4
+    62          2
+    65          1
+    66          1
+    67          5
+    68         12
+    69         14
+    70         45
+    71         26
+    72          8
+    82          5
+    84        261
+    85         21
+    86        181
+    87         12
+   100          1
+   102        481
+   103         26
+   104          1
+   116          1
+   117          6

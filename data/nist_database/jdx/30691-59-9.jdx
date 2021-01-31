@@ -1,0 +1,40 @@
+##TITLE=Library Entry 22222
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Aziridine, 1-hexyl-
+##MOLFORM=C8H17N
+##CAS REGISTRY NO=30691-59-9
+##MP= -300
+##BP= -300
+##MW= 127
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27        100
+    28         90
+    29        110
+    30         50
+    39         80
+    40         20
+    41        250
+    42        350
+    43        450
+    44        220
+    55        140
+    56        999
+    57        170
+    69         40
+    70        200
+    71        300
+    84        390
+    85         70
+    98        250
+   100         40
+   112        120
+   113         10
+   126        180
+   127        150
+   128         10

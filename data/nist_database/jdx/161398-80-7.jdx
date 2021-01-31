@@ -1,0 +1,61 @@
+##TITLE=Library Entry 98388
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=4-Bromobenzoic acid, 3-phenylpropyl ester
+##MOLFORM=C16H15BrO2
+##CAS REGISTRY NO=161398-80-7
+##MP= -300
+##BP= -300
+##MW= 318
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    26          3
+    27          3
+    28          2
+    38          4
+    39         11
+    41          8
+    50         26
+    51         17
+    52          5
+    63          8
+    65         31
+    74         15
+    75         46
+    76         60
+    77         38
+    78         25
+    79         14
+    80          4
+    82          4
+    89         10
+    90          7
+    91        204
+    92         24
+   102          5
+   103         36
+   104         36
+   105         25
+   115         36
+   116         14
+   117        809
+   118        999
+   119        170
+   120          8
+   155        119
+   156         13
+   157        115
+   158         10
+   165          4
+   183        238
+   184         18
+   185        232
+   186         18
+   200         32
+   201          5
+   202         33
+   203          4

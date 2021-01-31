@@ -1,0 +1,60 @@
+##TITLE=Library Entry 32874
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=Bicyclo[2.2.2]octane
+##MOLFORM=C8H14
+##CAS REGISTRY NO=280-33-1
+##MP= -300
+##BP= -300
+##MW= 110
+##$RETENTION INDEX=883
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 45
+##XYDATA=(XY..XY) 1 
+    14         14
+    15          9
+    26         16
+    27        117
+    28         20
+    29         51
+    37          4
+    38         23
+    39        304
+    40         51
+    41        278
+    42         23
+    43          7
+    44          7
+    50         34
+    51         76
+    52         41
+    53        146
+    54        393
+    55        115
+    56         19
+    62          5
+    63         15
+    65         66
+    67        999
+    68        187
+    69         96
+    70          5
+    74          6
+    75          2
+    77         91
+    78         21
+    79        137
+    80         84
+    81        684
+    82        452
+    83         29
+    91         14
+    92          2
+    93          7
+    94          2
+    95        131
+    96         11
+   110        596
+   111         52

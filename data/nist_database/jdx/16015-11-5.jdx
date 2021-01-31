@@ -1,0 +1,40 @@
+##TITLE=Library Entry 7420
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=2H-Pyran, 3,4-dihydro-6-methyl-
+##MOLFORM=C6H10O
+##CAS REGISTRY NO=16015-11-5
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    40         30
+    41        110
+    42         20
+    43        999
+    44         30
+    51         20
+    52         10
+    53         50
+    54         10
+    55        620
+    56         10
+    57         10
+    65         10
+    67         30
+    68         20
+    69         20
+    70         60
+    71         20
+    79         10
+    83        200
+    84         10
+    97        220
+    98        330
+    99         30

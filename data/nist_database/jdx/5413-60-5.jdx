@@ -1,0 +1,54 @@
+##TITLE=Library Entry 32033
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=W.Jennings, T.Shibamoto
+##NAMES=HP
+##CAS NAME=4,7-Methano-1H-inden-6-ol, 3a,4,5,6,7,7a-hexahydro-, acetate
+##MOLFORM=C12H16O2
+##CAS REGISTRY NO=5413-60-5
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=1407
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    29          1
+    41         19
+    43        499
+    44          7
+    54         28
+    55         19
+    65          7
+    66        999
+    67        431
+    68         19
+    77         19
+    78         59
+    79         59
+    80         28
+    81          7
+    82        119
+    83        129
+    84         19
+    91        112
+    92         19
+    93         19
+   103          7
+   104        112
+   105         91
+   106         19
+   107          7
+   109          7
+   117        179
+   118          7
+   119          7
+   121          7
+   124         99
+   125         39
+   126         39
+   131         39
+   132        314
+   133         39
+   150         19
+   192         39

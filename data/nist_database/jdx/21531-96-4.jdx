@@ -1,0 +1,40 @@
+##TITLE=Library Entry 96183
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1,2,4-Triazolidine-3,5-dione, 4-amino-
+##MOLFORM=C2H4N4O2
+##CAS REGISTRY NO=21531-96-4
+##MP= -300
+##BP= -300
+##MW= 116
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    27         24
+    28         73
+    29        413
+    30        453
+    31        240
+    32        163
+    41         11
+    42         60
+    43        123
+    44        351
+    45          9
+    55          3
+    56          5
+    57          3
+    58        411
+    59        229
+    60         13
+    70         85
+    71          4
+    74          6
+    85          6
+    88         11
+   116        999
+   117         45
+   118          6

@@ -1,0 +1,37 @@
+##TITLE=Library Entry 89552
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Cyclohexene, 1-(1,1-dimethylethoxy)-2-methyl-
+##MOLFORM=C11H20O
+##CAS REGISTRY NO=40648-26-8
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    27        229
+    29        274
+    39        228
+    41        453
+    43        104
+    53        109
+    55        282
+    57        320
+    67         69
+    69        206
+    83        195
+    84        424
+    95        121
+    97        613
+    98         43
+   111         99
+   112        999
+   113         76
+   153         12
+   154          0
+   168          9
+   169          1

@@ -1,0 +1,44 @@
+##TITLE=Library Entry 35125
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=3-Methylbut-2-en-1-yl pivalate
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=211429-71-9
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1141
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    27         52
+    29         92
+    30          3
+    38          6
+    39        110
+    40         32
+    41        460
+    42         34
+    50         13
+    52          8
+    53        102
+    54         15
+    55         31
+    56         31
+    57        666
+    58         32
+    62          5
+    67        250
+    68        469
+    69        999
+    70         53
+    71         31
+    74          7
+    85        227
+    86         15
+   103         13
+   152          4
+   170         18
+   171          2

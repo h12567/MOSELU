@@ -1,0 +1,71 @@
+##TITLE=Library Entry 20530
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2890
+##NAMES=HP
+##CAS NAME=Cyclohexylmethyl formate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=2888-49-5
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    15          3
+    26          6
+    27         87
+    28         26
+    29         97
+    30          3
+    31         64
+    32          2
+    36          1
+    37          1
+    38          6
+    39        142
+    40         25
+    41        448
+    42         37
+    43         57
+    44          8
+    45          5
+    46          1
+    47          1
+    50          7
+    51         16
+    52          8
+    53         71
+    54        245
+    55        999
+    56         56
+    57         28
+    58          2
+    60         16
+    61          2
+    62          1
+    63          3
+    65         13
+    66         61
+    67        592
+    68        326
+    69         29
+    70          4
+    71          2
+    77         16
+    78          4
+    79         26
+    80          9
+    81        905
+    82        101
+    83        617
+    84         41
+    85          1
+    91          5
+    93          6
+    94          2
+    95         60
+    96        511
+    97         47
+    98          2

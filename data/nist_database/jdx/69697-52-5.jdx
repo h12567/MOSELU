@@ -1,0 +1,55 @@
+##TITLE=Library Entry 9137
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=1,5-Dimethyl-6,8-dioxa-3-thia-bicyclo(3,2,1)octane
+##MOLFORM=C7H12O2S
+##CAS REGISTRY NO=69697-52-5
+##MP= -300
+##BP= -300
+##MW= 160
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    41        108
+    42         18
+    43        999
+    44         18
+    45        113
+    46         66
+    47         36
+    48         12
+    53         29
+    54         90
+    55        259
+    56         12
+    57         65
+    61         48
+    71        120
+    72        510
+    73         59
+    84         18
+    85         60
+    86         12
+    87         53
+    88         18
+    89         17
+    90         11
+    99         41
+   100        211
+   101         30
+   102         11
+   103         72
+   104         17
+   113         30
+   114        120
+   115         59
+   116         12
+   117         11
+   118         18
+   130         17
+   160        251
+   161         11
+   162         17

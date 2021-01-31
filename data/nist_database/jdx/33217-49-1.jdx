@@ -1,0 +1,63 @@
+##TITLE=Library Entry 53993
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=K. FOLKERS
+##NAMES=HP
+##CAS NAME=L-Methioninamide, 5-oxo-L-prolyl-L-histidyl-
+##MOLFORM=C16H24N6O4S
+##CAS REGISTRY NO=33217-49-1
+##MP= -300
+##BP= -300
+##MW= 396
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    41        260
+    42        100
+    44        100
+    45        160
+    47        290
+    48        220
+    54        100
+    56        150
+    61        140
+    66         50
+    69        300
+    81        330
+    82        430
+    84        999
+    98        140
+   104         50
+   110         50
+   111        120
+   120         80
+   121         60
+   122        110
+   129        130
+   136         60
+   173         50
+   176        100
+   177         80
+   178        120
+   179         60
+   182        100
+   189         70
+   191        120
+   194         60
+   202         60
+   203        140
+   204        110
+   205         90
+   207         70
+   251         60
+   253         90
+   267         90
+   269        120
+   272         40
+   310         20
+   333         30
+   361         10
+   362         10
+   396          6
+   397          6

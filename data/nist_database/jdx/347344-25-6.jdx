@@ -1,0 +1,30 @@
+##TITLE=Library Entry 14207
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=Acetamide, N-[3-(2-fluorophenoxy)-4-methyl-6-nitrophenyl]-
+##MOLFORM=C15H13FN2O4
+##CAS REGISTRY NO=347344-25-6
+##MP= -300
+##BP= -300
+##MW= 304
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39         13
+    40         14
+    43        999
+    44        308
+    51          7
+    77          8
+   216         10
+   232        140
+   233         10
+   258        765
+   259        322
+   262        945
+   263        319
+   304        116
+   305          7

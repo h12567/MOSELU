@@ -1,0 +1,53 @@
+##TITLE=Library Entry 5043
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=DC-4-17
+##NAMES=HP
+##CAS NAME=2H-Pyran-2-one, 6-ethyltetrahydro-
+##MOLFORM=C7H12O2
+##CAS REGISTRY NO=3301-90-4
+##MP= -300
+##BP= -300
+##MW= 128
+##$RETENTION INDEX=1147
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    26        130
+    27        650
+    29        420
+    30         10
+    31         30
+    38         30
+    39        380
+    40        150
+    41        600
+    42        999
+    43        530
+    44         50
+    50         10
+    51         10
+    53         30
+    54         20
+    55        530
+    56        450
+    57        150
+    58         10
+    67         10
+    68         10
+    69         50
+    70        400
+    71        530
+    72         20
+    80         10
+    81         10
+    82         10
+    83         20
+    84         30
+    85         10
+    99        900
+   100        130
+   110         20
+   127         30
+   128        200
+   129         30

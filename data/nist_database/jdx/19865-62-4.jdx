@@ -1,0 +1,65 @@
+##TITLE=Library Entry 88192
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=J.H.BOWIE UNIVERSITY OF ADELAIDE, AUSTRALIA
+##NAMES=HP
+##CAS NAME=Nitrone, N-(p-chlorophenyl)-.alpha.-(o-methoxyphenyl)-
+##MOLFORM=C14H12ClNO2
+##CAS REGISTRY NO=19865-62-4
+##MP= -300
+##BP= -300
+##MW= 261
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 50
+##XYDATA=(XY..XY) 1 
+    27        131
+    37        131
+    38        210
+    39        460
+    50        565
+    51        605
+    52        118
+    62        157
+    63        394
+    64        171
+    65        394
+    66        157
+    75        934
+    76        144
+    77        763
+    78         92
+    89        157
+    90        421
+    91        815
+    92        302
+    93         92
+    94         92
+   104        171
+   105        171
+   107        131
+   111        999
+   112         92
+   113        355
+   118        210
+   119        907
+   120        131
+   121        131
+   125        802
+   126        105
+   127        828
+   128        144
+   129        210
+   135        407
+   136        473
+   138         92
+   141        355
+   143        131
+   166         78
+   167         78
+   214         78
+   230        434
+   232        157
+   245        105
+   261        118
+   263         39

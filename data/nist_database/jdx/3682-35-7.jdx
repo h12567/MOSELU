@@ -1,0 +1,52 @@
+##TITLE=Library Entry 82151
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=2,4,6-tri(2-Pyridyl)-s-triazine
+##MOLFORM=C18H12N6
+##CAS REGISTRY NO=3682-35-7
+##MP= -300
+##BP= -300
+##MW= 312
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 37
+##XYDATA=(XY..XY) 1 
+    14          0
+    26         24
+    28         17
+    29          1
+    38          6
+    39         15
+    40          1
+    50         84
+    51        152
+    52         81
+    53         34
+    63          5
+    64         20
+    75         12
+    76         82
+    77        327
+    78        352
+    79         89
+    80          6
+   104        490
+   105        999
+   106         73
+   130         26
+   156         33
+   180          7
+   181          7
+   182          7
+   207         98
+   208         93
+   209         13
+   234         10
+   284          7
+   285          5
+   286          7
+   312        531
+   313        110
+   314         13

@@ -1,0 +1,36 @@
+##TITLE=Library Entry 59268
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=HCACAV,61(5)1663(1978); W. LEUPIN AND J. WIRZ
+##NAMES=HP
+##CAS NAME=1-Cycloocten-5-yne, (Z)-
+##MOLFORM=C8H10
+##CAS REGISTRY NO=66633-23-6
+##MP= -300
+##BP= -300
+##MW= 106
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    27        240
+    39        470
+    41        110
+    50        180
+    51        300
+    52        850
+    53        140
+    54        300
+    63        100
+    65        210
+    66        120
+    67         70
+    77        210
+    78        400
+    79        290
+    91        999
+    92        100
+   103        110
+   105        300
+   106        640
+   107         70

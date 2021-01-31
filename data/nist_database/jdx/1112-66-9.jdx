@@ -1,0 +1,67 @@
+##TITLE=Library Entry 68564
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, Novosibirsk, USSR 1988
+##NAMES=HP
+##CAS NAME=Silane, tetra-2-propenyl-
+##MOLFORM=C12H20Si
+##CAS REGISTRY NO=1112-66-9
+##MP= -300
+##BP= -300
+##MW= 192
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    39         62
+    40         10
+    41        108
+    42         31
+    43        630
+    44        108
+    45        168
+    53         51
+    54         19
+    55        277
+    56         29
+    57        116
+    58         19
+    59         41
+    67        147
+    68         48
+    69        708
+    70         87
+    71        258
+    72         31
+    79         48
+    80          9
+    81        416
+    82         90
+    83        411
+    84         49
+    85         60
+    91         20
+    93         29
+    94          9
+    95        999
+    96        154
+    97        137
+    98         19
+   107         51
+   108         20
+   109        875
+   110        138
+   111         57
+   121         31
+   122         19
+   123        887
+   124        148
+   125         50
+   136          9
+   137          8
+   138         31
+   150         41
+   151        668
+   152        129
+   153         30
+   164         21

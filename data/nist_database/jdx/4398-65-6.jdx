@@ -1,0 +1,56 @@
+##TITLE=Library Entry 2984
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=2-Chloro-2-methylhexane
+##MOLFORM=C7H15Cl
+##CAS REGISTRY NO=4398-65-6
+##MP= -300
+##BP= -300
+##MW= 134
+##$RETENTION INDEX=855
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         26
+    16         11
+    26         30
+    27        290
+    28         94
+    29        225
+    35         18
+    36         41
+    37         19
+    38         50
+    39        349
+    40         93
+    41        999
+    42         82
+    43        236
+    44         13
+    49         20
+    50         20
+    51         44
+    52         20
+    53         96
+    54         13
+    55        479
+    56        847
+    57        605
+    58         28
+    63         22
+    65         19
+    67         41
+    69        454
+    70        307
+    71         15
+    76        161
+    77        295
+    78         59
+    79        100
+    83        138
+    84          8
+    98        113
+    99        117

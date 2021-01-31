@@ -1,0 +1,50 @@
+##TITLE=Library Entry 81297
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=4-(2-Oxo-2-phenylethyl)-2H-1,4-benzothiazin-3(4H)-one
+##MOLFORM=C16H13NO2S
+##CAS REGISTRY NO=120622-13-1
+##MP= -300
+##BP= -300
+##MW= 283
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    44        241
+    45        180
+    50         69
+    51        223
+    63         51
+    65        163
+    69         78
+    77        591
+    78        112
+    79         52
+    89         25
+    90         25
+    91        112
+   105        999
+   106        118
+   108         78
+   109        286
+   110         42
+   116         59
+   117        224
+   118         60
+   119         34
+   121         42
+   123         33
+   135         60
+   136        101
+   150        995
+   151        136
+   152         77
+   178        399
+   179         59
+   180         34
+   283        778
+   284        171
+   285         59

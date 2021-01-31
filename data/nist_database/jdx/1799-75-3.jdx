@@ -1,0 +1,80 @@
+##TITLE=Library Entry 64135
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.W. Davies, Centr. Sci. Lab., Univ. Tasmania, Hobart,
+ Australia
+##NAMES=HP
+##CAS NAME=Propionamide, N-benzyl-2,2,3,3,3-pentafluoro-
+##MOLFORM=C10H8F5NO
+##CAS REGISTRY NO=1799-75-3
+##MP= -300
+##BP= -300
+##MW= 253
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 64
+##XYDATA=(XY..XY) 1 
+    26          8
+    27         32
+    28         64
+    29         36
+    31         25
+    38         10
+    39         62
+    40          5
+    41         15
+    42         12
+    43        207
+    44         24
+    45         67
+    46          5
+    50         49
+    51         99
+    52         25
+    53          6
+    61         26
+    62         10
+    63         35
+    64         11
+    65         99
+    66          6
+    67         20
+    69         96
+    70         14
+    73          8
+    74          9
+    75          8
+    76         11
+    77         95
+    78         54
+    79        100
+    80          7
+    88          8
+    89         44
+    90         43
+    91        999
+    92         76
+    97         14
+   100         42
+   104         71
+   105         26
+   106         18
+   107         40
+   109          7
+   116         10
+   119        102
+   127          5
+   132         11
+   133         15
+   134        139
+   135         13
+   141         12
+   146          7
+   147          8
+   166          7
+   175          5
+   176          7
+   184         12
+   252         64
+   253        427
+   254         52

@@ -1,0 +1,57 @@
+##TITLE=Library Entry 19699
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=3,3-Dimethyl-4-heptanol
+##MOLFORM=C9H20O
+##CAS REGISTRY NO=19549-78-1
+##MP= -300
+##BP= -300
+##MW= 144
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 42
+##XYDATA=(XY..XY) 1 
+    27        130
+    28         15
+    29        144
+    30         15
+    31         58
+    39        141
+    40         37
+    41        319
+    42         83
+    43        726
+    44         65
+    45        212
+    51         15
+    52          8
+    53         63
+    54          8
+    55        999
+    56         79
+    57        173
+    58          8
+    59        150
+    65         13
+    67         40
+    69        162
+    70        722
+    71        591
+    72        274
+    73        556
+    74         23
+    77          8
+    79         10
+    81         10
+    83         83
+    84         59
+    85         18
+    97         68
+    98          8
+   101        134
+   102         11
+   115         19
+   126         21
+   129         12

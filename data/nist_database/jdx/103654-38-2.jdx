@@ -1,0 +1,56 @@
+##TITLE=Library Entry 81965
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Z.SAATOV,INST. CHEM. PLANT SUB.,ACAD. SCI. UZBEK,TASHKE
+NT,USSR
+##NAMES=HP
+##CAS NAME=Ecdysterone 22-O-benzoate
+##MOLFORM=C34H48O8
+##CAS REGISTRY NO=103654-38-2
+##MP= -300
+##BP= -300
+##MW= 584
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    43        530
+    51        530
+    69        520
+    77        530
+    81        520
+    99        520
+   105        999
+   109        560
+   122        810
+   126        810
+   152        800
+   231        240
+   232        240
+   249        800
+   250        840
+   251        390
+   300        540
+   301        560
+   315        240
+   327        230
+   329        240
+   345        240
+   353        250
+   357        240
+   363        390
+   375        240
+   393        240
+   408        230
+   411        560
+   426        840
+   427        390
+   429        230
+   444        230
+   445         70
+   462          8
+   530          3
+   533          4
+   548          2
+   566          1
+   584          0

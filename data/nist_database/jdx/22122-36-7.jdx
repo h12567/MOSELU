@@ -1,0 +1,44 @@
+##TITLE=Library Entry 3309
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2(5H)-Furanone, 3-methyl-
+##MOLFORM=C5H6O2
+##CAS REGISTRY NO=22122-36-7
+##MP= -300
+##BP= -300
+##MW= 98
+##$RETENTION INDEX=983
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    25          1
+    26         90
+    27        161
+    29         26
+    30         11
+    31          7
+    37         51
+    38         94
+    39        492
+    40        163
+    41        999
+    42         86
+    43         25
+    44         13
+    45         40
+    49          5
+    50         55
+    51         61
+    52         25
+    53         78
+    55         32
+    57          1
+    68         38
+    69        636
+    70         48
+    84          1
+    97          1
+    98        430
+    99         26

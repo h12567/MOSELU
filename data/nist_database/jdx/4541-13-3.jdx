@@ -1,0 +1,42 @@
+##TITLE=Library Entry 7314
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1-Butanol, 4-(hexyloxy)-
+##MOLFORM=C10H22O2
+##CAS REGISTRY NO=4541-13-3
+##MP= -300
+##BP= -300
+##MW= 174
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    41        336
+    42        243
+    43        999
+    44        163
+    45         63
+    53         34
+    54         34
+    55        681
+    56        277
+    57        122
+    61         31
+    69         56
+    71        527
+    72         63
+    73        436
+    74         36
+    82         50
+    83        140
+    84        113
+    85        281
+    86         38
+    89        204
+   101         90
+   103         34
+   111         22
+   131         27
+   144         13

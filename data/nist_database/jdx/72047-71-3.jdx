@@ -1,0 +1,35 @@
+##TITLE=Library Entry 91068
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=PYTCAS, 18(3)473(1979); A. F. MOREL ET AL.
+##NAMES=HP
+##CAS NAME=Pentanamide, N-[7-benzoyl-3-(1-methylethyl)-5,8-dioxo-2-oxa-6,9-d
+iazabicyclo[10.2.2]hexadeca-12,14,15-trien-4-yl]-2-(dimethylamino)-3-methyl-
+##MOLFORM=C31H42N4O5
+##CAS REGISTRY NO=72047-71-3
+##MP= -300
+##BP= -300
+##MW= 550
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 19
+##XYDATA=(XY..XY) 1 
+    77         62
+    85        123
+    97         58
+   105        124
+   107         92
+   114        999
+   135         17
+   155         35
+   175         23
+   190          3
+   195         11
+   218          6
+   353          4
+   446          2
+   493         11
+   507          4
+   521          1
+   535          1
+   550         12

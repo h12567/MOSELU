@@ -1,0 +1,55 @@
+##TITLE=Library Entry 3521
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-5072
+##NAMES=HP
+##CAS NAME=Furan, 2,3-dihydro-
+##MOLFORM=C4H6O
+##CAS REGISTRY NO=1191-99-7
+##MP= -300
+##BP= -300
+##MW= 70
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    12          2
+    13          6
+    14         22
+    15         32
+    16          1
+    17          2
+    18          7
+    24          2
+    25          8
+    26         39
+    27        107
+    28         23
+    29        145
+    30          6
+    31         33
+    32          2
+    34          1
+    35          2
+    36          6
+    37         45
+    38         85
+    39        696
+    40        319
+    41        999
+    42        319
+    43         22
+    44         25
+    45          2
+    49          4
+    50          8
+    51          7
+    52          7
+    53          3
+    55         21
+    56          1
+    68         35
+    69        483
+    70        993
+    71         47
+    72          3

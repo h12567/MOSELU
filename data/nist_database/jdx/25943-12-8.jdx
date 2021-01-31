@@ -1,0 +1,35 @@
+##TITLE=Library Entry 82002
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=2-Oxazoline, 4,5-dioctyl-2-phenyl-, trans-
+##MOLFORM=C25H41NO
+##CAS REGISTRY NO=25943-12-8
+##MP= -300
+##BP= -300
+##MW= 371
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 20
+##XYDATA=(XY..XY) 1 
+    67        170
+    68         10
+    69        300
+    70         20
+    71         40
+    77        450
+    78         30
+    81        120
+    82         10
+   104        600
+   105        999
+   106         70
+   122        180
+   123         20
+   130        180
+   131         20
+   258        650
+   259        150
+   260         20
+   371         20

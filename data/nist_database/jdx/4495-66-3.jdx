@@ -1,0 +1,55 @@
+##TITLE=Library Entry 63997
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW- 757
+##NAMES=HP
+##CAS NAME=1-Propanone, 1-[4-(phenylmethoxy)phenyl]-
+##MOLFORM=C16H16O2
+##CAS REGISTRY NO=4495-66-3
+##MP= -300
+##BP= -300
+##MW= 240
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 40
+##XYDATA=(XY..XY) 1 
+    27          2
+    28          4
+    29          5
+    38          1
+    39          9
+    41          3
+    50          2
+    51          5
+    52          1
+    57          4
+    62          1
+    63          7
+    64          5
+    65         55
+    66          3
+    76          5
+    77          4
+    78          1
+    89          7
+    90          4
+    91        999
+    92         79
+    93          5
+   104          1
+   105          4
+   120          2
+   121          8
+   149          1
+   150          1
+   152          1
+   153          1
+   181          1
+   182          1
+   183          3
+   211         64
+   212          9
+   213          1
+   240        192
+   241         33
+   242          3

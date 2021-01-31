@@ -1,0 +1,62 @@
+##TITLE=Library Entry 50451
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Bicyclo[4.1.0]heptane, 2-methyl-7-pentyl-
+##MOLFORM=C13H24
+##CAS REGISTRY NO=55937-92-3
+##MP= -300
+##BP= -300
+##MW= 180
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 47
+##XYDATA=(XY..XY) 1 
+    41        328
+    42         41
+    43        113
+    51         13
+    52         15
+    53         81
+    54        151
+    55        459
+    56         71
+    57         52
+    65         34
+    66         34
+    67        461
+    68        413
+    69        213
+    70         39
+    71         15
+    77         43
+    78         13
+    79         79
+    80         69
+    81        999
+    82        321
+    83        100
+    84         30
+    91         34
+    93         37
+    94         39
+    95        750
+    96        400
+    97        272
+    98         32
+   107         15
+   108         30
+   109        279
+   110        262
+   111         56
+   112         18
+   122         13
+   123        122
+   124         75
+   137         22
+   138         22
+   180        221
+   181         45
+   182         47
+   183         13

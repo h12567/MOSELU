@@ -1,0 +1,87 @@
+##TITLE=Library Entry 88627
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-6602
+##NAMES=HP
+##CAS NAME=Diazene, bis(2-chlorophenyl)-
+##MOLFORM=C12H8Cl2N2
+##CAS REGISTRY NO=7334-33-0
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    27          3
+    28          2
+    36          2
+    37          4
+    38          8
+    39         10
+    49          2
+    50         40
+    51         33
+    52          3
+    61          9
+    62          8
+    63         21
+    64          9
+    65          2
+    72          2
+    73          7
+    74         18
+    75        244
+    76         39
+    77          7
+    78          1
+    84          4
+    85         26
+    86          3
+    87          9
+    88          2
+    89          3
+    90         12
+    91          1
+    97          1
+    98          2
+    99          3
+   100          1
+   101          2
+   102          1
+   110          6
+   111        999
+   112         70
+   113        320
+   114         21
+   115          1
+   124          1
+   125          6
+   126          5
+   127          6
+   129          1
+   136          1
+   138          1
+   139        627
+   140         45
+   141        200
+   142         13
+   146         13
+   148          9
+   149          2
+   150          9
+   151         19
+   152         64
+   153          9
+   179          1
+   186          7
+   187          3
+   188          3
+   222          4
+   224          3
+   250        389
+   251         53
+   252        249
+   253         34
+   254         42
+   255          5

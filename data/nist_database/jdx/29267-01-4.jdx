@@ -1,0 +1,53 @@
+##TITLE=Library Entry 43368
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Inositol, epi-, 6TMS derivative
+##MOLFORM=C24H60O6Si6
+##CAS REGISTRY NO=29267-01-4
+##MP= -300
+##BP= -300
+##MW= 612
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    73        999
+    74         29
+   103         88
+   104          7
+   129        146
+   130         15
+   133        117
+   134         15
+   147        664
+   148         66
+   189         19
+   191        387
+   192         44
+   204        139
+   205         15
+   217        730
+   218         73
+   219          7
+   221         58
+   265        190
+   266         22
+   291         55
+   293         33
+   305        504
+   306         58
+   318        372
+   319         44
+   343         18
+   367         66
+   368          7
+   393         36
+   417         12
+   419          8
+   432         12
+   433         32
+   507         34
+   597          1
+   612          1

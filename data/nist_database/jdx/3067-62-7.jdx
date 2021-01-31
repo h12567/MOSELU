@@ -1,0 +1,48 @@
+##TITLE=Library Entry 75836
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.D. Voitenko, Inst. Org. Synthesis, Acad. Sci. Latvian
+ SSR, Riga, USSR
+##NAMES=HP
+##CAS NAME=1,2-5,6-Di-O-isopropylidene-D-glucofuranose, TMS derivative
+##MOLFORM=C15H28O6Si
+##CAS REGISTRY NO=3067-62-7
+##MP= -300
+##BP= -300
+##MW= 332
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 32
+##XYDATA=(XY..XY) 1 
+    73        710
+    75        290
+   101        999
+   103        130
+   117         70
+   127         80
+   129        680
+   131        440
+   133         70
+   143        210
+   145        300
+   157        100
+   158         60
+   159         40
+   167         20
+   169         20
+   171         50
+   173        190
+   183         15
+   187         30
+   199         65
+   201        240
+   213         30
+   215         30
+   216         30
+   217         72
+   231        200
+   259        200
+   274          8
+   287          0
+   303          0
+   317        880

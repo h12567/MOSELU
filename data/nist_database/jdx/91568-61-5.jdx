@@ -1,0 +1,40 @@
+##TITLE=Library Entry 114549
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=LAC, NIDDK, NIH, Bethesda, MD 20892
+##NAMES=HP
+##CAS NAME=Guanido-dl-tryptophane
+##MOLFORM=C12H14N4O2
+##CAS REGISTRY NO=91568-61-5
+##MP= -300
+##BP= -300
+##MW= 246
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    42         89
+    43        131
+    44          8
+    51         21
+    63         17
+    69         27
+    76         11
+    77         87
+    78         19
+    89          8
+    98         26
+    99         25
+   101          9
+   102         47
+   103         62
+   115         20
+   117         33
+   128         38
+   129         36
+   130        999
+   131        106
+   163          9
+   228         56
+   229          9
+   246         12

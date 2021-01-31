@@ -1,0 +1,39 @@
+##TITLE=Library Entry 3556
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=3-Methyl-5-hydroxy-isoxazole
+##MOLFORM=C4H5NO2
+##CAS REGISTRY NO=45469-93-0
+##MP= -300
+##BP= -300
+##MW= 99
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    37         29
+    38         50
+    39        260
+    40        108
+    41        999
+    42        259
+    43         61
+    44        423
+    45        141
+    46         70
+    51         20
+    52         19
+    54         80
+    55         19
+    56         10
+    57         29
+    58         50
+    69         49
+    71        551
+    72         40
+    73         59
+    82         19
+    99        550
+   100         49

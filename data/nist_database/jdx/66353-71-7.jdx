@@ -1,0 +1,38 @@
+##TITLE=Library Entry 79529
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=N.R.Ayyangar, ET AL, Org. Mass Spectr.,26,633(1991)
+##NAMES=HP
+##CAS NAME=Methanone, [4-(methylamino)-3-nitrophenyl]phenyl-
+##MOLFORM=C14H12N2O3
+##CAS REGISTRY NO=66353-71-7
+##MP= -300
+##BP= -300
+##MW= 256
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 23
+##XYDATA=(XY..XY) 1 
+    57         40
+    63         60
+    69         30
+    77        570
+    83         40
+    91         50
+    97         29
+   104        220
+   105        999
+   118         30
+   133         90
+   139         20
+   152         60
+   161        160
+   166         30
+   179        270
+   180        120
+   181         50
+   193         20
+   209         50
+   223         20
+   256        180
+   257         50

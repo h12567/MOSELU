@@ -1,0 +1,33 @@
+##TITLE=Library Entry 69449
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Cyclobutane, 1,1-dichloro-
+##MOLFORM=C4H6Cl2
+##CAS REGISTRY NO=1506-77-0
+##MP= -300
+##BP= -300
+##MW= 124
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 18
+##XYDATA=(XY..XY) 1 
+    39         40
+    41         30
+    53        170
+    62        150
+    64         60
+    75         20
+    77         10
+    89        310
+    91        120
+    96        999
+    98        769
+   100        140
+   109         40
+   111         30
+   113         10
+   124          8
+   126          7
+   128          1

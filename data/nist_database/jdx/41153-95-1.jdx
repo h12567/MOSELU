@@ -1,0 +1,50 @@
+##TITLE=Library Entry 7545
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=James Little,Eastman Chem.Co.,Kingsport,TN
+##NAMES=HP
+##CAS NAME=1-(Allylamino)butane-1,3-dione
+##MOLFORM=C7H11NO2
+##CAS REGISTRY NO=41153-95-1
+##MP= -300
+##BP= -300
+##MW= 141
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 35
+##XYDATA=(XY..XY) 1 
+    27        144
+    28        310
+    29        102
+    30        363
+    39        212
+    40         42
+    41        513
+    42        166
+    43        999
+    44         93
+    54         63
+    55        119
+    56        953
+    57        667
+    58        226
+    59         34
+    68         18
+    69         50
+    70         14
+    80         26
+    81         26
+    83         21
+    84         65
+    85        120
+    92         15
+    96         27
+    97          8
+    98        105
+    99         48
+   113          8
+   124          9
+   126         19
+   141         87
+   142         22
+   143          4

@@ -1,0 +1,31 @@
+##TITLE=Library Entry 10225
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. Ruecker, Pharm. Inst., Univ. Bonn, Bonn, W. Ger.
+##NAMES=HP
+##CAS NAME=Hydroperoxide, 1-methyl-1-(5-methyl-2,4-cyclohexadien-1-yl)ethyl-
+, (S)-
+##MOLFORM=C10H16O2
+##CAS REGISTRY NO=106929-39-9
+##MP= -300
+##BP= -300
+##MW= 168
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 15
+##XYDATA=(XY..XY) 1 
+    39        230
+    43        999
+    58        230
+    59        190
+    65        140
+    91        850
+    92        500
+    93        250
+   109         80
+   119        100
+   135        120
+   150        300
+   151        180
+   168         60
+   169          7

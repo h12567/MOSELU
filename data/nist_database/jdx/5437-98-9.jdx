@@ -1,0 +1,74 @@
+##TITLE=Library Entry 85311
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center
+##NAMES=HP
+##CAS NAME=p-Acetoacetanisidide
+##MOLFORM=C11H13NO3
+##CAS REGISTRY NO=5437-98-9
+##MP= -300
+##BP= -300
+##MW= 207
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 59
+##XYDATA=(XY..XY) 1 
+    14          1
+    26          8
+    27         15
+    29          9
+    37          5
+    38         15
+    39         35
+    40          4
+    41         54
+    42         35
+    43        297
+    44         12
+    50         17
+    51         40
+    52        108
+    53        100
+    54         19
+    55         17
+    58          9
+    61          8
+    62         15
+    63         41
+    64         33
+    65         56
+    66         14
+    67         11
+    69         80
+    76          6
+    77         23
+    78         35
+    79         32
+    80        165
+    81         20
+    84         71
+    85         27
+    90         11
+    91         10
+    92         21
+    93          9
+    94          6
+    95         63
+    96          5
+   106         36
+   107         17
+   108        999
+   109         81
+   120          8
+   121         34
+   122        115
+   123        519
+   124         47
+   134         80
+   135          8
+   136         13
+   149        540
+   150         52
+   164          8
+   207        252
+   208         31

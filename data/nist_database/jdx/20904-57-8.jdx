@@ -1,0 +1,45 @@
+##TITLE=Library Entry 29206
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=G. ECKHARDT, INST. ORG. CHEM. BIOCHEM., UNIV. BONN, W.
+ GERMA
+##NAMES=HP
+##CAS NAME=N,N-Dimethyl-3-phenoxypropylamine
+##MOLFORM=C11H17NO
+##CAS REGISTRY NO=20904-57-8
+##MP= -300
+##BP= -300
+##MW= 179
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    39         32
+    40          7
+    41         25
+    42         56
+    43         15
+    44         26
+    45         12
+    50          4
+    51         15
+    55          4
+    56          9
+    57         12
+    58        999
+    59         42
+    65         22
+    66          7
+    70         11
+    71          7
+    72          4
+    73         10
+    77         34
+    78          5
+    79          4
+    94         20
+    95          7
+    96          7
+   104         25
+   179        169
+   180         22

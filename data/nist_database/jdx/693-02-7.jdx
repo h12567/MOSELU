@@ -1,0 +1,65 @@
+##TITLE=Library Entry 32393
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=R.F.KENDALL BUR. MINES, U.S. DEPT. INT., BARTLESVILLE,
+ OKLA
+##NAMES=HP
+##CAS NAME=1-Hexyne
+##MOLFORM=C6H10
+##CAS REGISTRY NO=693-02-7
+##MP= -300
+##BP= -300
+##MW= 82
+##$RETENTION INDEX=587
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 49
+##XYDATA=(XY..XY) 1 
+    15          4
+    24          2
+    25          8
+    26         69
+    27        318
+    28         55
+    29         63
+    30          1
+    31          2
+    36          3
+    37         45
+    38         88
+    39        276
+    40        123
+    41        600
+    42        142
+    43        415
+    44         15
+    48          1
+    49         15
+    50         88
+    51        106
+    52         53
+    53        160
+    54        256
+    55         34
+    56         36
+    57          3
+    60          1
+    61          7
+    62         13
+    63         22
+    64          3
+    65         48
+    66         17
+    67        999
+    68         54
+    69          2
+    73          3
+    74          9
+    75          3
+    76          1
+    77         20
+    78          4
+    79         24
+    80          3
+    81        113
+    82          9
+    83          0

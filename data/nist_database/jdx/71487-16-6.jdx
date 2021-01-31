@@ -1,0 +1,56 @@
+##TITLE=Library Entry 32535
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=4-Penten-1-ol, 3-methyl-, acetate
+##MOLFORM=C8H14O2
+##CAS REGISTRY NO=71487-16-6
+##MP= -300
+##BP= -300
+##MW= 142
+##$RETENTION INDEX=1006
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 41
+##XYDATA=(XY..XY) 1 
+    14         10
+    15         23
+    26         11
+    27         83
+    28         43
+    29         58
+    31          7
+    32          6
+    39        132
+    40         28
+    41        149
+    42          6
+    43        684
+    44         18
+    45          8
+    50         12
+    51         23
+    52         12
+    53         72
+    54         99
+    55        201
+    56         33
+    57          8
+    61         31
+    65         28
+    67        999
+    68         57
+    69         32
+    70         13
+    71         11
+    73         13
+    79         27
+    81        107
+    82        306
+    83         23
+    84          9
+    86         11
+    87         32
+    97          9
+    99          6
+   100          8

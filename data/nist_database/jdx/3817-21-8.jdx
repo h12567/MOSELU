@@ -1,0 +1,40 @@
+##TITLE=Library Entry 68807
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=2-(1-Hydroxyhexafluoroisopropyl)furan
+##MOLFORM=C7H4F6O2
+##CAS REGISTRY NO=3817-21-8
+##MP= -300
+##BP= -300
+##MW= 234
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 25
+##XYDATA=(XY..XY) 1 
+    37         83
+    38        198
+    39        453
+    50         69
+    51         54
+    57         38
+    66         50
+    67         51
+    69        450
+    75         15
+    94         80
+    95        999
+    96         47
+   117         23
+   119         14
+   145         37
+   146          6
+   165        497
+   166         27
+   167         41
+   195        105
+   196          9
+   217          7
+   234        326
+   235         15

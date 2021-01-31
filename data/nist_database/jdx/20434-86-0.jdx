@@ -1,0 +1,51 @@
+##TITLE=Library Entry 76703
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,4,2,5-Dioxadiazine, 3,6-diphenyl-
+##MOLFORM=C14H10N2O2
+##CAS REGISTRY NO=20434-86-0
+##MP= -300
+##BP= -300
+##MW= 238
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 36
+##XYDATA=(XY..XY) 1 
+    37         21
+    38         36
+    39         63
+    49         10
+    50        168
+    51        252
+    52         21
+    53         50
+    61         13
+    62         13
+    63         42
+    64         39
+    65         15
+    74         42
+    75         73
+    76        355
+    77        463
+    78         44
+    91         39
+   102         15
+   103        999
+   104         84
+   105        389
+   106         31
+   119        447
+   120         55
+   121         97
+   122         76
+   137         18
+   149         18
+   165         18
+   222         68
+   223         21
+   224         10
+   238        599
+   239        105

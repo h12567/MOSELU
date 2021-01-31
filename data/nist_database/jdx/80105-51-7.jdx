@@ -1,0 +1,54 @@
+##TITLE=Library Entry 48668
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=4-Cyclopropylcyclohexene
+##MOLFORM=C9H14
+##CAS REGISTRY NO=80105-51-7
+##MP= -300
+##BP= -300
+##MW= 122
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    37          8
+    39        569
+    40        109
+    41        370
+    42         46
+    43          9
+    50         49
+    51        116
+    52         55
+    53        348
+    54        195
+    55         85
+    58          5
+    62         10
+    63         32
+    65        119
+    66        167
+    67        612
+    68        446
+    69         23
+    74          5
+    77        237
+    78        132
+    79        999
+    80        585
+    81        289
+    82         16
+    91        114
+    92         20
+    93        218
+    94        217
+    95         16
+   103          4
+   105          8
+   107         56
+   108          4
+   121          4
+   122         50
+   123          4

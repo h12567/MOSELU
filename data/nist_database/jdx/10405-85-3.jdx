@@ -1,0 +1,53 @@
+##TITLE=Library Entry 19139
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1990.
+##NAMES=HP
+##CAS NAME=trans--4-Nonene
+##MOLFORM=C9H18
+##CAS REGISTRY NO=10405-85-3
+##MP= -300
+##BP= -300
+##MW= 126
+##$RETENTION INDEX=884
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    15          7
+    27        165
+    28         52
+    29        128
+    32          7
+    39        229
+    41        519
+    42        154
+    43        144
+    44          9
+    50         11
+    51         31
+    52         18
+    53         84
+    54        123
+    55        999
+    56        378
+    57         64
+    63          6
+    65         28
+    66         12
+    67         98
+    68         40
+    69        281
+    70        270
+    71         49
+    77         20
+    78          4
+    79         20
+    81         19
+    82         26
+    83        130
+    84         90
+    85         13
+    97        105
+    98         33
+   126        208
+   127         20

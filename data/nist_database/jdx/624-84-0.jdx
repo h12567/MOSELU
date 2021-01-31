@@ -1,0 +1,21 @@
+##TITLE=Library Entry 30849
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Pu Leung, NIH, Bethseda, MD
+##NAMES=HP
+##CAS NAME=Formic acid hydrazide
+##MOLFORM=CH4N2O
+##CAS REGISTRY NO=624-84-0
+##MP= -300
+##BP= -300
+##MW= 60
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 6
+##XYDATA=(XY..XY) 1 
+    42        213
+    43        388
+    44        198
+    59         34
+    60        999
+    61         56

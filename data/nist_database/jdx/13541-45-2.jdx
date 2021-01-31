@@ -1,0 +1,54 @@
+##TITLE=Library Entry 109877
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=Phenethylamine, p-chloro-N-(p-chlorobenzyl)-
+##MOLFORM=C15H15Cl2N
+##CAS REGISTRY NO=13541-45-2
+##MP= -300
+##BP= -300
+##MW= 279
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    27         10
+    28         20
+    35         10
+    39         30
+    41         20
+    42         10
+    43         20
+    50         10
+    51         20
+    55         10
+    57         20
+    63         40
+    64         10
+    65         10
+    69         10
+    71         10
+    73         20
+    74         10
+    75         30
+    77         40
+    78         10
+    89        100
+    90         50
+    91         30
+    99         30
+   101         20
+   103         40
+   117         10
+   125        999
+   126        100
+   127        350
+   128         30
+   138         10
+   139         20
+   152         10
+   154        540
+   155         50
+   156        190
+   157         20

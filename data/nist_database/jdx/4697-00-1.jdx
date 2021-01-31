@@ -1,0 +1,46 @@
+##TITLE=Library Entry 38317
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.Zaikin,Topchiev Inst.Petrochem.Synth.,Moscow
+##NAMES=HP
+##CAS NAME=Dichloroacetic acid, 2-tetrahydrofurylmethyl ester
+##MOLFORM=C7H10Cl2O3
+##CAS REGISTRY NO=4697-00-1
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 31
+##XYDATA=(XY..XY) 1 
+    27         29
+    28          8
+    29         36
+    31          6
+    36         17
+    38          6
+    39         28
+    40          7
+    41         91
+    42         45
+    43        157
+    44          7
+    48         10
+    53          8
+    54         20
+    55         34
+    57         29
+    67         32
+    69          5
+    71        999
+    72         41
+    76         18
+    78          6
+    79          7
+    83         55
+    84         31
+    85         35
+    87          6
+    93          6
+   111         12
+   113         10

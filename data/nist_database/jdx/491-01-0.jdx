@@ -1,0 +1,64 @@
+##TITLE=Library Entry 39170
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WILLHALM FIRMENICH & CIE, GENEVA, SWITZERLAND
+##NAMES=HP
+##CAS NAME=Cyclohexanol, 5-methyl-2-(1-methylethyl)-, (1.alpha.,2.alpha.,5.b
+eta.)-
+##MOLFORM=C10H20O
+##CAS REGISTRY NO=491-01-0
+##MP= -300
+##BP= -300
+##MW= 156
+##$RETENTION INDEX=1168
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    27        200
+    29        180
+    31         50
+    39        110
+    41        360
+    42         60
+    43        300
+    45         30
+    53         50
+    54         30
+    55        350
+    56        170
+    57        210
+    58         20
+    59         10
+    67        180
+    68        120
+    69        260
+    70        100
+    71        999
+    72         50
+    73         10
+    77         20
+    79         30
+    80         50
+    81        420
+    82        250
+    83         80
+    84         20
+    85         70
+    86         40
+    91         10
+    93         20
+    94         30
+    95        540
+    96        190
+    97         30
+    99         30
+   109         80
+   110         50
+   111         10
+   112         20
+   113         10
+   123        170
+   124         20
+   138        230
+   139         30
+   156          3

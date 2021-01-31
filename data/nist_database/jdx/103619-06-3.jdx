@@ -1,0 +1,32 @@
+##TITLE=Library Entry 6215
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=P.J. Williams, Australian Wine Res. Inst., Glen Osmond,
+ S. Australia, Australia
+##NAMES=HP
+##CAS NAME=2,7-Octadiene-1,6-diol, 2,6-dimethyl-, (Z)-
+##MOLFORM=C10H18O2
+##CAS REGISTRY NO=103619-06-3
+##MP= -300
+##BP= -300
+##MW= 170
+##$RETENTION INDEX=1361
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        430
+    43        999
+    55        270
+    67        310
+    68        130
+    71        370
+    79         70
+    81         70
+    82         80
+    93         40
+    96         40
+   109         20
+   110         20
+   119         40
+   134          5
+   137         20

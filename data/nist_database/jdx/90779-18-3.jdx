@@ -1,0 +1,33 @@
+##TITLE=Library Entry 88932
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=E.J. BROWNE, DEP. CHEM., UNIV. TASMANIA, TASMANIA, AUST
+.
+##NAMES=HP
+##CAS NAME=4-Hydroxy-4,5,6,7,8,9,10,11-octahydrothieno[2,3-d]azecine-9-carbo
+nitrile
+##MOLFORM=C12H16N2OS
+##CAS REGISTRY NO=90779-18-3
+##MP= -300
+##BP= -300
+##MW= 236
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    70        330
+    97        560
+    98        350
+   110        580
+   111        999
+   123        280
+   125        670
+   126        330
+   137        240
+   149        160
+   164        140
+   175        120
+   192        340
+   193        740
+   235        110
+   236        180

@@ -1,0 +1,87 @@
+##TITLE=Library Entry 66906
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=n-Pentylpyrazine
+##MOLFORM=C9H14N2
+##CAS REGISTRY NO=6303-75-9
+##MP= -300
+##BP= -300
+##MW= 150
+##$RETENTION INDEX=1234
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 72
+##XYDATA=(XY..XY) 1 
+    13          0
+    14          2
+    15         16
+    16          0
+    17          0
+    18          1
+    26         79
+    27        156
+    28         93
+    29        117
+    30          3
+    37          7
+    38         26
+    39        191
+    40         49
+    41        116
+    42         46
+    43         14
+    44          1
+    49          1
+    50         10
+    51         27
+    52         76
+    53         62
+    54         25
+    55         17
+    56          2
+    57          1
+    61          0
+    62          1
+    63          5
+    64          8
+    65         16
+    66         54
+    67         56
+    68         22
+    69          4
+    75          0
+    76          1
+    77          3
+    78          5
+    79         28
+    80         27
+    81         13
+    82          2
+    89          0
+    90          0
+    91          2
+    93         79
+    94        999
+    95         72
+    96          2
+   104          0
+   105          3
+   107        155
+   108         28
+   109          2
+   117          0
+   118          3
+   119         13
+   120          0
+   121         60
+   122         11
+   123          0
+   131          1
+   132          0
+   133          2
+   135         15
+   136          1
+   149          7
+   150         17
+   151          2

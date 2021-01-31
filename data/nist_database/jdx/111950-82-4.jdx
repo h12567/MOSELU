@@ -1,0 +1,41 @@
+##TITLE=Library Entry 52361
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V. Amico, Dep. Chem. Sci., Univ. Catania, Catania, Ital
+y
+##NAMES=HP
+##CAS NAME=2,6,10,14-Hexadecatetraen-1-al, 3,7,11,15-tetramethyl-13-oxo-, (2
+E,6E,10E)-
+##MOLFORM=C20H30O2
+##CAS REGISTRY NO=111950-82-4
+##MP= -300
+##BP= -300
+##MW= 302
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    41        200
+    43         80
+    53        140
+    55        720
+    68        130
+    83        999
+    84        410
+    95        110
+   108        120
+   121        110
+   123        260
+   135         90
+   138        150
+   149         90
+   151        220
+   159         30
+   186         70
+   187         50
+   202         40
+   204         60
+   219        200
+   284         10
+   302         80
+   303         17

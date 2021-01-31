@@ -1,0 +1,45 @@
+##TITLE=Library Entry 94872
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=CARL DJERASSI DEPT OF CHEM STANFORD UNIV STANFORD CALIF
+ 94305
+##NAMES=HP
+##CAS NAME=1H-Indene, 5-nitro-
+##MOLFORM=C9H7NO2
+##CAS REGISTRY NO=41734-55-8
+##MP= -300
+##BP= -300
+##MW= 161
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    30         40
+    39        150
+    41         40
+    50         60
+    51         80
+    52         20
+    61         20
+    62         90
+    63        220
+    64         30
+    65        100
+    74         50
+    75         50
+    76         20
+    77         70
+    86         30
+    87         50
+    88         50
+    89        170
+   101         30
+   102        100
+   113         60
+   114        160
+   115        999
+   116        110
+   144        120
+   145         20
+   161        450
+   162         50

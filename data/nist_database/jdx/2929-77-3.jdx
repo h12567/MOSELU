@@ -1,0 +1,39 @@
+##TITLE=Library Entry 39280
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=ASES Database, Dalian Institute, P.R. China
+##NAMES=HP
+##CAS NAME=Phenylmethanediol dibutanoate
+##MOLFORM=C15H20O4
+##CAS REGISTRY NO=2929-77-3
+##MP= -300
+##BP= -300
+##MW= 264
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 24
+##XYDATA=(XY..XY) 1 
+    39         90
+    41        141
+    42         50
+    43        448
+    44         59
+    45          9
+    50         40
+    51         79
+    52         20
+    55         69
+    60         89
+    70         40
+    71        999
+    72         39
+    73         30
+    77        190
+    78         39
+    79         30
+   105        480
+   106        150
+   107         40
+   177         49
+   184         19
+   193         49

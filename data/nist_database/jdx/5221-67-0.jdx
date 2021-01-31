@@ -1,0 +1,66 @@
+##TITLE=Library Entry 96755
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=Oxazole, 5-methyl-2-phenyl-
+##MOLFORM=C10H9NO
+##CAS REGISTRY NO=5221-67-0
+##MP= -300
+##BP= -300
+##MW= 159
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 51
+##XYDATA=(XY..XY) 1 
+    26         15
+    27         39
+    37         11
+    38         20
+    39         87
+    40          7
+    41         12
+    42          7
+    43         60
+    44         11
+    50         64
+    51        126
+    52         16
+    55         15
+    57         10
+    61         14
+    62         51
+    63        134
+    64         20
+    65         14
+    69         12
+    70          8
+    74         21
+    75         26
+    76         41
+    77        166
+    78         18
+    80         12
+    81          9
+    86         11
+    87         22
+    88         23
+    89        378
+    90         51
+    91          9
+   103         28
+   104         56
+   105        140
+   106         14
+   115          7
+   116        999
+   117        114
+   118         17
+   130        179
+   131         21
+   144        346
+   145         33
+   158         53
+   159        749
+   160        138
+   161         13

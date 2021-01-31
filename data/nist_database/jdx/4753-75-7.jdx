@@ -1,0 +1,81 @@
+##TITLE=Library Entry 50675
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-IW-2875
+##NAMES=HP
+##CAS NAME=2-Furanmethanamine, N-methyl-
+##MOLFORM=C6H9NO
+##CAS REGISTRY NO=4753-75-7
+##MP= -300
+##BP= -300
+##MW= 111
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 66
+##XYDATA=(XY..XY) 1 
+    14          3
+    15         18
+    25          1
+    26         14
+    27        111
+    28        122
+    29         37
+    30        128
+    31          7
+    36          1
+    37         16
+    38         35
+    39        106
+    40         26
+    41         88
+    42        411
+    43         74
+    44        421
+    45         13
+    46          1
+    49          6
+    50         41
+    51         74
+    52         53
+    53        406
+    54         43
+    55         44
+    56         28
+    57        149
+    58         29
+    59          1
+    61          1
+    62          2
+    63          3
+    64          4
+    65         10
+    66          9
+    67         47
+    68        167
+    69         32
+    70          9
+    71         13
+    72         15
+    73          2
+    75          1
+    76          1
+    77          1
+    78          7
+    79          5
+    80         29
+    81        999
+    82        426
+    83         70
+    84          7
+    92          2
+    93          3
+    94         84
+    95         21
+    96         17
+    97          2
+   108          9
+   109          5
+   110        363
+   111        525
+   112         37
+   113          2

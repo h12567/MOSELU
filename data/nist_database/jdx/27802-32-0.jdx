@@ -1,0 +1,43 @@
+##TITLE=Library Entry 39950
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=5.alpha.-Pregnane-3.beta.,20.alpha.-diamine, N3-isopropylidene-N2
+0,N20-dimethyl-
+##MOLFORM=C26H46N2
+##CAS REGISTRY NO=27802-32-0
+##MP= -300
+##BP= -300
+##MW= 386
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 27
+##XYDATA=(XY..XY) 1 
+    55         30
+    56         20
+    58         40
+    67         20
+    68         20
+    71         20
+    72        999
+    73         80
+    78         10
+    80         10
+    82         10
+    89         10
+    91         10
+    93         10
+    94         10
+   108         10
+   300          5
+   301          1
+   315         38
+   316         10
+   317          1
+   369          2
+   371          5
+   372          2
+   385          3
+   386          8
+   387          1

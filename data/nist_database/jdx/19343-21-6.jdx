@@ -1,0 +1,45 @@
+##TITLE=Library Entry 40210
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=B.WEBSTER ICI PHARMACEUTICALS DIVISION. ALDERLEY PARK C
+HESHIRE
+##NAMES=HP
+##CAS NAME=2-Propanol, 1-(isopropylamino)-3-(1-naphthylmethoxy)-
+##MOLFORM=C17H23NO2
+##CAS REGISTRY NO=19343-21-6
+##MP= -300
+##BP= -300
+##MW= 273
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41         71
+    42         57
+    43         99
+    44         57
+    56         57
+    58        113
+    60         49
+    70         28
+    71         21
+    72        999
+    73         64
+    86         21
+    91         21
+   100         28
+   102         64
+   114         43
+   115         86
+   116         14
+   117         43
+   127         35
+   128         35
+   129         57
+   132         42
+   139         35
+   141        383
+   142         78
+   158         85
+   258         14
+   273         14

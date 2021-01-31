@@ -1,0 +1,59 @@
+##TITLE=Library Entry 87817
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=TNO Volatile Compounds in Food - Chemical Concepts
+##NAMES=HP
+##CAS NAME=1-Butanone, 1-(2-thienyl)-
+##MOLFORM=C8H10OS
+##CAS REGISTRY NO=5333-83-5
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=1252
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 44
+##XYDATA=(XY..XY) 1 
+    24          1
+    26          5
+    27         29
+    35          2
+    37          3
+    38          8
+    39        137
+    40          4
+    41         14
+    42          2
+    43          5
+    45         21
+    46          2
+    47          2
+    50          4
+    51          3
+    53          8
+    55         10
+    57         17
+    58          7
+    63          2
+    65          1
+    69          3
+    77          2
+    81          4
+    82          6
+    83         42
+    84         10
+    85          3
+    97          6
+    98          1
+   110          1
+   111        999
+   112         38
+   113         29
+   124          1
+   126         83
+   127          5
+   128          3
+   139         13
+   153          1
+   154        115
+   155         10
+   156          5

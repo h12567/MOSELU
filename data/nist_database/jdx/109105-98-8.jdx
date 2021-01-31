@@ -1,0 +1,32 @@
+##TITLE=Library Entry 5979
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=S-T. Lin, Dep. Appl. Chem., Providence Coll., Taichung,
+ Taiwan
+##NAMES=HP
+##CAS NAME=Tetradecanoic acid, 2-iodo-
+##MOLFORM=C14H27IO2
+##CAS REGISTRY NO=109105-98-8
+##MP= -300
+##BP= -300
+##MW= 354
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 16
+##XYDATA=(XY..XY) 1 
+    41        930
+    43        999
+    55        560
+    83        210
+    87         30
+   111        140
+   115         50
+   139         70
+   143         50
+   167         40
+   171         30
+   191         60
+   199         20
+   209         70
+   227        300
+   354         20

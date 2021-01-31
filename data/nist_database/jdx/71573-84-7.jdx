@@ -1,0 +1,37 @@
+##TITLE=Library Entry 76645
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=I. MAZHEIKA, INST. ORG. SYNTH. ACAD. SCI. LATV. SSR, RI
+GA,US
+##NAMES=HP
+##CAS NAME=2-Methyl-2-phenyl-1,3,6-trioxa-2-silacyclooctane
+##MOLFORM=C11H16O3Si
+##CAS REGISTRY NO=71573-84-7
+##MP= -300
+##BP= -300
+##MW= 224
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 21
+##XYDATA=(XY..XY) 1 
+    41        140
+    44        300
+    45        260
+    51        150
+    61        120
+    77        550
+    78        210
+    87        110
+    91        640
+   103        999
+   104        150
+   105        450
+   117        180
+   123        220
+   129        190
+   137        130
+   147        850
+   165        800
+   179         90
+   191         30
+   209        510

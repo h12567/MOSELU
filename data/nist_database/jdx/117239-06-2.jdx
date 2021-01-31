@@ -1,0 +1,38 @@
+##TITLE=Library Entry 30913
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V. Nevalainen, Dep. Chem., Univ. Helsinki, Helsinki, Fi
+nland
+##NAMES=HP
+##CAS NAME=1,7-Dioxa-4,10-dithiaspiro[5.5]undecane, 5-methyl-
+##MOLFORM=C8H14O2S2
+##CAS REGISTRY NO=117239-06-2
+##MP= -300
+##BP= -300
+##MW= 206
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 22
+##XYDATA=(XY..XY) 1 
+    45        410
+    46        310
+    55        800
+    58        160
+    59        360
+    60        999
+    61        150
+    72        250
+    74        170
+    89        270
+   100        120
+   118        320
+   119        620
+   128        740
+   129        150
+   130        130
+   132        170
+   133        490
+   178        260
+   206        180
+   207         19
+   208         17

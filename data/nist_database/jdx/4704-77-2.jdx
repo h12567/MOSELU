@@ -1,0 +1,76 @@
+##TITLE=Library Entry 15375
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=NIST Mass Spectrometry Data Center, 1994
+##NAMES=HP
+##CAS NAME=3-Bromo-1,2-propanediol
+##MOLFORM=C3H7BrO2
+##CAS REGISTRY NO=4704-77-2
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 61
+##XYDATA=(XY..XY) 1 
+    13          5
+    14         30
+    15        140
+    16          5
+    17          1
+    18          5
+    25          7
+    26         49
+    27        138
+    28         53
+    29        284
+    30         33
+    31        376
+    32         19
+    33         10
+    37          9
+    38         15
+    39         29
+    40          4
+    41         15
+    42        102
+    43        720
+    44        999
+    45        264
+    46          9
+    47          5
+    53          5
+    55         19
+    56          5
+    57         33
+    58          2
+    59          2
+    60         35
+    61        446
+    62         10
+    74        119
+    75          9
+    79         20
+    80         14
+    81         22
+    82         12
+    83          3
+    91          4
+    92          6
+    93         32
+    94         12
+    95         27
+    96          8
+   105          7
+   106          6
+   107         17
+   108          4
+   109          9
+   121          9
+   122         46
+   123        364
+   124         68
+   125        345
+   126         20
+   135          5
+   137          6

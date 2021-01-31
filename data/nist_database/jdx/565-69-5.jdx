@@ -1,0 +1,61 @@
+##TITLE=Library Entry 23934
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-9734
+##NAMES=HP
+##CAS NAME=3-Pentanone, 2-methyl-
+##MOLFORM=C6H12O
+##CAS REGISTRY NO=565-69-5
+##MP= -300
+##BP= -300
+##MW= 100
+##$RETENTION INDEX=745
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 46
+##XYDATA=(XY..XY) 1 
+    14          1
+    15          7
+    18          3
+    26         14
+    27        139
+    28         39
+    29        424
+    30         10
+    31          5
+    37          2
+    38          6
+    39         62
+    40          9
+    41        186
+    42         41
+    43        799
+    44         27
+    45          5
+    50          2
+    51          3
+    52          1
+    53          6
+    54          2
+    55         16
+    56         92
+    57        999
+    58         44
+    59          8
+    63          1
+    65          2
+    67         10
+    68          1
+    69          6
+    70         34
+    71        244
+    72         12
+    73          2
+    74          1
+    79          1
+    82          1
+    83          1
+    85         14
+    86          1
+   100        276
+   101         35
+   102          2

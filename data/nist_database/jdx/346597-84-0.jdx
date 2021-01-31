@@ -1,0 +1,72 @@
+##TITLE=Library Entry 8653
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=A.A.Kutin, Moscow, Russia
+##NAMES=HP
+##CAS NAME=4-[2-(5-Amino-2H-1,2,3,4-tetrazol-2-yl)ethoxy]-1,2,5-oxadiazol-3-
+amine
+##MOLFORM=C5H8N8O2
+##CAS REGISTRY NO=346597-84-0
+##MP= -300
+##BP= -300
+##MW= 212
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 56
+##XYDATA=(XY..XY) 1 
+    33          6
+    36          0
+    38          6
+    41        164
+    42        606
+    43        999
+    44        160
+    45         43
+    46          1
+    50          0
+    51          3
+    53        116
+    54        249
+    55        120
+    56        104
+    57         60
+    58         53
+    59         18
+    60          4
+    66          1
+    67          3
+    68          9
+    70        701
+    71         70
+    72         11
+    73          2
+    77          0
+    79          0
+    81          3
+    83        190
+    84        109
+    85         25
+    86         14
+    87          1
+    91          0
+    95          0
+    96          0
+    97          5
+    98          7
+    99          8
+   100          0
+   101          7
+   102          5
+   110          3
+   111         30
+   112         10
+   113          3
+   115         17
+   124          0
+   126        183
+   127        180
+   128          7
+   137          4
+   149          0
+   184          7
+   212          4

@@ -1,0 +1,63 @@
+##TITLE=Library Entry 87793
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=N-(2,6-Xylyl)-2-thiophenecarboxamide
+##MOLFORM=C13H13NOS
+##CAS REGISTRY NO=136341-01-0
+##MP= -300
+##BP= -300
+##MW= 231
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    39        548
+    40         51
+    41         36
+    42         22
+    43          9
+    44         22
+    45         30
+    50         33
+    51         68
+    52         39
+    53         38
+    54          9
+    55          7
+    57         38
+    58         10
+    62         10
+    63         27
+    65         63
+    66         10
+    75          9
+    77        100
+    78         23
+    79         12
+    80         10
+    81         14
+    82         27
+    83         80
+    85          9
+    89         13
+    91         85
+    92         16
+    93         10
+   102          7
+   103         14
+   104         11
+   105          8
+   106          7
+   111        999
+   113         32
+   116          8
+   117          9
+   118         24
+   120        226
+   121         17
+   122          8
+   198         22
+   231        175
+   232         16

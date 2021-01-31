@@ -1,0 +1,67 @@
+##TITLE=Library Entry 13237
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Institute of Organic Chemistry, USSR, 1990
+##NAMES=HP
+##CAS NAME=4-Acetamido-7-nitrobenzofurazan
+##MOLFORM=C8H6N4O4
+##CAS REGISTRY NO=18333-72-7
+##MP= -300
+##BP= -300
+##MW= 222
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 52
+##XYDATA=(XY..XY) 1 
+    42         15
+    43        999
+    44         33
+    45          5
+    50         10
+    51          8
+    52         25
+    53         15
+    55          6
+    57          7
+    63         12
+    64         13
+    65          7
+    66          6
+    70          8
+    75         13
+    76         42
+    77         36
+    78         12
+    79         10
+    80         14
+    83         12
+    90         17
+    91          8
+    92         28
+    93          5
+   103         18
+   104         66
+   105         13
+   106          6
+   107         13
+   116         23
+   117         37
+   118         14
+   120         49
+   121          5
+   122         11
+   123         13
+   132          9
+   133          5
+   134         16
+   135        124
+   136          7
+   149         19
+   150         41
+   164         20
+   177         35
+   180        846
+   181         68
+   182          5
+   222        231
+   223         25

@@ -1,0 +1,68 @@
+##TITLE=Library Entry 57884
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=H-F. GRUTZMACHER UNIVERSITY OF HAMBURG, W. GERMANY
+##NAMES=HP
+##CAS NAME=.alpha.-D-Galactopyranoside, methyl 2,3,4,6-tetra-O-methyl-
+##MOLFORM=C11H22O6
+##CAS REGISTRY NO=3149-64-2
+##MP= -300
+##BP= -300
+##MW= 250
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 53
+##XYDATA=(XY..XY) 1 
+    40          3
+    41         71
+    42         22
+    43         25
+    44         26
+    45        339
+    46          8
+    47         19
+    50         25
+    52          4
+    53         15
+    55         26
+    56          9
+    57         23
+    58         17
+    59         41
+    61          8
+    69         13
+    71        149
+    72         22
+    73        145
+    74         35
+    75        640
+    76         34
+    83         20
+    85         27
+    87         11
+    88        999
+    89         80
+    90          7
+    91         19
+    95         11
+    97          7
+    98          7
+    99         15
+   101        550
+   102         59
+   103         12
+   111         30
+   118         13
+   127         29
+   129          6
+   131         26
+   143          9
+   145         11
+   149        150
+   150         12
+   155          5
+   159         12
+   161          7
+   176         30
+   187         30
+   219          9

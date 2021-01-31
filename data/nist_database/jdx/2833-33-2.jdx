@@ -1,0 +1,54 @@
+##TITLE=Library Entry 10441
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci., Moscow
+##NAMES=HP
+##CAS NAME=4-Acetoxy-1-decene
+##MOLFORM=C12H22O2
+##CAS REGISTRY NO=2833-33-2
+##MP= -300
+##BP= -300
+##MW= 198
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    38         20
+    39        152
+    40         38
+    41        328
+    42         87
+    43        999
+    44        117
+    45         28
+    51         17
+    53         38
+    54         92
+    55        228
+    56         30
+    57         42
+    58         20
+    60         15
+    61         19
+    65         12
+    66         17
+    67         92
+    68         71
+    69         48
+    70         33
+    71         23
+    79         21
+    80         12
+    81         52
+    82         29
+    83         28
+    85         12
+    95         29
+    96         29
+    97        332
+    98         29
+   110         17
+   113         25
+   115         18
+   137         22
+   157         41

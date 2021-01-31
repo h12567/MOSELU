@@ -1,0 +1,55 @@
+##TITLE=Library Entry 1040
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=MASS SPECTROMETRY CENTER, UNIV. OF UTAH (ALDRICH 12318-
+8)
+##NAMES=HP
+##CAS NAME=5-Aminovaleric acid
+##MOLFORM=C5H11NO2
+##CAS REGISTRY NO=660-88-8
+##MP= -300
+##BP= -300
+##MW= 117
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 39
+##XYDATA=(XY..XY) 1 
+    14          1
+    15         18
+    18         34
+    26          8
+    27         50
+    28         88
+    29         45
+    30        999
+    31         61
+    32         13
+    37          0
+    38          4
+    39         32
+    40          8
+    41         45
+    42         75
+    43         53
+    44         68
+    45        138
+    46          0
+    52          0
+    53          2
+    54          8
+    55         77
+    56         77
+    57          9
+    58          8
+    60         23
+    68          0
+    70         11
+    71          7
+    72         12
+    73          4
+    89          0
+    98         15
+    99         21
+   100          7
+   117         28
+   118          0

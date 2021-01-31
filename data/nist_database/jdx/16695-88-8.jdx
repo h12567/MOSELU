@@ -1,0 +1,44 @@
+##TITLE=Library Entry 66411
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=V.G.Zaikin, TIPS, Russian Acad. Sci.
+##NAMES=HP
+##CAS NAME=2,4-Dimethylcyclohex-1-ene-5-carboxylic acid (trans)
+##MOLFORM=C9H14O2
+##CAS REGISTRY NO=16695-88-8
+##MP= -300
+##BP= -300
+##MW= 154
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 29
+##XYDATA=(XY..XY) 1 
+    41        240
+    43        150
+    53        140
+    55        180
+    67        650
+    68        280
+    69        260
+    70        130
+    77        200
+    79        190
+    80        180
+    81        640
+    91        210
+    93        999
+    94        250
+    95        110
+   107        100
+   108        910
+   109        630
+   110        170
+   121         70
+   125        100
+   136        220
+   137         20
+   139        230
+   140         20
+   154        730
+   155         72
+   156          3

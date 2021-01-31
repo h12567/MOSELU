@@ -1,0 +1,63 @@
+##TITLE=Library Entry 1825
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Japan AIST/NIMC Database- Spectrum MS-NW-4647
+##NAMES=HP
+##CAS NAME=1,5-Hexadiyne
+##MOLFORM=C6H6
+##CAS REGISTRY NO=628-16-0
+##MP= -300
+##BP= -300
+##MW= 78
+##$RETENTION INDEX=680
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 48
+##XYDATA=(XY..XY) 1 
+    12          4
+    13          2
+    14          1
+    15          2
+    24          3
+    25         10
+    26         42
+    27         70
+    28         21
+    29          2
+    31          2
+    32          2
+    35          1
+    36         15
+    37        120
+    38        196
+    39        999
+    40         34
+    41          5
+    42          1
+    43          3
+    44         30
+    45          1
+    48          6
+    49         42
+    50        362
+    51        511
+    52        801
+    53         37
+    54          1
+    55          2
+    56          2
+    57          4
+    60          6
+    61         16
+    62         23
+    63        102
+    64          6
+    65          1
+    72          4
+    73         35
+    74        116
+    75         50
+    76        164
+    77        759
+    78        975
+    79         64
+    80          2

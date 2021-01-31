@@ -1,0 +1,53 @@
+##TITLE=Library Entry 48878
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Chemical Concepts
+##NAMES=HP
+##CAS NAME=3-Methylenecyclopentene
+##MOLFORM=C6H8
+##CAS REGISTRY NO=930-26-7
+##MP= -300
+##BP= -300
+##MW= 80
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 38
+##XYDATA=(XY..XY) 1 
+    25          0
+    26         30
+    27        125
+    29          1
+    31          0
+    36          2
+    37         25
+    38         44
+    39        205
+    40         33
+    41         36
+    42          1
+    48          1
+    49         14
+    50         97
+    51        132
+    52        101
+    53         58
+    54         18
+    55          0
+    60          1
+    61          6
+    62         10
+    63         23
+    64          3
+    65         45
+    66          2
+    72          0
+    73          5
+    74         16
+    75         12
+    76          5
+    77        271
+    78         63
+    79        999
+    80        416
+    81         23
+    82          0

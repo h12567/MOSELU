@@ -1,0 +1,29 @@
+##TITLE=Library Entry 40583
+##JCAMP-DX=Revision 4.10 
+##DATA TYPE=MASS SPECTRUM
+##SAMPLE DESCRIPTION=Exported from NIST MS Search
+##NAMES=HP
+##CAS NAME=1,2-Pentadiene, 4-methoxy-4-methyl-
+##MOLFORM=C7H12O
+##CAS REGISTRY NO=49833-91-2
+##MP= -300
+##BP= -300
+##MW= 112
+##$RETENTION INDEX=0
+##$CONDENSED SPECTRUM=NO
+##NPOINTS= 14
+##XYDATA=(XY..XY) 1 
+    39        300
+    41        320
+    43        370
+    45         60
+    53        120
+    55        280
+    65         50
+    67         60
+    73        999
+    79         50
+    81         50
+    83         60
+    97         30
+   112          1
