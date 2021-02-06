@@ -59,7 +59,7 @@ class MassPreserveSmilesOrdering(OrderingBase):
 
         for i in range(len(vertex_arr)):
             for j in range(len(vertex_arr)):
-                new_E[i][j] = old_E[new_orders[i]][new_orders[j]]
+                new_E[i][j] = E[new_orders[i]][new_orders[j]]
         return new_E, np.array(vertex_arr)[new_orders]
 
 class SvdOrdering(OrderingBase):

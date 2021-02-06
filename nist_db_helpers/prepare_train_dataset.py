@@ -13,17 +13,25 @@ d_n = 800
 func_group_idxs = None
 
 def is_valid_mol(
-        mol=None, func_group=None, allow_molecules=None, max_constraint=None,
+        mol=None, func_groups=None, allow_molecules=None, max_constraint=None,
 ):
     cwd = os.path.dirname(__file__)
     path_smart = os.path.join(os.path.dirname(cwd), "./data/smarts.json")
     with open(path_smart) as json_file:
         # Validate functional group
         func_group_mapping = json.load(json_file)
-        smart_rep = func_group_mapping[func_group]
-        smart_rep_group = Chem.MolFromSmarts(smart_rep)
-        matches = mol.GetSubstructMatches(smart_rep_group)
-        if len(matches) == 0:
+        is_match = False
+        for func_group in func_groups:	
+            smart_rep = func_group_mapping[func_group]
+            smart_rep_group = Chem.MolFromSmarts(smart_rep)
+            matches = mol.GetSubstructMatches(smart_rep_group)
+            if len(matches) != 0:
+                is_match = True
+                break
+        if not is_match:
+            return False            
+
+        if len(mol.GetAtoms()) > max_atoms:
             return False
 
         # validate allow molecules
@@ -83,13 +91,13 @@ def generate_mols_msp():
                 print(e)
 
 def count_max_and_unique_atoms_from_smart(
-        func_group=None, allow_molecules=None, max_constraint=None,
+        func_groups=None, allow_molecules=None, max_constraint=None,
 ):
     atom_type_set = set()
     max_atoms = 0
     for mol, _ in generate_mols_msp():
         if is_valid_mol(
-            mol=mol, func_group=func_group, allow_molecules=allow_molecules, max_constraint=max_constraint,
+            mol=mol, func_groups=func_groups, allow_molecules=allow_molecules, max_constraint=max_constraint,
         ):
             max_atoms = max(max_atoms, len(mol.GetAtoms()))
             for a in mol.GetAtoms():
@@ -131,7 +139,7 @@ def smiles_ordering(mol):
     return mol
 
 def prepare_training(
-        func_group=None, allow_molecules=None, max_constraint=None,
+        func_groups=None, allow_molecules=None, max_constraint=None,
         possible_bonds=None, max_atoms=None,
 ):
     all_mol_vertex_arr = []
@@ -141,7 +149,7 @@ def prepare_training(
     for mol, spikes in generate_mols_msp():
         mol = smiles_ordering(mol)
         if is_valid_mol(
-                mol=mol, func_group=func_group, allow_molecules=allow_molecules,
+                mol=mol, func_groups=func_groups, allow_molecules=allow_molecules,
                 max_constraint=max_constraint,
         ):
             vertex_arr = extract_vertex_idxes(mol, allow_molecules)
@@ -152,13 +160,13 @@ def prepare_training(
             all_mol_vertex_arr.append(updated_vertex_arr)
             all_msp_arr.append(spikes)
             all_mol_adj_arr.append(updated_E)
-    np.save("../output/vertex_arr_sort_svd.npy", all_mol_vertex_arr)
-    np.save("../output/mol_adj_arr_sort_svd.npy", all_mol_adj_arr)
+    np.save("vertex_arr_sort_svd.npy", all_mol_vertex_arr)
+    np.save("mol_adj_arr_sort_svd.npy", all_mol_adj_arr)
     np.save("msp_arr.npy", all_msp_arr)
 
-func_group = "ester"
-allow_molecules = ["C", "H", "O", "N", "P", "S"]
-max_constraint = [("C", 5)]
+func_groups = ["ester","amide"]
+allow_molecules = ["C", "H", "O", "N"]
+max_constraint = [("C", 11)]
 possible_bonds = [BondType.SINGLE, BondType.DOUBLE, BondType.TRIPLE]
 max_atoms = 13
 # atom_type_set, max_atoms = count_max_and_unique_atoms_from_smart(
@@ -168,7 +176,7 @@ max_atoms = 13
 # max_atoms: 13
 
 prepare_training(
-    func_group=func_group, allow_molecules=allow_molecules, max_constraint=max_constraint,
+    func_groups=func_groups, allow_molecules=allow_molecules, max_constraint=max_constraint,
     possible_bonds=possible_bonds, max_atoms=max_atoms,
 )
 a = 1
