@@ -6,9 +6,11 @@ from collections import defaultdict
 import numpy as np
 from rdkit.Chem.rdchem import BondType
 import util
-from ordering import SvdOrdering
+from ordering import SvdOrdering, MassPreserveSmilesOrdering
 
 d_n = 800
+
+func_group_idxs = None
 
 def is_valid_mol(
         mol=None, func_group=None, allow_molecules=None, max_constraint=None,
@@ -43,6 +45,12 @@ def is_valid_mol(
             if atom in mol_freq and mol_freq[atom] > freq:
                 return False
 
+        print("A")
+        print(matches)
+        print([x.GetSymbol() for x in smart_rep_group.GetAtoms()])
+        print([x.GetSymbol() for x in mol.GetAtoms()])
+        global func_group_idxs
+        func_group_idxs = np.array(matches[0])
         return True
     return False
 
@@ -110,8 +118,17 @@ def extract_adj_matrix_and_order_vertices(mol, possible_bonds, vertex_arr, max_a
         E[begin_idx, end_idx] = np.argmax(float_array) + 1
         E[end_idx, begin_idx] = np.argmax(float_array) + 1
     # extract
-    updated_E, updated_vertex_arr = SvdOrdering.order(E, vertex_arr)
+    print("B")
+    print(np.array(E)[func_group_idxs][:, func_group_idxs])
+    print(np.array(vertex_arr)[func_group_idxs])
+    # updated_E, updated_vertex_arr = SvdOrdering.order(E, vertex_arr)
+    updated_E, updated_vertex_arr = MassPreserveSmilesOrdering.order(E, vertex_arr, func_group_idxs=func_group_idxs)
     return updated_E, updated_vertex_arr
+
+def smiles_ordering(mol):
+    smiles = Chem.MolToSmiles(mol)
+    mol = Chem.MolFromSmiles(smiles)
+    return mol
 
 def prepare_training(
         func_group=None, allow_molecules=None, max_constraint=None,
@@ -122,6 +139,7 @@ def prepare_training(
     all_msp_arr = []
     max_spike = -1
     for mol, spikes in generate_mols_msp():
+        mol = smiles_ordering(mol)
         if is_valid_mol(
                 mol=mol, func_group=func_group, allow_molecules=allow_molecules,
                 max_constraint=max_constraint,
@@ -148,6 +166,7 @@ max_atoms = 13
 # )
 # atom_type_set: ("N", "C", "O", "S", "P")
 # max_atoms: 13
+
 prepare_training(
     func_group=func_group, allow_molecules=allow_molecules, max_constraint=max_constraint,
     possible_bonds=possible_bonds, max_atoms=max_atoms,

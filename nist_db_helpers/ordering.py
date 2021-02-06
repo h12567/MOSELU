@@ -41,6 +41,27 @@ class OrderingBase:
         vertex_arr[j] = temp
         return vertex_arr
 
+class MassPreserveSmilesOrdering(OrderingBase):
+    @classmethod
+    def order(cls, E, vertex_arr, func_group_idxs=None):
+        new_E = copy.deepcopy(E)
+        new_orders = func_group_idxs
+        remain_atom_idxs = list(range(len(vertex_arr)))
+        for x in new_orders:
+            remain_atom_idxs.remove(x)
+        
+        while len(remain_atom_idxs) > 0:
+            remain_atoms = np.array(vertex_arr)[remain_atom_idxs]
+            min_atom_orig_idx = remain_atom_idxs[np.argmin(remain_atoms)]
+            new_orders = np.append(new_orders, min_atom_orig_idx)
+            remain_atom_idxs.remove(min_atom_orig_idx)
+        b = 1
+
+        for i in range(len(vertex_arr)):
+            for j in range(len(vertex_arr)):
+                new_E[i][j] = old_E[new_orders[i]][new_orders[j]]
+        return new_E, np.array(vertex_arr)[new_orders]
+
 class SvdOrdering(OrderingBase):
     @classmethod
     def order(cls, E, vertex_arr):
@@ -51,7 +72,6 @@ class SvdOrdering(OrderingBase):
         atoms_repr = np.dot(u, np.diag(s))
         # iterate through each atom types
         current_adj_row_idx = 0
-
 
         '''
         steps
