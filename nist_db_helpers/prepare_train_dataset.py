@@ -59,7 +59,7 @@ def is_valid_mol(
         print([x.GetSymbol() for x in mol.GetAtoms()])
         global func_group_idxs
         func_group_idxs = np.array(matches[0])
-        return True
+        return func_group
     return False
 
 def generate_mols_msp():
@@ -145,13 +145,15 @@ def prepare_training(
     all_mol_vertex_arr = []
     all_mol_adj_arr = []
     all_msp_arr = []
+    all_func_group = []
     max_spike = -1
     for mol, spikes in generate_mols_msp():
         mol = smiles_ordering(mol)
-        if is_valid_mol(
+        func_group = is_valid_mol(
                 mol=mol, func_groups=func_groups, allow_molecules=allow_molecules,
                 max_constraint=max_constraint,
-        ):
+        )
+        if func_group:
             vertex_arr = extract_vertex_idxes(mol, allow_molecules)
             max_spike = max(max(spikes), max_spike)
             updated_E, updated_vertex_arr = extract_adj_matrix_and_order_vertices(
@@ -160,15 +162,21 @@ def prepare_training(
             all_mol_vertex_arr.append(updated_vertex_arr)
             all_msp_arr.append(spikes)
             all_mol_adj_arr.append(updated_E)
+            all_func_group.append(func_group)
     np.save("vertex_arr_sort_svd.npy", all_mol_vertex_arr)
     np.save("mol_adj_arr_sort_svd.npy", all_mol_adj_arr)
     np.save("msp_arr.npy", all_msp_arr)
+    np.save("func_groups.npy", all_func_group)
 
-func_groups = ["ester","amide"]
+func_groups = ["ester", "ether"]
 allow_molecules = ["C", "H", "O", "N"]
 max_constraint = [("C", 11)]
 possible_bonds = [BondType.SINGLE, BondType.DOUBLE, BondType.TRIPLE]
 max_atoms = 13
+
+#(array(['aldehyde', 'amide', 'ester', 'ether', 'hydroxyl', 'ketone'],
+#      dtype='<U8'), array([ 355, 1059, 2322, 2544, 3004, 1488]))
+
 # atom_type_set, max_atoms = count_max_and_unique_atoms_from_smart(
 #     func_group=func_group, allow_molecules=allow_molecules, max_constraint=max_constraint,
 # )
